@@ -1,0 +1,75 @@
+[DOCLING_PAGE 1]
+
+CONSORT 2010 checklist of information to include when reporting a randomised trial*
+
+[DOCLING_TABLE rows=21 columns=4]
+| Section/Topic | Item No | Checklist item | Reported on page No |
+| Title and abstract |  |  |  |
+|  | 1a | Identification as a randomised trial in the title | 1 |
+|  | 1b | Structured summary of trial design, methods, results, and conclusions (for specific guidance see CONSORT for abstracts) | 3-4 |
+| Introduction |  |  |  |
+| Background and | 2a | Scientific background and explanation of rationale | 6 |
+| objectives | 2b | Specific objectives or hypotheses | 6 |
+| Methods |  |  |  |
+| Trial design | 3a | Description of trial design (such as parallel, factorial) including allocation ratio | 6-7 |
+|  | 3b | Important changes to methods after trial commencement (such as eligibility criteria), with reasons | NA |
+| Participants | 4a | Eligibility criteria for participants | 7 |
+|  | 4b | Settings and locations where the data were collected | N Engl J Med 2022;386:1303 |
+| Interventions | 5 | The interventions for each group with sufficient details to allow replication, including how and when they were actually administered | 7-8 |
+| Outcomes | 6a | Completely defined pre-specified primary and secondary outcome measures, including how and when they were assessed | 9-10 |
+|  | 6b | Any changes to trial outcomes after the trial commenced, with reasons | NA |
+| Sample size | 7a | How sample size was determined | N Engl J Med 2022;386:1303 |
+|  | 7b | When applicable, explanation of any interim analyses and stopping guidelines | NA |
+| Randomisation: |  |  |  |
+| Sequence generation | 8a | Method used to generate the random allocation sequence | N Engl J Med 2022;386:1303 |
+|  | 8b | Type of randomisation; details of any restriction (such as blocking and block size) | N Engl J Med 2022;386:1303 |
+| Allocation concealment | 9 | Mechanism used to implement the random allocation sequence (such as sequentially numbered containers), describing any steps taken to conceal the sequence until interventions were assigned | N Engl J Med 2022;386:1303 |
+[/DOCLING_TABLE]
+
+CONSORT 2010 checklist
+
+Page 1
+
+[DOCLING_PAGE 2]
+
+[DOCLING_TABLE rows=21 columns=4]
+| mechanism Implementation | 10 | Who generated the random allocation sequence, who enrolled participants, and who assigned participants to interventions | N Engl J Med 2022;386:1303 |
+| Blinding | 11a | If done, who was blinded after assignment to interventions (for example, participants, care providers, those assessing outcomes) and how | N Engl J Med 2022;386:1303 |
+|  | 11b | If relevant, description of the similarity of interventions | NA |
+| Statistical methods | 12a | Statistical methods used to compare groups for primary and secondary outcomes | 9-11 |
+|  | 12b | Methods for additional analyses, such as subgroup analyses and adjusted analyses | 9-11 |
+| Results |  |  |  |
+| Participant flow (a diagram is strongly | 13a | For each group, the numbers of participants who were randomly assigned, received intended treatment, and were analysed for the primary outcome | 11, Figure1 |
+| recommended) | 13b | For each group, losses and exclusions after randomisation, together with reasons | 11, Figure1 |
+| Recruitment | 14a | Dates defining the periods of recruitment and follow-up | N Engl J Med 2022;386:1303 |
+|  | 14b | Why the trial ended or was stopped | NA |
+| Baseline data | 15 | A table showing baseline demographic and clinical characteristics for each group | Table1 |
+| Numbers analysed | 16 | For each group, number of participants (denominator) included in each analysis and whether the analysis was by original assigned groups | 11 |
+| Outcomes and estimation | 17a | For each primary and secondary outcome, results for each group, and the estimated effect size and its precision (such as 95% confidence interval) | 11-13, Figure 2,3,4,sup fig |
+|  | 17b | For binary outcomes, presentation of both absolute and relative effect sizes is recommended | 9-11, Figure 2,3,4, sup fig |
+| Ancillary analyses | 18 | Results of any other analyses performed, including subgroup analyses and adjusted analyses, distinguishing pre-specified from exploratory | 11-13, |
+| Harms | 19 | All important harms or unintended effects in each group (for specific guidance see CONSORT for harms) | Table1 |
+| Discussion |  |  |  |
+| Limitations | 20 | Trial limitations, addressing sources of potential bias, imprecision, and, if relevant, multiplicity of analyses | 16-17 |
+| Generalisability | 21 | Generalisability (external validity, applicability) of the trial findings | 16-17 |
+| Interpretation | 22 | Interpretation consistent with results, balancing benefits and harms, and considering other relevant evidence | 13-17 |
+| Other information |  |  |  |
+[/DOCLING_TABLE]
+
+CONSORT 2010 checklist
+
+Page 2
+
+[DOCLING_PAGE 3]
+
+[DOCLING_TABLE rows=3 columns=4]
+| Registration | 23 | Registration number and name of trial registry | NCT03702413, RESCUE-Japan LIMIT |
+| Protocol | 24 | Where the full trial protocol can be accessed, if available | Neurol Med Chir |
+| Funding | 25 | Sources of funding and other support (such as supply of drugs), role of funders | 17 |
+[/DOCLING_TABLE]
+
+*We strongly recommend reading this statement in conjunction with the CONSORT 2010 Explanation and Elaboration for important clarifications on all the items. If relevant, we also recommend reading CONSORT extensions for cluster randomised trials, non-inferiority and equivalence trials, non-pharmacological treatments, herbal interventions, and pragmatic trials. Additional extensions are forthcoming: for those and for up to date references relevant to this checklist, see www.consort-statement.org.
+
+CONSORT 2010 checklist
+
+Page 3

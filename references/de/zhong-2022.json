@@ -1,0 +1,494 @@
+{
+  "case_id": "zhong-2022",
+  "study_target_cells": [
+    {
+      "study_key": "borgi.severe_bronchiolitis",
+      "target_id": "result.treatment_failure",
+      "values": null,
+      "evidence": [],
+      "reason": "HFNC failures are direct, but the comparator failure count would require reversing a rounded success percentage."
+    },
+    {
+      "study_key": "vahlkvist.viral_bronchiolitis",
+      "target_id": "result.treatment_failure",
+      "values": null,
+      "evidence": [],
+      "reason": "The abstract says failures were scarce but provides no exact arm-level events."
+    },
+    {
+      "study_key": "cesar.critical_bronchiolitis",
+      "target_id": "result.treatment_failure",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 13,
+        "intervention_group_size": 35,
+        "comparator_events": 10,
+        "comparator_group_size": 28
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 13,
+          "document_key": "cesar.pubmed",
+          "source_path": "originals/cesar-primary/publisher.pdf",
+          "source_sha256": "ab0bbcf8e667b26f8b80433bb0d6c2290505fb58d3e8946b4dcc43c449bcb8cf",
+          "view_sha256": "ce813fd17576e5da180827ac356bdc714b66dee567b1f6526edcd60985fae3a3",
+          "quote": "| Primary treatment failure, n (%) | 23 (36.5%) | 10 (35.7%) | 13 (37.1%) | 0.88 |"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 35,
+          "document_key": "cesar.pubmed",
+          "source_path": "originals/cesar-primary/publisher.pdf",
+          "source_sha256": "ab0bbcf8e667b26f8b80433bb0d6c2290505fb58d3e8946b4dcc43c449bcb8cf",
+          "view_sha256": "ce813fd17576e5da180827ac356bdc714b66dee567b1f6526edcd60985fae3a3",
+          "quote": "|  | All ( n ¼ 63) | CPAP ( n ¼ 28) | HFNC ( n ¼ 35) | p- Value |"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 10,
+          "document_key": "cesar.pubmed",
+          "source_path": "originals/cesar-primary/publisher.pdf",
+          "source_sha256": "ab0bbcf8e667b26f8b80433bb0d6c2290505fb58d3e8946b4dcc43c449bcb8cf",
+          "view_sha256": "ce813fd17576e5da180827ac356bdc714b66dee567b1f6526edcd60985fae3a3",
+          "quote": "| Primary treatment failure, n (%) | 23 (36.5%) | 10 (35.7%) | 13 (37.1%) | 0.88 |"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 28,
+          "document_key": "cesar.pubmed",
+          "source_path": "originals/cesar-primary/publisher.pdf",
+          "source_sha256": "ab0bbcf8e667b26f8b80433bb0d6c2290505fb58d3e8946b4dcc43c449bcb8cf",
+          "view_sha256": "ce813fd17576e5da180827ac356bdc714b66dee567b1f6526edcd60985fae3a3",
+          "quote": "|  | All ( n ¼ 63) | CPAP ( n ¼ 28) | HFNC ( n ¼ 35) | p- Value |"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "sarkar.acute_bronchiolitis",
+      "target_id": "result.treatment_failure",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 1,
+        "intervention_group_size": 15,
+        "comparator_events": 1,
+        "comparator_group_size": 16
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 1,
+          "document_key": "sarkar.pmc",
+          "source_path": "documents/sarkar/source.xml",
+          "source_sha256": "7aee79bb3c99ac942604750be7b08caa0a61162cb476ea0035c3c5d8821d8130",
+          "quote": "One patient in each group had NIV failure and had to be intubated; hence, intubation rates were similar in both groups ( P = 0.29).",
+          "view_sha256": "7ef2d37992474c07e12dce5913986c4bad78e9fc44ad863897573b1b5d7c037d"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 15,
+          "document_key": "sarkar.pmc",
+          "source_path": "documents/sarkar/source.xml",
+          "source_sha256": "7aee79bb3c99ac942604750be7b08caa0a61162cb476ea0035c3c5d8821d8130",
+          "quote": "The flow chart of study progress has been reported in Figure 1 . From September 2016 to February 2017, 62 patients were admitted with the clinical diagnosis of bronchiolitis in our hospital. Thirty-five patients met the inclusion criteria. A total of 31 patients were randomized, 16 were allocated in nCPAP group and 15 in HHHFNC Group. Two patients were excluded for the need of immediate intubation, and two patients were excluded for hemodynamic instability. Mean age was 3.41 ± 1.11 months. There were no differences in baseline respiratory support parameters between groups [ Table 1 ].",
+          "view_sha256": "7ef2d37992474c07e12dce5913986c4bad78e9fc44ad863897573b1b5d7c037d"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 1,
+          "document_key": "sarkar.pmc",
+          "source_path": "documents/sarkar/source.xml",
+          "source_sha256": "7aee79bb3c99ac942604750be7b08caa0a61162cb476ea0035c3c5d8821d8130",
+          "quote": "One patient in each group had NIV failure and had to be intubated; hence, intubation rates were similar in both groups ( P = 0.29).",
+          "view_sha256": "7ef2d37992474c07e12dce5913986c4bad78e9fc44ad863897573b1b5d7c037d"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 16,
+          "document_key": "sarkar.pmc",
+          "source_path": "documents/sarkar/source.xml",
+          "source_sha256": "7aee79bb3c99ac942604750be7b08caa0a61162cb476ea0035c3c5d8821d8130",
+          "quote": "The flow chart of study progress has been reported in Figure 1 . From September 2016 to February 2017, 62 patients were admitted with the clinical diagnosis of bronchiolitis in our hospital. Thirty-five patients met the inclusion criteria. A total of 31 patients were randomized, 16 were allocated in nCPAP group and 15 in HHHFNC Group. Two patients were excluded for the need of immediate intubation, and two patients were excluded for hemodynamic instability. Mean age was 3.41 ± 1.11 months. There were no differences in baseline respiratory support parameters between groups [ Table 1 ].",
+          "view_sha256": "7ef2d37992474c07e12dce5913986c4bad78e9fc44ad863897573b1b5d7c037d"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "milesi.tramontane",
+      "target_id": "result.treatment_failure",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 36,
+        "intervention_group_size": 71,
+        "comparator_events": 22,
+        "comparator_group_size": 71
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 36,
+          "document_key": "milesi.pubmed",
+          "source_path": "originals/milesi-primary/publisher.pdf",
+          "source_sha256": "1c489aa6e9950fbcaa56510127a294871c8ec6ef0f7e5a23b18a952e8b0e3477",
+          "view_sha256": "dab5dbed64557a43f4a9af437972aeca2510e2d9fd4548808420e133ee346633",
+          "quote": "| Patients with at least one failure, n (%) | 22 (31.0) | 36 (50.7) | 0.001 |"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 71,
+          "document_key": "milesi.pubmed",
+          "source_path": "originals/milesi-primary/publisher.pdf",
+          "source_sha256": "1c489aa6e9950fbcaa56510127a294871c8ec6ef0f7e5a23b18a952e8b0e3477",
+          "view_sha256": "dab5dbed64557a43f4a9af437972aeca2510e2d9fd4548808420e133ee346633",
+          "quote": "|  | nCPAP ( n = 71) | HFNC ( n = 71) | p |"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 22,
+          "document_key": "milesi.pubmed",
+          "source_path": "originals/milesi-primary/publisher.pdf",
+          "source_sha256": "1c489aa6e9950fbcaa56510127a294871c8ec6ef0f7e5a23b18a952e8b0e3477",
+          "view_sha256": "dab5dbed64557a43f4a9af437972aeca2510e2d9fd4548808420e133ee346633",
+          "quote": "| Patients with at least one failure, n (%) | 22 (31.0) | 36 (50.7) | 0.001 |"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 71,
+          "document_key": "milesi.pubmed",
+          "source_path": "originals/milesi-primary/publisher.pdf",
+          "source_sha256": "1c489aa6e9950fbcaa56510127a294871c8ec6ef0f7e5a23b18a952e8b0e3477",
+          "view_sha256": "dab5dbed64557a43f4a9af437972aeca2510e2d9fd4548808420e133ee346633",
+          "quote": "|  | nCPAP ( n = 71) | HFNC ( n = 71) | p |"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "borgi.severe_bronchiolitis",
+      "target_id": "result.intubation",
+      "values": null,
+      "evidence": [],
+      "reason": "The primary table reports rounded percentages rather than exact arm-level intubation events."
+    },
+    {
+      "study_key": "vahlkvist.viral_bronchiolitis",
+      "target_id": "result.intubation",
+      "values": null,
+      "evidence": [],
+      "reason": "The available abstract does not report intubation counts and the full report is unavailable."
+    },
+    {
+      "study_key": "cesar.critical_bronchiolitis",
+      "target_id": "result.intubation",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 7,
+        "intervention_group_size": 35,
+        "comparator_events": 3,
+        "comparator_group_size": 28
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 7,
+          "document_key": "cesar.pubmed",
+          "source_path": "originals/cesar-primary/publisher.pdf",
+          "source_sha256": "ab0bbcf8e667b26f8b80433bb0d6c2290505fb58d3e8946b4dcc43c449bcb8cf",
+          "view_sha256": "ce813fd17576e5da180827ac356bdc714b66dee567b1f6526edcd60985fae3a3",
+          "quote": "| Intubation, n (%) | 10 (15.9%) | 3 (10.7%) | 7 (20%) | 0.49 |"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 35,
+          "document_key": "cesar.pubmed",
+          "source_path": "originals/cesar-primary/publisher.pdf",
+          "source_sha256": "ab0bbcf8e667b26f8b80433bb0d6c2290505fb58d3e8946b4dcc43c449bcb8cf",
+          "view_sha256": "ce813fd17576e5da180827ac356bdc714b66dee567b1f6526edcd60985fae3a3",
+          "quote": "|  | All ( n ¼ 63) | CPAP ( n ¼ 28) | HFNC ( n ¼ 35) | p- Value |"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 3,
+          "document_key": "cesar.pubmed",
+          "source_path": "originals/cesar-primary/publisher.pdf",
+          "source_sha256": "ab0bbcf8e667b26f8b80433bb0d6c2290505fb58d3e8946b4dcc43c449bcb8cf",
+          "view_sha256": "ce813fd17576e5da180827ac356bdc714b66dee567b1f6526edcd60985fae3a3",
+          "quote": "| Intubation, n (%) | 10 (15.9%) | 3 (10.7%) | 7 (20%) | 0.49 |"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 28,
+          "document_key": "cesar.pubmed",
+          "source_path": "originals/cesar-primary/publisher.pdf",
+          "source_sha256": "ab0bbcf8e667b26f8b80433bb0d6c2290505fb58d3e8946b4dcc43c449bcb8cf",
+          "view_sha256": "ce813fd17576e5da180827ac356bdc714b66dee567b1f6526edcd60985fae3a3",
+          "quote": "|  | All ( n ¼ 63) | CPAP ( n ¼ 28) | HFNC ( n ¼ 35) | p- Value |"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "sarkar.acute_bronchiolitis",
+      "target_id": "result.intubation",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 1,
+        "intervention_group_size": 15,
+        "comparator_events": 1,
+        "comparator_group_size": 16
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 1,
+          "document_key": "sarkar.pmc",
+          "source_path": "documents/sarkar/source.xml",
+          "source_sha256": "7aee79bb3c99ac942604750be7b08caa0a61162cb476ea0035c3c5d8821d8130",
+          "quote": "One patient in each group had NIV failure and had to be intubated; hence, intubation rates were similar in both groups ( P = 0.29).",
+          "view_sha256": "7ef2d37992474c07e12dce5913986c4bad78e9fc44ad863897573b1b5d7c037d"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 15,
+          "document_key": "sarkar.pmc",
+          "source_path": "documents/sarkar/source.xml",
+          "source_sha256": "7aee79bb3c99ac942604750be7b08caa0a61162cb476ea0035c3c5d8821d8130",
+          "quote": "A total of 31 patients were randomized, 16 were allocated in nCPAP group and 15 in HHHFNC Group.",
+          "view_sha256": "7ef2d37992474c07e12dce5913986c4bad78e9fc44ad863897573b1b5d7c037d"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 1,
+          "document_key": "sarkar.pmc",
+          "source_path": "documents/sarkar/source.xml",
+          "source_sha256": "7aee79bb3c99ac942604750be7b08caa0a61162cb476ea0035c3c5d8821d8130",
+          "quote": "One patient in each group had NIV failure and had to be intubated; hence, intubation rates were similar in both groups ( P = 0.29).",
+          "view_sha256": "7ef2d37992474c07e12dce5913986c4bad78e9fc44ad863897573b1b5d7c037d"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 16,
+          "document_key": "sarkar.pmc",
+          "source_path": "documents/sarkar/source.xml",
+          "source_sha256": "7aee79bb3c99ac942604750be7b08caa0a61162cb476ea0035c3c5d8821d8130",
+          "quote": "A total of 31 patients were randomized, 16 were allocated in nCPAP group and 15 in HHHFNC Group.",
+          "view_sha256": "7ef2d37992474c07e12dce5913986c4bad78e9fc44ad863897573b1b5d7c037d"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "milesi.tramontane",
+      "target_id": "result.intubation",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 5,
+        "intervention_group_size": 71,
+        "comparator_events": 3,
+        "comparator_group_size": 71
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 5,
+          "document_key": "milesi.pubmed",
+          "source_path": "originals/milesi-primary/publisher.pdf",
+          "source_sha256": "1c489aa6e9950fbcaa56510127a294871c8ec6ef0f7e5a23b18a952e8b0e3477",
+          "view_sha256": "dab5dbed64557a43f4a9af437972aeca2510e2d9fd4548808420e133ee346633",
+          "quote": "| Intubation, n (%) | 3 (4.2) | 5 (6.9) | 0.72 |"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 71,
+          "document_key": "milesi.pubmed",
+          "source_path": "originals/milesi-primary/publisher.pdf",
+          "source_sha256": "1c489aa6e9950fbcaa56510127a294871c8ec6ef0f7e5a23b18a952e8b0e3477",
+          "view_sha256": "dab5dbed64557a43f4a9af437972aeca2510e2d9fd4548808420e133ee346633",
+          "quote": "|  | nCPAP ( n = 71) | HFNC ( n = 71) | p |"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 3,
+          "document_key": "milesi.pubmed",
+          "source_path": "originals/milesi-primary/publisher.pdf",
+          "source_sha256": "1c489aa6e9950fbcaa56510127a294871c8ec6ef0f7e5a23b18a952e8b0e3477",
+          "view_sha256": "dab5dbed64557a43f4a9af437972aeca2510e2d9fd4548808420e133ee346633",
+          "quote": "| Intubation, n (%) | 3 (4.2) | 5 (6.9) | 0.72 |"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 71,
+          "document_key": "milesi.pubmed",
+          "source_path": "originals/milesi-primary/publisher.pdf",
+          "source_sha256": "1c489aa6e9950fbcaa56510127a294871c8ec6ef0f7e5a23b18a952e8b0e3477",
+          "view_sha256": "dab5dbed64557a43f4a9af437972aeca2510e2d9fd4548808420e133ee346633",
+          "quote": "|  | nCPAP ( n = 71) | HFNC ( n = 71) | p |"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "borgi.severe_bronchiolitis",
+      "target_id": "result.picu_length_of_stay",
+      "values": null,
+      "evidence": [],
+      "reason": "The primary table labels 5.9/4.1 versus 6.7/5.6 as length of hospitalization, not PICU length of stay; the Review mapping is retained only as a review-reported assertion."
+    },
+    {
+      "study_key": "vahlkvist.viral_bronchiolitis",
+      "target_id": "result.picu_length_of_stay",
+      "values": null,
+      "evidence": [],
+      "reason": "The abstract reports no exact PICU mean/SD/N row and the full report is unavailable."
+    },
+    {
+      "study_key": "cesar.critical_bronchiolitis",
+      "target_id": "result.picu_length_of_stay",
+      "values": null,
+      "evidence": [],
+      "reason": "PICU length of stay is reported as median and range/IQR; M0 does not convert it to mean/SD."
+    },
+    {
+      "study_key": "sarkar.acute_bronchiolitis",
+      "target_id": "result.picu_length_of_stay",
+      "values": {
+        "result_type": "CONTINUOUS",
+        "intervention_mean": 5.0,
+        "intervention_standard_deviation": 1.6,
+        "intervention_group_size": 15,
+        "comparator_mean": 5.0,
+        "comparator_standard_deviation": 1.788,
+        "comparator_group_size": 16
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_mean",
+          "value": 5.0,
+          "document_key": "sarkar.pmc",
+          "source_path": "documents/sarkar/source.xml",
+          "source_sha256": "7aee79bb3c99ac942604750be7b08caa0a61162cb476ea0035c3c5d8821d8130",
+          "quote": "Average PICU LOS on nCPAP (5 ± 1.788 days) and HHHFNC (5 ± 1.6 days) were also comparable ( P = 0.105).",
+          "view_sha256": "7ef2d37992474c07e12dce5913986c4bad78e9fc44ad863897573b1b5d7c037d"
+        },
+        {
+          "canonical_field": "intervention_standard_deviation",
+          "value": 1.6,
+          "document_key": "sarkar.pmc",
+          "source_path": "documents/sarkar/source.xml",
+          "source_sha256": "7aee79bb3c99ac942604750be7b08caa0a61162cb476ea0035c3c5d8821d8130",
+          "quote": "Average PICU LOS on nCPAP (5 ± 1.788 days) and HHHFNC (5 ± 1.6 days) were also comparable ( P = 0.105).",
+          "view_sha256": "7ef2d37992474c07e12dce5913986c4bad78e9fc44ad863897573b1b5d7c037d"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 15,
+          "document_key": "sarkar.pmc",
+          "source_path": "documents/sarkar/source.xml",
+          "source_sha256": "7aee79bb3c99ac942604750be7b08caa0a61162cb476ea0035c3c5d8821d8130",
+          "quote": "A total of 31 patients were randomized, 16 were allocated in nCPAP group and 15 in HHHFNC Group.",
+          "view_sha256": "7ef2d37992474c07e12dce5913986c4bad78e9fc44ad863897573b1b5d7c037d"
+        },
+        {
+          "canonical_field": "comparator_mean",
+          "value": 5.0,
+          "document_key": "sarkar.pmc",
+          "source_path": "documents/sarkar/source.xml",
+          "source_sha256": "7aee79bb3c99ac942604750be7b08caa0a61162cb476ea0035c3c5d8821d8130",
+          "quote": "Average PICU LOS on nCPAP (5 ± 1.788 days) and HHHFNC (5 ± 1.6 days) were also comparable ( P = 0.105).",
+          "view_sha256": "7ef2d37992474c07e12dce5913986c4bad78e9fc44ad863897573b1b5d7c037d"
+        },
+        {
+          "canonical_field": "comparator_standard_deviation",
+          "value": 1.788,
+          "document_key": "sarkar.pmc",
+          "source_path": "documents/sarkar/source.xml",
+          "source_sha256": "7aee79bb3c99ac942604750be7b08caa0a61162cb476ea0035c3c5d8821d8130",
+          "quote": "Average PICU LOS on nCPAP (5 ± 1.788 days) and HHHFNC (5 ± 1.6 days) were also comparable ( P = 0.105).",
+          "view_sha256": "7ef2d37992474c07e12dce5913986c4bad78e9fc44ad863897573b1b5d7c037d"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 16,
+          "document_key": "sarkar.pmc",
+          "source_path": "documents/sarkar/source.xml",
+          "source_sha256": "7aee79bb3c99ac942604750be7b08caa0a61162cb476ea0035c3c5d8821d8130",
+          "quote": "A total of 31 patients were randomized, 16 were allocated in nCPAP group and 15 in HHHFNC Group.",
+          "view_sha256": "7ef2d37992474c07e12dce5913986c4bad78e9fc44ad863897573b1b5d7c037d"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "milesi.tramontane",
+      "target_id": "result.picu_length_of_stay",
+      "values": {
+        "result_type": "CONTINUOUS",
+        "intervention_mean": 6.2,
+        "intervention_standard_deviation": 6.0,
+        "intervention_group_size": 71,
+        "comparator_mean": 7.5,
+        "comparator_standard_deviation": 13.0,
+        "comparator_group_size": 71
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_mean",
+          "value": 6.2,
+          "document_key": "milesi.pubmed",
+          "source_path": "originals/milesi-primary/publisher.pdf",
+          "source_sha256": "1c489aa6e9950fbcaa56510127a294871c8ec6ef0f7e5a23b18a952e8b0e3477",
+          "view_sha256": "dab5dbed64557a43f4a9af437972aeca2510e2d9fd4548808420e133ee346633",
+          "quote": "| PICU LOS (days) | 7.5 (13) | 6.2 (6) | 0.44 |"
+        },
+        {
+          "canonical_field": "intervention_standard_deviation",
+          "value": 6.0,
+          "document_key": "milesi.pubmed",
+          "source_path": "originals/milesi-primary/publisher.pdf",
+          "source_sha256": "1c489aa6e9950fbcaa56510127a294871c8ec6ef0f7e5a23b18a952e8b0e3477",
+          "view_sha256": "dab5dbed64557a43f4a9af437972aeca2510e2d9fd4548808420e133ee346633",
+          "quote": "| PICU LOS (days) | 7.5 (13) | 6.2 (6) | 0.44 |"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 71,
+          "document_key": "milesi.pubmed",
+          "source_path": "originals/milesi-primary/publisher.pdf",
+          "source_sha256": "1c489aa6e9950fbcaa56510127a294871c8ec6ef0f7e5a23b18a952e8b0e3477",
+          "view_sha256": "dab5dbed64557a43f4a9af437972aeca2510e2d9fd4548808420e133ee346633",
+          "quote": "|  | nCPAP ( n = 71) | HFNC ( n = 71) | p |"
+        },
+        {
+          "canonical_field": "comparator_mean",
+          "value": 7.5,
+          "document_key": "milesi.pubmed",
+          "source_path": "originals/milesi-primary/publisher.pdf",
+          "source_sha256": "1c489aa6e9950fbcaa56510127a294871c8ec6ef0f7e5a23b18a952e8b0e3477",
+          "view_sha256": "dab5dbed64557a43f4a9af437972aeca2510e2d9fd4548808420e133ee346633",
+          "quote": "| PICU LOS (days) | 7.5 (13) | 6.2 (6) | 0.44 |"
+        },
+        {
+          "canonical_field": "comparator_standard_deviation",
+          "value": 13.0,
+          "document_key": "milesi.pubmed",
+          "source_path": "originals/milesi-primary/publisher.pdf",
+          "source_sha256": "1c489aa6e9950fbcaa56510127a294871c8ec6ef0f7e5a23b18a952e8b0e3477",
+          "view_sha256": "dab5dbed64557a43f4a9af437972aeca2510e2d9fd4548808420e133ee346633",
+          "quote": "| PICU LOS (days) | 7.5 (13) | 6.2 (6) | 0.44 |"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 71,
+          "document_key": "milesi.pubmed",
+          "source_path": "originals/milesi-primary/publisher.pdf",
+          "source_sha256": "1c489aa6e9950fbcaa56510127a294871c8ec6ef0f7e5a23b18a952e8b0e3477",
+          "view_sha256": "dab5dbed64557a43f4a9af437972aeca2510e2d9fd4548808420e133ee346633",
+          "quote": "|  | nCPAP ( n = 71) | HFNC ( n = 71) | p |"
+        }
+      ],
+      "reason": null
+    }
+  ]
+}

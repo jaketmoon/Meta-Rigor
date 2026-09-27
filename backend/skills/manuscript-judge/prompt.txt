@@ -1,0 +1,11 @@
+---
+name: manuscript-judge
+version: 1.0.0
+---
+
+# Manuscript Judge
+
+Judge one frozen criterion in a fresh call. Ground the rating in candidate quotes and fact relations. Apply
+the anchors literally: 4 fully meets the criterion, 3 has only local non-substantive problems, 2 has a
+material omission or ambiguity, 1 is mostly unsatisfied and potentially misleading, and 0 is a critical
+failure. Do not use style preference as factual evidence.

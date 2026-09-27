@@ -1,0 +1,500 @@
+{
+  "schema_version": "3.0.0",
+  "review_id": "lin_large_core_evt.review.2025",
+  "protocol_content": {
+    "schema_version": "3.0.0",
+    "protocol_id": "lin_large_core_evt.protocol.m0",
+    "title": "Endovascular thrombectomy for large-core ischemic stroke",
+    "research_question": "In adults with acute large-core ischemic stroke, compare endovascular thrombectomy plus medical care with medical care alone for the efficacy and safety outcomes defined in the Review methods.",
+    "review_criteria": "Randomized trials of internal carotid artery or middle cerebral artery M1 occlusion with ASPECTS 5 or lower or ischemic-core volume at least 50 mL, comparing endovascular thrombectomy plus medical care with medical care alone and reporting an efficacy or safety outcome defined below.",
+    "result_targets": [
+      {
+        "target_id": "result.functional_independence.mrs_0_2.day90",
+        "population": "Adults meeting the Review eligibility criteria.",
+        "intervention": {
+          "label": "endovascular thrombectomy",
+          "aliases": [
+            "endovascular thrombectomy",
+            "endovascular therapy",
+            "endovascular treatment",
+            "thrombectomy",
+            "EVT"
+          ]
+        },
+        "comparator": {
+          "label": "medical care alone",
+          "aliases": [
+            "medical care alone",
+            "medical management alone",
+            "usual medical care",
+            "medical therapy alone",
+            "medical care",
+            "medical management",
+            "medical treatment",
+            "medical therapy",
+            "control"
+          ]
+        },
+        "outcome": "Functional independence at 90 days",
+        "outcome_definition": "Modified Rankin Scale score 0 to 2.",
+        "timepoint": "90 days after stroke.",
+        "analysis_population": "Review intention-to-treat approach; use analyzed participants reported for the outcome.",
+        "selection_rule": "Extract arm-level events and analyzed participants for the defined outcome.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.ambulation.mrs_0_3.day90",
+        "population": "Adults meeting the Review eligibility criteria.",
+        "intervention": {
+          "label": "endovascular thrombectomy",
+          "aliases": [
+            "endovascular thrombectomy",
+            "endovascular therapy",
+            "endovascular treatment",
+            "thrombectomy",
+            "EVT"
+          ]
+        },
+        "comparator": {
+          "label": "medical care alone",
+          "aliases": [
+            "medical care alone",
+            "medical management alone",
+            "usual medical care",
+            "medical therapy alone",
+            "medical care",
+            "medical management",
+            "medical treatment",
+            "medical therapy",
+            "control"
+          ]
+        },
+        "outcome": "Ambulation at 90 days",
+        "outcome_definition": "Modified Rankin Scale score 0 to 3.",
+        "timepoint": "90 days after stroke.",
+        "analysis_population": "Review intention-to-treat approach; use analyzed participants reported for the outcome.",
+        "selection_rule": "Extract arm-level events and analyzed participants for the defined outcome.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.nondisabled.mrs_0_1.day90",
+        "population": "Adults meeting the Review eligibility criteria.",
+        "intervention": {
+          "label": "endovascular thrombectomy",
+          "aliases": [
+            "endovascular thrombectomy",
+            "endovascular therapy",
+            "endovascular treatment",
+            "thrombectomy",
+            "EVT"
+          ]
+        },
+        "comparator": {
+          "label": "medical care alone",
+          "aliases": [
+            "medical care alone",
+            "medical management alone",
+            "usual medical care",
+            "medical therapy alone",
+            "medical care",
+            "medical management",
+            "medical treatment",
+            "medical therapy",
+            "control"
+          ]
+        },
+        "outcome": "Nondisabled status at 90 days",
+        "outcome_definition": "Modified Rankin Scale score 0 to 1.",
+        "timepoint": "90 days after stroke.",
+        "analysis_population": "Review intention-to-treat approach; use analyzed participants reported for the outcome.",
+        "selection_rule": "Use a reported dichotomy or deterministically sum mutually exclusive mRS categories.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.early_neurologic_improvement",
+        "population": "Adults meeting the Review eligibility criteria.",
+        "intervention": {
+          "label": "endovascular thrombectomy",
+          "aliases": [
+            "endovascular thrombectomy",
+            "endovascular therapy",
+            "endovascular treatment",
+            "thrombectomy",
+            "EVT"
+          ]
+        },
+        "comparator": {
+          "label": "medical care alone",
+          "aliases": [
+            "medical care alone",
+            "medical management alone",
+            "usual medical care",
+            "medical therapy alone",
+            "medical care",
+            "medical management",
+            "medical treatment",
+            "medical therapy",
+            "control"
+          ]
+        },
+        "outcome": "Early neurologic improvement",
+        "outcome_definition": "Early neurologic improvement as prespecified by the trial.",
+        "timepoint": "Trial-prespecified early assessment.",
+        "analysis_population": "Review intention-to-treat approach; use analyzed participants reported for the outcome.",
+        "selection_rule": "Extract arm-level events and analyzed participants for the prespecified outcome.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.constant_care_or_death.mrs_5_6.day90",
+        "population": "Adults meeting the Review eligibility criteria.",
+        "intervention": {
+          "label": "endovascular thrombectomy",
+          "aliases": [
+            "endovascular thrombectomy",
+            "endovascular therapy",
+            "endovascular treatment",
+            "thrombectomy",
+            "EVT"
+          ]
+        },
+        "comparator": {
+          "label": "medical care alone",
+          "aliases": [
+            "medical care alone",
+            "medical management alone",
+            "usual medical care",
+            "medical therapy alone",
+            "medical care",
+            "medical management",
+            "medical treatment",
+            "medical therapy",
+            "control"
+          ]
+        },
+        "outcome": "Requiring constant care or death at 90 days",
+        "outcome_definition": "Modified Rankin Scale score 5 to 6.",
+        "timepoint": "90 days after stroke.",
+        "analysis_population": "Review intention-to-treat approach; use analyzed participants reported for the outcome.",
+        "selection_rule": "Use a reported dichotomy or deterministically sum mutually exclusive mRS categories.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.death.day90",
+        "population": "Adults meeting the Review eligibility criteria.",
+        "intervention": {
+          "label": "endovascular thrombectomy",
+          "aliases": [
+            "endovascular thrombectomy",
+            "endovascular therapy",
+            "endovascular treatment",
+            "thrombectomy",
+            "EVT"
+          ]
+        },
+        "comparator": {
+          "label": "medical care alone",
+          "aliases": [
+            "medical care alone",
+            "medical management alone",
+            "usual medical care",
+            "medical therapy alone",
+            "medical care",
+            "medical management",
+            "medical treatment",
+            "medical therapy",
+            "control"
+          ]
+        },
+        "outcome": "Death within 90 days",
+        "outcome_definition": "Death from any cause within 90 days after stroke.",
+        "timepoint": "Within 90 days after stroke.",
+        "analysis_population": "Review intention-to-treat approach; use analyzed participants reported for the outcome.",
+        "selection_rule": "Extract arm-level deaths and analyzed participants for the defined outcome.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.early_symptomatic_intracranial_hemorrhage",
+        "population": "Adults meeting the Review eligibility criteria.",
+        "intervention": {
+          "label": "endovascular thrombectomy",
+          "aliases": [
+            "endovascular thrombectomy",
+            "endovascular therapy",
+            "endovascular treatment",
+            "thrombectomy",
+            "EVT"
+          ]
+        },
+        "comparator": {
+          "label": "medical care alone",
+          "aliases": [
+            "medical care alone",
+            "medical management alone",
+            "usual medical care",
+            "medical therapy alone",
+            "medical care",
+            "medical management",
+            "medical treatment",
+            "medical therapy",
+            "control"
+          ]
+        },
+        "outcome": "Early symptomatic intracranial hemorrhage",
+        "outcome_definition": "Symptomatic intracranial hemorrhage defined by SITS-MOST or the Heidelberg bleeding classification during the reported early safety window.",
+        "timepoint": "Trial-prespecified early safety window.",
+        "analysis_population": "Use analyzed participants reported for the safety outcome.",
+        "selection_rule": "Extract arm-level events and analyzed participants; when both definitions are reported, use SITS-MOST as specified by the Review.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      }
+    ]
+  },
+  "accepted_protocol_sha256": "acd6f833888c9d85322e2ed23db47bc5eb32615f5df214ae8e54af621dcea99d",
+  "protocol_acceptance": {
+    "actor": "project-owner",
+    "decided_at": "2026-08-26T02:50:00+08:00",
+    "decision": "ACCEPTED"
+  },
+  "governing_review_inventory_sha256": "d2e2ac16e4d8bec8f676ea08f43967503aabf80fc9b9c881dd0a2180014f90e3",
+  "accepted_study_inventory_sha256": "a952bd8781d77e050e215162942e7b5cdcf8bd80c5c3b5f2c367fcbd4d302054",
+  "studies": [
+    {
+      "study_key": "rescue_japan_limit",
+      "display_label": "RESCUE-Japan LIMIT",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "angel_aspect",
+      "display_label": "ANGEL-ASPECT",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "select2",
+      "display_label": "SELECT2",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "tesla",
+      "display_label": "TESLA",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "tension",
+      "display_label": "TENSION",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "laste",
+      "display_label": "LASTE",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    }
+  ],
+  "reports": [
+    {
+      "report_key": "rescue_japan_limit.primary",
+      "title": "Endovascular Therapy for Acute Stroke with a Large Ischemic Region",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1056/NEJMoa2118191"
+        },
+        {
+          "scheme": "PMID",
+          "value": "35138767"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "angel_aspect.primary",
+      "title": "Trial of Endovascular Therapy for Acute Ischemic Stroke with Large Infarct",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1056/NEJMoa2213379"
+        },
+        {
+          "scheme": "PMID",
+          "value": "36762852"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "select2.primary",
+      "title": "Trial of Endovascular Thrombectomy for Large Ischemic Strokes",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1056/NEJMoa2214403"
+        },
+        {
+          "scheme": "PMID",
+          "value": "36762865"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "tesla.primary",
+      "title": "Thrombectomy for Stroke With Large Infarct on Noncontrast CT: The TESLA Randomized Clinical Trial",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1001/jama.2024.13933"
+        },
+        {
+          "scheme": "PMID",
+          "value": "39374319"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "tension.primary",
+      "title": "Endovascular thrombectomy for acute ischaemic stroke with established large infarct",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1016/S0140-6736(23)02032-9"
+        },
+        {
+          "scheme": "PMID",
+          "value": "37837989"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "tension.appendix",
+      "title": "Supplementary appendix: Endovascular thrombectomy for acute ischaemic stroke with established large infarct",
+      "identifiers": [],
+      "report_role": "COMPANION"
+    },
+    {
+      "report_key": "laste.primary",
+      "title": "Trial of Thrombectomy for Stroke with a Large Infarct of Unrestricted Size",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1056/NEJMoa2314063"
+        },
+        {
+          "scheme": "PMID",
+          "value": "38718358"
+        }
+      ],
+      "report_role": "PRIMARY"
+    }
+  ],
+  "report_study_bindings": [
+    {
+      "report_key": "rescue_japan_limit.primary",
+      "study_key": "rescue_japan_limit"
+    },
+    {
+      "report_key": "angel_aspect.primary",
+      "study_key": "angel_aspect"
+    },
+    {
+      "report_key": "select2.primary",
+      "study_key": "select2"
+    },
+    {
+      "report_key": "tesla.primary",
+      "study_key": "tesla"
+    },
+    {
+      "report_key": "tension.primary",
+      "study_key": "tension"
+    },
+    {
+      "report_key": "tension.appendix",
+      "study_key": "tension"
+    },
+    {
+      "report_key": "laste.primary",
+      "study_key": "laste"
+    }
+  ],
+  "report_identity_issues": [],
+  "documents": [
+    {
+      "document_key": "rescue_japan_limit.fulltext",
+      "report_key": "rescue_japan_limit.primary",
+      "input_path": "documents/rescue-japan-limit-primary/source.txt",
+      "expected_sha256": "cb2d97f914fa30748e39924cb17d5c146baf21d3484de5882e530f86377b6567",
+      "media_type": "text/plain",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1056/NEJMoa2118191"
+    },
+    {
+      "document_key": "angel_aspect.fulltext",
+      "report_key": "angel_aspect.primary",
+      "input_path": "documents/angel-aspect-primary/source.json",
+      "expected_sha256": "0d408a93971a3078db224659fa7b516c85ac74c2f726c7bc116fc71f4f022b22",
+      "media_type": "application/vnd.docling+json",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1056/NEJMoa2213379"
+    },
+    {
+      "document_key": "select2.fulltext",
+      "report_key": "select2.primary",
+      "input_path": "documents/select2-primary/source.txt",
+      "expected_sha256": "75c6826e3cb9442bc83b0c4313e8f6e0d00bf85207e84b2205bbed53cbd2d37b",
+      "media_type": "text/plain",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1056/NEJMoa2214403"
+    },
+    {
+      "document_key": "tesla.fulltext",
+      "report_key": "tesla.primary",
+      "input_path": "documents/tesla-primary/source.json",
+      "expected_sha256": "ac64a40c19b511ea7dedc40eff1486fc00fd0eb87f434861779a776f1061fdb6",
+      "media_type": "application/vnd.docling+json",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11420819/"
+    },
+    {
+      "document_key": "tension.fulltext",
+      "report_key": "tension.primary",
+      "input_path": "documents/tension-primary/source.txt",
+      "expected_sha256": "e77fdc6b31ab1d92bc17a131ab59b34274b51dade432bc701e2d030b4ddfcb10",
+      "media_type": "text/plain",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1016/S0140-6736(23)02032-9"
+    },
+    {
+      "document_key": "tension.appendix",
+      "report_key": "tension.appendix",
+      "input_path": "documents/tension-appendix/source.txt",
+      "expected_sha256": "c43fdc126f281e858ab36c8f2e60769496b337d7e333184d4a4e08f07e2df172",
+      "media_type": "text/plain",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0140673623020329-mmc1.pdf"
+    },
+    {
+      "document_key": "laste.fulltext",
+      "report_key": "laste.primary",
+      "input_path": "documents/laste-primary/source.json",
+      "expected_sha256": "ba95cbfec7d72ac4fc59ba5b23a2f0f15b0329859d737abfe3719713bd515894",
+      "media_type": "application/vnd.docling+json",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1056/NEJMoa2314063"
+    }
+  ],
+  "source_dispositions": []
+}

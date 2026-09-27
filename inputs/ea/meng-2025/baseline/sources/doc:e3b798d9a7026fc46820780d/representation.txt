@@ -1,0 +1,393 @@
+# Alpha-2-adrenergic receptor agonists for the prevention of delirium and cognitive decline after open heart surgery (ALPHA2PREVENT): protocol for a multicentre randomised controlled trial
+
+## Introduction
+
+Postoperative delirium is common in older cardiac surgery patients and associated with negative short-term and long-term outcomes. The alpha-2-adrenergic receptor agonist dexmedetomidine shows promise as prophylaxis and treatment for delirium in intensive care units (ICU) and postoperative settings. Clonidine has similar pharmacological properties and can be administered both parenterally and orally. We aim to study whether repurposing of clonidine can represent a novel treatment option for delirium, and the possible effects of dexmedetomidine and clonidine on long-term cognitive trajectories, motor activity patterns and biomarkers of neuronal injury, and whether these effects are associated with frailty status.
+
+## Methods and analysis
+
+This five-centre, double-blind randomised controlled trial will include 900 cardiac surgery patients aged 70+ years. Participants will be randomised 1:1:1 to dexmedetomidine or clonidine or placebo. The study drug will be given as a continuous intravenous infusion from the start of cardiopulmonary bypass, at a rate of 0.4 µg/kg/hour. The infusion rate will be decreased to 0.2 µg/kg/hour postoperatively and be continued until discharge from the ICU or 24 hours postoperatively, whichever happens first.
+
+Primary end point is the 7-day cumulative incidence of postoperative delirium (Diagnostic and Statistical Manual of Mental Disorders, fifth edition). Secondary end points include the composite end point of coma, delirium or death, in addition to delirium severity and motor activity patterns, levels of circulating biomarkers of neuronal injury, cognitive function and frailty status 1 and 6 months after surgery.
+
+## Ethics and dissemination
+
+This trial is approved by the Regional Committee for Ethics in Medical Research in Norway (South-East Norway) and by the Norwegian Medicines Agency. Dissemination plans include publication in peer-reviewed medical journals and presentation at scientific meetings.
+
+## Trial registration number
+
+NCT05029050 .
+
+# Strengths and limitations of this study
+
+- This multicentre trial will provide evidence for prophylactic efficacy of dexmedetomidine and clonidine in reducing the incidence of postoperative delirium as well as decline in cognitive function 1 and 6 months postoperatively in older cardiac surgical patients.
+- Inclusion of preoperative frailty assessments will provide evidence for frailty as a predictive marker of treatment effect.
+- The analysis of biomarkers will provide insights into the neural mechanisms in postoperative delirium and long-term cognitive dysfunction.
+- The analysis of activity by accelerometers will provide insight into motor activity patterns in subtypes of delirium.
+- The dose of the active drugs may potentially be too low or the duration of treatment too short in order to show effects.
+## Background
+
+Delirium represents an acute change in awareness, attention and cognition, precipitated by an acute illness, trauma, intoxication or surgery. 1 2 Common additional features are agitation, hallucinations and poor compliance with medical treatment and care.
+
+Delirium appears in all parts of the healthcare service, including intensive care units (ICUs) and postoperative settings, regular hospital wards, nursing homes, home nursing services and palliative departments. In a recent meta-analysis, Greaves et al found a delirium prevalence of 24% postoperatively after coronary artery bypass grafting (CABG) surgery, aggregated over all age groups. 3 In a Norwegian study of patients ≥80 years undergoing open aortic valve replacement, the prevalence of postoperative delirium was above 60%. 4 Open heart surgery patients are especially susceptible to delirium. Probable causes may be established cardiovascular disease, microembolism from cardiopulmonary bypass (CPB), perioperative circulatory changes including ischaemia-reperfusion injuries, systemic inflammation, blood-brain barrier disruption and very deep anaesthesia. 5 6
+
+Delirium is difficult to handle in clinical settings, increases length of hospital stay and the need for long-term care, 7–9 is expensive for the society, 10 represents a frightening experience for the patient and the relatives 11 and is an independent risk factor for death after cardiac surgery. 12 Delirium is an independent risk factor for cognitive decline in older adults, and induces a more rapid trajectory of deterioration in those who already have dementia. 13 14
+
+Frailty is a risk factor for delirium, 15 but less is known regarding how frailty assessments can guide prophylactic and therapeutic measures and shared decision making. 16 Frailty is a state of impaired physiological reserve and decreased resistance to stressors, which increases the risk of an adverse outcome. 17 18 It is a consequence of cumulative decline in many physiological systems.
+
+Conventionally, delirium has been separated into hyperactive and hypoactive subtypes based on clinical impression, 19 but recent research using body-worn sensors indicates a more heterogeneous pattern of motor activity across the clinical delirium motor subtypes. 20 21 Small light-weight body-worn accelerometers may provide objective measures of the effectiveness of delirium treatment intervention on motor activity level and types of patterns. A small postoperative study on cardiac surgery patients showed the possibility of detecting the amount of movement in sedated patients. 22
+
+Delirium is multifactorial and relate to both predisposing and to precipitating factors. 1 2 Routinely, several actions are taken in perioperative care to minimise the risk of delirium, such as appropriate management of pain and minimising the use of sedative drugs like benzodiazepines. Furthermore, non-pharmacological multicomponent interventions are essential, 23 but there is currently no compelling evidence to support the use of specific prophylactic pharmacological measures in routine perioperative care for patients at risk of postoperative delirium. 24
+
+However, dexmedetomidine, a parenterally administered alpha-2-adrenergic receptor agonist that attenuates sympathetic nervous system activity, shows promise as prophylaxis and treatment for delirium in ICUs and postoperative settings. 25 26 It has been hypothesised that dexmedetomidine may reduce postoperative delirium via its sympatholytic, anti-inflammatory and organ-protective effects. 27 28 In a recent meta-analysis, perioperative use of dexmedetomidine in various surgical procedures was associated with a lower incidence of postoperative delirium. The relative risk and 95% CI was 0.52 (0.39 to 0.70) when compared with placebo. 25 Among newer studies in cardiac surgery, some, 29–32 but not all, 33 34 have found a beneficial short time effect on the incidence of delirium. A meta-analysis in cardiac surgery patients showed that dexmedetomidine could reduce the risk of postoperative delirium (OR 0.56, 95% CI 0.36 to 0.89). 35 This meta-analysis even included the largest trial by Turan et al , with 800 participants, that was negative for dexmedetomidine. 34 To the best of our knowledge, effects of dexmedetomidine on long time cognitive trajectories have so far not been assessed in this patient population. Nevertheless, the use of dexmedetomidine in ICUs is rapidly increasing. 26
+
+An alternative agent is clonidine, which has similar pharmacological properties to dexmedetomidine, 36 even though its alpha-2-adrenergic selectivity is lower. 37 Clonidine can be administered both parenterally and orally, thus potentially widening its clinical usefulness. 36 37 Clonidine was originally launched as an antihypertensive agent, but it is also used as an analgesic drug. Furthermore, clonidine has a long tradition as a sedative in patients with hyperactive delirium, and is used by several anaesthesiologists and intensivists. 38 This practice is based on their clinical experiences and knowledge on the drug’s properties, but is so far not supported by placebo-controlled clinical trials. A pilot study indicated that clonidine infusion during the period of weaning from mechanical ventilation after surgery for aortic dissection may reduce the severity of delirium. 39 A recent study compared clonidine with dexmedetomidine postoperatively after CABG and found better effect on risk and duration of delirium of dexmedetomidine. Since no placebo-controlled group was included, that study could not assess potential effects of clonidine. 40
+
+Thus, there is a need for prospective large-scale studies on the potential prophylactic effect of alpha-2-adrenergic receptor agonists on delirium in susceptible patients. The aims of the present planned trial are to study (1) whether repurposing of clonidine can represent a novel treatment option for delirium and (2) the possible effects of dexmedetomidine and clonidine on long-term cognitive trajectories, motor activity patterns, patient-rated outcome measures (PROMs) and biomarkers of neuronal injury and (3) whether these effects are associated with frailty status.
+
+## Methods and analysis
+
+### Study design
+
+ALPHA2PREVENT is a nationwide five-centre, double-blind randomised controlled trial (RCT). Patients aged 70+ years scheduled for open heart surgery will be randomised 1:1:1 to dexmedetomidine or clonidine or placebo. The patients will be cognitively assessed preoperatively, then assessed for any symptoms of delirium according to the Diagnostic and Statistical Manual of Mental Disorders, fifth edition (DSM-5) criteria 41 or subsyndromal delirium 42 postoperatively, and finally assessed for cognitive function after 1 and 6 months ( figure 1 ).
+
+Study schema. EQ-5D-5L, EuroQol 5 Dimension 5 Level; POD, postoperative day; MoCA, Montreal Cognitive Assessment; TMT, trail making test.
+
+### Study locations
+
+The trial will be carried out at Oslo University Hospital (Ullevaal and Rikshospitalet) in Oslo, Haukeland University Hospital in Bergen, Trondheim University Hospital in Trondheim, and the University Hospital of Northern Norway in Tromsø, all in Norway.
+
+### Participants, randomisation and blinding
+
+Patients will be assessed for eligibility and asked for participation in cooperation with the responsible thoracic surgeons or anaesthesiologists. A full listing of trial inclusion and exclusion criteria is displayed in table 1 . Participants must be ≥70 years old, accepted for cardiac surgery with CPB and capable of giving signed informed consent. The surgical procedures may constitute CABG, valve replacement, surgery on the ascending aorta or combinations of these. Main exclusion criteria are bradycardia, uncontrolled hypotension, ischaemic stroke the last month or acute coronary syndrome last 24 hours, 43 left ventricular ejection fraction <40%, severe renal failure or hepatic dysfunction, sepsis, planned deep hypothermia and circulatory arrest as well as emergency surgery.
+
+Table 1
+Caption: Inclusion and exclusion criteria
+Participants are eligible to be included in the study only if all of the following criteria apply: | Participants are excluded from the study if any of the following criteria apply:
+Participant must be ≥70 years old at the time of signing the informed consent. Participant must be accepted for cardiac surgery with cardiopulmonary bypass. The surgical procedures may constitute (1) coronary bypass grafting, (2) tricuspid, mitral or aortic valve replacement or repair, (3) surgery on the ascending aorta and (4) the combination of any of these procedures. Participant must be capable of giving signed informed consent. | Preoperative delirium (present at time of potential inclusion). Known hypersensitivity to the active ingredient or components of the product. Bradycardia due to sick sinus syndrome, second-degree or third-degree AV-block (if not treated with pacemaker) or any other reason causing HR <50 bpm at time of inclusion. Uncontrolled hypotension. Ischaemic stroke or transitory ischaemic attack the last month or critical peripheral ischaemia. Acute coronary syndrome last 24 hours. Acute coronary syndrome is defined according to international guidelines. Left ventricular ejection fraction <40%. Severe renal impairment (eGFR <20 mL/min) or expected requirement for renal replacement therapy. Severe hepatic dysfunction (liver enzyme three times the upper limit of normal together with a serum albumin concentration below the normal reference limit. Reduced peripheral autonomous activity (eg, spinal cord injury). Current use of tricyclic antidepressants, monoamine reuptake inhibitors or ciclosporin. Endocarditis or sepsis. Pheochromocytoma. Planned deep hypothermia and circulatory arrest. Emergency surgery, defined as <24 hours from admission to surgery. Previously included in this study. Not speaking or reading Norwegian. Any other condition as evaluated by the treating physician.
+
+Consenting patients will be randomly assigned 1:1:1, to dexmedetomidine, clonidine or placebo. Randomisation will be computer generated with random permuted block sizes of 3 or 6, and stratified according to study centre. Allocation will be concealed by a webbased system that can be accessed no earlier than 3 days before surgery. The study drug will be prepared by an otherwise uninvolved research associate, ensuring that investigators, clinicians, outcome assessors and statisticians are blinded to the group assignment.
+
+### Data collected at study entry
+
+The data collection will take place in connection with routine clinical care at the relevant hospital wards and the ICU ( table 2 ). According to the selection criteria, ECG, creatinine/estimated glomerular filtration rate, liver transaminases, albumin and a recent echocardiography will be required, as well as a screening for preoperative delirium. At study entry, demographic data, medical history including cardiovascular and non-cardiovascular comorbidities, prescription drugs used, sensory impairment, presence or absence of any fall within the past year, functional status including activities of daily living, surgical site and indication for surgery will be obtained. Haemodynamic variables, body mass index, American Society of Anesthesiologists Physical Status (ASA) classification and Euroscore II will be recorded, and routine blood samples taken prior to surgery will be registered. Blood samples for biomarkers will be drawn preoperatively and on postoperative days 1, 3 and 5. Included patients will undergo preoperative cognitive tests and physical tests for assessment of frailty. PROMs will be assessed by use of the Norwegian version of the EuroQol 5 Dimension 5 Level (EQ-5D-5L) questionnaire. 44 The same tests and questionnaires will be used also after 1 and 6 months, for assessment of cognitive and functional trajectories.
+
+Table 2
+Caption: Study procedures
+Procedure | Screening | Baseline | Surgery | Postoperative day number | 1 and 6 months
+≤30 days before day 0 | −3 to −1 days before day 0 | Day 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | Hospital discharge
+Informed consent | X |  |  |  |  |  |  |  |  |  |  |
+Assessment of eligibility | X |  |  |  |  |  |  |  |  |  |  |
+Routine blood tests (ie, creatinine, liver transaminases, albumin, troponin, proBNP) | X |  |  |  |  |  |  |  |  |  | X |
+ECG | X |  |  | X |  |  |  |  |  |  |  |
+Physical examination | X |  |  |  |  |  |  |  |  |  |  |
+Past and current medical conditions | X |  |  |  |  |  |  |  |  |  |  | X
+Vital signs | X | X | X | X | X | X | X | X | X | X |  |
+Randomisation |  | X |  |  |  |  |  |  |  |  |  |
+Prescribed medications |  | X |  |  |  |  |  |  |  |  |  |
+Demographic data |  | X |  |  |  |  |  |  |  |  |  | X
+Blood samples for biomarkers |  | X |  | X |  | X |  | X |  |  |  |
+ASA classification and Euroscore II |  | X |  |  |  |  |  |  |  |  |  |
+Cognitive assessments |  | X |  |  |  |  |  |  |  |  |  | X
+Frailty assessments |  | X |  |  |  |  |  |  |  |  |  | X
+PROM (EQ-5D-5L) |  | X |  |  |  |  |  |  |  |  |  | X
+Body-worn accelerometers (St Olav only) |  | X |  | X | X | X | X | X | X | X | X | X
+Study intervention |  |  | X | X |  |  |  |  |  |  |  |
+Safety review (including haemodynamic variables, AE/SAE review, death) |  |  | X | X | X | X | X | X | X | X |  | X
+Postoperative variables (eg, vital signs, medications, transfusions, re-operations, respiratory support) |  |  |  | X | X | X | X | X | X | X |  |
+Routine assessments of delirium, 3×/day (by nursing staff); CAM-ICU, RASS |  |  | X | X | X | X | X | X | X | X |  |
+Delirium assessments DSM-5 based, 1×/day (by research assistant) |  |  |  | X | X | X | X | X | X | X |  | X*
+Pain assessment (NRS) |  |  |  | X | X | X | X | X | X | X |  |
+Registration of per-operative variables (eg, type of surgery, medications, transfusions, vital parameters, duration of surgery/anaesthesia) |  |  |  |  |  |  |  |  |  |  | X |
+Registration of postoperative complications |  |  |  |  |  |  |  |  |  |  | X |
+Registration of total dose and duration of study medication |  |  |  |  |  |  |  |  |  |  | X |
+
+### Trial interventions
+
+Dexmedetomidine and clonidine concentrations will be 4 µg/mL in NaCl 9 mg/mL. Dexmedetomidine, clonidine or placebo (saline) will be given as a continuous intravenous infusion, without a loading dose, from the start of CPB, at a rate of 0.4 µg/kg/hour (ie, 0.1 mL/kg/hour) for the active drugs. The infusion rate will be decreased to 0.2 µg/kg/hour (ie, 0.05 mL/kg/hour) postoperatively and maintained for at least 12 hours after end of surgery. The infusion will be continued until discharge from the ICU or the step-down unit, or 24 hours postoperatively, whichever happens first. To ensure masking, placebo will be given as a continuous infusion of the same volume of saline at the same infusion rate.
+
+### Concomitant therapy and rescue medicine
+
+Patients will not be included if they use tricyclic antidepressants, monoamine reuptake inhibitors or ciclosporin. The perioperative anaesthesia will be given per routine at participating institutions. If delirium develops and pharmacological intervention is needed, the study drug will be stopped, and further treatment will be according to local routines and the treating physician’s preferences.
+
+### Primary end point
+
+The primary end point for ALPHA2PREVENT is the cumulative incidence of postoperative delirium within 7 days. Postoperative delirium assessment will start as soon as possible after admission to the ICU, and will continue daily until the seventh postoperative day or until discharge from the university hospital, whichever happens first. To allow for differences in the duration of the postoperative observation period, time until delirium diagnosis will be recorded and the cumulative incidence will be assessed using Kaplan-Meier estimates and compared between groups with the log-rank test as described below. A clinical assessment for delirium will also be repeated at the 1-month follow-up, to pick up signs of persistent delirium.
+
+The diagnosis of delirium will be ascertained using all available information, and will be determined to be present if participants meet all DSM-5 criteria 41 by using a standardised procedure developed for our previous study 45 and as recommended by others 46 ( table 3 ). The methods are refined in order, in a stepwise approach, to assess presence or absence of the diagnostic criteria in DSM-5 and will be carried out once daily by specially trained research assistants. Level of arousal will be assessed using the Norwegian versions of Richmond Agitation Sedation Scale (RASS) 47 and Observational Scale of Level of Arousal (OSLA). 48 Attention and awareness will be evaluated using objective tests (vigilance ‘A’ test, months of the years backwards, days of the week backwards and counting down from 20 to 1) 49 and observations by the examiner of the patient’s distractibility, comprehension and tendency to lose the thread of conversation. Presence of additional cognitive disturbances will be assessed by tests for orientation and recall test of three words (different words for each day), as well as information derived from nursing staff and clinical notes. Acute change in the patient’s mental condition, and fluctuations of any disturbance, will be ascertained through informant history from nursing staff and derived from clinical notes. Nurses will, as part of their routine and for each shift (ie, three times daily), actively register symptoms of delirium in the case notes, as well as screen for delirium using the Norwegian version of the confusion assessment method for intensive care units (CAM-ICU) 50 and RASS. The same delirium assessment tools will be used for the ICU, step-down and bed wards. The results from each of the CAM-ICU items, as well as the total CAM-ICU score, will also be used as a source of information for making the final delirium diagnosis.
+
+Table 3
+Caption: Diagnostic algorithm for DSM-5 delirium
+DSM-5 criteria | Tests to be performed or information needed | Criterion fulfilled?
+Yes | No
+A. Disturbance in attention (ie, reduced ability to direct, focus, sustain and shift attention) and awareness (reduced orientation to the environment) | Test | Cut-off (definition of inattention) |  |
+Digit span forward | <5 forward |  |
+SAVEAHAART | >2 errors |  |
+Days of the week backwards | Any error |  |
+Months of the year backwards | Unable to pass June |  |
+Count backwards from 20 to 1 | Any error |  |
+Digit span backwards | <5 digits |  |
+Observation (by the examiner during the interview) : Distractibility. Comprehension. Tendency to lose the tread of conversation Level of arousal measured using RASS and OSLA |  |
+B. The disturbance develops over a short period of time (usually hours to a few days), represents a change from baseline attention and awareness, and tends to fluctuate in severity during the course of a day | Acute onset and/or fluctuation obtained from informant history from nursing staff and clinical notes. Questions to carer/nursing staff or derived from clinical notes : Has there been a sudden change in the patient’s mental state? Does the patient seem to be better at any period in the day compared with other times? Has the level of consciousness been altered (drowsy/not interacting or agitated)? Sleep-wake cycle disturbances? |  |
+C. An additional disturbance in cognition (eg, memory deficit, disorientation, language, visuospatial ability or perception) | Questions to the patient : Orientation to time, place and person 3-item recall at 3 min Questions from CAM-ICU: Why are you in hospital? Will a stone float in water? Are there fish in the sea? Questions to carer/nursing staff or derived from clinical notes : Any evidence of perceptual disturbances as illusions or hallucinations? Memory disturbances? Psychotic symptoms? Psychomotor abnormalities? |  |
+D. The disturbances in criteria A and C are not explained by another pre-existing, established or evolving neurocognitive disorder and do not occur in the context of a severely reduced level of arousal, such as coma | Information from history/chart/clinical assessment |  |
+E. There is evidence from the history, physical examination or laboratory findings that the disturbance is a direct physiological consequence of another medical condition, substance intoxication or withdrawal (ie, because of a drug of abuse or to a medication), or exposure to a toxin or is because of multiple aetiologies | By virtue of the surgery, all participants are considered to fulfil this criterion |  |
+Delirium based on the tests and information above? | All DSM-5 criteria fulfilled |  |
+Subsyndromal delirium based on the tests and information above? | Defined as evidence of change, in addition to any one of these: (a) altered arousal, (b) attentional deficits, (c) other cognitive change, (d) delusions or hallucinations. Criteria D and E must be met |  |
+
+Finally, as a quality assurance, two or more highly experienced delirium researchers will independently use all available information (including the research assistants’ assessments) on each patient to decide if the DSM-5 criteria for delirium are fulfilled. An inter-rater agreement for the diagnosis of delirium will be calculated and disagreements will be resolved through discussion.
+
+Subsyndromal delirium ( table 3 ) will be defined as evidence of change, in addition to any one of these: altered arousal, attentional deficits, other cognitive change, delusions or hallucinations. DSM-5 delirium criteria D and E must be met.
+
+### Secondary end points
+
+Secondary end points include the composite end point of coma, delirium or death, in addition to number of delirium days, delirium severity and motor activity patterns, comparison to inclusion of serum concentrations of neurofilament light (NFL) and p-tau181 1, 3 and 5 days postoperatively, as well as change from inclusion to 1 and 6 months after the operation in different cognitive tests, patient-rated health status, frailty status and comparison of change in frailty status. In explorative analyses, the secondary outcomes will also be assessed between patients with or without postoperative delirium. We will also assess if preoperative frailty status modifies the effect of dexmedetomidine and clonidine treatment, by studying the interaction between preoperative frailty and treatment on delirium and the other mentioned end points.
+
+All end points will be assessed using Norwegian versions of validated instruments: delirium severity will be measured using CAM-ICU-7, 51 OSLA 48 and RASS 47 ; motor activity patterns using body-worn accelerometers; cognitive function using Montreal Cognitive Assessment (MoCA), 52 immediate and delayed recall from The Ten Words Memory Task from The Consortium to Establish a Registry for Alzheimer’s Disease, 53 trail making test version A and B, 54 semantic and phonemic verbal fluency, 55 digit span forwards and backwards (by Wechsler Adult Intelligence Scale) 56 ; frailty will be measured by a comprehensive geriatric assessment (including medical history, number of prescribed drugs, sensory impairment, activity of daily living, gait speed, handgrip strength, chair stand and nutritional status) calculating a frailty index (range, 0–1; higher values indicate greater frailty) based on the accumulation of deficits model of frailty 57 58 and by the shorter Essential Frailty Toolset 59 and patient-rated health status using the EQ-5D-5L questionnaire. 44
+
+For assessment of cognitive trajectories, the same cognitive tests will be performed in a stable phase preoperatively as well as after 1 and 6 months. Information regarding functional status will be obtained from the patient preoperatively and from either the patient or their proxy at follow-up, depending on the patient’s ability to provide detailed information.
+
+For a subsample of 100 patients from the Trondheim cohort, motor activity will be measured by three-dimensional accelerometer inertial sensors (AX3 sensors) (Axivity, Newcastle, UK) sampled at 100 Hz and processed using custom-made software. Accelerometers will be attached to the frontal part of the waist, the dominant thigh (ventrally, midthigh) and on the dominant wrist presurgery. Motor activity patterns will be monitored continuously (day and nights) before and the five first days after surgery or until discharge from hospital, and over 1 week after 1 and 6 months. Sensor data will be analysed regarding both quantity and quality of movements and compared with the clinical delirium assessments.
+
+### Biomarkers
+
+In addition to routine blood tests, blood will be taken in the morning for specific study analyses (serum, plasma and whole blood) before surgery, and at postoperative day 1, 3 and 5 (or earlier if discharged before day 5) and frozen at –80°C locally. Frozen samples will then be shipped to the coordinating centre (Oslo) to be stored in a biobank at –80°C for future analyses. The stored blood samples will be analysed for promising markers such as NFL already known to be associated with delirium, 60 p-tau181 associated with dementia and delirium 61–63 and possibly other biomarkers of neuronal degeneration, neuroinflammation and neurotransmitters, 64–68 using state-of-the-art ultrasensitive assays to evaluate their association with observed clinical responses to the study drugs.
+
+### Standardised training
+
+The research assistants across all sites will receive standardised training for all study measures prior to study initiation, including cognitive tests, delirium assessments and measurements of frailty indicators. Retraining will be provided as necessary. Detailed instructions and operation manuals in Norwegian language, including an instruction video for the MoCA, will be made available to all assessors.
+
+### Data management and monitoring
+
+Participant data will be collected by authorised trained personnel, be recorded on electronic case report forms (CRF) and stored on a password-protected database. Paper files will be stored in locked cabinets accessible to team members only. Study monitors will perform ongoing source data verification to confirm that data entered into the CRFs are accurate, complete and verifiable from source documents; that the safety and rights of participants are being protected and that the study is being conducted in accordance with the currently approved protocol, International Conference on Harmonization Good Clinical Practice, and all applicable regulatory requirements. Records and documents, including signed informed consent forms, pertaining to the conduct of this study will be retained by the investigators for 15 years after study completion.
+
+### Safety and adverse events management
+
+Immediate safety concerns will be handled by the treating anaesthesiologist, who will determine if the participant should continue or discontinue study intervention. If the patient is haemodynamically unstable at any time during infusion of the study medication or difficult to wake up after surgery, the infusion can be temporarily stopped, as decided by the treating physician. In such a case, the patient will continue in the study. The reason for temporary discontinuation will be recorded. Since patients are closely monitored in the perioperative phase of cardiac surgery, potential adverse circulatory effects will be rapidly revealed and corrected:
+
+- Temporal epicardial pacing wires are placed routinely during cardiac surgery, and bradycardia will be treated with atropine and/or pacemaker as per routine.
+- Hypotension will be treated at discretion of the treating anaesthesiologists, who are permitted to reduce dose of the study drug as necessary to preserve haemodynamic stability, following guidelines and local routines. A mean arterial pressure (MAP) >55–60 mm Hg is recommended.
+- If not rapid and satisfactory response on other measures is achieved, the treating anaesthesiologist will consider to turn off the infusion/unblind the study.
+Planned time points for safety assessments are provided in table 2 .
+
+The following safety indicators will be compared between the three treatment groups with appropriate statistical methods: highest and lowest heart rate and mean arterial blood pressure, oxygen saturation, number of units for blood transfusion, volume of postoperative blood loss, use of pressor substances, use of rescue medication, number of episodes of bradycardia, hypotension or hypoxaemia in need of intervention, perioperative myocardial infarction and stroke, postoperative serum concentrations of troponin and pro-B-type natriuretic peptide, mortality.
+
+An independent Data Monitoring Committee (DMC) will have unblinded access to all data and meet at preplanned inclusion milestones and whenever the members find it necessary. 69 Meetings are preplanned after inclusion of 20, 50, 100 and 400 participants, to assess safety indicators and to advise on continuation or termination of the study. All safety data collected will be summarised and reviewed by the DMC for agreement of next steps. In particular, data will be reviewed by for identification of the following events that would potentially contribute to a requirement to pause or stop the study: any deaths, regardless of causality; cerebral infarctions; haemodynamic variables (time during surgery with MAP <50 mm Hg, highest/lowest MAP and HR, lowest SpO2); need for vasopressor, non-invasive ventilation, active pacing, respiratory support or extracorporeal membrane oxygenation; postoperative troponin values. If a pausing/stopping rule is met, a decision will be made, based on the review, as to whether enrolment in the study will be allowed to resume. Case unblinding will be performed for above reviews if necessary.
+
+### Current sample size justification
+
+The proportion of patients experiencing postoperative delirium after open heart surgery for all ages has been reported to be 24%, 3 and higher in older adults. 4 Since the lower age limit in our trial is 70 years, we estimate that the proportion in the control group will be at least 30%. The most recent meta-analysis of the effect of dexmedetomidine estimates the delirium risk to be reduced to approximately half of the untreated group (ie, 15%). 25 We anticipate that the effect of clonidine may be weaker, but still clinically relevant. We have thus powered the study based on an estimated delirium incidence of 20% in the clonidine group. An initial, conservative sample size calculation based on comparison of two proportions indicated that a sample size of 290 in each group (870 altogether) will give a power of 80% with a significance level of 5% to detect such a difference between the clonidine and the placebo group in the proportion developing delirium within 7 days postoperatively. To account for dropouts, we aim at including 900 patients. This sample size calculation approach was conservative considering the use of time-to-delirium analysis strategy, accommodating for both a higher drop-out rate and that this trial has three arms. We have further confirmed the adequacy of this sample size estimate for the logrank test with differing rates of drop-out and considering the three arms ( online supplemental figure S1 ).
+
+### Statistical analysis
+
+The primary analysis population will be the intention-to-treat population, and all tests will be two-sided. The primary objective in this study is to prevent postoperative delirium. The primary end point is the cumulative incidence of postoperative delirium. In the analysis of this end point, time to diagnosis of delirium will be used to account for the varying postoperative observation time due to difference in time to discharge or transfer to other hospitals will be different. The cumulative incidence will therefore be estimated using the Kaplan-Meier estimator with time to first delirium as the dependent variable and compare time to event curves between treatments by the logrank test. Patients who are discharged from the university hospital during the observation period or reach the end of the observation period (7 days) without having developed delirium, are regarded as censored. We consider that treatment group allocation will not influence the risk of being censored. Those who die prior to 7 days will also be regarded as censored in the primary analysis, but we will carry out a secondary analysis with the combined end point death or delirium . The same approach will be applied for those who are comatose, and thus impossible to evaluate for delirium. Additional analyses may also include estimating the incidence of delirium treating deaths as a competing risk by the Fine and Gray method.
+
+All analyses will be adjusted for study centre which was used to as a stratification variable in the randomisation process.
+
+Sensitivity analyses will be carried out by estimating HRs using Cox proportional hazards model to adjust for potential imbalance of prognostic factors between treatment groups.
+
+Secondary end points as the cumulative incidence of death, coma or postoperative delirium will be analysed using the Kaplan-Meier estimator and the logrank test as above. Additional analyses by Cox proportional hazards model may also be performed. Mean duration of delirium; severity of delirium; combination of duration and severity of delirium; cognitive tests after 1 and 6 months; EQ-5D-5L scores after 1 and 6 months and postoperative plasma concentrations of NFL and p-tau181 will be compared between treatments with appropriate regression models which will be defined in a statistical analysis plan prior to analysis.
+
+Frailty as risk factor for delirium and for adverse effects of the study medication will be analysed by linear or logistic regression (as appropriate), adjusted for other known risk factors. The association between frailty and delirium will be analysed by adding frailty as a covariate in a Cox proportional hazards model on time to delirium (as above). Additionally, we will assess if the presence of frailty modifies the effect of the treatment by including an interaction term between frailty and treatment allocation in the Cox proportional hazards model. The association between frailty and occurrence of adverse events (AEs) will be estimated by logistic regression models including covariates as above.
+
+No interim analyses of the efficacy of the treatments are planned. A detailed statistical analysis plan will be finalised prior to unblinding.
+
+### Ethics and dissemination
+
+This trial is approved by the Regional Committee for Ethics in Medical Research in Norway (South-East Norway) and by the Norwegian Medicines Agency, and will be conducted in accordance with consensus ethical principles derived from international guidelines including the Declaration of Helsinki. The results of this study will be published in peer-reviewed medical journals, as well as presented at scientific meetings
+
+## Discussion
+
+To our knowledge, ALPHA2PREVENT will be the first large randomised controlled multicentre trial to study the prophylactic efficacy of dexmedetomidine as well as clonidine on the incidence of postoperative delirium in older cardiac surgical patients, and also including long-term cognitive trajectories.
+
+One should expect that treatment options that can prevent delirium in a short-term perspective would also improve the long-term cognitive prognosis. Evidence for such an effect is slowly emerging for non-pharmacological interventions, 70 but is lacking regarding drug treatment.
+
+Published studies of dexmedetomidine for prevention of delirium in ICU vary largely with respect to dosing regimens, from 0.1 71 72 to 1.4 μg/kg/hour. 33 Many of the authors also administered an initial bolus. In the cardiac surgery context, Turan et al started dexmedetomidine infusion already before start of CPB, gave 0.4 μg/kg/hour postoperatively 34 and found more side effects in the actively treated than in the placebo group. We have chosen a careful dosage of 0.4 μg/kg/hour peroperatively and 0.2 μg/kg/hour postoperatively, with no bolus, to reduce the risk of AE, but not so low that we cannot expect an effect on delirium.
+
+Regarding clonidine, the recommended dosage varies greatly between sources, but is mainly in the range 1–1.5 µg/kg/hour. 73 We will dose the drug considerably lower, to avoid side effects. There is a shortage of studies comparing intravenous dexmedetomidine and intravenous clonidine in ICU or postoperative settings. 74 To our knowledge, a widely agreed evidence-based intravenous dosage regimen has not been developed for intravenous clonidine. A study by Grest et al in critically ill patients after cardiac surgery 74 and a recent meta-analysis favour equipotency mg per mg. 75 Thus, our choice is fairly pragmatic, but the doses are similar to that currently used in many ICUs as part of routine practice.
+
+To further reduce the risk of haemodynamic instability due to the combination of anaesthesiological procedures and study drug at the start of surgery, we will postpone infusion of study drug until the CPB is established. If clonidine is both effective and safe to administer, then it may be relevant to conduct more studies on per oral treatment with clonidine in other patient groups later on. Efficacy must first be demonstrated and found comparable to existing parenteral treatment before future trials with oral, longer use could be explored.
+
+Strengths of this trial are the prospective and randomised placebo-controlled design, the use of two relevant and much used drugs, inclusion of a high number of patients from multiple sites, adequate statistic strength, repeated cognitive and frailty assessments, use of body-worn accelerometers and repeated samples of biomarkers. The analyses of biomarkers reflecting neural injury will give us increased understanding of the pathophysiological mechanisms of delirium. Inclusion of preoperative frailty assessments will provide evidence for frailty as a predictive marker of treatment effect and allow for interaction analyses. The use of body-worn accelerometers will provide insight into motor activity patterns in subtypes of delirium.
+
+This trial has, however, some limitations to consider. The exclusion criteria might limit the generalisability of our findings to other patient populations. If the incidence of delirium in the placebo group is lower than expected, or if the anticipated effect of the treatment is smaller, the study may be underpowered. The dose of the active drugs might be too low or the duration of treatment be too short to influence an ongoing pathophysiological process, in order to show effects. As many patients live far away from the study site, there is a potential for missing long-term data.
+
+Should the treatment have a positive effect, it would have important beneficial implications for patients, carers and society, such as alleviating acute patient distress and carer burden. If this treatment could reduce long-term negative effects of delirium, it might have significant consequences for financial and human resource use in healthcare.
+
+## Supplementary Material
+
+## Reviewer comments
+
+## Author's manuscript
+
+The trial is investigator-initiated and investigator-led, and is conducted independently of the pharmaceutical industry. We are thankful to the staff of the participating departments for their compliance with the project directives and their caring for the patients.
+
+Footnote: Twitter: @beneerland
+
+Footnote: Contributors: Drafting of the manuscript: BEN. Critical revision of the manuscript for important intellectual content: BEN, RB, RH, JLH, SAL, IM, HMN, JR, GS, MRS, ES, NKS, ES, AJCS, ØSS, TT, AW, HZ, TBW. Obtained funding: TBW. All authors contributed to the writing of the manuscript and approved the final version.
+
+Footnote: Funding: The trial is funded by KLINBEFORSK, The National Programme for Clinical Therapy Research in the Specialist Health Service in Norway, grant number 2020204. HZ is a Wallenberg Scholar.
+
+Footnote: Disclaimer: Funders have no role in the trial design, data collection, management, analysis, writing of the manuscript or decision to publish.
+
+Footnote: Competing interests: HZ has served at scientific advisory boards and/or as a consultant for Alector, Eisai, Denali, Roche Diagnostics, Wave, Samumed, Siemens Healthineers, Pinteon Therapeutics, Nervgen, AZTherapies, CogRx and Red Abbey Labs, has given lectures in symposia sponsored by Cellectricon, Fujirebio, Alzecure and Biogen and is a co-founder of Brain Biomarker Solutions in Gothenburg AB (BBS), which is a part of the GU Ventures Incubator Programme (outside submitted work). AJCS is advisor for Prolira, a start-up company that develops an EEG-based delirium monitor. Any (future) profits from EEG-based delirium monitoring will be used for future scientific research only. GS has participated in one advisory meeting for Biogen. HMN has received lecture fees from Vifor Pharma and Orion Pharma. The other authors declare that they have no competing interests.
+
+Footnote: Patient and public involvement: Patients and/or the public were involved in the design, or conduct, or reporting, or dissemination plans of this research. Refer to the 'Methods' section for further details.
+
+Footnote: Provenance and peer review: Not commissioned; externally peer reviewed.
+
+Footnote: Supplemental material: This content has been supplied by the author(s). It has not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been peer-reviewed. Any opinions or recommendations discussed are solely those of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and responsibility arising from any reliance placed on the content. Where the content includes any translated material, BMJ does not warrant the accuracy and reliability of the translations (including but not limited to local regulations, clinical guidelines, terminology, drug names and drug dosages), and is not responsible for any error and/or omissions arising from translation and adaptation or otherwise.
+
+## Ethics statements
+
+### Patient consent for publication
+
+Not applicable.
+
+# References
+
+# Delirium in hospitalized older adults
+
+# Delirium
+
+# Cognitive outcomes following coronary artery bypass grafting: a systematic review and meta-analysis of 91,829 patients
+
+# Comparison of frequency, risk factors, and time course of postoperative delirium in octogenarians after transcatheter aortic valve implantation versus surgical aortic valve replacement
+
+# Postoperative delirium in cardiac surgery: an unavoidable menace?
+
+# Blood-Brain barrier disruption after cardiopulmonary bypass: diagnosis and correlation to cognition
+
+# Effect of delirium and other major complications on outcomes after elective surgery in older adults
+
+# Delirium in elderly patients and the risk of postdischarge mortality, institutionalization, and dementia: a meta-analysis
+
+# Delirium is a risk factor for institutionalization and functional decline in older hip fracture patients
+
+# Economic impact of delirium in Australia: a cost of illness study
+
+# "Eight Days of Nightmares … " - Octogenarian Patients' Experiences of Postoperative Delirium after Transcatheter or Surgical Aortic Valve Replacement
+
+# Delirium after coronary artery bypass graft surgery and late mortality
+
+# Association of delirium with cognitive decline in late life: a neuropathologic study of 3 population-based cohort studies
+
+# Cognitive trajectories after postoperative delirium
+
+# Frailty and delirium in older adults: a systematic review and meta-analysis of the literature
+
+# Shared decision making in older patients with symptomatic severe aortic stenosis: a systematic review
+
+# Frailty in elderly people
+
+# The contribution of frailty, cognition, activity of daily life and comorbidities on outcome in acutely admitted patients over 80 years in European ICUs: the VIP2 study
+
+# A longitudinal study of motor subtypes in delirium: frequency and stability during episodes
+
+# Validating a new clinical subtyping scheme for delirium with electronic motion analysis
+
+# Motor activity across delirium motor subtypes in geriatric patients assessed using body-worn sensors: a Norwegian cross-sectional study
+
+# Visualisation of limb movements by accelerometers in sedated patients
+
+# Postoperative cognitive dysfunction and dementia: what we need to know and do
+
+# Interventions for preventing delirium in hospitalised non-ICU patients
+
+# Dexmedetomidine in prevention and treatment of postoperative and intensive care unit delirium: a systematic review and meta-analysis
+
+# Dexmedetomidine: an adjuvant making large inroads into clinical practice
+
+# The effect of dexmedetomidine and clonidine on the inflammatory response in critical illness: a systematic review of animal and human studies
+
+# Meta-Analysis of randomised controlled trials of perioperative dexmedetomidine to reduce delirium and mortality after cardiac surgery
+
+# Randomized clinical trial of intraoperative dexmedetomidine to prevent delirium in the elderly undergoing major non-cardiac surgery
+
+# Perioperative dexmedetomidine supplement decreases delirium incidence after adult cardiac surgery: a randomized, double-blind, controlled study
+
+# The effect of peri-operative dexmedetomidine on the incidence of postoperative delirium in cardiac and non-cardiac surgical patients: a randomised, double-blind placebo-controlled trial
+
+# Perioperative dexmedetomidine and 5-year survival in patients undergoing cardiac surgery
+
+# Effect of intravenous acetaminophen vs placebo combined with propofol or dexmedetomidine on postoperative delirium among older patients following cardiac surgery: the DEXACET randomized clinical trial
+
+# Dexmedetomidine for reduction of atrial fibrillation and delirium after cardiac surgery (decade): a randomised placebo-controlled trial
+
+# Dexmedetomidine reduces the incidence of postoperative delirium after cardiac surgery: a meta-analysis of randomized controlled trials
+
+# Dexmedetomidine and clonidine: from second- to first-line sedative agents in the critical care setting?
+
+# Alpha-2 and imidazoline receptor agonists. their pharmacology and therapeutic role
+
+# Clonidine for sedation in the critically ill: a systematic review and meta-analysis
+
+# Impact of clonidine administration on delirium and related respiratory weaning after surgical correction of acute type-A aortic dissection: results of a pilot study
+
+# A randomized control trial comparing prophylactic dexmedetomidine versus clonidine on rates and duration of delirium in older adult patients undergoing coronary artery bypass grafting
+
+# Subsyndromal delirium in older people: a systematic review of frequency, risk factors, course and outcomes
+
+# 2020 ESC guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation
+
+# EuroQol--a new facility for the measurement of health-related quality of life
+
+# The protocol of the Oslo study of clonidine in elderly patients with delirium; lucid: a randomised placebo-controlled trial
+
+# A roadmap to advance delirium research: recommendations from the nidus scientific think tank
+
+# The Richmond Agitation-Sedation scale: validity and reliability in adult intensive care unit patients
+
+# Abnormal level of arousal as a predictor of delirium and inattention: an exploratory study
+
+# Delirium detection and monitoring outside the ICU
+
+# Delirium in mechanically ventilated patients: validity and reliability of the confusion assessment method for the intensive care unit (CAM-ICU)
+
+# The confusion assessment method for the ICU-7 delirium severity scale: a novel delirium severity instrument for use in the ICU
+
+# The Montreal cognitive assessment, MoCA: a brief screening tool for mild cognitive impairment
+
+# The Consortium to establish a Registry for Alzheimer's disease (CERAD). Part I. Clinical and neuropsychological assessment of Alzheimer's disease
+
+# Trail making test a and B: normative data stratified by age and education
+
+# Normative data stratified by age and education for two measures of verbal fluency: Fas and animal naming
+
+# A standard procedure for creating a frailty index
+
+# Evaluation of changes in functional status in the year after aortic valve replacement
+
+# Frailty in Older Adults Undergoing Aortic Valve Replacement: The FRAILTY-AVR Study
+
+# Neurofilament light in serum and cerebrospinal fluid of hip fracture patients with delirium
+
+# Blood phosphorylated tau 181 as a biomarker for Alzheimer's disease: a diagnostic performance and prediction modelling study using data from four prospective cohorts
+
+# Association between plasma tau and postoperative delirium incidence and severity: a prospective observational study
+
+# Abnormal phosphorylation of tau protein and neuroinflammation induced by laparotomy in an animal model of postoperative delirium
+
+# Cerebrospinal fluid levels of interleukin-8 in delirium, dementia, and cognitively healthy patients
+
+# Cerebrospinal fluid S100B and Alzheimer's disease biomarkers in hip fracture patients with delirium
+
+# Associations between delirium and preoperative cerebrospinal fluid C-reactive protein, interleukin-6, and interleukin-6 receptor in individuals with acute hip fracture
+
+# Interplay between Notch and p53 promotes neuronal cell death in ischemic stroke
+
+# Reduced levels of circulating adhesion molecules in adolescents with early-onset psychosis
+
+# Data monitoring committees: promoting best practices to address emerging challenges
+
+# Effect of the tailored, Family-Involved Hospital elder life program on postoperative delirium and function in older adults: a randomized clinical trial
+
+# Dexmedetomidine for prevention of delirium in elderly patients after non-cardiac surgery: a randomised, double-blind, placebo-controlled trial
+
+# Prevalence of delirium with dexmedetomidine compared with morphine based therapy after cardiac surgery: a randomized controlled trial (dexmedetomidine compared to Morphine-DEXCOM study)
+
+# Clonidine in adults as a sedative agent in the intensive care unit
+
+# Cardiovascular safety of clonidine and dexmedetomidine in critically ill patients after cardiac surgery
+
+# Intravenous dexmedetomidine versus intravenous clonidine for post spinal anesthesia shivering: a meta-analysis of randomized controlled trials

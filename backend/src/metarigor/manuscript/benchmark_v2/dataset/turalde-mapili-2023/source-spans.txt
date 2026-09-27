@@ -1,0 +1,102 @@
+BEGIN V1_FACT fact-turalde-mapili-2023-identity {"content_sha256": "58e17c49ae136b4ee008d6eb89b65ca95517d7e034f4b9e9d263c2066339e049", "upstream_artifact_refs": ["source-review-turalde-mapili-2023"]}
+This manuscript reports a systematic review with an eligible headline synthesis.
+END V1_FACT fact-turalde-mapili-2023-identity
+BEGIN V1_FACT fact-turalde-mapili-2023-objective {"content_sha256": "6b326aee7154ba164414a94990dc466f3d14312ddaf5e2abcbaa2c5e54e82fad", "upstream_artifact_refs": ["accepted-protocol-turalde-mapili-2023"]}
+Among infants no older than one year, compare a single intramuscular dose of nirsevimab with placebo for Review-defined RSV efficacy and safety outcomes.
+END V1_FACT fact-turalde-mapili-2023-objective
+BEGIN V1_FACT fact-turalde-mapili-2023-eligibility {"content_sha256": "7e529a7da68977982aff9ea8655d847963a7ef86cd933da5584e8d3d956f9daa", "upstream_artifact_refs": ["accepted-protocol-turalde-mapili-2023"]}
+Eligibility criteria were prespecified in the accepted Protocol.
+END V1_FACT fact-turalde-mapili-2023-eligibility
+BEGIN V1_FACT fact-turalde-mapili-2023-search {"content_sha256": "f9e71f66c578697516c1d67323cb0be98d3ca8c96d459702635f91b9b8e6d3af", "upstream_artifact_refs": ["source-review-turalde-mapili-2023"]}
+Review 检索 MEDLINE、CENTRAL、Scopus 和 ClinicalTrials.gov，覆盖 registry。
+END V1_FACT fact-turalde-mapili-2023-search
+BEGIN V1_FACT fact-turalde-mapili-2023-method-basis {"content_sha256": "ed9832a12feed0c033ac6caeba153e9fb3b842589484ea69e1e7a251ea6182ca", "upstream_artifact_refs": ["accepted-protocol-turalde-mapili-2023", "ec-catalog"]}
+No method deviation was established.
+END V1_FACT fact-turalde-mapili-2023-method-basis
+BEGIN V1_FACT fact-turalde-mapili-2023-selection {"content_sha256": "c77388dc1a760de2b410b1ef90eaf8e3fdc2dd42dfe54f2ee713e0bd2233c324", "upstream_artifact_refs": ["ec-catalog"]}
+The headline synthesis included 2 studies; other selection-flow counts were not exposed in the curated V1 reference.
+END V1_FACT fact-turalde-mapili-2023-selection
+BEGIN V1_FACT fact-turalde-mapili-2023-studies {"content_sha256": "898c0dd753508a5c50acdb5f7e0700b406732265949ac566352710375f0a88ca", "upstream_artifact_refs": ["ec-catalog", "de-request-turalde-mapili-2023"]}
+Review 只纳入 nirsevimab versus placebo 的 randomized controlled trials。
+END V1_FACT fact-turalde-mapili-2023-studies
+BEGIN V1_FACT fact-turalde-mapili-2023-outcome {"content_sha256": "5684f5ea45be0ab83cb0299fd1f1df057190919d6f4c24ebf283740cd2011617", "upstream_artifact_refs": ["ec-catalog", "de-reference-turalde-mapili-2023"]}
+Trial 03 与 Trial 04 的 published RR 分别为 0.27 与 0.24，95% CI 广泛重叠。
+END V1_FACT fact-turalde-mapili-2023-outcome
+BEGIN V1_FACT fact-turalde-mapili-2023-synthesis {"content_sha256": "8164924cdd30becaf37aeaa07d1c71ba44dc8d23abf12a0f5dd36a8a5660c353", "upstream_artifact_refs": ["ec-catalog"]}
+两项 trial 的 published pooled RR=0.26 [0.18,0.38]、I²=0%，N=2943，control risk=71/980。
+END V1_FACT fact-turalde-mapili-2023-synthesis
+BEGIN V1_FACT fact-turalde-mapili-2023-risk-of-bias {"content_sha256": "5c41f4d490bac46aca3926c856479ef870f0b658a2a5cdf84272756f9454d1af", "upstream_artifact_refs": ["ec-catalog"]}
+两项 contributing randomized trials 的 evidence-body RoB profile。
+END V1_FACT fact-turalde-mapili-2023-risk-of-bias
+BEGIN V1_FACT fact-turalde-mapili-2023-certainty {"content_sha256": "f3ab39c0f6db97d733665f3623c6ab5f3dd8af1beb50642762462983a049d790", "upstream_artifact_refs": ["ec-gold"]}
+五领域中仅 imprecision 因 large-effect OIS 未满足而降一级；其余领域没有来源支持的降级理由。
+END V1_FACT fact-turalde-mapili-2023-certainty
+BEGIN V1_FACT fact-turalde-mapili-2023-context {"content_sha256": "48233faea04382b0668b7f980223c0d07bf11fd0c5f2c7f1498c79f86998c7e3", "upstream_artifact_refs": ["ec-catalog"]}
+两项 trial 的 evidence-side PICO、time horizon 与 setting。
+END V1_FACT fact-turalde-mapili-2023-context
+BEGIN V1_FACT fact-turalde-mapili-2023-limitation {"content_sha256": "f2e46420ad3d935f48696a12eac5640702bca7de22bc0717e2d1a8b775ca8f56", "upstream_artifact_refs": ["ec-catalog"]}
+两项 placebo-controlled RCT、outcome、contributor rows、RR 与 CI 均唯一且可核验。
+END V1_FACT fact-turalde-mapili-2023-limitation
+BEGIN DE_EVIDENCE trial03 result.ma_rsv_lrti {"canonical_field": "intervention_events", "document_key": "trial03.fulltext", "source_path": "documents/trial03-primary-full/source.html", "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58", "view_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"}
+From November 2016 through November 2017, a total of 1453 infants were randomly assigned to receive nirsevimab (969 infants) or placebo (484 infants) at the start of the RSV season. The incidence of medically attended RSV-associated lower respiratory tract infection was 70.1% lower (95% confidence interval [CI], 52.3 to 81.2) with nirsevimab prophylaxis than with placebo (2.6% [25 infants] vs. 9.5% [46 infants]; P<0.001) and the incidence of hospitalization for RSV-associated lower respiratory tract infection was 78.4% lower (95% CI, 51.9 to 90.3) with nirsevimab than with placebo (0.8% [8 infants] vs. 4.1% [20 infants]; P<0.001).
+END DE_EVIDENCE trial03 result.ma_rsv_lrti
+BEGIN DE_EVIDENCE trial04.melody result.ma_rsv_lrti {"canonical_field": "intervention_events", "document_key": "trial04.fulltext", "source_path": "documents/trial04-primary-full/source.html", "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23", "view_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"}
+A total of 1490 infants underwent randomization: 994 were assigned to the nirsevimab group and 496 to the placebo group. Medically attended RSV-associated lower respiratory tract infection occurred in 12 infants (1.2%) in the nirsevimab group and in 25 infants (5.0%) in the placebo group; these findings correspond to an efficacy of 74.5% (95% confidence interval [CI], 49.6 to 87.1; P<0.001) for nirsevimab. Hospitalization for RSV-associated lower respiratory tract infection occurred in 6 infants (0.6%) in the nirsevimab group and in 8 infants (1.6%) in the placebo group (efficacy, 62.1%; 95% CI, −8.6 to 86.8; P=0.07).
+END DE_EVIDENCE trial04.melody result.ma_rsv_lrti
+BEGIN DE_EVIDENCE trial03 result.rsv_hospitalization {"canonical_field": "intervention_events", "document_key": "trial03.fulltext", "source_path": "documents/trial03-primary-full/source.html", "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58", "view_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"}
+From November 2016 through November 2017, a total of 1453 infants were randomly assigned to receive nirsevimab (969 infants) or placebo (484 infants) at the start of the RSV season. The incidence of medically attended RSV-associated lower respiratory tract infection was 70.1% lower (95% confidence interval [CI], 52.3 to 81.2) with nirsevimab prophylaxis than with placebo (2.6% [25 infants] vs. 9.5% [46 infants]; P<0.001) and the incidence of hospitalization for RSV-associated lower respiratory tract infection was 78.4% lower (95% CI, 51.9 to 90.3) with nirsevimab than with placebo (0.8% [8 infants] vs. 4.1% [20 infants]; P<0.001).
+END DE_EVIDENCE trial03 result.rsv_hospitalization
+BEGIN DE_EVIDENCE trial04.melody result.rsv_hospitalization {"canonical_field": "intervention_events", "document_key": "trial04.fulltext", "source_path": "documents/trial04-primary-full/source.html", "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23", "view_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"}
+A total of 1490 infants underwent randomization: 994 were assigned to the nirsevimab group and 496 to the placebo group. Medically attended RSV-associated lower respiratory tract infection occurred in 12 infants (1.2%) in the nirsevimab group and in 25 infants (5.0%) in the placebo group; these findings correspond to an efficacy of 74.5% (95% confidence interval [CI], 49.6 to 87.1; P<0.001) for nirsevimab. Hospitalization for RSV-associated lower respiratory tract infection occurred in 6 infants (0.6%) in the nirsevimab group and in 8 infants (1.6%) in the placebo group (efficacy, 62.1%; 95% CI, −8.6 to 86.8; P=0.07).
+END DE_EVIDENCE trial04.melody result.rsv_hospitalization
+BEGIN DE_EVIDENCE trial03 result.adverse_events_leading_to_death {"canonical_field": "intervention_events", "document_key": "trial03.fulltext", "source_path": "documents/trial03-primary-full/source.html", "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58", "view_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"}
+Variable | Nirsevimab (N=968) | Placebo (N=479)
+ | number (percent)
+Adverse event during the trial period | 834 (86.2) | 416 (86.8)
+Considered related to trial drug † | 22 (2.3) | 10 (2.1)
+≥Grade 3 | 77 (8.0) | 60 (12.5)
+Occurred ≤1 day after the dose | 24 (2.5) | 12 (2.5)
+Occurred ≤7 days after the dose | 121 (12.5) | 73 (15.2)
+Death ‡ | 2 (0.2) | 3 (0.6)
+END DE_EVIDENCE trial03 result.adverse_events_leading_to_death
+BEGIN DE_EVIDENCE trial04.melody result.adverse_events_leading_to_death {"canonical_field": "intervention_events", "document_key": "trial04.fulltext", "source_path": "documents/trial04-primary-full/source.html", "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23", "view_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"}
+Variable | Nirsevimab (N=987) | Placebo (N=491) | Total (N=1478)
+ | no. of participants (%)
+Any adverse event | 863 (87.4) | 426 (86.8) | 1289 (87.2)
+Considered to be related to the trial regimen | 10 (1.0) | 7 (1.4) | 17 (1.2)
+Occurred ≤1 day after the injection | 18 (1.8) | 3 (0.6) | 21 (1.4)
+Occurred ≤3 days after the injection | 56 (5.7) | 23 (4.7) | 79 (5.3)
+Occurred ≤7 days after the injection | 132 (13.4) | 63 (12.8) | 195 (13.2)
+Adverse event of grade ≥3 severity | 36 (3.6) | 21 (4.3) | 57 (3.9)
+Adverse event that resulted in death | 3 (0.3) | 0 | 3 (0.2)
+END DE_EVIDENCE trial04.melody result.adverse_events_leading_to_death
+BEGIN DE_EVIDENCE trial03 result.adverse_events_special_interest {"canonical_field": "intervention_events", "document_key": "trial03.fulltext", "source_path": "documents/trial03-primary-full/source.html", "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58", "view_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"}
+Variable | Nirsevimab (N=968) | Placebo (N=479)
+ | number (percent)
+Adverse event during the trial period | 834 (86.2) | 416 (86.8)
+Considered related to trial drug † | 22 (2.3) | 10 (2.1)
+≥Grade 3 | 77 (8.0) | 60 (12.5)
+Occurred ≤1 day after the dose | 24 (2.5) | 12 (2.5)
+Occurred ≤7 days after the dose | 121 (12.5) | 73 (15.2)
+Death ‡ | 2 (0.2) | 3 (0.6)
+Serious adverse event during the trial period |  |
+Any | 108 (11.2) | 81 (16.9)
+Considered related to trial drug † | 0 | 0
+Adverse event of special interest § |  |
+Any | 5 (0.5) | 3 (0.6)
+Considered related to trial drug † | 5 (0.5) | 3 (0.6)
+END DE_EVIDENCE trial03 result.adverse_events_special_interest
+BEGIN DE_EVIDENCE trial04.melody result.adverse_events_special_interest {"canonical_field": "intervention_events", "document_key": "trial04.fulltext", "source_path": "documents/trial04-primary-full/source.html", "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23", "view_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"}
+Variable | Nirsevimab (N=987) | Placebo (N=491) | Total (N=1478)
+ | no. of participants (%)
+Any adverse event | 863 (87.4) | 426 (86.8) | 1289 (87.2)
+Considered to be related to the trial regimen | 10 (1.0) | 7 (1.4) | 17 (1.2)
+Occurred ≤1 day after the injection | 18 (1.8) | 3 (0.6) | 21 (1.4)
+Occurred ≤3 days after the injection | 56 (5.7) | 23 (4.7) | 79 (5.3)
+Occurred ≤7 days after the injection | 132 (13.4) | 63 (12.8) | 195 (13.2)
+Adverse event of grade ≥3 severity | 36 (3.6) | 21 (4.3) | 57 (3.9)
+Adverse event that resulted in death | 3 (0.3) | 0 | 3 (0.2)
+Serious adverse event † | 67 (6.8) | 36 (7.3) | 103 (7.0)
+Considered to be related to the trial regimen | 0 | 0 | 0
+Adverse event of special interest ‡ | 1 (0.1) | 0 | 1 (0.1)
+END DE_EVIDENCE trial04.melody result.adverse_events_special_interest

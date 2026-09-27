@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0.0",
+  "case_id": "balbaa-2025",
+  "source_mode": "raw",
+  "selection_mode": "direct",
+  "repair_mode": "none",
+  "source_run_ids": [
+    "de-v3-balbaa-2025-r1-20260826T191206Z-302167ff",
+    "de-v3-balbaa-2025-r2-20260826T193225Z-11341950",
+    "de-v3-balbaa-2025-r3-20260826T195059Z-289be6df"
+  ],
+  "selected_run_id": "de-v3-balbaa-2025-r1-20260826T191206Z-302167ff",
+  "documents": [
+    {
+      "document_key": "atkinson.fulltext",
+      "source_document_sha256": "c851c3b413ed3f3846b147b2a0ba52d375ee1a7b219642bfe4dae3b0996d1455",
+      "snapshot_path": "frozen/atkinson.fulltext/source.docling.json",
+      "snapshot_sha256": "599beec8f4f7ce0fc19432b302663d022ad4146cca7edb63409e667b70e51091",
+      "media_type": "application/vnd.docling+json",
+      "converter": {
+        "name": "docling",
+        "version": "2.117.0",
+        "pipeline": "standard",
+        "do_ocr": false,
+        "do_table_structure": true,
+        "table_mode": "accurate"
+      },
+      "character_repair_applied": false,
+      "prepare_stage_output_sha256": "14642ccf6607dc90640a89cdd621571c161c76ad7e44a2e61e3e03028b53b8c5",
+      "repair_stage_output_sha256s": [],
+      "repair_apply_stage_output_sha256": null
+    },
+    {
+      "document_key": "bode.fulltext",
+      "source_document_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+      "snapshot_path": "frozen/bode.fulltext/source.docling.json",
+      "snapshot_sha256": "8651c3ad9ad8f840f9993465d0c865106c92d32240d2b021f7b2f7de6e63d2ab",
+      "media_type": "application/vnd.docling+json",
+      "converter": {
+        "name": "docling",
+        "version": "2.117.0",
+        "pipeline": "standard",
+        "do_ocr": false,
+        "do_table_structure": true,
+        "table_mode": "accurate"
+      },
+      "character_repair_applied": false,
+      "prepare_stage_output_sha256": "32a514ba5687e336ade29d690e4feae08eb3446db549de7a59960a7c9a150d67",
+      "repair_stage_output_sha256s": [],
+      "repair_apply_stage_output_sha256": null
+    },
+    {
+      "document_key": "boukantar.fulltext",
+      "source_document_sha256": "ed40e773fbdbf0571245eb819a25a8c5341af5e431dda72beab5f74ddcfea4e5",
+      "snapshot_path": "frozen/boukantar.fulltext/source.docling.json",
+      "snapshot_sha256": "8445ad3b195aff574d1f6e39a0d809f88a7af4a17ac25cfe6529cbc52a239aec",
+      "media_type": "application/vnd.docling+json",
+      "converter": {
+        "name": "docling",
+        "version": "2.117.0",
+        "pipeline": "standard",
+        "do_ocr": false,
+        "do_table_structure": true,
+        "table_mode": "accurate"
+      },
+      "character_repair_applied": true,
+      "prepare_stage_output_sha256": "f505792e268a20a8033e5b4df74d7fcfae1a6bcaea78f5bde2e42fecf41b5968",
+      "repair_stage_output_sha256s": [
+        "bb555467b0757df7e61e1f83bff53f118a0789d882b751ca2264a065d5f04673",
+        "da8287fcc7a6f67bde2b0d6a9138663ca997ca206283e9a8a1d8702d3f503f19"
+      ],
+      "repair_apply_stage_output_sha256": "68b01df04189b8b7f768442c5b407cdad4545332987919a045187ddf55c8064c"
+    },
+    {
+      "document_key": "ferreira.fulltext",
+      "source_document_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+      "snapshot_path": "frozen/ferreira.fulltext/source.docling.json",
+      "snapshot_sha256": "d9d4164d0c939a13488181895158b722a75310e5540c03eccbd36f926884f27f",
+      "media_type": "application/vnd.docling+json",
+      "converter": {
+        "name": "docling",
+        "version": "2.117.0",
+        "pipeline": "standard",
+        "do_ocr": false,
+        "do_table_structure": true,
+        "table_mode": "accurate"
+      },
+      "character_repair_applied": false,
+      "prepare_stage_output_sha256": "a25294bb6bb9071511663f63ac2674b402fcf274cbbf37453c859f24d7500cd1",
+      "repair_stage_output_sha256s": [],
+      "repair_apply_stage_output_sha256": null
+    },
+    {
+      "document_key": "woods.fulltext",
+      "source_document_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+      "snapshot_path": "frozen/woods.fulltext/source.docling.json",
+      "snapshot_sha256": "9af15e88cb9d755b3ab61f88ddfdb97820bef4a6abdf7d564023e039d9852a35",
+      "media_type": "application/vnd.docling+json",
+      "converter": {
+        "name": "docling",
+        "version": "2.117.0",
+        "pipeline": "standard",
+        "do_ocr": false,
+        "do_table_structure": true,
+        "table_mode": "accurate"
+      },
+      "character_repair_applied": false,
+      "prepare_stage_output_sha256": "8a953c9d7cc8b8eb5293672b5b5bb15abf6de8231251367939de77d29e2b57ff",
+      "repair_stage_output_sha256s": [],
+      "repair_apply_stage_output_sha256": null
+    }
+  ]
+}

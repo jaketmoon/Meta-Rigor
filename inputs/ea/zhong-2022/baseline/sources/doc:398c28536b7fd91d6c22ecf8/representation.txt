@@ -1,0 +1,383 @@
+[DOCLING_PAGE 1]
+
+RESPIRATORY CARE Paper in Press. Published on June 6, 2017 as DOI: 10.4187/respcare.05153
+
+High-Flow Nasal Cannula Utilization in Pediatric Critical Care
+
+Kristen D Coletti MD, Dayanand N Bagdure MBBS, Linda K Walker MD, Kenneth E Remy MD MHSc, and Jason W Custer MD
+
+BACKGROUND: High-flow nasal cannula (HFNC) is increasingly utilized in pediatrics, delivering humidified air and oxygen for respiratory conditions causing hypoxia and distress. In the neonatal ICU, it has been associated with better tolerance, lower complications, and lower cost. Few data exist regarding indications for use and the epidemiology of disease/pathology that warrants HFNC in the pediatric ICU. METHODS: This study is a retrospective cohort study of patients admitted to a tertiary children's hospital pediatric ICU and placed on HFNC from October 1, 2011 to October 31, 2013. Descriptive statistics were used to describe demographics and utilization data. t test comparisons were used for comparison data. RESULTS: Over the enrollment study period, 620 subjects with HFNC were managed, which represented 27% of total ICU admissions. The average age was 3.74 y (range 0-18.1 y), and subjects were 44% female and 65% African American. Reported primary indications for the utilization of HFNC were status asthmaticus (24%), status asthmaticus with pneumonia (17%), and bronchiolitis (16%). Of the subjects admitted with a primary diagnosis of status asthmaticus, 41% required management with terbutaline. Respiratory viral infections were detected by polymerase chain reaction in 334 subjects managed with HFNC (53.8%) and included 260 subjects testing positive for rhinovirus/enterovirus. When compared with all other respiratory viral illness, subjects with rhinovirus/enterovirus required a higher peak flow (14.9 L vs 13.1 L, P = .01); however, this was an older population, and peak oxygen concentration did not differ between the 2 groups (49.8% vs 47.1%, P = .25). HFNC was used as postextubation support in 16% of the subjects. Of the 63 subjects with congenital heart disease, 92% of the utilization was postextubation. CONCLUSIONS: HFNC was utilized in 27% of all pediatric ICU admissions for a wide range of indications. Development of protocols for the initiation, escalation, and weaning of HFNC would optimize the utilization. Key words: high-flow nasal cannula; pediatric ICU; status asthmaticus; bronchiolitis; pediatric. [Respir Care 0;0(0):1-·. © 0 Daedalus Enterprises]
+
+Introduction
+
+Respiratory illnesses are the most common conditions leading to pediatric hospitalizations, with asthma and pneumonia among the top 10 diagnoses in all pediatric age groups. 1 Whereas endotracheal intubation and mechanical
+
+Dr Coletti is affiliated with the Department of Pediatrics, Pediatric Residency Program, Johns Hopkins University, Baltimore, Maryland. Dr Bagdure, Dr Walker, and Dr Custer are affiliated with the Division of Pediatric Critical Care, Department of Pediatrics, University of Maryland, Baltimore, Maryland. Dr Remy is affiliated with the Division of Pediatric Critical Care, Department of Pediatrics, Washington University School of Medicine, St Louis, Missouri.
+
+The authors have disclosed no conflicts of interest.
+
+·
+
+● ●
+
+VOL
+
+●
+
+NO
+
+●
+
+ventilation is an established, effective supportive therapy for respiratory failure, it is associated with increased risk for infection, lung and airway injury, length of stay, and sedation-related complications with related high costs. Noninvasive methods of respiratory support, including simple and high-flow oxygen via nasal cannula, CPAP, and noninvasive ventilation (NIV), are alternative means of treating respiratory insufficiency to avoid the need for mechanical ventilation and prevent extubation failure. 2,3
+
+Correspondence: Jason W Custer MD, University of Maryland, Department of Pediatrics, Division of Pediatric Critical Care, 110 South Paca Street, 8th floor, Baltimore MD 21201. E-mail: jcuster@peds.umaryland.edu.
+
+DOI: 10.4187/respcare.05153
+
+RESPIRATORY CARE
+
+1
+
+Copyright (C) 2017 Daedalus Enterprises ePub ahead of print papers have been peer-reviewed, accepted for publication, copy edited and proofread. However, this version may differ from the final published version in the online and print editions of RESPIRATORY CARE
+
+[DOCLING_PAGE 2]
+
+RESPIRATORY CARE Paper in Press. Published on June 6, 2017 as DOI: 10.4187/respcare.05153
+
+HFNC IN PEDIATRIC CRITICAL CARE
+
+Oxygen therapy via high-flow nasal cannula (HFNC) is an increasingly utilized form of noninvasive respiratory support that is safe and well tolerated by patients. 4-6 This delivery method produces heated, humidified air and oxygen 7,8 at flows > 2 L/kg/min. 9 It is thought that HFNC supports respiration by reducing work of breathing, 9-13 decreasing patient work expenditure to heat, improving lung compliance, 8,13 eliminating dead space, 10 and increasing lung mucociliary clearance. 12 HFNC may also deliver CPAP, 8,9,12,14-16 although the exact amount of pressure may be unpredictable. 17
+
+HFNC has been utilized in neonates and pediatric patients with asthma, 18 bronchiolitis, 19 , pneumonia, 4,20,21 congenital cardiac lesions, 6 cardiomyopathy, 21 postextubation, 22 neonatal respiratory distress syndrome, 23 apnea of prematurity, 24 and obstructive sleep apnea. 25,26 It has been shown to decrease intubation rates 11,15,20 and respiratory distress 5,6,27-29 while increasing oxygenation. 5,6,27 Some studies have shown that it is comparable with CPAP in the management of bronchiolitis in terms of oxygenation and length of stay in the pediatric ICU. 8 It has also been associated with increased patient comfort 9,11 and increased ease of use as compared with face mask or traditional cannula. 5 In the neonatal ICU, it has been associated with better tolerance, reduced nasal/mucosal injury, 22,30-32 ease of use, 33 fewer complications, and lower cost than CPAP. 30
+
+Despite a growing body of evidence supporting the use of HFNC for respiratory support in pediatric patients, there exist few randomized controlled trials endorsing its utilization. Three reports by the Cochrane group 34-36 in preterm infants, bronchiolitis subjects, and pediatric subjects deemed that the safety and effectiveness of HFNC therapy cannot be determined based on the current published literature, with the studies' heterogeneous designs hindering inter-study comparison. 35 Randomized controlled trials in the neonatal ICU demonstrate that HFNC is a therapy comparable with CPAP in terms of oxygenation, hospital stay, and adverse outcomes, 22,31,32 although subjects failing HFNC have been successfully treated with CPAP. 30 To our knowledge, no randomized controlled trials exist outside of the neonatal ICU, and the majority of HFNC literature is in preterm infants or infants with bronchiolitis. 35 There are a few recent studies that explore the use of HFNC in older children in the emergency department and in the pediatric ICU. 5,20,37,38 Taken together, the effect of HFNC on traditional outcome measures in pediatric patients is unclear with additional research necessary to expand our understanding of its safety and efficacy among all age groups and diagnoses.
+
+Despite the paucity of evidence supporting HFNC utilization in pediatric patients, this therapy has gained wide acceptance in pediatric ICUs as a commonly used respiratory supportive therapy. However, the practitioner use patterns of HFNC among a very heterogeneous pediatric
+
+QUICK LOOK
+
+Current knowledge
+
+High-flow nasal cannula has been used in infants with respiratory distress syndrome and infants with bronchiolitis. High nasal oxygen flows create a CPAP effect and provide a consistent oxygen delivery regardless of subject demand enhancing oxygenation.
+
+What this paper contributes to our knowledge
+
+In a single pediatric ICU, high-flow nasal cannula was used in 27% of all pediatric ICU admissions over a 2-y period and was used for a broad range of diagnoses, including status asthmaticus, pneumonia, and congenital heart disease. The therapy was well tolerated, and the failure rate of subjects who required either noninvasive ventilation or intubation was 5.8%.
+
+ICU population (large variations in ages and diagnoses) are unclear. Few data exist regarding indications for HFNC use and the epidemiology of disease/pathology that warrants HFNC. 39 Thus, in this study, we elucidated HFNC application in clinical practice in an urban, academic tertiary care pediatric ICU. We attempt to identify how HFNC is currently being utilized, including common diagnoses, patient ages, physiologic parameters, associated viral illnesses, length of utilization, and relationship to overall hospital course.
+
+Methods
+
+We conducted a retrospective descriptive cohort study to evaluate demographic and clinical characteristics of pediatric patients who had HFNC respiratory support. The study was approved by the institutional review board at the University of Maryland School of Medicine. Children admitted to a mixed pediatric/pediatric cardiac ICU within a tertiary care children's hospital between October 1, 2011 and October 31, 2013 were included in this study. The electronic medical record identified patients with an order placed for HFNC (Vapotherm, Exeter, New Hampshire) for any period of time during their pediatric ICU admission, and these subjects were included. Patients who had an order placed but were not initiated on HFNC were not included in the analysis.
+
+Data were extracted from a clinical electronic medical record. Demographic data, including age, sex, and race, as well as clinical data, including length of HFNC use, peak flow/d, peak F IO 2 /d, length of hospital stay, primary diagnosis, and respiratory viral infection status, were collected. Primary diagnosis was defined from the discharged sum-
+
+2 RESPIRATORY CARE · ● ● VOL ● NO ● Copyright (C) 2017 Daedalus Enterprises ePub ahead of print papers have been peer-reviewed, accepted for publication, copy edited and proofread. However, this version may differ from the final published version in the online and print editions of RESPIRATORY CARE
+
+[DOCLING_PAGE 3]
+
+RESPIRATORY CARE Paper in Press. Published on June 6, 2017 as DOI: 10.4187/respcare.05153
+
+Demographics
+
+Over the study period, 620 subjects were managed with HFNC during their pediatric ICU stay. This represented 27% of all pediatric ICU admissions over the same time period. The demographics of the subjects are summarized in Table 1. Subjects tended to be < 12 y of age with an equal distribution across age groups. The subject population had a large percentage of African Americans (65%) compared with an overall pediatric ICU percentage of approximately 54% African Americans during the same time period. The most frequent primary diagnosis for subjects receiving HFNC therapy was status asthmaticus and bronchiolitis. The majority of subjects (73%) received only HFNC during their pediatric ICU admissions other than standard nasal cannula for respiratory support. Ninety-eight subjects required HFNC as a postextubation transitional therapy. Forty-two subjects progressed to intubation, CPAP, or NIV after the use of HFNC. Eighteen percent of subjects had HFNC initiated outside of the pediatric ICU either in the emergency department or on the hospital floor and were admitted to the pediatric ICU already receiving this therapy. The most frequent other therapies given to subjects receiving HFNC were antibiotics (81%) and corticosteroids (63%). Over the study period, only 2 subjects required discontinuation of therapy due to discomfort.
+
+HFNC Utilization by Primary Diagnosis
+
+The most common primary admission diagnosis that required the use of HFNC in our cohort was status asthmaticus (27.5%), followed by bronchiolitis (23.7%) (Table 2). Forty-three percent of the cohort had a prior history of
+
+HFNC IN PEDIATRIC CRITICAL CARE
+
+mary and treatment modalities utilized during the ICU stay. We defined status asthmaticus as subjects requiring albuterol treatment at least every hour. We defined pneumonia as a subject with an infiltrate on chest x-ray and fever. We further defined status asthmaticus with pneumonia as the group requiring frequent albuterol who also had an infiltrate on chest x-ray and fever.
+
+Statistical Analysis
+
+Descriptive statistics were used to describe demographic and HFNC utilization data. One-way analysis of variance was used to compare peak FIO2 and peak flow requirements across different respiratory viral infections. Independent-sample t tests were used when comparing 2 samples. Data were subdivided by primary diagnosis, and additional descriptive statistics were calculated. Microsoft Excel was used for all analysis.
+
+Results
+
+[DOCLING_TABLE rows=41 columns=2]
+| Characteristics | n (%) |
+| Female sex | 272 (44) |
+| Age group |  |
+| < 6 months | 153 (25) |
+| 6-23 months | 147 (24) |
+| 2-4 y | 148 (24) |
+| 5-12 y | 136 (22) |
+| 13-17 y | 36 (5) |
+| Ethnicity |  |
+| White | 153 (25) |
+| Black | 403 (65) |
+| Hispanic | 4 (1) |
+| Asian/Pacific Islander | 7 (1) |
+| Other/multiracial | 53 (8) |
+| Asthma/history of wheezing | 264 (43) |
+| Primary indication for HFNC |  |
+| Status asthmaticus | 171 (27.5) |
+| Status asthmaticus and pneumonia | 85 (13.7) |
+| Bronchiolitis | 147 (23.7) |
+| Congenital cardiac disease with respiratory distress | 62 (10) |
+| Pneumonia | 71 (11.5) |
+| Other | 84 (13.5) |
+| HFNC utilization |  |
+| Only therapy | 455 (73) |
+| Post-extubation only | 98 (16) |
+| Post-NIV or CPAP | 27 (4) |
+| Pre- and post-extubation | 40 (7) |
+| Location of HFNC initiation |  |
+| Pediatric ICU | 504 (82) |
+| Emergency department | 102 (16) |
+| Outside facility and transferred | 14 (2) |
+| Other therapies |  |
+| Continuous albuterol | 66 (11) |
+| Terbutaline | 121 (20) |
+| Magnesium sulfate | 216 (35) |
+| Corticosteroids | 392 (63) |
+| Racemic epinephrine | 136 (22) |
+| Antibiotics > 48 h | 414 (67) |
+| Antibiotics < 48 h | 84 (14) |
+| N = 620. |  |
+| HFNC = high-flow nasal cannula NIV = noninvasive ventilation |  |
+[/DOCLING_TABLE]
+
+wheezing at the time of admission. To understand the impact of the availability of this therapy on length of stay in status asthmaticus, we compared the overall stay of all subjects admitted with a primary diagnosis of status asthmaticus to the pediatric ICU after the implementation of HFNC ( n = 183) with a cohort of 154 subjects with status asthmaticus admitted before the use of HFNC and found no significant difference in ICU length of stay (3.4 d vs 3.5 d, P = .74). Subjects were also similar in age (5.9 y vs 6.6 y, P = .11). Peak flow ranges by age are shown in Table 3.
+
+RESPIRATORY CARE · ● ● VOL ● NO ● 3 Copyright (C) 2017 Daedalus Enterprises ePub ahead of print papers have been peer-reviewed, accepted for publication, copy edited and proofread. However, this version may differ from the final published version in the online and print editions of RESPIRATORY CARE
+
+[DOCLING_PAGE 4]
+
+RESPIRATORY CARE Paper in Press. Published on June 6, 2017 as DOI: 10.4187/respcare.05153
+
+Table 2. High-Flow Nasal Cannula Utilization Broken Down by Diagnostic Indication
+
+HFNC IN PEDIATRIC CRITICAL CARE
+
+[DOCLING_TABLE rows=8 columns=2]
+| Peak Flow/kg, Mean ± SD (Range) L/kg | 0.78 ± 0.37 (0.15-2.1) 1.6 ± 0.6 (0.59-3.7) 0.8 ± 0.44 (0.19-2.5) 1.17 ± 0.58 (0.24-2.94) 1.86 ± 0.82 (0.27-4.32) 1.16 ± 0.82 (0.14-4.29) |
+| Peak F IO 2 , Mean ± SD (Range) Peak Flow, Mean ± SD (Range) L | ± 14 (30-100) 14.9 ± 4.5 (4-45) ± 16 (24-100) 11.6 ± 4.6 (5-26) ± 19 (30-100) 15.7 ± 5.1 (8-32) ± 20.4 (21-100) 15 ± 6.6 (5-40) ± 21 (21-100) 10 ± 3.8 (5-25) ± 19.2 (21-100) 13.5 ± 6.2 (3-30) |
+| Hospital Days Receiving HFNC, Mean ± SD d (IQR) | 2.5 ± 1.1 (2-3) 3.5 ± 2.3 (2-4) 2.8 ± 1.5 (2-3) 3.6 ± 2.0 (2-5) 4.2 ± 4.7 (2-4) 5.8 ± 7.3 (2-6) |
+| Hospital LOS, Mean ± SD d | 3.5 ± 1.6 8.6 ± 14.3 4.5 ± 2.3 12.7 ± 14.5 39.3 ± 64.5 28.4 ± 39.1 |
+| Pediatric ICU LOS, Mean ± SD d | 3.3 ± 1.4 7.2 ± 10.2 4.2 ± 2.1 10.7 ± 13.4 38.8 ± 50.9 20.9 ± 35.7 |
+| (%) Age, median (IQR) y | (27.5) 5.3 (2.6-7) (23.7) 0.9 (0.2-1.3) (13.7) 5.5 (2.6-7.4) (11.5) 4.5 (0.8-6) (10) 1.3 (0-0.6) (13.5) 5 (0.3-7.7) |
+| Indication for HFNC n | asthmaticus 171 146 asthmaticus with 85 including 72 cardiac disease respiratory distress 62 84 = high-flow nasal cannula interquartile range length of stay |
+| Primary | Status Bronchiolitis Status pneumonia Pneumonia aspiration Congenital with Other HFNC IQR = LOS = |
+[/DOCLING_TABLE]
+
+Table 3. High-Flow Nasal Cannula Peak F IO 2 and Peak Flow by Age Groups
+
+[DOCLING_TABLE rows=6 columns=4]
+| Age Group | n | Peak F IO 2 , Mean ± SD | Peak Flow, Mean ± SD (Range) L |
+| < 6 months | 153 | 0.46 ± 0.18 | 8.9 ± 3 (5-20) |
+| 6-23 months | 147 | 0.48 ± 0.19 | 13 ± 4.4 (6-26) |
+| 2-4 y | 148 | 0.47 ± 0.13 | 13.8 ± 4 (6-25) |
+| 5-12 y | 136 | 0.54 ± 0.20 | 17.3 ± 6 (8-45) |
+| 13-18 y | 36 | 0.55 ± 0.22 | 21.1 ± 6.8 (12-40) |
+[/DOCLING_TABLE]
+
+Subjects were broken down into age groups, and peak flow and peak oxygen requirement were analyzed. Peak flow on average increased as age increased. There appeared to be 3 distinct age groups of subjects: < 6 months old, from 6 months to 5 y old, and ≥ 5 y old. Subjects < 6 months old had a peak flow that was statistically significantly less than subjects from 6 months to 4 y old (8.9 L vs 13.4 L, P < .001). Subjects from 6 months to 5 y old had statistically significantly lower flow than older subjects (13.4 L vs 18.1 L, P < .001). Comparing subjects from 6 months to 5 y of age with subjects > 5 y old, we found that the older subjects required significantly more peak oxygen (54.3% vs 47.7%, P < .001).
+
+Viral Infections
+
+336 subjects with viral infections detected by polymerase chain reaction were managed on HFNC during the study period (Table 4). Fourteen subjects had multiple viruses detected. The most frequent viral infection detected was rhinovirus/enterovirus. Subjects with rhinovirus tended to be older (4.5 y vs 2.1 y, P < .001). When compared with all other respiratory viral illness, subjects with rhinovirus/enterovirus required a higher peak flow (14.9 L vs 13.1 L, P = .02); however, when analyzed as peak flow/kg, the rhinovirus/enterovirus group had a lower peak flow per kg (0.99 vs 1.4 L/kg, P < .001). Peak oxygen concentration did not differ between the 2 groups (49.8% vs 47.1%, P = .35) (Table 4). Escalation of therapy after the initiation of HFNC is shown in Table 5.
+
+In this cohort, 36 subjects (5.8%) escalated to either NIV with CPAP or biphasic positive airway pressure after initially being managed on HFNC. Twenty-eight subjects (4.5%) required intubation and mechanical ventilation after failing therapy with HFNC, resulting in an overall failure of approximately 10% of the subjects. The subjects who escalated to NIV were not significantly different in age from the other subjects (4.4 y vs 3.6 y, P = .29). Subjects requiring intubation were younger than those who did not require intubation (2 y vs 3.6 y, P = .030). Subjects with pneumonia required intubation with the highest frequency.
+
+RESPIRATORY CARE
+
+·
+
+● ●
+
+VOL
+
+●
+
+NO
+
+●
+
+4
+
+Copyright (C) 2017 Daedalus Enterprises ePub ahead of print papers have been peer-reviewed, accepted for publication, copy edited and proofread. However, this version may differ from the final published version in the online and print editions of RESPIRATORY CARE
+
+[DOCLING_PAGE 5]
+
+RESPIRATORY CARE Paper in Press. Published on June 6, 2017 as DOI: 10.4187/respcare.05153
+
+Discussion
+
+This is a retrospective cohort study to describe the use of HFNC in a tertiary care academic pediatric ICU over a 2-y period. HFNC has been shown to be a safe and effective form of noninvasive respiratory support for patients with a variety of conditions, including bronchiolitis and pre-term infants. Our study shows that HFNC is being utilized on a wide variety of diagnoses, including a significant number of subjects in whom HFNC is utilized as a therapy for status asthmaticus and respiratory support for subjects with congenital heart disease with respiratory distress.
+
+There are limited reports about the use of HFNC as a respiratory support modality for status asthmaticus. In this study, 41% of subjects had a primary diagnosis of status asthmaticus, and 63% of subjects received corticosteroids during HFNC therapy, indicating clinical concerns for airway inflammation. In our cohort, 20% of subjects required terbutaline therapy, indicating severe status asthmaticus. HFNC may be a helpful adjunctive therapy during the treatment of status asthmaticus due to providing PEEP as well as helping with dead space clearance of carbon dioxide. Further investigation into the use of HFNC in status asthmaticus should be considered. In vitro studies have shown HFNC to be an effective mechanism for aerosol-
+
+HFNC IN PEDIATRIC CRITICAL CARE
+
+[DOCLING_TABLE rows=7 columns=7]
+| Viral Infection | n (%) | Age, Mean ± SD y | Pediatric ICU LOS, Mean ± SD d | Peak F IO 2 , Mean ± SD | Peak Flow, Mean ± SD L | Peak Flow/kg Weight, Mean ± SD (Range) L/kg |
+| Rhinovirus/enterovirus | 260 | 4.5 ± 3.8 | 7.1 ± 17.2 | 49.8 ± 18.2 | 14.9 ± 5.8 | 0.99 ± 0.58 (0.11-3.26)* |
+| RSV (A and B) | 48 | 1.7 ± 1.8 | 8.3 ± 14.2 | 42.1 ± 10 | 12.2 ± 4.5 | 1.61 ± 0.61 (0.48-2.84) |
+| Human metaopneumovirus | 20 | 2.3 ± 2.8 | 9.2 ± 10.2 | 50.5 ± 19.9 | 13.9 ± 6.4 | 1.27 ± 0.54 (0.52-2.37) |
+| Parainfluenza (1, 2, and 3) | 13 | 3.2 ± 3 | 9.1 ± 15.7 | 46.9 ± 16.7 | 11.1 ± 3.5 | 0.9 ± 0.54 (0.19-2.32) |
+| Adenovirus | 6 | 1.8 ± 2.1 | 10.7 ± 14.4 | 45 ± 13.8 | 10.3 ± 2.7 | 1.38 ± 0.74 (0.44-2.53) |
+| Influenza (A and B) | 3 | 2 ± 2.4 | 5 ± 2.6 | 46.7 ± 17.6 | 11.7 ± 2.9 | 1.22 ± 0.55 (0.85-1.86) |
+[/DOCLING_TABLE]
+
+LOS = length of stay
+
+RSV = respiratory syncytial virus
+
+[DOCLING_TABLE rows=3 columns=10]
+| Escalation Therapy | n (%) | Age, Median (IQR) y | HD Escalated ± SD | Status Asthmaticus, n (%) | Bronchiolitis, n (%) | Status with Pneumonia, n (%) | Pneumonia, n (%) | CHD, n (%) | Other, n (%) |
+| NIV | 35 (5.6%) | 4.4 (0.2-7.4) | 1.6 ± 0.97 | 3 (1.7) | 16 (10.8) | 10 (11.7) | 5 (7) | 1 (1.6) | 1 (1.2) |
+| Intubation | 28 (4.5%) | 2 (0.35-2.1) | 2.8 ± 3.6 | 0 | 12 (8.1) | 0 | 12 (16.9) | 2 (3.2) | 2 (2.3) |
+[/DOCLING_TABLE]
+
+IQR = interquartile range
+
+HD = hospital day
+
+CHD = congenital heart disease
+
+NIV = noninvasive ventilation ized drug delivery; however, optimal settings have yet to be determined. 37
+
+HFNC was initiated in the pediatric ICU the majority of the time; however, 18% of subjects had HFNC initiated outside of the pediatric ICU. Of the 102 subjects who had HFNC initiated in the emergency department, only 4 of them went on to require intubation. This is similar to the 6% pediatric ICU intubation rate reported by Wing et al. 20 This trend will have implications for inter-facility transport as this therapy becomes more widespread and hospitals without pediatric ICUs begin to initiate this therapy. Pediatric transport teams should begin to incorporate HFNC capability into their ambulance transport vehicles to accommodate patients who require this level of support. Wing et al 20 showed a drop in the percentage of subjects requiring intubation with the initiation of HFNC in the pediatric emergency department. Since the majority of patients who are initiated on HFNC do not go on to require intubation and mechanical ventilation, intubation to allow for a safe inter-facility transport may present unnecessary harm to the patient.
+
+We believe this is the first study of its kind to describe the use of HFNC over a broad range of primary diagnosis and age ranges in a mixed pediatric/pediatric cardiac ICU. The major limitation of this study is that it is descriptive in nature and from a single center. Baudin et al 37 described a
+
+RESPIRATORY CARE · ● ● VOL ● NO ● 5 Copyright (C) 2017 Daedalus Enterprises ePub ahead of print papers have been peer-reviewed, accepted for publication, copy edited and proofread. However, this version may differ from the final published version in the online and print editions of RESPIRATORY CARE
+
+[DOCLING_PAGE 6]
+
+RESPIRATORY CARE Paper in Press. Published on June 6, 2017 as DOI: 10.4187/respcare.05153
+
+HFNC IN PEDIATRIC CRITICAL CARE
+
+similar pediatric ICU population and demonstrated that the modality was well tolerated; however, this population did not include subjects with asthma. A large portion of the population described by Baudin et al 37 included subjects with congenital heart disease, and 36% of the use was postextubation. We also describe success in the congenital heart disease population with a large utilization for postextubation management. We demonstrated similar maximum flow ranges in both studies. 37 Individual prescribing practices and subject demographics may contribute to the overall conclusions. The viral infections encountered during this study period did not include a large number of influenza cases. The study looked at subjects over a 2-y period where influenza was generally mild and resulted in few hospitalizations. Formulation and implementation of best-practice guidelines for the use of HFNC in the pediatric ICU is needed. This will lead to better understanding of the subset patient population that would benefit from use of HFNC and optimize settings. It will also help to avoid delay in invasive ventilation for children who will not benefit from HFNC. Weaning guidelines for HFNC should be developed and implemented to minimize ICU stay and HFNC utilization when possible.
+
+Conclusions
+
+HFNC was used frequently over the 2-y study period over a wide range of ages and for a broad range of indications. Approximately 10% of subjects required escalation to either noninvasive ventilation or intubation and mechanical ventilation. Rhinovirus/enterovirus was the most commonly encountered viral illness, and these subjects tended to be older and require high peak flows. Older subjects in this study required high peak oxygen content. Future studies should concentrate on optimization of settings and weaning protocols to optimize therapy and minimize stay.
+
+REFERENCES
+
+Owens PL, Thompson J, Elixhauser A, Ryan K. Care of children and adolescents in U.S. hospitals. Rockville, Maryland: Agency for Healthcare Research and Quality; 2003. HCUP Fact Book No. 4; AHRQ Publication No. 04-0004, p 18.
+
+Maggiore SM, Idone FA, Vaschetto R, Festa R, Cataldo A, Antonicelli F, et al. Nasal high-flow versus Venturi mask oxygen therapy after extubation: effects of oxygenation, comfort and clinical outcome. Am J Respir Crit Care Med 2014;190(3):282-288.
+
+Mile ´si C, Boubal M, Jacquot A, Baleine J, Durand S, Odena MP, Cambonie G. High-flow nasal cannula: recommendations for daily practice in pediatrics. Ann Intensive Care 2014;4:29.
+
+Kelly GS, Simon HK, Sturm JJ. High-flow nasal cannula use in children with respiratory distress in the emergency department. Pediatr Emerg Care 2013;29(8):888-892.
+
+Spentzas T, Minarik M, Patters AB, Vinson B, Stidham G. Children with respiratory distress treated with high-flow nasal cannula. J Intensive Care Med 2009;24(5):323-328.
+
+Testa G, Iodice F, Ricci Z, Vitale V, De Razza F, Haiberger R, et al. Comparative evaluation of high-flow nasal cannula and conventional oxygen therapy in paediatric cardiac surgical patients: a randomized controlled trial. Interact Cardiovasc Thorac Surg 2014;19(3):456461.
+
+Waugh JB, Granger WM. An evaluation of 2 new devices for nasal high-flow gas therapy. Respir Care 2004;49(8):902-906.
+
+Metge P, Grimaldi C, Hassid S, Thomachot L, Loundou A, Martin C, Michel F. Comparison of a high-flow humidified nasal cannula to nasal continuous positive airway pressure in children with acute bronchiolitis: experience in a pediatric intensive care unit. Eur J Pediatr 2014;173(7):953-958.
+
+Dysart K, Miller TL, Wolfson MR, Shaffer TH. Research in high flow therapy: mechanisms of action. Respir Med 2009;103(10):14001405.
+
+Rubin S, Ghuman A, Deakers T, Khemani R, Ross P, Newth CJ. Effort of breathing in children receiving high-flow nasal cannula. Pediatr Crit Care Med 2014;15(1):1-6.
+
+Hutchings FA, Hilliard TN, Davis PJ (2014) Heated humidified highflow nasal cannula therapy in children. Arch Dis Child 2015;100(6): 571-575.
+
+Pham TMT, O'Malley L, Mayfield S, Martin S, Schibler A. The effect of high flow nasal cannula therapy on the work of breathing in infants with bronchiolitis. Pediatr Pulmonol 2015;50(7):713-720.
+
+Mile ´si C, Baleine J, Matecki S, Durand S, Combes C, Novais ARB, Cambonie G. Is treatment with a high flow nasal cannula effective in acute viral bronchiolitis? A physiologic study. Intensive Care Med 2013;39(6):1088-1094.
+
+Saslow JG, Aghai ZH, Nakhla TA, Hart JJ, Lawrysh R, Stahl GE, Pyon KH. Work of breathing using high-flow nasal cannula in preterm infants. J Perinatol 2006;26(8):476-480.
+
+Hough JL, Pham TMT, Schibler A. Physiologic effect of high-flow nasal cannula in infants with bronchiolitis. Pediatr Crit Care Med 2014;15(5):e214-e219.
+
+Spence KL, Murphy D, Kilian C, McGonigle R, Kilani RA. Highflow nasal cannula as a device to provide continuous positive airway pressure in infants. J Perinatol 2007;27(12):772-775.
+
+Arora B, Mahajan P, Zidan MA, Sethuraman U. Nasopharyngeal airway pressures in bronchiolitis patients treated with high-flow nasal cannula oxygen therapy. Pediatr Emerg Care 2012;28(11):11791184.
+
+Kubicka ZJ, Limauro J, Darnall RA. Heated, humidified high-flow nasal cannula therapy: yet another way to deliver continuous positive airway pressure? Pediatrics 2008;121(1):82-88.
+
+Long E, Babl FE, Duke T. Is there a role for humidified high-flow cannula therapy in paediatric emergency departments? Emerg Med J 2016;33(6):386-389.
+
+Hilliard TN, Archer N, Laura H, Heraghty J, Cottis H, Mills K, et al. Pilot study of vapotherm oxygen delivery in moderately severe bronchiolitis. Arch Dis Child 2012;97(2):182-183.
+
+Wing R, James C, Maranda LS, Armsby CC. Use of high-flow nasal cannula support in the emergency department reduces the need for intubation in pediatric acute respiratory insufficiency. Pediatr Emerg Care 2012;28(11):1117-1123.
+
+Mayfield S, Jauncey-Cooke J, Bogossian F. A case series of paediatric high flow nasal cannula therapy. Aust Crit Care 2013;26(4): 189-192.
+
+Collins CL, Holberton JR, Barfield C, Davis PG. A randomized controlled trial to compare heated humidified high-flow nasal cannulae with nasal continuous positive airway pressure postextubation in premature infants. J Pediatr 2013;162(5):949-954.e1.
+
+Kugelman A, Riskin A, Said W, Shoris I, Mor F, Bader D. A randomized pilot study comparing heated humidified high-flow nasal cannulae with NIPPV for RDS. Pediatr Pulmonol 2015;50(6):576-583.
+
+·
+
+● ●
+
+VOL
+
+●
+
+NO
+
+●
+
+6
+
+RESPIRATORY CARE
+
+Copyright (C) 2017 Daedalus Enterprises ePub ahead of print papers have been peer-reviewed, accepted for publication, copy edited and proofread. However, this version may differ from the final published version in the online and print editions of RESPIRATORY CARE
+
+[DOCLING_PAGE 7]
+
+RESPIRATORY CARE Paper in Press. Published on June 6, 2017 as DOI: 10.4187/respcare.05153
+
+HFNC IN PEDIATRIC CRITICAL CARE
+
+Sreenan C, Lemke RP, Hudson-Mason A, Osiovich H. High-flow nasal cannulae in the management of apnea of prematurity: a comparison with conventional nasal continuous positive airway pressure. Pediatrics 2001;107(5):1081-1083.
+
+McGinley B, Halbower A, Schwartz AR, Smith PL, Patil SP, Schneider H. Effect of a high-flow open nasal cannula system on obstructive sleep apnea in children. Pediatrics 2009;124(1):179188.
+
+Tapia IE, Marcus CL. Newer treatment modalities for pediatric obstructive sleep apnea. Paediatr Respir Rev 2013;14(3):199-203.
+
+Bressan S, Balzani M, Krauss B, Pettenazzo A, Zanconato S, Baraldi E. High-flow nasal cannula oxygen for bronchiolitis in a pediatric ward: a pilot study. Eur J Pediatr 2013;172(12):1649-1656.
+
+McKiernan C, Chua LC, Visintainer PF, Allen H. High flow nasal cannulae therapy in infants with bronchiolitis. J Pediatr 2010;156(4): 634-638.
+
+Mayfield S, Bogossian F, O'Malley L, Schibler A. High-flow nasal cannula oxygen therapy for infants with bronchiolitis: pilot study. J Paediatr Child Health 2014;50(5):373-378.
+
+Collins CL, Holberton JR, Ko ¨nig K. Comparison of the pharyngeal pressure provided by two heated, humidified high-flow nasal cannulae devices in premature infants. J Paediatr Child Health 2013; 49(7):554-556.
+
+Yoder BA, Stoddard RA, Li M, King J, Dirnberger DR, Abbasi S. Heated, humidified high-flow nasal cannula versus nasal CPAP for respiratory support in neonates. Pediatrics 2013;131(5):e1482e1490.
+
+RESPIRATORY CARE
+
+● ●
+
+VOL
+
+●
+
+NO
+
+●
+
+·
+
+Manley BJ, Owen LS, Doyle LW, Andersen CC, Cartwright DW, Pritchard MA, et al. High flow nasal cannulae in very preterm infants after extubation. N Engl J Med 2013;369(15):1425-1433.
+
+Manley BJ, Owen L, Doyle LW, Davis PG. High-flow nasal cannulae and nasal continuous positive airway pressure use in non-tertiary special care nurseries in Australia and New Zealand. J Paediatr Child Health 2012;48(1):16-21.
+
+Mayfield S, Jauncey-Cooke J, Hough JL, Schibler A, Gibbons K, Bogossian F. High-flow nasal cannula therapy for respiratory support in children. Cochrane Database Syst Rev 2014(3): CD009850.
+
+Beggs S, Wong ZH, Kaul S, Ogden KJ, Walters JAE. High-flow nasal cannula therapy for infants with bronchiolitis. Cochrane Database Syst Rev 2014(1):CD009609.
+
+Wilkinson D, Andersen C, O'Donnell CPF, De Paoli AG. High flow nasal cannula for respiratory support in preterm infants. Cochrane Database Syst Rev 2011(5):CD006405.
+
+Baudin F, Gagnon S, Crulli B, Proulx F, Jouvet P, Emeriaud G. Modalities and complications associated with the use of high flow nasal cannula: experience in a pediatric ICU. Respir Care 2016; 61(10):1305-1310.
+
+Vitaliti G, Wenzel A, Bellia F, Pavone P, Falsaperla R. Noninvasive ventilation in pediatric emergency care: a literature review and description of our experience. Expert Rev Respir Med 2013;7(5):545552.
+
+Mikalsen IB, Davis P, Øymar K. High flow nasal cannula in children: a literature review. Scand J Trauma Resusc Emerg Med 2016; 24;93.
+
+7
+
+Copyright (C) 2017 Daedalus Enterprises ePub ahead of print papers have been peer-reviewed, accepted for publication, copy edited and proofread. However, this version may differ from the final published version in the online and print editions of RESPIRATORY CARE

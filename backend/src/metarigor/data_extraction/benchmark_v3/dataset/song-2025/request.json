@@ -1,0 +1,372 @@
+{
+  "schema_version": "3.0.0",
+  "review_id": "song.early_avr.review.2025",
+  "protocol_content": {
+    "schema_version": "3.0.0",
+    "protocol_id": "song.early_avr.protocol.m0",
+    "title": "Early aortic valve replacement for asymptomatic severe aortic stenosis",
+    "research_question": "Among adults aged 18 years or older with asymptomatic severe aortic stenosis, compare early aortic valve replacement with conservative management for the efficacy outcomes defined in the Review methods.",
+    "review_criteria": "Include prospective randomized controlled trials of adults aged 18 years or older with asymptomatic severe aortic stenosis that compare early surgical or transcatheter aortic valve replacement with conservative management and report an eligible Review outcome. Extract endpoint definitions, participant event counts and arm denominators at the longest eligible follow-up available by the Review cutoff.",
+    "result_targets": [
+      {
+        "target_id": "result.primary_composite.longest_followup",
+        "population": "Adults aged 18 years or older with asymptomatic severe aortic stenosis enrolled in prospective randomized controlled trials.",
+        "intervention": {
+          "label": "early aortic valve replacement",
+          "aliases": [
+            "early aortic valve replacement",
+            "early AVR",
+            "SAVR",
+            "TAVR"
+          ]
+        },
+        "comparator": {
+          "label": "conservative management",
+          "aliases": [
+            "conservative management",
+            "CM"
+          ]
+        },
+        "outcome": "Primary composite outcome",
+        "outcome_definition": "Composite of all-cause mortality, hospitalization for cardiovascular causes, stroke, and myocardial infarction, as defined in the Review methods.",
+        "timepoint": "Longest eligible follow-up available by the Review cutoff.",
+        "analysis_population": "Randomized intervention and control groups reported for the selected outcome.",
+        "selection_rule": "Select the longest eligible follow-up without using effect magnitude or direction. Retain only a directly reported participant-level count matching the Review-defined composite; do not substitute a differently defined trial primary endpoint or sum component event counts.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.all_cause_mortality.longest_followup",
+        "population": "Adults aged 18 years or older with asymptomatic severe aortic stenosis enrolled in prospective randomized controlled trials.",
+        "intervention": {
+          "label": "early aortic valve replacement",
+          "aliases": [
+            "early aortic valve replacement",
+            "early AVR",
+            "SAVR",
+            "TAVR"
+          ]
+        },
+        "comparator": {
+          "label": "conservative management",
+          "aliases": [
+            "conservative management",
+            "CM"
+          ]
+        },
+        "outcome": "Death from any cause",
+        "outcome_definition": "Participant death from any cause.",
+        "timepoint": "Longest eligible follow-up available by the Review cutoff.",
+        "analysis_population": "Randomized intervention and control groups reported for the selected outcome.",
+        "selection_rule": "Select the longest eligible follow-up without using effect magnitude or direction, then use directly reported participant event counts and arm denominators while preserving the reported endpoint definition.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.cardiovascular_hospitalization.longest_followup",
+        "population": "Adults aged 18 years or older with asymptomatic severe aortic stenosis enrolled in prospective randomized controlled trials.",
+        "intervention": {
+          "label": "early aortic valve replacement",
+          "aliases": [
+            "early aortic valve replacement",
+            "early AVR",
+            "SAVR",
+            "TAVR"
+          ]
+        },
+        "comparator": {
+          "label": "conservative management",
+          "aliases": [
+            "conservative management",
+            "CM"
+          ]
+        },
+        "outcome": "Cardiovascular hospitalization",
+        "outcome_definition": "Unplanned hospitalization for cardiovascular causes, including heart failure, as defined by each trial.",
+        "timepoint": "Longest eligible follow-up available by the Review cutoff.",
+        "analysis_population": "Randomized intervention and control groups reported for the selected outcome.",
+        "selection_rule": "Select the longest eligible follow-up without using effect magnitude or direction, then use directly reported participant event counts and arm denominators while preserving the reported endpoint definition.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.stroke.longest_followup",
+        "population": "Adults aged 18 years or older with asymptomatic severe aortic stenosis enrolled in prospective randomized controlled trials.",
+        "intervention": {
+          "label": "early aortic valve replacement",
+          "aliases": [
+            "early aortic valve replacement",
+            "early AVR",
+            "SAVR",
+            "TAVR"
+          ]
+        },
+        "comparator": {
+          "label": "conservative management",
+          "aliases": [
+            "conservative management",
+            "CM"
+          ]
+        },
+        "outcome": "Trial-reported stroke",
+        "outcome_definition": "Stroke as reported for the Review outcome.",
+        "timepoint": "Longest eligible follow-up available by the Review cutoff.",
+        "analysis_population": "Randomized intervention and control groups reported for the selected outcome.",
+        "selection_rule": "Select the longest eligible follow-up without using effect magnitude or direction, then use directly reported participant event counts and arm denominators while preserving the reported endpoint definition.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.cardiac_specific_mortality.longest_followup",
+        "population": "Adults aged 18 years or older with asymptomatic severe aortic stenosis enrolled in prospective randomized controlled trials.",
+        "intervention": {
+          "label": "early aortic valve replacement",
+          "aliases": [
+            "early aortic valve replacement",
+            "early AVR",
+            "SAVR",
+            "TAVR"
+          ]
+        },
+        "comparator": {
+          "label": "conservative management",
+          "aliases": [
+            "conservative management",
+            "CM"
+          ]
+        },
+        "outcome": "Cardiovascular death",
+        "outcome_definition": "Death adjudicated as cardiovascular or cardiac-specific by the trial.",
+        "timepoint": "Longest eligible follow-up available by the Review cutoff.",
+        "analysis_population": "Randomized intervention and control groups reported for the selected outcome.",
+        "selection_rule": "Select the longest eligible follow-up without using effect magnitude or direction, then use directly reported participant event counts and arm denominators while preserving the reported endpoint definition.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.myocardial_infarction.longest_followup",
+        "population": "Adults aged 18 years or older with asymptomatic severe aortic stenosis enrolled in prospective randomized controlled trials.",
+        "intervention": {
+          "label": "early aortic valve replacement",
+          "aliases": [
+            "early aortic valve replacement",
+            "early AVR",
+            "SAVR",
+            "TAVR"
+          ]
+        },
+        "comparator": {
+          "label": "conservative management",
+          "aliases": [
+            "conservative management",
+            "CM"
+          ]
+        },
+        "outcome": "Trial-reported myocardial infarction",
+        "outcome_definition": "Myocardial infarction as reported for the Review outcome.",
+        "timepoint": "Longest eligible follow-up available by the Review cutoff.",
+        "analysis_population": "Randomized intervention and control groups reported for the selected outcome.",
+        "selection_rule": "Select the longest eligible follow-up without using effect magnitude or direction, then use directly reported participant event counts and arm denominators while preserving the reported endpoint definition.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      }
+    ]
+  },
+  "accepted_protocol_sha256": "b0c8927a5f1f98546fa964a33aca17741e7bcf5faad8b923b4c4bd25dc2ac85b",
+  "protocol_acceptance": {
+    "actor": "project-owner",
+    "decided_at": "2026-08-26T02:24:57+08:00",
+    "decision": "ACCEPTED"
+  },
+  "governing_review_inventory_sha256": "c4fc01a7daadbfbdb05da66c706bca91cd31cc897a2049dbf738c78f7baeb41b",
+  "accepted_study_inventory_sha256": "ff233fe12b593978515643a2d4372354837aabf2a4ac18a1f79ea0696257454e",
+  "studies": [
+    {
+      "study_key": "recovery",
+      "display_label": "RECOVERY 2020",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "avatar",
+      "display_label": "AVATAR",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "early_tavr",
+      "display_label": "EARLY TAVR",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "evolved",
+      "display_label": "EVOLVED",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    }
+  ],
+  "reports": [
+    {
+      "report_key": "recovery.primary",
+      "title": "Early Surgery or Conservative Care for Asymptomatic Aortic Stenosis",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1056/NEJMoa1912846"
+        },
+        {
+          "scheme": "PMID",
+          "value": "31733181"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "avatar.primary",
+      "title": "Aortic Valve Replacement Versus Conservative Treatment in Asymptomatic Severe Aortic Stenosis: The AVATAR Trial",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1161/CIRCULATIONAHA.121.057639"
+        },
+        {
+          "scheme": "PMID",
+          "value": "34779220"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "avatar.long_term",
+      "title": "Aortic valve replacement vs. conservative treatment in asymptomatic severe aortic stenosis: long-term follow-up of the AVATAR trial",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1093/eurheartj/ehae585"
+        },
+        {
+          "scheme": "PMID",
+          "value": "39217448"
+        }
+      ],
+      "report_role": "COMPANION"
+    },
+    {
+      "report_key": "early_tavr.primary",
+      "title": "Transcatheter Aortic-Valve Replacement for Asymptomatic Severe Aortic Stenosis",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1056/NEJMoa2405880"
+        },
+        {
+          "scheme": "PMID",
+          "value": "39466903"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "evolved.primary",
+      "title": "Early Intervention in Patients With Asymptomatic Severe Aortic Stenosis and Myocardial Fibrosis: The EVOLVED Randomized Clinical Trial",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1001/jama.2024.22730"
+        },
+        {
+          "scheme": "PMID",
+          "value": "39466640"
+        },
+        {
+          "scheme": "PMCID",
+          "value": "PMC11519785"
+        }
+      ],
+      "report_role": "PRIMARY"
+    }
+  ],
+  "report_study_bindings": [
+    {
+      "report_key": "recovery.primary",
+      "study_key": "recovery"
+    },
+    {
+      "report_key": "avatar.primary",
+      "study_key": "avatar"
+    },
+    {
+      "report_key": "avatar.long_term",
+      "study_key": "avatar"
+    },
+    {
+      "report_key": "early_tavr.primary",
+      "study_key": "early_tavr"
+    },
+    {
+      "report_key": "evolved.primary",
+      "study_key": "evolved"
+    }
+  ],
+  "report_identity_issues": [],
+  "documents": [
+    {
+      "document_key": "recovery.fulltext",
+      "report_key": "recovery.primary",
+      "input_path": "documents/recovery-primary/source.html",
+      "expected_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6",
+      "media_type": "text/html",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1056/NEJMoa1912846"
+    },
+    {
+      "document_key": "avatar.primary.fulltext",
+      "report_key": "avatar.primary",
+      "input_path": "documents/avatar-primary/source.html",
+      "expected_sha256": "04ca2a82b6c4cc3145cdd2f57d8e6cef4d2b3e1666266bccecd6399486b0c20f",
+      "media_type": "text/html",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1161/CIRCULATIONAHA.121.057639"
+    },
+    {
+      "document_key": "avatar.long_term.fulltext",
+      "report_key": "avatar.long_term",
+      "input_path": "documents/avatar-long-term/source.html",
+      "expected_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c",
+      "media_type": "text/html",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1093/eurheartj/ehae585"
+    },
+    {
+      "document_key": "early_tavr.fulltext",
+      "report_key": "early_tavr.primary",
+      "input_path": "documents/early-tavr-primary/source.html",
+      "expected_sha256": "e51ac42b88c6bbb73e5f90b386d5a1f18e276edb5b6f87750dba781bcdc393b8",
+      "media_type": "text/html",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1056/NEJMoa2405880"
+    },
+    {
+      "document_key": "evolved.abstract_results",
+      "report_key": "evolved.primary",
+      "input_path": "documents/evolved-primary/source.xml",
+      "expected_sha256": "837f08b933afdd56774f83c4b6975d98617b61d8a5e1a6ac17a293ffb956047f",
+      "media_type": "application/xml",
+      "representation_scope": "ABSTRACT_AND_RESULTS",
+      "display_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11519785/"
+    },
+    {
+      "document_key": "evolved.supplement",
+      "report_key": "evolved.primary",
+      "input_path": "documents/evolved-supplement/source.json",
+      "expected_sha256": "d388f3bb39ae232a843507a6628294b115ff70a54e30db655ea91edccff0cd4b",
+      "media_type": "application/vnd.docling+json",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1001/jama.2024.22730"
+    }
+  ],
+  "source_dispositions": []
+}

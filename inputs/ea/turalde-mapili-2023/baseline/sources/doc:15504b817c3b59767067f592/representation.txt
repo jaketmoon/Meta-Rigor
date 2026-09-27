@@ -1,0 +1,3533 @@
+[DOCLING_PAGE 1]
+
+NCT: NCT05437510
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+CONFIDENTIAL
+
+Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+A Phase IIIb randomized open-label study of nirsevimab (versus no intervention) in preventing hospitalizations due to respiratory syncytial virus in infants (HARMONIE)
+
+Statistical Analysis Plan: Final
+
+Statistical Analysis Plan: 6.0
+
+Statistical Analysis Plan Date: 14JAN2025
+
+Investigational Product: 526
+
+-human Monoclonal Antibody Respiratory Syncytial Virus
+
+Protocol Reference: VAS00006 (HARMONIE)
+
+Fortrea Study ID: 000000228812
+
+Sponsor: Sanofi Pasteur
+
+Authors:
+
+Information described herein is confidential and may be disclosed only with the express written permission of the sponsor.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 1 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 2]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Table of Contents
+
+[DOCLING_TABLE rows=25 columns=2]
+| Glossary of Abbreviations ....................................................................................................... | 9 |
+| 1. Source Documents ............................................................................................................. | 10 |
+| 2. Protocol Details .................................................................................................................. | 11 |
+| 2.1. Overall Study Design .................................................................................................. | 11 |
+| 2.2. Study Objectives ......................................................................................................... | 12 |
+| 2.2.1. Primary Objective ................................................................................................. | 12 |
+| 2.2.2. Secondary Objectives ........................................................................................... | 12 |
+| 2.2.3. Exploratory Objectives ......................................................................................... | 14 |
+| 2.3. Sample Size and Power ............................................................................................... | 14 |
+| 2.4. Primary Efficacy Variable ........................................................................................... | 15 |
+| 2.5. Secondary Efficacy Variables ..................................................................................... | 15 |
+| 2.6. Exploratory Efficacy Variables ................................................................................... | 16 |
+| 2.7. Safety Variable(s) | ........................................................................................................ 16 |
+| 3. Estimand(s) ........................................................................................................................ | 18 |
+| 3.1. Estimands for the primary objective(s) ....................................................................... | 18 |
+| 3.1.1. Treatment Condition of Interest ........................................................................... | 18 |
+| 3.1.2. Population of Participants Targeted by the Clinical Question ............................. | 18 |
+| 3.1.3. Variable Obtained from Each Participant Required to Address the Clinical Question 19 |  |
+| 3.1.4. Handling of Intercurrent Events to Reflect the Clinical Question of Interest ...... | 19 |
+| 3.1.5. Population-level Summary for Comparison between Treatment Conditions ....... | 20 |
+| 3.1.6. Sensitivity Estimators for the Primary Estimand ................................................. | 21 |
+| 3.1.7. Supplementary Analyses for the Primary Estimand ............................................. | 21 |
+| 3.2. Estimand for the 1 st key secondary objective .............................................................. | 21 |
+| 3.2.1. Treatment Condition of Interest ........................................................................... | 21 |
+| 3.2.2. Population of Participants Targeted by the Clinical Question ............................. | 21 |
+[/DOCLING_TABLE]
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 2 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 3]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+[DOCLING_TABLE rows=25 columns=1]
+| 3.2.3. Variable Obtained from Each Participant Required to Address the Clinical Question 21 |
+| 3.2.4. Handling of Intercurrent Events to Reflect the Clinical Question of Interest ...... 22 |
+| 3.2.5. Population-level Summary for Comparison between Treatment Conditions ....... 23 |
+| 3.2.6. Sensitivity Estimators for the 1st key Secondary Estimand ................................. 23 |
+| 3.2.7. Supplementary Analyses for the 1st key Secondary Estimand ............................ 23 |
+| 3.3. Estimands for the 2 nd key secondary objective ........................................................... 23 |
+| 3.3.1. Treatment Condition of Interest ........................................................................... 23 |
+| 3.3.2. Population of Participants Targeted by the Clinical Question ............................. 23 |
+| 3.3.3. Variable Obtained from Each Participant Required to Address the Clinical Question 24 |
+| 3.3.4. Handling of Intercurrent Events to Reflect the Clinical Question of Interest ...... 24 |
+| 3.3.5. Population-level Summary for Comparison between Treatment Conditions ....... 25 |
+| 3.3.6. Sensitivity Estimators for the 2 nd key Secondary Estimand ................................. 25 |
+| 3.3.7. Supplementary Analyses for the 2 nd key Secondary Estimand ............................ 25 |
+| 4. Analysis Populations .......................................................................................................... 26 |
+| 4.1. All Screened Set .......................................................................................................... 26 |
+| 4.2. All Randomized Set .................................................................................................... 26 |
+| 4.3. Per-Protocol Analysis Set ........................................................................................... 26 |
+| 4.3.1. Important Protocol Deviations Leading to Exclusion from the Per-Protocol Analysis Set .................................................................................................................... 26 |
+| 4.4. Safety Analysis Set...................................................................................................... 27 |
+| 5. Data Handling .................................................................................................................... 28 |
+| 5.1. Time Points and Visit Windows.................................................................................. 28 |
+| 5.1.2. Screening Period ................................................................................................... 28 |
+| 5.1.3. Treatment Period .................................................................................................. |
+| 28 |
+| 5.1.4. Analysis Windows for monthly reporting of events via eDiary ........................... 30 |
+[/DOCLING_TABLE]
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 3 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 4]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+[DOCLING_TABLE rows=28 columns=2]
+| 5.2.1. Handling of Missing Efficacy Data ...................................................................... | 31 |
+| 5.2.2. Handling of Missing Safety Data ......................................................................... | 32 |
+| 5.2.3. Handling of Partial and Missing Dates for Date of Birth, Adverse Events, Prior | / |
+| Concomitant Medications / LRTI Hospitalizations / Recurrent Wheeze Events ........... | 32 |
+| 5.2.4. Handling of Plasma / Blood / Serum Concentrations that are Below the Lower |  |
+| Limit of Quantification ................................................................................................... Statistical Methods ............................................................................................................. | 34 35 |
+| 6.1. General Principles ....................................................................................................... | 35 |
+| 6.2. Participant Disposition and Data Sets Analyzed ......................................................... | 35 |
+| 6.3. Protocol Deviations ..................................................................................................... | 37 |
+| 6.4. Demographic and Other Baseline Characteristics ....................................................... | 38 |
+| 6.4.1. Demographic Characteristics ................................................................................ | 38 |
+| 6.4.2. Medical History .................................................................................................... | 39 |
+| 6.4.3. Prior and Concomitant Medications | ..................................................................... 40 |
+| 6.5. Measurements of Treatment Compliance ................................................................... | 41 |
+| 6.6. Efficacy ....................................................................................................................... | 42 |
+| 6.6.1. Primary Efficacy Analysis .................................................................................... | 42 |
+| 6.6.2. Sensitivity Analyses for the Primary Objective ................................................... | 44 |
+| 6.6.3. Supplementary Analyses for the Primary Objective ............................................ | 46 |
+| 6.6.4. Secondary Efficacy Analysis ................................................................................ | 47 |
+| 6.6.5. Sensitivity Analyses for the Secondary Efficacy Analysis .................................. | 55 |
+| 6.6.6. Supplementary Analyses for the Secondary Efficacy Analysis ........................... | 56 |
+| 6.6.7. Exploratory Analysis ............................................................................................ | 58 |
+| 6.6.8. Subgroup Analyses ............................................................................................... | 62 |
+| 6.6.9. Post-hoc Analyses................................................................................................. | 64 |
+| 6.7. Safety ........................................................................................................................... | 69 |
+| 6.7.1. Extent of Exposure | ............................................................................................... 69 |
+| 6.7.2. Adverse Events ..................................................................................................... | 69 |
+| 6.7.3. Laboratory Evaluations ......................................................................................... | 75 |
+[/DOCLING_TABLE]
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 4 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 5]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+[DOCLING_TABLE rows=11 columns=2]
+| 6.7.4. Vital | Signs ............................................................................................................ 75 |
+| 6.7.5. | Electrocardiograms ............................................................................................... 75 |
+| 6.7.6. Physical | Examination ........................................................................................... 75 |
+| 6.7.7. Other Safety | Variables .......................................................................................... 75 |
+| 6.7.8. Planned | Analyses and Data Monitoring ............................................................... 75 |
+| 6.8. Pharmacokinetic | Assessments..................................................................................... 76 |
+| 6.9. Transparency | ............................................................................................................... 76 |
+| 7. Changes in the | Conduct of the Study or Planned Analysis ............................................... 78 |
+| 8. Appendices | ......................................................................................................................... 79 |
+| 8.1. Appendix 1: | Document History ............................................................................... 79 |
+| 8.2. Appendix 2: | Vaccines for Infants Under The Age of 11 Months ............................ 82 |
+[/DOCLING_TABLE]
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 5 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 6]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+List of Tables
+
+[DOCLING_TABLE rows=7 columns=2]
+| Table | 1 Overall Design .......................................................................................................... 11 |
+| Table 2 Handling of Intercurrent Events for the | Primary Estimand ...................................... 20 |
+| Table 3 Handling of Intercurrent Events for the | 1 st key Secondary Estimand ...................... 22 |
+| Table 4 Handling of Intercurrent Events for the 2 nd key Secondary Estimand ..................... | 24 |
+| Table 5 Definition of Analysis Windows for monthly reporting of events of interest via eDiary | ................................................................................................................................... 31 |
+| Vaccines for Infants Under the Age of | 11 Months |
+| Table 6 | ................................................... 82 |
+[/DOCLING_TABLE]
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 6 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 7]
+
+CONFIDENTIAL
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Reviewers
+
+The following reviews of the Statistical Analysis Plan (SAP) were conducted:
+
+Protocol Reference: VAS00006
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 7 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 8]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 8 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 9]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Glossary of Abbreviations
+
+[DOCLING_TABLE rows=35 columns=2]
+| Abbreviation | Term |
+| AE | Adverse Event |
+| AESI | AE of Special Interest |
+| ATC | Anatomical Therapeutic Chemical |
+| CI | Confidence Interval |
+| CRF | Case Report Form |
+| CTGov | ClinicalTrials.gov |
+| EudraCT | European Union Drug Regulating Authorities Clinical Trials |
+| FCS | Fully Conditional Specification |
+| ICF | Informed Consent Form |
+| ICU | Intensive Care Unit |
+| INSEE | Institut National de la Statistique et des Etudes Economiques |
+| IRT | Interactive Response Technology |
+| LRTI | Lower Respiratory Tract Infection |
+| LSOA | Lower Super Output Area |
+| MAAE | Medically attended adverse event |
+| MAR | Missing at Random |
+| MCC | Medical Call Center |
+| MedDRA | Medical Dictionary for Regulatory Activities |
+| NC | Not Calculated |
+| NCI | National Core Investigators |
+| PMM | Predictive Mean Matching Method |
+| PPAS | Per-Protocol Analysis Set |
+| PT | Preferred Term |
+| RSV | Respiratory Syncytial Virus |
+| SAE | Serious AE |
+| SafAS | Safety Analysis Set |
+| SAP | Statistical Analysis Plan |
+| SD | Standard Deviation |
+| SDI | Social Deprivation Index |
+| SOC | System Organ Class |
+| TFLs | Tables, Figures and Listings |
+| TEAE | Treatment Emergent AEs |
+| WHO DD | World Health Organization Drug Dictionary |
+| WGA | Weeks Gestational Age |
+[/DOCLING_TABLE]
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 9 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 10]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+1. Source Documents
+
+The Statistical Analysis Plan (SAP) was written based on the following documentation:
+
+[DOCLING_TABLE rows=3 columns=3]
+| Document | Date | Version |
+| Protocol | 05Feb2024 | Version 5.0 |
+| eCRF | 13Aug2024 | Version 9.0 |
+[/DOCLING_TABLE]
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 10 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 11]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+2. Protocol Details
+
+2.1. Overall Study Design
+
+The design of the study is summarized in Table 1.
+
+[DOCLING_TABLE rows=10 columns=2]
+| Type of design | Open-label, multi-center, parallel 2-arm study: nirsevimab compared to no preventive intervention for Respiratory Syncytial Virus (RSV) |
+| Phase | IIIb |
+| Control method | Comparison to no preventive intervention |
+| Study population | Healthy infants born ≥ 29 Weeks Gestational Age (WGA) entering their first RSV season and not eligible for palivizumab (born either in-season or out-of-season) |
+| Level and method of blinding | Open-label |
+| Study intervention assignment method | Randomization will be stratified by the following: • Country (ie, France, Germany, United Kingdom) • Age group at time of randomization (ie, age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months, age > 6.0 months) |
+| Number of participants | 28,860 participants |
+| Intervention groups | Eligible participants will be randomized in a 1:1 ratio to receive a single IM injection of 50 mg (if weight < 5 kg) or 100 mg (if weight ≥ 5 kg) of nirsevimab or no RSV preventive intervention at inclusion on Day 1 |
+| Total duration of study participation | 12 months post-dosing/randomization for France, Germany and United Kingdom (UK) non- reconsented participants 24 months post-dosing/randomization for UK reconsented participants |
+| Countries | France, Germany, United Kingdom |
+[/DOCLING_TABLE]
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 11 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 12]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Use of an Independent Data Monitoring Committee, Dose Escalation Committee, or similar review group
+
+No
+
+2.2. Study Objectives
+
+2.2.1. Primary Objective
+
+Primary objective of the study is to assess the efficacy of nirsevimab in preventing RSV Lower Respiratory Tract Infection (LRTI) hospitalization compared to no intervention through the RSV season.
+
+2.2.1.1. Estimands for the Primary Objective
+
+Estimand of the primary objective is defined as the overall incidence (measured by 1 minus the incidence rate ratio) of RSV LRTI hospitalization through the RSV season in healthy infants born ≥ 29 Weeks Gestational Age (WGA) entering their first RSV season and not eligible to palivizumab, who received nirsevimab on Day 1, compared to no intervention on Day 1. The following intercurrent events are anticipated during the study (see section 3.1.4 for more details):
+
+Participant ends study early and withdraws consent from further data collection
+
+Participant ends study early without withdrawing consent from further data collection
+
+Estimand of primary objective will be detailed in Section 3.
+
+2.2.2. Secondary Objectives
+
+Secondary objectives of the study are as follows:
+
+To assess the efficacy of nirsevimab in preventing very severe RSV LRTI compared to no intervention through RSV season (The very severe RSV LRTI is a subset of RSV LRTI hospitalization with oxygen saturation < 90% [at any time during hospitalization] and oxygen supplementation)
+
+To assess the efficacy of nirsevimab in preventing RSV LRTI hospitalization compared to no intervention in each country through RSV season
+
+To assess the efficacy of nirsevimab in preventing hospitalizations for all-cause LRTI compared to no intervention through the RSV season
+
+To assess the efficacy of nirsevimab in preventing RSV LRTI hospitalization through 150 days post-dosing/randomization (overall and in each country)
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 12 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 13]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+To assess the efficacy of nirsevimab in preventing very severe RSV LRTI through 150 days post-dosing/randomization (The very severe RSV LRTI is a subset of RSV LRTI hospitalization with oxygen saturation < 90% [at any time during hospitalization] and oxygen supplementation)
+
+To assess the efficacy of nirsevimab in preventing hospitalizations for all-cause LRTI through 150 days post-dosing/randomization
+
+To further characterize the safety profile of nirsevimab
+
+To assess the efficacy of nirsevimab in preventing RSV LRTI hospitalization through 180 days post-dosing/randomization (overall and in each country)
+
+To assess the efficacy of nirsevimab in preventing hospitalizations for all-cause LRTI through 180 days post-dosing/randomization
+
+To assess the incidence of RSV LRTI hospitalization from 181 days post-dosing/randomization until Day 366 (overall and in each country)
+
+To assess the incidence of hospitalizations for all-cause LRTI from 181 days post-dosing/randomization until Day 366
+
+To describe in each study group the incidence of RSV LRTI hospitalization and all-cause LRTI hospitalization in UK reconsented participants from Day 366 to Day 731
+
+To assess the incidence of recurrent wheeze in UK reconsented participants from Day 1 to Day 731
+
+2.2.2.1. Estimands for the Secondary Objectives
+
+Estimand of the first secondary objective is defined as the overall incidence (measured by 1 minus the incidence rate ratio) of very severe RSV LRTI through the RSV season in healthy infants born ≥ 29 WGA entering their first RSV season and not eligible to palivizumab, who received nirsevimab on Day 1, compared to no intervention on Day 1, while participants are on treatment.
+
+Estimand of the second secondary objective is defined as the incidence (measured by 1 minus the incidence rate ratio) of RSV LRTI hospitalization through the RSV season in each country in healthy infants born ≥ 29 WGA entering their first RSV season and not eligible to palivizumab, who received nirsevimab on Day 1, compared to no intervention on Day 1, while participants are on treatment.
+
+The following intercurrent events are anticipated during the study (see sections 3.2.4 and 3.3.4 for more details):
+
+Participant ends study early and withdraws consent from further data collection
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 13 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 14]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Participant ends study early without withdrawing consent from further data collection
+
+Estimands of key secondary objectives (the first two objectives of the above list) will be detailed in Section 3.
+
+2.2.3. Exploratory Objectives
+
+Exploratory objectives of the study are as follows:
+
+To assess the efficacy of nirsevimab in preventing very severe RSV LRTI through 180 days post-dosing/randomization (The very severe RSV LRTI is a subset of RSV LRTI hospitalization with oxygen saturation < 90% [at any time during hospitalization] and oxygen supplementation)
+
+To assess health care utilization (see section 2.6)
+
+2.2.3.1. Estimands for the Exploratory Objectives
+
+Not Applicable.
+
+2.3. Sample Size and Power
+
+A total of 28,860 participants are expected to be enrolled of whom approximately 14,430 will receive nirsevimab and 14,430 will receive no intervention. This sample size is driven by the demonstration of efficacy in preventing RSV LRTI hospitalization through RSV season in each of 3 countries independently.
+
+Based on the reported incidence rates of RSV LRTI hospitalization in France, Germany, and the United Kingdom 1,2,3 , assuming a 1.1% incidence rate on average in the no intervention group, 9,620 participants need to be enrolled in each of the 3 countries (which is equivalent to 74 events of RSV LRTI in each country) to ensure the 90% power to detect 60% efficacy (see definition of efficacy of nirsevimab in preventing RSV LRTI hospitalization compared to no intervention in Section 2.4) in each country with a 2-sided α of 1.66% taking the multiplicity adjustment using Bonferroni approach into consideration.
+
+The sample size of 28,860 participants has at least 99% power to detect 60% efficacy in preventing RSV LRTI hospitalizations in all 3 countries combined assuming an incidence rate of 0.86% in the no intervention group (the lowest reported in the 3 countries 1,2,3 ) with a 2sided α of 5%, and approximately 95% power to detect 60% efficacy in preventing very severe RSV LRTI defined in the protocol assuming an incidence rate of 0.4% in the no intervention
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 14 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 15]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Fortrea Study: 000000228812
+
+group with a 2-sided α of 5%. To ensure at least 90% power for very severe RSV LRTI, at least 61 events are needed.
+
+2.4. Primary Efficacy Variable
+
+The primary efficacy variable is the overall incidence of RSV LRTI hospitalization through the RSV season.
+
+'Hospitalization' is defined as the decision to admit to in-patient care by a physician.
+
+'RSV season' is the period of increased RSV infection. For the purpose of efficacy analyses, the start and end dates of the RSV season will be defined on a country-by-country basis and will be based on country-specific epidemiological surveillance. Methodology to define the season will be agreed upon with the National Core Investigators (NCI) and described in detail. Methodology will depend on RSV circulation, hence, an a priori definition is not possible due to the impact of COVID and related public health measures.
+
+2.5. Secondary Efficacy Variables
+
+Secondary efficacy variables are as follows:
+
+Incidence of very severe RSV LRTI defined as RSV LRTI hospitalization with oxygen saturation < 90% (at any time during hospitalization) and oxygen supplementation, through the RSV season
+
+Incidence of RSV LRTI hospitalization through the RSV season in each country
+
+Incidence of hospitalizations for all-cause LRTI through the RSV season
+
+Incidence of RSV LRTI hospitalization through Day 151 post-dosing/randomization (overall and in each country)
+
+Incidence of very severe RSV LRTI defined as RSV LRTI hospitalization with oxygen saturation < 90% (at any time during hospitalization) and oxygen supplementation, through Day 151 post-dosing/randomization (overall and in each country)
+
+Incidence of hospitalizations for all-cause LRTI through Day 151 postdosing/randomization (overall and in each country)
+
+Incidence of RSV LRTI hospitalization through Day 181 post-dosing/randomization (overall and in each country)
+
+Incidence of hospitalizations for all-cause LRTI through Day 181 postdosing/randomization (overall and in each country)
+
+Incidence of RSV LRTI hospitalization from 181 days post-dosing/randomization until Day 366 (overall and in each country)
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 15 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 16]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Incidence of hospitalizations for all-cause LRTI from 181 days postdosing/randomization until Day 366 (overall and in each country)
+
+Incidence of RSV LRTI hospitalization in UK reconsented participants from Day 366 post-dosing/randomization to Day 731 post-dosing/randomization
+
+Incidence of hospitalizations for all-cause LRTI in UK reconsented participants from Day 366 post-dosing/randomization to Day 731 post-dosing/randomization
+
+Incidence of recurrent wheeze events in UK reconsented participants through Day 366 post-dosing/randomization
+
+Incidence of recurrent wheeze events in UK reconsented participants from Day 366 to Day 731 post-dosing/randomization
+
+Incidence of recurrent wheeze events in UK reconsented participants through Day 731 post-dosing/randomization
+
+2.6. Exploratory Efficacy Variables
+
+Exploratory efficacy variables are as follows:
+
+Incidence of very severe RSV LRTI defined as RSV LRTI hospitalization with oxygen saturation < 90% (at any time during hospitalization) and oxygen supplementation, through Day 181 post-dosing/randomization (overall and in each country)
+
+Health care utilization
+
+o Duration of hospitalization
+
+o Admission to the intensive care unit and duration of stay
+
+o Number of participants who require oxygen supplementation
+
+o Number of participants who require intravenous fluid administration
+
+2.7. Safety Variable(s)
+
+Safety variables are as follows:
+
+Any immediate adverse events (AEs) reported in the 30 minutes after immunization
+
+Non-serious AEs from Day 1 (post-dosing/randomization) to Day 31
+
+Adverse events of special interest (AESIs) from Day 1 through 12-month postdosing/randomization or Day 366
+
+Medically attended adverse events (MAAEs) from Day 1 through 12-month postdosing/randomization or Day 366
+
+Serious adverse events (SAEs) from Day 1 through 12-month postdosing/randomization or Day 366
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 16 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 17]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Related SAEs from Day 366 to Day 731 for UK reconsented participants
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 17 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 18]
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+3. Estimand(s)
+
+The ICH 4 E9 (R1) addendum on estimands 5 and sensitivity analysis in clinical trials to the guideline on statistical principles for clinical trials came into effect on 30 July 2020. This section addresses the construction of estimands for the primary and key secondary objectives. Each estimand is defined according to the following five attributes:
+
+The treatment condition of interest, and as appropriate, the alternative condition to which comparison will be made.
+
+The population of participants targeted by the clinical question.
+
+The variable (or endpoint) to be obtained for each participant that is required to address the clinical question.
+
+The clinical question of interest in respect of other intercurrent events not covered through the precise specifications of treatment, population and variable.
+
+A population-level summary for the variable providing a basis for comparison between treatment conditions.
+
+3.1. Estimands for the primary objective(s)
+
+The estimand for the primary efficacy objective is defined as as the overall incidence (measured by 1 minus the incidence rate ratio) of RSV LRTI hospitalization through the RSV season in healthy infants born ≥ 29 WGA entering their first RSV season and not eligible to palivizumab, who received nirsevimab on Day 1, compared to no intervention on Day 1, and detailed through the 5 attributes (including intercurrent events) described in Sections 3.1.1 to 3.1.7.
+
+3.1.1. Treatment Condition of Interest
+
+The primary treatment condition of interest is nirsevimab administration (dose of 50 mg for participants weighting < 5kg at dosing/randomization and 100 mg for participants ≥ 5kg at dosing/randomization) on Day 1 and is compared to no intervention on Day 1.
+
+3.1.2. Population of Participants Targeted by the Clinical Question
+
+The population targeted by the clinical question is defined through randomized healthy infants born ≥ 29 WGA entering their first RSV season and not eligible for palivizumab.
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 18 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 19]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+3.1.3. Variable Obtained from Each Participant Required to Address the Clinical Question
+
+For each participant in the study, the variables to address the clinical question are the occurrence of RSV LRTI hospitalization through the RSV season (as defined in Section 2.4) and the follow-up time post-dosing/randomization up to the data cut-off date.
+
+3.1.4. Handling of Intercurrent Events to Reflect the Clinical Question of Interest
+
+The following intercurrent events are anticipated during the study:
+
+Participant ends study early and withdraws consent from further data collection
+
+Participant ends study early without withdrawing consent from further data collection
+
+Participant who received Beyfortus (nirsevimab) as a routine medication during the study
+
+The following table describes how intercurrent events will be collected and handled within the analysis.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 19 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 20]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Table 2 Handling of Intercurrent Events for the Primary Estimand
+
+[DOCLING_TABLE rows=4 columns=2]
+| Intercurrent event | Data collection and analysis |
+| Participant ends study early and withdraws consent from further data collection | Participants who withdraw consent from further data collection will be analyzed by while on treatment strategy: only data collected before the occurrence of the intercurrent event will be included in the analysis. Participants will be censored at the earliest of: (i) last available date with no confirmation of RSV LRTI hospitalization, (ii) end of the RSV season or (iii) data cut-off date for the Primary Analysis (see section 6.7.8) |
+| Participant ends study early without withdrawing consent from further data collection | Participants who end study early without withdrawing consent from further data collection will be analyzed with a treatment policy strategy: if RSV LRTI hospitalization occurs after cut-off date or end of the RSV season whichever is earlier, it will not be considered. Participants will be censored at the earliest of (i) last available date with no confirmation of RSV LRTI hospitalization, (ii) end of the RSV season or (iii) data cut-off date for the Primary Analysis |
+| Participant who received Beyfortus (nirsevimab) as a routine medication during the study | Participants who received Beyfortus will be analyzed by while on treatment strategy: only data collected before the occurrence of the intercurrent event will be included in the analysis. Participants will be censored at the earliest of: (i) last available date with no confirmation of RSV LRTI hospitalization, (ii) end of the RSV season or (iii) data cut-off date for the Primary Analysis or (iv) start date of Beyfortus |
+[/DOCLING_TABLE]
+
+3.1.5. Population-level Summary for Comparison between Treatment Conditions
+
+The efficacy will be quantified by the incidence rate ratio (defined in section 6.6.1) and its corresponding 2-sided 95% Confidence Interval (CI), calculated using an exact method assuming a binomial distribution of the number of RSV LRTI hospitalizations in nirsevimab group conditional on total number of RSV LRTI hospitalizations in both groups.
+
+The superior efficacy of nirsevimab in preventing RSV LRTI hospitalization will be concluded if the lower bound of 2-sided 95% CI of the treatment efficacy is > 0%.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 20 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 21]
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+3.1.6. Sensitivity Estimators for the Primary Estimand
+
+Sensitivity analyses within ICH E9 (R1) addendum evaluate the robustness of inferences from the main estimator to deviations from its underlying assumptions targeting the same estimand The robustness of the main estimator will be explored using a Poisson Regression model as well as a tipping point analysis described in section 6.6.2.
+
+3.1.7. Supplementary Analyses for the Primary Estimand
+
+Supplementary analyses provide additional understanding of a treatment effect. Supplementary analyses with Per-Protocol Analysis Set and based on survival analysis are described in section 6.6.3.
+
+3.2. Estimand for the 1 st key secondary objective
+
+The estimand for the 1 st key secondary efficacy objective is defined as the overall incidence (measured by 1 minus the incidence rate ratio) of very severe RSV LRTI through the RSV season in healthy infants born ≥ 29 WGA entering their first RSV season and not eligible to palivizumab, who received nirsevimab on Day 1, compared to no intervention on Day 1, while participants are on treatment, and detailed through the 5 attributes (including intercurrent events) described in Sections 3.2.1 to 3.2.7.
+
+3.2.1. Treatment Condition of Interest
+
+The primary treatment condition of interest is nirsevimab administration (dose of 50 mg for participants weighting < 5kg at dosing/randomization and 100 mg for participants ≥ 5kg) on Day 1 and is compared to no intervention on Day 1.
+
+3.2.2. Population of Participants Targeted by the Clinical Question
+
+The population targeted by the clinical question is defined through randomized healthy infants born ≥ 29 WGA entering their first RSV season and not eligible for palivizumab.
+
+3.2.3. Variable Obtained from Each Participant Required to Address the Clinical Question
+
+For each participant in the study, the variable to address the clinical question is the occurrence of very severe RSV LRTI, defined as RSV LRTI hospitalization with oxygen saturation < 90% (at any time during hospitalization) and oxygen supplementation, through the RSV season.
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 21 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 22]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+3.2.4. Handling of Intercurrent Events to Reflect the Clinical Question of Interest
+
+The following intercurrent events are anticipated during the study:
+
+Participant ends study early and withdraws consent from further data collection
+
+Participant ends study early without withdrawing consent from further data collection
+
+Participant who received Beyfortus (nirsevimab) as a routine medication during the study
+
+The following table describes how intercurrent events will be collected and handled within the analysis.
+
+[DOCLING_TABLE rows=4 columns=2]
+| Intercurrent event | Data collection and analysis |
+| Participant ends study early and withdraws consent from further data collection | Participants who withdraw consent from further data collection will be analyzed by while on treatment strategy: only data collected before the occurrence of the intercurrent event will be included in the analysis. Participants will be censored at the earliest of: (i) last available date with no confirmation of RSV LRTI hospitalization, (ii) end of the RSV season or (iii) data cut-off date for the Primary Analysis |
+| Participant ends study early without withdrawing consent from further data collection | Participants who end study early without withdrawing consent from further data collection will be analysed with a treatment policy strategy: if RSV LRTI hospitalization occurs after cut-off date or end of the RSV season, it will not be considered. Participants will be censored at the earliest of (i) last available date with no confirmation of RSV LRTI hospitalization, (ii) end of the RSV season or (iii) data cut-off date for the Primary Analysis. |
+| Participant who received Beyfortus (nirsevimab) as a routine medication during the study | Participants who received Beyfortus will be analyzed by while on treatment strategy: only data collected before the occurrence of the intercurrent event will be included in the analysis. Participants will be censored at the earliest of: (i) last available date with no confirmation of RSV LRTI hospitalization, (ii) end of the RSV season or (iii) data cut-off date for the Primary Analysis or (iv) start date of Beyfortus |
+[/DOCLING_TABLE]
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 22 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 23]
+
+NCT: NCT05437510
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+CONFIDENTIAL
+
+Protocol Reference: VAS00006
+
+3.2.5. Population-level Summary for Comparison between Treatment Conditions
+
+The efficacy in preventing very severe RSV LRTI will be quantified by the incidence rate ratio and its corresponding 2-sided 95% CI calculated using an exact method assuming a binomial distribution of the number of very severe RSV LRTI in nirsevimab group conditional on the total number of very severe RSV LRTI in both groups.
+
+The superior efficacy of nirsevimab in preventing very severe RSV LRTI will be concluded if the lower bound of the 2-sided 95% CI of the efficacy is > 0% provided that the null hypothesis for the primary efficacy analysis has been rejected.
+
+3.2.6. Sensitivity Estimators for the 1st key Secondary Estimand
+
+The robustness of the main estimator will be explored using a Poisson Regression model as well as a tipping point analysis described in section 6.6.5.1.
+
+3.2.7. Supplementary Analyses for the 1st key Secondary Estimand
+
+Supplementary analyses with Per-Protocol Analysis Set and Time-to-event are described in section 6.6.6.1.
+
+3.3. Estimands for the 2 nd key secondary objective
+
+The estimand for the 2 nd key secondary efficacy objective is defined as the incidence (measured by 1 minus the incidence rate ratio) of RSV LRTI hospitalization through the RSV season in each country in healthy infants born ≥ 29 WGA entering their first RSV season and not eligible to palivizumab, who received nirsevimab on Day 1, compared to no intervention on Day 1, while participants are on treatment and detailed through the 5 attributes (including intercurrent events) described in Sections 3.3.1 to 3.3.7.
+
+3.3.1. Treatment Condition of Interest
+
+The primary treatment condition of interest is nirsevimab administration (dose of 50 mg for participants weighting < 5kg at dosing/randomization and 100 mg for participants ≥ 5kg) on Day 1 and is compared to no intervention on Day 1.
+
+3.3.2. Population of Participants Targeted by the Clinical Question
+
+The population targeted by the clinical question is defined through randomized healthy infants born ≥ 29 WGA entering their first RSV season and not eligible for palivizumab.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 23 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 24]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+3.3.3. Variable Obtained from Each Participant Required to Address the Clinical Question
+
+For each participant in the study, the variable to address the clinical question is the occurence of RSV LRTI hospitalization through the RSV season in each of the 3 countries.
+
+3.3.4. Handling of Intercurrent Events to Reflect the Clinical Question of Interest
+
+The following intercurrent events are anticipated during the study:
+
+Participant ends study early and withdraws consent from further data collection
+
+Participant ends study early without withdrawing consent from further data collection
+
+Participant who received Beyfortus (nirsevimab) as a routine medication during the study
+
+The following table describes how intercurrent events will be collected and handled within the analysis.
+
+[DOCLING_TABLE rows=4 columns=2]
+| Intercurrent event | Data collection and analysis |
+| Participant ends study early and withdraws consent from further data collection | Participants who withdraw consent from further data collection will be analyzed by while on treatment strategy: only data collected before the occurrence of the intercurrent event will be included in the analysis. Participants will be censored at the earliest of: (i) last available date with no confirmation of RSV LRTI hospitalization, (ii) end of the RSV season or (iii) data cut-off date for the Primary Analysis |
+| Participant ends study early without withdrawing consent from further data collection | Participants who end study early without withdrawing consent from further data collection will be analysed with a treatment policy strategy: if RSV LRTI hospitalization occurs after cut-off date or end of the RSV season, it will not be considered. Participants will be censored at the earliest of (i) last available date with no confirmation of RSV LRTI hospitalization, (ii) end of the RSV season or (iii) data cut-off date for the Primary Analysis |
+| Participant who received Beyfortus (nirsevimab) as a routine medication during the study | Participants who received Beyfortus will be analyzed by while on treatment strategy: only data collected before the occurrence of the intercurrent event will be included in the analysis. Participants will be censored at the earliest of: (i) last available date with no confirmation of RSV LRTI hospitalization, (ii) end of the RSV season or (iii) data cut-off date for the Primary Analysis or (iv) start date of Beyfortus |
+[/DOCLING_TABLE]
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 24 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 25]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+3.3.5. Population-level Summary for Comparison between Treatment Conditions
+
+The efficacy will be quantified with each country by the incidence rate ratio and its corresponding 2-sided 95% CI calculated using an exact method assuming a binomial distribution of the number of RSV LRTI hospitalizations.
+
+If the null hypothsesis for the 1 st key secondary estimand is rejected (superiority of nirsevimab for preventing very severe RSV LRTI) then the efficacy within each country will be tested using a superiority approach. The Bonferroni adjusted 2-sided 95% CI will be presented and superiority assessed using the Bonferroni-Holm procedure. Adjustment will be performed for all sensitivity and supplementary analyses produced for this 2 nd key secondary objective.
+
+3.3.6. Sensitivity Estimators for the 2 nd key Secondary Estimand
+
+The robustness of the main estimator will be explored using a Poisson Regression model as well as a tipping point analysis described in section 6.6.5.2.
+
+3.3.7. Supplementary Analyses for the 2 nd key Secondary Estimand
+
+Supplementary analyses with Per-Protocol Analysis Set and Time-to-event are described in section 6.6.6.2.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 25 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 26]
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+4. Analysis Populations
+
+In accordance with ICH E3 and E9 6 , the following analysis sets will be used for the analyses.
+
+4.1. All Screened Set
+
+The All Screened Set will consist of all participants who have signed the informed consent forms. The All Screened Set will be used for summaries of disposition and the associated listing.
+
+4.2. All Randomized Set
+
+All Randomized Set will consist of all participants randomly assigned to either the nirsevimab group or the no intervention group. All Randomized Set participants are analyzed according to their randomized study intervention group.
+
+4.3. Per-Protocol Analysis Set
+
+The PPAS will consist of all randomized participants who do not have any important protocol deviations leading to exclusion from the PPAS. PPAS participants are analyzed according to their randomized study intervention group.
+
+Protocol deviations are defined as any change, divergence, or departure from the study design or procedures defined in the study protocol. Important protocol deviations are a subset of protocol deviations which may significantly impact the correctness, accuracy, and / or reliability of the study data or that may significantly affect a participant's rights, safety, or well-being. Section 4.3.1 details the deviations.
+
+4.3.1. Important Protocol Deviations Leading to Exclusion from the Per-Protocol Analysis Set
+
+Deviations from the protocol, as defined in the protocol and / or protocol deviation plan, will be documented by the study monitors and project management throughout the study period.
+
+Only those important protocol deviations considered to have a major effect on efficacy will lead to exclusion of the participant from the PPAS. For the purposes of this study, the following criteria have been identified as candidates for important protocol deviations leading to exclusion from the PPAS as it is considered that the occurrences of any of these criteria might have an important influence on the primary efficacy endpoint:
+
+-Participant did not meet all protocol-specified inclusion criteria or met at least one of the protocol-specified exclusion criteria
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 26 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 27]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+-Participant did not receive nirsevimab or the correct dose of nirsevimab if randomized to nirsevimab
+
+-Participant received nirsevimab if randomized to no intervention
+
+-Administration of nirsevimab was not done as per-protocol
+
+-Participant did not have at least one contact for efficacy follow-up after dosing/randomization (ie, eDiary was not completed by parents or phone call by Medical Call Center (MCC)/site to collect hospitalization information was not done).
+
+-Participant who received Beyfortus (nirsevimab) as a routine medication during the study.
+
+-Any other protocol deviations identified during the study conduct as relevant to the exclusion from the PPAS
+
+Participants will be assessed purely by comparison of their eCRF data with the criteria above; protocol waivers or exemptions are not allowed.
+
+Criteria which require clinical or medical monitoring interpretation will be reviewed prior to database lock. All important protocol deviations leading to exclusion from the PPAS occurring during the study will be reviewed and approved by the sponsor (ie, Sanofi Pasteur) prior to database lock. If additional important protocol deviations, which were not anticipated at the time of SAP preparation, are identified during the study and are deemed to lead to exclusion from the PPAS, such deviations will be documented in a SAP amendment and included in all relevant protocol deviation reviews and approvals.
+
+4.4. Safety Analysis Set
+
+Safety Analysis Set (SafAS) will consist of all participants who received nirsevimab in the study and all randomized participants who were randomized to the no intervention group and did not receive nirsevimab inadvertently.
+
+SafAS participants are analyzed according to the study intervention they actually received.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 27 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 28]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Fortrea Study: 000000228812
+
+5. Data Handling
+
+5.1. Time Points and Visit Windows
+
+5.1.1. General Definitions
+
+All assessment days will be related to Day 1. Day 1 is the date of randomization (for no intervention group) / immunization (for nirsevimab group).
+
+Relative days after Day 1 are calculated as (assessment date - Day 1 date) + 1. Relative days prior to Day 1 are calculated as (assessment date - Day 1 date). The day prior to Day 1 is Day -1. Day 0 is not defined.
+
+The date of the immunization for each participant in the nirsevimab group will be taken from the Immunization eCRF page. If the date on this eCRF page is missing, alternatively the date of randomization will be used.
+
+The date of the randomization for each participant in the no intervention group will be taken from the Randomization eCRF page. If the date in this eCRF page is missing, alternatively the date of inform consent (Informed Consent Date eCFR page) will be used.
+
+5.1.2. Screening Period
+
+For all participants, the screening period is defined as the period from informed consent to Day 1. For some variables, data from more than one assessment within the screening period can be collected prior to randomization (for no intervention group) / immunization (for nirsevimab group).
+
+The baseline value for a variable is therefore defined as the last non-missing value collected before Day 1 in the screening period.
+
+5.1.3. Treatment Period
+
+At the time of Primary Analysis, the Treatment Period is defined as the period from the date / time of randomization (for no intervention group) / immunization (for nirsevimab group) up to and including:
+
+-The cut-off date for the Primary Analysis,
+
+-Lost to follow-up or consent withdrawal date, if participant is lost to follow-up or withdraws consent.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 28 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 29]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+At the time of First Year Analysis, the Treatment Period is defined as the period from the date / time of randomization (for no intervention group) / immunization (for nirsevimab group) up to and including:
+
+-The date of 12-month safety follow-up call, if 12-month safety follow-up call occurs before or on Day 1 + 365 + 14,
+
+-Day 1 + 365 + 14 date, if 12-month safety follow-up call occurs after Day 1 + 365 + 14,
+
+-Lost to follow-up or consent withdrawal date, if participant is lost to follow-up or withdraws consent.
+
+At the time of Second Year Analysis, the Treatment Period 'from Day 1 to 366 Days PostDosing/Randomization' for UK reconsented participants is defined as the period from the date / time of randomization (for no intervention group) / immunization (for nirsevimab group) up to and including:
+
+-The date of 12-month safety follow-up, if 12-month safety follow-up call occurs before or on Day 1 + 365 + 14,
+
+-Day 1 + 365 + 14 date, if 12-month safety follow-up call occurs after Day 1 + 365 + 14
+
+-The date of 24-month safety follow-up or until lost to follow-up or consent withdrawal
+
+At the time of Second Year Analysis, the Treatment Period 'from 366 Days PostDosing/Randomization to 731 Days Post-Dosing Randomization' for UK reconsented participants who are not lost to follow-up or who don't withdraw consent before 366 Days Post-Dosing/Randomization is defined as the period from:
+
+-The date of 12-month safety follow-up + 1, if 12-month safety follow-up call occurs before or on Day 1 + 365 + 14,
+
+-Day 1 + 365 + 14 + 1 date, if 12-month safety follow-up call occurs after Day 1 + 365 + 14
+
+Up to and including:
+
+-The date of 24-month safety follow-up call, if 24-month safety follow-up call occurs before or on Day 1 + 730 + 14,
+
+-Day 1 + 730 + 14 date, if 24-month safety follow-up call occurs after Day 1 + 730 + 14,
+
+-Lost to follow-up or consent withdrawal date, if participant is lost to follow-up or withdraws consent.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 29 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 30]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+At the time of Second Year Analysis, the Treatment Period 'from Day 1 to 731 Days PostDosing/Randomization' for UK reconsented participants is defined as the period from the date / time of randomization (for no intervention group) / immunization (for nirsevimab group) up to and including:
+
+-The date of 24-month safety follow-up call, if 24-month safety follow-up call occurs before or on Day 1 + 730 + 14,
+
+-Day 1 + 730 + 14 date, if 24-month safety follow-up call occurs after Day 1 + 730 + 14,
+
+-Lost to follow-up or consent withdrawal date, if participant is lost to follow-up or withdraws consent.
+
+Data collected at Day 1 will be assigned to the Treatment Period unless the time (HH:MM) of data collection and time (HH:MM) of randomization (for no intervention group) / immunization (for nirsevimab group) are both recorded and the data collection time is before the time of randomization (for no intervention group) / immunization (for nirsevimab group). In this case, the assessment will be assigned to the screening period. If the time (HH:MM) of data collection is not recorded but the protocol and / or eCRF includes an instruction to the effect that all Day 1 assessment are to be performed prior to the randomization (for no intervention group) / immunization (for nirsevimab group), the data collected at Day 1 will be assigned to the screening period. However, adverse events and medications starting on Day 1, will be assigned to the Treatment Period.
+
+5.1.4. Analysis Windows for monthly reporting of events via eDiary
+
+Table 5 Definition of Analysis Windows for monthly reporting of events of interest via eDiary describes and provides the relative study day ranges to be applied to the date of event reporting by parents via eDiary to derive the analysis windows for monthly reporting of events of interest.
+
+The following considerations are to be followed when deriving the analysis windows:
+
+The relative day number of the event reporting lies between the lower and upper boundary of the window (the boundary values are included)
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 30 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 31]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+[DOCLING_TABLE rows=15 columns=2]
+|  | Analysis Window a |
+| Month 1 | Day 1 to 31 |
+| Month 2 | Day 32 to 61 |
+| Month 3 | Day 62 to 91 |
+| Month 4 | Day 92 to 121 |
+| Month 5 | Day 122 to 151 |
+| Month 6 | Day 152 to 181 |
+| Month 7 | Day 182 to 211 |
+| Month 8 | Day 212 to 241 |
+| Month 9 | Day 242 to 271 |
+| Month 10 | Day 272 to 301 |
+| Month 11 | Day 302 to 331 |
+| Month 12 | Day 332 to 366 +14 days (From Day 332 to 380) |
+| Month 18 | Day 367 +14 to 546 +14 (From Day 381 to 560) |
+| Month 24 | Day 547 +14 to 745 (From Day 561 to 745) |
+[/DOCLING_TABLE]
+
+5.2. Handling of Dropouts, Missing Data, and Outliers
+
+5.2.1. Handling of Missing Efficacy Data
+
+Efficacy data (ie, LRTI hospitalization) will be collected through the participants' medical records and reported in the eCRF by the site personnel or designee. Efficacy data will be analyzed accounting for the follow-up time post-dosing/randomization up to the data cut-off date.
+
+For the participants who do not have the efficacy endpoints of interest at the time of the Primary Analysis, the end date for the efficacy follow-up will be the end of the RSV season, or the last available date with confirmation of no such efficacy endpoints, or the cut-off date of the Primary Analysis, whichever occurs first. The efficacy follow-up will be censored at the end date.
+
+For the participants who do not have the efficacy endpoints of interest through the RSV season at the time of the First Year Analysis, the end date for the efficacy follow-up will be the last available date with confirmation of no such efficacy endpoints or the end of RSV season whichever is earlier. The efficacy follow-up will be censored at the end date.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 31 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 32]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+For the participants who do not have RSV LRTI hospitalization through Day 151/ Day 181 post-dosing/randomization, from 181 days post-dosing/randomization to 366 days postdosing/randomization or from 366 days post-dosing/randomization to 731 days postdosing/randomization, please refer to sections 6.6.4.3.2, 6.6.4.3.4, 6.6.4.3.5 and 6.6.4.3.6. For participants who do not have recurrent wheeze events through Day 366/ Day 731 postdosing/randomization, please refer to section 6.6.4.3.7.
+
+5.2.2. Handling of Missing Safety Data
+
+Adverse event imputations for missing severity or relationship are given in Section 6.7.2.1. Unknown or partial medication and AE date imputations are given below and are to be used only for the assessment of prior / concomitant status for medications and treatment-emergent status for AEs.
+
+5.2.3. Handling of Partial and Missing Dates for Date of Birth, Adverse Events, Prior / Concomitant Medications / LRTI Hospitalizations / Recurrent Wheeze Events
+
+5.2.3.1. Partial and Missing Dates of Birth
+
+Age is a stratification factor for randomization and would not be missing. The missing Date of Birth will not be imputed if age is available. In rare cases, both age and Date of Birth are missing, the following convention will be used:
+
+Where the day is missing and month and year are available the day will be completed as the 15th. For example, Date of Birth specified as --JAN1980 will be completed as 15JAN1980.
+
+If the day and month are missing and the year is available, the day and month will be completed as 02JUL (the 183rd day of the year). For example, Date of Birth specified as ----1980 will be completed as 02JUL1980.
+
+The imputed Date of Birth will be compared to the date of Informed Consent Form (ICF) or randomization to ensure consistency. The Date of Birth should be set to the earlier date of ICF and randomization if imputed Date of Birth is after the date of ICF or randomization.
+
+5.2.3.2. Missing or Partial Dates for Adverse Event and Prior / Concomitant Medication
+
+Missing and / or incomplete dates for medications and AEs are imputed in a manner resulting in the earliest onset or the longest duration during the Treatment Period, whilst ensuring that
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 32 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 33]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+the start date does not occur after the stop date. The stop date will not be imputed if the medication or AE is 'Ongoing'. Technically, this will be done as follows:
+
+For a missing / incomplete start date the earliest date of the following will be imputed:
+
+The later date of: the earliest possible start date, and the date of the randomization (for no intervention group) / immunization (for nirsevimab group)
+
+The latest possible start date
+
+The latest possible stop date
+
+For a missing / incomplete stop date the latest date of the following will be imputed:
+
+The earlier date of the latest possible stop date and the date of last dose of treatment
+
+The earliest possible stop date
+
+The earliest possible start date
+
+Here, the earliest possible date is defined as:
+
+The date itself if available
+
+The date of the first day of the month, if month and year are available but the day is missing
+
+The date of the first day of the year, if year is available but day and month are missing
+
+The day of informed consent, if the date is completely missing
+
+The latest possible date is defined as:
+
+The date itself if available
+
+The date of the last day of the month, if month and year are available but the day is missing
+
+The date of the last day of the year, if year is available but day and month are missing
+
+The date of last known date on the study for the participant plus one year, if the date is completely missing
+
+5.2.3.3. Missing or Partial Dates for LRTI Hospitalization Start Dates
+
+In case of missing or partial start dates of LRTI hospitalization, same rules as for AE will be applied. However, no substitution will be performed for missing or partial end dates of LRTI hospitalization.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 33 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 34]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+5.2.3.4. Missing or Partial Dates for Recurrent Wheeze Event Start/ Stop Dates
+
+In case of missing or partial dates of Recurrent Wheeze Event, same rules as for LRTI Hospitalization will be applied.
+
+5.2.4. Handling of Plasma / Blood / Serum Concentrations that are Below the Lower Limit of Quantification
+
+Not Applicable.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 34 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 35]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+6. Statistical Methods
+
+6.1. General Principles
+
+All data processing, summarization and analyses will be performed using Fortrea's SAS Environment / Version 9.4 (or later) of the SAS  statistical software package.
+
+The default summary statistics for quantitative variables will be the number of observations (n), mean, standard deviation (SD), median, minimum (min) and maximum (max), for those participants with data.
+
+For qualitative variables, the number (n) and percentage (%) of participants with non-missing data per category will be the default summary presentation, and where appropriate and present, the number of missing values as a 'Missing' category. Number of participants in the analysis population will be used as denominator for percentages calculation, unless otherwise stated in TFLs mock shell(s).
+
+All statistical comparisons will be made using two sided tests at the  =0.05 significance level unless specifically otherwise stated. All null hypotheses will be of no treatment difference. All alternative hypotheses will be two-sided.
+
+Specifications for table, figure and data listing formats can be found in the TFL shells specifications for this study. Please refer to '2. General Format Guidelines' section within TFL shells for more details on presentation of results.
+
+All analyses in the SAP will be carried out for all countries combined and as subgroup analyses by country.
+
+6.2. Participant Disposition and Data Sets Analyzed
+
+Participant disposition will be summarized by treatment group and overall, where appropriate, for the All Screened Set. The following information will be reported:
+
+Number of participants for the following categories:
+
+o Screened
+
+o Screen Failure
+
+o Reason for Screen Failure (Eligibility Not Met; Withdrawal by Parent/LAR; Parent/LAR uncontactable between signing consient and proposed randomization; Other reason)
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 35 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 36]
+
+CONFIDENTIAL
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Protocol Reference: VAS00006
+
+Number and percentage of participants for the following categories:
+
+o Randomized
+
+o Treated
+
+o Not Treated
+
+o Completed the study
+
+o Ongoing in the study
+
+o Discontinued the Study
+
+o Reasons for study discontinuation (Adverse Event; Protocol Deviation; Withdrawal by Parent/Guardian; Lost to Follow-Up)
+
+In addition, at the time of First Year Analysis and Second Year Analysis, number and percentages of participants who continued until 24 Months Follow-up phase will be provided. Above table will also be produced
+
+-by country
+
+-in participants who received Beyfortus as a routine medication if there are at least 10 concerned participants (First Year Analysis only)
+
+-in UK reconsented participants (Second Year Analysis only)
+
+-in UK reconsented participants who received Beyfortus as a routine medication if there are at least 10 concerned participants (Second Year Analysis only).
+
+Number and percentage of participants included in, and excluded from, each study population together with the reasons for exclusion from the analysis set. This table will also be produced in UK reconsented participants (Second Year Analysis).
+
+Number and percentage of participants who failed screening prior to randomization, including detail for screen failure
+
+Number and percentage of participants at each country / site. This table will also be produced in UK reconsented participants (Second Year Analysis).
+
+Number and percentage of participants by stratification factor; Each stratification variable will be presented by the stratum collected in Interactive Response Technology (IRT) system. This table will also be produced in participants who received Beyortus as a routine medication if there are at least 10 concerned participants (First Year Analysis only), in UK reconsented participants (Second Year Analysis) and in UK reconsented participants who received Beyortus as a routine medication if there are at least 10 concerned participants (Second Year Analysis).
+
+A participant will be regarded as having completed the study if the status recorded on the Subject Status Technical Form eCRF form is 'Study Completed'. A participant will be considered as having discontinued the study if they have an eCRF status of study discontinuation. Otherwise, the participant will be considered as ongoing in the study. However, at the time of First Year Analysis:
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 36 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 37]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+-UK participants who declined reconsenting will be considered as having 'Completed the Study'. Completion date will the 12 Month Follow Up Call date.
+
+-UK participants who completed 12 Month Follow Up Call but didn't reconsent yet will be considered as 'Ongoing in the Study'
+
+-UK participants who already reconsented will be considered as 'Ongoing in the Study'.
+
+A listing of all participants with their treatment and study completion status, including the reasons for study discontinuation, will be presented for the All Randomized Set as well as:
+
+-in participants who received Beyfortus as a routine medication (First Year Analysis only)
+
+-in UK reconsented participants (Second Year Analysis only)
+
+-in UK reconsented participants who received Beyfortus as a routine medication (Second Year Analysis only).
+
+A listing of all screen failed participants with their details for screen failure will be presented for the All Screened Set. A separate listing of participants who failed at least one inclusion / exclusion criteria including a text description of the criterion failed will be presented for the All Screened Set.
+
+A listing of all randomized participants with their randomization details, including immunization date and actual treatment received will be presented for the All Randomized Set as well as:
+
+-in participants who received Beyfortus as a routine medication (First Year Analysis only)
+
+-in UK reconsented participants (Second Year Analysis only)
+
+-in UK reconsented participants who received Beyfortus as a routine medication (Second Year Analysis only).
+
+A listing of all participants excluded from at least one analysis set will be presented for the All Randomized Set.
+
+6.3. Protocol Deviations
+
+All important protocol deviations will be summarized for the All Randomized Set by treatment group and overall as described below (those leading to exclusion from the PPAS are detailed in Section 4.3.1):
+
+The number of unique participants with at least one important protocol deviation as well as the number of participants in each important protocol deviation category,
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 37 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 38]
+
+CONFIDENTIAL
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Protocol Reference: VAS00006
+
+protocol deviation subcategory and protocol deviation study specific category will be presented by default descriptive summary statistics for categorical variables.
+
+The summary will be sorted using numerical counts by descending order of protocol deviation category, then descending order of protocol deviation subcategory, then descending order of protocol deviation study specific category in the total column. Where groups or terms tie these will be sorted alphabetically.
+
+A listing of all participants with one or more important / non important protocol deviations will be presented for the All Randomized Set.
+
+6.4. Demographic and Other Baseline Characteristics
+
+6.4.1. Demographic Characteristics
+
+Demographic characteristics will be summarized for the All Randomized Set by treatment group and overall as described below. All missing data will be presented as part of a missing category, if appropriate. Standard descriptive statistics will be presented for the continuous variables of:
+
+Age (months)
+
+Weight (kg) at baseline
+
+Gestational age at birth (weeks)
+
+Total counts and percentages of participants will be presented for the categorical variables of:
+
+Neonates (Yes/ No) defined as age ≤ 28 days
+
+Age group (months) derived from date of birth:
+
+o ≤ 3.0
+
+o > 3.0 to ≤ 6.0
+
+o > 6.0
+
+o Male
+
+o Female
+
+Weight (kg) at baseline
+
+o < 5 kg
+
+o ≥ 5 kg
+
+Gestational age at birth (weeks)
+
+o < 37 weeks
+
+o ≥ 37 weeks
+
+Country
+
+o France
+
+o Germany
+
+Sex
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 38 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 39]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+o United Kingdom
+
+Age is collected in eCRF provided by the IRT system in calendar days. Age (months) will be calculated as (randomization date - date of birth+1)/30.4375.
+
+Demographic characteristics will be listed for the All Randomized Set.
+
+Demographic analyses and listing will also be performed:
+
+-by country
+
+-in participants who received Beyfortus as a routine medication (First Year Analysis only), if there are at least 10 concerned participants (table)/ one concerned participant (listing)
+
+-in UK reconsented participants (Second Year Analysis only).
+
+-in UK reconsented participants who received Beyfortus as a routine medication (Second Year Analysis only), if there are at least 10 concerned participants (table)/ one concerned participant (listing).
+
+6.4.2. Medical History
+
+Medical history is defined as any significant (ie, clinically relevant) condition that the participant may have had prior to enrollment in the study, including any chronic conditions diagnosed prior to entry in the study.
+
+Medical history will be coded using the Medical Dictionary for Regulatory Activities (MedDRA) (version 25.0) and will be presented by System Organ Class (SOC) and Preferred Term (PT) and total.
+
+Medical history records will be summarized for the All Randomized Set by treatment group and overall as follows:
+
+The number and percentage of participants with at least one medical history record will be presented.
+
+The number and percentage of participants with at least one medical history record within each primary SOC and PT will be presented. The summary will be sorted using the internationally agreed order for SOC and using descending order of overall numerical counts for PT. Where terms tie, these will be sorted alphabetically.
+
+Medical history records will be listed by-participant and within-participant for the All Randomized Set.
+
+Same analysis and listing will be provided:
+
+-in participants who received Beyfortus as a routine medication (First Year Analysis only), if there are at least 10 concerned participants (table)/ one concerned participant (listing)
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 39 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 40]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+-in UK reconsented participants (Second Year Analysis).
+
+-in UK reconsented participants who received Beyfortus as a routine medication (Second Year Analysis only), if there are at least 10 concerned participants (table)/ one concerned participant (listing).
+
+6.4.3. Prior and Concomitant Medications
+
+All medications will be coded using the WHO Drug Global Dictionary, Format B3 (Version March 2022), Anatomical Therapeutic Chemical (ATC) Classification codes.
+
+Concomitant medications will be collected in the event of an AE. Reportable medications include medications that may affect the interpretation of safety data (eg, an antipyretic or analgesic that could have reduced the intensity or frequency of an AE).
+
+All vaccines administered within 14 days before or after dosing/randomization should be reported as concomitant therapies. All medications administered within 14 days before or after admission of LRTI hospitalization will also be considered as reportable.
+
+Reportable medications will be collected in the eCRF. Dosage, homeopathic medication, topical and inhaled steroids, as well as topical, ophthalmic, and ear treatments will not be recorded (except topical analgesics applied at the injection site of study intervention).
+
+Prior medications and concomitant medications are defined as follows:
+
+Prior medications are those taken prior to screening with a stop date prior to the date / time of randomization (for no intervention group) / immunization (for nirsevimab group)
+
+Concomitant medications are those with a start date on or after the date / time of randomization (for no intervention group) / immunization (for nirsevimab group), or those with a start date before the date / time of randomization (for no intervention group) / immunization (for nirsevimab group) and either a stop date on or after the date / time of randomization (for no intervention group) / immunization (for nirsevimab group), or are ongoing at the end of the study
+
+See Section 5.2.3 for imputation of missing or partial dates for medication.
+
+Prior and concomitant medications will be summarized separately for the All Randomized Set by treatment group and overall as follows:
+
+The number and percentage of participants with at least one prior / concomitant medication will be presented
+
+The number and percentage of participants with at least one prior / concomitant medication within each Anatomical Group (ATC Level 1), Therapeutic Subgroup (ATC Level 2), Pharmacological or Therapeutic Subgroup (ATC4) and preferred term will be presented. The summary will be sorted using numerical counts by descending
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 40 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 41]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+order of Anatomical Group, then descending order of Therapeutic Subgroup, then descending order of preferred term in the total column. Where groups or terms tie these will be sorted alphabetically
+
+In addition, the same type of tables (by ATC Level 1, ATC Level 2, ATC Level 4 and preferred term) will be provided for:
+
+-All Concomitant Medications in participants who received Beyfortus as a routine medication if there are at least 10 concerned participants;
+
+-All Vaccines given within 14 days before or after dosing/randomization;
+
+-All Vaccines given within 14 days before or after dosing/randomization in participants who received Beyfortus as a routine medication if there are at least 10 concerned participants;
+
+-Vaccines given within 14 days before or after dosing/randomization, restricted to the list in Appendix 2 (Section 8.2);
+
+-Medications administered within 14 days before or after an LRTI hospital admission. The following medications will be considered for the analysis:
+
+o medications with a start date within 14 days before or after an LRTI hospital admission,
+
+o medications with a start date 14 days before an LRTI hospital admission but with a stop date within the 14 days before or after an LRTI hospital admissions
+
+o medications with a start date 14 days before an LRTI hospital admission and still ongoing (no stop date)
+
+-Medications administered within 14 days before or after an LRTI hospital admission in participants who received Beyfortus as a routine medication if there are at least 10 concerned participants;
+
+Prior medications and concomitant medications will be listed separately for the All Randomized Set. In the listings, the relative start and stop day of prior / concomitant medication use will be calculated relative to the time of randomization (for no intervention group) / immunization (for nirsevimab group) and will be presented for those participants in All Randomized Set. If the concomitant medication is 'Ongoing' at End of Study it will be indicated as such in the listing and the relative stop day will not be calculated. Only original dates will be presented in the listing even though the relative day may be based on an imputed date.
+
+6.5. Measurements of Treatment Compliance
+
+Not applicable in this study.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 41 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 42]
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Fortrea Study: 000000228812
+
+6.6. Efficacy
+
+The main objective of the study is to assess the efficacy of nirsevimab in preventing RSV LRTI hospitalization through the RSV season compared to no intervention in all 3 countries combined. The primary and key secondary efficacy objectives will be assessed in the Primary Analysis by a hierarchical order. Only if the superiority for the primary endpoint is demonstrated, a superiority approach will be used to assess the efficacy of nirsevimab in preventing very severe RSV LRTI through the RSV season compared to no intervention in all 3 countries combined.
+
+If the superiority for very severe RSV LRTI through the RSV season is demonstrated, a superiority approach will be used to assess the efficacy of nirsevimab in preventing RSV LRTI hospitalization through RSV season compared to no intervention in each country separately. For this, Bonferroni-Holm procedure will be used in the statistical analysis.
+
+For other secondary objectives and exploratory objectives, no hypotheses will be tested and the analyses will be descriptive.
+
+In case of missing or partial dates of LRTI hospitalizations or recurrent wheeze events, rules defined in section 5.2.3.3 and 5.2.3.4 will be applied.
+
+In addition, following efficacy listings will be provided at the time of Primary Analysis and First Year Analysis:
+
+-LRTI
+
+-Very Severe LRTI
+
+-LRTI Hospitalization
+
+At the time of First Year Analysis only, below listings will also be produced:
+
+-LRTI in participants who received Beyfortus as a routine medication
+
+-Very Severe LRTI in participants who received Beyfortus as a routine medication At the time of Second Year Analysis, following listing will also be provided:
+
+-Recurrent Wheeze Events in the United Kingdom for Reconsented Participants
+
+For all above listings, original dates will be presented even though the relative day and followup time (months) may be based on an imputed date.
+
+6.6.1. Primary Efficacy Analysis
+
+The primary efficacy variable is defined as the overall incidence of RSV LRTI hospitalization through the RSV season in healthy term and preterm infants in all 3 countries combined, measured by 1 minus the incidence rate ratio.
+
+The null hypothesis of (1- (CN / NN) / (CC / NC)) × 100% ≤ 0% will be tested against the alternative hypothesis of (1- (CN / NN) / (CC / NC)) × 100% > 0% at the alpha=0.05 significance level.
+
+where:
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 42 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 43]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+-CN and CC are the numbers of RSV LRTI hospitalization through the RSV season in the nirsevimab and the no intervention groups, respectively.
+
+-NN and NC are the total person-time contributed by participants randomized in the nirsevimab and the no intervention groups, respectively.
+
+If a participant experiences multiple occurrences of the same primary endpoint, only the first episode will be considered.
+
+The following rules will be applied in the calculation of the total person-time for the followup time:
+
+The start date for the follow-up will be the date of randomization for participants who are randomized to no intervention, the date of treatment dosing for participants who are randomized to nirsevimab and treated, and the date of randomization for participants who are randomized to nirsevimab but not treated.
+
+For the participants who have the primary endpoint at the cut-off date for the Primary Analysis, the end date for the efficacy follow-up will be the date of hospital admission if the cut-off date is before the end of RSV season; otherwise the participants will be censored at the end of RSV season.
+
+For the participants who do not have the primary endpoint at the cut-off date for the Primary Analysis (see section 6.7.8), the efficacy follow-up will be censored at the end date defined in the following:
+
+o for the participants who continue in the study and had contact for safety events, the end date for the efficacy follow-up will be the end of RSV season, the last available date with confirmation of no RSV LRTI hospitalization or the cutoff date whichever is earlier.
+
+o for the participants who discontinued from the study before the end of RSV season and had contact for safety events, see Table 2 in section 3.1.4.
+
+o for the participants who had no contact for safety events at all throughout the efficacy follow-up period, the end date for the efficacy follow-up will be date of randomization for participants who are randomized to no intervention, the date of treatment dosing for participants who are randomized to nirsevimab and treated, and the date of randomization for participants who are randomized to nirsevimab but not treated.
+
+The total person-time for the follow-up time of each participant will be calculated as:
+
+Person-months = (the end date - the start date +1)/30.4375.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 43 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 44]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+NN (days), the total person-time contributed by participants randomized in the nirsevimab, will be the sum of person-months for all the participants in the nirsevimab group. And NC (days), the total person-time contributed by participants randomized in the no intervention group, will be the sum of person-months for all the participants in the no intervention group.
+
+The 2-sided 95% CI for the efficacy will be calculated by an exact method assuming a binomial distribution of the number of RSV LRTI hospitalizations in the nirsevimab group conditional on the total number in both groups (described by Breslow and Day 7 ) accounting for the follow-up time post-dosing/randomization.
+
+The superior efficacy of nirsevimab in preventing RSV LRTI hospitalization is concluded if the lower bound of 2-sided 95% CI of the efficacy is > 0%. P-value will also be provided. The primary efficacy analysis of the primary endpoint will be performed with the All Randomized Set.
+
+RSV season is the period of increased RSV infection. For the purpose of efficacy analyses, the start of the RSV season will be defined on a country-by-country basis and will be based on country-specific epidemiological surveillance and the cut-off date (28Feb2023, except for site parent contact and medical call center contact, for which the date of database lock for Primary Analysis will be used) will be used as end dates.
+
+6.6.2. Sensitivity Analyses for the Primary Objective
+
+6.6.2.1. Analyses with Poisson Regression Model
+
+A sensitivity analysis using a Poisson regression model with robust variance will be performed on All Randomized Set. The model will contain the following independent variables: the term of treatment group (ie, nirsevimab, no intervention), and age group at randomization (ie, age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months, age > 6.0 months), and country (ie, France, Germany and United Kingdom) as covariates, adjusting for the log of the followup time of the first event as an offset. No interaction terms will be included in the model. The efficacy of nirsevimab in preventing RSV LRTI hospitalization, defined as (1 minus the incidence rate ratio) × 100% and its corresponding 2-sided 95% CI will be estimated from the model by exponentiating the poisson model coefficients. Follow-up time for the log offset will be calculated as per Section 6.6.1. P-value will be provided.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 44 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 45]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+6.6.2.2. Tipping-Point Analysis
+
+Due to the open-label nature of the study, an excess of withdrawals might be observed in the no intervention group and be translated into a biased estimator when assuming the noninformative censoring hypothesis.
+
+In order to test this hypothesis, a tipping point analysis 8,9,10 will be perfomed to assess the impact of imputating missing data under a various range of hypotheses.
+
+In order to perform the tipping point analysis, data will be imputed for all participants with missing data, (ie who discontinued the study, or with a RSV test equals to missing or Not Done) from both groups, several scenarios will be evaluated:
+
+Best case scenario: no RSV LRTI hospitalization among the missing data in nirsevimab group whereas all missing data in the no intervention group will be imputed as RSV LRTI hospitalization.
+
+Worst case scenario: all missing data in nirsevimab group will be imputed as RSV LRTI hospitalization whereas no missing data in the no intervention group will be imputed as RSV LRTI hospitalization.
+
+The number of RSV LRTI hospitalizations imputed in each arm will be incremented from 0% (complete case analysis with no RSV LRTI hospitalization imputed in any arm), by 10%, to the total number of missing data in each arm. Remaining participants with missing data (from 90% of total number of missing data to 0%) will be then imputed as having no RSV LRTI hospitalizations.
+
+For each combination:
+
+Person-months will be imputed in both treatment groups using the overall distribution of person-months in the respective group for non-missing participants. The following values will be considered and evaluated as different scenarios: minimum value, Q1, Q2, Q3 and maximum value.
+
+Corresponding Incidence Rates will be imputed in each treatment arm.
+
+For non aggregated rows, Efficacy for participants with missing data will be provided
+
+For non aggregated rows, Overall Efficacy will also be computed with its 2-sided 95% Confidence Interval (described by Breslow and Day as for primary analysis) and corresponding p-value
+
+With:
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 45 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 46]
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+CONFIDENTIAL
+
+Protocol Reference: VAS00006
+
+IRN୓ୠୱ = Incidence Rate observed in nirsevimab group
+
+IRC୓ୠୱ = Incidence Rate observed in No Intervention group
+
+Prop୓ୠୱ ୒ = Proportion of observed person-time in nirsevimab group defined as NN NN+NNMiss
+
+Prop୓ୠୱ C = Proportion of observed person-time in No Intervention group defined as N C N C +N C Miss
+
+Prop୑iୱୱ ୒ = Proportion of missing person-time in nirsevimab group defined as NNMiss
+
+NN+NNMiss
+
+Prop୑iୱୱ C = Proportion of missing person-time in No Intervention group defined as N C Miss N C +NCMiss
+
+Then, person-months imputed from these different scenarios in no intervention group (min, Q1, Q2, Q3, max) in step 2)a) will be aggregated by PROC MIANALYZE in SAS using Rubin's rule, for a same combination of percentages in step 1)c).
+
+Step 2)e) will be repeated 5 times for the same combination of percentages working on the person-months imputed in nirsevimab group (min, Q1, Q2, Q3, max).
+
+For a same combination of percentages in step 1)c), person-months imputed from the 25 different scenarios in both groups (min, Q1, Q2, Q3, max in nirsevimab group/ min, Q1, Q2, Q3, max in no intervention group) will be aggregated by PROC MIANALYZE in SAS.
+
+For each different aggregated row from steps 2)e), 2)f), 2)g), Overall Efficacy, corresponding 95% CI and p-value will be provided by PROC MIANALYZE in SAS.
+
+In addition, a graphical representation of all efficacy results off complete aggregated rows (produced in step 2)g)) will also be provided.
+
+6.6.3. Supplementary Analyses for the Primary Objective
+
+6.6.3.1. Analyses with Per-Protocol Analysis Set
+
+The above-described analysis in Section 6.6.1 on the primary endpoint will also be conducted on the PPAS.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 46 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 47]
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+6.6.3.2. Survival Analyses
+
+A hazard ratio and the corresponding 2-sided 95% CI will be obtained from the Cox proportional hazard model with country (ie, France, Germany and United Kingdom) and age group at randomization (ie, age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months, age > 6.0 months) as the covariates. The corresponding efficacy estimate is defined as (1 minus hazard ratio) × 100%. A Kaplan-Meier curve for time to first RSV LRTI hospitalization will be generated based on the observed events and will include the p-value from a log-rank test stratified by country and age group at randomization. The algorithm for time-to-event calculation is the same as that for follow-up time as Section 6.6.1.
+
+A log log plot to check Proportional Hazard assumption in the Cox proportional hazard model above will be provided.
+
+Above analyses will be performed in the All Randomized Set.
+
+6.6.4. Secondary Efficacy Analysis
+
+6.6.4.1. Very Severe RSV LRTI
+
+If the efficacy of nirsevimab in preventing RSV LRTI hospitalization is demonstrated in the primary efficacy analysis, the very severe RSV LRTI through the RSV season will be compared between the nirsevimab and no intervention groups on All Randomized Set using the same method as for the primary efficacy analysis of the primary endpoint. The very severe RSV LRTI is a subset of RSV LRTI hospitalization with oxygen saturation < 90% (at any time during hospitalization) and oxygen supplementation. For participants with multiple very severe RSV LRTI episodes, only the first occurrence will be used in the analysis. If the lower bound of the 2-sided 95% CI for the efficacy is > 0%, the superior efficacy of nirsevimab in preventing very severe RSV LRTI compared to the no intervention group is demonstrated. Pvalue will also be provided.
+
+The algorithm for follow-up time is the same as that for follow-up time as Section 6.6.1.
+
+6.6.4.2. RSV LRTI Hospitalization in Each Country
+
+If the efficacy of nirsevimab in preventing very severe RSV LRTI compared to the no intervention is concluded, RSV LRTI hospitalization will be evaluated in each of the 3 countries. The same analysis as described above in Section 6.6.1 for the primary endpoint with Bonferroni-Holm procedure based on the adjusted p-values for the multiplicity adjustment will be used to calculate the efficacy on All Randomized Set in each country. The
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 47 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 48]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+superior efficacy of nirsevimab in preventing RSV LRTI hospitalization is concluded for the country if the adjusted p-value is < 0.05. The p-values will be ordered from the smallest to the greatest for the 3 countries and give rank 1, to the smallest, and 3, to the greatest. Compare the first-ranked (smallest) p-value to the alpha level 0.05/(3+1- rank). If the p-value is smaller, reject the null hypothesis for this individual test and move to the p-value of the next rank. Otherwise, the hypothesis is not significant and stops the procedure. The testing stops with the first non-rejected null hypothesis. All subsequent hypotheses are non-significant. Only countries with adjusted p-values and the first country with non-significant adjusted p-value will be presented. Adjusted p-values will be computed using PROC MULTTEST in SAS.
+
+At the time of First Year Analysis, the adjusted 2-sided 95% CI for the efficacy will also be calculated by an exact method assuming a binomial distribution of the number of RSV LRTI hospitalizations in the nirsevimab group conditional on the total number in both groups (described by Breslow and Day) accounting for the follow-up time postdosing/randomization.
+
+The algorithm for follow-up time is the same as that for follow-up time in Section 6.6.1.
+
+6.6.4.3. Other Secondary Efficacy Endpoints
+
+6.6.4.3.1. Hospitalizations for All-Cause LRTI through the RSV Season
+
+Efficacy and its 2-sided 95% CIs for nirsevimab in reducing the incidence of hospitalizations for all-cause LRTI through the RSV season (overall and in each country) as compared to the no intervention will be calculated using the exact method as described in the primary efficacy analysis.
+
+If a participant receives Beyfortus as part of a routine immunization, any events occurring after Beyfortus immunization will not be considered and the end date will be the date of injection of Beyfortus.
+
+6.6.4.3.2. Efficacy Endpoints through Day 151 Post-Dosing/Randomization
+
+Efficacy and its 2-sided 95% CIs for nirsevimab in reducing the following efficacy endpoints through Day 151 post-dosing/randomization as compared to the no intervention will be calculated using the exact method as described in the primary efficacy analysis for the exploratory purpose:
+
+Incidence of RSV LRTI hospitalization through Day 151 post-dosing/randomization (overall and in each country)
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 48 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 49]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Incidence of Very severe RSV LRTI through Day 151 post-dosing/randomization (overall and in each country)
+
+Incidence of hospitalization for all-cause LRTI through Day 151 postdosing/randomization (overall and in each country)
+
+Analyses for the above efficacy endpoints through Day 151 post-dosing/randomization will be performed only at the time of First Year Analysis after all data are collected. Participants who do not have any RSV LRTI hospitalization / Very severe RSV LRTI/ All cause LRTI hospitalization will be censored at the Day 151 or last available date for no event of interest whichever is earlier.
+
+For participants who completed the study (Germany, France, UK non reconsented) or are ongoing (UK reconsented) at the time of First Year Analysis, the end date will be Day 151 or the last available date with confirmation of no efficacy endpoints of interest, whichever is earlier.
+
+For participants who discontinued from the study before Day 151, the end date for the efficacy follow-up will be the date of the last available date with confirmation of no efficacy endpoints of interest.
+
+For participants who had no contact for safety events at all at Day 151, the end date will be the start date (date of randomization for participants randomized to no intervention / date of immunization for participants randomized to nirsevimab and treated / date of randomization for participants randomized to nirsevimab but not treated).
+
+For participants who had no contact for safety events at all at the cut-off date for the Primary Analysis but reported safety events with confirmation of no efficacy endpoint afterwards, the end date will be Day 151 or last available date with confirmation of no efficacy endpoint, whichever is earlier.
+
+Notes:
+
+-If efficacy endpoint-related events occur after Day 151, they will not be considered and the end date will be Day 151.
+
+-If a participant receives Beyfortus as part of a routine immunization, any efficacy endpoint-related events occurring after Beyfortus immunization will not be considered and the end date will be the date of injection of Beyfortus.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 49 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 50]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+6.6.4.3.3. Survival Analyses for RSV LRTI Hospitalization through Day 151 PostDosing/Randomization
+
+Same Cox proportional hazard model as in section 6.6.3.2 will be performed with country (ie, France, Germany and United Kingdom) and age group at randomization (ie, age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months, age > 6.0 months) as the covariates.
+
+For the analysis by country, only age group at randomization will be used as covariates as described in section 6.6.6.2.2.
+
+Kaplan-Meier Plots will be provided for RSV LRTI hospitalization through Day 151 postdosing/randomization (overall and in each country). P-value from Log Rank test will be provided.
+
+6.6.4.3.4. Efficacy Endpoints through Day 181 Post-Dosing/ Randomization
+
+Efficacy and its 2-sided 95% CIs for nirsevimab in reducing the following efficacy endpoints as compared to the no intervention will be calculated using the exact method as described in the primary efficacy analysis for the following exploratory endpoint:
+
+Incidence of RSV LRTI hospitalization through Day 181 post-dosing/randomization (overall and in each country).
+
+Incidence of hospitalizations for all cause LRTI through Day 181 postdosing/randomization (overall and in each country).
+
+Analyses for the above efficacy endpoints through Day 181 post-dosing/randomization will be performed only at the time of First Year Analysis after all data are collected. Participants who do not have RSV LRTI hospitalization / All cause LRTI hospitalization will be censored at the Day 181 or last available date for no event of interest whichever is earlier.
+
+For participants who completed the study (Germany, France, UK non reconsented) or are ongoing (UK reconsented) at the time of First Year Analysis, the end date will be Day 181 or the last available date with confirmation of no efficacy endpoints of interest, whichever is earlier.
+
+For participants who discontinued from the study before Day 181, the end date for the efficacy follow-up will be the date of the last available date with confirmation of no efficacy endpoints of interest.
+
+For participants who had no contact for safety events at all at Day 181, the end date will be the start date (date of randomization for participants randomized to no intervention / date of immunization for participants randomized to nirsevimab and treated / date of randomization for participants randomized to nirsevimab but not treated).
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 50 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 51]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+For participants who had no contact for safety events at all at the cut-off date for the Primary Analysis but reported safety events with confirmation of no efficacy endpoint afterwards afterwards, the end date will be Day 181 or last available date with confirmation of no efficacy endpoint, whichever is earlier.
+
+Notes:
+
+-If efficacy endpoint-related events occur after Day 181, they will not be considered and the end date will be Day 181.
+
+-If a participant receives Beyfortus as part of a routine immunization, any efficacy endpoint-related events occurring after Beyfortus immunization but before Day 181 will not be considered and the end date will be the date of injection of Beyfortus.
+
+6.6.4.3.5. LRTI Hospitalization from 181 Days Post-Dosing/ Randomization to 366 Days Post-Dosing/ Randomization
+
+Incidence of RSV LRTI hospitalization from 181 days post-dosing/randomization to 366 days post-dosing/randomization (overall and in each country) will be summarized by the treatment group. Descriptive statistics will be provided.
+
+Incidence of hospitalizations for all-cause LRTI from 181 days post-dosing/randomization to 366 days post-dosing/randomization will also be summarized by treatment group, overall and in each country. Descriptive statistics will be provided.
+
+Above analyses will be performed only in participants without the studied event before Day 181. In addition, number and percentage of participants with above efficacy events before and after Day 181 will be provided.
+
+For participants who completed the study (Germany, France, UK non reconsented) or are ongoing (UK reconsented) at the time of First Year Analysis, the end date will be Day 366 or the last available date with confirmation of no efficacy endpoints of interest, whichever is earlier.
+
+For participants who discontinued from the study before Day 366, the end date for the efficacy follow-up will be the date of the last available date with confirmation of no efficacy endpoints of interest.
+
+For participants who had no contact for safety events at all at Day 366, the end date will be the start date (date of randomization for participants randomized to no intervention / date of immunization for participants randomized to nirsevimab and treated / date of randomization for participants randomized to nirsevimab but not treated).
+
+For participants who reported safety events with confirmation of no efficacy endpoint, the end date will be Day 366 or last available date with confirmation of no efficacy endpoint, whichever is earlier.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 51 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 52]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Notes:
+
+-If efficacy endpoint occurs after Day 366, it will not be considered and then the end date will be Day 366.
+
+-If a participant receives Beyfortus as part of a routine immunization, any efficacy endpoint-related events occurring after Beyfortus immunization but between Day 181 and Day 366 will not be considered and the end date will be the date of injection of Beyfortus.
+
+6.6.4.3.6. Incidence of RSV LRTI Hospitalization and Incidence of all-cause LRTI Hospitalization in UK Reconsented Participants only from 366 Days PostDosing/Randomization to 731 Days Post-Dosing/Randomization
+
+At the time of Second Year Analysis, incidence of RSV and all-cause LRTI hospitalization in UK reconsented participants only from 366 days post-dosing/randomization to 731 days postdosing/randomization will be summarized by the treatment group. Descriptive statistics will be provided only.
+
+Above analyses will be performed only in participants without the studied event before Day 366. In addition, number and percentage of participants with above events before and after Day 366 will be provided.
+
+For UK reconsented participants who completed the study, the end date of the follow-up time will be the end of study date or the last available date with confirmation of no RSV/all-cause LRTI hospitalizations, whichever is earlier.
+
+For UK reconsented participants who had contact for safety events after reconsented and discontinued from the study before Day 731, the end date of the follow-up time will be the last available date with confirmation of no RSV/all-cause LRTI hospitalizations.
+
+For UK reconsented participants who had no contact for safety events at all after reconsenting, the end date of the follow-up time will be the reconsent date.
+
+For UK reconsented participants who had no contact for safety events at all at the time of First Year Analysis but reported safety events with confirmation of no RSV/all-cause LRTI hospitalizations afterwards, the end date of the follow-up time will be the end of study date or last available date with confirmation of no RSVall-cause LRTI hospitalizations, whichever is earlier.
+
+Notes:
+
+-If RSV/all-cause LRTI hospitalizations occur after Day 731, it will not be considered and then the end date will be Day 731.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 52 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 53]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+-If a participant receives Beyfortus as part of a routine immunization, any RSV/allcause LRTI hospitalization occurring after Beyfortus immunization but between Day 366 and Day 731 will not be considered and the end date will be the date of injection of Beyfortus.
+
+6.6.4.3.7. Recurrent Wheeze Events in UK Reconsented Participants
+
+Recurrent wheeze event is defined as two or more protocol-defined wheeze episodes throughout follow-up period. For the participants who have recurrent wheeze events, the end date will be the date of the second protocol-defined wheeze episode.
+
+At the time of Second Year Analysis, incidence of recurrent wheeze events in UK reconsented participants will be summarized by the treatment group. Descriptive statistics will be provided only. Analyses will be performed at the following timepoints:
+
+Through Day 366 post-dosing/randomization
+
+For participants without medical records retrospectively reviewed after 24 months, the end date will be the start date (date of randomization for participants randomized to no intervention / date of immunization for participants randomized to nirsevimab and treated / date of randomization for participants randomized to nirsevimab but not treated).
+
+For participants with medical records retrospectively reviewed after 24 months and confirmation of no recurrent wheeze events, the end date will be Day 366 or last available date with confirmation of no recurrent wheeze events, whichever is earlier. Notes:
+
+-If second or subsequent wheeze event occurs after Day 366, it will not be considered and then the end date will be Day 366.
+
+-If a participant receives Beyfortus as part of a routine immunization, any wheeze event occurring after Beyfortus immunization but before Day 366 will not be considered and the end date will be the date of injection of Beyfortus.
+
+From Day 366 to Day 731 post-dosing/randomization
+
+For participants without medical records retrospectively reviewed after 24 months, the end date will be the start date (date of randomization for participants randomized to no intervention / date of immunization for participants randomized to nirsevimab and
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 53 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 54]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+treated / date of randomization for participants randomized to nirsevimab but not treated).
+
+For participants with medical records retrospectively reviewed after 24 months and confirmation of no recurrent wheeze events, the end date will be Day 731 or last available date with confirmation of no recurrent wheeze events, whichever is earlier. Notes:
+
+-If wheeze events occur before Day 366 or after Day 731, they will not be considered, only wheeze events occurring between Day 366 and Day 731 will be considered.
+
+-If a participant receives Beyfortus as part of a routine immunization, any wheeze event occurring after Beyfortus immunization but before Day 731 will not be considered and the end date will be the date of injection of Beyfortus.
+
+· Through Day 731 post-dosing/randomization
+
+For participants without medical records retrospectively reviewed after 24 months, the end date will be the start date (date of randomization for participants randomized to no intervention / date of immunization for participants randomized to nirsevimab and treated / date of randomization for participants randomized to nirsevimab but not treated).
+
+For participants with medical records retrospectively reviewed after 24 months and confirmation of no recurrent wheeze events, the end date will be Day 731 or last available date with confirmation of no recurrent wheeze events, whichever is earlier. Notes:
+
+-If second or subsequent wheeze event occurs after Day 731, it will not be considered and then the end date will be Day 731.
+
+-If a participant receives Beyfortus as part of a routine immunization, any wheeze event occurring after Beyfortus immunization will not be considered and the end date will be the date of injection of Beyfortus.
+
+Above analyses will be performed only in UK reconsented participants for which the medical records were retrospectively reviewed after 24 months to determine if medical event(s) meet the definition of wheeze, i.e., 'Was retrospective collection of wheeze data performed in participant medical record?' = Yes.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 54 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 55]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+If the number of UK reconsented participants without retrospective collection of wheeze data in participant medical record is superior to 20% of the number of UK reconsented participants, a sensitivity analysis on all UK reconsented participants will be performed.
+
+6.6.5. Sensitivity Analyses for the Secondary Efficacy Analysis
+
+6.6.5.1. Very Severe RSV LRTI
+
+6.6.5.1.1. Analyses with Poisson Regression Model
+
+A sensitivity analysis using a Poisson regression model with robust variance will be performed on All Randomized Set. The model will contain the following independent variables: the term of treatment group (ie, nirsevimab, no intervention), and age group at randomization (ie, age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months, age > 6.0 months), and country (ie, France, Germany and United Kingdom) as covariates, adjusting for the log of the followup time as an offset. No interaction terms will be included in the model. The efficacy of nirsevimab in preventing very severe RSV LRTI, defined as (1 minus the incidence rate ratio) × 100%. The incidence rate ratio and its corresponding 2-sided 95% CI will be estimated from the model by exponentiating the poisson model coefficients. Follow-up time for the log offset will be calculated as per Section 6.6.1. P-value will also be provided.
+
+6.6.5.1.2. Tipping-Point Analysis
+
+The same analysis as for the primary endpoint will be performed, imputing for all participants with missing data (ie who discontinued the study, or with a RSV test equals to missing or Not Done, or with missing oxygen saturation, or with missing oxygen supplementation) from both groups.
+
+6.6.5.2. RSV LRTI Hospitalization in Each Country
+
+6.6.5.2.1. Analyses with Poisson Regression Model
+
+A sensitivity analysis using a Poisson regression model with robust variance will be performed on All Randomized Set. The model will contain the following independent variables: the term of treatment group (ie, nirsevimab, no intervention), and age group at randomization (ie, age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months, age > 6.0 months) as covariates, adjusting for the log of the follow-up time as an offset. No interaction terms will be included in the model. The efficacy of nirsevimab in preventing RSV LRTI Hospitalization in each country, defined as (1 minus the incidence rate ratio) × 100% will be estimated from
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 55 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 56]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+the model by exponentiating the poisson model coefficients. Adjusted p-values based on Bonferroni-Holm procedure will be provided.
+
+In addition, its corresponding adjusted 2-sided 95% CI based on Bonferroni-Holm procedure will also be provided at the time of First Year Analysis.
+
+Follow-up time for the log offset will be calculated as per Section 6.6.1. See Section 6.6.4.2 for details about Bonferroni-Holm procedure. Only countries with adjusted p-values and the first country with non-significant adjusted p-value will be presented. Adjusted p-values will be computed using PROC MULTTEST in SAS.
+
+6.6.5.2.2. Tipping-Point Analysis
+
+The same analysis as for the primary endpoint will be performed using adjustment based on Bonferroni-Holm procedure (see 6.6.4.2 for details about Bonferroni-Holm procedure). Only countries with adjusted p-values and the first country with non-significant adjusted p-value from analysis in section 6.6.4.2 will be presented with same alpha level. Adjusted p-values will be computed using PROC MULTTEST in SAS.
+
+6.6.6. Supplementary Analyses for the Secondary Efficacy Analysis
+
+6.6.6.1. Very Severe RSV LRTI
+
+6.6.6.1.1. Analyses with Per-Protocol Analysis Set
+
+The - analysis of the secondary endpoint of very severe RSV LRTI described in Section 6.6.4.1 will also be conducted on the PPAS using adjustment based on Bonferroni-Holm procedure (see 6.6.4.2 for details about Bonferroni-Holm procedure). Only countries with adjusted p-values and the first country with non-significant adjusted p-value will be presented. Adjusted p-values will be computed using PROC MULTTEST in SAS.
+
+6.6.6.1.2. Survival Analyses
+
+A hazard ratio and the corresponding 2-sided 95% CI will be obtained from the Cox proportional hazard model with country (ie, France, Germany and United Kingdom) and age group at randomization (ie, age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months, age > 6.0 months) as the covariates. The corresponding efficacy estimate is defined as (1 minus hazard ratio) × 100%. A Kaplan-Meier curve for time to first very severe RSV LRTI will be generated based on the observed events and will include the adjusted p-value (based on Bonferroni-Holm procedure) from a log-rank test stratified by country and age group at randomization. Only
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 56 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 57]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+countries with adjusted p-values and the first country with non-significant adjusted p-value will be presented. Adjusted p-values will be computed using PROC MULTTEST in SAS. The algorithm for time-to-event calculation is the same as that for follow-up time as Section 6.6.1.
+
+A log log plot to check Proportional Hazard assumption in the Cox proportional hazard model above will be provided.
+
+Above analyses will be performed in the All Randomized Set.
+
+6.6.6.2. RSV LRTI Hospitalization in Each Country
+
+6.6.6.2.1. Analyses with Per-Protocol Analysis Set
+
+The above-described analysis of the secondary endpoint of RSV LRTI Hospitalization in each country as described in Section 6.6.4.2 will also be conducted on the PPAS. Only countries with adjusted p-values and the first country with non-significant adjusted p-value will be presented. Adjusted p-values will be computed using PROC MULTTEST in SAS.
+
+6.6.6.2.2. Survival Analyses
+
+A hazard ratio will be obtained from the Cox proportional hazard model with age group at randomization (ie, age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months, age > 6.0 months) as the covariates. The corresponding efficacy estimate is defined as (1 minus hazard ratio) × 100%. A Kaplan-Meier curve for time to first RSV LRTI in each country will be generated based on the observed events and will include the adjusted p-values (based on Bonferroni-Holm procedure) from a log-rank test stratified by age group at randomization. At the time of First Year Analysis, the adjusted 2-sided 95% CI from the Cox proportional hazard model with age group at randomization (i.e., age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months, age > 6.0 months) as the covariates will also be provided.The algorithm for time-to-event calculation is the same as that for follow-up time as Section 6.6.1.
+
+A log-log plot to check Proportional Hazard assumption in the Cox proportional hazard model above will be provided.
+
+Above analyses will be performed in the All Randomized Set.
+
+Only countries with adjusted p-values and the first country with non-significant adjusted pvalue will be presented. Adjusted p-values will be computed using PROC MULTTEST in SAS.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 57 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 58]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+6.6.7. Exploratory Analysis
+
+6.6.7.1. Very Severe RSV LRTI through Day 181 Post-Dosing/ Randomization
+
+Efficacy and its 2-sided 95% CIs for nirsevimab in reducing the following efficacy endpoints as compared to the no intervention will be calculated using the exact method as described in the primary efficacy analysis for the following exploratory endpoint:
+
+Incidence of very severe RSV LRTI defined as RSV LRTI hospitalization with oxygen saturation < 90% (at any time during hospitalization) and oxygen supplementation, through Day 181 post-dosing/randomization (overall and in each country)
+
+Analyses for Very severe RSV LRTI endpoint through Day 181 post-dosing/randomization will be performed only at the First Year Analysis after all data are collected. Participants who do not have Very severe RSV LRTI will be censored at the Day 181 or last available date for no event of interest whichever is earlier. For more details about these censoring rules, see section 6.6.4.3.4.
+
+6.6.7.2. Survival Analyses of RSV LRT Hospitalization through Day 181 Post-Dosing/ Randomization
+
+Same Cox proportional hazard model as in section 6.6.3.2 will be performed with country (ie, France, Germany and United Kingdom) and age group at randomization (ie, age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months, age > 6.0 months) as the covariates.
+
+For the analysis by country, only age group at randomization will be used as covariates as described in section 6.6.6.2.2.
+
+In addition, Kaplan-Meier Plots will be provided for RSV LRTI hospitalization through Day 181 post-dosing/randomization (overall and in each country). P-value from Log Rank test will be provided.
+
+6.6.7.3. Efficacy Analyses in the Subset of the Neonates and Infants Born in Season
+
+Efficacy analysis of RSV LRTI hospitalization through the RSV season, through Day 151 post-dosing/randomization, and through Day 181 post-dosing/randomization will be also performed in the subset of the neonates and infants born in season (infants born in the season, ie, date of birth on or after the start date of RSV season).
+
+Similar analyses as those for overall analyses will be performed (see sections 6.6.1, 6.6.4.3, 6.6.7) and forest plots will be provided.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 58 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 59]
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+6.6.7.4. Healthcare Utilization
+
+For other exploratory endpoints listed below, tabular summaries overall and by country will be presented by treatment groups at the time of Primary Analysis through RSV season and at the time of First Year Analysis (through Day 151 and Day 181 post-dose/randomization). Categorical data will be summarized by the number and percentage of participants in each category. Continuous variables will be summarized by descriptive statistics (see Section 6.1 for details) .
+
+LRTI hospitalization
+
+LRTI hospitalization outcome
+
+Duration of hospitalization (in case of partial or missing stop date, no duration will be calculated)
+
+Was PI the healthcare provider for this visit setting?
+
+Number of participants with RSV test Positive/ Negative/ Not done
+
+RSV Test Type
+
+Admission to the intensive care unit (ICU) and duration of stay (in case of partial or missing admission or discharge date, no duration will be calculated)
+
+Number of participants who require oxygen supplementation
+
+Number of participants in each category for oxygen supplementation
+
+Number of participants who require intravenous fluid administration
+
+Duration of hospitalization (days) = Hospitalization Stop date - Hospitalization Start date + 1 Duration of ICU stay (days) = Discharge date - Admission date + 1
+
+6.6.7.5. Time to Discontinuation
+
+Same Cox proportional hazard model as in section 6.6.3.2 will be performed with country (ie, France, Germany and United Kingdom) and age group at randomization (ie, age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months, age > 6.0 months) as the covariates.
+
+For the analysis by country, only age group at randomization will be used as covariates as described in section 6.6.6.2.2.
+
+Kaplan-Meier Plots will be provided for time to discontinuation from the study (overall and by country). P-value from Log Rank test will be provided.
+
+6.6.7.6. Social Deprivation Index (SDI)
+
+Social Deprivation Index (SDI) based of postal code will be summarized by country (if feasible) (Taha and al 11 ). Incidence of RSV LRTI hospitalization will be summarized by the social deprivation index in each country. Descriptive statistics will be provided. SDI data will also be listed.
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 59 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 60]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+For each country, postal code collected in the eCRF will be merged with official data from each country official website (France 12 , 13 , United Kingdom 1415 , Germany 16 ) uploaded in SAS in order to get the the SDI (numeric or decile) of the city of each participant:
+
+-For France, second column named 'Code Postal' from correspondance-code-inseecode-postal.xls document will be used first to get the code from Institut National de la Statistique des Etudes Economiques (INSEE).
+
+Then, inserm_fdep_com_metropole_j.xls document will provide the corresponding numeric SDI in column named 't1_fdep09'. This will be derived in deciles from 1 to 10using SAS procedures.
+
+When, in the first tracker, a postal code corresponds to several INSEE codes, the following steps to derive a unique decile will be performed:
+
+-Select all INSEE codes corresponding to the postal code
+
+-Merge with inserm_fdep_com_metropole_j.xls by INSEE code ('Code INSEE' with 'c_insee_com') and Commune Code ('Code Commune' with 'c_code_comm')
+
+-Compute a weighted average of the fdep09 index (t1_fdep09 column), weighing on the number of inhabitants for each town (variable t1_p09_pop in the tracker)
+
+-Convert the obtained average index into deciles following the rule above.
+
+-For the United Kingdom, File_1_-_IMD2019_Index_of_Multiple_Deprivation.xls will provide the SDI (from column named 'Index of Multiple Deprivation (IMD) Decile' ) corresponding to the collected postal code.
+
+PCD_OA_LSOA_MSOA_LAD_NOV22_UK_LU.xls , from the Office for National Statistics will be used to do the link between the collected postal code and the Lower Super Output Area (LSOA) code used to get the SDI.
+
+-For Germany, column named 'GISD10_2012' from GISD_PLZ5_2014.xls will provide the SDI which corresponds to the collected postal code.
+
+In case of missing or invalid postal code, participants will not be considered in the analysis.
+
+6.6.7.7. RSV LRTI Hospitalization through the RSV Season in the Subset of Neonate Participants
+
+Same analysis as for the primary efficacy analysis of the primary endpoint in Section 6.6.1 will be conducted in the subset of neonate participants.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 60 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 61]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+6.6.7.8. Follow-up
+
+Number and percentage of participants will be provided for:
+
+-Monthly responses in eDiary according to the analysis window in Section 5.1.4.
+
+In addition, at the time of First Year Analysis, follow-up time in months will be described for all participants (based on the primary endpoint RSV LRTI Hospitalizations), participants with RSV LRTI Hospitalizations, participants with Very Severe RSV LRTI, participants with Hospitalizations for all-cause LRTI at the following timeframes (see Section 6.1 for details on the descriptive statistics):
+
+-Through the RSV Season (overall and in each country)
+
+-Through Day 151 post-dosing/randomization (overall and in each country)
+
+-Through Day 181 post-dosing/randomization (overall and in each country)
+
+-From 181 days post-dosing/randomization to 366 days post-dosing/randomization in participants with no event before Day 181 (overall and in each country, excluding participants with very severe RSV LRTI)
+
+Follow-up time in months will also be summarized at the time of Second Year analysis:
+
+-From 366 days post-dosing/randomization to 731 days post-dosing/randomization in UK reconsented participants. However, this will not be summarized for subgroup of participants with Very Severe RSV LRTI.
+
+-From 366 days post-dosing/randomization to 511 days post-dosing/randomization in UK reconsented participants. However, this will not be summarized for subgroup of participants with Very Severe RSV LRTI.
+
+-From 512 days post-dosing/randomization to 731 days post-dosing/randomization in UK reconsented participants. However, this will not be summarized for subgroup of participants with Very Severe RSV LRTI.
+
+-Through Day 511 post-dosing/randomization in UK reconsented participants. However, this will not be summarized for subgroup of participants with Very Severe RSV LRTI.
+
+-Through Day 731 post-dosing/randomization in UK reconsented participants. However, this will not be summarized for subgroup of participants with Very Severe RSV LRTI.
+
+-Through Day 366 post-dosing/randomization in UK reconsented participants (recurrent wheeze event)
+
+-From Day 366 post-dosing/randomization to Day 731 post-dosing/randomization in UK reconsented participants (recurrent wheeze event)
+
+-Through Day 731 post-dosing/randomization in UK reconsented participants (recurrent wheeze event)
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 61 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 62]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+6.6.7.9. Efficacy Events in Participants who Received Beyfortus as a Routine Medication
+
+At the time of First Year Analysis, number and percentage of participants with efficacy events through the RSV Season will be provided, among participants who received Beyfortus as a routine medication:
+
+-RSV LRTI Hospitalizations
+
+-Very Severe RSV LRTI
+
+-All-Cause LRTI.
+
+Same table will be produced for the below timeframes:
+
+-Through Day 151 Post-Dosing/Randomization
+
+-Through Day 181 Post-Dosing/Randomization
+
+-From 181 Days Post-Dosing/Randomization to 366 Days Post-Dosing/Randomization in participants with no event before Day 181 (excluding Very Severe RSV LRTI event)
+
+At the time of Second Year Analysis, table will be repeated for the timeframe 'from 366 Days Post-Dosing/Randomization to 731 Days Post-Dosing/Randomization' (excluding Very Severe RSV LRTI event) in the UK reconsented participants.
+
+All above tables will be produced only if there are at least 10 participants who received Beyfortus as a routine medication during the study.
+
+6.6.7.10. Rerun of Primary Analysis at the Time of First Year Analysis
+
+The Primary Analysis will be re-run at the time of the First Year Analysis considering the same cut-off date and the same rules as the Primary Analysis.
+
+6.6.8. Subgroup Analyses
+
+Various subgroup analyses of the efficacy data will be reported. These analyses will investigate the treatment response within specific subgroups of interest, and assess whether the treatment response is consistent across different subgroup levels. All analyses will be performed on the All Randomized Set without imputation.
+
+6.6.8.1. Subgroup Analyses for the Primary Endpoint (RSV LRTI Hospitalization through the RSV Season)
+
+The following subgroup analyses are of interest for the primary endpoint, the incidence of RSV LRTI hospitalization through the RSV season in healthy term and preterm infants in all 3 countries combined:
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 62 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 63]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Age group at randomization: age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months, age > 6.0 months
+
+Weight at randomization: weight < 5 kg, weight ≥ 5 kg
+
+Gestational age: < 37 weeks, ≥ 37 weeks
+
+Sex: male, female
+
+Infants dosed in season (dosed on or after the start date of RSV season) or before the start of the RSV season
+
+Infants born in season (born on or after the start date of RSV season) and before the start of the RSV season
+
+The subgroup analyses will be conducted as for the primary efficacy analysis of the primary endpoint in Section 6.6.1.
+
+For all these subgroup analyses, forest plots will be provided.
+
+6.6.8.2. Subgroup Analyses for the First Secondary Endpoint (Very Severe RSV LRTI through the RSV Season)
+
+The following subgroup analyses are of interest for the first secondary endpoint, the incidence of the very severe RSV LRTI through the RSV season:
+
+Age group at randomization: age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months, age > 6.0 months
+
+Weight at randomization: weight < 5 kg, weight ≥ 5 kg
+
+Gestational age: < 37 weeks, ≥ 37 weeks
+
+Sex: male, female
+
+Infants dosed in season (dosed on or after the start date of RSV season) or before the start of the RSV season
+
+Country: France, Germany, United Kingdom
+
+The subgroup analyses will be conducted as for the primary efficacy analysis of the first secondary endpoint in Section 6.6.4.1.
+
+For all these subgroup analyses, forest plots will be provided.
+
+6.6.8.3. Subgroup Analyses of RSV LRTI Hospitalization through Day 151 Post-Dosing/ Randomization
+
+The following subgroup analyses are of interest for RSV LRTI hospitalization through Day 151 days post-dosing/randomization using the similar methods to that described in Section 6.6.4.3:
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 63 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 64]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Age group at randomization: age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months, age > 6.0 months
+
+Weight at randomization: weight < 5 kg, weight ≥ 5 kg
+
+Infants dosed in season (dosed on or after the start date of RSV season) or before the start of the RSV season
+
+Infants born in season (born on or after the start date of RSV season) and before the start of the RSV season
+
+For all these subgroup analyses, forest plots will be provided.
+
+6.6.8.4. Subgroup Analyses of RSV LRTI Hospitalization through Day 181 Post-Dosing/ Randomization
+
+The following subgroup analyses are of interest for RSV LRTI hospitalization through Day 181 post-dosing/randomization:
+
+Age group at randomization: age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months, age > 6.0 months
+
+Weight at randomization: weight < 5 kg, weight ≥ 5 kg
+
+Infants dosed in season (dosed on or after the start date of RSV season) and before the start of the RSV season
+
+Infants born in season (born on or after the start date of RSV season) and before the start of the RSV season
+
+For all these subgroup analyses, forest plots will be provided.
+
+6.6.9. Post-hoc Analyses
+
+In the context of the VAS00006 study (for which the objectives of interest stated in the study protocol are to assess the efficacy of nirsevimab in preventing RSV LRTI hospitalization, very severe RSV LRTI, all-cause LRTI compared to no intervention), there is a need to conduct a post-hoc analysis, for a less specific outcome in order to assess the risk reduction in all-cause hospitalizations associated with nirsevimab and describe in specific timepoints, the incidence of RSV LRTI hospitalization and all-cause LRTI hospitalization in UK reconsented participants during the study.
+
+Additional objectives for the post-hoc analysis:
+
+To assess the relative risk reduction (i.e., efficacy) in all-cause hospitalizations associated with nirsevimab compared to no intervention.
+
+To describe in each treatment group the incidence of RSV LRTI hospitalization and all-cause LRTI hospitalization in UK reconsented participants during the study.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 64 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 65]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Additional endpoints for the post-hoc analysis:
+
+Incidence of all-cause hospitalization, overall and in each country
+
+o Through the RSV season, through 150 days post-dosing/randomization, through 180 days post-dosing/randomization, from 181 days postdosing/randomization to 366 days post-dosing/randomization,
+
+o Through the end of year 2022.
+
+Incidence of RSV LRTI hospitalization, in UK reconsented participants
+
+o From 366 days post-dosing/randomization to 511 days postdosing/randomization, from 512 days post-dosing/randomization to 731 days post-dosing/randomization, through 511 days postdosing/randomization, through 731 days post-dosing/randomization.
+
+Incidence of all-cause LRTI hospitalization, in UK reconsented participants
+
+o From 366 days post-dosing/randomization to 511 days postdosing/randomization, from 512 days post-dosing/randomization to 731 days post-dosing/randomization, through 511 days postdosing/randomization, through 731 days post-dosing/randomization.
+
+6.6.9.1. Incidence of All-cause Hospitalization, Overall and in Each Country
+
+Hospitalizations are counted from the LRTI forms and the Adverse Event forms in the CRF. Participants with at least one hospitalization registered in any of those forms are considered. The relative risk reduction (i.e., efficacy) in all-cause hospitalizations associated with nirsevimab compared to no intervention is measured as described in section 6.6.1, and the same rules apply for the follow-up time, taken into consideration the dates for hospitalizations recorded in the LRTI forms and Adverse Event forms.
+
+Analyses for the above all-cause hospitalization endpoints will be performed only at the time of First Year Analysis, except through the end of year 2022 endpoint that will be performed only at the time of Second Year Analysis.
+
+For through the end of year 2022 endpoint, participants who do not have any all-cause hospitalization will be censored on 31 st December 2022 or last available date for no event of interest whichever is earlier.
+
+For participants who discontinued from the study before 31 st December 2022, the end date for the efficacy follow-up will be the date of the last available date with confirmation of no efficacy endpoints of interest.
+
+For participants who had no contact for safety events at all, the end date will be the start date (date of randomization for participants randomized to no intervention / date of immunization
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 65 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 66]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+for participants randomized to nirsevimab and treated / date of randomization for participants randomized to nirsevimab but not treated).
+
+Notes:
+
+-If efficacy endpoint-related events occur after 31 st December 2022, they will not be considered and the end date will be 31 st December 2022.
+
+-If a participant receives Beyfortus as part of a routine immunization, any efficacy endpoint-related events occurring after Beyfortus immunization will not be considered and the end date will be the date of injection of Beyfortus.
+
+6.6.9.1.1. Statistical Methods for All-cause Hospitalization Analysis
+
+The exact method described in section 6.6.1 accounting for the follow-up time postdosing/randomization is to be performed for estimating the relative risk reduction (i.e., efficacy) in all-cause hospitalizations associated with nirsevimab compared to no intervention, overall and in each country at the different timepoints considered above.
+
+If a participant experiences multiple hospitalizations, only the first episode is considered for the endpoint in the main analysis.
+
+The Poisson regression model described in section 6.6.2.1 is considered as a sensitivity analysis for the post-hoc analysis, with a modification compared to the study protocol: all hospitalizations are counted, not just the first episode. A negative binomial model may be used if better fitted with the data, particularly in case of overdispersion.
+
+This is a post-hoc analysis performed to assess the risk reduction in all-cause hospitalizations associated with nirsevimab and its results should be presented as such. No statistical conclusion should be derived from this post-hoc analysis on its own, particularly no p-values should be presented.
+
+6.6.9.2. Incidence of RSV LRTI Hospitalization and Incidence of Hospitalization for All-cause LRTI, in UK Reconsented Participants
+
+At the time of Second Year Analysis, incidences of RSV and all-cause LRTI hospitalization in UK reconsented participants only will be summarized by the treatment group. Descriptive statistics will be provided only.
+
+6.6.9.2.1. Algorithm for Follow-up Time
+
+The start date for the follow-up will be the date of randomization for participants who are randomized to no intervention, the date of treatment dosing for participants who are randomized to nirsevimab and treated, and the date of randomization for participants who are randomized to nirsevimab but not treated.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 66 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 67]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+For the participants who have the event of interest in the corresponding timeframe for the Second Year Analysis, the end date of the follow-up time will be the date of hospital admission; otherwise the participants will be censored as defined in the following:
+
+· From 366 Days Post-Dosing/Randomization to 511 Days PostDosing/Randomization
+
+The analysis will be performed only in participants without the studied event before Day 366.
+
+For UK reconsented participants who completed the study, the end date of the followup time will be Day 511 or last available date with confirmation of no RSV/all-cause LRTI hospitalizations, whichever is earlier.
+
+For UK reconsented participants who had contact for safety events after reconsented and discontinued from the study before Day 511, the end date of the follow-up time will be the last available date with confirmation of no RSV/all-cause LRTI hospitalizations.
+
+For UK reconsented participants who had no contact for safety events at all after reconsenting, the end date of the follow-up time will be the reconsent date.
+
+Notes:
+
+-If the event of interest occurs after Day 511, it will not be considered and then the end date will be Day 511.
+
+-If a participant receives Beyfortus as part of a routine immunization, any event occurring after Beyfortus immunization but between Day 366 and Day 511 will not be considered and the end date will be the date of injection of Beyfortus.
+
+· From 512 Days Post-Dosing/Randomization to 731 Days PostDosing/Randomization
+
+The analysis will be performed only in participants without the studied event before Day 512.
+
+For UK reconsented participants who completed the study, the end date of the followup time will be Day 731 or last available date with confirmation of no RSV/all-cause LRTI hospitalizations, whichever is earlier.
+
+For UK reconsented participants who had contact for safety events after reconsented and discontinued from the study, the end date of the follow-up time will be the last available date with confirmation of no RSV/all-cause LRTI hospitalizations.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 67 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 68]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+For UK reconsented participants who had no contact for safety events at all after reconsenting, the end date of the follow-up time will be the reconsent date.
+
+Notes:
+
+-If the event of interest occurs after Day 731, it will not be considered and then the end date will be Day 731.
+
+-If a participant receives Beyfortus as part of a routine immunization, any event occurring after Beyfortus immunization but between Day 512 and Day 731 will not be considered and the end date will be the date of injection of Beyfortus.
+
+· Through 511 Days Post-Dosing/Randomization
+
+For UK reconsented participants who completed the study, the end date of the followup time will be Day 511 or last available date with confirmation of no RSV/all-cause LRTI hospitalizations, whichever is earlier.
+
+For UK reconsented participants who had contact for safety events after reconsented and discontinued from the study before Day 511, the end date of the follow-up time will be the last available date with confirmation of no RSV/all-cause LRTI hospitalizations.
+
+For UK reconsented participants who had no contact for safety events at all at Day 511, the end date of the follow-up time will be the start date.
+
+Notes:
+
+-If the event of interest occurs after Day 511, it will not be considered and then the end date will be Day 511.
+
+-If a participant receives Beyfortus as part of a routine immunization, any event occurring after Beyfortus immunization but before Day 511 will not be considered and the end date will be the date of injection of Beyfortus.
+
+· Through 731 Days Post-Dosing/Randomization
+
+For UK reconsented participants who completed the study, the end date of the followup time will be Day 731 or last available date with confirmation of no RSV/all-cause LRTI hospitalizations, whichever is earlier.
+
+For UK reconsented participants who had contact for safety events after reconsented and discontinued from the study, the end date of the follow-up time will be the last available date with confirmation of no RSV/all-cause LRTI hospitalizations.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 68 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 69]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+For UK reconsented participants who had no contact for safety events at all at Day 731, the end date of the follow-up time will be the start date.
+
+Notes:
+
+-If the event of interest occurs after Day 731, it will not be considered and then the end date will be Day 731.
+
+-If a participant receives Beyfortus as part of a routine immunization, any event occurring after Beyfortus immunization but before Day 731 will not be considered and the end date will be the date of injection of Beyfortus.
+
+6.7. Safety
+
+6.7.1. Extent of Exposure
+
+A listing of treatment exposure data including planned dose and actual dose will be presented for the SafAS.
+
+A summary of exposure will be presented for the SafAS. To this end, the number and percentage of participants dosed (0.5 mL, 1 mL) according to weight will be given. Moreover, the number and percentage of participants receiving the full dose will be calculated.
+
+Total counts and percentages of participants will be presented for the categorical variables of:
+
+Infants dosed in season (dosed on or after the start date of RSV season)
+
+Infants dosed before the start of the RSV season
+
+Exposure table and listing will also be produced in UK reconsented participants at the time of Second Year Analysis.
+
+6.7.2. Adverse Events
+
+6.7.2.1. Definitions/ Derivations
+
+All AEs recorded on the eCRF will be coded using the MedDRA dictionary (version 25.0) and classified as treatment-emergent AEs (TEAEs) as follows:
+
+Pre-treatment AEs are events
+
+o that start prior to the start of the Treatment Period and with a stop date before the Treatment Period
+
+or
+
+o with a stop date after the start of the Treatment Period or with a missing stop date, but with a grade lower or equal to 1.
+
+TEAEs are either events
+
+o with the start date and time posterior to the start of the Treatment Period and up to the end of the Treatment Period
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 69 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 70]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Fortrea Study: 000000228812
+
+or
+
+o events with the start date and time prior to the start of the Treatment Period
+
+whose severity is greater than 1 or missing
+
+and
+
+stop date is missing or not before the Treatment Period.
+
+Treatment-Emergent Serious AEs will be defined as TEAEs where Serious = 'Yes'
+
+The relationship between a TEAE and treatment is assessed as related, or not related. A treatment-related TEAE will be defined as a TEAE considered by the investigator as related or, with unknown / missing relationship to treatment for participants who received nirsevimab on Day 1. An unknown / missing relationship between a TEAE and treatment for participants who received no intervention will be considered as not related.
+
+Assessment of AE intensity will be based on the AEs intensity grading scales adapted from the 'FDA Guidance for Industry: Toxicity Grading Scale for Healthy Adult and Adolescent Volunteers Enrolled in Preventive Vaccine Clinical Trials, September 2007'
+
+TEAEs leading to discontinuation of study are defined as TEAEs where 'Caused Study Discontinuation' is indicated as 'Yes'.
+
+Pyrexia includes those adverse events with PT term equal to 'Pyrexia'.
+
+Injection site reactions include those adverse events with category of adverse event equal to 'IMP Injection/Administration Site Reaction' or 'Other Vaccination Injection/Administration Site Reaction'.
+
+Rash includes those adverse events with PT term equal to 'Erythema', 'Rash', 'Rash macular', 'Rash maculo-papular' or 'Urticaria'.
+
+In addition to the aforementioned AE types, TEAEs of special interest will be identified in eCRF (Is the event an AESI = Yes):
+
+Hypersensitivity, including anaphylaxis
+
+Immune complex disease
+
+Thrombocytopenia
+
+Immediate AEs are recorded to capture medically relevant AEs which occur within the first 30 minutes after immunization.
+
+Medically Attended AE (MAAE) is a new onset or a worsening of a condition that prompts the participant or participant's parent/legally acceptable representative to seek unplanned medical advice at a physician's office or Emergency Department. Physician contact made over the phone or by e-mail will be considered a physician office visit for the purpose of MAAE collection. This includes medical advice seeking during the study visit or routine
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 70 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 71]
+
+CONFIDENTIAL
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Protocol Reference: VAS00006
+
+medical care. This definition excludes pediatric check-ups, and follow-up visits for chronic conditions with an onset prior to entry into the study.
+
+MAAE is derived in the CRF as 'No' if :
+
+'None' or 'Medication' is checked for Action Taken with Adverse Event item and
+
+'Health Care Provider Contact' or 'Hospitalized' is checked.
+
+Otherwise MAAE is derived as 'Yes' in the CRF.
+
+6.7.2.2. Analyses
+
+Adverse events will be summarized by default descriptive summary statistics for categorical variables for the SafAS by treatment group and overall as follows:
+
+An overview of TEAEs (#) including the number and percentage of participants with at least one of each mentioned TEAE type provided with 95% Clopper-Pearson confidence interval:
+
+o Any TEAE
+
+Leading to discontinuation of study
+
+Leading to death
+
+Grade 1 severity
+
+Grade 2 severity
+
+Grade 3 severity
+
+o Any study treatment related TEAE
+
+Leading to discontinuation of study
+
+Leading to death
+
+Grade 1 severity
+
+Grade 2 severity
+
+Grade 3 severity
+
+o Any serious TEAE
+
+Leading to discontinuation of study
+
+Leading to death
+
+o Any serious study treatment related TEAE
+
+Leading to discontinuation of study
+
+Leading to death
+
+o Non-serious TEAEs until 30 days after Day 1
+
+Leading to discontinuation of study
+
+Grade 1 severity
+
+Grade 2 severity
+
+Grade 3 severity
+
+o Any immediate TEAEs reported in the 30 minutes after immunization
+
+Leading to discontinuation of study
+
+Leading to death
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 71 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 72]
+
+CONFIDENTIAL
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Grade 1 severity
+
+Grade 2 severity
+
+Grade 3 severity
+
+o Medically-attended TEAEs
+
+Leading to discontinuation of study
+
+Leading to death
+
+Grade 1 severity
+
+Grade 2 severity
+
+Grade 3 severity
+
+o TEAEs of Special Interest
+
+Leading to discontinuation of study
+
+Leading to death
+
+Grade 1 severity
+
+Grade 2 severity
+
+Grade 3 severity
+
+The number and percentage of participants reporting each TEAE and the number of events as well as 95% Clopper-Pearson confidence interval will be summarized by SOC and PT for the following types of TEAEs:
+
+o Non-serious TEAEs through Day 31 post-dosing/randomization (*)
+
+o Immediate TEAEs reported in the 30 minutes post-dosing/ randomization (*)
+
+o Medically-attended TEAEs (*) (#)
+
+o TEAEs of Special Interest (*) (#)
+
+o TEAEs Leading to Death
+
+o TEAEs by Maximum Intensity (*) (#)
+
+o TEAEs by Relationship to Treatment (*) (#)
+
+o Study Treatment related TEAEs Leading to Death (*)
+
+o Serious TEAEs (*) (#)
+
+o Study Treatment Related Serious TEAEs (#)
+
+o Study Treatment Related TEAEs (*) (#)
+
+The number and percentage of participants who died will be summarized by the primary cause of death
+
+All AE tables mentioned above will also be repeated for the following subgroups:
+
+By country
+
+By weight group (< 2.5 kg, < 5 kg, ≥ 5 kg)
+
+By age group (neonate participants, randomization stratification)
+
+In addition, all AE tables by SOC and PT listed above and flagged with (*) will also be repeated in participants who received other vaccines:
+
+Protocol Reference: VAS00006
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 72 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 73]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+On the same day as nirsevimab
+
+Within 7 days before or after nirsevimab immunization
+
+Within 14 days before or after nirsevimab immunization.
+
+For the subgroups about participants who received other vaccines, see Table 6 from Appendix 2 (Section 8.2) to get the vaccines to be considered.
+
+Moreover, below tables will be produced:
+
+Non-serious TEAEs through Day 31 post-dosing/randomization by SOC and PT in at least 1% of participants
+
+Medically-attended TEAEs by SOC and PT in at least 1% of participants
+
+TEAEs through Day 7 post-dosing/randomization by SOC and PT
+
+TEAEs through Day 7 post-dosing/randomization by SOC and PT - Pyrexia
+
+TEAEs through Day 7 post-dosing/randomization by SOC and PT - Injection Site Reactions
+
+TEAEs through Day 14 post-dosing/randomization by SOC and PT
+
+TEAEs through Day 14 post-dosing/randomization by SOC and PT - Rash
+
+Study Treatment Related Serious TEAEs tables by SOC and PT (overall and by subgroups) and with the number of events as well as 95% Clopper-Pearson confidence interval will also be produced at the time of Second Year Analysis in UK reconsented participants for the below periods:
+
+From 366 Days Post-Dosing/Randomization to 731 Days PostDosing/Randomization.
+
+From Day 1 to 731 Days Post-Dosing/Randomization
+
+From Day 1 to 366 Days Post-Dosing/Randomization
+
+The summary table of TEAE will also be produced at the time of Second Year Analysis in UK reconsented participants for the below periods;
+
+From 366 Days Post-Dosing/Randomization to 731 Days PostDosing/Randomization.
+
+From Day 1 to 731 Days Post-Dosing/Randomization
+
+From Day 1 to 366 Days Post-Dosing/Randomization
+
+For the period 'From 366 Days Post-Dosing/Randomization to 731 Days PostDosing/Randomization', only below TEAE will be presented:
+
+o TEAE with a start date on or after Day 366,
+
+o TEAE with a start date before Day 366 but ongoing at Day 366 (no stop date or with a stop date after Day 366).
+
+For summaries by maximum intensity, participants with multiple TEAEs within a particular SOC or PT will be counted under the category of their most severe TEAE within that SOC or
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 73 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 74]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Fortrea Study: 000000228812
+
+PT. TEAEs with missing intensity will be included in the counts of the 'Number of Participants with at least one TEAE', 'System Organ Class', and 'Preferred Term' rows of the summary but they will not be included in the counts by intensity.
+
+In addition, all AE tables by SOC and PT flagged with (#) as well as the summary table will be repeated in participants who received Beyfortus as a routine medication if there are at least 10 concerned participants.
+
+Summaries by SOCs and PTs will be sorted by SOCs by their Internationally Agreed Order (MedDRA) and PTs within SOC by descending order of total incidence. Where preferred terms tie PTs will be sorted alphabetically.
+
+No statistical comparisons of AEs between treatment groups will be performed.
+
+All AE data will be listed and Pre-treatment AEs and TEAEs will be presented together. Treatment-emergence status will be flagged in the listing. The listing will present the relative start and stop day of the AE calculated relative to the first dose of treatment and will be presented for those participants who received at least one dose of treatment. If the AE is 'Ongoing' it will be indicated as such in the listing and the relative stop day will not be calculated. Only original dates will be presented in the listing even though the relative day may be based on an imputed date.
+
+In addition, the following listings will be presented:
+
+Listing of Deaths
+
+Listing of Serious TEAEs
+
+Listing of TEAEs Leading to Discontinuation of Study
+
+Listing of TEAEs of Special Interest
+
+Listing of Immediate TEAEs reported in the 30 minutes after immunization
+
+Listing of Medically Attended AEs
+
+Listing of all non TEAEs not included in the Safety Analysis
+
+Listing of all non TEAEs not included in the Safety Analysis in the United Kingdom for Reconsented Participants (only at the time for the Second Year Analysis)
+
+Listing of all Adverse Events starting before the End of the Treatment Period defined for the First Year Analysis but not included in the First Year Analysis since they were reported after First Year Database Lock in the United Kingdom for Reconsented Participants (only at the time for the Second Year Analysis)
+
+Moreover, a complete listing of all adverse events will also be performed at the time of First Year Analysis and Second Year Analysis (but not for the Primary Analysis) in the All Screened Set in addition to the one in the Safety Analysis Set in order to present all AEs that occur in participants who are not in the Safety Analysis Set because they were randomized to nirsevimab group but were not injected.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 74 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 75]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Listing of AE in the Safety Analysis Set will also be repeated in participants who received Beyfortus as a routine medication at the time of the First Year Analysis.
+
+6.7.3. Laboratory Evaluations
+
+Not Applicable
+
+6.7.4. Vital Signs
+
+Not Applicable.
+
+6.7.5. Electrocardiograms
+
+Not Applicable.
+
+6.7.6. Physical Examination
+
+Not Applicable.
+
+6.7.7. Other Safety Variables
+
+Not Applicable.
+
+6.7.8. Planned Analyses and Data Monitoring
+
+There will be 3 planned main analyses for this study: the Primary Analysis, the First Year Analysis and the Second Year Analysis.
+
+The Primary Analysis will be conducted when at least 61 events of RSV LRTI hospitalization in all 3 countries combined are observed, but no later than 30 April 2023. All available data collected up to the data cut-off date will be analyzed at the time of the Primary Analysis.
+
+The First Year Analysis will be conducted when all participants have completed the scheduled 12-month safety follow up. It will include all data and planned analyses. The Second Year Analysis will be conducted when all UK reconsented participants have completed the scheduled 24-month safety follow-up. It will include all data and planned analyses. In order to present results from the First Year Analysis or Second Year Analysis, results may be generated before the formal lock of data for abstract purposes. Updates of the data will be done with the formal database locks.
+
+A Primary Analysis is planned prior to the formal completion of the study. The efficacy analyses planned in the Primary Analysis will serve the purpose of evaluating the efficacy of nirsevimab in the study population.
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 75 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 76]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+In addition, Primary Analysis outputs will also be rerun at the time of First Year Analysis still with the same cut-off date in order to consider potential new data collected after the cut off date due to the delay in the data collection (see Section 6.6.7.10 for details).
+
+RSV LRTI hospitalization will also be collected after the end of the RSV season and the efficacy will be calculated but only for descriptive purposes at the time of the First Year Analysis without the intention of a confirmatory conclusion.
+
+This will also be collected at 24 months follow-up in UK reconsented participants but only for descriptive purposes at the time of the Second Year Analysis without the intention of a confirmatory conclusion.
+
+In addition, recurrent wheeze event will be collected at the 12 and 24 months follow-up, in UK reconsented participants only for descriptive purposes at the time of the Second Year Analysis.
+
+Therefore, no multiplicity adjustment is needed for the 3 main analyses (Primary, First Year and Second Year) of the primary endpoint.
+
+As per protocol, participants safety will be continuously monitored by the Sponsor's internal safety review committee which includes safety signal detection at any time during the study. The sponsor's internal safety review committee will be responsible for the unblinded review, assessment, and evaluation of safety data generated from this study. As described in the Safety Management Team Charter, these unblinded reviews will monitor AESIs, SAEs, AEs and MAAEs (including LRTI).
+
+6.8. Pharmacokinetic Assessments
+
+Pharmacokinetics parameters are not evaluated in this study.
+
+6.9. Transparency
+
+At the Second Year Analysis, for transparency (ClinicalTrials.gov (CTGov) and European Union Drug Regulating Authorities Clinical Trials (EudraCT)), some outputs will also be programmed using XML language (for AE) and produced in RTF and PDF (for others). They will be generated but not presented in any appendix, nor in the Clinical Study Report.
+
+For Clinical Trial Registry, it will correspond to:
+
+Participant Disposition - Reason for discontinuation
+
+Disposition of Randomized participants by Country
+
+Demographic Characteristics
+
+Demographic Characteristics by EudraCT Categorical Age:
+
+-Newborns defined as age <= 27 days
+
+-Infants and Toddlers defined as age between 28 days (included) and 23 months (included)
+
+Overview of Number of Participants with TEAE
+
+Overview of Adverse Events
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 76 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 77]
+
+CONFIDENTIAL
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+Protocol Reference: VAS00006
+
+Number of Participants/Events with Treatment Emergent SAEs by SOC and PT for CTGov
+
+Number of Participants/Events with Treatment Emergent SAEs by SOC and PT for EudraCT
+
+Number of Participants/Events with Treatment Emergent Non Serious Adverse Events (SAEs) with PT > 5 % in any Treatment Group by SOC and PT for CTGov
+
+Number of Participants/Events with Treatment Emergent Non Serious Adverse Events (SAEs) with PT > 5 % in any Treatment Group by SOC and PT for EudraCT
+
+In addition, the following lay outputs for TEAE related to treatment will also be produced:
+
+Overview of Side Effect Profile: Treatment Emergent Side Effects
+
+Number (%) of Participants with Treatment Emergent Serious Side Effects by Lay PT
+
+Number (%) of Participants with Treatment Emergent Side Effects Leading to Death by Lay PT
+
+Number (%) of Participants with Treatment Emergent Side Effects Leading to Study Discontinuation by Lay PT
+
+Number (%) of Participants with Treatment Emergent Non Serious Side Effects by Lay PT
+
+Number (%) of Participants with Treatment Emergent Serious Side Effects by Lay SOC and Lay PT
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 77 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 78]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+7. Changes in the Conduct of the Study or Planned Analysis
+
+The following changes in the protocol-planned analyses were performed:
+
+SDI deciles were updated using a SAS function for Primary Analysis
+
+For LRTI description, the rule ' If participants have multiple hospitalizations (respectively ICU stay) during the follow up period, duration of hospitalization (respectively ICU stay) will be the sum of each duration of hospitalization (respectively ICU stay) ' was finally not applied for Primary Analysis and will not be considered for First Year Analysis.
+
+The following changes were performed for First Year Analysis:
+
+Incidence of hospitalizations for all-cause LRTI through Day 181 postdosing/randomization will also be analysed by country
+
+Incidence of very severe RSV LRTI defined as RSV LRTI hospitalization with oxygen saturation < 90% (at any time during hospitalization) and oxygen supplementation, through Day 181 post-dosing/randomization will also be described by country
+
+Tables for transparency will also be produced at the time of Second Year Analysis. The Primary Analysis was re-run at the time of the First Year Analysis considering the same cut-off date and the same rules as the Primary Analysis.
+
+An additional intercurrent event was added to consider participants who received Beyfortus as a routine medication during the study. They are excluded from the Per-Protocol Analysis Set and some analyses and listings are produced restricted to these specific participants (if at least 10 participants for tables / if at least one participant for listings).
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 78 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 79]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+8. Appendices
+
+8.1. Appendix 1: Document History
+
+[DOCLING_TABLE rows=5 columns=2]
+| Document Version, Status, Date | Summary / Reason for Changes |
+| Version 0.1, Draft, 22JUN2022 | Not applicable; the first version |
+| Version 0.2, Draft, 20JUL2022 | Updates following sponsor comments on draft 1 - Updates of Estimand section - Addition of tables about vaccines within 14 days before and after dosing/randomization and medications administered within 14 days before and after LRTI hospitalization - Removal of analyses about Compliance - Addition of rules to calculate the follow-up time - Removal of multiple imputation - Removal of analysis of composite endpoint: recurrent hospitalization and competing event - Addition of KM plots for RSV LRTI hospitalization (through the RSV Season / Through D151/ Through D181) and (Very Severe LRTI through the RSV Season) - Addition of supplementary analyses for First and Second Key objective - Addition of Exposure Analysis - Addition of AE analyses in subgroups |
+| Final Version 1.0, 28JUL2022 | Updates following sponsor comments on draft 2 - Updates of Estimand section - Update of section 5.2.1 Handling of Missing Efficacy Data - Update of rules to calculate the follow-up time - Addition of efficacy analyses in subgroups - Addition of analyses in the subset of neonates and infants born is season - Addition of analyses for all-cause LRTI from 181 days post-dosing/randomization to end of study - Addition of rerun of the Primary Analysis at the time of the Final Analysis |
+| Final Version 2.0, 10Mar2023 | Updates following sponsor comments on shells - Updates of Estimand section - Addition of participant disposition by country - Addition of demography by country - Addition of vaccine table within 14 days before or after dosing/randomization restricted to vaccines for infants under the age of 11 months - Addition of p-values for efficacy analyses - Addition of details for tipping point analyses - Addition of exploratory analyses (SDI) |
+[/DOCLING_TABLE]
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 79 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 80]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+[DOCLING_TABLE rows=5 columns=2]
+|  | - Addition of forest plots for analyses in subgroups - Update of definition of TEAE - Update of AE analyses |
+| Final Version 3.0, 06Apr2023 | Updates following Dry Run - Addition of details for tipping point analyses - Update of definition of TEAE related |
+| Final Version 3.1; 27Oct2023 | Updates following protocol amendment - Analyses in UK reconsented participants for second year analysis (wheeze events, from Day 181 to Day 366, from Day 366 to Day 731) - Descriptive analyses about Follow up time - Two AE tables in at least 1% participants - AE listing in all screened set - Addition of Adjusted 95% Confidence interval in efficacy analyses by country - Move of exploratory objectives/endpoitns to secondary objectives/endpoints - Updates of SDI deciles |
+| Final Version 3.2, 24Nov2023 | Updates following sponsor comments - Addition of analyses for second year analysis (participant disposition, reasons for exclusion, demography, medical history…) - Details about analyses for transparency (see section 6.9 Transparency) - Addition of total follow-up time (person months) in efficacy tables using exact method - Analyses by country for 181 days post- dosing/randomization timepoint (all-cause LRTI and very severe RSV LRTI) - Efficacy analysis in neonate participants - Addition of rules to calculate follow up time for D151, D181, D366, D731 - Clarifications for vaccines within 14 days of LRTI - Definition of treatment period updated to consider 24 months for UK reconsented participants - Update of table 5 and analysis windows - Update of section 7 |
+| Final Version 4.0, 22Dec2023 | - Addition of details about End of Study Phase in Participant Disposition table and listing - Addition of an intercurrent event to consider participants who received Beyfortus as a routine medication during the study. - Addition of analyses in participants who received Beyfortus as a routine medication (participant disposition, demography, medical history, AE…) |
+[/DOCLING_TABLE]
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 80 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 81]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+[DOCLING_TABLE rows=3 columns=2]
+|  | - Update of Per-Protocol Analysis Set excluding participants who received Beyfortus as a routine medication during the study - Removal of analysis rerun at first year using real RSV end dates in each country. Cut-off date (28Feb2023) will be used instead. |
+| Final Version 5.0, 22Apr2024 | - Updates of versions of Protocol and CRF - Update of definition of Treatment Period - Update of analysis windows of months 12, 18 and 24 for efficacy and safety assessments - Addition of rules for partially missing dates of LRTI or Wheeze Events - Removal of Study Phase in Participant Disposition Table - Addition of Protocol Deviation Subcategory and Protocol Deviation Study Specific Category in table and listing - Addition of Efficacy Listings - Updates of subgroups for forest plots - Update of definition of Pre-Treatment AE - Addition of listing about Non Treatment Emergent Adverse Events - Analysis rerun at first year using RSV end dates in |
+| Final Version 6.0, 14Jan2025 | - Addition of rules to calculate treatment period for second year analysis - Clarification on the purpose of Analysis Windows - Removal of the statistical inference in the efficacy endpoint related to UK reconsented participants. Descriptive statistics will be provided only. - Addition of a timepoint in the Recurrent Wheeze Events in UK Reconsented Participants analysis - Addition of post-hoc analyses (Section 6.6.9) - Addition of summary of the TEAEs through Day 7/14 post-dosing/randomization by SOC and PT - Addition of listing about non TEAEs in UK reconsented participants (only at the time for the Second Year Analysis) - Addition of listing about AE starting before the end of the Treatment Period defined for the First Year Analysis but not included in the First Year Analysis since they were reported after First Year Database Lock in UK reconsented participants (only at the time for the Second Year Analysis). |
+[/DOCLING_TABLE]
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 81 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 82]
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+8.2. Appendix 2:
+
+CONFIDENTIAL
+
+Protocol Reference: VAS00006
+
+Vaccines for Infants Under The Age of 11 Months
+
+Table 6 Vaccines for Infants Under the Age of 11 Months
+
+[DOCLING_TABLE rows=13 columns=12]
+| Product name B3 | ATC Code | ATC Description | Inflenza, Tubercolisis and Rotavirus | Pertussis | Diphteria | Pneumococcal | Hepatitis | Tetanus | Hemophilis Influenzae B | Poliomyelitis | Meningococcal |
+| BCG VACCINE LIVE INTRADERMAL | J07AN | Tuberculosis vaccines | X |  |  |  |  |  |  |  |  |
+| PERTUSSIS VACCINE ACELLULAR | J07AJ | Pertussis vaccines |  | X |  |  |  |  |  |  |  |
+| DIPHTHERIA VACCINE | J07AF | Diphtheria vaccines |  |  | X |  |  |  |  |  |  |
+| PNEUMOCOCCAL VACCINE | J07AL | Pneumococca l vaccines |  |  |  | X |  |  |  |  |  |
+| HEPATITIS B VACCINE | J07BC | Hepatitis vaccines |  |  |  |  | X |  |  |  |  |
+| INFLUENZA VACCINE | J07BB | Influenza vaccines | X |  |  |  |  |  |  |  |  |
+| ROTAVIRUS VACCINE | J07BH | Rota virus diarrhea vaccines | X |  |  |  |  |  |  |  |  |
+| TETANUS VACCINE TOXOID | J07AM | Tetanus vaccines |  |  |  |  |  | X |  |  |  |
+| HIB VACCINE | J07AG | Hemophilus influenzae B vaccines |  |  |  |  |  |  | X |  |  |
+| POLIO VACCINE INACT | J07BF | Poliomyelitis vaccines |  |  |  |  |  |  |  | X |  |
+| MENINGOCOCCA L VACCINE B/C | J07AH | Meningococc al vaccines |  |  |  |  |  |  |  |  | X |
+| DIPHTHERIA VACCINE;HEPATI TIS B VACCINE;HIB VACCINE;POLIO VACCINE INACT;TETANUS VACCINE | J07CA | Bacterial and viral vaccines, combined |  |  | X |  | X | X | X | X |  |
+[/DOCLING_TABLE]
+
+Final Version 6.0, 14Jan2025
+
+Page 82 of 85 ST-AD-008 version 06
+
+VV-CLIN-0684718 2.0
+
+[DOCLING_PAGE 83]
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+[DOCLING_TABLE rows=4 columns=9]
+| DIPHTHERIA VACCINE;HEPATI TIS B VACCINE R;HIB VACCINE CONJ;PERTUSSIS VACCINE ACELLULAR;POL IO VACCINE INACT;TETANUS VACCINE | J07CA | Bacterial and viral vaccines, combined | X | X | X | X | X | X |
+| DIPHTHERIA VACCINE;HEPATI TIS B VACCINE;HIB VACCINE;PERTU SSIS VACCINE ACELLULAR;POL IO VACCINE INACT;TETANUS VACCINE | J07CA | Bacterial and viral vaccines, combined | X | X | X | X | X | X |
+| DIPHTHERIA VACCINE;HEPATI TIS B VACCINE;HIB VACCINE;PERTU SSIS VACCINE ACELLULAR;POL IO VACCINE;TETAN US VACCINE | J07CA | Bacterial and viral vaccines, combined | X | X | X | X | X | X |
+| DIPHTHERIA VACCINE;HEPATI TIS B VACCINE;PERTU SSIS VACCINE ACELLULAR;POL IO VACCINE INACT;TETANUS VACCINE | J07CA | Bacterial and viral vaccines, combined | X | X | X | X |  | X |
+[/DOCLING_TABLE]
+
+Final Version 6.0, 14Jan2025
+
+Page 83 of 85 ST-AD-008 version 06
+
+VV-CLIN-0684718 2.0
+
+[DOCLING_PAGE 84]
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+9. References
+
+1 Kramer R, Duclos A, Lina B, Casalegno JS. Cost and burden of RSV related hospitalizationfrom 2012 to 2017 in the first year of life in Lyon , France. Vaccine. 2018;36(45):6591-3.
+
+2 Weigl JA, Puppe W, Schmitt HJ. Seasonality of respiratory syncytial virus-positive hospitalizations in children in Kiel, Germany, over a 7-year period. Infection. 2002;30(4):186-92.
+
+3 Cromer D, van Hoek AJ, Newall AT, Pollard AJ, Jit M. Burden of paediatric respiratory syncytial virus disease and potential effect of different immunisation strategies: a modelling and cost-effectiveness analysis for England. The Lancet Public health. 2017;2(8):e367-e74.
+
+4 ICH. Statistical Principles for Clinical Trials , Guideline E9, 1998. Available at https://database.ich.org/sites/default/files/E9_Guideline.pdf
+
+5 ICH. Addendum on Estimands and Sensitivity Analysis in Clinical Trials , Guideline E9(R1). Available at
+
+https://database.ich.org/sites/default/files/E9-R1_Step4_Guideline_2019_1203.pdf
+
+6 ICH. Structure and Content of Clinical Study Reports , Guideline E3, 199s5. Available at https://database.ich.org/sites/default/files/E3_Guideline.pdf
+
+7 Breslow NE, Day NE. Statistical methods in cancer research. Volume II: The design and analysis of cohort studies. Oxford (UK): Oxford University Press; 1987.
+
+8 Liublinska, V. and Rubin, D.B. Enhanced Tipping-Point Displays. In JSM Proceedings, Section on Survey Research Methods, San Diego, CA: American Statistical Association. 3861-3686 (2012).
+
+9 Campbell G., Penello G., Yue L (2011): Missing data in the regulation of medical devices. Journal of Biopharmaceutical Statistics, 21: 180-195.
+
+10 Yan X., Lee S., Li N. (2009): Missing data handling methods in medical device clinical trials. Journal of Biopharmaceutical Statistics, 19: 1085-1098.
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 84 of 85 ST-AD-008 version 06
+
+[DOCLING_PAGE 85]
+
+CONFIDENTIAL Protocol Reference: VAS00006
+
+Fortrea Study: 000000228812
+
+Statistical Analysis Plan
+
+Fortrea Study: 000000228812
+
+11 Taha MK, Weil-Olivier C, Bouée S, Emery C, Nachbaur G, Pribil C, Loncle-Provot V, Risk factors for invasive meningococcal disease: a retrospective analysis of the French national public health insurance database , Human Vaccines & Immunotherapeutics, 2021, VOL. 17, NO 6, 1858-1866.
+
+12 inserm_fdep_com_metropole_j.xls, https://catalogue.atlasante.fr/geosource/panierDownloadFrontalParametrage?LAYERIDTS=
+
+838
+
+13 Link between French Institut National de la Statistique et des Etudes Economiques (INSEE) code and French postal code, Correspondance-code-insee-code-postal.xls, https://public.opendatasoft.com/explore/dataset/correspondance-code-insee-codepostal/export/
+
+14 English Indices of Deprivation 2019, File_1_-_IMD2019_Index_of_Multiple_Deprivation.xls , https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019
+
+15 Link between postal code and Lower Super Output Area (LSOA) code, PCD_OA_LSOA_MSOA_LAD_NOV22_UK_LU.xls , Office for National Statistics, https://www.ons.gov.uk/
+
+16 German Index of Socioeconomic Deprivation (GISD), GISD_PLZ5_2014.xls https://www.dara.de/dara/study/web_show?res_id=565333&lang=en&mdlang=en&detail=true#dataset-
+
+cont
+
+Final Version 6.0, 14Jan2025
+
+VV-CLIN-0684718 2.0
+
+Page 85 of 85 ST-AD-008 version 06

@@ -1,0 +1,329 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03094143",
+      "orgStudyIdInfo": {
+        "id": "15/JTA"
+      },
+      "organization": {
+        "fullName": "University of Edinburgh",
+        "class": "OTHER"
+      },
+      "briefTitle": "Early Valve Replacement Guided by Biomarkers of LV Decompensation in Asymptomatic Patients With Severe AS",
+      "officialTitle": "Early Valve Replacement Guided by Biomarkers of Left Ventricular Decompensation in Asymptomatic Patients With Severe Aortic Stenosis",
+      "acronym": "EVoLVeD"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2017-07-21",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-07-01",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2032-06-30",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2017-03-10",
+      "studyFirstSubmitQcDate": "2017-03-22",
+      "studyFirstPostDateStruct": {
+        "date": "2017-03-29",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-09-01",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-09-08",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University of Edinburgh",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Sir Jules Thorn Charitable Trust",
+          "class": "UNKNOWN"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Aortic stenosis is the most common valvular disease in the Western world. It is caused by progressive narrowing of the aortic valve leading to increased strain on the heart muscle which has to work increasingly hard to pump blood through the narrowed valve. Over time the heart muscle thickens to generate more force, but eventually the heart fails leading to death if the valve is not replaced with an operation. No medical treatments exist to stop or reverse the heart valve narrowing. Current clinical guidelines suggest that an operation should be performed only when symptoms develop or the heart muscle is visibly weak on cardiac ultrasound scanning. However, symptoms can be difficult to interpret and in many patients the heart muscle has become irreversibly damaged and the heart fails to recover following surgery.\n\nUsing MRI scans of the heart, the investigators have identified heart scarring which seems to develop as the heart muscle thickens. Several studies now show that people who have developed this scarring are more likely to suffer poor outcomes including death. The investigators have also identified clinical risks that predict the presence of scarring.\n\nThe investigators propose a study where patients with severe aortic stenosis but no indications for valve replacement as per current guidelines are assessed for those clinical risks. If a participant's risk of having scarring is higher they will undergo a cardiac MRI scan. If scarring is present participants will be randomised to routine clinical care, or referral for valve replacement surgery. Participants with no evidence of scarring will be randomised routine care with study follow or not. The investigators of this study hypothesize that early surgery will lead to fewer complications and reduced risk of death compared to standard care."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Aortic Valve Stenosis",
+        "Hypertrophy, Left Ventricular"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "\\~1000 patients with asymptomatic severe aortic stenosis will be screened across the sites (this is how we have defined enrollment below). Patients at high risk of left ventricular decompensation based on high-sensitivity troponin or ECG will proceed to CMR. Participants are randomised based on the result of the cardiac MRI. Participants who have mid wall fibrosis (heart scarring) are randomised to receive either early surgical intervention (group A) or routine care (group B). Participants who have no mid wall fibrosis are randomised to routine care with study follow up (group C) or without study follow up (group D).",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "maskingDescription": "The result of the cardiac MRI will be blinded to care provider, participant and investigator. Group A will be unblinded, as participants can only enter group A if mid-wall fibrosis is present. Groups B and C will appear identical and the groups combined so the presence of mid-wall fibrosis will be blinded. Group D will be unblinded, as participants can only enter group D if mid-wall fibrosis is not present.\n\nOutcome assessors will be blinded to allocation in all groups where outcome is adjudicated (groups A, B and C)",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 1000,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Group A: Early intervention",
+          "type": "EXPERIMENTAL",
+          "description": "Patients will be referred immediately for aortic valve intervention.",
+          "interventionNames": [
+            "Procedure: Aortic valve intervention"
+          ]
+        },
+        {
+          "label": "Group B: Routine care",
+          "type": "NO_INTERVENTION",
+          "description": "Patients will be invited back for clinical follow up according to local policy. Decision making regarding future aortic valve intervention will be taken by the participant's clinical team (cardiologist and cardiac surgeon)."
+        },
+        {
+          "label": "Group C: Routine care",
+          "type": "NO_INTERVENTION",
+          "description": "Patients will be invited back for clinical follow up according to local policy. Decision making regarding future aortic valve intervention will be taken by the patient's clinical team (cardiologist and cardiac surgeon). Group C will appear identical to Group B"
+        },
+        {
+          "label": "Group D: No further study follow up",
+          "type": "NO_INTERVENTION",
+          "description": "Patients will be invited back for clinical follow up according to local policy. Decision making regarding future aortic valve intervention will be taken by the patient's clinical team (cardiologist and cardiac surgeon). No further study follow up will take place but personal data will be retained for future data linkage."
+        }
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Aortic valve intervention",
+          "description": "The choice of either surgical aortic valve replacement or transcatheter aortic valve implantation (TAVI) will be made by the local clinical team according to local policies. In patients undergoing surgical replacement the choice of surgical technique and type of valve replacement used will be at the discretion of the operating surgeon. Patients found to have significant coronary artery disease requiring concomitant coronary artery bypass surgery will not be excluded. Similarly the choice of TAVI valve and need for percutaneous coronary intervention will be made by the TAVI heart team. The procedure should be performed as soon as possible and ideally within four months of randomisation and allocation to group A.",
+          "armGroupLabels": [
+            "Group A: Early intervention"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Composite of all-cause mortality or unplanned aortic stenosis-related hospitalisation",
+          "description": "The first event of all-cause mortality or unplanned aortic stenosis-related hospitalisation\n\nUnplanned aortic stenosis-related hospitalisation is defined as an unplanned admission with syncope, heart failure, chest pain or arrhythmia (ventricular arrhythmia or second or third degree heart block) attributed to aortic stenosis. This endpoint will be adjudicated by two independent investigators blinded to the details of randomisation following review of the case notes and hospital records.",
+          "timeFrame": "Randomisation through to study completion (mean follow up is expected to be an average of 2.75 years)"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "All-cause mortality",
+          "timeFrame": "Randomisation through to study completion, an average of 2.75 years"
+        },
+        {
+          "measure": "Cardiovascular death",
+          "timeFrame": "Randomisation through to study completion (mean follow up is expected to be an average of 2.75 years)"
+        },
+        {
+          "measure": "AS-related death",
+          "description": "AS-related death is a death where aortic stenosis has been listed as a contributory cause by the clinical care team on the patient's official death certificate.",
+          "timeFrame": "Randomisation through to study completion (mean follow up is expected to be an average of 2.75 years)"
+        },
+        {
+          "measure": "Sudden cardiac death",
+          "timeFrame": "Randomisation through to study completion (mean follow up is expected to be an average of 2.75 years)"
+        },
+        {
+          "measure": "Unplanned aortic-stenosis related hospitalisation",
+          "description": "Unplanned aortic stenosis-related hospitalisation is defined as an unplanned admission with syncope, heart failure, chest pain or arrhythmia (ventricular arrhythmia or second or third degree heart block) attributed to aortic stenosis.",
+          "timeFrame": "Randomisation through to study completion (mean follow up is expected to be an average of 2.75 years)"
+        },
+        {
+          "measure": "WHODAS 2.0 (12 item)",
+          "description": "The World Health Organization Disability Assessment Schedule (WHODAS 2.0) is a generic assessment instrument developed by WHO to provide a standardized method for measuring health and disability across cultures.",
+          "timeFrame": "At study completion (mean follow up is expected to be an average of 2.75 years)"
+        },
+        {
+          "measure": "LV systolic function",
+          "description": "The development of LV systolic dysfunction (EF \\<50% quantitatively or at least mild LV dysfunction qualitatively)",
+          "timeFrame": "Randomisation through to study completion (mean follow up is expected to be an average of 2.75 years)"
+        },
+        {
+          "measure": "NYHA status",
+          "description": "Self reported patient symptoms on a scale of I-IV (I = No limitation of physical activity. Ordinary physical activity does not cause undue fatigue, palpitation, dyspnea, IV = Unable to carry on any physical activity without discomfort. Symptoms of heart failure at rest. If any physical activity is undertaken, discomfort increases.)",
+          "timeFrame": "At study completion (mean follow up is expected to be an average of 2.75 years)"
+        },
+        {
+          "measure": "Permanent pacemaker insertion, cardiac resynchronisation therapy or automated implantable cardioverter defibrillator",
+          "description": "To compare between study arms the number of participants who have had a permanent pacemaker insertion, cardiac resynchronisation therapy or automated implantable cardioverter defibrillator",
+          "timeFrame": "Randomisation to through to study completion (mean follow up is expected to be an average of 2.75 years)"
+        },
+        {
+          "measure": "Stroke",
+          "timeFrame": "Randomisation through to study completion (mean follow up is expected to be an average of 2.75 years)"
+        },
+        {
+          "measure": "Endocarditis",
+          "description": "To compare between study arms the number of participants who have endocarditis",
+          "timeFrame": "Randomisation to through to study completion (mean follow up is expected to be an average of 2.75 years)"
+        },
+        {
+          "measure": "Post-operative complications following aortic valve intervention",
+          "timeFrame": "30 days post aortic valve intervention"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Severe aortic stenosis (aortic valve jet velocity ≥4.0 m/s, or aortic valve area indexed to body surface area \\<0.6cm2/m2 with aortic jet velocity ≥3.5m/s)\n2. Age over 18 years\n3. No symptoms attributable to aortic stenosis that require aortic valve replacement\n\nExclusion Criteria:\n\n1. Deemed lower risk for mid-wall fibrosis on screening\n2. Planned cardiac surgery\n3. Previous valve replacement\n4. Severe hypertension (systolic \\>180 or diastolic \\>110 mmHg)\n5. Acute pulmonary oedema or cardiogenic shock\n6. Left ventricular ejection fraction \\<50% on cardiac MRI\n7. Significant abnormalities on cardiac MRI that would prevent enrolment\n8. Coexistent severe aortic regurgitation or mitral regurgitation\n9. Coexistent mitral stenosis greater than mild in severity\n10. Coexistent hypertrophic cardiomyopathy or cardiac amyloidosis\n11. Any contraindication to MRI scanning (such as permanent pacemaker)\n12. Advanced renal impairment (glomerular filtration rate \\<30 mL/min/1.73 m2)\n13. Pregnancy or breast feeding\n14. Patient judged to be unfit to be considered for aortic valve replacement or transcatheter aortic valve implantation\n15. Patient declines to consider undergoing valve replacement surgery or transcatheter aortic valve implantation\n16. Inability to give informed consent\n17. Previous randomisation into this study",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Marc Dweck",
+          "affiliation": "University of Edinburgh",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "NHS Lothian",
+          "city": "Edinburgh",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 55.95206,
+            "lon": -3.19648
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "41984459",
+          "type": "DERIVED",
+          "citation": "Craig NJ, Loganath K, Everett RJ, Bing R, Ramtoola T, Tsampasian V, Molek P, Botezatu S, Aslam S, MacGillivray T, Tuck CE, Rayson P, Calvert PA, Berry C, Chin CWL, Hillis GS, Fairbairn T, Greenwood JP, Steeds R, Leslie SJ, Lang CC, Bucciarelli-Ducci C, Joshi NV, Kunadian V, Prendergast B, Mills NL, Vassiliou VS, Dungu JN, Hothi SS, Boon N, Prasad SK, Keenan NG, Dawson D, Motwani M, Miller CA, Rajani R, Ripley DP, Treibel TA, McCann GP, Singh A, Newby DE, Dweck MR; EVOLVED investigators. Myocardial Fibrosis and Early Intervention in Asymptomatic Patients With Severe Aortic Stenosis: Insights From the EVOLVED Randomized Clinical Trial. JAMA Cardiol. 2026 Jun 1;11(6):599-605. doi: 10.1001/jamacardio.2026.0654."
+        },
+        {
+          "pmid": "39466640",
+          "type": "DERIVED",
+          "citation": "Loganath K, Craig NJ, Everett RJ, Bing R, Tsampasian V, Molek P, Botezatu S, Aslam S, Lewis S, Graham C, White AC, MacGillivray T, Tuck CE, Rayson P, Cranley D, Irvine S, Armstrong R, Milne L, Chin CWL, Hillis GS, Fairbairn T, Greenwood JP, Steeds R, Leslie SJ, Lang CC, Bucciarelli-Ducci C, Joshi NV, Kunadian V, Vassiliou VS, Dungu JN, Hothi SS, Boon N, Prasad SK, Keenan NG, Dawson D, Treibel TA, Motwani M, Miller CA, Mills NL, Rajani R, Ripley DP, McCann GP, Prendergast B, Singh A, Newby DE, Dweck MR; EVOLVED investigators. Early Intervention in Patients With Asymptomatic Severe Aortic Stenosis and Myocardial Fibrosis: The EVOLVED Randomized Clinical Trial. JAMA. 2025 Jan 21;333(3):213-221. doi: 10.1001/jama.2024.22730."
+        },
+        {
+          "pmid": "38771906",
+          "type": "DERIVED",
+          "citation": "Patel KP, Scully PR, Saberwal B, Sinha A, Yap-Sanderson JJL, Cheasty E, Mullen M, Menezes LJ, Moon JC, Pugliese F, Klotz E, Treibel TA. Regional Distribution of Extracellular Volume Quantified by Cardiac CT in Aortic Stenosis: Insights Into Disease Mechanisms and Impact on Outcomes. Circ Cardiovasc Imaging. 2024 May;17(5):e015996. doi: 10.1161/CIRCIMAGING.123.015996. Epub 2024 May 21."
+        },
+        {
+          "pmid": "36380774",
+          "type": "DERIVED",
+          "citation": "Di Pietro E, Frittitta V, Motta S, Strazzieri O, Valvo R, Reddavid C, Costa G, Tamburino C. Treatment in patients with severe asymptomatic aortic stenosis: is it best not to wait? Eur Heart J Suppl. 2022 Nov 12;24(Suppl I):I170-I174. doi: 10.1093/eurheartjsupp/suac089. eCollection 2022 Nov."
+        },
+        {
+          "pmid": "32774184",
+          "type": "DERIVED",
+          "citation": "Zelis JM, Tonino PAL, Pijls NHJ, De Bruyne B, Kirkeeide RL, Gould KL, Johnson NP. Coronary Microcirculation in Aortic Stenosis: Pathophysiology, Invasive Assessment, and Future Directions. J Interv Cardiol. 2020 Jul 22;2020:4603169. doi: 10.1155/2020/4603169. eCollection 2020."
+        },
+        {
+          "pmid": "30978556",
+          "type": "DERIVED",
+          "citation": "Bing R, Everett RJ, Tuck C, Semple S, Lewis S, Harkess R, Mills NL, Treibel TA, Prasad S, Greenwood JP, McCann GP, Newby DE, Dweck MR. Rationale and design of the randomized, controlled Early Valve Replacement Guided by Biomarkers of Left Ventricular Decompensation in Asymptomatic Patients with Severe Aortic Stenosis (EVOLVED) trial. Am Heart J. 2019 Jun;212:91-100. doi: 10.1016/j.ahj.2019.02.018. Epub 2019 Mar 15."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "It is planned that an anonymised raw dataset will be shared under a controlled access model. It will be available following primary publication. Requests will be made in accordance with Edinburgh Clinical Trials Unit policy at the time of release."
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-08-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001024",
+          "term": "Aortic Valve Stenosis"
+        },
+        {
+          "id": "D017379",
+          "term": "Hypertrophy, Left Ventricular"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000082862",
+          "term": "Aortic Valve Disease"
+        },
+        {
+          "id": "D006349",
+          "term": "Heart Valve Diseases"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D014694",
+          "term": "Ventricular Outflow Obstruction"
+        },
+        {
+          "id": "D006332",
+          "term": "Cardiomegaly"
+        },
+        {
+          "id": "D006984",
+          "term": "Hypertrophy"
+        },
+        {
+          "id": "D020763",
+          "term": "Pathological Conditions, Anatomical"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

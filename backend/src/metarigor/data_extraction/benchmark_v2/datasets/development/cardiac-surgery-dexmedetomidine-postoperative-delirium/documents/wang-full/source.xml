@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?><component xmlns="http://www.wiley.com/namespaces/wiley" xmlns:wiley="http://www.wiley.com/namespaces/wiley/wiley" type="serialArticle" version="2.0" xml:id="anae15983" xml:lang="en">
+<header>
+<publicationMeta level="product">
+<doi origin="wiley" registered="yes">10.1111/(ISSN)1365-2044</doi>
+<issn type="print">0003-2409</issn>
+<issn type="electronic">1365-2044</issn>
+<idGroup>
+<id type="product" value="ANAE"/>
+</idGroup>
+<titleGroup>
+<title sort="ANAESTHESIA" type="main">Anaesthesia</title>
+<title type="short">Anaesthesia</title>
+</titleGroup>
+</publicationMeta>
+<publicationMeta level="part" position="50">
+<doi origin="wiley">10.1111/anae.v78.5</doi>
+<copyright ownership="thirdParty">Copyright © 2023 Association of Anaesthetists</copyright>
+<numberingGroup>
+<numbering number="78" type="journalVolume">78</numbering>
+<numbering type="journalIssue">5</numbering>
+</numberingGroup>
+<coverDate startDate="2023-05">May 2023</coverDate>
+</publicationMeta>
+<publicationMeta level="unit" position="60" status="forIssue" type="article">
+<doi>10.1111/anae.15983</doi>
+<idGroup>
+<id type="unit" value="ANAE15983"/>
+</idGroup>
+<countGroup>
+<count number="576" type="pageTotal"/>
+</countGroup>
+<titleGroup>
+<title type="articleCategory">Original Article</title>
+<title type="tocHeading1">Original Articles</title>
+</titleGroup>
+<copyright ownership="thirdParty">© 2023 Association of Anaesthetists.</copyright>
+<eventGroup><event type="firstOnline" date="2023-02-16"/><event type="xmlCreated" date="2023-02-04" agent="SPS"/><event type="publishedOnlineEarlyUnpaginated" date="2023-02-16"/><event type="manuscriptAccepted" date="2023-01-07"/><event type="xmlConverted" agent="Converter:WML3G_To_WML3G version:6.2.7 mode:FullText" date="2023-04-04"/></eventGroup>
+<numberingGroup>
+<numbering type="pageFirst">571</numbering>
+<numbering type="pageLast">576</numbering>
+</numberingGroup>
+<correspondenceTo>
+<lineatedText>
+<line>Correspondence to: S. Yuan</line>
+<line>Email: <email>fuwaiys@126.com</email></line>
+<line/>
+</lineatedText>
+</correspondenceTo>
+<objectNameGroup>
+<objectName elementName="figure">Figure</objectName>
+<objectName elementName="tabular">Table</objectName>
+</objectNameGroup>
+<linkGroup>
+<link type="toTypesetVersion" href="file:anae.15983.pdf"/>
+<link type="toAuthorManuscriptVersion" href="file:anae.15983.am.pdf"/>
+</linkGroup>
+</publicationMeta>
+<contentMeta>
+<countGroup>
+<count number="2" type="figureTotal"/>
+<count number="1" type="tableTotal"/>
+<count number="3933" type="wordTotal"/>
+</countGroup>
+<titleGroup>
+<title type="main">A randomised controlled trial of dexmedetomidine for delirium in adults undergoing heart valve surgery</title>
+<title type="short">Dexmedetomidine for delirium</title>
+<title type="shortAuthors">Wang et al.</title>
+</titleGroup>
+<creators>
+<creator affiliationRef="#anae15983-aff-0001" creatorRole="author" xml:id="anae15983-cr-0001">
+<personName>
+<givenNames>H.‐B.</givenNames>
+<familyName>Wang</familyName>
+</personName>
+<jobTitle>Attending</jobTitle>
+</creator>
+<creator affiliationRef="#anae15983-aff-0002" creatorRole="author" xml:id="anae15983-cr-0002">
+<personName>
+<givenNames>Y.</givenNames>
+<familyName>Jia</familyName>
+</personName>
+<jobTitle>Professor</jobTitle>
+</creator>
+<creator affiliationRef="#anae15983-aff-0003" creatorRole="author" xml:id="anae15983-cr-0003">
+<personName>
+<givenNames>C.‐B.</givenNames>
+<familyName>Zhang</familyName>
+</personName>
+<jobTitle>Consultant</jobTitle>
+</creator>
+<creator affiliationRef="#anae15983-aff-0004" creatorRole="author" xml:id="anae15983-cr-0004">
+<personName>
+<givenNames>L.</givenNames>
+<familyName>Zhang</familyName>
+</personName>
+<jobTitle>Consultant</jobTitle>
+</creator>
+<creator affiliationRef="#anae15983-aff-0005" creatorRole="author" xml:id="anae15983-cr-0005">
+<personName>
+<givenNames>Y.‐N.</givenNames>
+<familyName>Li</familyName>
+</personName>
+<jobTitle>Resident</jobTitle>
+</creator>
+<creator affiliationRef="#anae15983-aff-0001" creatorRole="author" xml:id="anae15983-cr-0006">
+<personName>
+<givenNames>J.</givenNames>
+<familyName>Ding</familyName>
+</personName>
+<jobTitle>Attending</jobTitle>
+</creator>
+<creator affiliationRef="#anae15983-aff-0005" creatorRole="author" xml:id="anae15983-cr-0007">
+<personName>
+<givenNames>X.</givenNames>
+<familyName>Wu</familyName>
+</personName>
+<jobTitle>Resident</jobTitle>
+</creator>
+<creator affiliationRef="#anae15983-aff-0002" creatorRole="author" xml:id="anae15983-cr-0008">
+<personName>
+<givenNames>Z.</givenNames>
+<familyName>Zhang</familyName>
+</personName>
+<jobTitle>Professor</jobTitle>
+</creator>
+<creator affiliationRef="#anae15983-aff-0002" creatorRole="author" xml:id="anae15983-cr-0009">
+<personName>
+<givenNames>J.‐H.</givenNames>
+<familyName>Wang</familyName>
+</personName>
+<jobTitle>Professor</jobTitle>
+</creator>
+<creator affiliationRef="#anae15983-aff-0006" creatorRole="author" xml:id="anae15983-cr-0010">
+<personName>
+<givenNames>Y.</givenNames>
+<familyName>Wang</familyName>
+</personName>
+<jobTitle>Statistician</jobTitle>
+</creator>
+<creator affiliationRef="#anae15983-aff-0002" creatorRole="author" xml:id="anae15983-cr-0011">
+<personName>
+<givenNames>F.‐X.</givenNames>
+<familyName>Yan</familyName>
+</personName>
+<jobTitle>Professor</jobTitle>
+</creator>
+<creator affiliationRef="#anae15983-aff-0002" corresponding="yes" creatorRole="author" xml:id="anae15983-cr-0012">
+<personName>
+<givenNames>S.</givenNames>
+<familyName>Yuan</familyName>
+</personName>
+<jobTitle>Professor</jobTitle>
+<contactDetails>
+<email>fuwaiys@126.com</email>
+</contactDetails>
+</creator>
+<creator affiliationRef="#anae15983-aff-0007" creatorRole="author" xml:id="anae15983-cr-0013">
+<personName>
+<givenNames>D. I.</givenNames>
+<familyName>Sessler</familyName>
+</personName>
+<jobTitle>Professor and Chair</jobTitle>
+</creator>
+</creators>
+<affiliationGroup>
+<affiliation countryCode="CN" type="organization" xml:id="anae15983-aff-0001">
+<orgDiv>Department of Anaesthesiology, Fuwai Hospital, National Centre for Cardiovascular Diseases</orgDiv>
+<orgName>Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+<address>
+<city>Beijing</city>
+<country>China</country>
+</address>
+</affiliation>
+<affiliation countryCode="CN" type="organization" xml:id="anae15983-aff-0002">
+<orgDiv>Department of Anaesthesiology, Fuwai Hospital, National Centre for Cardiovascular Diseases</orgDiv>
+<orgName>Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+<address>
+<city>Beijing</city>
+<country>China</country>
+</address>
+</affiliation>
+<affiliation countryCode="CN" type="organization" xml:id="anae15983-aff-0003">
+<orgDiv>Department of Anaesthesiology, Fuwai Hospital, Chinese Academy of Medical Sciences</orgDiv>
+<orgName>Shenzhen (Sun Yat‐sen Cardiovascular Hospital, Shenzhen)</orgName>
+<address>
+<city>Shenzhen</city>
+<country>China</country>
+</address>
+</affiliation>
+<affiliation countryCode="CN" type="organization" xml:id="anae15983-aff-0004">
+<orgDiv>Department of Anaesthesiology</orgDiv>
+<orgName>Chongqing Hospital of Traditional Chinese Medicine</orgName>
+<address>
+<city>Chongqing</city>
+<country>China</country>
+</address>
+</affiliation>
+<affiliation countryCode="CN" type="organization" xml:id="anae15983-aff-0005">
+<orgDiv>Department of Anaesthesiology, Fuwai Hospital, National Centre for Cardiovascular Diseases</orgDiv>
+<orgName>Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+<address>
+<city>Beijing</city>
+<country>China</country>
+</address>
+</affiliation>
+<affiliation countryCode="CN" type="organization" xml:id="anae15983-aff-0006">
+<orgDiv>Department of Medical Research &amp; Biometrics Centre, Fuwai Hospital, National Centre for Cardiovascular Diseases</orgDiv>
+<orgName>Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+<address>
+<city>Beijing</city>
+<country>China</country>
+</address>
+</affiliation>
+<affiliation countryCode="US" type="organization" xml:id="anae15983-aff-0007">
+<orgDiv>Department of Outcomes Research</orgDiv>
+<orgName>Cleveland Clinic</orgName>
+<address>
+<city>Cleveland</city>
+<countryPart>OH</countryPart>
+<country>USA</country>
+</address>
+</affiliation>
+</affiliationGroup>
+<keywordGroup type="author" xml:lang="en">
+<keyword xml:id="anae15983-kwd-0001">acute kidney injury</keyword>
+<keyword xml:id="anae15983-kwd-0002">anaesthesia</keyword>
+<keyword xml:id="anae15983-kwd-0003">cardiac surgery</keyword>
+<keyword xml:id="anae15983-kwd-0004">cardiopulmonary bypass</keyword>
+<keyword xml:id="anae15983-kwd-0005">dexmedetomidine</keyword>
+<keyword xml:id="anae15983-kwd-0006">postoperative delirium</keyword>
+</keywordGroup>
+<fundingInfo>
+<fundingAgency fundRefName="National Natural Science Foundation of China" funderDoi="10.13039/501100001809">National Natural Science Foundation of China</fundingAgency>
+<fundingNumber>81870070</fundingNumber>
+</fundingInfo>
+<fundingInfo>
+<fundingAgency>National Clinical Research Centre of Cardiovascular Diseases</fundingAgency>
+</fundingInfo>
+<fundingInfo>
+<fundingAgency fundRefName="Fuwai Hospital, Chinese Academy of Medical Sciences" funderDoi="10.13039/501100011635">Fuwai Hospital</fundingAgency>
+</fundingInfo>
+<fundingInfo>
+<fundingAgency fundRefName="Chinese Academy of Medical Sciences" funderDoi="10.13039/501100005150">Chinese Academy of Medical Sciences</fundingAgency>
+</fundingInfo>
+<fundingInfo>
+<fundingAgency>National High‐Level Hospital Clinical Research Funding</fundingAgency>
+</fundingInfo>
+<supportingInformation xml:id="anae15983-supInfo-0001">
+<supportingInfoItem xml:id="anae15983-supitem-0001">
+<mediaResource alt="supplementary data" mimeType="image/tif" rendition="webOriginal" href="suppl/anae15983-sup-0001-FigureS1.tif"/>
+<caption>
+<p><b>Figure S1.</b> Adjusted relative risk and 95%CIs for the intention‐to‐treat primary outcome, sub‐group analyses and secondary outcomes of categorical variables.</p>
+</caption>
+</supportingInfoItem>
+<supportingInfoItem xml:id="anae15983-supitem-0002">
+<mediaResource alt="supplementary data" mimeType="application/vnd.openxmlformats-officedocument.wordprocessingml.document" rendition="webOriginal" href="suppl/anae15983-sup-0002-TableS1.docx"/>
+<caption>
+<p><b>Table S1.</b> The results of the primary and secondary outcomes by unadjusted and adjusted analyses.</p>
+</caption>
+</supportingInfoItem>
+</supportingInformation>
+<abstractGroup>
+<abstract type="main" xml:lang="en">
+<title type="main">Summary</title>
+<p>Dexmedetomidine might reduce delirium after cardiac surgery. We allocated 326 participants to an infusion of dexmedetomidine at a rate of 0.6 μg kg<sup>−1</sup> for 10 min and then at 0.4 μg.kg<sup>−1</sup>.h<sup>−1</sup> until the end of surgery; 326 control participants received comparable volumes of saline. We detected delirium in 98/652 (15%) participants during the first seven postoperative days: 47/326 after dexmedetomidine vs. 51/326 after placebo, p = 0.62, adjusted relative risk (95%CI) 0.86 (0.56–1.33), p = 0.51. Postoperative renal impairment (Kidney Disease Improving Global Outcomes stages 1, 2 and 3) was detected in 46, 9 and 2 participants after dexmedetomidine and 25, 7 and 4 control participants, p = 0.040. Intra‐operative dexmedetomidine infusion did not reduce the incidence of delirium after cardiac valve surgery but might impair renal function.</p>
+</abstract>
+</abstractGroup>
+</contentMeta>
+</header>
+<body sectionsNumbered="no" xml:id="anae15983-body-0001">
+<section xml:id="anae15983-sec-0001">
+<title type="main">Introduction</title>
+<p>Delirium affects about 14% of patients after cardiac surgery [<link href="#anae15983-bib-0001">1</link>]. The principle clinical manifestations of delirium are altered consciousness, inattention, disorganised thinking and reduced spatial orientation [<link href="#anae15983-bib-0002 #anae15983-bib-0003">2, 3</link>]. Delirium is associated with extended intensive care and hospital stay, long‐term cognitive dysfunction and shortened survival [<link href="#anae15983-bib-0004 #anae15983-bib-0005 #anae15983-bib-0006">4–6</link>]. The causes of postoperative delirium are unclear. It is associated with age, cognitive dysfunction, poor sleep quality, cardiopulmonary bypass and pain [<link href="#anae15983-bib-0007 #anae15983-bib-0008 #anae15983-bib-0009 #anae15983-bib-0010">7–10</link>].</p>
+<p>Dexmedetomidine is a sedative, anxiolytic, analgesic and it improves sleep quality [<link href="#anae15983-bib-0011 #anae15983-bib-0012">11, 12</link>]. Prophylactic dexmedetomidine infusion may or may not reduce critical care delirium [<link href="#anae15983-bib-0013 #anae15983-bib-0014 #anae15983-bib-0015 #anae15983-bib-0016 #anae15983-bib-0017 #anae15983-bib-0018 #anae15983-bib-0019 #anae15983-bib-0020 #anae15983-bib-0021">13–21</link>]. A recent trial in 798 participants reported that intra‐operative and postoperative dexmedetomidine infusion provoked hypotension but did not reduce delirium after cardiac surgery [<link href="#anae15983-bib-0022">22</link>]. However, some uncertainty remains. We therefore tested the hypothesis that intra‐operative dexmedetomidine reduces the fraction of delirious patients after cardiac valve surgery. We also measured duration of mechanical ventilation, intensive care and hospital stay, hypotension, kidney function, ventricular arrhythmias and death.</p>
+</section>
+<section type="methods" xml:id="anae15983-sec-0002">
+<title type="main">Methods</title>
+<p>The Ethical Committee of the Chinese Academy of Medical Sciences, Fuwai Hospital, China, approved this registered trial [<link href="#anae15983-bib-0023">23</link>].</p>
+<p>We included consenting adults (aged ≥ 18 y) scheduled for open cardiac valve surgery with bypass. We did not study patients who: had epilepsy; Parkinson's disease; schizophrenia; myasthenia gravis; severe dementia; were unable to communicate; had neurosurgery or brain injury; had a left‐ventricular ejection fraction &lt; 30%; had sick sinus syndrome, an atrioventricular block degree ≥ 2, bradycardia (&lt;50 beats.min<sup>−1</sup>); required renal replacement therapy; or had hepatic failure (Child‐Pugh Grade C). We recorded the pre‐operative Pittsburgh sleep quality index and the mini‐mental state examination [<link href="#anae15983-bib-0024 #anae15983-bib-0025">24, 25</link>].</p>
+<p>We induced anaesthesia with intravenous midazolam, sufentanil, etomidate and facilitated tracheal intubation with cisatracurium. We ventilated lungs with 8–10 ml kg<sup>−1</sup> oxygen‐enriched air and maintained end‐tidal carbon dioxide 35–45 mmHg. We inserted a central venous catheter. We maintained anaesthesia with propofol, sufentanil and sevoflurane, adjusted to bispectral index 40–60 (Covidien, Dublin, Ireland). We used a cardiopulmonary bypass membrane oxygenator with an integrated arterial filter after heparinisation with 400 U.kg<sup>−1</sup>, guided by activated clotting time &gt; 480 s. Centrifugal pumps provided a blood flow of 2–2.5 l.min<sup>−1</sup>.m<sup>−2</sup> to keep mean arterial pressure ≥ 60 mmHg. We maintained nasopharyngeal temperatures around 36°C, reduced to 30–34°C during cardiopulmonary bypass.</p>
+<p>We used a computer‐generated pseudorandom sequence to allocate participants to saline placebo or dexmedetomidine at a ratio of 1:1, using a permuted block size of 2 or 4. We sealed allocations in sequentially numbered opaque envelopes. An investigator who was otherwise not involved in patient care opened the envelope and prepared the infusion. We infused saline or 0.6 μg kg<sup>−1</sup> dexmedetomidine (Jiangsu Hengrui Medicine, Jiangsu, China) over 10 min and then a continuous infusion of saline or dexmedetomidine 0.4 μg.kg<sup>−1</sup>.h<sup>−1</sup> until the end of surgery. We instructed the attending anaesthetist to attenuate or halt infusion if there was severe hypotension or bradycardia unresponsive to routine treatment; worsening or new second‐degree atrioventricular block unresponsive to routine treatments; or any adverse event potentially caused by dexmedetomidine.</p>
+<p>We transferred participants to an ICU and several days later to a cardiac ward. We usually sedated participants with propofol or midazolam to a target Richmond agitation‐sedation score (RASS) of −2 to 1 [<link href="#anae15983-bib-0026">26</link>]. Participants used self‐controlled intravenous analgesia with continuous sufentanil infusion 2 μg.h<sup>−1</sup> and 2 μg bolus (10 min lockout). We gave participants supplemental sufentanil, dezocine or oral paracetamol 325 mg and oxycodone hydrochloride 5 mg when NRS pain scores at rest &gt; 4 points after three consecutive patient‐controlled boluses.</p>
+<p>The primary outcome was delirium during the first seven postoperative days. We assessed delirium with the confusion assessment method for ICU (CAM‐ICU) when the RASS &gt; −3 [<link href="#anae15983-bib-0027 #anae15983-bib-0028 #anae15983-bib-0029">27–29</link>]. We evaluated delirium about 24 h after surgery and then twice daily on the subsequent six postoperative days, 08.00–10.00 and 18.00–20.00. We calculated the duration of delirium as the cumulative number of days during which at least one assessment diagnosed delirium [<link href="#anae15983-bib-0030">30</link>]. Secondary outcomes were: mortality within 30 and 90 postoperative days; duration of mechanical ventilation, ICU and hospital stay; hypotension (&lt;30% of baseline blood pressure) during and after trial drug infusion; ventricular arrhythmias; and acute kidney injury [<link href="#anae15983-bib-0031">31</link>].</p>
+<p>We estimated that 652 participants allocated 1:1 to saline or dexmedetomidine would provide 80% power to reject the null hypothesis at α 0.05, assuming a reduction in delirium from 13.6% to 6.8%, based on a previous study and an unpublished preliminary experiment from 186 patients at Fuwai hospital [<link href="#anae15983-bib-0032">32</link>].</p>
+<p>We considered absolute standardised differences &gt; 0.1 to indicate imbalance in baseline variables. We used logistic regression and Cox regression for incidence and time‐to‐event analyses, adjusted for imbalanced baseline variables. We conducted interaction analyses for age &gt; 65 y and male sex [<link href="#anae15983-bib-0033 #anae15983-bib-0034">33, 34</link>]. We conducted intention‐to‐treat and per‐protocol analyses. We used SPSS for analyses (version 25.0, IBM Co., Armonk, NY, USA).</p>
+</section>
+<section type="results" xml:id="anae15983-sec-0003">
+<title type="main">Results</title>
+<p>The intention‐to‐treat analysis was of 652 participants and the per‐protocol analysis was of 642 participants (Fig. <link href="#anae15983-fig-0001">1</link> and Table <link href="#anae15983-tbl-0001">1</link>). We adjusted analyses for outcomes that interacted with the number of valves operated on and duration of surgery, cardiopulmonary bypass and aortic clamping.</p>
+<figure xml:id="anae15983-fig-0001">
+<label>1</label>
+<title type="figureName">Figure</title>
+<mediaResourceGroup>
+<mediaResource alt="image" href="urn:x-wiley:00032409:media:anae15983:anae15983-fig-0001"/>
+<mediaResource alt="image" href="graphic/anae15983-fig-0001-m.png" mimeType="image/png" rendition="webHiRes"/>
+
+
+</mediaResourceGroup>
+<caption>Study flow diagram.</caption>
+</figure>
+<tabular xml:id="anae15983-tbl-0001">
+<label>1</label>
+<titleGroup>
+<title type="tabularName">Table</title>
+<title type="main">Patient characteristics. Values are mean (SD) or number (proportion).</title>
+</titleGroup>
+<table colsep="0" frame="topbot" pgwide="1" rowsep="0">
+<tgroup cols="4">
+<colspec align="left" colname="col1" colnum="1"/>
+<colspec align="left" colname="col2" colnum="2"/>
+<colspec align="left" colname="col3" colnum="3"/>
+<colspec align="char" char="." colname="col4" colnum="4"/>
+<thead valign="bottom">
+<row rowsep="1">
+<entry align="left" colname="col1" morerows="1" rowsep="1"/>
+<entry colname="col2" rowsep="1">Dexmedetomidine</entry>
+<entry colname="col3" rowsep="1">Placebo</entry>
+<entry align="left" colname="col4" morerows="1" rowsep="1">ASD</entry>
+</row>
+<row rowsep="1">
+<entry align="char" char="(" colname="col2">n = 326</entry>
+<entry align="left" colname="col3">n = 326</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry colname="col1">Age, years</entry>
+<entry align="char" char="(" colname="col2">54.0 (11.8)</entry>
+<entry align="left" colname="col3">53.8 (12.6)</entry>
+<entry colname="col4">0.03</entry>
+</row>
+<row>
+<entry colname="col1">Sex, male</entry>
+<entry align="char" char="(" colname="col2">159 (49%)</entry>
+<entry align="left" colname="col3">166 (51%)</entry>
+<entry colname="col4">0.04</entry>
+</row>
+<row>
+<entry colname="col1">BMI, kg.m<sup>−2</sup></entry>
+<entry align="char" char="(" colname="col2">24.2 (3.3)</entry>
+<entry align="left" colname="col3">24.7 (11.4)</entry>
+<entry colname="col4">0.06</entry>
+</row>
+<row>
+<entry colname="col1">EuroSCORE</entry>
+<entry align="char" char="(" colname="col2">1.97 (1.78)</entry>
+<entry align="left" colname="col3">1.88 (1.77)</entry>
+<entry colname="col4">0.06</entry>
+</row>
+<row>
+<entry colname="col1">Education, years</entry>
+<entry align="char" char="(" colname="col2">10.1 (4.4)</entry>
+<entry align="left" colname="col3">10.2 (4.5)</entry>
+<entry colname="col4">0.04</entry>
+</row>
+<row>
+<entry colname="col1">Smoking</entry>
+<entry align="char" char="(" colname="col2">67 (21%)</entry>
+<entry align="left" colname="col3">73 (22%)</entry>
+<entry colname="col4">0.04</entry>
+</row>
+<row>
+<entry colname="col1">Alcohol abuse</entry>
+<entry align="char" char="(" colname="col2">57 (17%)</entry>
+<entry align="left" colname="col3">51 (16%)</entry>
+<entry colname="col4">0.05</entry>
+</row>
+<row>
+<entry colname="col1">Pittsburgh sleep quality index</entry>
+<entry align="char" char="(" colname="col2">7.68 (4.67)</entry>
+<entry align="left" colname="col3">7.94 (4.53)</entry>
+<entry colname="col4">0.06</entry>
+</row>
+<row>
+<entry colname="col1">Mini‐mental state examination</entry>
+<entry align="char" char="(" colname="col2">27.4 (1.6)</entry>
+<entry align="left" colname="col3">27.4 (1.6)</entry>
+<entry colname="col4">0.06</entry>
+</row>
+<row>
+<entry colname="col1">Left ventricular ejection fraction, %</entry>
+<entry align="char" char="(" colname="col2">62.2 (6.3)</entry>
+<entry align="left" colname="col3">62.8 (6.2)</entry>
+<entry colname="col4">0.10</entry>
+</row>
+<row>
+<entry colname="col1">Atrial fibrillation</entry>
+<entry align="char" char="(" colname="col2">110 (34%)</entry>
+<entry align="left" colname="col3">101 (31%)</entry>
+<entry colname="col4">0.06</entry>
+</row>
+<row>
+<entry align="left" nameend="col4" namest="col1">History</entry>
+</row>
+<row>
+<entry colname="col1" indentLevel="1">Hypertension</entry>
+<entry align="char" char="(" colname="col2">93 (29%)</entry>
+<entry align="left" colname="col3">100 (31%)</entry>
+<entry colname="col4">0.05</entry>
+</row>
+<row>
+<entry colname="col1" indentLevel="1">Coronary vascular disease</entry>
+<entry align="char" char="(" colname="col2">15 (5%)</entry>
+<entry align="left" colname="col3">16 (5%)</entry>
+<entry colname="col4">0.01</entry>
+</row>
+<row>
+<entry colname="col1" indentLevel="1">Lung disease</entry>
+<entry align="char" char="(" colname="col2">7 (2%)</entry>
+<entry align="left" colname="col3">9 (3%)</entry>
+<entry colname="col4">0.05</entry>
+</row>
+<row>
+<entry colname="col1" indentLevel="1">Diabetes mellitus</entry>
+<entry align="char" char="(" colname="col2">17 (5%)</entry>
+<entry align="left" colname="col3">18 (6%)</entry>
+<entry colname="col4">0.01</entry>
+</row>
+<row>
+<entry colname="col1" indentLevel="1">Peripheral arterial disease</entry>
+<entry align="char" char="(" colname="col2">2 (1%)</entry>
+<entry align="left" colname="col3">1 (1%)</entry>
+<entry colname="col4">0.05</entry>
+</row>
+<row>
+<entry colname="col1" indentLevel="1">Kidney insufficiency</entry>
+<entry align="char" char="(" colname="col2">5 (2%)</entry>
+<entry align="left" colname="col3">2 (1%)</entry>
+<entry colname="col4">0.09</entry>
+</row>
+<row>
+<entry colname="col1" indentLevel="1">Cardiac surgery</entry>
+<entry align="char" char="(" colname="col2">37 (11%)</entry>
+<entry align="left" colname="col3">31 (10%)</entry>
+<entry colname="col4">0.08</entry>
+</row>
+<row>
+<entry colname="col1" indentLevel="1">Stroke</entry>
+<entry align="char" char="(" colname="col2">29 (9%)</entry>
+<entry align="left" colname="col3">28 (9%)</entry>
+<entry colname="col4">0.01</entry>
+</row>
+<row>
+<entry colname="col1">Creatinine, μmol l<sup>−1</sup></entry>
+<entry align="char" char="(" colname="col2">85.5 (27.3)</entry>
+<entry align="left" colname="col3">83.8 (18.5)</entry>
+<entry colname="col4">0.07</entry>
+</row>
+<row>
+<entry colname="col1">Surgical duration, h</entry>
+<entry align="char" char="(" colname="col2">4.01 (1.32)</entry>
+<entry align="left" colname="col3">3.81 (1.13)</entry>
+<entry colname="col4">0.16</entry>
+</row>
+<row>
+<entry colname="col1">Cardiopulmonary bypass, h</entry>
+<entry align="char" char="(" colname="col2">2.2 (1.0)</entry>
+<entry align="left" colname="col3">2.0 (0.9)</entry>
+<entry colname="col4">0.18</entry>
+</row>
+<row>
+<entry colname="col1">Aortic clamping, h</entry>
+<entry align="char" char="(" colname="col2">1.6 (0.8)</entry>
+<entry align="left" colname="col3">1.5 (0.7)</entry>
+<entry colname="col4">0.20</entry>
+</row>
+<row>
+<entry colname="col1">Intra‐operative infusion, ml</entry>
+<entry align="char" char="(" colname="col2">640 (391)</entry>
+<entry align="left" colname="col3">674 (391)</entry>
+<entry colname="col4">0.09</entry>
+</row>
+<row>
+<entry colname="col1">Intra‐operative blood loss, ml</entry>
+<entry align="char" char="(" colname="col2">606 (96)</entry>
+<entry align="left" colname="col3">610 (158)</entry>
+<entry colname="col4">0.03</entry>
+</row>
+<row>
+<entry align="left" nameend="col4" namest="col1">Operation</entry>
+</row>
+<row>
+<entry colname="col1" indentLevel="1">One valve</entry>
+<entry align="char" char="(" colname="col2">173 (53%)</entry>
+<entry align="left" colname="col3">200 (62%)</entry>
+<entry colname="col4">0.17</entry>
+</row>
+<row>
+<entry colname="col1" indentLevel="1">Two valves</entry>
+<entry align="char" char="(" colname="col2">103 (32%)</entry>
+<entry align="left" colname="col3">95 (29%)</entry>
+<entry colname="col4">0.05</entry>
+</row>
+<row>
+<entry colname="col1" indentLevel="1">Three valves</entry>
+<entry align="char" char="(" colname="col2">44 (13%)</entry>
+<entry align="left" colname="col3">24 (7%)</entry>
+<entry colname="col4">0.21</entry>
+</row>
+<row>
+<entry colname="col1" indentLevel="1">Valves and CABG</entry>
+<entry align="char" char="(" colname="col2">6 (2%)</entry>
+<entry align="left" colname="col3">7 (2%)</entry>
+<entry colname="col4">0.02</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<noteGroup xml:id="anae15983-ntgp-0002">
+<note numbered="no" xml:id="anae15983-note-0002">
+<p>ASD, absolute standardised differences; CABG, coronary artery bypass graft.</p>
+</note>
+</noteGroup>
+</tabular>
+<p>We recorded delirium for 47/326 (14%) participants allocated dexmedetomidine and for 51/326 (16%) participants allocated placebo, p = 0.62, adjusted relative risk (95%CI) 0.89 (0.58–1.39), p = 0.51, and adjusted hazard ratio (95% CI) 1.03 (0.68–1.56), log‐rank p = 0.65 (Fig. <link href="#anae15983-fig-0002">2</link> and online Supporting Information Table <link href="#anae15983-supitem-0002">S1</link>). The median (IQR [range]) duration of delirium in these participants was 2 (1–3 [1–7]) days in both groups, p = 0.99. Rates of delirium in men and women were similar, 51/327 (16%) vs. 47/325 (14%), p = 0.10. Delirium was more frequent in older (≥65 y) participants, 42/135 (31%) vs. 64/517 (12%), p &lt; 0.001. There were no significant interactions of sex or age (dichotomy) with relative rates of delirium after dexmedetomidine vs. placebo (online Supporting Information Figure <link href="#anae15983-supitem-0001">S1</link>).</p>
+<figure xml:id="anae15983-fig-0002">
+<label>2</label>
+<title type="figureName">Figure</title>
+<mediaResourceGroup>
+<mediaResource alt="image" href="urn:x-wiley:00032409:media:anae15983:anae15983-fig-0002"/>
+<mediaResource alt="image" href="graphic/anae15983-fig-0002-m.png" mimeType="image/png" rendition="webHiRes"/>
+
+
+</mediaResourceGroup>
+<caption>Cumulative incidence of delirium for placebo (blue) and dexmedetomidine (red) groups. Log‐rank p = 0.65, 95% CI 0.68–1.56.</caption>
+</figure>
+<p>We diagnosed stage 1, 2 or 3 postoperative acute kidney injury in 46, 9 and 2 participants after dexmedetomidine and 25, 7 and 4 control participants, p = 0.040. The median (IQR [range]) duration of postoperative tracheal intubation was 16 (12–18 [2–480]) h after dexmedetomidine and 15 (12–18 [0–140]) h after placebo, p = 0.17. The duration of critical care were 2 (1–4 [1–20]) days and 2 (1–4 [1–16]) days, respectively, p = 0.54, and the duration of hospital stay were 7 (6–8 [1–32]) days and 7 (6–8 [0–21]) days, respectively, p = 0.21. We recorded hypotension for 31 vs. 39 participants after dexmedetomidine vs. placebo, p = 0.38, and ventricular arrhythmia for 17 vs. 15 participants, respectively, p = 0.72. Three patients and two patients died before hospital discharge after dexmedetomidine and placebo, respectively.</p>
+</section>
+<section type="discussion" xml:id="anae15983-sec-0004">
+<title type="main">Discussion</title>
+<p>Intra‐operative dexmedetomidine did not reduce the rate of delirium after cardiac valve surgery, and it possibly impairs renal function.</p>
+<p>Dexmedetomidine did not prevent delirium after cardiac surgery in some other trials [<link href="#anae15983-bib-0022 #anae15983-bib-0035">22, 35</link>]. Continuation of dexmedetomidine postoperatively did not prevent delirium in the trial by Turan et al. but did cause hypotension, as was reported by a meta‐analysis [<link href="#anae15983-bib-0022 #anae15983-bib-0036">22, 36</link>]. The combination of our results with those of Turan et al. suggests that renal function might be impaired by dexmedetomidine. We think it unlikely that dexmedetomidine is directly toxic to kidneys. More likely, dexmedetomidine impairs renal perfusion via hypotension which we did not characterise in detail.</p>
+<p>We could have increased the sensitivity of blood pressure to indirectly detect reduced perfusion by analysing it as a continuous variable rather than dichotomously. We could have increased the power of our trial and increased the generalisability of our results by recruiting participants from many hospitals. A serious limitation is that we recruited too few participants to reliably exclude useful reductions in delirium by dexmedetomidine because we unrealistically anticipated a relative rate reduction of 50%. We could have tested for delirium more frequently than twice daily, which would have increased our ability to detect delirium and to determine its duration – although patient cooperation would likely have suffered.</p>
+<p>In summary, we did not detect a reduction in the incidence of postoperative delirium after heart valve surgery by dexmedetomidine. We could not exclude useful smaller reductions in delirium by dexmedetomidine, but our results are consistent with most existing evidence and suggest that if dexmedetomidine reduces delirium after cardiac surgery, the benefit is small. Dexmedetomidine might impair renal function.</p>
+</section>
+<section type="acknowledgments" xml:id="anae15983-sec-0005">
+<title type="main">Acknowledgements</title>
+<p>This trial was registered with the Chinese Clinical Trial Registry (ChiCTR 1900022583). We thank the anaesthetists who helped with this study, which was supported by grants from National Natural Science Foundation of China, National Clinical Research Centre of Cardiovascular Diseases, Fuwai Hospital, Chinese Academy of Medical Sciences and the National High‐Level Hospital Clinical Research Funding. No competing interests declared.</p>
+</section>
+<bibliography cited="yes" style="numbered" xml:id="anae15983-bibl-0001">
+<title type="main">References</title>
+<bib xml:id="anae15983-bib-0001">
+<citation type="journal" xml:id="anae15983-cit-0001"><author><familyName>Patel</familyName> <givenNames>M</givenNames></author>, <author><familyName>Onwochei</familyName> <givenNames>DN</givenNames></author>, <author><familyName>Desai</familyName> <givenNames>N</givenNames></author>. <articleTitle>Influence of perioperative dexmedetomidine on the incidence of postoperative delirium in adult patients undergoing cardiac surgery</articleTitle>. <journalTitle>British Journal of Anaesthesia</journalTitle> <pubYear year="2022">2022</pubYear>; <vol>129</vol>: <pageFirst>67</pageFirst>–<pageLast>83</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0002">
+<citation type="journal" xml:id="anae15983-cit-0002"><author><familyName>Lipowski</familyName> <givenNames>ZJ</givenNames></author>. <articleTitle>Delirium (acute confusional states)</articleTitle>. <journalTitle>Journal of the American Medical Association</journalTitle> <pubYear year="1987">1987</pubYear>; <vol>258</vol>: <pageFirst>1789</pageFirst>–<pageLast>92</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0003">
+<citation type="journal" xml:id="anae15983-cit-0003"><author><familyName>Likhvantsev</familyName> <givenNames>VV</givenNames></author>, <author><familyName>Landoni</familyName> <givenNames>G</givenNames></author>, <author><familyName>Grebenchikov</familyName> <givenNames>OA</givenNames></author>, et al. <articleTitle>Perioperative dexmedetomidine supplement decreases delirium incidence after adult cardiac surgery: a randomized, double‐blind, controlled study</articleTitle>. <journalTitle>Journal of Cardiothoracic and Vascular Anesthesia</journalTitle> <pubYear year="2021">2021</pubYear>; <vol>35</vol>: <pageFirst>449</pageFirst>–<pageLast>57</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0004">
+<citation type="journal" xml:id="anae15983-cit-0004"><author><familyName>Brown</familyName> <givenNames>CH</givenNames> <nameSuffix>4th</nameSuffix></author>, <author><familyName>Probert</familyName> <givenNames>J</givenNames></author>, <author><familyName>Healy</familyName> <givenNames>R</givenNames></author>, et al. <articleTitle>Cognitive decline after delirium in patients undergoing cardiac surgery</articleTitle>. <journalTitle>Anaesthesiology</journalTitle> <pubYear year="2018">2018</pubYear>; <vol>129</vol>: <pageFirst>406</pageFirst>–<pageLast>16</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0005">
+<citation type="journal" xml:id="anae15983-cit-0005"><author><familyName>Mangusan</familyName> <givenNames>RF</givenNames></author>, <author><familyName>Hooper</familyName> <givenNames>V</givenNames></author>, <author><familyName>Denslow</familyName> <givenNames>SA</givenNames></author>, <author><familyName>Travis</familyName> <givenNames>L</givenNames></author>. <articleTitle>Outcomes associated with postoperative delirium after cardiac surgery</articleTitle>. <journalTitle>American Journal of Critical Care</journalTitle> <pubYear year="2015">2015</pubYear>; <vol>24</vol>: <pageFirst>156</pageFirst>–<pageLast>63</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0006">
+<citation type="journal" xml:id="anae15983-cit-0006"><author><familyName>Chen</familyName> <givenNames>L</givenNames></author>, <author><familyName>Au</familyName> <givenNames>E</givenNames></author>, <author><familyName>Saripella</familyName> <givenNames>A</givenNames></author>, et al. <articleTitle>Postoperative outcomes in older surgical patients with preoperative cognitive impairment: a systematic review and meta‐analysis</articleTitle>. <journalTitle>Journal of Clinical Anesthesia</journalTitle> <pubYear year="2022">2022</pubYear>; <vol>80</vol>: <eLocator>110883</eLocator>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0007">
+<citation type="journal" xml:id="anae15983-cit-0007"><author><familyName>Gleason</familyName> <givenNames>LJ</givenNames></author>, <author><familyName>Schmitt</familyName> <givenNames>EM</givenNames></author>, <author><familyName>Kosar</familyName> <givenNames>CM</givenNames></author>, et al. <articleTitle>Effect of delirium and other major complications on outcomes after elective surgery in older adults</articleTitle>. <journalTitle>Journal of the American Medical Association Surgery</journalTitle> <pubYear year="2015">2015</pubYear>; <vol>150</vol>: <pageFirst>1134</pageFirst>–<pageLast>40</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0008">
+<citation type="journal" xml:id="anae15983-cit-0008"><author><familyName>Wang</familyName> <givenNames>H</givenNames></author>, <author><familyName>Zhang</familyName> <givenNames>L</givenNames></author>, <author><familyName>Zhang</familyName> <givenNames>Z</givenNames></author>, <author><familyName>Li</familyName> <givenNames>Y</givenNames></author>, <author><familyName>Luo</familyName> <givenNames>Q</givenNames></author>, <author><familyName>Yuan</familyName> <givenNames>S</givenNames></author>, <author><familyName>Yan</familyName> <givenNames>F</givenNames></author>. <articleTitle>Perioperative sleep disturbances and postoperative delirium in adult patients: a systematic review and meta‐analysis of clinical trials</articleTitle>. <journalTitle>Frontiers in Psychiatry</journalTitle> <pubYear year="2020">2020</pubYear>; <vol>11</vol>: <eLocator>570362</eLocator>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0009">
+<citation type="journal" xml:id="anae15983-cit-0009"><author><familyName>O'Neal</familyName> <givenNames>JB</givenNames></author>, <author><familyName>Billings</familyName> <givenNames>FT</givenNames> <nameSuffix>4th</nameSuffix></author>, <author><familyName>Liu</familyName> <givenNames>X</givenNames></author>, et al. <articleTitle>Risk factors for delirium after cardiac surgery: a historical cohort study outlining the influence of cardiopulmonary bypass</articleTitle>. <journalTitle>Canadian Journal of Anesthesia</journalTitle> <pubYear year="2017">2017</pubYear>; <vol>64</vol>: <pageFirst>1129</pageFirst>–<pageLast>37</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0010">
+<citation type="journal" xml:id="anae15983-cit-0010"><author><familyName>Meier</familyName> <givenNames>DE</givenNames></author>. <articleTitle>Pain as a cause of agitated delirium</articleTitle>. <journalTitle>Archives of Internal Medicine</journalTitle> <pubYear year="2012">2012</pubYear>; <vol>172</vol>: <pageFirst>1130</pageFirst>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0011">
+<citation type="journal" xml:id="anae15983-cit-0011"><author><familyName>Zhang</familyName> <givenNames>Z</givenNames></author>, <author><familyName>Ferretti</familyName> <givenNames>V</givenNames></author>, <author><familyName>Güntan</familyName> <givenNames>İ</givenNames></author>, et al. <articleTitle>Neuronal ensembles sufficient for recovery sleep and the sedative actions of α2 adrenergic agonists</articleTitle>. <journalTitle>Nature Neuroscience</journalTitle> <pubYear year="2015">2015</pubYear>; <vol>18</vol>: <pageFirst>553</pageFirst>–<pageLast>61</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0012">
+<citation type="journal" xml:id="anae15983-cit-0012"><author><familyName>Nelson</familyName> <givenNames>S</givenNames></author>, <author><familyName>Muzyk</familyName> <givenNames>AJ</givenNames></author>, <author><familyName>Bucklin</familyName> <givenNames>MH</givenNames></author>, <author><familyName>Brudney</familyName> <givenNames>S</givenNames></author>, <author><familyName>Gagliardi</familyName> <givenNames>JP</givenNames></author>. <articleTitle>Defining the role of dexmedetomidine in the prevention of delirium in the intensive care unit</articleTitle>. <journalTitle>BioMed Research International</journalTitle> <pubYear year="2015">2015</pubYear>; <vol>2015</vol>: <eLocator>635737</eLocator>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0013">
+<citation type="journal" xml:id="anae15983-cit-0013"><author><familyName>Lee</familyName> <givenNames>C</givenNames></author>, <author><familyName>Lee</familyName> <givenNames>CH</givenNames></author>, <author><familyName>Lee</familyName> <givenNames>G</givenNames></author>, <author><familyName>Lee</familyName> <givenNames>M</givenNames></author>, <author><familyName>Hwang</familyName> <givenNames>J</givenNames></author>. <articleTitle>The effect of the timing and dose of dexmedetomidine on postoperative delirium in elderly patients after laparoscopic major non‐cardiac surgery: a double blind randomized controlled study</articleTitle>. <journalTitle>Journal of Clinical Anesthesia</journalTitle> <pubYear year="2018">2018</pubYear>; <vol>47</vol>: <pageFirst>27</pageFirst>–<pageLast>32</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0014">
+<citation type="journal" xml:id="anae15983-cit-0014"><author><familyName>Li</familyName> <givenNames>CJ</givenNames></author>, <author><familyName>Wang</familyName> <givenNames>BJ</givenNames></author>, <author><familyName>Mu</familyName> <givenNames>DL</givenNames></author>, et al. <articleTitle>Randomized clinical trial of intraoperative dexmedetomidine to prevent delirium in the elderly undergoing major non‐cardiac surgery</articleTitle>. <journalTitle>British Journal of Surgery</journalTitle> <pubYear year="2020">2020</pubYear>; <vol>107</vol>: <pageFirst>e123</pageFirst>–<pageLast>e132</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0015">
+<citation type="journal" xml:id="anae15983-cit-0015"><author><familyName>Karren</familyName> <givenNames>EA</givenNames></author>, <author><familyName>King</familyName> <givenNames>AB</givenNames></author>, <author><familyName>Hughes</familyName> <givenNames>CG</givenNames></author>. <articleTitle>Dexmedetomidine for prevention of delirium in elderly patients after non‐cardiac surgery</articleTitle>. <journalTitle>Journal of Thoracic Disease</journalTitle> <pubYear year="2016">2016</pubYear>; <vol>8</vol>: <pageFirst>E1759</pageFirst>–<pageLast>62</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0016">
+<citation type="journal" xml:id="anae15983-cit-0016"><author><familyName>Cheng</familyName> <givenNames>XQ</givenNames></author>, <author><familyName>Mei</familyName> <givenNames>B</givenNames></author>, <author><familyName>Zuo</familyName> <givenNames>YM</givenNames></author>, et al. <articleTitle>A multicentre randomised controlled trial of the effect of intra‐operative dexmedetomidine on cognitive decline after surgery</articleTitle>. <journalTitle>Anaesthesia</journalTitle> <pubYear year="2019">2019</pubYear>; <vol>74</vol>: <pageFirst>741</pageFirst>–<pageLast>50</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0017">
+<citation type="journal" xml:id="anae15983-cit-0017"><author><familyName>Kim</familyName> <givenNames>JA</givenNames></author>, <author><familyName>Ahn</familyName> <givenNames>HJ</givenNames></author>, <author><familyName>Yang</familyName> <givenNames>M</givenNames></author>, <author><familyName>Lee</familyName> <givenNames>SH</givenNames></author>, <author><familyName>Jeong</familyName> <givenNames>H</givenNames></author>, <author><familyName>Seong</familyName> <givenNames>BG</givenNames></author>. <articleTitle>Intraoperative use of dexmedetomidine for the prevention of emergence agitation and postoperative delirium in thoracic surgery: a randomized‐controlled trial</articleTitle>. <journalTitle>Canadian Journal of Anesthesia</journalTitle> <pubYear year="2019">2019</pubYear>; <vol>66</vol>: <pageFirst>371</pageFirst>–<pageLast>9</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0018">
+<citation type="journal" xml:id="anae15983-cit-0018"><author><familyName>Su</familyName> <givenNames>X</givenNames></author>, <author><familyName>Meng</familyName> <givenNames>ZT</givenNames></author>, <author><familyName>Wu</familyName> <givenNames>XH</givenNames></author>, et al. <articleTitle>Dexmedetomidine for prevention of delirium in elderly patients after non‐cardiac surgery: a randomised, double‐blind, placebo‐controlled trial</articleTitle>. <journalTitle>Lancet</journalTitle> <pubYear year="2016">2016</pubYear>; <vol>388</vol>: <pageFirst>1893</pageFirst>–<pageLast>902</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0019">
+<citation type="journal" xml:id="anae15983-cit-0019"><author><familyName>Pereira</familyName> <givenNames>JV</givenNames></author>, <author><familyName>Sanjanwala</familyName> <givenNames>RM</givenNames></author>, <author><familyName>Mohammed</familyName> <givenNames>MK</givenNames></author>, <author><familyName>Le</familyName> <givenNames>ML</givenNames></author>, <author><familyName>Arora</familyName> <givenNames>RC</givenNames></author>. <articleTitle>Dexmedetomidine versus propofol sedation in reducing delirium among older adults in the ICU: a systematic review and meta‐analysis</articleTitle>. <journalTitle>European Journal of Anaesthesiology</journalTitle> <pubYear year="2020">2020</pubYear>; <vol>37</vol>: <pageFirst>121</pageFirst>–<pageLast>31</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0020">
+<citation type="journal" xml:id="anae15983-cit-0020"><author><familyName>Burry</familyName> <givenNames>L</givenNames></author>, <author><familyName>Hutton</familyName> <givenNames>B</givenNames></author>, <author><familyName>Williamson</familyName> <givenNames>DR</givenNames></author>, et al. <articleTitle>Pharmacological interventions for the treatment of delirium in critically ill adults</articleTitle>. <journalTitle>Cochrane Database of Systematic Reviews</journalTitle> <pubYear year="2019">2019</pubYear>; <vol>9</vol>: <eLocator>CD011749</eLocator>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0021">
+<citation type="journal" xml:id="anae15983-cit-0021"><author><familyName>Deiner</familyName> <givenNames>S</givenNames></author>, <author><familyName>Luo</familyName> <givenNames>X</givenNames></author>, <author><familyName>Lin</familyName> <givenNames>HM</givenNames></author>, et al. <articleTitle>Intraoperative infusion of dexmedetomidine for prevention of postoperative delirium and cognitive dysfunction in elderly patients undergoing major elective noncardiac surgery: a randomized clinical trial</articleTitle>. <journalTitle>Journal of the American Medical Association Surgery</journalTitle> <pubYear year="2017">2017</pubYear>; <vol>152</vol>: <eLocator>e171505</eLocator>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0022">
+<citation type="journal" xml:id="anae15983-cit-0022"><author><familyName>Turan</familyName> <givenNames>A</givenNames></author>, <author><familyName>Duncan</familyName> <givenNames>A</givenNames></author>, <author><familyName>Leung</familyName> <givenNames>S</givenNames></author>, et al. <articleTitle>Dexmedetomidine for reduction of atrial fibrillation and delirium after cardiac surgery (DECADE): a randomised placebo‐controlled trial</articleTitle>. <journalTitle>Lancet</journalTitle> <pubYear year="2020">2020</pubYear>; <vol>396</vol>: <pageFirst>177</pageFirst>–<pageLast>85</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0023">
+<citation type="journal" xml:id="anae15983-cit-0023"><author><familyName>Wang</familyName> <givenNames>HB</givenNames></author>, <author><familyName>Zhang</familyName> <givenNames>L</givenNames></author>, <author><familyName>Zhang</familyName> <givenNames>Z</givenNames></author>, <author><familyName>Yuan</familyName> <givenNames>S</givenNames></author>, <author><familyName>Yan</familyName> <givenNames>FX</givenNames></author>, <author><familyName>Luo</familyName> <givenNames>QP</givenNames></author>. <articleTitle>Effect of intraoperative dexmedetomidine infusion on delirium in adult patients following cardiac valve surgery: a protocol of a randomized, double‐blinded, and placebo‐controlled study</articleTitle>. <journalTitle>Trials</journalTitle> <pubYear year="2020">2020</pubYear>; <vol>21</vol>: <pageFirst>645</pageFirst>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0024">
+<citation type="journal" xml:id="anae15983-cit-0024"><author><familyName>Buysse</familyName> <givenNames>DJ</givenNames></author>, <author><familyName>Reynolds</familyName> <givenNames>CF</givenNames> <nameSuffix>3rd</nameSuffix></author>, <author><familyName>Monk</familyName> <givenNames>TH</givenNames></author>, <author><familyName>Berman</familyName> <givenNames>SR</givenNames></author>, <author><familyName>Kupfer</familyName> <givenNames>DJ</givenNames></author>. <articleTitle>The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research</articleTitle>. <journalTitle>Psychiatry Research</journalTitle> <pubYear year="1989">1989</pubYear>; <vol>28</vol>: <pageFirst>193</pageFirst>–<pageLast>213</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0025">
+<citation type="journal" xml:id="anae15983-cit-0025"><author><familyName>Folstein</familyName> <givenNames>MF</givenNames></author>, <author><familyName>Folstein</familyName> <givenNames>SE</givenNames></author>, <author><familyName>McHugh</familyName> <givenNames>PR</givenNames></author>. <articleTitle>“Mini‐mental state”. A practical method for grading the cognitive state of patients for the clinician</articleTitle>. <journalTitle>Journal of Psychiatric Research</journalTitle> <pubYear year="1975">1975</pubYear>; <vol>12</vol>: <pageFirst>189</pageFirst>–<pageLast>98</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0026">
+<citation type="journal" xml:id="anae15983-cit-0026"><author><familyName>Shehabi</familyName> <givenNames>Y</givenNames></author>, <author><familyName>Howe</familyName> <givenNames>BD</givenNames></author>, <author><familyName>Bellomo</familyName> <givenNames>R</givenNames></author>, et al. <articleTitle>Early sedation with dexmedetomidine in critically ill patients</articleTitle>. <journalTitle>New England Journal of Medicine</journalTitle> <pubYear year="2019">2019</pubYear>; <vol>380</vol>: <pageFirst>2506</pageFirst>–<pageLast>17</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0027">
+<citation type="journal" xml:id="anae15983-cit-0027"><author><familyName>Sessler</familyName> <givenNames>CN</givenNames></author>, <author><familyName>Gosnell</familyName> <givenNames>MS</givenNames></author>, <author><familyName>Grap</familyName> <givenNames>MJ</givenNames></author>, et al. <articleTitle>The Richmond Agitation‐Sedation Scale: validity and reliability in adult intensive care unit patients</articleTitle>. <journalTitle>American Journal of Respiratory and Critical Care Medicine</journalTitle> <pubYear year="2002">2002</pubYear>; <vol>166</vol>: <pageFirst>1338</pageFirst>–<pageLast>44</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0028">
+<citation type="journal" xml:id="anae15983-cit-0028"><author><familyName>Ely</familyName> <givenNames>EW</givenNames></author>, <author><familyName>Inouye</familyName> <givenNames>SK</givenNames></author>, <author><familyName>Bernard</familyName> <givenNames>GR</givenNames></author>, et al. <articleTitle>Delirium in mechanically ventilated patients: validity and reliability of the confusion assessment method for the intensive care unit (CAM‐ICU)</articleTitle>. <journalTitle>Journal of the American Medical Association</journalTitle> <pubYear year="2001">2001</pubYear>; <vol>286</vol>: <pageFirst>2703</pageFirst>–<pageLast>10</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0029">
+<citation type="journal" xml:id="anae15983-cit-0029"><author><familyName>Peterson</familyName> <givenNames>JF</givenNames></author>, <author><familyName>Pun</familyName> <givenNames>BT</givenNames></author>, <author><familyName>Dittus</familyName> <givenNames>RS</givenNames></author>, <author><familyName>Thomason</familyName> <givenNames>JWW</givenNames></author>, <author><familyName>Jackson</familyName> <givenNames>JC</givenNames></author>, <author><familyName>Shintani</familyName> <givenNames>AK</givenNames></author>, <author><familyName>Ely</familyName> <givenNames>EW</givenNames></author>. <articleTitle>Delirium and its motoric subtypes: a study of 614 critically ill patients</articleTitle>. <journalTitle>Journal of the American Geriatrics Society</journalTitle> <pubYear year="2006">2006</pubYear>; <vol>54</vol>: <pageFirst>479</pageFirst>–<pageLast>84</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0030">
+<citation type="journal" xml:id="anae15983-cit-0030"><author><familyName>Shehabi</familyName> <givenNames>Y</givenNames></author>, <author><familyName>Riker</familyName> <givenNames>RR</givenNames></author>, <author><familyName>Bokesch</familyName> <givenNames>PM</givenNames></author>, <author><familyName>Wisemandle</familyName> <givenNames>W</givenNames></author>, <author><familyName>Shintani</familyName> <givenNames>A</givenNames></author>, <author><familyName>Ely</familyName> <givenNames>EW</givenNames></author>, <groupName>SEDCOM (Safety and Efficacy of Dexmedetomidine Compared With Midazolam) Study Group</groupName>. <articleTitle>Delirium duration and mortality in lightly sedated, mechanically ventilated intensive care patients</articleTitle>. <journalTitle>Critical Care Medicine</journalTitle> <pubYear year="2010">2010</pubYear>; <vol>38</vol>: <pageFirst>2311</pageFirst>–<pageLast>8</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0031">
+<citation type="journal" xml:id="anae15983-cit-0031"><author><familyName>Hoste</familyName> <givenNames>EA</givenNames></author>, <author><familyName>De Corte</familyName> <givenNames>W</givenNames></author>. <articleTitle>Implementing the kidney disease: improving global outcomes/acute kidney injury guidelines in ICU patients</articleTitle>. <journalTitle>Current Opinion in Critical Care</journalTitle> <pubYear year="2013">2013</pubYear>; <vol>19</vol>: <pageFirst>544</pageFirst>–<pageLast>53</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0032">
+<citation type="journal" xml:id="anae15983-cit-0032"><author><familyName>Järvelä</familyName> <givenNames>K</givenNames></author>, <author><familyName>Porkkala</familyName> <givenNames>H</givenNames></author>, <author><familyName>Karlsson</familyName> <givenNames>S</givenNames></author>, <author><familyName>Martikainen</familyName> <givenNames>T</givenNames></author>, <author><familyName>Selander</familyName> <givenNames>T</givenNames></author>, <author><familyName>Bendel</familyName> <givenNames>S</givenNames></author>. <articleTitle>Postoperative delirium in cardiac surgery patients</articleTitle>. <journalTitle>Journal of Cardiothoracic and Vascular Anesthesia</journalTitle> <pubYear year="2018">2018</pubYear>; <vol>32</vol>: <pageFirst>1597</pageFirst>–<pageLast>602</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0033">
+<citation type="journal" xml:id="anae15983-cit-0033"><author><familyName>Itagaki</familyName> <givenNames>A</givenNames></author>, <author><familyName>Sakurada</familyName> <givenNames>K</givenNames></author>, <author><familyName>Matsuhama</familyName> <givenNames>M</givenNames></author>, <author><familyName>Yajima</familyName> <givenNames>J</givenNames></author>, <author><familyName>Yamashita</familyName> <givenNames>T</givenNames></author>, <author><familyName>Kohzuki</familyName> <givenNames>M</givenNames></author>. <articleTitle>Impact of frailty and mild cognitive impairment on delirium after cardiac surgery in older patients</articleTitle>. <journalTitle>Journal of Cardiology</journalTitle> <pubYear year="2020">2020</pubYear>; <vol>76</vol>: <pageFirst>147</pageFirst>–<pageLast>53</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0034">
+<citation type="journal" xml:id="anae15983-cit-0034"><author><familyName>Wang</familyName> <givenNames>H</givenNames></author>, <author><familyName>Guo</familyName> <givenNames>X</givenNames></author>, <author><familyName>Zhu</familyName> <givenNames>X</givenNames></author>, et al. <articleTitle>Gender differences and postoperative delirium in adult patients undergoing cardiac valve surgery</articleTitle>. <journalTitle>Frontiers in Cardiovascular Medicine</journalTitle> <pubYear year="2021">2021</pubYear>; <vol>8</vol>: <eLocator>751421</eLocator>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0035">
+<citation type="journal" xml:id="anae15983-cit-0035"><author><familyName>Priye</familyName> <givenNames>S</givenNames></author>, <author><familyName>Jagannath</familyName> <givenNames>S</givenNames></author>, <author><familyName>Singh</familyName> <givenNames>D</givenNames></author>, <author><familyName>Shivaprakash</familyName> <givenNames>S</givenNames></author>, <author><familyName>Reddy</familyName> <givenNames>DP</givenNames></author>. <articleTitle>Dexmedetomidine as an adjunct in postoperative analgesia following cardiac surgery: a randomized, double‐blind study</articleTitle>. <journalTitle>Saudi Journal of Anaesthesia</journalTitle> <pubYear year="2015">2015</pubYear>; <vol>9</vol>: <pageFirst>353</pageFirst>–<pageLast>8</pageLast>.</citation>
+</bib>
+<bib xml:id="anae15983-bib-0036">
+<citation type="journal" xml:id="anae15983-cit-0036"><author><familyName>Fonseca</familyName> <givenNames>FJ</givenNames></author>, <author><familyName>Ferreira</familyName> <givenNames>L</givenNames></author>, <author><familyName>Rouxinol‐Dias</familyName> <givenNames>AL</givenNames></author>, <author><familyName>Mourão</familyName> <givenNames>J</givenNames></author>. <articleTitle>Effects of dexmedetomidine in non‐operating room Anaesthesia in adults: a systematic review with meta‐analysis</articleTitle>. <journalTitle>Brazilian Journal of Anesthesiology</journalTitle> <pubYear year="2022">2022</pubYear>; <vol>9</vol>: <pageFirst>59</pageFirst>.</citation>
+</bib>
+</bibliography>
+</body>
+</component>

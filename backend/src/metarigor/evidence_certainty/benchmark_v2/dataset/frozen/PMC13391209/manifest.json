@@ -1,0 +1,54 @@
+{
+  "article": {
+    "doi": "10.1093/europace/euag159",
+    "license_text": "This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "pmcid": "PMC13391209",
+    "pmid": "42486484",
+    "title": "Long-term efficacy and safety of left atrial appendage closure vs. oral anticoagulation in atrial fibrillation: a meta-analysis of randomized controlled trials"
+  },
+  "candidate": {
+    "line_count": 82,
+    "path": "frozen/PMC13391209/candidate.txt",
+    "sha256": "d9c12d4536a42ed080a0ce48788f918a834b850c29c0fff58bbccf70df9a7a56"
+  },
+  "external_comparator": {
+    "path": "frozen/PMC13391209/external-comparator.txt",
+    "removed_node_count": 5,
+    "sha256": "5c440a0ef381c17a121112b97741f92a0205e7ac28b4a3ddb7ace087f85aab9c"
+  },
+  "freezer": {
+    "id": "metarigor-ec-review-jats-freezer",
+    "version": "1.1.0"
+  },
+  "raw_source": {
+    "path": "sources/PMC13391209.xml",
+    "sha256": "30180f6007849cb952793ec9b82c7aad7f3b6f466e92be5ab9349ef75b9fdf3e"
+  },
+  "redacted_evidence_tables": [],
+  "removed_nodes": [
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": "euag159-s2.8",
+      "tag": "sec"
+    },
+    {
+      "node_id": "euag159-s3.7",
+      "tag": "sec"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    }
+  ],
+  "retrieved_on": "2026-08-31",
+  "schema_version": "1.0.0",
+  "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC13391209&retmode=xml"
+}

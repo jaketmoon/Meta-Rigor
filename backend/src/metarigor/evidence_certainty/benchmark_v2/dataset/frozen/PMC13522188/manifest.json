@@ -1,0 +1,46 @@
+{
+  "article": {
+    "doi": "10.3389/fmed.2026.1917259",
+    "license_text": "This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "pmcid": "PMC13522188",
+    "pmid": "42666358",
+    "title": "Expedited transfer pathways vs. standard care for adults with out-of-hospital cardiac arrest: a systematic review and meta-analysis of randomized trials"
+  },
+  "candidate": {
+    "line_count": 84,
+    "path": "frozen/PMC13522188/candidate.txt",
+    "sha256": "b2f5a3515f0bc57b2c342f9748fef8687712abf62a28a3e48a0c28b7fcc0f1c0"
+  },
+  "external_comparator": {
+    "path": "frozen/PMC13522188/external-comparator.txt",
+    "removed_node_count": 3,
+    "sha256": "9b7f4f70a256ab6549a900551474c072cd6168f6f13ca85717f97a0f6330412d"
+  },
+  "freezer": {
+    "id": "metarigor-ec-review-jats-freezer",
+    "version": "1.1.0"
+  },
+  "raw_source": {
+    "path": "sources/PMC13522188.xml",
+    "sha256": "faa3df79bdf9b95e84576cc67d4149cc33dfa8a2aa377a49af6aa2a8225767f2"
+  },
+  "redacted_evidence_tables": [],
+  "removed_nodes": [
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": "sec9",
+      "tag": "sec"
+    },
+    {
+      "node_id": "sec19",
+      "tag": "sec"
+    }
+  ],
+  "retrieved_on": "2026-08-31",
+  "schema_version": "1.0.0",
+  "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC13522188&retmode=xml"
+}

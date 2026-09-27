@@ -1,0 +1,69 @@
+[DOCLING_PAGE 1]
+
+CONSORT 2010 checklist of information to include when reporting a randomised trial*
+
+[DOCLING_TABLE rows=27 columns=4]
+| Section/Topic | Item No | Checklist item | Reported on page No |
+| Title and abstract |  |  |  |
+|  | 1a | Identification as a randomised trial in the title | 1 |
+|  | 1b | Structured summary of trial design, methods, results, and conclusions (for specific guidance see CONSORT for abstracts) | 3 |
+| Introduction |  |  |  |
+| Background and | 2a | Scientific background and explanation of rationale | 4 |
+| objectives | 2b | Specific objectives or hypotheses | 4 |
+| Methods |  |  |  |
+| Trial design | 3a | Description of trial design (such as parallel, factorial) including allocation ratio | 5 |
+|  | 3b | Important changes to methods after trial commencement (such as eligibility criteria), with reasons | 5 |
+| Participants | 4a | Eligibility criteria for participants | 5 |
+|  | 4b | Settings and locations where the data were collected | 5 |
+| Interventions | 5 | The interventions for each group with sufficient details to allow replication, including how and when they were |  |
+|  |  | actually administered | 5 |
+| Outcomes | 6a | Completely defined pre-specified primary and secondary outcome measures, including how and when they were |  |
+|  |  | assessed | 5-6 |
+|  | 6b | Any changes to trial outcomes after the trial commenced, with reasons | N/A |
+| Sample size | 7a | How sample size was determined | 5 |
+|  | 7b | When applicable, explanation of any interim analyses and stopping guidelines | 5 |
+| Randomisation: |  |  |  |
+| Sequence | 8a | Method used to generate the random allocation sequence | 5 |
+| generation | 8b | Type of randomisation; details of any restriction (such as blocking and block size) | 5 |
+| Allocation concealment | 9 | Mechanism used to implement the random allocation sequence (such as sequentially numbered containers), |  |
+| mechanism |  | describing any steps taken to conceal the sequence until interventions were assigned | 5 |
+| Implementation | 10 | Who generated the random allocation sequence, who enrolled participants, and who assigned participants to |  |
+|  |  | interventions | 5 |
+| Blinding | 11a | If done, who was blinded after assignment to interventions (for example, participants, care providers, those | 5 |
+[/DOCLING_TABLE]
+
+CONSORT 2010 checklist
+
+Page 1
+
+[DOCLING_PAGE 2]
+
+[DOCLING_TABLE rows=23 columns=4]
+|  |  | assessing outcomes) and how |  |
+|  | 11b | If relevant, description of the similarity of interventions | N/A |
+| Statistical methods | 12a | Statistical methods used to compare groups for primary and secondary outcomes | 5-6 |
+|  | 12b | Methods for additional analyses, such as subgroup analyses and adjusted analyses | 5-6 |
+| Results |  |  |  |
+| Participant flow (a diagram is strongly | 13a | For each group, the numbers of participants who were randomly assigned, received intended treatment, and were analysed for the primary outcome | 6 |
+| recommended) | 13b | For each group, losses and exclusions after randomisation, together with reasons | 6 |
+| Recruitment | 14a | Dates defining the periods of recruitment and follow-up | 6 |
+|  | 14b | Why the trial ended or was stopped | 6 |
+| Baseline data | 15 | A table showing baseline demographic and clinical characteristics for each group | Sup Table 1 |
+| Numbers analysed | 16 | For each group, number of participants (denominator) included in each analysis and whether the analysis was by original assigned groups | Sup Table 1 |
+| Outcomes and estimation | 17a | For each primary and secondary outcome, results for each group, and the estimated effect size and its precision (such as 95% confidence interval) | Table 1, 2 |
+|  | 17b | For binary outcomes, presentation of both absolute and relative effect sizes is recommended | Table 1,2 |
+| Ancillary analyses | 18 | Results of any other analyses performed, including subgroup analyses and adjusted analyses, distinguishing pre-specified from exploratory | 6-7 |
+| Harms | 19 | All important harms or unintended effects in each group (for specific guidance see CONSORT for harms) | 6-7 |
+| Discussion |  |  |  |
+| Limitations | 20 | Trial limitations, addressing sources of potential bias, imprecision, and, if relevant, multiplicity of analyses | 9 |
+| Generalisability | 21 | Generalisability (external validity, applicability) of the trial findings | 8-9 |
+| Interpretation | 22 | Interpretation consistent with results, balancing benefits and harms, and considering other relevant evidence | 7-9 |
+| Other information |  |  |  |
+| Registration | 23 | Registration number and name of trial registry | 3 |
+| Protocol | 24 | Where the full trial protocol can be accessed, if available | 5 |
+| Funding | 25 | Sources of funding and other support (such as supply of drugs), role of funders | 9 |
+[/DOCLING_TABLE]
+
+CONSORT 2010 checklist
+
+Page 2

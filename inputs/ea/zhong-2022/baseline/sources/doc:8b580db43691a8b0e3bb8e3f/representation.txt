@@ -1,0 +1,1072 @@
+[DOCLING_PAGE 1]
+
+162
+
+Research
+
+JAMA | Original Investigation | CARING FOR THE CRITICALLY ILL PATIENT
+
+Effect of High-Flow Nasal Cannula Therapy vs Continuous Positive Airway Pressure Therapy on Liberation From Respiratory Support in Acutely Ill Children Admitted to Pediatric Critical Care Units ARandomized Clinical Trial
+
+Padmanabhan Ramnarayan, MD; Alvin Richards-Belle, BSc; Laura Drikite, MSc; Michelle Saull, BSc; Izabella Orzechowska, MSc; Robert Darnell, MA; Zia Sadique, PhD; Julie Lester, BA; Kevin P. Morris, MD; Lyvonne N. Tume, PhD; Peter J. Davis, MBChB; Mark J. Peters, PhD; Richard G. Feltbower, PhD; Richard Grieve, PhD; Karen Thomas, MSc; Paul R. Mouncey, MSc; David A. Harrison, PhD; Kathryn M. Rowan, PhD; for the FIRST-ABC Step-Up RCT Investigators and the Paediatric Critical Care Society Study Group
+
+IMPORTANCE The optimal first-line mode of noninvasive respiratory support for acutely ill children is not known.
+
+OBJECTIVE To evaluate the noninferiority of high-flow nasal cannula therapy (HFNC) as the first-line mode of noninvasive respiratory support for acute illness, compared with continuous positive airway pressure (CPAP), for time to liberation from all forms of respiratory support.
+
+DESIGN, SETTING, AND PARTICIPANTS Pragmatic, multicenter, randomized noninferiority clinical trial conducted in 24 pediatric critical care units in the United Kingdom among 600 acutely ill children aged 0 to 15 years who were clinically assessed to require noninvasive respiratory support, recruited between August 2019 and November 2021, with last follow-up completed in March 2022.
+
+INTERVENTIONS Patients were randomized 1:1 to commence either HFNC at a flow rate based on patient weight (n = 301) or CPAP of 7 to 8 cm H 2 O(n = 299).
+
+MAIN OUTCOMES AND MEASURES The primary outcome was time from randomization to liberation from respiratory support, defined as the start of a 48-hour period during which a participant was free from all forms of respiratory support (invasive or noninvasive), assessed against a noninferiority margin of an adjusted hazard ratio of 0.75. Seven secondary outcomes were assessed, including mortality at critical care unit discharge, intubation within 48 hours, and use of sedation.
+
+RESULTS Of the 600 randomized children, consent was not obtained for 5 (HFNC: 1; CPAP: 4) and respiratory support was not started in 22 (HFNC: 5; CPAP: 17); 573 children (HFNC: 295; CPAP: 278) were included in the primary analysis (median age, 9 months; 226 girls [39%]). The median time to liberation in the HFNC group was 52.9 hours (95% CI, 46.0-60.9 hours) vs 47.9 hours (95% CI, 40.5-55.7 hours) in the CPAP group (absolute difference, 5.0 hours [95% CI -10.1 to 17.4 hours]; adjusted hazard ratio 1.03 [1-sided 97.5% CI, 0.86-∞ ]). This met the criterion for noninferiority. Of the 7 prespecified secondary outcomes, 3 were significantly lower in the HFNC group: use of sedation (27.7% vs 37%; adjusted odds ratio, 0.59 [95% CI, 0.39-0.88]); mean duration of critical care stay (5 days vs 7.4 days; adjusted mean difference, -3 days [95% CI, -5.1 to -1 days]); and mean duration of acute hospital stay (13.8 days vs 19.5 days; adjusted mean difference, -7.6 days [95% CI, -13.2 to -1.9 days]). The most common adverse event was nasal trauma (HFNC: 6/295 [2.0%]; CPAP: 18/278 [6.5%]).
+
+CONCLUSIONS AND RELEVANCE Amongacutely ill children clinically assessed to require noninvasive respiratory support in a pediatric critical care unit, HFNC compared with CPAP met the criterion for noninferiority for time to liberation from respiratory support.
+
+TRIAL REGISTRATION ISRCTN.org Identifier: ISRCTN60048867
+
+JAMA . 2022;328(2):162-172. doi:10.1001/jama.2022.9615 Published online June 16, 2022.
+
+Visual Abstract
+
+Supplemental content
+
+Author Affiliations: Author affiliations are listed at the end of this article.
+
+Corresponding Author:
+
+Padmanabhan Ramnarayan, MD, Section of Anaesthetics, Pain Medicine, and Intensive Care, Department of Surgery and Cancer, Norfolk Place, Faculty of Medicine, Imperial College London, London W2 1PG, England (p.ramnarayan@ imperial.ac.uk).
+
+Section Editor: Christopher Seymour, MD, Associate Editor, JAMA (christopher.seymour@jamanetwork. org).
+
+(Reprinted)
+
+jama.com R espiratory support was the most common interventionprovidedinpediatriccriticalcareunitsintheUnited Kingdom between 2017 and 2019. 1 Recognition of the risks associated with invasive mechanical ventilation has led to greater use of noninvasive modes of respiratory support in acutely ill children, such as high-flow nasal cannula therapy (HFNC),continuouspositiveairwaypressure(CPAP),andnoninvasive ventilation. 2-5
+
+© 2022 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Southern Medical University, li bai on 09/08/2026
+
+[DOCLING_PAGE 2]
+
+Effect of HFNC vs CPAP Therapy on Liberation From Respiratory Support in Acutely Ill Children
+
+Original Investigation Research
+
+High-flow nasal cannula therapy has become a popular modeofnoninvasiverespiratorysupportinthepediatriccritical care setting due to its ease of use, perceived greater patient comfort, and the ability to discharge children still receiving HFNC to general wards. 6 Arecent international survey of clinicians indicated that HFNCwasfrequentlyusedasthefirstline mode for respiratory support in a range of diseases such as bronchiolitis, asthma, pneumonia, and cardiac failure. 7 In a retrospective cohort study involving 92 hospitals in the UnitedStates,HFNCwasusedasthefirst-linerespiratorysupport mode in 85% of children with bronchiolitis, 8 and use of HFNC has been shown to reduce the need for invasive mechanicalventilation. 9 However,thereislittlerandomizedclinical trial (RCT) evidence to support the clinical effectiveness of HFNCin acutely ill children. 10-12
+
+Following a pilot RCT to confirm feasibility for a definitive trial, 13 First-Line Support for Assistance in Breathing in Children (FIRST-ABC) was designed as a master protocol of 2 pragmaticRCTs('step-up'and'step-down'),withsharedinfrastructure and integrated health economic evaluation, to evaluate the clinical effectiveness and cost-effectiveness of HFNC vs CPAP. 14 In the step-down RCT, HFNC did not meet the criterion for noninferiority. 15 This article reports the results of the step-up RCT, which tested the hypothesis that firstline use of HFNC was noninferior to CPAP in terms of time to liberation from respiratory support in acutely ill children admitted to pediatric critical care units.
+
+Methods
+
+Trial Design and Oversight
+
+The FIRST-ABC step-up RCT was a pragmatic, 16 unblinded, multicenter, parallel-group, noninferiority trial. The master protocol was approved by the East of England-Cambridge South Research Ethics Committee and the UK Health ResearchAuthorityandwaspublishedpriortocompletionoftrial recruitment. 14 Thetrialprotocolandthestatisticalanalysisplan appear in Supplement 1.
+
+A 'research without prior consent' model was approved because the decision to commence respiratory support in acutely ill children was often made urgently, and both HFNC and CPAP were widely used. Written informed consent was soughtfromparentsorlegalguardiansassoonaspossibleand appropriate following randomization. 17,18 Datacollectedupto refusal or withdrawal of consent were retained unless parents or legal guardians requested otherwise.
+
+ThetrialwasfundedbytheUKNationalInstituteforHealth Research, whichconvenedanindependentlychairedandmajority-independent trial steering committee and an indepen-
+
+jama.com
+
+KeyPoints
+
+Question In acutely ill children clinically assessed to require noninvasive respiratory support in a pediatric critical care unit, is first-line use of high-flow nasal cannula therapy (HFNC) noninferior to continuous positive airway pressure (CPAP) in terms of time to liberation from all forms of respiratory support?
+
+Findings In this randomized noninferiority trial of 600 acutely ill children clinically assessed to require noninvasive respiratory support, median time to liberation was 52.9 hours for HFNC vs 47.9 hours for CPAP. The 1-sided 97.5% confidence limit for the hazard ratio was 0.86, falling within the noninferiority margin of 0.75.
+
+Meaning Amongacutely ill children clinically assessed to require noninvasive respiratory support in a pediatric critical care unit, HFNCmetthecriterion for noninferiority compared with CPAP for time to liberation from respiratory support.
+
+dentdatamonitoringandethicscommittee.ThetrialwasmanagedbytheClinicalTrialsUnitattheUKIntensiveCareNational Audit & Research Centre (ICNARC).
+
+Sites and Participants
+
+The trial was conducted in 24 National Health Service pediatric critical care units (intensive care and high-dependency careunits)inEngland,Wales,andScotland.Childrenagedfrom birth (>36 weeks corrected gestational age) up to 15 years who were admitted or being admitted to participating critical care units were eligible if assessed by the treating clinician to requirenoninvasiverespiratorysupportforanacuteillness.Main exclusion criteria were clinical decision to start a mode other than CPAP or HFNC (eg, noninvasive ventilation), receipt of either CPAP or HFNC for more than 2 hours prior to randomization, and preadmission receipt of domiciliary respiratory support (eAppendix in Supplement 2).
+
+Randomization
+
+Randomization was conducted using a concealed centralized telephone-/web-based system based on a computergenerated random sequence stratified by site and age (<12 months vs ≥12 months) using permuted block sizes of 2 and 4. Children were randomized in a 1:1 ratio to HFNC or CPAP. Allocatednoninvasiverespiratorysupportwascommencedas soon as possible after randomization.
+
+Trial Interventions
+
+Trial algorithms, developed following consultation with sites andfinalizedatacollaborators'meeting,specifiedclinicalprocedures for the initiation, maintenance, and weaning from HFNCandCPAP(eFigures 1 and 2 in Supplement 2). Children randomizedtoHFNCwerestartedataflowratebasedonbody weight (for <12 kg, 2 L/kg per minute; for ≥12 kg, see eFigure 1 in Supplement 2). When a child was deemed ready for weaning, the flow rate was reduced by 50%. Children randomized to CPAP were started at a pressure of 7 to 8 cm H2O. When a child was deemed ready for weaning, the pressure was reduced to 5 cm H2O. Both HFNC and CPAP were delivered
+
+(Reprinted)
+
+JAMA July 12, 2022 Volume 328, Number 2
+
+© 2022 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Southern Medical University, li bai on 09/08/2026
+
+163
+
+[DOCLING_PAGE 3]
+
+Research Original Investigation
+
+Effect of HFNC vs CPAP Therapy on Liberation From Respiratory Support in Acutely Ill Children
+
+164
+
+through devices and interfaces already used as part of routine care at sites. For both groups, the fraction of inspired oxygen (FIO 2 ) was titrated to maintain peripheral oxygen saturation (SpO 2 ) of 92% or higher.
+
+In line with previous RCTs, 19-21 andtoreflectclinical practice, clinicians were permitted to switch from HFNC to CPAP (or vice versa) or escalate to other modes of noninvasive respiratory support or invasive mechanical ventilation if prespecifiedtreatmentfailurecriteriaweremet(FIO 2 ≥0.60,severe respiratory distress, patient discomfort). Because it was not possibletoblindcaregiverstotrialinterventions,biaswasminimized by specifying the same weaning criteria for HFNC and CPAP, the same number of weaning steps, minimum twicedailyclinicalevaluationstoassessprogressionthroughthetrial algorithm, and use of an online training package to strengthen protocol adherence.
+
+Study Outcomes
+
+Theprimaryoutcomewastimefromrandomizationtoliberation from respiratory support, defined as the start of the 48hour period during which a participant was free from all respiratory support (invasive or noninvasive), excluding supplemental oxygen.
+
+Secondaryoutcomesincludedmortalityatcriticalcareunit discharge; rate of intubation at 48 hours; durations of critical care unit and acute hospital stay; patient comfort, assessed usingtheCOMFORTBehaviorScale 22 ;sedationuseduringnoninvasive respiratory support; and parental stress at or around thetimeofconsent,measuredusingtheParentalStressorScale: Pediatric Intensive Care Unit. 23 Mortality at 60 and 180 days andquality-of-life and cost-effectiveness outcomes are not reported in this article. Adverse events were monitored and recorded up to 48 hours after liberation from respiratory support. The data collection schedule is shown in eTable 1 in Supplement 2.
+
+Sample Size Calculation
+
+It was estimated that 508 observed events would achieve 90% power with a 1-sided type I error rate of 2.5% to exclude the prespecified noninferiority margin of a hazard ratio of 0.75. In the pilot RCT, a hazard ratio of 0.75 corresponded to approximately a median 16-hour increase in time to liberation for HFNC. 13 Clinical membersandtheparentrepresentativeonthe trial team agreed that this was the maximum clinically acceptable difference between HFNC and CPAP. To account for censoringfromdeathortransferandrefusalorwithdrawalofconsent and to retain sufficient power for a per-protocol analysis, thetargetsamplesizewassetat600patients.Asingleplanned interim analysis for safety using unadjusted log-rank tests for superiority of the primary end point (using a Peto-Haybittle stopping rule of P < .001, 2-sided) and for all-cause mortality to day 60 ( P < .05, 2-sided) was carried out after recruitment and follow-up to day 60 of 300 patients.
+
+Statistical Analysis
+
+Analyses of the primary and secondary outcomes were performedaccordingtorandomizationgroupinallconsentedpatients who commenced any respiratory support, invasive or
+
+JAMA July 12, 2022 Volume 328, Number 2
+
+(Reprinted)
+
+noninvasive, following randomization (primary analysis set) and in all consented patients who met the eligibility criteria and commenced the randomized treatment (per-protocol analysis set). Agreement of results from both analyses was requiredtoconcludenoninferiority. 24 Analysesfollowedaprespecified statistical analysis plan published before trial recruitment was completed (Supplement 1).
+
+The primary analysis was performed using Cox regression to calculate hazard ratios with 1-sided 97.5% CIs, adjusted for the prespecified baseline covariates of age (<12 months vs ≥12 months); SpO 2:FIO 2 ratio; severity of respiratorydistress(severevsmildormoderate);comorbidities(none vs neurological/neuromuscular vs other); reason for admission (bronchiolitis vs other respiratory [airway problem, asthma/wheeze,oranyotherrespiratoryreason]vscardiacvs other [neurological, sepsis/infection, any other reason]); receipt of noninvasive respiratory support at randomization (yes/no); and site (treated as a random factor using shared frailty). Patients were censored either at time of last known respiratory support (for those who withdrew consent or were discharged while still receiving respiratory support) or at time of death (if death occurred prior to liberation from respiratory support). The level of missingness of baseline covariates was assessed, and where necessary missing values were replaced using multivariable imputation using chained equations. The assumption of proportional hazards was assessed visually and by evaluating a Cox model with a timedependent covariate. As the Kaplan-Meier curves of time to liberation appeared to cross between days 5 and 6, an additional post hoc test of proportionality (using Schoenfeld residuals) was performed, which did not indicate any significant violation of the assumption of proportional hazards ( P = .46). Comparison of Kaplan-Meier curves with Cox predictions showed good agreement between actual and predicted time to liberation for both treatment groups. Highflow nasal cannula therapy was considered noninferior to CPAP if the bound of the 1-sided 97.5% CI for the adjusted hazard ratio was greater than 0.75 in both the primary analysis set and the per-protocol analysis set.
+
+All secondary outcomes were evaluated for statistical superiority using a 2-sided significance threshold of P = .05. Binary outcomes were reported as unadjusted absolute risk reductions and odds ratios and as adjusted odds ratios calculated using multilevel logistic regression. Continuous outcomes were reported as unadjusted mean differences (with 95% bootstrapped CIs) and as adjusted differences calculated using linear regression. All adjusted effect estimates were adjusted for the same baseline covariates as defined for the primary analysis. Because of the potential for type I error due to multiple comparisons, findings for analyses of secondary end points should be interpreted as exploratory.
+
+Prespecified subgroup analyses of the primary outcome were conducted testing interactions for age, SpO 2 :FIO 2 ratio, severity of respiratory distress, comorbidities, reason for admission, and receiving vs not receiving noninvasive respiratory support at randomization.
+
+Planned sensitivity analyses included a repeat of the primary analysis using alternative durations: from start of respiratorysupporttoliberationfromrespiratorysupport;from randomization to start of weaning; and from randomization to meeting weaning criteria. A post hoc analysis was performed to assess the effect of patients who did not start any jama.com respiratory support by including them in a sensitivity analysis of the primary end point that assigned them to a nominal 2 hours of respiratory support.
+
+© 2022 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Southern Medical University, li bai on 09/08/2026
+
+jama.com
+
+[DOCLING_PAGE 4]
+
+Figure 1. Participant Flow in the FIRST-ABC Step-Up Trial
+
+18 976
+
+Patients admitted to pediatric intensive
+
+care/high-dependency units assessed
+
+3825
+
+Met inclusion criteria
+
+15 151
+
+Excluded (did not meet inclusion criteria)
+
+14 537
+
+Did not require noninvasive respiratory support for an acute illness
+
+125
+
+Younger than 36 weeks' corrected gestational age or older than 16 years
+
+489
+
+Both (did not meet age criteria and did not require support)
+
+600
+
+Randomized
+
+301
+
+Randomized to receive HFNC
+
+300
+
+Included in baseline characteristic reports
+
+1
+
+Request for all trial data to be removed
+
+3225
+
+Excluded
+
+2376
+
+Met ≥1 exclusion criteria a
+
+1085
+
+Received HFNC or CPAP for >2 hours in prior 24 hours
+
+509
+
+Receiving home noninvasive ventilation prior to admission
+
+393
+
+Clinician decision to start form of noninvasive respiratory
+
+support other than HFNC or CPAP
+
+275
+
+Had tracheostomy in place
+
+101
+
+Required immediate intubation and invasive ventilation
+
+84
+
+Previously recruited to FIRST-ABC master protocol
+
+38
+
+Had 'not for intubation' order or other limitation
+
+of critical care in place
+
+37
+
+Had mid or craniofacial anomalies (unrepaired cleft palate,
+
+choanal atresia) or recent craniofacial surgery
+
+16
+
+Had untreated air leak (pneumothorax/pneumomediastinum)
+
+849
+
+Were eligible but did not undergo randomization
+
+438
+
+Missed or identified too late
+
+325
+
+Clinical decision b
+
+50
+
+Research site lacked sufficient HFNC/CPAP devices
+
+17
+
+Parental decision
+
+3
+
+COVID-19 restrictions
+
+1
+
+Language barrier
+
+15
+
+No reason provided
+
+295
+
+Started respiratory support (primary analysis set)
+
+290
+
+Started allocated treatment
+
+(per-protocol analysis set)
+
+3
+
+Started CPAP
+
+1
+
+Started other noninvasive support
+
+1
+
+Started invasive mechanical ventilation
+
+5
+
+Did not start respiratory support
+
+281
+
+Had evaluable time to liberation from
+
+respiratory support
+
+14
+
+Time to liberation censored
+
+7
+
+Refusal of consent retrospectively
+
+4
+
+Died prior to liberation from respiratory support
+
+2
+
+Discharged home with respiratory support
+
+1
+
+Transferred to other critical care unit with
+
+respiratory support
+
+299
+
+Randomized to receive CPAP
+
+295
+
+Included in baseline characteristic reports
+
+4
+
+Request for all trial data to be removed
+
+278
+
+Started respiratory support (primary analysis set)
+
+246
+
+Started allocated treatment
+
+(per-protocol analysis set)
+
+25
+
+Started HFNC
+
+4
+
+Started other noninvasive support
+
+3
+
+Started invasive mechanical ventilation
+
+17
+
+Did not start respiratory support
+
+264
+
+Had evaluable time to liberation from
+
+respiratory support
+
+14
+
+Time to liberation censored
+
+5
+
+Refusal of consent retrospectively
+
+4
+
+Died prior to liberation from respiratory support
+
+4
+
+Discharged home with respiratory support
+
+1
+
+Transferred to other critical care unit with
+
+respiratory support
+
+CPAP indicates continuous positive airway pressure; HFNC, high-flow nasal
+
+cannula.
+
+a
+
+Numbers meeting individual exclusion criteria do not add to the total because
+
+some patients met more than 1 criterion.
+
+b
+
+Amongexclusions based on clinical decision, 167 were due to preference for
+
+HFNC; 54 were due to preference for CPAP; 73 were due to other reasons
+
+(main other clinical reasons were unavailability of a pediatric intensive care
+
+bed [precluding initiation of CPAP if randomized to CPAP, whereas HFNC could
+
+be delivered on the ward; n = 14], concerns regarding availability of suitable
+
+masks for CPAP [n = 7], cardiac disease [n = 7], and concerns regarding
+
+wheeze and unsuitability of CPAP [n = 4]); and 31 were due to reasons
+
+not specified.
+
+Effect of HFNC vs CPAP Therapy on Liberation From Respiratory Support in Acutely Ill Children
+
+Original Investigation
+
+Research
+
+Stata/MP version 16.1 (StataCorp) was used for all analyses.
+
+(Reprinted)
+
+JAMA July 12, 2022 Volume 328, Number 2
+
+© 2022 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Southern Medical University, li bai on 09/08/2026
+
+165
+
+[DOCLING_PAGE 5]
+
+Research Original Investigation
+
+Effect of HFNC vs CPAP Therapy on Liberation From Respiratory Support in Acutely Ill Children
+
+166
+
+Table 1. Baseline Characteristics of the Primary Analysis Population
+
+[DOCLING_TABLE rows=36 columns=3]
+| Characteristics | High-flow nasal cannula (n = 295) | Continuous positive airway pressure (n = 278) |
+| Age, median (IQR), mo | 10 (2-31) | 9 (1-27) |
+| Age, No. (%) |  |  |
+| ≤28 d | 31 (10.5) | 37 (13.3) |
+| 29-180 d | 87 (29.5) | 80 (28.8) |
+| 181-364 d | 49 (16.6) | 43 (15.5) |
+| 1 y | 41 (13.9) | 44 (15.8) |
+| 2-4 y | 40 (13.5) | 27 (9.7) |
+| 5-10 y | 29 (9.8) | 26 (9.4) |
+| 11-15 y | 18 (6.1) | 21 (7.6) |
+| Sex, No. (%) |  |  |
+| Female | 116 (39.3) | 110 (39.6) |
+| Male | 179 (60.7) | 168 (60.4) |
+| No. (%) with ≥1 comorbidity | 143 (48.5) | 128 (46.2) |
+| Main reason for admission, No. (%) | n = 295 | n = 277 |
+| Bronchiolitis | 143 (48.5) | 138 (49.6) |
+| Other respiratory condition | 55 (18.6) | 57 (20.5) |
+| Asthma/wheeze | 31 (10.5) | 20 (7.2) |
+| Sepsis/infection | 24 (8.1) | 23 (8.3) |
+| Cardiac | 17 (5.8) | 12 (4.3) |
+| Upper airway problem | 15 (5.1) | 12 (4.3) |
+| Neurological | 4 (1.4) | 2 (0.7) |
+| Other | 6 (2.0) | 13 (4.7) |
+| Receiving noninvasive respiratory support at randomization, No. (%) | 66 (22.4) | 65 (23.4) |
+| Clinical characteristics at randomization a | n = 244 | n = 227 |
+| Respiratory distress, No. (%) b |  |  |
+| None | 14 (4.7) | 12 (4.3) |
+| Mild | 47 (15.9) | 39 (14.0) |
+| Moderate | 140 (47.5) | 136 (48.9) |
+| Severe | 43 (14.6) | 40 (14.4) |
+| Respiratory rate, median (IQR), /min | 48 (38-60) [n = 286] | 49 (39-60) [n = 272] |
+| Peripheral oxygen saturation, median (IQR),% | 97 (94-99) [n = 285] | 97 (94-99) [n = 275] |
+| Fraction of inspired oxygen, median (IQR) | 0.30 (0.21-0.48) [n = 288] | 0.30 (0.21-0.44) [n = 271] |
+| Ratio of peripheral oxygen saturation to fraction of inspired oxygen, median (IQR) | 313 (198-424) [n = 287] | 330 (218-438) [n = 271] |
+| Heart rate, median (IQR), /min | 155 (140-171) [n = 291] | 154 (140-173) [n = 272] |
+| COMFORT Behavior Scale score, mean (SD) c | 16.2 (4.7) [n = 79] | 15.3 (5.5) [n = 60] |
+[/DOCLING_TABLE]
+
+Results
+
+Trial Sites and Patients
+
+From August 10, 2019, to November 7, 2021, 18 976 patients admitted were screened in the 24 participating critical care units, of whom 1449 were deemed eligible for the trial. Six hundred children (41%) were randomized; consent was in place for 595 children. Median time from randomization to consent was 2 calendar days. Characteristics of the participating critical care units are shown in eTable 2 in Supplement 2. Recruitment was paused twice at most sites due to the COVID-19 pandemic (eFigure 3 in Supplement 2). The primary analysis set consisted of 573 children in whom respiratory support was commenced (HFNC group, n = 295; CPAP group, n = 278) ( Figure 1 ). The randomized groups had simi-
+
+JAMA July 12, 2022 Volume 328, Number 2
+
+(Reprinted)
+
+a Data were recorded at or within 1 hour prior to randomization, except for COMFORT Behavior Scale score, which was the last recorded value prior to randomization.
+
+b Respiratory distress was defined as mild (1 accessory muscle used, mild indrawing of subcostal and intercostal muscles, mild tachypnea, nogrunting); moderate (2 accessory muscles used, moderate indrawing of subcostal and intercostal muscles, moderate tachypnea, occasional grunting); or severe (use of all accessory muscles, severe indrawing of subcostal and intercostal muscles, severe tachypnea, regular grunting). Data on severity of respiratory distress were missing for 102 children, 60% of whom were from 3 of the 24 sites.
+
+c COMFORTBehavior Scale scores range from 5 (most sedated) to 30 (least sedated). A mean value of 15 indicates a comfortable patient who is easily arousable and is not agitated. Data on COMFORT Behavior Scale scores were missing for 434 children, mainly because some sites did not collect COMFORT Behavior Scale scores when children were randomized prior to critical care unit admission.
+
+lar baseline characteristics ( Table 1 ). In baseline variables that were used for the adjusted analysis, numbers of patients with missing data were low (range, 0-15) for all variables except for level of respiratory distress, for which data were missing for 102 patients. Baseline characteristics of children who were and were not receiving respiratory support at randomization are shown in eTable 3 in Supplement 2. The per-protocol analysis included 533 children (HFNC group, n = 288; CPAP group, n = 245) (eFigure 4 in Supplement 2); baseline characteristics were similar to those in the primary analysis (eTable 4 in Supplement 2).
+
+Clinical Management
+
+In both groups, the allocated treatment was started in the majority of children whostartedrespiratorysupport(HFNCgroup: 290/295 [98.3%]; CPAP group: 246/278 [88.5%]). High-flow Abbreviations: AD, absolute difference; CPAP, continuous positive airway pressure; HFNC, high-flow nasal cannula; HR, hazard ratio; MD, mean difference; OR, odds ratio.
+
+© 2022 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Southern Medical University, li bai on 09/08/2026
+
+jama.com
+
+[DOCLING_PAGE 6]
+
+Effect of HFNC vs CPAP Therapy on Liberation From Respiratory Support in Acutely Ill Children
+
+[DOCLING_TABLE rows=30 columns=6]
+|  |  |  |  | Effect estimate (95% CI) | Effect estimate (95% CI) |
+| Outcomes | HFNC | CPAP | Difference (95% CI) | Unadjusted a | Adjusted b |
+| Primary analysis |  |  |  |  |  |
+| Total No. analyzed | 295 | 278 |  |  |  |
+| Primary outcome |  |  |  |  |  |
+| Time from randomization to liberation from respiratory support, median (95% CI), h | 52.9 (46.0-60.9) | 47.9 (40.5-55.7) | AD, -5.0 (-10.1 to 17.4) | HR, 1.03 (0.87-1.22) | HR, 1.03 (0.86 to 1.22) |
+| Secondary outcomes |  |  |  |  |  |
+| Mortality at critical care unit discharge, No./total (%) | 5/292 (1.7) | 4/274 (1.5) | AD, 0.3 (-1.8 to 2.3) | OR, 1.18 (0.31-4.43) | OR, 1.22 (0.32 to 4.62) |
+| Intubation at 48 h, No./total (%) | 45/292 (15.4) | 44/276 (15.9) | AD, -0.5 (-6.5 to 5.5) | OR, 0.96 (0.61-1.51) | OR, 0.99 (0.61 to 1.62) |
+| Duration of critical care unit stay, mean (SD), d | 5.0 (8.2) [n = 288] | 7.4 (18.9) [n = 270] | MD, -2.4 (-4.8 to 0.0) |  | MD, -3.0 (-5.1 to -1.0) |
+| Duration of acute hospital stay, mean (SD), d | 13.8 (26.8) [n = 279] | 19.5 (47.7) [n = 260] | MD, -5.7 (-12.2 to 0.8) |  | MD, -7.6 (-13.2 to -1.9) |
+| COMFORT Behavior Scale score, mean (SD) c |  |  |  |  |  |
+| While receiving randomized treatment | 14.1 (3.6) [n = 194] | 14.4 (4.8) [n = 142] | MD, -0.4 (-1.3 to 0.5) |  | MD, -0.6 (-1.4 to 0.2) |
+| While receiving HFNC or CPAP | 13.9 (3.5) [n = 201] | 13.7 (3.7) [n = 169] | MD, 0.2 (-0.6 to 0.9) |  | MD, 0.2 (-0.5 to 0.8) |
+| Use of sedation during noninvasive respiratory support, No./total (%) | 81/292 (27.7) | 97/262 (37.0) | AD, -9.3 (-17.1 to -1.5) | OR, 0.65 (0.46-0.93) | OR, 0.59 (0.39 to 0.88) |
+| Parental stress score at time of consent, mean (SD) d | 1.5 (0.8) [n = 180] | 1.6 (0.7) [n = 185] | MD, 0.0 (-0.2 to 0.1) |  | MD, -0.1 (-0.2 to 0.1) |
+| Per-protocol analysis |  |  |  |  |  |
+| Total No. analyzed | 288 | 245 |  |  |  |
+| Primary outcome |  |  |  |  |  |
+| Time from randomization to liberation from respiratory support, median (95% CI), h | 52.7 (45.0-60.1) | 45.4 (40.2-53.7) | AD, 7.3 (-7.3 to 22.2) | 1.05 (0.88-1.25) | 1.03 (0.86 to 1.23) |
+| Secondary outcomes |  |  |  |  |  |
+| Mortality at critical care unit discharge, No./total (%) | 5/285 (1.8) | 3/243 (1.2) | AD, 0.5 (-1.5 to 2.6) | OR, 1.43 (0.34-6.04) | OR, 1.46 (0.35 to 6.22) |
+| Intubation at 48 h, No./total (%) | 43/285 (15.1) | 36/243 (14.8) | AD, 0.3 (-5.8 to 6.4) | OR, 1.02 (0.63-1.65) | OR, 1.07 (0.64 to 1.81) |
+| Duration of critical care unit stay, mean (SD), d | 4.7 (7.3) [n = 281] | 7.7 (19.9) [n = 242] | MD, -3.0 (-5.7 to -0.3) |  | MD, -3.5 (-5.6 to -1.4) |
+| Duration of acute hospital stay, mean (SD), d | 13.7 (26.9) [n = 272] | 20.8 (50.3) [n = 231] | MD, -7.1 (-14.5 to 0.3) |  | MD, -8.8 (-14.8 to -2.8) |
+| COMFORT Behavior Scale score, mean (SD) c |  |  |  |  |  |
+| While receiving randomized treatment | 14.1 (3.6) [n = 193] | 14.5 (4.7) [n = 139] | MD, -0.4 (-1.3 to 0.5) |  | MD, -0.6 (-1.4 to 0.2) |
+| While receiving HFNC or CPAP | 13.9 (3.5) [n = 197] | 13.6 (3.6) [n = 157] | MD, 0.3 (-0.5 to 1.0) |  | MD, 0.2 (-0.4 to 0.9) |
+| Use of sedation during noninvasive respiratory support, No./total (%) | 80/286 (28.0) | 93/237 (39.2) | AD, -11.3 (-19.4 to -3.2) | OR, 0.60 (0.42-0.87) | OR, 0.54 (0.35 to 0.81) |
+| Parental stress score at time of consent, mean (SD) d | 1.5 (0.8) [n = 174] | 1.6 (0.7) [n = 167] | MD, 0.0 (-0.2 to 0.1) |  | MD, 0.0 (-0.2 to 0.1) |
+[/DOCLING_TABLE]
+
+a Unadjusted effect estimate is not separately reported for some rows because it is the mean difference as reported in the 'Difference' column.
+
+b Adjusted for prebaseline factors of age (<12 months vs ≥ 12 months), SpO 2 :FIO 2 ratio, comorbidities (none vs neurological/neuromuscular vs other), reason for admission (bronchiolitis vs other respiratory vs cardiac vs other reason),
+
+nasal cannula flow rate and CPAP pressure delivered during treatment were as per the trial algorithms (eFigures 5 and 6 in Supplement2),aswereswitch,escalation,andweaningevents (eTable 5 in Supplement 2). A range of devices and interfaces
+
+jama.com respiratory support at randomization (yes vs no), severity of respiratory distress (severe vs mild or moderate), and site (using shared frailty).
+
+c COMFORTBehavior Scale scores were recorded every 6 hours until liberation from respiratory support and were aggregated to patient level using the median of all recorded scores.
+
+d Parental Stressor Scale: Pediatric Intensive Care Unit scores range from 1 (not stressful) to 5 (extremely stressful). A mean value of 1.6 indicates a low level of parental stress at the time of completing the questionnaire.
+
+were used to deliver HFNC and CPAP (eTable 6 in Supplement 2). Treatment failure requiring either a switch or escalation occurred in 96 of 290 children (33.1%) in the HFNC group and in 131 of 246 children (53.3%) in the CPAP group
+
+(Reprinted)
+
+JAMA July 12, 2022 Volume 328, Number 2
+
+Original Investigation Research
+
+© 2022 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Southern Medical University, li bai on 09/08/2026
+
+167
+
+[DOCLING_PAGE 7]
+
+Research Original Investigation
+
+Effect of HFNC vs CPAP Therapy on Liberation From Respiratory Support in Acutely Ill Children
+
+168
+
+Figure 2. Time to Liberation From Respiratory Support in the Primary Analysis and Per-Protocol Analysis Populations
+
+0
+
+No. at risk
+
+0
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+100
+
+80
+
+Patients liberated from support, %
+
+Days after randomization
+
+60
+
+40
+
+20
+
+1
+
+CPAP
+
+HFNC
+
+Primary analysis set
+
+A
+
+0
+
+No. at risk
+
+0
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+100
+
+80
+
+Patients liberated from support, %
+
+Days after randomization
+
+60
+
+40
+
+20
+
+1
+
+CPAP
+
+HFNC
+
+Per-protocol analysis set
+
+B
+
+CPAP
+
+CPAP
+
+HFNC
+
+HFNC
+
+295
+
+229
+
+155
+
+105
+
+75
+
+57
+
+46
+
+31
+
+29
+
+22
+
+20
+
+278
+
+210
+
+135
+
+92
+
+67
+
+55
+
+48
+
+39
+
+35
+
+31
+
+29
+
+290
+
+225
+
+152
+
+102
+
+72
+
+54
+
+43
+
+29
+
+27
+
+20
+
+18
+
+246
+
+186
+
+119
+
+82
+
+60
+
+49
+
+43
+
+36
+
+32
+
+28
+
+27
+
+CPAPindicates continuous positive airway pressure; HFNC, high-flow nasal cannula. Median observation time in the primary analysis set for the HFNC group was 50.0 (IQR, 25.5-96.6) hours and in the CPAPgroupwas44.8(IQR, 24.3-92.9) hours; median observation time in the per-protocol analysis set for the HFNC group was 49.9 (IQR, 25.4-95.8) hours and in the CPAP group was 44.7 (IQR, 24.3-90.0) hours.
+
+(eFigure 7 in Supplement 2) after a median of 6.1 hours and 4.5 hours following randomization, respectively. More patients switched from CPAP to HFNC (76/246 [30.9%]) than from HFNCtoCPAP(58/290 [20.0%]). Reasons for switching were mainlyrelatedtoclinical deterioration in the HFNC group and to patient discomfort in the CPAP group (eTable 7 in Supplement 2). Children who switched from CPAP to HFNC for discomfort reasons were older compared with children who did not switch (median age, 12 months vs 3 months).
+
+Primary Outcome
+
+The median time from randomization to liberation from respiratory support was 52.9 hours (95% CI, 46.0-60.9 hours) for HFNC and 47.9 hours (95% CI, 40.5-55.7 hours) for CPAP (absolute difference, 5.0 hours [95% CI, -10.1 to 17.4 hours];
+
+JAMA July 12, 2022 Volume 328, Number 2
+
+(Reprinted)
+
+adjusted hazard ratio, 1.03; 1-sided 97.5% CI, 0.86-∞ ). The bound of the 1-sided 97.5% CI of 0.86 fell within the prespecified noninferiority margin. Time to liberation for HFNC and CPAP based on whether treatment failure occurred or not is shown in eFigure 8 in Supplement 2. A summary of the treatments provided over time is shown in eFigure 9 in Supplement 2.
+
+Similar results were seen in the per-protocol analysis ( Table 2 and Figure 2 ). In prespecified subgroup analyses, there was a significant difference in effect between patients who were receiving respiratory support at randomization, in whom CPAP was more effective, and those who were not, in whom CPAP was less effective ( Figure 3 ). Planned sensitivity analyses did not alter the interpretation of the primary analyses (eTable 8 in Supplement 2).
+
+© 2022 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Southern Medical University, li bai on 09/08/2026
+
+jama.com
+
+[DOCLING_PAGE 8]
+
+Effect of HFNC vs CPAP Therapy on Liberation From Respiratory Support in Acutely Ill Children
+
+Original Investigation Research
+
+[DOCLING_TABLE rows=28 columns=6]
+| Subgroup | Events/ person-days | Hazard ratio (95% CI) | Favors CPAP | Favors HFNC | P value |
+| Age, mo |  |  |  |  | .59 |
+| <12 | 317/1560 | 1.07 (0.85-1.34) |  |  |  |
+| ≥12 | 228/1357 | 0.97 (0.74-1.27) |  |  |  |
+| Respiratory distress |  |  |  |  | .63 |
+| Not severe | 372/1700 | 1.05 (0.86-1.28) |  |  |  |
+| Severe | 81/379 | 0.92 (0.58-1.48) |  |  |  |
+| SpO 2 :FIO 2 ratio by quintile |  |  |  |  | .50 |
+| ≤184 | 104/666 | 0.89 (0.60-1.33) |  |  |  |
+| >184 to ≤250 | 122/396 | 0.90 (0.62-1.31) |  |  |  |
+| >250 to ≤366 | 100/764 | 1.24 (0.82-1.87) |  |  |  |
+| >366 to ≤452 | 106/431 | 1.13 (0.75-1.68) |  |  |  |
+| >452 | 102/570 | 1.06 (0.71-1.58) |  |  |  |
+| Comorbidities |  |  |  |  | .55 |
+| None | 297/712 | 0.99 (0.78-1.26) |  |  |  |
+| Neurological/neuromuscular | 77/411 | 0.88 (0.55-1.39) |  |  |  |
+| Other | 170/1794 | 1.17 (0.86-1.61) |  |  |  |
+| Reason for admission |  |  |  |  | .41 |
+| Bronchiolitis | 275/793 | 0.96 (0.76-1.23) |  |  |  |
+| Other respiratory | 180/1245 | 1.08 (0.79-1.46) |  |  |  |
+| Cardiac | 26/569 | 1.91 (0.87-4.21) |  |  |  |
+| Other reason | 63/311 | 0.91 (0.55-1.51) |  |  |  |
+| Receiving support at randomization |  |  |  |  | .03 |
+| No | 417/2535 | 1.14 (0.94-1.40) |  |  |  |
+| Yes | 128/382 | 0.73 (0.51-1.04) |  |  |  |
+| Overall | 545/2918 | 1.03 (0.86-1.22) |  |  |  |
+|  |  | 0.5 |  |  |  |
+|  |  |  |  | Hazard ratio (95% CI) |  |
+[/DOCLING_TABLE]
+
+Secondary Outcomes
+
+Secondary outcomes are shown in Table 2 and in eTable 9 in Supplement2.Therateofintubationwithin48hourswasnot significantlydifferentbetweenthegroups(HFNCgroup:15.4%; CPAP group: 15.9%; adjusted odds ratio, 0.99; 95% CI, 0.611.62). Sedation use while receiving HFNC or CPAP was lower in the HFNC group (27.7% vs 37.0% for CPAP; adjusted odds ratio, 0.59; 95% CI, 0.39-0.88). Duration of critical care unit staywassignificantlyshorterintheHFNCgroup(mean,5days vs7.4daysforCPAP;adjustedmeandifference,-3.1days[95% CI, -5.1 to -1.0 days]). The mean parental stress score was low in both groups (HFNC group: 1.5; CPAP group: 1.6).
+
+Post Hoc Analysis
+
+Theposthocanalysisincludingpatientswhodidnotstartany respiratory support also confirmed the noninferiority of HFNC (eTable 9 and eFigure 10 in Supplement 2).
+
+Adverse Events
+
+Thenumberofchildrenwith1ormoreadverseeventswaslow in both groups, occurring in 24 of 295 children (8.1%) in the HFNC group and in 39 of 278 (14.0%) in the CPAP group ( P = .03; see eTable 10 in Supplement 2). Nasal trauma was more common in the CPAP group (6.5% vs 2.0% for HFNC). Four serious adverse events, all cardiac arrests (HFNC group: n = 1; CPAP group: n = 3), were reported, none judged to be related to the randomized intervention.
+
+jama.com
+
+Discussion
+
+In this multicenter pragmatic randomized clinical trial, firstlineuseofHFNCinacutelyillchildrenadmittedtoacriticalcare unitandassessedtorequirenoninvasiverespiratorysupportmet the criterion for noninferiority compared with CPAP for time from randomization to liberation from respiratory support.
+
+Five RCTs have previously compared HFNC with CPAP in acutely ill children, 4 in infants with bronchiolitis (n = 285) and 1 in a resource-limited setting in children with pneumonia (n = 158). 21,25-28 The current study was a pragmatic trial conducted in a heterogeneous group of acutely ill children. While bronchiolitis represented nearly half of the trial population, other respiratory diseases, asthma/wheeze, cardiac conditions, and sepsis were also included. Nearly 63% of children had moderate or severe respiratory distress at baseline and 42% had an SpO 2:FIO 2 ratio of less than 265, consistent with an oxygenation deficit usually seen in cases of pediatric acute respiratory distress syndrome. 20,29 About 23% of enrolled children had already received noninvasive respiratory support prior to randomization, most commonly HFNC, reflecting its frequent use in acute care prior to critical care admission. Previous RCTs in bronchiolitis used 'treatment failure' as the primary outcome; however, there has been criticism that it does not reflect patient outcomes. 30-32 In this trial, time to liberation from respiratory support was chosen
+
+(Reprinted)
+
+CPAP indicates continuous positive airway pressure; FIO 2 , fraction of inspired oxygen; HFNC, high-flow nasal cannula; SpO 2 , peripheral oxygen saturation. P values test for an interaction between the subgroup categories and the effect of CPAP vs HFNCin the adjusted Cox regression model. Dashed vertical line indicates margin of noninferiority, 0.75.
+
+JAMA July 12, 2022 Volume 328, Number 2
+
+© 2022 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Southern Medical University, li bai on 09/08/2026
+
+169
+
+[DOCLING_PAGE 9]
+
+Research Original Investigation
+
+Effect of HFNC vs CPAP Therapy on Liberation From Respiratory Support in Acutely Ill Children
+
+170
+
+as a sensitive measure of both intubation and prolonged use of noninvasive respiratory support. This approach was supported by previous qualitative work, 33,34 as well as pretrial consultation, which indicated that being free of any 'breathing machine' was a key priority for parents and guardians.
+
+The main trial finding of noninferiority of first-line use of HFNC in acutely ill children was consistent across the primary and per-protocol analyses. It is, however, different from the findings of the FIRST-ABC Step-Down RCT, in which HFNC was not found to be noninferior to CPAP in children extubated after invasive mechanical ventilation. 15 One explanation may be the higher rate of treatment failure during use of CPAP in this step-up trial (53.3% vs 33.7% in the step-down RCT); more children were switched from CPAP to HFNC, mainly because of patient discomfort (30.9% vs 12.3% in the step-down RCT), which may have minimized any differences between the groups. In contrast, the proportion of children switching from HFNC to CPAP was similar in both trials (20.0% vs 23.5%). Only about 25% of the CPAP group were still receiving CPAP 24 hours after commencing treatment, whereas nearly 50% of the HFNC group were still receiving HFNC. The wide range of devices and interfaces used to provide CPAP may have resulted in ineffective delivery and greater patient asynchrony, particularly in older children, in whom a switch from CPAP to HFNC because of discomfort was more common.
+
+The main trial finding of noninferiority needs to be interpreted in conjunction with the findings of the secondary outcomes. There was a statistically significant difference in sedation use between the groups (27.7% for HFNC vs 37.0% for CPAP). However, COMFORT Behavior Scale scores were similar in the HFNC and CPAP groups. There was no difference in mortality or rate of intubation between the 2 groups. Reasons for the statistically significant differences in mean durations of critical care unit and hospital stay (longer for the CPAP group) are unclear. Nasal trauma was more common in the CPAP group. Subgroup analysis showed that the effect of HFNC differed between children who were and were not receiving respiratory support at randomization, with a point estimate consistent with inferiority of HFNC for those already receiving support.
+
+This trial has several strengths. First, to our knowledge, it is the largest RCT comparing 2 commonly used modes of non-
+
+ARTICLE INFORMATION
+
+Accepted for Publication: May23, 2022. Published Online: June 16, 2022.
+
+doi:10.1001/jama.2022.9615
+
+Author Affiliations: Section of Anaesthetics, Pain Medicine, and Intensive Care, Department of Surgery and Cancer, Faculty of Medicine, Imperial College London, London, England (Ramnarayan); Children's Acute Transport Service, Great Ormond Street Hospital for Children NHS Foundation Trust, London, England (Ramnarayan); Clinical Trials Unit, Intensive Care National Audit and Research Centre, London, England (Richards-Belle, Drikite, Saull, Orzechowska, Darnell, Thomas, Mouncey, Harrison, Rowan); Department of Health Services Research and Policy, London School of Hygiene and Tropical
+
+JAMA July 12, 2022 Volume 328, Number 2
+
+invasiverespiratorysupport,withthepotentialtoinformclinical practice. Second, the age of recruited children was representative of contemporary UK practice: in 2018, 50.5% of patients admitted to UK pediatric intensive care units receiving respiratory support were infants younger than 1 year (56% in this trial). 1 Third, there was good adherence to trial algorithms. Fourth, several sensitivity analyses and a post hoc analysis were conducted to test the robustness of the primary analysis.
+
+Limitations
+
+This trial has several limitations. First, it was not possible to blindclinicianstotheallocatedtreatment,whichmayhaveinfluenced decisions to switch or escalate treatment or to start respiratorysupportatall.Thiswashighlightedinthehighrate of switching from CPAP to HFNC for perceived patient discomfort, and a larger than anticipated number of patients in the CPAP group who did not start any respiratory support afterrandomization.Second,thepragmaticinclusioncriteriaresulted in a heterogeneous population of acutely ill children, mostly younger than 2 years, and although prespecified subgroup analyses based on age, diagnosis, and receipt of prior noninvasive respiratory support are reported, there may be otherunidentifiedsubgroups(forexample,childrenaged≥10 years) for whom one treatment is more effective over another.Third,nearly1000childrenwhohadreceivedmorethan 2 hours of prior noninvasive respiratory support were excludedfromthetrialbecauseHFNCisincreasinglystartedoutside the critical care setting. Fourth, several eligible patients werenotrecruitedowingtoclinicalpreference,andsomechildren (especially older children randomized to CPAP) did not undergo any respiratory support after randomization, which createdanimbalancebetweenthegroups. 35 Fifth,becausedata related to feeding were not collected as part of the trial, it was notpossibletoassesstheeffectoffeedingonpatientcomfort.
+
+Conclusions
+
+Among acutely ill children assessed to require noninvasive respiratory support and admitted to a pediatric critical care unit, HFNC compared with CPAP met the criterion for noninferiority for time to liberation from respiratory support.
+
+Medicine, London, England (Sadique, Grieve); parent representative, Sussex, England (Lester); Birmingham Children's Hospital, Birmingham Women's and Children's NHS Foundation Trust, Birmingham, England (Morris); Institute of Applied Health Research, University of Birmingham, Birmingham, England (Morris); School of Health and Society, University of Salford, Salford, England (Tume); Paediatric Intensive Care Unit, Bristol Royal Hospital for Children, University Hospitals Bristol and Weston NHS Foundation Trust, Bristol, England (Davis); Paediatric Intensive Care Unit, Great Ormond Street Hospital for Children NHS Foundation Trust and NIHR Biomedical Research Centre, London, England (Peters); University College London Great Ormond Street Institute of Child Health, London, England
+
+(Reprinted)
+
+(Peters); Leeds Institute for Data Analytics, School of Medicine, University of Leeds, Leeds, England (Feltbower).
+
+Author Contributions: MsThomasandDrHarrison had full access to all of the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis.
+
+Concept and design: Ramnarayan, Sadique, Lester, Morris, Tume, Davis, Peters, Grieve, Mouncey, Harrison, Rowan.
+
+Acquisition, analysis, or interpretation of data: Ramnarayan, Richards-Belle, Drikite, Saull, Orzechowska, Darnell, Sadique, Tume, Davis, Peters, Feltbower, Grieve, Thomas, Mouncey, Harrison, Rowan.
+
+© 2022 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Southern Medical University, li bai on 09/08/2026
+
+jama.com
+
+[DOCLING_PAGE 10]
+
+Effect of HFNC vs CPAP Therapy on Liberation From Respiratory Support in Acutely Ill Children
+
+Original Investigation Research
+
+Drafting of the manuscript: Ramnarayan, Richards-Belle, Saull, Orzechowska, Lester, Tume,
+
+Davis, Peters, Thomas. Critical revision of the manuscript for important intellectual content: Richards-Belle, Drikite, Darnell, Sadique, Morris, Tume, Davis, Peters, Feltbower, Grieve, Mouncey, Harrison, Rowan. Statistical analysis: Orzechowska, Sadique, Feltbower, Grieve, Thomas. Obtained funding: Ramnarayan, Sadique, Peters, Grieve, Mouncey, Harrison, Rowan. Administrative, technical, or material support: Richards-Belle, Drikite, Saull, Darnell, Morris, Davis, Peters, Feltbower, Mouncey, Rowan. Supervision: Ramnarayan, Richards-Belle, Davis, Peters, Mouncey, Harrison, Rowan.
+
+Conflict of Interest Disclosures: Dr Ramnarayan reported receipt of personal fees from Fisher & Paykel Healthcare and Sanofi. No other disclosures were reported.
+
+Funding/Support: This trial was funded by the National Institute for Health and Care Research (NIHR) Health Technology Assessment Programme (project number 17/94/28). Great Ormond Street Hospital for Children NHS Foundation Trust was the trial sponsor.
+
+Role of the Funder/Sponsor: The NIHR approved the design of the study and monitored the conduct of the study. Neither the NIHR nor the Great Ormond Street Hospital for Children NHS Foundation Trust had any role in the collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; or decision to submit the manuscript for publication, and neither had the right to veto publication or control the decision regarding to which journal the manuscript was submitted.
+
+Group Information: The FIRST-ABC Step-Up RCT Investigators are listed in Supplement 3. Trial steering committee members included Carrol Gamble, PhD (chair, independent); Bronagh Blackwood, PhD (independent); Cormac Breatnach, MD, PhD (independent); Richard Jenkin (lay representative, independent); Duncan Young, DM (independent); Madeleine Wang (lay representative, independent); Jennifer Whitty, PhD (independent); Padmanabhan Ramnarayan, MD(nonindependent); and Paul Mouncey, MSc (nonindependent). Independent data monitoring and ethics committee members included Neal J. Thomas, MD, MSc (chair); Robinder Khemani, MD; and Clíona McDowell, MSc.
+
+Meeting Presentation: Presented at the Critical Care Reviews Meeting; June 16, 2022; Belfast, Northern Ireland.
+
+Data Sharing Statement: See Supplement 4. Additional Contributions: Wethank all of the trial participants and their families for giving their time to participate in the trial.
+
+REFERENCES
+
+1 . Paediatric Intensive Care Audit Network (PICANet). Annual Report 2020 . PICANet; 2020.
+
+2 . Kneyber MC, Zhang H, Slutsky AS. Ventilator-induced lung injury: similarity and differences between children and adults. AmJ Respir Crit Care Med . 2014;190(3):258-265. doi:10. 1164/rccm.201401-0168CP
+
+3 . Wolfler A, Calderini E, Iannella E, et al; Network of Pediatric Intensive Care Unit Study Group.
+
+jama.com Evolution of noninvasive mechanical ventilation use: a cohort study among Italian PICUs. Pediatr Crit Care Med . 2015;16(5):418-427. doi:10.1097/PCC. 0000000000000387
+
+4 . Smith A, França UL, McManus ML. Trends in the use of noninvasive and invasive ventilation for severe asthma. Pediatrics . 2020;146(4):e20200534. doi:10.1542/peds.2020-0534
+
+5 . Pelletier JH, Au AK, Fuhrman D, Clark RSB, Horvat C. Trends in bronchiolitis ICU admissions and ventilation practices: 2010-2019. Pediatrics . 2021;147(6):e2020039115. doi:10.1542/peds.2020039115
+
+6 . Clayton JA, Slain KN, Shein SL, Cheifetz IM. High flow nasal cannula in the pediatric intensive care unit. Expert Rev Respir Med . 2022;16(4):409-417. doi:10.1080/17476348.2022.2049761
+
+7 . Kawaguchi A, Garros D, Joffe A, et al. Variation in practice related to the use of high flow nasal cannula in critically ill children. Pediatr Crit Care Med . 2020;21(5):e228-e235. doi:10.1097/PCC.
+
+0000000000002258
+
+8 . Clayton JA, McKee B, Slain KN, Rotta AT, Shein SL. Outcomes of children with bronchiolitis treated with high-flow nasal cannula or noninvasive positive pressure ventilation. Pediatr Crit Care Med . 2019;20(2):128-135. doi:10.1097/PCC.
+
+0000000000001798
+
+9 . Schibler A, Pham TM, Dunster KR, et al. Reduced intubation rates for infants after introduction of high-flow nasal prong oxygen delivery. Intensive Care Med . 2011;37(5):847-852. doi:10.1007/ s00134-011-2177-5
+
+10 . Dafydd C, Saunders BJ, Kotecha SJ, Edwards MO. Efficacy and safety of high flow nasal oxygen for children with bronchiolitis: systematic review and meta-analysis. BMJ Open Respir Res . 2021;8(1):e000844. doi:10.1136/bmjresp-2020000844
+
+11 . Luo J, Duke T, Chisti MJ, Kepreotes E, Kalinowski V, Li J. Efficacy of high-flow nasal cannula vs standard oxygen therapy or nasal continuous positive airway pressure in children with respiratory distress: a meta-analysis. J Pediatr . 2019;215:199208. doi:10.1016/j.jpeds.2019.07.059
+
+12 . Kneyber MCJ, de Luca D, Calderini E, et al; Section Respiratory Failure of the European Society for Paediatric and Neonatal Intensive Care. Recommendations for mechanical ventilation of critically ill children from the Paediatric Mechanical Ventilation Consensus Conference (PEMVECC). Intensive Care Med . 2017;43(12):1764-1780. doi:10. 1007/s00134-017-4920-z
+
+13 . Ramnarayan P, Lister P, Dominguez T, et al; United Kingdom Paediatric Intensive Care Society Study Group (PICS-SG). First-Line Support for Assistance in Breathing in Children (FIRST-ABC): a multicentre pilot randomised controlled trial of high-flow nasal cannula therapy versus continuous positive airway pressure in paediatric critical care. Crit Care . 2018;22(1):144. doi:10.1186/s13054-0182080-3
+
+Open . 2020;10(8):e038002. doi:10.1136/bmjopen2020-038002
+
+15 . Ramnarayan P, Richards-Belle A, Drikite L, et al; FIRST-ABC Step-Down RCT Investigators and Paediatric Critical Care Society Study Group. Effect of high-flow nasal cannula therapy vs continuous positive airway pressure following extubation on liberation from respiratory support in critically ill children: a randomized clinical trial. JAMA . 2022; 327(16):1555-1565. doi:10.1001/jama.2022.3367
+
+16 . PRECIS-2. First-Line Support for Assistance in Breathing in Children (FIRST-ABC): a master protocol of two randomised trials to evaluate the non-inferiority of high flow nasal cannula (HFNC) versus continuous positive airway pressure (CPAP) for non-invasive respiratory support in paediatric critical care. Accessed December 11, 2021. https:// www.precis-2.org/Trials/Details/10688
+
+17 . Harron K, Woolfall K, Dwan K, et al. Deferred consent for randomized controlled trials in emergency care settings. Pediatrics . 2015;136(5): e1316-e1322. doi:10.1542/peds.2015-0512
+
+18 . Woolfall K, Frith L, Gamble C, Gilbert R, Mok Q, Young B; CONNECT Advisory Group. How parents and practitioners experience research without prior consent (deferred consent) for emergency research involving children with life threatening conditions: a mixed method study. BMJ Open . 2015;5(9): e008522. doi:10.1136/bmjopen-2015-008522
+
+19 . Manley BJ, Owen LS, Davis PG. High-flow nasal cannulae in very preterm infants after extubation. NEngl J Med . 2014;370(4):385-386. doi:10.1056/ NEJMc1314238
+
+20 . Roberts CT, Owen LS, Manley BJ, et al; HIPSTER Trial Investigators. Nasal high-flow therapy for primary respiratory support in preterm infants. N Engl J Med . 2016;375(12):1142-1151. doi: 10.1056/NEJMoa1603694
+
+21 . Milési C, Essouri S, Pouyau R, et al; Groupe Francophone de Réanimation et d'Urgences Pédiatriques. High flow nasal cannula (HFNC) versus nasal continuous positive airway pressure (nCPAP) for the initial respiratory management of acute viral bronchiolitis in young infants: a multicenter randomized controlled trial (TRAMONTANEstudy). Intensive Care Med . 2017; 43(2):209-216. doi:10.1007/s00134-016-4617-8
+
+22 . van Dijk M, Peters JWB, van Deventer P, Tibboel D. The COMFORT Behavior Scale: a tool for assessing pain and sedation in infants. Am J Nurs . 2005;105(1):33-36. doi:10.1097/00000446200501000-00019
+
+23 . Carter MC, Miles MS. The Parental Stressor Scale: Pediatric Intensive Care Unit. Matern Child Nurs J . 1989;18(3):187-198.
+
+24 . Kaji AH, Lewis RJ. Noninferiority trials: is a new treatment almost as effective as another? JAMA . 2015;313(23):2371-2372. doi:10.1001/jama.2015.6645
+
+14 . Richards-Belle A, Davis P, Drikite L, et al. FIRST-Line Support for Assistance in Breathing in Children (FIRST-ABC): a master protocol of two randomised trials to evaluate the non-inferiority of high-flow nasal cannula (HFNC) versus continuous positive airway pressure (CPAP) for non-invasive respiratory support in paediatric critical care. BMJ
+
+25 . Cesar RG, Bispo BRP, Felix PHCA, et al. High-flow nasal cannula versus continuous positive airway pressure in critical bronchiolitis: a randomized controlled pilot. J Pediatr Intensive Care . 2020;9(4):248-255. doi:10.1055/s-00401709656
+
+26 . Chisti MJ, Salam MA, Smith JH, et al. Bubble continuous positive airway pressure for children with severe pneumonia and hypoxaemia in Bangladesh: an open, randomised controlled trial.
+
+(Reprinted)
+
+JAMA July 12, 2022 Volume 328, Number 2
+
+© 2022 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Southern Medical University, li bai on 09/08/2026
+
+171
+
+[DOCLING_PAGE 11]
+
+Research Original Investigation
+
+Effect of HFNC vs CPAP Therapy on Liberation From Respiratory Support in Acutely Ill Children
+
+Lancet . 2015;386(9998):1057-1065. doi:10.1016/ S0140-6736(15)60249-5
+
+27 . Sarkar M, Sinha R, Roychowdhoury S, et al. Comparative study between noninvasive continuous positive airway pressure and hot humidified high-flow nasal cannulae as a mode of respiratory support in infants with acute bronchiolitis in pediatric intensive care unit of a tertiary care hospital. Indian J Crit Care Med . 2018; 22(2):85-90. doi:10.4103/ijccm.IJCCM_274_17
+
+28 . Vahlkvist S, Jürgensen L, la Cour A, Markoew S, Petersen TH, Kofoed PE. High flow nasal cannula and continuous positive airway pressure therapy in treatment of viral bronchiolitis: a randomized clinical trial. Eur J Pediatr . 2020;179(3):513-518. doi: 10.1007/s00431-019-03533-2
+
+29 . Cortegiani A, Longhini F, Madotto F, et al; HF-AECOPD Study Investigators. High flow nasal therapy versus noninvasive ventilation as initial ventilatory strategy in COPD exacerbation:
+
+a multicenter non-inferiority randomized trial. Crit Care . 2020;24(1):692. doi:10.1186/s13054-02003409-0
+
+30 . Hong H, Li XX, Li J, Zhang ZQ. High-flow nasal cannula versus nasal continuous positive airway pressure for respiratory support in preterm infants: a meta-analysis of randomized controlled trials. J Matern Fetal Neonatal Med . 2021;34(2):259-266.
+
+doi:10.1080/14767058.2019.1606193
+
+31 . Cunningham S, Fernandes RM. High-flow oxygen therapy in acute bronchiolitis. Lancet . 2017; 389(10072):886-887. doi:10.1016/S0140-6736(17) 30192-7
+
+32 . Franklin D, Babl FE, Schlapbach LJ, et al. Arandomized trial of high-flow oxygen therapy in infants with bronchiolitis. NEngl J Med . 2018;378 (12):1121-1131. doi:10.1056/NEJMoa1714855
+
+33 . Frat JP, Thille AW, Mercat A, et al; FLORALI Study Group; REVA Network. High-flow oxygen
+
+(Reprinted)
+
+through nasal cannula in acute hypoxemic respiratory failure. NEngl J Med . 2015;372(23): 2185-2196. doi:10.1056/NEJMoa1503326
+
+34 . Perkins GD, Ji C, Connolly BA, et al; RECOVERY-RS Collaborators. Effect of noninvasive respiratory strategies on intubation or mortality among patients with acute hypoxemic respiratory failure and COVID-19: the RECOVERY-RS randomized clinical trial. JAMA . 2022;327(6):546558. doi:10.1001/jama.2022.0028
+
+35 . Arabi YM, Cook DJ, Zhou Q, et al; Canadian Critical Care Trials Group. Characteristics and outcomes of eligible nonenrolled patients in a mechanical ventilation trial of acute respiratory distress syndrome. AmJRespir Crit Care Med . 2015; 192(11):1306-1313. doi:10.1164/rccm.201501-0172OC
+
+172
+
+JAMA
+
+July 12, 2022
+
+Volume 328, Number 2
+
+© 2022 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Southern Medical University, li bai on 09/08/2026
+
+jama.com

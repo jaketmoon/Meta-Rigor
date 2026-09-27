@@ -1,0 +1,59 @@
+{
+  "article": {
+    "doi": "10.1002/brb3.71576",
+    "license_text": "This is an open access article under the terms of the http://creativecommons.org/licenses/by/4.0/ License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "pmcid": "PMC13348439",
+    "pmid": "42423424",
+    "title": "Adjunctive Minocycline in Acute Ischemic Stroke: A Systematic Review and Meta‐Analysis of Randomized Controlled Trials"
+  },
+  "candidate": {
+    "line_count": 91,
+    "path": "frozen/PMC13348439/candidate.txt",
+    "sha256": "ee8cd1d5d951803a527fd74464c4705ccdf64dd11df14c77313eb69d076a4296"
+  },
+  "external_comparator": {
+    "path": "frozen/PMC13348439/external-comparator.txt",
+    "removed_node_count": 5,
+    "sha256": "01aa750529fbeceffce9c3003830a91ded7cce44e0a5bc7de4c42c19ec7b76d7"
+  },
+  "freezer": {
+    "id": "metarigor-ec-review-jats-freezer",
+    "version": "1.1.0"
+  },
+  "raw_source": {
+    "path": "sources/PMC13348439.xml",
+    "sha256": "e34312dd5ce720f26f95be1ccc36408f3df5270320b0510bcbda2f8477e90fca"
+  },
+  "redacted_evidence_tables": [
+    {
+      "node_id": "brb371576-tbl-0003",
+      "row_count": 12
+    }
+  ],
+  "removed_nodes": [
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": "brb371576-tbl-0003",
+      "tag": "table-wrap"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    }
+  ],
+  "retrieved_on": "2026-08-31",
+  "schema_version": "1.0.0",
+  "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC13348439&retmode=xml"
+}

@@ -1,0 +1,340 @@
+{
+  "schema_version": "1.1.0",
+  "benchmark_id": "metarigor-evidence-certainty-benchmark-v1",
+  "candidate_catalog_sha256": "19b22ce0aac3f1fd9c7e68f4de5e32d71127889122a07c9a338585066d59ef97",
+  "grade_rule_version": "CORE_GRADE_2025_V1",
+  "reference_maturity": "CURATOR_ADJUDICATED_NOT_CLINICAL_EXPERT_VALIDATED",
+  "external_comparator_blinded_during_adjudication": true,
+  "ois_alpha": 0.05,
+  "ois_beta": 0.2,
+  "ois_modest_relative_change": 0.2,
+  "cases": [
+    {
+      "case_id": "meng-2025",
+      "selected_analysis_id": "postoperative-delirium",
+      "disposition": "SCORED",
+      "expected_scope_disposition": "ELIGIBLE_SCORED_HEADLINE_WITH_SOURCE_CONFLICT",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "judgment": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+          "rationale": "全部证据来自 RCT，但 Review 仅给出总体 medium-to-high quality 概括，并报告 detection、attrition 与 reporting concerns；缺少 outcome-specific contribution weights，无法可靠确定问题证据是否支配 pooled estimate，因此保留在不降级与降一级之间。",
+          "evidence_fact_ids": ["design", "rob"]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "七项 contributor 中五项偏向 benefit、Turan 近似 null，Huet 仅有极小反向差异；结合 published I²=12% 与该差异幅度，现有证据不足以支持重要 unexplained inconsistency，故不降级。",
+          "evidence_fact_ids": ["effect", "study-effects"]
+        },
+        {
+          "domain": "INDIRECTNESS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "剂量、给药窗口与 follow-up 有差异，但 population、cardiac-surgery dexmedetomidine comparison 与 postoperative delirium 均直接匹配 target；现有材料未证明这些差异会造成重要 effect 差异。",
+          "evidence_fact_ids": ["indirect"]
+        },
+        {
+          "domain": "IMPRECISION",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "OR 0.75 的 95% CI 0.57–0.98 未跨越 null；相对效应变化低于 30%，不触发 Core GRADE large-effect OIS path，且本 benchmark 未预设可核验 MID。",
+          "evidence_fact_ids": ["effect"]
+        },
+        {
+          "domain": "PUBLICATION_BIAS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "检索覆盖三个主要数据库；没有可核验的未发表研究、选择性可得性或 small-study pattern 足以达到 strongly suspected。数据库范围有限只能作为保留意见，不能机械降级。",
+          "evidence_fact_ids": ["publication"]
+        }
+      ],
+      "overall_downgrade_levels": 0,
+      "final_certainty": "HIGH",
+      "overall_rationale": "唯一 close call 是 RoB；来源虽报告多个偏倚 concern，但没有 outcome-specific contribution 或 sensitivity 事实证明 concern-bearing evidence 支配 estimate，也没有来源绑定的重要 effect difference。按统一 overall 规则取该单一 close call 的下界，不降级。Review 与 forest 的研究数/样本来源冲突作为 Issue 保留，不以 certainty 降级替代输入审计。",
+      "curator_confidence": "MODERATE"
+    },
+    {
+      "case_id": "wang-2025",
+      "selected_analysis_id": "mortality-day28-closest",
+      "disposition": "SCORED",
+      "expected_scope_disposition": "ELIGIBLE_SCORED_HEADLINE_WITH_SOURCE_CONFLICT",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "judgment": "SERIOUS",
+          "rationale": "Review supplement eTable 2 对所选六项 mortality contributors 给出 outcome-specific overall RoB，published Figure 1 给出同一六项研究的 contribution weight。四项 HIGH RoB 研究合计贡献 62.4%，两项 LOW RoB 研究贡献 37.6%；高风险证据在所选结果中占主导，但仍有实质低风险贡献，因此降一级而非两级。",
+          "evidence_fact_ids": ["design", "rob"]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "所选 Figure 1 六项 trial 中四项偏向 intervention benefit、Gones 近似 null，Cronhjort 仅为 2/16 对 2/18 的极小反向差异；结合 published I²=0%，现有证据不足以支持重要 unexplained inconsistency。",
+          "evidence_fact_ids": ["effect", "study-effects"]
+        },
+        {
+          "domain": "INDIRECTNESS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "dynamic measure 与 monitor 不同，但均直接比较 sepsis 中由 fluid-responsiveness 指标指导的补液与 usual care，并测量 28–30 日 mortality；现有材料未证明 modality 差异构成重要 indirectness。",
+          "evidence_fact_ids": ["indirect"]
+        },
+        {
+          "domain": "IMPRECISION",
+          "judgment": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+          "rationale": "RR 0.61 的 95% CI 0.42–0.90 未跨 null，但 point estimate 接近 40% large-effect 边界；按固定 alpha=.05、beta=.20 与 20% modest relative change 计算的 OIS 为 1889，明显高于 N=441，因此在不降级与降一级之间。",
+          "evidence_fact_ids": ["effect"]
+        },
+        {
+          "domain": "PUBLICATION_BIAS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "检索由 information specialist 指导，覆盖 MEDLINE、Embase、RCT databases 与 Google Scholar；仅凭试验较少和 visual funnel 不能证明无偏，但也没有 strongly suspected 的直接证据。",
+          "evidence_fact_ids": ["search", "publication"]
+        }
+      ],
+      "overall_downgrade_levels": 2,
+      "final_certainty": "LOW",
+      "overall_rationale": "Outcome-weighted RoB 已闭合且高风险研究贡献 62.4%，构成确定的一次降级；large-effect OIS 为独立 close call。整体选择两项限制的保守端，降两级；Review 内部 mortality certainty 冲突单独作为 Issue。",
+      "curator_confidence": "MODERATE"
+    },
+    {
+      "case_id": "turalde-mapili-2023",
+      "selected_analysis_id": "rsv-lrti",
+      "disposition": "SCORED",
+      "expected_scope_disposition": "ELIGIBLE_SCORED_HEADLINE",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "两项直接贡献 trial 的 RoB2 overall 均为 low risk，未发现足以影响该 outcome estimate 的具体偏倚 concern。",
+          "evidence_fact_ids": ["design", "rob"]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "两项 trial 的 published synthesis 为 I²=0%，方向一致；不能因为 study 数少而自动降级 inconsistency。",
+          "evidence_fact_ids": ["effect", "study-effects"]
+        },
+        {
+          "domain": "INDIRECTNESS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "infant population、nirsevimab、placebo 与 150-day medically attended RSV LRTI 均直接匹配 target。",
+          "evidence_fact_ids": ["indirect"]
+        },
+        {
+          "domain": "IMPRECISION",
+          "judgment": "SERIOUS",
+          "rationale": "RR 0.26 显示超过 40% 的 large effect，95% CI 未跨 null；Core GRADE 2025 仍要求 large-effect path 达到以 20% modest relative effect 计算的 OIS。按 control risk 71/980 得 OIS 9113，而 observed N=2943，故降一级。",
+          "evidence_fact_ids": ["effect"]
+        },
+        {
+          "domain": "PUBLICATION_BIAS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "检索 MEDLINE、CENTRAL、Scopus 与 ClinicalTrials.gov，包含 registry；没有已知未发表 study 或可核验 selection pattern 足以 strongly suspect publication bias。",
+          "evidence_fact_ids": ["publication"]
+        }
+      ],
+      "overall_downgrade_levels": 1,
+      "final_certainty": "MODERATE",
+      "overall_rationale": "五领域中仅 imprecision 因 large-effect OIS 未满足而降一级；其余领域没有来源支持的降级理由。",
+      "curator_confidence": "HIGH"
+    },
+    {
+      "case_id": "zhong-2022",
+      "selected_analysis_id": "treatment-failure",
+      "disposition": "SCORED",
+      "expected_scope_disposition": "ELIGIBLE_SCORED_HEADLINE",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "judgment": "SERIOUS",
+          "rationale": "treatment failure 是可受临床决策影响的 outcome；全部 trial 未盲、仅三项报告 allocation concealment，performance 与 selection concerns 能合理影响 pooled estimate，降一级。",
+          "evidence_fact_ids": ["design", "rob"]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "五项 trial 中 Borgi 与 Milesi 的 point estimate 较大、Cesar 与 Sarkar 接近 null；Vahlkvist 小型 trial 方向相反但总事件仅 6。结合 published I²=0%，该小型反向结果不足以支持重要 unexplained inconsistency，故不降级。",
+          "evidence_fact_ids": ["effect", "study-effects"]
+        },
+        {
+          "domain": "INDIRECTNESS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "来源只闭合了 intervention regimen、clinical features 与 trial-defined failure criteria 存在 variation，没有绑定可信的 effect-modification path；population、device comparison 与 treatment-failure construct 仍直接。按统一规则，mere variation 不足以形成 indirectness close call，故不降级。",
+          "evidence_fact_ids": ["indirect"]
+        },
+        {
+          "domain": "IMPRECISION",
+          "judgment": "SERIOUS",
+          "rationale": "RR 1.523 为超过 40% 的 large effect 且 CI 未跨 null；按 control risk 74/268、alpha=.05、beta=.20 和 20% modest relative change，OIS 为 2175，远高于 N=541，故降一级。",
+          "evidence_fact_ids": ["effect"]
+        },
+        {
+          "domain": "PUBLICATION_BIAS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "四数据库无语言和时间限制检索；k=5 使 funnel asymmetry assessment 的 power 受限，不能证明无偏，但没有直接证据达到 strongly suspected。",
+          "evidence_fact_ids": ["publication", "search"]
+        }
+      ],
+      "overall_downgrade_levels": 2,
+      "final_certainty": "LOW",
+      "overall_rationale": "RoB 与 imprecision 各明确降一级；其余领域不降级，整体合计降两级。",
+      "curator_confidence": "HIGH"
+    },
+    {
+      "case_id": "song-2025",
+      "selected_analysis_id": "primary-composite",
+      "disposition": "CORRECT_ABSTENTION_SOURCE_NOT_CLOSED",
+      "expected_scope_disposition": "SOURCE_NOT_CLOSED_REFERENCE_CONFLICT",
+      "domains": [],
+      "overall_downgrade_levels": null,
+      "final_certainty": null,
+      "overall_rationale": "Review 将各 trial 不同的 composite/time-to-event 结果以 component sums 构造统一 binary RR，且 reference 无法闭合为同一 participant-level outcome。五领域 rating 不能修复无效的 synthesis identity，因此正确动作是保留 disposition 与已有结果、不启动 GRADE。",
+      "curator_confidence": "HIGH"
+    },
+    {
+      "case_id": "lin-2025",
+      "selected_analysis_id": "functional-independence",
+      "disposition": "SCORED",
+      "expected_scope_disposition": "ELIGIBLE_SCORED_HEADLINE_WITH_SOURCE_CONFLICT",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "judgment": "SERIOUS",
+          "rationale": "Review 将全部六项 contributing trials 判为 high risk，主要源于 deviations from intended interventions 与无法 blinding；该 outcome 的全部证据均受该 concern 覆盖，降一级。",
+          "evidence_fact_ids": ["design", "rob"]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "六项 trial 的 published synthesis 为 I²=0%，没有可核验的方向冲突或 unexplained heterogeneity。",
+          "evidence_fact_ids": ["effect", "study-effects"]
+        },
+        {
+          "domain": "INDIRECTNESS",
+          "judgment": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+          "rationale": "证据体混合 larger moderate 与 true large ischemic cores，core definition 是 plausible effect modifier；但均为直接 EVT comparison 与 90-day mRS 0–2 outcome，故为 close call。",
+          "evidence_fact_ids": ["indirect"]
+        },
+        {
+          "domain": "IMPRECISION",
+          "judgment": "SERIOUS",
+          "rationale": "RR 2.53 为超过 40% 的 large effect 且 CI 未跨 null；按 control risk 69/930 的 fixed OIS 为 10685，远高于 N=1870，故 Core GRADE large-effect path 要求降一级。",
+          "evidence_fact_ids": ["effect"]
+        },
+        {
+          "domain": "PUBLICATION_BIAS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "检索 PubMed、CENTRAL 与 ClinicalTrials.gov 且无语言限制；k=6 的 funnel 阴性不能证明无偏，但没有可核验依据达到 strongly suspected。",
+          "evidence_fact_ids": ["publication", "search"]
+        }
+      ],
+      "overall_downgrade_levels": 2,
+      "final_certainty": "LOW",
+      "overall_rationale": "RoB 与 imprecision 各明确降一级。Population/core-definition close call 不在缺乏 effect-modification 证据时再额外降级，避免与已计入的不确定性重复，整体降两级。",
+      "curator_confidence": "HIGH"
+    },
+    {
+      "case_id": "malhotra-2025",
+      "selected_analysis_id": "recurrent-vte-or-bleeding.month12",
+      "disposition": "CORRECT_ABSTENTION_SOURCE_NOT_CLOSED",
+      "expected_scope_disposition": "SOURCE_NOT_CLOSED_REFERENCE_CONFLICT",
+      "domains": [],
+      "overall_downgrade_levels": null,
+      "final_certainty": null,
+      "overall_rationale": "Review 把 recurrent VTE 与 bleeding component sums 组合为 RR，而 primary reports 使用不同 composite/time-to-event estimands；无法核验为同一 participant-level outcome。GRADE 不能对未闭合的 synthesis identity 给出可信等级，因此保留 abstention。",
+      "curator_confidence": "HIGH"
+    },
+    {
+      "case_id": "balbaa-2025",
+      "selected_analysis_id": "composite-satisfaction",
+      "disposition": "CORRECT_ABSTENTION_SOURCE_NOT_CLOSED",
+      "expected_scope_disposition": "SOURCE_NOT_CLOSED_UNSUPPORTED_SYNTHESIS_METHOD",
+      "domains": [],
+      "overall_downgrade_levels": null,
+      "final_certainty": null,
+      "overall_rationale": "至少一项 contributing study 仅报告 median/IQR，Review 未披露转换为 Mean/SD 后进入 SMD synthesis 的方法。EC V1 不猜测或重做未声明转换；输入闭包失败时正确动作是 abstain，而不是用 imprecision 或 inconsistency 降级掩盖。",
+      "curator_confidence": "HIGH"
+    },
+    {
+      "case_id": "sun-2024",
+      "selected_analysis_id": "postoperative-delirium",
+      "disposition": "SCORED",
+      "expected_scope_disposition": "ELIGIBLE_SCORED_HEADLINE_WITH_SOURCE_CONFLICT",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "judgment": "SERIOUS",
+          "rationale": "仅 Lei（35.72% weight）在图示各域均 low risk，其余 64.29% contribution 来自带 attrition、detection 或 performance concerns 的 trials。主观 delirium ascertainment 使这些 concerns 与 outcome 相关，证据贡献多数受影响，降一级。",
+          "evidence_fact_ids": ["design", "rob"]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "五项 trial 的 published synthesis 为 I²=0%，没有可核验的方向冲突；不因 study 数少自动降级。",
+          "evidence_fact_ids": ["effect", "study-effects"]
+        },
+        {
+          "domain": "INDIRECTNESS",
+          "judgment": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+          "rationale": "NIRS thresholds、device/algorithm 与 POD diagnostic scales 不同，均可能改变 effect magnitude；但 population、monitoring strategy 与 POD outcome 仍直接，故保留为 close call。",
+          "evidence_fact_ids": ["indirect"]
+        },
+        {
+          "domain": "IMPRECISION",
+          "judgment": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+          "rationale": "OR 0.657 的 95% CI 0.447–0.965 未跨 null，但上界接近无效线，仍覆盖很小到较大获益；Review 未明示所选合成的 control event risk，binary OIS 因而保持未知，N=915 不能单独证明信息量充分，故在不降级与降一级之间。",
+          "evidence_fact_ids": ["effect"]
+        },
+        {
+          "domain": "PUBLICATION_BIAS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "仅纳入 English 且 evidence body 只有五项 trial，构成 publication-bias concern；但当前可见来源未建立 small-study pattern、选择性可得性或其他直接证据足以达到 strongly suspected。",
+          "evidence_fact_ids": ["publication"]
+        }
+      ],
+      "overall_downgrade_levels": 2,
+      "final_certainty": "LOW",
+      "overall_rationale": "RoB 明确降一级；indirectness 与 imprecision 各为 close call。综合 outcome measurement、跨 trial diagnostic/algorithm 变化、CI 上界接近 null 及 source-bound control risk 缺失，整体再降一级而不把两个 close call 简单相加，合计降两级。Review 统计模型文字冲突另列 scope Issue，不用 certainty 降级代替来源审计。",
+      "curator_confidence": "MODERATE"
+    },
+    {
+      "case_id": "qazi-2026",
+      "selected_analysis_id": "mrs-0-1.day90",
+      "disposition": "SCORED",
+      "expected_scope_disposition": "ELIGIBLE_SCORED_HEADLINE_WITH_SOURCE_CONFLICT",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "五项 trial 中三项 overall low risk、两项 some concerns，且无 high-risk trial；现有来源未显示 concerns 支配 pooled estimate，故不降级。",
+          "evidence_fact_ids": ["design", "rob"]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "Figure 3 的五项 study-specific RR 为 1.05、1.36、1.21、1.09 与 1.35，均在 benefit 侧且 CI 广泛重叠；I²=0% 仅作辅助，现有证据不支持降级。",
+          "evidence_fact_ids": ["effect", "study-effects"]
+        },
+        {
+          "domain": "INDIRECTNESS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "来源闭合了 EVT permissibility/use、imaging selection、regional pathways 与 trial 地区存在 variation，但没有绑定可信的 effect-modification path。五项均直接纳入 target 的 imaging-selected adult AIS、TNK 对 control 与 90-day mRS 0–1；按统一规则，mere variation 不足以形成 indirectness close call，故不降级。",
+          "evidence_fact_ids": ["indirect"]
+        },
+        {
+          "domain": "IMPRECISION",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "RR 1.25 的 95% CI 1.10–1.42 未跨 null；相对 effect change 为 25%，低于 30% large-effect OIS trigger，本 benchmark 又无预先来源绑定 MID，故不降级。",
+          "evidence_fact_ids": ["effect"]
+        },
+        {
+          "domain": "PUBLICATION_BIAS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "k=5 限制 funnel/small-study 检测能力，这不能证明无偏；但当前没有已知 unpublished trial 或可核验 pattern 达到 strongly suspected。",
+          "evidence_fact_ids": ["search", "publication"]
+        }
+      ],
+      "overall_downgrade_levels": 0,
+      "final_certainty": "HIGH",
+      "overall_rationale": "五领域均未达到降级边界，整体保持 High。Review 与 OPTION event count 的冲突另列 Issue，不用 certainty 代替 source audit。",
+      "curator_confidence": "MODERATE"
+    }
+  ]
+}

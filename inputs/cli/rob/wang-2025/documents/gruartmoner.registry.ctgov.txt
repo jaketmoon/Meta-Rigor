@@ -1,0 +1,279 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03246334",
+      "orgStudyIdInfo": {
+        "id": "Radboudumc"
+      },
+      "organization": {
+        "fullName": "Radboud University Medical Center",
+        "class": "OTHER"
+      },
+      "briefTitle": "MONITOR-IC: Determining and Improving Long-term Consequences of ICU Care",
+      "officialTitle": "MONITOR-IC: a Mixed Methods Multicenter Prospective Open Cohort Study Determining and Improving Long-term Outcomes of ICU Survivors",
+      "acronym": "MONITOR-IC"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2023-08",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2016-07-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2050-08",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2050-08",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2017-08-02",
+      "studyFirstSubmitQcDate": "2017-08-07",
+      "studyFirstPostDateStruct": {
+        "date": "2017-08-11",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2023-12-20",
+      "lastUpdatePostDateStruct": {
+        "date": "2023-12-27",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Radboud University Medical Center",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Due to advances in critical care medicine, more patients survive their critical illness. However, intensive care unit (ICU) survivors often experience long-term physical, cognitive and mental problems, summarized as post intensive care syndrome (PICS), impacting their health related quality of life (HRQoL).\n\nThe aims of this study are to study the: 1) long-term outcomes, 2) predictors for PICS, 3) prediction of long-term HRQoL, 4) ratio between HRQoL of ICU-survivors and healthcare related costs, and 5) effects on the long-term of interventions",
+      "detailedDescription": "Specific research questions:\n\n1. What are the post-intensive care symptoms that patients experience after their ICU admissions and what is their HRQoL?\n2. What are important predictors for the various physical, cognitive and mental long- term outcomes and health related quality of live outcome, using traditional statistical techniques and sophisticated AI/ML techniques?\n3. What is the ratio between HRQoL and healthcare related costs?\n4. What are experiences of patients regarding their problems and quality of life after the ICU?\n5. What are the effects of interventions aimed to improve long-term outcomes of ICU patients?\n\nDesign:\n\nThe MONITOR-IC study is an ongoing multicenter prospective open cohort study in which long-term outcomes of ICU patients are studied for a period of two to five years.\n\nThe study is carried out in several ICUs in the Netherlands; including academic hospitals, and non-academic hospitals. ICU patients are recruited from July 2016 onwards and followed for two to five years.\n\nPatient recruitment:\n\nPatients scheduled for ICU admission after elective surgery, will be recruited at the outpatient clinic (anaesthesiology or cardiac surgery) (Figure 1). Patients with a non-scheduled admission will be recruited at the ICU. Patients receive information by ICU researchers/nurses/intensivists regarding the aim, content and relevance of the MONITOR-IC, and will be asked for participation. Informed consent is asked for the questionnaires, data from the patients' individual medical record and data from their health insurance company. In case patients are unable to give consent, their legal representative will be asked.\n\nMethods:\n\nSince this is an ongoing open cohort study with multiple questions, several methods will be used including quantitative, qualitatitative and mixed methods.\n\nAll patients, or their relatives in case patients are not able to fill in the questionnaire themselves, will be approached to complete the self-administered online questionnaire or on patients' request a paper based: at ICU admission, and several times post-ICU 3 - 12 and 24 months; patients included between 2016 and 2022, also receive the questionnaire 60 months post-ICU. To get insight into the situation before the ICU admission, the baseline questionnaire is provided when the patients are asked for informed consent. This could be preoperatively for the planned admissions or after admission at the ICU. Then, patients are asked to rate their situation before the ICU admission.\n\nItems in questionnaire:\n\n* Patients' health status and HRQoL = SF-12 and the EQ-5D-5L.\n* Patients' level of frailty and vulnerability = Clinical Frailty Score (CFS)\n* The level of fatigue = CIS-8, a subscale of the Checklist Individual Strength\n* Cognitive impairment = abbreviated 14-item Cognitive Failure Questionnaire (CFQ-14).\n* Anxiety and depression = Hospital Anxiety and Depression Scale (HADS)\n* Subjective distress, caused by traumatic events = Impact of Event Scale 6-questions (IES-6)\n* Care needs and support from professionals and informal caregiver\n* Social consequences = question set for changes in family circumstances, socio-economic stability and care requirements.\n\nMedical data Patients' demographics and information regarding their diagnosis and treatment, such as primary conditions, pre-existing co-morbidity, disease severity, (re)admission, length of ICU stay, expected mortality (based on the APACHE III-IV models) and medication, will be extracted from their medical record and the Dutch National Intensive Care Evaluation (NICE) registry.\n\nHealth Insurance data Healthcare use and related costs, covered by the Dutch healthcare insurance, will be retrieved from Vektis; a Dutch organization which collects and manage health insurance claimed data of all health insurance companies in the Netherlands.This data is collected based on the Diagnosis Treatment Combination (DTC); a total set of activities carried out by the hospital and medical specialists. Additionally, data is collected regarding nursing days, visits at the outpatient clinic and emergency department, nursing homes, ambulance transport, consultation with general practitioner, paramedical care (including physiotherapist, occupational therapist, dietician and speech therapist), prescribed medication, mental healthcare and revalidation. The Vektis database contains data from all for healthcare insured citizens and covers 99% of the total Dutch population. Using patient's unique insurance number the investigators are able to merge patient's insurance data with the questionnaire data and medical data from the medical record at patient level.\n\nCare delivered by community nurses and informal caregivers is not included in the Vektis database and will be studied via the questionnaire.\n\nInterviews To get insight into the patients' experiences post ICU face to face or in case this is not possible, video supported, semi-structured interviews will be conducted with ICU survivors. Interviews will take place at the participants' preferred location (home or clinic, or via video contact).\n\nPatients will be purposively sampled based on various experienced outcomes, such as the quality of life, daily functioning, anxiety, depression, and their experienced needs for more information or emotional support; depending on the research question. Experienced and trained researchers will conduct the interviews. All interviews will be audio recorded and transcribed verbatim.\n\nAnalysis Data are been checked on a regular basis to identify out-of-range answers, inconsistent responses, and missing data. Data from the questionnaires, medical record and healthcare insurance data will be merged at patient level. Descriptive statistics will be used to describe baseline characteristics. Depending on the research question, different statististical techniques, including traditional statistical tests, and artificial intelligence/machine learning or deep learning techniques will be used. Subgroups will be identified; supervised (based on their illness and condition e.g. sepsis, delirium, co morbidities, ARDS, length of ICU stay, duration of mechanical ventilation, dialysis, social demographics as age, gender, education, family setting etc) and unsupervised.\n\nSoftware Package for the Social Sciences (SPSS) or open source R packages will be used for data analysis and for analyzing the interviews Atlas.ti, will be used."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Post-Intensive Care Syndrome (PICS)"
+      ],
+      "keywords": [
+        "Cohort study",
+        "Critical Care",
+        "Follow-up study",
+        "Intensive care units",
+        "Long-term outcome",
+        "Outcome assessment",
+        "Quality of life"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 50000,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Cohort",
+          "description": "Critically ill patients admitted \\>12 hours to the ICU"
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Health related quality of life",
+          "description": "SF-12",
+          "timeFrame": "2-5 year post-ICU"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Health related quality of life",
+          "description": "EQ5D-5L",
+          "timeFrame": "2 year post-ICU"
+        },
+        {
+          "measure": "Frailty as part of Physical-Cognitive-Mental impairments",
+          "description": "CFS (Clinical Frailty Score)",
+          "timeFrame": "2 year post-ICU"
+        },
+        {
+          "measure": "Fatigue as part of Physical-Cognitive-Mental impairments",
+          "description": "CIS-8 (Checklist Individual Strength)",
+          "timeFrame": "2 year post-ICU"
+        },
+        {
+          "measure": "Cognition as part of Physical-Cognitive-Mental impairments",
+          "description": "CFQ-14",
+          "timeFrame": "2-5 year post-ICU"
+        },
+        {
+          "measure": "Anxiety and depression as part of Physical-Cognitive-Mental impairments",
+          "description": "HADS (Hospital Anxiety and Depression Scale)",
+          "timeFrame": "2 year post-ICU"
+        },
+        {
+          "measure": "Post traumatic stress disorder as part of Physical-Cognitive-Mental impairments",
+          "description": "IES-6 (Impact of Event Scale-6 questions)",
+          "timeFrame": "2 year post-ICU"
+        },
+        {
+          "measure": "Patients' care and support needs and social consequences",
+          "description": "Questionnaire regarding specific needs and supports and social impact post ICU",
+          "timeFrame": "2 year post-ICU"
+        },
+        {
+          "measure": "Patients' healthcare use and related costs",
+          "description": "Data of healthcare insurance",
+          "timeFrame": "2 year post-ICU"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* ICU patients age 16 years or older;\n* admitted at least 12 hours to a trauma, medical, neurosurgery or cardiac surgery ICU;\n* gave written informed consent (or by their legal representative).\n\nExclusion Criteria:\n\n* Patients with a life expectancy of \\<48 hours;\n* receive palliative care;\n* are admitted for a donor procedure;\n* cannot read and speak the Dutch language;\n* or are not able to fill in the questionnaire and do not have family members/ legal representatives either.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "16 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "ICU patients admitted to one of the participating centers",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Mark van den Boogaard, RN, PhD",
+          "role": "CONTACT",
+          "phone": "0031-243665009",
+          "email": "Mark.vandenBoogaard@radboudumc.nl"
+        },
+        {
+          "name": "Marieke Zegers, PhD.",
+          "role": "CONTACT",
+          "phone": "0031-243619269",
+          "email": "Marieke.Zegers@radboudumc.nl"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Mark van den Boogaard, RN, PhD.",
+          "affiliation": "Radboud university medical center, Prof.dr. of Nursing Science in Acute and Critical Care",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Marieke Zegers, PhD",
+          "affiliation": "Radboud university medical center, Senior Researcher dep of Intensive Care Medicine",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Radboud university medical center",
+          "status": "RECRUITING",
+          "city": "Nijmegen",
+          "zip": "6500 HB",
+          "country": "Netherlands",
+          "contacts": [
+            {
+              "name": "Mark van den Boogaard, RN, PhD.",
+              "role": "CONTACT",
+              "phone": "0031-243665009",
+              "email": "Mark.vandenBoogaard@radboudumc.nl"
+            },
+            {
+              "name": "Marieke Zegers, PhD.",
+              "role": "CONTACT",
+              "phone": "0031-243619269",
+              "email": "Marieke.Zegers@radboudumc.nl"
+            }
+          ],
+          "geoPoint": {
+            "lat": 51.8425,
+            "lon": 5.85278
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "40773138",
+          "type": "DERIVED",
+          "citation": "Porter LL, Hazeleger L, Bos K, Simons KS, van der Hoeven JG, Yeghaian M, van der Woude MCE, van Santen S, Rettig TCD, de Vries M, van den Boogaard M, Zegers M. Identifying distinct clusters of ICU survivors by integrating demographic, pre-admission quality of life, and clinical data: a large prospective cohort study. Intensive Care Med. 2025 Sep;51(9):1603-1614. doi: 10.1007/s00134-025-08052-3. Epub 2025 Aug 7."
+        },
+        {
+          "pmid": "39445920",
+          "type": "DERIVED",
+          "citation": "Tilburgs B, Simons KS, Corsten S, Westerhof B, Rettig TCD, Ewalds E, Zegers M, van den Boogaard M. Associations Between Physical, Cognitive, and Mental Health Domains of Post-Intensive Care Syndrome and Quality of Life: A Longitudinal Multicenter Cohort Study. Crit Care Med. 2025 Jan 1;53(1):e74-e86. doi: 10.1097/CCM.0000000000006461. Epub 2024 Oct 24."
+        },
+        {
+          "pmid": "39054511",
+          "type": "DERIVED",
+          "citation": "Porter LL, Simons KS, Corsten S, Westerhof B, Rettig TCD, Ewalds E, Janssen I, Jacobs C, van Santen S, Slooter AJC, van der Woude MCE, van der Hoeven JG, Zegers M, van den Boogaard M. Changes in quality of life 1 year after intensive care: a multicenter prospective cohort of ICU survivors. Crit Care. 2024 Jul 25;28(1):255. doi: 10.1186/s13054-024-05036-5."
+        },
+        {
+          "pmid": "38099732",
+          "type": "DERIVED",
+          "citation": "van Sleeuwen D, Zegers M, Ramjith J, Cruijsberg JK, Simons KS, van Bommel D, Burgers-Bonthuis D, Koeter J, Bisschops LLA, Janssen I, Rettig TCD, van der Hoeven JG, van de Laar FA, van den Boogaard M. Prediction of Long-Term Physical, Mental, and Cognitive Problems Following Critical Illness: Development and External Validation of the PROSPECT Prediction Model. Crit Care Med. 2024 Feb 1;52(2):200-209. doi: 10.1097/CCM.0000000000006073. Epub 2023 Dec 15."
+        },
+        {
+          "pmid": "36825895",
+          "type": "DERIVED",
+          "citation": "Porter LL, Simons KS, Ramjith J, Corsten S, Westerhof B, Rettig TCD, Ewalds E, Janssen I, van der Hoeven JG, van den Boogaard M, Zegers M. Development and External Validation of a Prediction Model for Quality of Life of ICU Survivors: A Subanalysis of the MONITOR-IC Prospective Cohort Study. Crit Care Med. 2023 May 1;51(5):632-641. doi: 10.1097/CCM.0000000000005800. Epub 2023 Feb 20."
+        },
+        {
+          "pmid": "34082253",
+          "type": "DERIVED",
+          "citation": "Geense WW, de Graaf M, Vermeulen H, van der Hoeven J, Zegers M, van den Boogaard M. Reduced quality of life in ICU survivors - the story behind the numbers: A mixed methods study. J Crit Care. 2021 Oct;65:36-41. doi: 10.1016/j.jcrc.2021.05.008. Epub 2021 May 23."
+        },
+        {
+          "pmid": "31739088",
+          "type": "DERIVED",
+          "citation": "Geense W, Zegers M, Dieperink P, Vermeulen H, van der Hoeven J, van den Boogaard M. Changes in frailty among ICU survivors and associated factors: Results of a one-year prospective cohort study using the Dutch Clinical Frailty Scale. J Crit Care. 2020 Feb;55:184-193. doi: 10.1016/j.jcrc.2019.10.016. Epub 2019 Nov 5."
+        },
+        {
+          "pmid": "29138206",
+          "type": "DERIVED",
+          "citation": "Geense W, Zegers M, Vermeulen H, van den Boogaard M, van der Hoeven J. MONITOR-IC study, a mixed methods prospective multicentre controlled cohort study assessing 5-year outcomes of ICU survivors and related healthcare costs: a study protocol. BMJ Open. 2017 Nov 14;7(11):e018006. doi: 10.1136/bmjopen-2017-018006."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-08-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000657744",
+          "term": "postintensive care syndrome"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

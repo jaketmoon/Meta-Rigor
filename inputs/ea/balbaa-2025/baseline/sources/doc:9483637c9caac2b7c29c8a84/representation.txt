@@ -1,0 +1,344 @@
+[DOCLING_PAGE 1]
+
+Journal of the Society for Cardiovascular Angiography & Interventions 3 (2024) 102291
+
+Original Research
+
+A Randomized Trial of Cardiac Catheterization With Fasting Versus Liberal Oral Intake: The CALORI Trial
+
+Brian K. Mitchell, MD a , Anna Tomdio, MD b , Muhammad S. Pir, MD a , Suraj K. Mishra, MD a , Pradeep Dayanand, MD c , Guillaume Bonnet, MD, PhD d,e , Maria C. Alu, MS d , Zachary M. Gertz, MD a, *
+
+a b
+
+Division of Cardiovascular Medicine, Virginia Commonwealth University, Richmond, Virginia; Mary Washington Hospital, Fredericksburg, Virginia; c Allegheny Health Network St. Vincent Hospital, Erie, Pennsylvania; d Clinical Trials Center, Cardiovascular Research Foundation, New York, New York; e CHU de Bordeaux, Bordeaux, France
+
+A B S T R A C T
+
+Background: Routine preprocedural fasting before cardiac catheterization remains common practice, despite a lack of robust evidence to support this practice. We investigated the impact of a liberal nonfasting strategy vs a standardized nil per os (NPO) regimen prior to cardiac catheterization.
+
+Methods: Adult inpatients undergoing elective or urgent cardiac catheterization were randomized (1:1 ratio) to either NPO past midnight or ad libitum intake of liquids and solids (without dietary constraints) until immediately prior to the procedure. Only patients at high risk of aspiration or undergoing complex interventions were excluded. The primary end point was preprocedural patient-reported well-being scores (scaled 0-5, with 0 signifying absence of ailment and 5 the most extreme form), for variables including hunger, fatigue, anxiety, and nausea. A composite score summed the individual scores for hunger and fatigue. Other end points were periprocedural adverse events including emesis, aspiration, or intubation, in addition to postprocedural satisfaction.
+
+Results: A total of 198 patients (65% male and 42% Black) were included in the fi nal analysis. There were no differences in baseline characteristics between groups. Time from most recent oral intake (liquid or solid) to the start of the procedure averaged 148 minutes for the nonfasting group and 970 minutes for the NPO strategy ( P < .001). The composite preprocedural well-being score was signi fi cantly better in the nonfasting arm (2.4  2.4 nonfasting vs 6.0  2.5 NPO; P < .001), as were the individual components of hunger (0.9  1.5 vs 3.7  1.5; P < .001), fatigue (1.5  1.6 vs 2.3  1.8; P < .001), and nausea (0.1  0.5 vs 0.5  1.2; P ¼ .006). There were no signi fi cant differences in adverse events between groups. Overall postprocedural satisfaction scores were signi fi cantly better in the nonfasting vs NPO group (0.3  0.7 vs 1.0  1.3, respectively; P < .001).
+
+Conclusions: In this single-center randomized trial, a liberal nonfasting strategy prior to cardiac catheterization signi fi cantly improved patient well-being and satisfaction without compromising safety. Given the fi ndings of this and other studies, routine fasting prior to cardiac catheterization should be reconsidered.
+
+Introduction
+
+Requiring patients be kept nil per os (NPO) prior to cardiac catheterization procedures is a common practice. This tradition is rooted in the premise that preprocedural fasting allows time for gastric emptying, which lowers the volume and acidity of gastric contents, thereby reducing the risk of regurgitation and pulmonary aspiration. 1 Modern preprocedural fasting theories and standards were established among patients undergoing elective surgery with anesthesia, and later extrapolated and applied to minimally invasive cardiac procedures. However, contemporary data suggest that indiscriminate fasting requirements, and particularly prolonged regimens such as ' NPO after midnight, ' are outdated and potentially harmful to patients. 2 -4
+
+Contrary to foundational theories rationalizing fasting, fasting duration is not correlated with residual gastric fl uid volume or gastric pH. 5 -8 Further, in a meta-analysis of randomized clinical trials, longer fasting times were associated with higher residual gastric fl uid volumes and higher rates of aspiration. 5
+
+Although conventional fasting standards may be reasonable for certain patient subsets undergoing general anesthesia, the overall incidence of aspiration remains exceedingly low. 9,10 This calls into question the applicability to modern cardiac catheterization and minimally invasive cardiac procedures, which almost exclusively use conscious sedation rather than general anesthesia, making aspiration events even more uncommon. 3 Current hypo-osmolar contrast agents are signi fi cantly less likely to cause nausea or vomiting than historical formulations, further lowering the risk. Although aspiration events are more likely with emergency procedures, current rates for percutaneous coronary intervention (PCI) conversion to emergency surgery are less than 0.1%. 3 In studies involving both elective 11 and emergent cardiac catheterizations 12 with minimal or no fasting requirements, there were no differences in clinical outcomes. Moreover, prolonged fasting prior to elective cardiac procedures may increase the chances of contrast-induced nephropathy, hypoglycemia, dehydration, and reduced patient satisfaction. 2
+
+Abbreviations: HFrEF, heart failure with reduced ejection fraction; NPO, nil per os; NRS, numeric rating scale; PCI, percutaneous coronary intervention; RHC, right heart catheterization.
+
+Keywords: cardiac catheterization; fasting; patient-reported outcomes.
+
+* Corresponding author: zachary.gertz@vcuhealth.org (Z.M. Gertz).
+
+Received 4 June 2024; Received in revised form 15 August 2024; Accepted 19 August 2024; Available online 24 October 2024
+
+2772-9303/© 2024 The Author(s). Published by Elsevier Inc. on behalf of the Society for Cardiovascular Angiography & Interventions Foundation. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+https://doi.org/10.1016/j.jscai.2024.102291
+
+[DOCLING_PAGE 2]
+
+2
+
+B.K. Mitchell et al. / Journal of the Society for Cardiovascular Angiography & Interventions 3 (2024) 102291
+
+Society guideline recommendations have evolved to re fl ect this evidence more appropriately, with the 2017 American Society of Anesthesiology guidelines allowing clear liquids up to 2 hours prior to the start of the procedure, a ' light ' meal up to 6 hours prior, and a ' heavy ' meal up to 8 hours prior for healthy patients. 2 Despite these updated guidelines, mandatory prolonged preprocedural fasting requirements remain widely utilized, and fasting intervals often exceed the intended duration. 13,14
+
+Few studies have prospectively assessed the patient impact of a liberal nonfasting strategy vs a standardized NPO regimen prior to cardiac catheterization. Given the limited evidence to guide care, we conducted the Catheterization with Liberal ORal Intake (CALORI) trial, a randomized controlled trial comparing fasting after midnight vs ad libitum intake of liquids and solids immediately prior to cardiac catheterization.
+
+Materials and methods
+
+Study design and setting
+
+This prospective randomized controlled trial was conducted at a single medical center in the United States between March and November 2023, following approval by the Virginia Commonwealth University Institutional Review Board (protocol HM20025962). The trial was registered at ClinicalTrials.gov (NCT05851872).
+
+Participants
+
+This study included inpatients aged 18 years and older who underwent elective or urgent cardiac catheterization (left heart catheterization, coronary angiography, PCI, right heart catheterization [RHC]) with planned conscious (moderate) sedation. Pregnant women, patients with body mass index greater than 45 kg/m 2 , active gastrointestinal illness (including nausea), encephalopathy, dementia, or severe gastroesophageal re fl ux disease (requiring more than 1 medication for adequate gastroesophageal re fl ux disease control or requiring medical intervention within the past 1 year), as well as those scheduled for deep sedation, taking chronic pain medications at home, or on a current brief course of narcotics, were excluded. Patients requiring emergent procedures, all mechanical circulatory support -assisted procedures, hemodynamically unstable patients, and other high-risk procedures as identi fi ed by the operator were also excluded.
+
+Potential eligible patients were screened for exclusion and inclusion criteria via the electronic medical record prior to the planned procedure. Once the eligible patient was identi fi ed, a member of the study group approached the patient regarding potential participation and provided a detailed description of the study. Written informed consent was then obtained from the patient prior to randomization.
+
+Randomization and allocation
+
+Patients were randomly allocated into 2 parallel groups (1:1 ratio), to either the NPO or nonfasting group. Each group was further strati fi ed by arterial (  venous) vs venous-only procedure. Randomization occurred using blinded envelopes. Envelope contents were randomized using Research Randomizer version 4.0 (Geoffrey C. Urbaniak and Scott Plous) prior to initial enrollment. After signing the study consent form, the randomization envelope was opened and the patient and respective care team were informed about study arm allocation. Instructions were then provided based on group allocation. Patients in the NPO group followed our institution ' s standard protocol and were required to fast after midnight prior to the procedure for both solids and liquids, except for sips of water with essential medications. Patients in the nonfasting group were encouraged to ingest at least some amount of both solid and liquid at a minimum, with no maximum intake stipulated. There were no dietary restrictions. The type and amount of solid and liquid intake were at the patient ' s discretion, and participants were allowed to eat and drink up to the time immediately prior to transfer to the cardiac catheterization laboratory for the scheduled procedure. For those in the nonfasting arm, the previously prescribed diet was reordered, and therefore the selection of diet type was as per the judgment of the primary team.
+
+Participants and staff members involved in direct patient care (nurses, primary team) were unblinded to group allocation, to ensure appropriate adherence to the allocation arm. For patients in the nonfasting arm, bedside nursing staff ensured drinks and foods were made available until the time of transfer for catheterization, and the primary team was informed so that the diet order could be changed appropriately. The coinvestigators conducting preprocedural screening, enrollment, and preprocedural and postprocedural standardized questionnaires were also not blinded to group allocation but were never responsible for primary decision-making. The primary operators (interventional cardiologists) and catheterization laboratory staff members were not provided with NPO status prior to the start of the procedure as a rule, and operators were asked that group allocation not in fl uence management. However, operators were not strictly blinded to group allocation so that NPO status was readily available to support decision-making in case of emergency to maximize patient safety. Fasting time was calculated as the time from the last solid and/or liquid intake to the time of sedation or start of the procedure.
+
+Catheterization procedure
+
+The cardiac catheterization procedures were performed per current standards of care. Local anesthesia with lidocaine 1% was administered to the procedural access site. A combination of intravenous analgesic (fentanyl) and sedative (midazolam) was used to achieve moderate sedation, with initial dosage and as-needed additional dose(s) at the operator ' s discretion. The decision to perform procedures without sedation, or with only mild sedation, was at the operator ' s discretion, if deemed unnecessary or unsafe based on the patient ' s risk pro fi le, or if by patient request. All coronary angiography procedures utilized iohexol (OMNIPAQUE; GE HealthCare) contrast media. Procedural duration was de fi ned as the time from onset of sedation initiation to case end or, in cases where no sedation was given, from time-out to case end.
+
+Data collection
+
+Patient-reported and procedural-related parameters. Baseline patient characteristics were collected from the medical record, including demographics, clinical characteristics, laboratory values, and medications. Medications and dosages given during the procedure were collected, as well as total contrast volume, total doses of sedatives and analgesics, and any required antiemetics. All relevant periprocedural adverse events were recorded, including intraprocedural and BMI, body mass index; GI, gastrointestinal; MCS, mechanical circulatory support; NPO, nil per os.
+
+[DOCLING_PAGE 3]
+
+B.K. Mitchell et al. / Journal of the Society for Cardiovascular Angiography & Interventions 3 (2024) 102291
+
+3
+
+Figure 1. CONSORT diagram.
+
+postprocedural nausea, emesis, aspiration events, emergency intubation, or hemodynamic instability.
+
+Immediately prior to the start of the procedure, patients were asked to quantify several score items referencing their well-being and experience on a numeric rating scale (NRS) with values between 0 (variable not present) and 5 (variable in most extreme form). The score items collected immediately before the start of the procedure included hunger, fatigue, anxiety, and nausea.
+
+The day following the procedure, using an identical 0 to 5 NRS, participants were asked to rate procedure-site pain, sleep quality, postprocedure nausea, and overall satisfaction. The reported incidence of any relevant postprocedural symptoms or adverse events was also obtained.
+
+Primary end points
+
+The fi rst primary end point was a composite preprocedural patient well-being score, calculated as the sum of the hunger and fatigue NRS.
+
+The second primary end point was the incidence of intraprocedural and postprocedural adverse events, including emesis, aspiration, or need for urgent/emergent intubation. Adverse events were assessed via a combination of procedural record examination, medical record review, and patient interview.
+
+Secondary outcomes were individual preprocedural well-being score variables, postprocedural patient experience scores, and changes in serum creatinine and glucose (de fi ned as the change from
+
+Central Illustration.
+
+Study fl ow (left), distribution of individual well-being component scores (center), and summary of fi ndings (right). LHC, left heart catheterization; NF, nonfasting; NPO, nil per os; NRS, numeric rating scale; RHC, right heart catheterization.
+
+[DOCLING_PAGE 4]
+
+4
+
+B.K. Mitchell et al. / Journal of the Society for Cardiovascular Angiography & Interventions 3 (2024) 102291
+
+[DOCLING_TABLE rows=31 columns=4]
+| Table 1. Patient characteristics at | baseline. |  |  |
+|  | NPO (n ¼ 94) | Nonfasting (n ¼ 104) |  |
+| Procedure type |  |  | .96 |
+| Coronary angiography  LHC | 60 (63.8%) | 65 (62.5%) |  |
+| Right heart catheterization | 34 (36.2%) | 39 (37.5%) |  |
+| Age, y | 61.5  10.7 | 60.5  12.8 | .56 |
+| Male sex | 60 (63.8%) | 68 (65.4%) | .94 |
+| Race |  |  | .27 |
+| Black | 35 (37.2%) | 49 (47.1%) |  |
+| White | 56 (59.6%) | 51 (49.0%) |  |
+| Asian | 1 (1.1%) | 0 (0.0%) |  |
+| Other | 2 (2.1%) | 4 (3.9%) |  |
+| Body mass index, kg/m 2 | 28.8  6.2 | 29.4  6.7 | .52 |
+| Diabetes mellitus |  |  | .74 |
+| Type 1 | 1 (1.1%) | 3 (2.9%) |  |
+| Type 2 | 46 (48.9%) | 48 (46.2%) |  |
+| Insulin-treated | 19 (20.2%) | 15 (14.4%) | .37 |
+| Prior CVA or TIA | 16 (17.0%) | 16 (15.4%) | .91 |
+| Chronic kidney disease a | 52 (55.3%) | 56 (53.8%) | .95 |
+| End-stage renal disease | 6 (6.4%) | 6 (5.8%) | > .99 |
+| LVEF, % | 46.8  17.2 | 45.3  18.5 | .57 |
+| LVEF categories |  |  | .72 |
+| Preserved LVEF (  50%) | 47 (50.5%) | 52 (51.0%) |  |
+| Reduced LVEF (  49%) | 24 (25.8%) | 22 (21.6%) |  |
+| Severely reduced LVEF ( < 30%) | 22 (23.7%) | 28 (27.5%) |  |
+| Coronary artery disease | 49 (52.1%) | 50 (48.1%) | .67 |
+| Arterial hypertension | 75 (79.8%) | 68 (65.4%) | .02 |
+| Preprocedural laboratory values |  |  |  |
+| Creatinine, mg/dL | 1.61  1.44 | 1.60  1.48 | .97 |
+| eGFR b , mL/min/1.73 2 | 67.1  31.4 | 67.8  31.8 | .89 |
+| Blood glucose, mg/dL | 136  55.0 | 136  58.5 | .91 |
+[/DOCLING_TABLE]
+
+Values are mean  SD or n (%).
+
+CVA, cerebrovascular attack; eGFR, estimated glomerular fi ltration rate; LHC, left heart catheterization; LVEF, left ventricular ejection fraction; NPO, nil per os.
+
+a eGFR < 60 mL/min/1.73 m 2 . b Calculated using the Modi fi cation of Diet in Renal Disease (MDRD) equation.
+
+the most recent preprocedural laboratory value to postprocedure value obtained on the day following the procedure).
+
+Statistical analysis
+
+The estimated sample size suf fi cient to detect a signi fi cant difference between the 2 groups for the primary outcome was based on a recent trial by Bode et al 15 which was conducted in a similar fashion to this trial, whose surveys contained similar questions and
+
+[DOCLING_TABLE rows=15 columns=4]
+| Table 2. Procedural | characteristics. |  |  |
+|  | NPO ¼ 94) | Nonfasting (n ¼ 104) | P value |
+| Procedure duration, min | 31.1  19.3 | 35.2  27.0 | .219 |
+| LHC duration, min | 34.5  20.3 | 40.6  31.7 | .201 |
+| RHC duration, min | 25.1  15.9 | 26.2  12.4 | .747 |
+| Coronary angiography  LHC PCI performed | 13 (21.7%) | 18 (27.7%) | .446 |
+| Contrast volume, mL | 57.0  39.1 | 62.4  45.3 | .462 |
+| Time from last solid intake to procedure, min | 1109  210 | 175  157 | < .001 |
+| Time from last liquid intake to procedure, min | 970  292 | 155  100 | < .001 |
+| Time from most recent oral intake (solid or liquid) to procedure, min | 970  291 | 148  90.3 | < .001 |
+| Medication |  |  |  |
+| Fentanyl dose, μ g | 30.6  23.5 | 32.0  24.7 | .687 |
+| Fentanyl utilization | 83 (88.3%) | 89 (85.6%) | .722 |
+| Midazolam dose, mg | 0.98  0.58 | 0.97  0.64 | .886 |
+| Midazolam utilization | 84 (89.4%) | 90 (86.5%) | .697 |
+[/DOCLING_TABLE]
+
+Values are mean  SD or n (%).
+
+LHC, left heart catheterization; NPO, nil per os; PCI, percutaneous coronary intervention; RHC, right heart catheterization.
+
+responses to our patient well-being and satisfaction surveys. We powered this trial to detect a mean between-group difference of 1, with a SD of 0.5 to 1.5. For 80% power, using an alpha of 0.05, the estimated number of patients needed to answer the primary clinical question was 200. There were no safety events in the Bode et al 15 trial; hence, we did not anticipate a signi fi cant difference in safety between groups.
+
+For the fi rst primary end point of summed well-being score, as well as the individual preprocedural well-being scales and postprocedural patient satisfaction scales, statistics are presented as mean  SD. The mean difference between groups was compared using the t test. For the second primary end point, binary event rates were compared with the χ 2 test.
+
+Statistical signi fi cance was set at P < .05, and all data analysis was conducted using R (The R Foundation).
+
+Results
+
+Baseline characteristics
+
+A total of 343 inpatients were screened for inclusion, with 200 enrolled and randomized between March and November 2023. Of these, 2 patients did not undergo catheterization and were excluded, resulting in 198 patients (NPO, n ¼ 94; nonfasting, n ¼ 104) included in the fi nal analysis (Figure 1, Central Illustration, left).
+
+There were no differences in baseline demographic and clinical characteristics between the NPO and nonfasting arms (Table 1). One hundred twenty- fi ve (63%) patients underwent coronary angiography  RHC, and 73 (37%) underwent RHC only. The distribution of procedure type was similar between study arms ( P ¼ .96).
+
+Procedural characteristics are summarized in Table 2. There was no difference in average procedure duration between the study groups. PCI was performed in 22% of cases in the NPO arm, and 28% within the nonfasting arm ( P ¼ .45). Average contrast volume was similar between groups. Utilization and mean doses of fentanyl and midazolam were not signi fi cantly different. Overall, 21 patients received no conscious sedation (neither fentanyl nor midazolam), the majority of whom underwent RHC (18/21, 85.7%). The mean duration from the last oral intake (solid or liquid) was 970 minutes in the NPO arm compared with 148 minutes in the nonfasting arm ( P < .001).
+
+Primary analysis
+
+The summed patient well-being score of hunger plus fatigue was 6.0  2.5 for NPO vs 2.4  2.4 for the nonfasting group, P < .001. (Figure 2A, Table 3). The NPO group reported worse scores for each individual component of the well-being score, with statistically signi fi cant differences for hunger, tiredness, and nausea (Figure 2B, Table 3, Central Illustration, center). A linear relationship was observed between fasting duration and the summed hunger þ tiredness score, such that time since the last solid/liquid intake was associated with the preprocedural discomfort score, regardless of the randomization arm (Figure 3).
+
+There was no difference between periprocedural adverse events between the 2 groups (Table 4). There were 2 instances of intraprocedural emesis. One patient allocated to the NPO arm vomited during intraaortic balloon pump insertion, although there was no need for urgent intubation, no aspiration, and no development of pneumonia. Another patient randomized to the nonfasting arm had intraprocedural emesis, and the procedure was aborted. This patient had heart failure with reduced ejection fraction (HFrEF), end-stage renal disease, and underwent PCI. Despite emesis, intubation was not required, and chart interrogation revealed no evidence of aspiration, Values are mean  SD. Scores range from 0 to 5, with 0 representing absence and 5 representing the most severe form of the symptom.
+
+[DOCLING_PAGE 5]
+
+B.K. Mitchell et al. / Journal of the Society for Cardiovascular Angiography & Interventions 3 (2024) 102291
+
+5
+
+Figure 2. Preprocedural summed hunger tiredness scale (A) and distribution of individual well-being component scores (B).
+
+[DOCLING_TABLE rows=6 columns=4]
+| Table 3. Patient-reported well-being scores preprocedure. | NPO | Nonfasting (n ¼ 104) | P value |
+| Summed well-being score (hunger þ tiredness) | 6.0  2.5 | 2.4  2.4 | < .001 |
+| Hunger | 3.7  1.5 | 0.9  1.5 | < .001 |
+| Tiredness | 2.3  1.8 | 1.5  1.6 | < .001 |
+| Anxiety | 2.3  2.0 | 1.9  1.8 | .14 |
+| Nausea | 0.5  1.2 | 0.1  0.5 | .006 |
+[/DOCLING_TABLE]
+
+NPO, nil per os.
+
+pneumonia, or other respiratory distress. This patient ' s death 2 days later was attributed to ventricular fi brillation and cardiac arrest.
+
+Secondary analyses
+
+Patients in the NPO arm reported worse postprocedural overall satisfaction than those in the nonfasting arm (1.0  1.3 vs 0.3  0.7, P < .001), but there were no statistically signi fi cant differences between groups for the individual components of the surgical site or other pain, sleep quality, or nausea. (Table 4) and no between-group differences were observed in preprocedural or postprocedural creatinine or glucose.
+
+[DOCLING_PAGE 6]
+
+6
+
+B.K. Mitchell et al. / Journal of the Society for Cardiovascular Angiography & Interventions 3 (2024) 102291
+
+.
+
+Figure 3. Association of fasting duration with preprocedural patient-reported hunger þ tiredness score
+
+Discussion
+
+This trial found that for patients undergoing elective or urgent inpatient cardiac catheterization, a liberal nonfasting strategy was associated with signi fi cantly improved patient well-being compared to a traditional fasting strategy, with no differences in patient outcomes or periprocedural adverse events (Central Illustration, right). The preprocedural summed well-being score (hunger þ fatigue) was signi fi cantly lower (ie, better) in the nonfasting group, as were the individual measures of hunger, fatigue, and nausea. There was no difference in the incidence of intraprocedural emesis, aspiration, or emergent intubation. Similarly, postprocedure blood glucose and renal function were not in fl uenced by group allocation. Overall postprocedural satisfaction scores were signi fi cantly better in the nonfasting group compared to the standard NPO arm.
+
+Our fi ndings of signi fi cantly better preprocedural patient well-being scores and postprocedural satisfaction, as well as the observed linear ' dose-response ' relationship between fasting duration and negative patient experience, are consistent with other studies examining the effects of reduced fasting duration on patient well-being and outcomes.
+
+[DOCLING_TABLE rows=15 columns=4]
+| Table 4. Periprocedural and postprocedural outcomes and postprocedural patient experience scores. | Table 4. Periprocedural and postprocedural outcomes and postprocedural patient experience scores. | Table 4. Periprocedural and postprocedural outcomes and postprocedural patient experience scores. | Table 4. Periprocedural and postprocedural outcomes and postprocedural patient experience scores. |
+|  | NPO (n ¼ 94) | Nonfasting (n ¼ 104) | P value |
+| Periprocedural and postprocedural outcomes |  |  |  |
+| Emesis | 1 (1.1%) | 1 (1.0%) | > .99 |
+| Aspiration | 0 | 0 | - |
+| Intubation | 0 | 0 | - |
+| Postprocedural laboratory values |  |  |  |
+| Creatinine, mg/dL | 1.54  1.27 | 1.54  1.30 | .99 |
+| eGFR postprocedure, mL/min/1.73m 2 | 67.6  31.4 | 68.5  31.7 | .86 |
+| Blood glucose post, mg/dL | 130  52.5 | 144  64.9 | .10 |
+| Postprocedural patient experience scores |  |  |  |
+| Surgical site or other pain | 1.0  1.3 | 0.6  1.1 | .05 |
+| Sleep quality | 1.6  1.4 | 1.6  1.5 | .97 |
+| Nausea | 0.4  0.8 | 0.2  0.8 | .12 |
+| Overall satisfaction | 1.0  1.3 | 0.3  0.7 | < .001 |
+[/DOCLING_TABLE]
+
+Values are mean  SD or n (%). NPO, nil per os.
+
+A meta-analysis by Brady et al 5 found that shorter fasting periods had lower rates of aspiration with reduced thirst and hunger. Another meta-analysis by Cheng et al 16 demonstrated a signi fi cant improvement in preoperative thirst, hunger, and pain vs strict fasting, with no difference in perioperative nausea, vomiting, or aspiration. Fewer dedicated studies have prospectively examined alternative fasting protocols in cardiac procedures. One study found no differences in patient satisfaction or clinical outcomes, including aspiration pneumonitis, in 599 patients randomized to either an overnight fasting (with liquids up to 2 hours prior) or a nonfasting protocol prior to nonemergent cardiac catheterization. 11 Another found that in cardiac implantable electronic device procedures, a nonfasting strategy was associated with signi fi cantly improved patient well-being scores, with no difference in periprocedural adverse outcomes. 15 Most recently, Atkinson et al 17 demonstrated no difference in satisfaction or adverse events among patients randomized to a liberal fasting protocol prior to transcatheter aortic valve replacement or arrhythmia ablation.
+
+There were few incidences of intraprocedural emesis, aspiration, or intubation in our study and no difference between study groups. This is unsurprising, given that perioperative aspiration and emergent intubation events are rare. A retrospective study by Warner et al 9 found the overall incidence of aspiration was 0.02% (52 events among 202,061 cases) in a large cohort of patients undergoing elective surgery with general anesthesia. Two additional large studies reported even less frequent event rates. Sakai et al 18 described an aspiration incidence of 0.01% for patients receiving general or monitored anesthesia care, while Sun et al 10 noted that pulmonary aspiration occurred in 0.01% of all anesthesia cases (20 events in 166,491 cases) and in 0.004% of elective cases. Speci fi c to cardiac interventions, a retrospective analysis of 1916 patients who did not fast prior to elective or emergent PCI, 61.5% of whom had ACS, found no episodes of aspiration pneumonia, or need for emergent intubation. 12 Similarly, among nonfasting patients undergoing coronary angiography with or without PCI, there were no instances of aspiration, and urgent intubation was required in only 0.08% of cases. 19 Finally, although there was a trend toward less nausea in the nonfasting group, this was not statistically signi fi cant. This is consistent with the meta-analyses mentioned earlier which noted a relatively low incidence of nausea overall, and minimal difference between groups. 5,16 Appropriate exclusion of high-risk individuals, in addition to well-matched baseline parameters, may also help explain this fi nding.
+
+[DOCLING_PAGE 7]
+
+B.K. Mitchell et al. / Journal of the Society for Cardiovascular Angiography & Interventions 3 (2024) 102291
+
+7
+
+Importantly, there were no differences between groups in terms of fentanyl or midazolam utilization or dosage. This is notable, as it suggests a lack of operator bias despite the unblinded study design. Further, it may reassure providers that the use of routine sedation in a nonfasting population does not compromise safety.
+
+Our study found that patients in the liberal intake group still fasted for 148 minutes on average, despite being encouraged to eat and drink prior to their procedure. This is not entirely surprising, considering the patients were likely limited to hospital food which is delivered on a set schedule, resulting in gaps in eating between meals. Our results are consistent with those of multiple other studies that have shown that patients fast for longer than the required duration. 13 -15,17 Bacus et al 14 found that 80% of patients fasted longer than the recommended 6 hours, with an average fasting duration of 11.6 hours. Chon et al 13 found that procedural delays leading to increased fasting duration are common, with the average fasting time of 12.8 hours increasing to an average of 13.5 hours in signi fi cantly delayed cases.
+
+Although our trial shares some similarities with previous studies, it differs in many key aspects. Most studies have mandated that the abbreviated fasting arm intake either a speci fi c type of liquid (eg, clear liquid, carbohydrate beverage) or a speci fi c diet type, and intake was frequently allowed until 2 hours prior to the start of the procedure. Conversely, our nonfasting patients were allowed near complete autonomy on the type and amount of liquid and solid intake, within the parameters of their preexisting diet orders. This strategy has the advantages of being simple to implement and widely generalizable while testing the most liberal iteration of the nonfasting strategy. We enrolled inpatients because their diets would be easy to monitor and because inpatient procedures are typically performed after outpatients, and therefore would result in longer fasts, making between-group differences easier to detect. Further, there was a high comorbidity burden among our trial participants: 25% had severely reduced left ventricular ejection fraction ( < 30%), 49% had diabetes mellitus, 50% had coronary artery disease, and 60% had chronic kidney disease or end-stage renal disease.
+
+Limitations
+
+Limitations of our study include the unblinded design. Despite physician awareness of the protocol, there were no signi fi cant differences in utilization or dosage of midazolam or fentanyl between study arms. We cannot ensure that all patients prescribed to fast past midnight comply, despite the care team ' s diligence and the presence of appropriate diet orders. Nonfasting adherence could reliably be corroborated by nursing staff who assisted with meals; we still relied on patient recall to determine the timing of the last liquid and solid intake, which may have been biased. RHC procedures were on average shorter in duration and less complex overall, potentially impacting risk. Approximately 25% (18/73) of RHC-only procedures were performed without sedation, which was at the discretion of the operator and/or patient and in fl uenced by perceived patient risk. Lack of sedation might impact risk, yet this was likely balanced by the signi fi cant proportion of moderate to severe HFrEF among patients undergoing RHC in this study. Sedation in the presence of moderate to severe HFrEF may confer elevated risk given relative hypotension, lower thresholds for respiratory distress in the setting of elevated fi lling pressures, reduced gastrointestinal motility, and concern for sedative accumulation due to renal and/or hepatic dysfunction. Due to the very low rates of periprocedural adverse events including aspiration and emergent intubation (after excluding high-risk patients we would estimate an event rate of < 1%), it is not feasible to power our study to assess for these safety end points, which presumably explains why similar studies have used patient experience variables as primary end points.
+
+Conclusions
+
+This study found that in patients undergoing cardiac catheterization, a liberal nonfasting strategy signi fi cantly improved patient well-being without compromising safety. We included a demographically and clinically diverse patient population, in both urgent and elective procedures, and with liberal nonfasting allowances, which should allow for easy generalizability. Routine fasting prior to cardiac catheterization should be reconsidered.
+
+Declaration of competing interest
+
+The authors declared no potential con fl icts of interest with respect to the research, authorship, and/or publication of this article.
+
+Funding sources
+
+This work was not supported by funding agencies in the public, commercial, or not-for-pro fi t sectors.
+
+Ethics statement and patient consent
+
+This prospective randomized controlled trial was conducted according to all relevant ethical guidelines following approval by the Virginia Commonwealth University Institutional Review Board (protocol HM20025962). All patients provided written informed consent prior to randomization.
+
+References
+
+Mendelson CL. The aspiration of stomach contents into the lungs during obstetric anesthesia. Am J Obstet Gynecol . 1946;52:191 -205. https://doi.org/10.1016/ s0002-9378(16)39829-5
+
+Practice guidelines for preoperative fasting and the use of pharmacologic agents to reduce the risk of pulmonary aspiration: application to healthy patients undergoing elective procedures: an updated report by the American Society of Anesthesiologists Task Force on Preoperative Fasting and the Use of Pharmacologic Agents to Reduce the Risk of Pulmonary Aspiration. Anesthesiology . 2017;126(3):376 -393. https://doi.org/10.1097/ALN.00000000 00001452
+
+Bangalore S, Barsness GW, Dangas GD, et al. Evidence-based practices in the cardiac catheterization laboratory: a scienti fi c statement from the American Heart Association. Circulation . 2021;144(5):e107 -e119. https://doi.org/10.1161/ CIR.0000000000000996
+
+Naidu SS, Abbott JD, Bagai J, et al. SCAI expert consensus update on best practices in the cardiac catheterization laboratory: this statement was endorsed by the American College of Cardiology (ACC), the American Heart Association (AHA), and the Heart Rhythm Society (HRS) in April 2021. Catheter Cardiovasc Interv . 2021;98(2):255 -276. https://doi.org/10.1002/ccd.29744
+
+Brady M, Kinn S, Stuart P. Preoperative fasting for adults to prevent perioperative complications. Cochrane Database Syst Rev . 2003;(4):CD004423. https://doi.org/ 10.1002/14651858.CD004423
+
+Hutchinson A, Maltby JR, Reid CR. Gastric fl uid volume and pH in elective inpatients. Part I: coffee or orange juice versus overnight fast. Can J Anaesth . 1988;35(1):12 -15. https://doi.org/10.1007/BF03010537
+
+Phillips S, Hutchinson S, Davidson T. Preoperative drinking does not affect gastric contents. Br J Anaesth . 1993;70(1):6 -9. https://doi.org/10.1093/bja/70.1.6
+
+Sutherland AD, Stock JG, Davies JM. Effects of preoperative fasting on morbidity and gastric contents in patients undergoing day-stay surgery. Br J Anaesth . 1986; 58(8):876 -878. https://doi.org/10.1093/bja/58.8.876
+
+Warner MA, Warner ME, Weber JG. Clinical signi fi cance of pulmonary aspiration during the perioperative period. Anesthesiology . 1993;78(1):56 -62. https:// doi.org/10.1097/00000542-199301000-00010
+
+Sun J, Wei G, Hu L, Liu C, Ding Z. Perioperative pulmonary aspiration and regurgitation without aspiration in adults: a retrospective observational study of 166,491 anesthesia records. Ann Palliat Med . 2021;10(4):4037 -4046. https:// doi.org/10.21037/apm-20-2382
+
+Mishra A. Strict versus no fasting prior to cardiac catheterization: a prospective evaluation of safety and clinical outcomes. Paper/Poster presented at . Paris, France: European Society of Cardiology Congress 2019; 2019.
+
+Hamid T, Aleem Q, Lau Y, et al. Pre-procedural fasting for coronary interventions: is it time to change practice? Heart . 2014;100(8):658 -661. https://doi.org/10.1136/ heartjnl-2013-305289
+
+Chon T, Ma A, Mun-Price C. Perioperative fasting and the patient experience. Cureus . 2017;9(5), e1272. https://doi.org/10.7759/cureus.1272
+
+[DOCLING_PAGE 8]
+
+8
+
+B.K. Mitchell et al. / Journal of the Society for Cardiovascular Angiography & Interventions 3 (2024) 102291
+
+Bacus SB, Parsons J, Benatar J, Somaratne J, Webster M, Parke R. Fasting prior to cardiac catheterisation: a single-centre observational study. N Z Med J . 2020; 133(1510):16 -22.
+
+Bode K, Gerhards M, Doering M, et al. A randomized trial of non-fasting vs. fasting for cardiac implantable electronic device procedures (Fast-CIED Study). Europace . 2022;24(10):1617 -1626. https://doi.org/10.1093/europace/ euac081
+
+Cheng PL, Loh EW, Chen JT, Tam KW. Effects of preoperative oral carbohydrate on postoperative discomfort in patients undergoing elective surgery: a meta-analysis of randomized controlled trials. Langenbecks Arch Surg . 2021;406(4):993 -1005. https://doi.org/10.1007/s00423-021-02110-2
+
+Atkinson DJ, Romeiser JL, Almasry IO, Tannous HJ, Parikh PB. Bennett-Guerrero E. Randomized controlled trial of liberal vs. standard fasting instructions in percutaneous cardiac procedures. Perioper Med (Lond) . 2023;12(1):44. https:// doi.org/10.1186/s13741-023-00333-z
+
+Sakai T, Planinsic RM, Quinlan JJ, Handley LJ, Kim TY, Hilmi IA. The incidence and outcome of perioperative pulmonary aspiration in a university hospital: a 4-year retrospective analysis. Anesth Analg . 2006;103(4):941 -947. https://doi.org/ 10.1213/01.ane.0000237296.57941.e7
+
+Proctor R, Wong A, Robinson R, Said C, Kempton H, Muller D. Fasting prior to coronary procedures, a thing of the past: a retrospective audit. Heart Lung Circ . 2023;32:S434 -S435. https://doi.org/10.1016/j.hlc.2023.06.645

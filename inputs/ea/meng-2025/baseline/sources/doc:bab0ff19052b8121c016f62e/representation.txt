@@ -1,0 +1,497 @@
+[DOCLING_PAGE 1]
+
+e168
+
+Correspondence
+
+-
+
+propofol only during surgical stimulation. Br J Anaesth 2010; 105 : 471 e 9
+
+Fu F, Chen X, Feng Y, Shen Y, Feng Z, Bein B. Propofol EC50 for inducing loss of consciousness is lower in the luteal phase of the menstrual cycle. Br J Anaesth 2014; 112 : 506 e 13
+
+Beaussier M, Delbos A, Maurice-Szamburski A, Ecoffey C, Mercadal L. Perioperative use of intravenous lidocaine. Drugs 2018; 78 : 1229 e 46
+
+Hermanns H, Hollmann MW, Stevens MF, et al. Molecular mechanisms of action of systemic lidocaine in acute and chronic pain: a narrative review. Br J Anaesth 2019; 123 : 335 e 49
+
+perioperative lidocaine infusion for postoperative pain and recovery in adults. Cochrane Database Syst Rev 2018; 6 , CD009642
+
+Pandit JJ, McGuire N. Unlicensed intravenous lidocaine for postoperative pain: always a safer 'licence to stop' than to start. Anaesthesia 2021; 76 : 156 e 60
+
+Neal JM, Barrington MJ, Fettiplace MR, et al. The Third American Society of regional anesthesia and pain medicine practice advisory on local anesthetic systemic toxicity: executive summary 2017. Reg Anesth Pain Med 2018; 43 : 113 e 23
+
+doi: 10.1016/j.bja.2021.07.020
+
+Advance Access Publication Date: 19 August 2021 © 2021 British Journal of Anaesthesia. Published by Elsevier Ltd. All rights reserved.
+
+Meta-analysis of randomised controlled trials of perioperative dexmedetomidine to reduce delirium and mortality after cardiac surgery
+
+Robert D. Sanders 1,2,3,* , Jordan Wehrman 1 , Joanne Irons 1,2 , Jan Dieleman 4 , David Scott 5,6 and Yahya Shehabi 7,8
+
+1 University of Sydney, Camperdown, NSW, Australia, 2 Department of Anaesthetics, Royal Prince Alfred Hospital, Camperdown, NSW, Australia, 3 Institute of Academic Surgery, Camperdown, NSW, Australia, 4 Department of Anaesthesia & Perioperative Medicine, Westmead Hospital, Westmead, NSW, Australia, 5 Department of Anaesthesia & Acute Pain Medicine, St Vincent's Hospital, Melbourne, VIC, Australia, 6 University of Melbourne, Melbourne, VIC, Australia, 7 Monash Health School of Clinical Sciences, Monash University, Melbourne, VIC, Australia and 8 Prince of Wales Clinical School of Medicine, University of New South Wales, Randwick, NSW, Australia
+
+*Corresponding author. E-mail: robert.sanders@sydney.edu.au
+
+Keywords: cardiac surgery; delirium; dexmedetomidine; meta-analysis; perioperative outcome
+
+Editor d Recent studies 1,2 have not supported the hypothesis that perioperative dexmedetomidine improves outcomes from cardiac surgery via sympatholytic, anti-inflammatory or organ-protective effects. 3 Postoperative delirium has been a key area of recent interest. Two recent high-profile studies have not found significant effects on this endpoint, but show trends to effects on mortality. 1,2 Notably, the lack of effect on delirium may be attributable to over-sedation in one trial, evident by prolonged ventilation time in the dexmede tomidine-treated group. 2 That study 2 used methods that are excellent for detecting delirium in ventilated patients but suboptimal for non-intubated patients, 4 consistent with the low overall delirium rates detected. The other study 1 included both the Confusion Assessment Method (CAM) and CAM-ICU, which is a more comprehensive approach to delirium assessment. However, this study also showed no overall effects on in-hospital delirium but a trend to reduced delirium in the ICU. 1 This more short-term effect is likely more biologically plausible, but was not statistically proven. Intriguingly the study by Momeni and colleagues 1 suggested a potentially large effect on in-hospital mortality with 10-fold lower mortality in the dexmedetomidine group (for which the authors offer an appropriately conservative interpretation).
+
+As the delirium results seemed inconsistent with prior literature, and the mortality effects seemed surprisingly large, we conducted a hypothesis-generating meta-analysis of the available data from RCTs (based on other recent meta-analyses 5,6 updated with new studies 1,7 ). The meta-analysis was performed in R with the package 'metafor ' (R Foundation for Statistical Computing, Vienna, Austria). Odds ratios were calculated for each article included in the analysis based on the incidence of delirium and mortality events from the total. Arandom effects model was fit to each outcome (delirium and mortality) both separately and combined.
+
+Our updated meta-analysis shows that delirium after cardiac surgery is reduced by 46% (odds ratio 0.54 [95% confidence interval 0.38 e 0.76]), however 30-day in-hospital mortality is not significantly reduced (odds ratio 0.55 [95% confidence interval 0.27 e 1.13], Fig. 1). Notable limitations for the metaanalysis include the heterogeneity of the results across the
+
+[DOCLING_PAGE 2]
+
+Correspondence
+
+e169
+
+-
+
+Fig 1. Forest plots showing meta-analyses of cardiac surgery studies comparing dexmedetomidine with a control for delirium and mortality. To facilitate a conservative interpretation, for Momeni and colleagues 1 in-hospital delirium rates were included. CI, confidence interval; Dex, dexmedetomidine; df, degrees of freedom; RE, random effects,
+
+Author and year
+
+Odds ratio [95% CI]
+
+Odds ratio (log scale)
+
+0.01
+
+0.25
+
+1
+
+4
+
+0.48 [0.04-5.63]
+
+0.15 [0.01-3.84]
+
+1.07 [0.06-17.68]
+
+0.46 [0.23-0.93]
+
+0.62 [0.23-1.65]
+
+0.33 [0.12-0.90]
+
+0.21 [0.01-4.49]
+
+0.03 [0.00-0.29]
+
+0.39 [0.11-1.37]
+
+0.89 [0.52-1.54]
+
+0.34 [0.12-0.91]
+
+0.17 [0.02-1.58]
+
+0.53 [0.26-1.10]
+
+0.47 [0.24-0.92]
+
+0.47 [0.22-0.99]
+
+0.75 [0.30-1.88]
+
+1.54 [1.03-2.31]
+
+0.54 [0.38-0.76]
+
+1.00 [0.02-52.36]
+
+0.50 [0.09-2.75]
+
+1.01 [0.14-7.36]
+
+0.09 [0.01-0.75]
+
+0.27 [0.01-7.13]
+
+0.77 [0.28-2.09]
+
+0.55 [0.27-1.13]
+
+0.54 [0.40-0.74]
+
+Event+
+
+Dex
+
+Event-
+
+Event+
+
+Control
+
+Event-
+
+Abdel Azeem, 2018
+
+Ammar, 2016
+
+0
+
+2
+
+2
+
+1
+
+0
+
+7
+
+25
+
+140
+
+82
+
+204
+
+22
+
+391
+
+0
+
+4
+
+2
+
+10
+
+1
+
+9
+
+25
+
+139
+
+83
+
+193
+
+18
+
+387
+
+Li, 2017b
+
+Likhvantsev, 2021b
+
+Momeni, 2021b
+
+Talke, 2000
+
+Turan, 2020b
+
+Balkanay, 2015
+
+Corbett, 2005
+
+Djaiani, 2016
+
+Li, 2017a
+
+Likhvantsev, 2021a
+
+Liu, 2016
+
+Maldonado, 2009
+
+Massoumi, 2019
+
+Momeni, 2021a
+
+Park, 2014
+
+Priye, 2015
+
+Shehabi, 2009
+
+Shi, 2019
+
+Shokri, 2019
+
+Subramaniam, 2019
+
+Turan, 2020a
+
+1
+
+0
+
+1
+
+16
+
+7
+
+6
+
+0
+
+1
+
+4
+
+31
+
+6
+
+1
+
+13
+
+21
+
+12
+
+10
+
+67
+
+29
+
+60
+
+42
+
+75
+
+135
+
+78
+
+29
+
+29
+
+40
+
+146
+
+61
+
+31
+
+139
+
+63
+
+132
+
+49
+
+331
+
+2
+
+1
+
+1
+
+29
+
+11
+
+16
+
+2
+
+15
+
+9
+
+33
+
+17
+
+5
+
+22
+
+33
+
+23
+
+13
+
+46
+
+28
+
+27
+
+45
+
+63
+
+132
+
+69
+
+30
+
+15
+
+35
+
+139
+
+58
+
+27
+
+125
+
+47
+
+119
+
+48
+
+350
+
+Delirium
+
+Mortality
+
+RE model for subgroup (
+
+Q
+
+=35.78, df=16,
+
+P
+
+<0.01;
+
+I
+
+2 =49.4%,
+
+2
+
+=0.20)
+
+RE model for all studies (
+
+Q
+
+=39.97, df=22,
+
+P
+
+=0.01;
+
+I
+
+2 =41.2%,
+
+2
+
+=0.18)
+
+Test for subgroup differences:
+
+Q
+
+m =15.50, df=0,
+
+P
+
+=0.00
+
+RE model for subgroup (
+
+Q
+
+=3.87, df=5,
+
+P
+
+=0.57;
+
+I
+
+2 =0.0%,
+
+2
+
+=0.00)
+
+multiple (mostly small) randomised trials for delirium, and the limited available data on mortality. Hence, the hypothesis that dexmedetomidine may reduce delirium and mortality should be tested in a large RCT. The present results from this metaanalysis should not be considered definitive.
+
+We propose that 'days alive and at home ' would be a reasonable patient-centred outcome for such a study that captures meaningful morbidity (such as delirium) and mortality. 8 Given that delirium and mortality risk are elevated in older subjects, and secondary analysis of the 4000 patient SPICE III trial suggested a specific benefit of dexmedetomidine sedation in older, surgical, or both participants, 9 such a trial should focus on vulnerable older patients. We suggest that because of design limitations, current trial data do not address the important question of potential benefits of early perioperative administration of dexmedetomidine in cardiac surgical ICU patients. Future studies should address the potential benefit of sympatholytic, organ-protective dosing of dexmedetomidine during and after surgery, as intraoperative administration may offer particular benefits. 10,11
+
+Declarations of interest
+
+YS declares receiving speaker honorarium from Pfizer. RDS is a member of the board of the British Journal of Anaesthesia .
+
+The other authors declare that they have no conflicts of interest.
+
+Funding
+
+US National Institute on Aging (R01 AG063849-01).
+
+References
+
+Momeni M, Khalifa C, Lemaire G, et al. Propofol plus lowdose dexmedetomidine infusion and postoperative delirium in older patients undergoing cardiac surgery. Br J Anaesth 2021; 126 : 665 e 73
+
+Turan A, Duncan A, Leung S, et al. Dexmedetomidine for reduction of atrial fibrillation and delirium after cardiac surgery (DECADE): a randomised placebo-controlled trial. Lancet 2020; 396 : 177 e 85
+
+Sanders RD, Maze M. Alpha2-adrenoceptor agonists. Curr Opin Investig Drugs 2007; 8 : 25 e 33
+
+Vasilevskis EE, Girard TD, Ely EW. The bedside diagnosis of ICU delirium: specificity is high, let's optimize sensitivity. Am J Respir Crit Care Med 2012; 185 : 107 e 8. author reply 108
+
+Peng K, Ji FH, Liu HY, Zhang J, Chen QC, Jiang YH. Effects of perioperative dexmedetomidine on postoperative
+
+[DOCLING_PAGE 3]
+
+e170
+
+Correspondence
+
+-
+
+mortality and morbidity: a systematic review and metaanalysis. Clin Ther 2019; 41 . 138 e 154 e134
+
+Li P, Li LX, Zhao ZZ, et al. Dexmedetomidine reduces the incidence of postoperative delirium after cardiac surgery: a meta-analysis of randomized controlled trials. BMC Anesthesiol 2021; 21 : 153
+
+Likhvantsev VV, Landoni G, Grebenchikov OA, et al. Perioperative dexmedetomidine supplement decreases delirium incidence after adult cardiac surgery: a randomized, double-blind, controlled study. J Cardiothorac Vasc Anesth 2021; 35 : 449 e 57
+
+Moonesinghe SR, Jackson AIR, Boney O, et al. Systematic review and consensus definitions for the Standardised Endpoints in Perioperative Medicine initiative: patientcentred outcomes. Br J Anaesth 2019; 123 : 664 e 70
+
+ShehabiY,SerpaNetoA,HoweBD,etal.Earlysedationwith dexmedetomidine in ventilated critically ill patients and heterogeneity of treatment effect in the SPICE III randomised controlled trial. Intensive Care Med 2021; 47 : 455 e 66
+
+Duan X, Coburn M, Rossaint R, Sanders RD, Waesberghe JV, Kowark A. Efficacy of perioperative dexmedetomidine on postoperative delirium: systematic review and meta-analysis with trial sequential analysis of randomised controlled trials. Br J Anaesth 2018; 121 : 384 e 97
+
+Peng K, Li D, Applegate 2nd RL, Lubarsky DA, Ji FH, Liu H. Effect of dexmedetomidine on cardiac surgery-associated acute kidney injury: a meta-analysis with trial sequential analysis of randomized controlled trials. J Cardiothorac Vasc Anesth 2020; 34 : 603 e 13
+
+doi: 10.1016/j.bja.2021.08.009
+
+Advance Access Publication Date: 3 September 2021 © 2021 British Journal of Anaesthesia. Published by Elsevier Ltd. All rights reserved.
+
+Perioperative dexmedetomidine and 5-year survival in patients undergoing cardiac surgery. Reply to Br J Anaesth 2021; 127: e127 e 8
+
+Ke Peng 1,2 , Yue-ping Shen 3 , Richard L. Applegate II 2 , David A. Lubarsky 2 , Hong Liu 2,* and Fu-Hai Ji 1,**
+
+1 Department of Anesthesiology, First Affiliated Hospital of Soochow University, Suzhou, Jiangsu, China, 2 Department of Anesthesiology and Pain Medicine, University of California Davis Health, Sacramento, CA, USA and 3 Department of Epidemiology and Biostatistics, School of Public Health, Medical College of Soochow University, Suzhou, Jiangsu, China
+
+*Corresponding author.
+
+**Corresponding author. E-mails: hualiu@ucdavis.edu, jifuhaisuda@163.com
+
+Keywords: cardiac surgery; complications; dexmedetomidine; postoperative outcomes; survival
+
+Editor d We thank Hu and colleagues 1 for their interest in our study on the perioperative use of dexmedetomidine in patients undergoing cardiac surgery, in which we showed that dexmedetomidine infusion (initiated from cardiopulmonary bypass until tracheal extubation or 24 h) was associated with reduced death up to 5 yr after cardiac surgery. 2 We initially found a higher 5-yr survival rate in patients who received dexmedetomidine compared with those who did not in the original unadjusted cohort of 2068 patients. After adjustment for baseline covariates using propensity score matching, inverse probability of treatment weighting, or overlap weighting techniques, this association between dexmedetomidine use and long-term survival remained. In Figure 1, a graphic summary of dexmedetomidine's effect on survival after cardiac surgery is shown for a better demonstration of our study findings.
+
+Hu and colleagues 1 suggest that several contraindications of dexmedetomidine use (including heart rate > 120 beats min [UNMAPPED_GLYPH U+0000] 1 , severe sinus bradycardia, secondor third-degree atrioventricular block, or sick sinus syndrome) should be incorporated into the exclusion criteria of our study. First, there is no absolute contraindication to the use of dexmedetomidine, but it should be used with caution in patients with bradycardia and hypotension. 3,4 Second, our inclusion and exclusion criteria were applied during the screening process of electronic medical records and our institutional Society of Thoracic Surgeons (STS) National Adult Cardiac Surgery Database. Third, whether patients received perioperative dexmedetomidine was at the discretion of the attending anaesthesiologists such that we are unable to decide who would receive dexmedetomidine or not.
+
+Their second suggestion is to include details of the diagnosis of heart block after surgery. We did present the definitions of postoperative outcomes in Supplementary Table S1 of our article. Based on the STS national criteria, heart block was defined as new heart block requiring implantation of a permanent pacemaker of any type before hospital discharge. 5 Thus, only new onset heart block that was treated with permanent pacemaker implantation was recorded. Here, we would like to reiterate that multiple testing was not planned for the secondary outcomes (including the incidence of postoperative complications and utilisation of healthcare resources), so we are not able to draw any definite clinical inference from these secondary outcomes.

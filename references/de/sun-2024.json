@@ -1,0 +1,506 @@
+{
+  "case_id": "sun-2024",
+  "study_target_cells": [
+    {
+      "study_key": "colak",
+      "target_id": "result.postoperative_delirium",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 8,
+        "intervention_group_size": 94,
+        "comparator_events": 13,
+        "comparator_group_size": 96
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 8,
+          "document_key": "colak.registry",
+          "source_path": "documents/colak-registry/source.json",
+          "source_sha256": "6e013e5f947d6bce4eb4cf7c39398ca7c709ce94e22645ddce5bca70feb031d6",
+          "quote": " Stay > 7 Days\",\n          \"reportingStatus\": \"POSTED\",\n          \"paramType\": \"NUMBER\",\n          \"unitOfMeasure\": \"participants\",\n          \"timeFrame\": \"7 postoperative days\",\n          \"groups\": [\n            {\n              \"id\": \"OG000\",\n              \"title\": \"CONTROL\",\n              \"description\": \"The CONTROL arm did not have INVOS or any other cerebral oxygenation monitoring, so interventions to control cerebral oxygenation were not performed.\"\n            },\n            {\n              \"id\": \"OG001\",\n              \"title\": \"INVOS\",\n              \"description\": \"INVOS (In Vivo Optical Spectroscopy): Cerebral oxygenation (rSO2) monitoring with INVOS device. If rSO2 decreased for more than 20% from patient's baseline value, simple interventions were performed to prevent brain injury. These interventions included: repositioning of head or perfusion cannulae, increasing arterial carbon dioxide tension, increasing oxygen inspiration concentration, increasing arterial blood pressure, adjusting pump flow rate, temperature decreasing, increasing of anesthetic depth and blood transfusion.\"\n            }\n          ],\n          \"denoms\": [\n            {\n              \"units\": \"Participants\",\n              \"counts\": [\n                {\n                  \"groupId\": \"OG000\",\n                  \"value\": \"96\"\n                },\n                {\n                  \"groupId\": \"OG001\",\n                  \"value\": \"94\"\n                }\n              ]\n            }\n          ],\n          \"classes\": [\n            {\n              \"title\": \"Stroke, coma, stupor\",\n              \"categories\": [\n                {\n                  \"measurements\": [\n                    {\n                      \"groupId\": \"OG000\",\n                      \"value\": \"1\"\n                    },\n                    {\n                      \"groupId\": \"OG001\",\n                      \"value\": \"4\"\n                    }\n                  ]\n                }\n              ]\n            },\n            {\n              \"title\": \"Delirium\",\n              \"categories\": [\n                {\n                  \"measurements\": [\n                    {\n                      \"groupId\": \"OG000\",\n                      \"value\": \"13\"\n                    },\n                    {\n                      \"groupId\": \"OG001\",\n                      \"value\": \"8\"\n                    }\n                  ]\n                }\n              ]\n            },\n            {\n              \"title\": \"Prolonged mechanical ventilation\",\n              \"categories\": [\n                {\n                  \"measurements\": [\n                    {\n                      \"groupId\": \"OG000\",\n                      \"value\": \"2\"\n                    },\n                    {\n                      \"groupId\": \"OG001\",\n                      \"value\": \"1\"\n                    }\n                  ]\n                }\n              ]\n            },\n            {\n              \"tit",
+          "view_sha256": "605635fc0af546f7543d3e04c13ec8aadc66b5af6169b278e5f170095958b0b8"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 94,
+          "document_key": "colak.registry",
+          "source_path": "documents/colak-registry/source.json",
+          "source_sha256": "6e013e5f947d6bce4eb4cf7c39398ca7c709ce94e22645ddce5bca70feb031d6",
+          "quote": " Stay > 7 Days\",\n          \"reportingStatus\": \"POSTED\",\n          \"paramType\": \"NUMBER\",\n          \"unitOfMeasure\": \"participants\",\n          \"timeFrame\": \"7 postoperative days\",\n          \"groups\": [\n            {\n              \"id\": \"OG000\",\n              \"title\": \"CONTROL\",\n              \"description\": \"The CONTROL arm did not have INVOS or any other cerebral oxygenation monitoring, so interventions to control cerebral oxygenation were not performed.\"\n            },\n            {\n              \"id\": \"OG001\",\n              \"title\": \"INVOS\",\n              \"description\": \"INVOS (In Vivo Optical Spectroscopy): Cerebral oxygenation (rSO2) monitoring with INVOS device. If rSO2 decreased for more than 20% from patient's baseline value, simple interventions were performed to prevent brain injury. These interventions included: repositioning of head or perfusion cannulae, increasing arterial carbon dioxide tension, increasing oxygen inspiration concentration, increasing arterial blood pressure, adjusting pump flow rate, temperature decreasing, increasing of anesthetic depth and blood transfusion.\"\n            }\n          ],\n          \"denoms\": [\n            {\n              \"units\": \"Participants\",\n              \"counts\": [\n                {\n                  \"groupId\": \"OG000\",\n                  \"value\": \"96\"\n                },\n                {\n                  \"groupId\": \"OG001\",\n                  \"value\": \"94\"\n                }\n              ]\n            }\n          ],\n          \"classes\": [\n            {\n              \"title\": \"Stroke, coma, stupor\",\n              \"categories\": [\n                {\n                  \"measurements\": [\n                    {\n                      \"groupId\": \"OG000\",\n                      \"value\": \"1\"\n                    },\n                    {\n                      \"groupId\": \"OG001\",\n                      \"value\": \"4\"\n                    }\n                  ]\n                }\n              ]\n            },\n            {\n              \"title\": \"Delirium\",\n              \"categories\": [\n                {\n                  \"measurements\": [\n                    {\n                      \"groupId\": \"OG000\",\n                      \"value\": \"13\"\n                    },\n                    {\n                      \"groupId\": \"OG001\",\n                      \"value\": \"8\"\n                    }\n                  ]\n                }\n              ]\n            },\n            {\n              \"title\": \"Prolonged mechanical ventilation\",\n              \"categories\": [\n                {\n                  \"measurements\": [\n                    {\n                      \"groupId\": \"OG000\",\n                      \"value\": \"2\"\n                    },\n                    {\n                      \"groupId\": \"OG001\",\n                      \"value\": \"1\"\n                    }\n                  ]\n                }\n              ]\n            },\n            {\n              \"tit",
+          "view_sha256": "605635fc0af546f7543d3e04c13ec8aadc66b5af6169b278e5f170095958b0b8"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 13,
+          "document_key": "colak.registry",
+          "source_path": "documents/colak-registry/source.json",
+          "source_sha256": "6e013e5f947d6bce4eb4cf7c39398ca7c709ce94e22645ddce5bca70feb031d6",
+          "quote": " Stay > 7 Days\",\n          \"reportingStatus\": \"POSTED\",\n          \"paramType\": \"NUMBER\",\n          \"unitOfMeasure\": \"participants\",\n          \"timeFrame\": \"7 postoperative days\",\n          \"groups\": [\n            {\n              \"id\": \"OG000\",\n              \"title\": \"CONTROL\",\n              \"description\": \"The CONTROL arm did not have INVOS or any other cerebral oxygenation monitoring, so interventions to control cerebral oxygenation were not performed.\"\n            },\n            {\n              \"id\": \"OG001\",\n              \"title\": \"INVOS\",\n              \"description\": \"INVOS (In Vivo Optical Spectroscopy): Cerebral oxygenation (rSO2) monitoring with INVOS device. If rSO2 decreased for more than 20% from patient's baseline value, simple interventions were performed to prevent brain injury. These interventions included: repositioning of head or perfusion cannulae, increasing arterial carbon dioxide tension, increasing oxygen inspiration concentration, increasing arterial blood pressure, adjusting pump flow rate, temperature decreasing, increasing of anesthetic depth and blood transfusion.\"\n            }\n          ],\n          \"denoms\": [\n            {\n              \"units\": \"Participants\",\n              \"counts\": [\n                {\n                  \"groupId\": \"OG000\",\n                  \"value\": \"96\"\n                },\n                {\n                  \"groupId\": \"OG001\",\n                  \"value\": \"94\"\n                }\n              ]\n            }\n          ],\n          \"classes\": [\n            {\n              \"title\": \"Stroke, coma, stupor\",\n              \"categories\": [\n                {\n                  \"measurements\": [\n                    {\n                      \"groupId\": \"OG000\",\n                      \"value\": \"1\"\n                    },\n                    {\n                      \"groupId\": \"OG001\",\n                      \"value\": \"4\"\n                    }\n                  ]\n                }\n              ]\n            },\n            {\n              \"title\": \"Delirium\",\n              \"categories\": [\n                {\n                  \"measurements\": [\n                    {\n                      \"groupId\": \"OG000\",\n                      \"value\": \"13\"\n                    },\n                    {\n                      \"groupId\": \"OG001\",\n                      \"value\": \"8\"\n                    }\n                  ]\n                }\n              ]\n            },\n            {\n              \"title\": \"Prolonged mechanical ventilation\",\n              \"categories\": [\n                {\n                  \"measurements\": [\n                    {\n                      \"groupId\": \"OG000\",\n                      \"value\": \"2\"\n                    },\n                    {\n                      \"groupId\": \"OG001\",\n                      \"value\": \"1\"\n                    }\n                  ]\n                }\n              ]\n            },\n            {\n              \"tit",
+          "view_sha256": "605635fc0af546f7543d3e04c13ec8aadc66b5af6169b278e5f170095958b0b8"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 96,
+          "document_key": "colak.registry",
+          "source_path": "documents/colak-registry/source.json",
+          "source_sha256": "6e013e5f947d6bce4eb4cf7c39398ca7c709ce94e22645ddce5bca70feb031d6",
+          "quote": " Stay > 7 Days\",\n          \"reportingStatus\": \"POSTED\",\n          \"paramType\": \"NUMBER\",\n          \"unitOfMeasure\": \"participants\",\n          \"timeFrame\": \"7 postoperative days\",\n          \"groups\": [\n            {\n              \"id\": \"OG000\",\n              \"title\": \"CONTROL\",\n              \"description\": \"The CONTROL arm did not have INVOS or any other cerebral oxygenation monitoring, so interventions to control cerebral oxygenation were not performed.\"\n            },\n            {\n              \"id\": \"OG001\",\n              \"title\": \"INVOS\",\n              \"description\": \"INVOS (In Vivo Optical Spectroscopy): Cerebral oxygenation (rSO2) monitoring with INVOS device. If rSO2 decreased for more than 20% from patient's baseline value, simple interventions were performed to prevent brain injury. These interventions included: repositioning of head or perfusion cannulae, increasing arterial carbon dioxide tension, increasing oxygen inspiration concentration, increasing arterial blood pressure, adjusting pump flow rate, temperature decreasing, increasing of anesthetic depth and blood transfusion.\"\n            }\n          ],\n          \"denoms\": [\n            {\n              \"units\": \"Participants\",\n              \"counts\": [\n                {\n                  \"groupId\": \"OG000\",\n                  \"value\": \"96\"\n                },\n                {\n                  \"groupId\": \"OG001\",\n                  \"value\": \"94\"\n                }\n              ]\n            }\n          ],\n          \"classes\": [\n            {\n              \"title\": \"Stroke, coma, stupor\",\n              \"categories\": [\n                {\n                  \"measurements\": [\n                    {\n                      \"groupId\": \"OG000\",\n                      \"value\": \"1\"\n                    },\n                    {\n                      \"groupId\": \"OG001\",\n                      \"value\": \"4\"\n                    }\n                  ]\n                }\n              ]\n            },\n            {\n              \"title\": \"Delirium\",\n              \"categories\": [\n                {\n                  \"measurements\": [\n                    {\n                      \"groupId\": \"OG000\",\n                      \"value\": \"13\"\n                    },\n                    {\n                      \"groupId\": \"OG001\",\n                      \"value\": \"8\"\n                    }\n                  ]\n                }\n              ]\n            },\n            {\n              \"title\": \"Prolonged mechanical ventilation\",\n              \"categories\": [\n                {\n                  \"measurements\": [\n                    {\n                      \"groupId\": \"OG000\",\n                      \"value\": \"2\"\n                    },\n                    {\n                      \"groupId\": \"OG001\",\n                      \"value\": \"1\"\n                    }\n                  ]\n                }\n              ]\n            },\n            {\n              \"tit",
+          "view_sha256": "605635fc0af546f7543d3e04c13ec8aadc66b5af6169b278e5f170095958b0b8"
+        }
+      ],
+      "reason": null,
+      "accuracy_evaluation": "SCOREABLE"
+    },
+    {
+      "study_key": "colak",
+      "target_id": "result.icu_length_of_stay",
+      "values": {
+        "result_type": "CONTINUOUS",
+        "intervention_mean": 2.7,
+        "intervention_standard_deviation": 6.2,
+        "intervention_group_size": 94,
+        "comparator_mean": 1.9,
+        "comparator_standard_deviation": 0.9,
+        "comparator_group_size": 96
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_mean",
+          "value": 2.7,
+          "document_key": "colak.fulltext",
+          "source_path": "originals/colak-2015/primary.pdf",
+          "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+          "quote": "\n| Cardiac index - after 24 h (l/min/m 2 ) | 3.1 ± 0.5 | 3.1 ± 0.5 | 0.648 |\n| Mechanical ventilation (h) | 9.7 ± 4.2 | 9.3 ± 4.1 | 0.551 |\n| Postoperative complications (% of patients) |  |  |  |\n| Stroke, TIA, coma, stupor | 4 | 1 | 0.204 |\n| Delirium | 9 | 14 | 0.292 |\n| Cognitive impairment | 28 | 52 | 0.002 |\n| Myocardial infarction | 8 | 7 | 0.934 |\n| Atrial fibrillation | 23 | 27 | 0.500 |\n| Prolonged mechanical ventilation | 1 | 2 | 1.000 |\n| Haemodialysis | 0 | 1 | 1.000 |\n| Infection | 18 | 19 | 0.962 |\n| Revision | 0 | 1 | 1.000 |\n| ICU length of stay (days) | 2.7 ± 6.2 | 1.9 ± 0.9 | 0.443 |\n| Hospital stay >7 days (% of patients) | 49 | 45 | 0.729 |\n| SAPS II - arrival in ICU | 18.9 ± 5.5 | 19.2 ± 5.5 | 0.655 |\n| SAPS II - ICU discharge | 11.1 ± 3.6 | 11.4 ± 4.0 | 0.565 |\n[/DOCLING_TABLE]\n\nData are expressed as frequencies % or X ± SD (mean ± standard deviation).\n\nCPB: cardiopulmonary bypass; ICU: intensive care unit; SAPS: Simplified Acute Physiology Score; TIA: transient ischaemic attack; INVOS: IN Vivo Optical Spectroscopy.\n\na Statistically significant value.\n\n[DOCLING_PAGE 5]\n\nZ. Colak et al. / European Journal of Cardio-Thoracic Surgery\n\n451\n\nADULT CARDIAC\n\nDownloaded from academic.oup.com/ejcts/article/47/3/447/521767 by guest on 26 August 2026\n\nwith lower incidence of cognitive decline in the INVOS group (INVOS 28 vs control 52%).\n\nData show a trend towards statistically signi fi cant difference between groups regarding blood transfusion, with higher use o",
+          "view_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d"
+        },
+        {
+          "canonical_field": "intervention_standard_deviation",
+          "value": 6.2,
+          "document_key": "colak.fulltext",
+          "source_path": "originals/colak-2015/primary.pdf",
+          "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+          "quote": "\n| Cardiac index - after 24 h (l/min/m 2 ) | 3.1 ± 0.5 | 3.1 ± 0.5 | 0.648 |\n| Mechanical ventilation (h) | 9.7 ± 4.2 | 9.3 ± 4.1 | 0.551 |\n| Postoperative complications (% of patients) |  |  |  |\n| Stroke, TIA, coma, stupor | 4 | 1 | 0.204 |\n| Delirium | 9 | 14 | 0.292 |\n| Cognitive impairment | 28 | 52 | 0.002 |\n| Myocardial infarction | 8 | 7 | 0.934 |\n| Atrial fibrillation | 23 | 27 | 0.500 |\n| Prolonged mechanical ventilation | 1 | 2 | 1.000 |\n| Haemodialysis | 0 | 1 | 1.000 |\n| Infection | 18 | 19 | 0.962 |\n| Revision | 0 | 1 | 1.000 |\n| ICU length of stay (days) | 2.7 ± 6.2 | 1.9 ± 0.9 | 0.443 |\n| Hospital stay >7 days (% of patients) | 49 | 45 | 0.729 |\n| SAPS II - arrival in ICU | 18.9 ± 5.5 | 19.2 ± 5.5 | 0.655 |\n| SAPS II - ICU discharge | 11.1 ± 3.6 | 11.4 ± 4.0 | 0.565 |\n[/DOCLING_TABLE]\n\nData are expressed as frequencies % or X ± SD (mean ± standard deviation).\n\nCPB: cardiopulmonary bypass; ICU: intensive care unit; SAPS: Simplified Acute Physiology Score; TIA: transient ischaemic attack; INVOS: IN Vivo Optical Spectroscopy.\n\na Statistically significant value.\n\n[DOCLING_PAGE 5]\n\nZ. Colak et al. / European Journal of Cardio-Thoracic Surgery\n\n451\n\nADULT CARDIAC\n\nDownloaded from academic.oup.com/ejcts/article/47/3/447/521767 by guest on 26 August 2026\n\nwith lower incidence of cognitive decline in the INVOS group (INVOS 28 vs control 52%).\n\nData show a trend towards statistically signi fi cant difference between groups regarding blood transfusion, with higher use o",
+          "view_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 94,
+          "document_key": "colak.fulltext",
+          "source_path": "originals/colak-2015/primary.pdf",
+          "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+          "quote": "ence between study groups in dichotomous cognitive outcome ( P = 0.002)\n\n[DOCLING_TABLE rows=43 columns=4]\n| Variables | Group | Group | P -value |\n| Variables | INVOS ( n = 94) | Control ( n = 96) | P -value |\n| Age (years) | 61.9 ± 7.1 | 63.4 ± 8.8 | 0.177 |\n| Age categorical (% of patients ≥ 65 years) | 32 | 50 | 0.017 |\n| Gender (female %) | 20 | 24 | 0.655 |\n| EuroSCORE",
+          "view_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d"
+        },
+        {
+          "canonical_field": "comparator_mean",
+          "value": 1.9,
+          "document_key": "colak.fulltext",
+          "source_path": "originals/colak-2015/primary.pdf",
+          "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+          "quote": "\n| Cardiac index - after 24 h (l/min/m 2 ) | 3.1 ± 0.5 | 3.1 ± 0.5 | 0.648 |\n| Mechanical ventilation (h) | 9.7 ± 4.2 | 9.3 ± 4.1 | 0.551 |\n| Postoperative complications (% of patients) |  |  |  |\n| Stroke, TIA, coma, stupor | 4 | 1 | 0.204 |\n| Delirium | 9 | 14 | 0.292 |\n| Cognitive impairment | 28 | 52 | 0.002 |\n| Myocardial infarction | 8 | 7 | 0.934 |\n| Atrial fibrillation | 23 | 27 | 0.500 |\n| Prolonged mechanical ventilation | 1 | 2 | 1.000 |\n| Haemodialysis | 0 | 1 | 1.000 |\n| Infection | 18 | 19 | 0.962 |\n| Revision | 0 | 1 | 1.000 |\n| ICU length of stay (days) | 2.7 ± 6.2 | 1.9 ± 0.9 | 0.443 |\n| Hospital stay >7 days (% of patients) | 49 | 45 | 0.729 |\n| SAPS II - arrival in ICU | 18.9 ± 5.5 | 19.2 ± 5.5 | 0.655 |\n| SAPS II - ICU discharge | 11.1 ± 3.6 | 11.4 ± 4.0 | 0.565 |\n[/DOCLING_TABLE]\n\nData are expressed as frequencies % or X ± SD (mean ± standard deviation).\n\nCPB: cardiopulmonary bypass; ICU: intensive care unit; SAPS: Simplified Acute Physiology Score; TIA: transient ischaemic attack; INVOS: IN Vivo Optical Spectroscopy.\n\na Statistically significant value.\n\n[DOCLING_PAGE 5]\n\nZ. Colak et al. / European Journal of Cardio-Thoracic Surgery\n\n451\n\nADULT CARDIAC\n\nDownloaded from academic.oup.com/ejcts/article/47/3/447/521767 by guest on 26 August 2026\n\nwith lower incidence of cognitive decline in the INVOS group (INVOS 28 vs control 52%).\n\nData show a trend towards statistically signi fi cant difference between groups regarding blood transfusion, with higher use o",
+          "view_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d"
+        },
+        {
+          "canonical_field": "comparator_standard_deviation",
+          "value": 0.9,
+          "document_key": "colak.fulltext",
+          "source_path": "originals/colak-2015/primary.pdf",
+          "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+          "quote": "\n| Cardiac index - after 24 h (l/min/m 2 ) | 3.1 ± 0.5 | 3.1 ± 0.5 | 0.648 |\n| Mechanical ventilation (h) | 9.7 ± 4.2 | 9.3 ± 4.1 | 0.551 |\n| Postoperative complications (% of patients) |  |  |  |\n| Stroke, TIA, coma, stupor | 4 | 1 | 0.204 |\n| Delirium | 9 | 14 | 0.292 |\n| Cognitive impairment | 28 | 52 | 0.002 |\n| Myocardial infarction | 8 | 7 | 0.934 |\n| Atrial fibrillation | 23 | 27 | 0.500 |\n| Prolonged mechanical ventilation | 1 | 2 | 1.000 |\n| Haemodialysis | 0 | 1 | 1.000 |\n| Infection | 18 | 19 | 0.962 |\n| Revision | 0 | 1 | 1.000 |\n| ICU length of stay (days) | 2.7 ± 6.2 | 1.9 ± 0.9 | 0.443 |\n| Hospital stay >7 days (% of patients) | 49 | 45 | 0.729 |\n| SAPS II - arrival in ICU | 18.9 ± 5.5 | 19.2 ± 5.5 | 0.655 |\n| SAPS II - ICU discharge | 11.1 ± 3.6 | 11.4 ± 4.0 | 0.565 |\n[/DOCLING_TABLE]\n\nData are expressed as frequencies % or X ± SD (mean ± standard deviation).\n\nCPB: cardiopulmonary bypass; ICU: intensive care unit; SAPS: Simplified Acute Physiology Score; TIA: transient ischaemic attack; INVOS: IN Vivo Optical Spectroscopy.\n\na Statistically significant value.\n\n[DOCLING_PAGE 5]\n\nZ. Colak et al. / European Journal of Cardio-Thoracic Surgery\n\n451\n\nADULT CARDIAC\n\nDownloaded from academic.oup.com/ejcts/article/47/3/447/521767 by guest on 26 August 2026\n\nwith lower incidence of cognitive decline in the INVOS group (INVOS 28 vs control 52%).\n\nData show a trend towards statistically signi fi cant difference between groups regarding blood transfusion, with higher use o",
+          "view_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 96,
+          "document_key": "colak.fulltext",
+          "source_path": "originals/colak-2015/primary.pdf",
+          "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+          "quote": "ence between study groups in dichotomous cognitive outcome ( P = 0.002)\n\n[DOCLING_TABLE rows=43 columns=4]\n| Variables | Group | Group | P -value |\n| Variables | INVOS ( n = 94) | Control ( n = 96) | P -value |\n| Age (years) | 61.9 ± 7.1 | 63.4 ± 8.8 | 0.177 |\n| Age categorical (% of patients ≥ 65 years) | 32 | 50 | 0.017 |\n| Gender (female %) | 20 | 24 | 0.655 |\n| EuroSCORE",
+          "view_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d"
+        }
+      ],
+      "reason": null,
+      "accuracy_evaluation": "SCOREABLE"
+    },
+    {
+      "study_key": "colak",
+      "target_id": "result.kidney_related_adverse_outcome",
+      "values": null,
+      "evidence": [],
+      "reason": "The Review's generic kidney-related analysis mixes different trial endpoints and omits an eligible reported dialysis outcome; protocol-safe Study-level routing is not available.",
+      "accuracy_evaluation": "SCOREABLE"
+    },
+    {
+      "study_key": "colak",
+      "target_id": "result.cardiac_related_adverse_outcome",
+      "values": null,
+      "evidence": [],
+      "reason": "The Review's generic cardiac-related outcome is not operationally defined in the accessible Methods or registry record; selecting myocardial infarction from trial tables would be answer-derived routing.",
+      "accuracy_evaluation": "SCOREABLE"
+    },
+    {
+      "study_key": "lei",
+      "target_id": "result.postoperative_delirium",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 30,
+        "intervention_group_size": 123,
+        "comparator_events": 31,
+        "comparator_group_size": 126
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 30,
+          "document_key": "lei.fulltext",
+          "source_path": "originals/lei-2017/primary.pdf",
+          "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+          "quote": " conducted in patients ≥ 60 years of age undergoing cardiac surgery with cardiopulmonary bypass. In the intervention group, an algorithm was commenced if regional cerebral oxygen saturation decreased below 75% of baseline value for 1 min or longer. In the control group, the cerebral oximetry monitor screen was electronically blinded. Assessment of delirium was performed with confusion assessment method for intensive care unit or confusion assessment method after discharge from intensive care unit at 12-h intervals for seven postoperative days. Postoperative delirium was present in 30 out of 123 (24.4%) and 31 out of 126 (24.6%) patients in the intervention and control groups, respectively, odds ratio 0.98 (95%CI 0.55 -1.76), p = 0.97. Postoperative delirium was present in 20 (71%) out of 28 and in 41 (18%) out of 221 patients with baseline regional cerebral oxygen saturation ≤ 50, or > 50%, respectively, p = 0.0001. Higher baseline regional cerebral oxygen saturation and body mass index were protective against postoperative delirium. Restoration of regional cerebral oxygen desaturation did not result in lower postoperative delirium after cardiac surgery. Pre-operative regional cerebral oxygen saturation ≤ 50% was associated with increased postoperative delirium rates in elderly patients following cardiac surgery.\n\n.................................................................................................................................................................\n\nCo",
+          "view_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 123,
+          "document_key": "lei.fulltext",
+          "source_path": "originals/lei-2017/primary.pdf",
+          "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+          "quote": " conducted in patients ≥ 60 years of age undergoing cardiac surgery with cardiopulmonary bypass. In the intervention group, an algorithm was commenced if regional cerebral oxygen saturation decreased below 75% of baseline value for 1 min or longer. In the control group, the cerebral oximetry monitor screen was electronically blinded. Assessment of delirium was performed with confusion assessment method for intensive care unit or confusion assessment method after discharge from intensive care unit at 12-h intervals for seven postoperative days. Postoperative delirium was present in 30 out of 123 (24.4%) and 31 out of 126 (24.6%) patients in the intervention and control groups, respectively, odds ratio 0.98 (95%CI 0.55 -1.76), p = 0.97. Postoperative delirium was present in 20 (71%) out of 28 and in 41 (18%) out of 221 patients with baseline regional cerebral oxygen saturation ≤ 50, or > 50%, respectively, p = 0.0001. Higher baseline regional cerebral oxygen saturation and body mass index were protective against postoperative delirium. Restoration of regional cerebral oxygen desaturation did not result in lower postoperative delirium after cardiac surgery. Pre-operative regional cerebral oxygen saturation ≤ 50% was associated with increased postoperative delirium rates in elderly patients following cardiac surgery.\n\n.................................................................................................................................................................\n\nCo",
+          "view_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 31,
+          "document_key": "lei.fulltext",
+          "source_path": "originals/lei-2017/primary.pdf",
+          "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+          "quote": " conducted in patients ≥ 60 years of age undergoing cardiac surgery with cardiopulmonary bypass. In the intervention group, an algorithm was commenced if regional cerebral oxygen saturation decreased below 75% of baseline value for 1 min or longer. In the control group, the cerebral oximetry monitor screen was electronically blinded. Assessment of delirium was performed with confusion assessment method for intensive care unit or confusion assessment method after discharge from intensive care unit at 12-h intervals for seven postoperative days. Postoperative delirium was present in 30 out of 123 (24.4%) and 31 out of 126 (24.6%) patients in the intervention and control groups, respectively, odds ratio 0.98 (95%CI 0.55 -1.76), p = 0.97. Postoperative delirium was present in 20 (71%) out of 28 and in 41 (18%) out of 221 patients with baseline regional cerebral oxygen saturation ≤ 50, or > 50%, respectively, p = 0.0001. Higher baseline regional cerebral oxygen saturation and body mass index were protective against postoperative delirium. Restoration of regional cerebral oxygen desaturation did not result in lower postoperative delirium after cardiac surgery. Pre-operative regional cerebral oxygen saturation ≤ 50% was associated with increased postoperative delirium rates in elderly patients following cardiac surgery.\n\n.................................................................................................................................................................\n\nCo",
+          "view_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 126,
+          "document_key": "lei.fulltext",
+          "source_path": "originals/lei-2017/primary.pdf",
+          "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+          "quote": " conducted in patients ≥ 60 years of age undergoing cardiac surgery with cardiopulmonary bypass. In the intervention group, an algorithm was commenced if regional cerebral oxygen saturation decreased below 75% of baseline value for 1 min or longer. In the control group, the cerebral oximetry monitor screen was electronically blinded. Assessment of delirium was performed with confusion assessment method for intensive care unit or confusion assessment method after discharge from intensive care unit at 12-h intervals for seven postoperative days. Postoperative delirium was present in 30 out of 123 (24.4%) and 31 out of 126 (24.6%) patients in the intervention and control groups, respectively, odds ratio 0.98 (95%CI 0.55 -1.76), p = 0.97. Postoperative delirium was present in 20 (71%) out of 28 and in 41 (18%) out of 221 patients with baseline regional cerebral oxygen saturation ≤ 50, or > 50%, respectively, p = 0.0001. Higher baseline regional cerebral oxygen saturation and body mass index were protective against postoperative delirium. Restoration of regional cerebral oxygen desaturation did not result in lower postoperative delirium after cardiac surgery. Pre-operative regional cerebral oxygen saturation ≤ 50% was associated with increased postoperative delirium rates in elderly patients following cardiac surgery.\n\n.................................................................................................................................................................\n\nCo",
+          "view_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e"
+        }
+      ],
+      "reason": null,
+      "accuracy_evaluation": "SCOREABLE"
+    },
+    {
+      "study_key": "lei",
+      "target_id": "result.icu_length_of_stay",
+      "values": null,
+      "evidence": [],
+      "reason": "The primary report provides median and interval summaries rather than a directly reported mean and standard deviation; the Review does not disclose a reproducible conversion.",
+      "accuracy_evaluation": "SCOREABLE"
+    },
+    {
+      "study_key": "lei",
+      "target_id": "result.kidney_related_adverse_outcome",
+      "values": null,
+      "evidence": [],
+      "reason": "The Review's generic kidney-related analysis mixes different trial endpoints and omits an eligible reported dialysis outcome; protocol-safe Study-level routing is not available.",
+      "accuracy_evaluation": "SCOREABLE"
+    },
+    {
+      "study_key": "lei",
+      "target_id": "result.cardiac_related_adverse_outcome",
+      "values": null,
+      "evidence": [],
+      "reason": "The Review's generic cardiac-related outcome is not operationally defined in the accessible Methods or registry record; selecting myocardial infarction from trial tables would be answer-derived routing.",
+      "accuracy_evaluation": "SCOREABLE"
+    },
+    {
+      "study_key": "zavareh",
+      "target_id": "result.postoperative_delirium",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 1,
+        "intervention_group_size": 111,
+        "comparator_events": 3,
+        "comparator_group_size": 112
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 1,
+          "document_key": "zavareh.fulltext",
+          "source_path": "originals/zavareh-2019/primary.pdf",
+          "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+          "quote": "t\n\naddiction. In the control group there were three patients with stroke and three patients with delirium. There was no significant difference between the two groups. The length of stay in ICU was 3.49 ± 0.96 days in the intervention group and 3.40 ± 0.80 days in the control group and there was no between difference between the two groups (p=0.447) (Table 2).\n\n[DOCLING_TABLE rows=9 columns=4]\n|  | Intervention (n=111) n (%) | Control (n=112) n (%) | p value |\n| Carotid | 43 (38.7) | 40 (35.7) | 0.640 1 |\n| CVA | 1 (0.9) | 3 (2.7) | 0.622 2 |\n| Delirium | 1 (0.9) | 3 (2.7) | 0.622 2 |\n| Neurological | 2 (3.6) | 6 (5.4) | 0.527 2 |\n|  | Mean (SD) | Mean (SD) |  |\n| Length of stay in ICU (days) | 3.49 (0.96) | 3.40 (0.80) | 0.477 3 |\n| CPB | 56.95 (17.92) | 59.85 (24.89) | 0.326 4 |\n| CCt | 45.90 (16.23) | 40.88 (20.36) | 0.058 4 |\n[/DOCLING_TABLE]\n\nICU : intensive care unit; CVA :cerebro vascular accident; CPB : cardiopulmonary bypass ; CCt: Cross Clamp time\n\n85\n\n[DOCLING_PAGE 6]\n\nZavareh, Araghizade, Eskandari, et al Brain oximetry and neurological complications\n\n[DOCLING_TABLE rows=7 columns=4]\n|  |  | of patients Mean (SD) | (min) |\n| Pre Pump | Right | 30 | 26.67 (16.05) |\n|  | Left | 23 | 26.30 (17.14) |\n| On Pump | Right | 52 | 26.35 (20.32) |\n| On Pump | Left | 49 | 27.04 (21.29) |\n| Post Pump | Right | 23 | 23.48 (22.38) |\n| Post Pump | Left | 22 | 20.23 (22.55) |\n[/DOCLING_TABLE]\n\nIn the intervention group, 73 patients had at least one stage rScO",
+          "view_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 111,
+          "document_key": "zavareh.fulltext",
+          "source_path": "originals/zavareh-2019/primary.pdf",
+          "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+          "quote": "t\n\naddiction. In the control group there were three patients with stroke and three patients with delirium. There was no significant difference between the two groups. The length of stay in ICU was 3.49 ± 0.96 days in the intervention group and 3.40 ± 0.80 days in the control group and there was no between difference between the two groups (p=0.447) (Table 2).\n\n[DOCLING_TABLE rows=9 columns=4]\n|  | Intervention (n=111) n (%) | Control (n=112) n (%) | p value |\n| Carotid | 43 (38.7) | 40 (35.7) | 0.640 1 |\n| CVA | 1 (0.9) | 3 (2.7) | 0.622 2 |\n| Delirium | 1 (0.9) | 3 (2.7) | 0.622 2 |\n| Neurological | 2 (3.6) | 6 (5.4) | 0.527 2 |\n|  | Mean (SD) | Mean (SD) |  |\n| Length of stay in ICU (days) | 3.49 (0.96) | 3.40 (0.80) | 0.477 3 |\n| CPB | 56.95 (17.92) | 59.85 (24.89) | 0.326 4 |\n| CCt | 45.90 (16.23) | 40.88 (20.36) | 0.058 4 |\n[/DOCLING_TABLE]\n\nICU : intensive care unit; CVA :cerebro vascular accident; CPB : cardiopulmonary bypass ; CCt: Cross Clamp time\n\n85\n\n[DOCLING_PAGE 6]\n\nZavareh, Araghizade, Eskandari, et al Brain oximetry and neurological complications\n\n[DOCLING_TABLE rows=7 columns=4]\n|  |  | of patients Mean (SD) | (min) |\n| Pre Pump | Right | 30 | 26.67 (16.05) |\n|  | Left | 23 | 26.30 (17.14) |\n| On Pump | Right | 52 | 26.35 (20.32) |\n| On Pump | Left | 49 | 27.04 (21.29) |\n| Post Pump | Right | 23 | 23.48 (22.38) |\n| Post Pump | Left | 22 | 20.23 (22.55) |\n[/DOCLING_TABLE]\n\nIn the intervention group, 73 patients had at least one stage rScO",
+          "view_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 3,
+          "document_key": "zavareh.fulltext",
+          "source_path": "originals/zavareh-2019/primary.pdf",
+          "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+          "quote": "t\n\naddiction. In the control group there were three patients with stroke and three patients with delirium. There was no significant difference between the two groups. The length of stay in ICU was 3.49 ± 0.96 days in the intervention group and 3.40 ± 0.80 days in the control group and there was no between difference between the two groups (p=0.447) (Table 2).\n\n[DOCLING_TABLE rows=9 columns=4]\n|  | Intervention (n=111) n (%) | Control (n=112) n (%) | p value |\n| Carotid | 43 (38.7) | 40 (35.7) | 0.640 1 |\n| CVA | 1 (0.9) | 3 (2.7) | 0.622 2 |\n| Delirium | 1 (0.9) | 3 (2.7) | 0.622 2 |\n| Neurological | 2 (3.6) | 6 (5.4) | 0.527 2 |\n|  | Mean (SD) | Mean (SD) |  |\n| Length of stay in ICU (days) | 3.49 (0.96) | 3.40 (0.80) | 0.477 3 |\n| CPB | 56.95 (17.92) | 59.85 (24.89) | 0.326 4 |\n| CCt | 45.90 (16.23) | 40.88 (20.36) | 0.058 4 |\n[/DOCLING_TABLE]\n\nICU : intensive care unit; CVA :cerebro vascular accident; CPB : cardiopulmonary bypass ; CCt: Cross Clamp time\n\n85\n\n[DOCLING_PAGE 6]\n\nZavareh, Araghizade, Eskandari, et al Brain oximetry and neurological complications\n\n[DOCLING_TABLE rows=7 columns=4]\n|  |  | of patients Mean (SD) | (min) |\n| Pre Pump | Right | 30 | 26.67 (16.05) |\n|  | Left | 23 | 26.30 (17.14) |\n| On Pump | Right | 52 | 26.35 (20.32) |\n| On Pump | Left | 49 | 27.04 (21.29) |\n| Post Pump | Right | 23 | 23.48 (22.38) |\n| Post Pump | Left | 22 | 20.23 (22.55) |\n[/DOCLING_TABLE]\n\nIn the intervention group, 73 patients had at least one stage rScO",
+          "view_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 112,
+          "document_key": "zavareh.fulltext",
+          "source_path": "originals/zavareh-2019/primary.pdf",
+          "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+          "quote": "t\n\naddiction. In the control group there were three patients with stroke and three patients with delirium. There was no significant difference between the two groups. The length of stay in ICU was 3.49 ± 0.96 days in the intervention group and 3.40 ± 0.80 days in the control group and there was no between difference between the two groups (p=0.447) (Table 2).\n\n[DOCLING_TABLE rows=9 columns=4]\n|  | Intervention (n=111) n (%) | Control (n=112) n (%) | p value |\n| Carotid | 43 (38.7) | 40 (35.7) | 0.640 1 |\n| CVA | 1 (0.9) | 3 (2.7) | 0.622 2 |\n| Delirium | 1 (0.9) | 3 (2.7) | 0.622 2 |\n| Neurological | 2 (3.6) | 6 (5.4) | 0.527 2 |\n|  | Mean (SD) | Mean (SD) |  |\n| Length of stay in ICU (days) | 3.49 (0.96) | 3.40 (0.80) | 0.477 3 |\n| CPB | 56.95 (17.92) | 59.85 (24.89) | 0.326 4 |\n| CCt | 45.90 (16.23) | 40.88 (20.36) | 0.058 4 |\n[/DOCLING_TABLE]\n\nICU : intensive care unit; CVA :cerebro vascular accident; CPB : cardiopulmonary bypass ; CCt: Cross Clamp time\n\n85\n\n[DOCLING_PAGE 6]\n\nZavareh, Araghizade, Eskandari, et al Brain oximetry and neurological complications\n\n[DOCLING_TABLE rows=7 columns=4]\n|  |  | of patients Mean (SD) | (min) |\n| Pre Pump | Right | 30 | 26.67 (16.05) |\n|  | Left | 23 | 26.30 (17.14) |\n| On Pump | Right | 52 | 26.35 (20.32) |\n| On Pump | Left | 49 | 27.04 (21.29) |\n| Post Pump | Right | 23 | 23.48 (22.38) |\n| Post Pump | Left | 22 | 20.23 (22.55) |\n[/DOCLING_TABLE]\n\nIn the intervention group, 73 patients had at least one stage rScO",
+          "view_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab"
+        }
+      ],
+      "reason": null,
+      "accuracy_evaluation": "SCOREABLE"
+    },
+    {
+      "study_key": "zavareh",
+      "target_id": "result.icu_length_of_stay",
+      "values": {
+        "result_type": "CONTINUOUS",
+        "intervention_mean": 3.49,
+        "intervention_standard_deviation": 0.96,
+        "intervention_group_size": 111,
+        "comparator_mean": 3.4,
+        "comparator_standard_deviation": 0.8,
+        "comparator_group_size": 112
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_mean",
+          "value": 3.49,
+          "document_key": "zavareh.fulltext",
+          "source_path": "originals/zavareh-2019/primary.pdf",
+          "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+          "quote": "gnificant difference between the two groups. The length of stay in ICU was 3.49 ± 0.96 days in the intervention group and 3.40 ± 0.80 days in the control group and there was no between difference between the two groups (p=0.447) (Table 2).\n\n[DOCLING_TABLE rows=9 columns=4]\n|  | Intervention (n=111) n (%) | Control (n=112) n (%) | p value |\n| Carotid | 43 (38.7) | 40 (35.7) | 0.640 1 |\n| CVA | 1 (0.9) | 3 (2.7) | 0.622 2 |\n| Delirium | 1 (0.9) | 3 (2.7) | 0.622 2 |\n| Neurological | 2 (3.6) | 6 (5.4) | 0.527 2 |\n|  | Mean (SD) | Mean (SD) |  |\n| Length of stay in ICU (days) | 3.49 (0.96) | 3.40 (0.80) | 0.477 3 |\n| CPB | 56.95 (17.92) | 59.85 (24.89) | 0.326 4 |\n| CCt | 45.90 (16.23) | 40.88 (20.36) | 0.058 4 |\n[/DOCLING_TABLE]\n\nICU : intensive care unit; CVA :cerebro vascular accident; CPB : cardiopulmonary bypass ; CCt: Cross Clamp time\n\n85\n\n[DOCLING_PAGE 6]\n\nZavareh, Araghizade, Eskandari, et al Brain oximetry and neurological complications\n\n[DOCLING_TABLE rows=7 columns=4]\n|  |  | of patients Mean (SD) | (min) |\n| Pre Pump | Right | 30 | 26.67 (16.05) |\n|  | Left | 23 | 26.30 (17.14) |\n| On Pump | Right | 52 | 26.35 (20.32) |\n| On Pump | Left | 49 | 27.04 (21.29) |\n| Post Pump | Right | 23 | 23.48 (22.38) |\n| Post Pump | Left | 22 | 20.23 (22.55) |\n[/DOCLING_TABLE]\n\nIn the intervention group, 73 patients had at least one stage rScO2 less than 50% in one side, 56 patients had at least five minutes of rScO2 less than 50% in the left side and 57 patients in the right side. A total ",
+          "view_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab"
+        },
+        {
+          "canonical_field": "intervention_standard_deviation",
+          "value": 0.96,
+          "document_key": "zavareh.fulltext",
+          "source_path": "originals/zavareh-2019/primary.pdf",
+          "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+          "quote": "gnificant difference between the two groups. The length of stay in ICU was 3.49 ± 0.96 days in the intervention group and 3.40 ± 0.80 days in the control group and there was no between difference between the two groups (p=0.447) (Table 2).\n\n[DOCLING_TABLE rows=9 columns=4]\n|  | Intervention (n=111) n (%) | Control (n=112) n (%) | p value |\n| Carotid | 43 (38.7) | 40 (35.7) | 0.640 1 |\n| CVA | 1 (0.9) | 3 (2.7) | 0.622 2 |\n| Delirium | 1 (0.9) | 3 (2.7) | 0.622 2 |\n| Neurological | 2 (3.6) | 6 (5.4) | 0.527 2 |\n|  | Mean (SD) | Mean (SD) |  |\n| Length of stay in ICU (days) | 3.49 (0.96) | 3.40 (0.80) | 0.477 3 |\n| CPB | 56.95 (17.92) | 59.85 (24.89) | 0.326 4 |\n| CCt | 45.90 (16.23) | 40.88 (20.36) | 0.058 4 |\n[/DOCLING_TABLE]\n\nICU : intensive care unit; CVA :cerebro vascular accident; CPB : cardiopulmonary bypass ; CCt: Cross Clamp time\n\n85\n\n[DOCLING_PAGE 6]\n\nZavareh, Araghizade, Eskandari, et al Brain oximetry and neurological complications\n\n[DOCLING_TABLE rows=7 columns=4]\n|  |  | of patients Mean (SD) | (min) |\n| Pre Pump | Right | 30 | 26.67 (16.05) |\n|  | Left | 23 | 26.30 (17.14) |\n| On Pump | Right | 52 | 26.35 (20.32) |\n| On Pump | Left | 49 | 27.04 (21.29) |\n| Post Pump | Right | 23 | 23.48 (22.38) |\n| Post Pump | Left | 22 | 20.23 (22.55) |\n[/DOCLING_TABLE]\n\nIn the intervention group, 73 patients had at least one stage rScO2 less than 50% in one side, 56 patients had at least five minutes of rScO2 less than 50% in the left side and 57 patients in the right side. A total ",
+          "view_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 111,
+          "document_key": "zavareh.fulltext",
+          "source_path": "originals/zavareh-2019/primary.pdf",
+          "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+          "quote": "gnificant difference between the two groups. The length of stay in ICU was 3.49 ± 0.96 days in the intervention group and 3.40 ± 0.80 days in the control group and there was no between difference between the two groups (p=0.447) (Table 2).\n\n[DOCLING_TABLE rows=9 columns=4]\n|  | Intervention (n=111) n (%) | Control (n=112) n (%) | p value |\n| Carotid | 43 (38.7) | 40 (35.7) | 0.640 1 |\n| CVA | 1 (0.9) | 3 (2.7) | 0.622 2 |\n| Delirium | 1 (0.9) | 3 (2.7) | 0.622 2 |\n| Neurological | 2 (3.6) | 6 (5.4) | 0.527 2 |\n|  | Mean (SD) | Mean (SD) |  |\n| Length of stay in ICU (days) | 3.49 (0.96) | 3.40 (0.80) | 0.477 3 |\n| CPB | 56.95 (17.92) | 59.85 (24.89) | 0.326 4 |\n| CCt | 45.90 (16.23) | 40.88 (20.36) | 0.058 4 |\n[/DOCLING_TABLE]\n\nICU : intensive care unit; CVA :cerebro vascular accident; CPB : cardiopulmonary bypass ; CCt: Cross Clamp time\n\n85\n\n[DOCLING_PAGE 6]\n\nZavareh, Araghizade, Eskandari, et al Brain oximetry and neurological complications\n\n[DOCLING_TABLE rows=7 columns=4]\n|  |  | of patients Mean (SD) | (min) |\n| Pre Pump | Right | 30 | 26.67 (16.05) |\n|  | Left | 23 | 26.30 (17.14) |\n| On Pump | Right | 52 | 26.35 (20.32) |\n| On Pump | Left | 49 | 27.04 (21.29) |\n| Post Pump | Right | 23 | 23.48 (22.38) |\n| Post Pump | Left | 22 | 20.23 (22.55) |\n[/DOCLING_TABLE]\n\nIn the intervention group, 73 patients had at least one stage rScO2 less than 50% in one side, 56 patients had at least five minutes of rScO2 less than 50% in the left side and 57 patients in the right side. A total ",
+          "view_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab"
+        },
+        {
+          "canonical_field": "comparator_mean",
+          "value": 3.4,
+          "document_key": "zavareh.fulltext",
+          "source_path": "originals/zavareh-2019/primary.pdf",
+          "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+          "quote": "gnificant difference between the two groups. The length of stay in ICU was 3.49 ± 0.96 days in the intervention group and 3.40 ± 0.80 days in the control group and there was no between difference between the two groups (p=0.447) (Table 2).\n\n[DOCLING_TABLE rows=9 columns=4]\n|  | Intervention (n=111) n (%) | Control (n=112) n (%) | p value |\n| Carotid | 43 (38.7) | 40 (35.7) | 0.640 1 |\n| CVA | 1 (0.9) | 3 (2.7) | 0.622 2 |\n| Delirium | 1 (0.9) | 3 (2.7) | 0.622 2 |\n| Neurological | 2 (3.6) | 6 (5.4) | 0.527 2 |\n|  | Mean (SD) | Mean (SD) |  |\n| Length of stay in ICU (days) | 3.49 (0.96) | 3.40 (0.80) | 0.477 3 |\n| CPB | 56.95 (17.92) | 59.85 (24.89) | 0.326 4 |\n| CCt | 45.90 (16.23) | 40.88 (20.36) | 0.058 4 |\n[/DOCLING_TABLE]\n\nICU : intensive care unit; CVA :cerebro vascular accident; CPB : cardiopulmonary bypass ; CCt: Cross Clamp time\n\n85\n\n[DOCLING_PAGE 6]\n\nZavareh, Araghizade, Eskandari, et al Brain oximetry and neurological complications\n\n[DOCLING_TABLE rows=7 columns=4]\n|  |  | of patients Mean (SD) | (min) |\n| Pre Pump | Right | 30 | 26.67 (16.05) |\n|  | Left | 23 | 26.30 (17.14) |\n| On Pump | Right | 52 | 26.35 (20.32) |\n| On Pump | Left | 49 | 27.04 (21.29) |\n| Post Pump | Right | 23 | 23.48 (22.38) |\n| Post Pump | Left | 22 | 20.23 (22.55) |\n[/DOCLING_TABLE]\n\nIn the intervention group, 73 patients had at least one stage rScO2 less than 50% in one side, 56 patients had at least five minutes of rScO2 less than 50% in the left side and 57 patients in the right side. A total ",
+          "view_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab"
+        },
+        {
+          "canonical_field": "comparator_standard_deviation",
+          "value": 0.8,
+          "document_key": "zavareh.fulltext",
+          "source_path": "originals/zavareh-2019/primary.pdf",
+          "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+          "quote": "gnificant difference between the two groups. The length of stay in ICU was 3.49 ± 0.96 days in the intervention group and 3.40 ± 0.80 days in the control group and there was no between difference between the two groups (p=0.447) (Table 2).\n\n[DOCLING_TABLE rows=9 columns=4]\n|  | Intervention (n=111) n (%) | Control (n=112) n (%) | p value |\n| Carotid | 43 (38.7) | 40 (35.7) | 0.640 1 |\n| CVA | 1 (0.9) | 3 (2.7) | 0.622 2 |\n| Delirium | 1 (0.9) | 3 (2.7) | 0.622 2 |\n| Neurological | 2 (3.6) | 6 (5.4) | 0.527 2 |\n|  | Mean (SD) | Mean (SD) |  |\n| Length of stay in ICU (days) | 3.49 (0.96) | 3.40 (0.80) | 0.477 3 |\n| CPB | 56.95 (17.92) | 59.85 (24.89) | 0.326 4 |\n| CCt | 45.90 (16.23) | 40.88 (20.36) | 0.058 4 |\n[/DOCLING_TABLE]\n\nICU : intensive care unit; CVA :cerebro vascular accident; CPB : cardiopulmonary bypass ; CCt: Cross Clamp time\n\n85\n\n[DOCLING_PAGE 6]\n\nZavareh, Araghizade, Eskandari, et al Brain oximetry and neurological complications\n\n[DOCLING_TABLE rows=7 columns=4]\n|  |  | of patients Mean (SD) | (min) |\n| Pre Pump | Right | 30 | 26.67 (16.05) |\n|  | Left | 23 | 26.30 (17.14) |\n| On Pump | Right | 52 | 26.35 (20.32) |\n| On Pump | Left | 49 | 27.04 (21.29) |\n| Post Pump | Right | 23 | 23.48 (22.38) |\n| Post Pump | Left | 22 | 20.23 (22.55) |\n[/DOCLING_TABLE]\n\nIn the intervention group, 73 patients had at least one stage rScO2 less than 50% in one side, 56 patients had at least five minutes of rScO2 less than 50% in the left side and 57 patients in the right side. A total ",
+          "view_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 112,
+          "document_key": "zavareh.fulltext",
+          "source_path": "originals/zavareh-2019/primary.pdf",
+          "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+          "quote": "gnificant difference between the two groups. The length of stay in ICU was 3.49 ± 0.96 days in the intervention group and 3.40 ± 0.80 days in the control group and there was no between difference between the two groups (p=0.447) (Table 2).\n\n[DOCLING_TABLE rows=9 columns=4]\n|  | Intervention (n=111) n (%) | Control (n=112) n (%) | p value |\n| Carotid | 43 (38.7) | 40 (35.7) | 0.640 1 |\n| CVA | 1 (0.9) | 3 (2.7) | 0.622 2 |\n| Delirium | 1 (0.9) | 3 (2.7) | 0.622 2 |\n| Neurological | 2 (3.6) | 6 (5.4) | 0.527 2 |\n|  | Mean (SD) | Mean (SD) |  |\n| Length of stay in ICU (days) | 3.49 (0.96) | 3.40 (0.80) | 0.477 3 |\n| CPB | 56.95 (17.92) | 59.85 (24.89) | 0.326 4 |\n| CCt | 45.90 (16.23) | 40.88 (20.36) | 0.058 4 |\n[/DOCLING_TABLE]\n\nICU : intensive care unit; CVA :cerebro vascular accident; CPB : cardiopulmonary bypass ; CCt: Cross Clamp time\n\n85\n\n[DOCLING_PAGE 6]\n\nZavareh, Araghizade, Eskandari, et al Brain oximetry and neurological complications\n\n[DOCLING_TABLE rows=7 columns=4]\n|  |  | of patients Mean (SD) | (min) |\n| Pre Pump | Right | 30 | 26.67 (16.05) |\n|  | Left | 23 | 26.30 (17.14) |\n| On Pump | Right | 52 | 26.35 (20.32) |\n| On Pump | Left | 49 | 27.04 (21.29) |\n| Post Pump | Right | 23 | 23.48 (22.38) |\n| Post Pump | Left | 22 | 20.23 (22.55) |\n[/DOCLING_TABLE]\n\nIn the intervention group, 73 patients had at least one stage rScO2 less than 50% in one side, 56 patients had at least five minutes of rScO2 less than 50% in the left side and 57 patients in the right side. A total ",
+          "view_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab"
+        }
+      ],
+      "reason": null,
+      "accuracy_evaluation": "SCOREABLE"
+    },
+    {
+      "study_key": "zavareh",
+      "target_id": "result.kidney_related_adverse_outcome",
+      "values": null,
+      "evidence": [],
+      "reason": "The Review's generic kidney-related analysis mixes different trial endpoints and omits an eligible reported dialysis outcome; protocol-safe Study-level routing is not available.",
+      "accuracy_evaluation": "SCOREABLE"
+    },
+    {
+      "study_key": "zavareh",
+      "target_id": "result.cardiac_related_adverse_outcome",
+      "values": null,
+      "evidence": [],
+      "reason": "The Review's generic cardiac-related outcome is not operationally defined in the accessible Methods or registry record; selecting myocardial infarction from trial tables would be answer-derived routing.",
+      "accuracy_evaluation": "SCOREABLE"
+    },
+    {
+      "study_key": "uysal",
+      "target_id": "result.postoperative_delirium",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 2,
+        "intervention_group_size": 59,
+        "comparator_events": 7,
+        "comparator_group_size": 66
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 2,
+          "document_key": "uysal.fulltext",
+          "source_path": "originals/uysal-2020/primary.pdf",
+          "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+          "quote": "odel details).\n\n[DOCLING_TABLE rows=15 columns=6]\n|  | Intervention | Intervention | Control | Control |  |\n| Variable | N | Mean (SD) Median [Q1, Q3] N ( % ) | N | Mean (SD) Median [Q1, Q3] N ( % ) | P value |\n| Death | 59 | 2 (3.4) | 66 | 1 (1.5) | .602 b |\n| Hospital length of stay (d) | 57 | 6 [5,7] | 65 | 5 [5,7] | .999 a |\n| ICU length of stay (d) | 58 | 1 [1,2] | 66 | 1 [1,2] | .999 a |\n| Extubation (d) | 58 | 1 [0, 1] | 66 | 1 [0, 1] | .999 a |\n| Time mechanical ventilation (h) | 58 | 8.6 [6.8, 13.3] | 66 | 7.9 [5.4, 10.9] | .311 a |\n| ICU delirium | 59 | 2 (3.4) | 66 | 7 (10.6) | .170 b |\n| SOFA on ICU admission | 59 | 7 [5,9] | 66 | 8 [5,9] | .885 a |\n| ICU blood transfusion | 59 | 10 (17.0) | 66 | 9 (13.6) | .627 b |\n| Bleeding requiring reoperation | 59 | 2 (3.4) | 66 | 4 (6.1) | .683 b |\n| Renal failure | 58 | 1 (1.7) | 66 | 1 (1.5) | 1.000 b |\n| Respiratory failure | 58 | 2 (3.4) | 66 | 4 (6.1) | .684 b |\n| Volume overload | 58 | 44 (75.9) | 66 | 50 (75.8) | 1.000 b |\n| Postoperative EF ( % ) | 57 | 55 [46, 62] | 66 | 55 [46, 60] | .926 a |\n[/DOCLING_TABLE]\n\nP values are based on a: Kolmogorov-Smirnov test, b: Fisher exact test. SD , Standard deviation; ICU , intensive care unit; SOFA , Sequential Organ Failure Assessment; EF , ejection fraction.\n\n[UNMAPPED_GLYPH U+0000]\n\nThe Journal of Thoracic and Cardiovascular Surgery c Volume 159, Number 3\n\n949\n\n[DOCLING_PAGE 8]\n\nADULT\n\nAdult: Perioperative Management: Neuroprotection\n\nUysal et al\n\n[DOCLING_TABLE ro",
+          "view_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 59,
+          "document_key": "uysal.fulltext",
+          "source_path": "originals/uysal-2020/primary.pdf",
+          "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+          "quote": "odel details).\n\n[DOCLING_TABLE rows=15 columns=6]\n|  | Intervention | Intervention | Control | Control |  |\n| Variable | N | Mean (SD) Median [Q1, Q3] N ( % ) | N | Mean (SD) Median [Q1, Q3] N ( % ) | P value |\n| Death | 59 | 2 (3.4) | 66 | 1 (1.5) | .602 b |\n| Hospital length of stay (d) | 57 | 6 [5,7] | 65 | 5 [5,7] | .999 a |\n| ICU length of stay (d) | 58 | 1 [1,2] | 66 | 1 [1,2] | .999 a |\n| Extubation (d) | 58 | 1 [0, 1] | 66 | 1 [0, 1] | .999 a |\n| Time mechanical ventilation (h) | 58 | 8.6 [6.8, 13.3] | 66 | 7.9 [5.4, 10.9] | .311 a |\n| ICU delirium | 59 | 2 (3.4) | 66 | 7 (10.6) | .170 b |\n| SOFA on ICU admission | 59 | 7 [5,9] | 66 | 8 [5,9] | .885 a |\n| ICU blood transfusion | 59 | 10 (17.0) | 66 | 9 (13.6) | .627 b |\n| Bleeding requiring reoperation | 59 | 2 (3.4) | 66 | 4 (6.1) | .683 b |\n| Renal failure | 58 | 1 (1.7) | 66 | 1 (1.5) | 1.000 b |\n| Respiratory failure | 58 | 2 (3.4) | 66 | 4 (6.1) | .684 b |\n| Volume overload | 58 | 44 (75.9) | 66 | 50 (75.8) | 1.000 b |\n| Postoperative EF ( % ) | 57 | 55 [46, 62] | 66 | 55 [46, 60] | .926 a |\n[/DOCLING_TABLE]\n\nP values are based on a: Kolmogorov-Smirnov test, b: Fisher exact test. SD , Standard deviation; ICU , intensive care unit; SOFA , Sequential Organ Failure Assessment; EF , ejection fraction.\n\n[UNMAPPED_GLYPH U+0000]\n\nThe Journal of Thoracic and Cardiovascular Surgery c Volume 159, Number 3\n\n949\n\n[DOCLING_PAGE 8]\n\nADULT\n\nAdult: Perioperative Management: Neuroprotection\n\nUysal et al\n\n[DOCLING_TABLE ro",
+          "view_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 7,
+          "document_key": "uysal.fulltext",
+          "source_path": "originals/uysal-2020/primary.pdf",
+          "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+          "quote": "odel details).\n\n[DOCLING_TABLE rows=15 columns=6]\n|  | Intervention | Intervention | Control | Control |  |\n| Variable | N | Mean (SD) Median [Q1, Q3] N ( % ) | N | Mean (SD) Median [Q1, Q3] N ( % ) | P value |\n| Death | 59 | 2 (3.4) | 66 | 1 (1.5) | .602 b |\n| Hospital length of stay (d) | 57 | 6 [5,7] | 65 | 5 [5,7] | .999 a |\n| ICU length of stay (d) | 58 | 1 [1,2] | 66 | 1 [1,2] | .999 a |\n| Extubation (d) | 58 | 1 [0, 1] | 66 | 1 [0, 1] | .999 a |\n| Time mechanical ventilation (h) | 58 | 8.6 [6.8, 13.3] | 66 | 7.9 [5.4, 10.9] | .311 a |\n| ICU delirium | 59 | 2 (3.4) | 66 | 7 (10.6) | .170 b |\n| SOFA on ICU admission | 59 | 7 [5,9] | 66 | 8 [5,9] | .885 a |\n| ICU blood transfusion | 59 | 10 (17.0) | 66 | 9 (13.6) | .627 b |\n| Bleeding requiring reoperation | 59 | 2 (3.4) | 66 | 4 (6.1) | .683 b |\n| Renal failure | 58 | 1 (1.7) | 66 | 1 (1.5) | 1.000 b |\n| Respiratory failure | 58 | 2 (3.4) | 66 | 4 (6.1) | .684 b |\n| Volume overload | 58 | 44 (75.9) | 66 | 50 (75.8) | 1.000 b |\n| Postoperative EF ( % ) | 57 | 55 [46, 62] | 66 | 55 [46, 60] | .926 a |\n[/DOCLING_TABLE]\n\nP values are based on a: Kolmogorov-Smirnov test, b: Fisher exact test. SD , Standard deviation; ICU , intensive care unit; SOFA , Sequential Organ Failure Assessment; EF , ejection fraction.\n\n[UNMAPPED_GLYPH U+0000]\n\nThe Journal of Thoracic and Cardiovascular Surgery c Volume 159, Number 3\n\n949\n\n[DOCLING_PAGE 8]\n\nADULT\n\nAdult: Perioperative Management: Neuroprotection\n\nUysal et al\n\n[DOCLING_TABLE ro",
+          "view_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 66,
+          "document_key": "uysal.fulltext",
+          "source_path": "originals/uysal-2020/primary.pdf",
+          "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+          "quote": "odel details).\n\n[DOCLING_TABLE rows=15 columns=6]\n|  | Intervention | Intervention | Control | Control |  |\n| Variable | N | Mean (SD) Median [Q1, Q3] N ( % ) | N | Mean (SD) Median [Q1, Q3] N ( % ) | P value |\n| Death | 59 | 2 (3.4) | 66 | 1 (1.5) | .602 b |\n| Hospital length of stay (d) | 57 | 6 [5,7] | 65 | 5 [5,7] | .999 a |\n| ICU length of stay (d) | 58 | 1 [1,2] | 66 | 1 [1,2] | .999 a |\n| Extubation (d) | 58 | 1 [0, 1] | 66 | 1 [0, 1] | .999 a |\n| Time mechanical ventilation (h) | 58 | 8.6 [6.8, 13.3] | 66 | 7.9 [5.4, 10.9] | .311 a |\n| ICU delirium | 59 | 2 (3.4) | 66 | 7 (10.6) | .170 b |\n| SOFA on ICU admission | 59 | 7 [5,9] | 66 | 8 [5,9] | .885 a |\n| ICU blood transfusion | 59 | 10 (17.0) | 66 | 9 (13.6) | .627 b |\n| Bleeding requiring reoperation | 59 | 2 (3.4) | 66 | 4 (6.1) | .683 b |\n| Renal failure | 58 | 1 (1.7) | 66 | 1 (1.5) | 1.000 b |\n| Respiratory failure | 58 | 2 (3.4) | 66 | 4 (6.1) | .684 b |\n| Volume overload | 58 | 44 (75.9) | 66 | 50 (75.8) | 1.000 b |\n| Postoperative EF ( % ) | 57 | 55 [46, 62] | 66 | 55 [46, 60] | .926 a |\n[/DOCLING_TABLE]\n\nP values are based on a: Kolmogorov-Smirnov test, b: Fisher exact test. SD , Standard deviation; ICU , intensive care unit; SOFA , Sequential Organ Failure Assessment; EF , ejection fraction.\n\n[UNMAPPED_GLYPH U+0000]\n\nThe Journal of Thoracic and Cardiovascular Surgery c Volume 159, Number 3\n\n949\n\n[DOCLING_PAGE 8]\n\nADULT\n\nAdult: Perioperative Management: Neuroprotection\n\nUysal et al\n\n[DOCLING_TABLE ro",
+          "view_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439"
+        }
+      ],
+      "reason": null,
+      "accuracy_evaluation": "SCOREABLE"
+    },
+    {
+      "study_key": "uysal",
+      "target_id": "result.icu_length_of_stay",
+      "values": null,
+      "evidence": [],
+      "reason": "The primary report provides median and interval summaries rather than a directly reported mean and standard deviation; the Review does not disclose a reproducible conversion.",
+      "accuracy_evaluation": "SCOREABLE"
+    },
+    {
+      "study_key": "uysal",
+      "target_id": "result.kidney_related_adverse_outcome",
+      "values": null,
+      "evidence": [],
+      "reason": "The Review's generic kidney-related analysis mixes different trial endpoints and omits an eligible reported dialysis outcome; protocol-safe Study-level routing is not available.",
+      "accuracy_evaluation": "SCOREABLE"
+    },
+    {
+      "study_key": "uysal",
+      "target_id": "result.cardiac_related_adverse_outcome",
+      "values": null,
+      "evidence": [],
+      "reason": "The Review's generic cardiac-related outcome is not operationally defined in the accessible Methods or registry record; selecting myocardial infarction from trial tables would be answer-derived routing.",
+      "accuracy_evaluation": "SCOREABLE"
+    },
+    {
+      "study_key": "cheng",
+      "target_id": "result.postoperative_delirium",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 18,
+        "intervention_group_size": 65,
+        "comparator_events": 28,
+        "comparator_group_size": 63
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 18,
+          "document_key": "cheng.fulltext",
+          "source_path": "originals/cheng-2020/primary.pdf",
+          "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+          "quote": "|\n| Pneumonia | 3 (5) | 6 (10) |  |  |\n| Sternal wound infection | 7 (11) | 14 (22) |  |  |\n| Catheter related infection | 1 (2) | 0 (0) |  |  |\n| Myocardial ischemia | 4 (6) | 3 (5) | >0.99 | 1.30 (0.30-5.55) |\n| Low cardiac output syndrome | 5 (8) | 9 (14) | 0.27 | 0.54 (0.19-1.52) |\n| Stroke | 1 (2) | 6 (10) | 0.06 | 0.16 (0.02-1.31) |\n| Reoperation | 3 (5) | 1 (2) | 0.62 | 2.91 (0.31-27.2) |\n| Dialysis | 4 (6) | 4 (6) | 0.96 | 0.97 (0.25-3.71) |\n| Death | 2 (3) | 3 (5) | 0.68 | 0.65 (0.11-3.74) |\n| Secondary outcomes, n (%) |  |  |  |  |\n| Delirium | 18 (28) | 28 (44) | 0.07 | 0.65 (0.39-1.01) |\n| Acute kidney injury | 22 (34) | 25 (40) | 0.58 | 0.85 (0.54-1.35) |\n| Bradyarrhythmia | 1 (2) | 2 (3) | 0.62 | 0.48 (0.05-5.22) |\n| Tachyarrhythmia | 6 (9) | 12 (19) | 0.13 | 0.48 (0.19-1.21) |\n| Venous thromboembolism | 1 (2) | 1 (2) | >0.99 | 0.97 (0.06-15.17) |\n| Length of ICU stay (d) | 2.0 (2.0-3.0) | 2.0 (2.0-2.0) | 0.98 |  |\n| Length of hospital stay (d) | 12.0 (10.0-16.0) | 13.0 (10.0-17.0) | 0.63 |  |\n[/DOCLING_TABLE]\n\nData are shown as the number of patients (percentages) or medians with interquartile range. IQR, interquartile range; RR, relative risk; GDT, goal-directed therapy; ICU, intensive care unit.\n\n[DOCLING_TABLE rows=21 columns=5]\n| Variable | Non-achiever (n= 53) | Achiever (n= 75) | P value | RR (95% CI) |\n| Primary outcome, n (%) |  |  |  |  |\n| Composite endpoint | 41 (77) | 17 (23) | <0.001 | 3.41 (2.19-5.31) |\n| Infection | 27 (51)",
+          "view_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 65,
+          "document_key": "cheng.fulltext",
+          "source_path": "originals/cheng-2020/primary.pdf",
+          "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+          "quote": "ted therapy; RBC, red blood cells.\n\nTable 3\n\nStudy outcomes following goal-directed therapy for high-risk cardiac surgery.\n\n[DOCLING_TABLE rows=21 columns=5]\n| Variable | Individualized GDT (n = 65) | Usual care (n = 63) | P value | RR (95% CI) |\n| Primary outcome, n (%) |  |  |  |  |\n| Composite endpoint | 25 (39) | 33 (52) | 0.15 | 0.73 (0.50-1.08) |\n| Infection | 11 (17) | 20 (32) | 0.06 | 0.53 (0.28-1.02) |\n| Pneumonia | 3 (5) | 6 (",
+          "view_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 28,
+          "document_key": "cheng.fulltext",
+          "source_path": "originals/cheng-2020/primary.pdf",
+          "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+          "quote": "|\n| Pneumonia | 3 (5) | 6 (10) |  |  |\n| Sternal wound infection | 7 (11) | 14 (22) |  |  |\n| Catheter related infection | 1 (2) | 0 (0) |  |  |\n| Myocardial ischemia | 4 (6) | 3 (5) | >0.99 | 1.30 (0.30-5.55) |\n| Low cardiac output syndrome | 5 (8) | 9 (14) | 0.27 | 0.54 (0.19-1.52) |\n| Stroke | 1 (2) | 6 (10) | 0.06 | 0.16 (0.02-1.31) |\n| Reoperation | 3 (5) | 1 (2) | 0.62 | 2.91 (0.31-27.2) |\n| Dialysis | 4 (6) | 4 (6) | 0.96 | 0.97 (0.25-3.71) |\n| Death | 2 (3) | 3 (5) | 0.68 | 0.65 (0.11-3.74) |\n| Secondary outcomes, n (%) |  |  |  |  |\n| Delirium | 18 (28) | 28 (44) | 0.07 | 0.65 (0.39-1.01) |\n| Acute kidney injury | 22 (34) | 25 (40) | 0.58 | 0.85 (0.54-1.35) |\n| Bradyarrhythmia | 1 (2) | 2 (3) | 0.62 | 0.48 (0.05-5.22) |\n| Tachyarrhythmia | 6 (9) | 12 (19) | 0.13 | 0.48 (0.19-1.21) |\n| Venous thromboembolism | 1 (2) | 1 (2) | >0.99 | 0.97 (0.06-15.17) |\n| Length of ICU stay (d) | 2.0 (2.0-3.0) | 2.0 (2.0-2.0) | 0.98 |  |\n| Length of hospital stay (d) | 12.0 (10.0-16.0) | 13.0 (10.0-17.0) | 0.63 |  |\n[/DOCLING_TABLE]\n\nData are shown as the number of patients (percentages) or medians with interquartile range. IQR, interquartile range; RR, relative risk; GDT, goal-directed therapy; ICU, intensive care unit.\n\n[DOCLING_TABLE rows=21 columns=5]\n| Variable | Non-achiever (n= 53) | Achiever (n= 75) | P value | RR (95% CI) |\n| Primary outcome, n (%) |  |  |  |  |\n| Composite endpoint | 41 (77) | 17 (23) | <0.001 | 3.41 (2.19-5.31) |\n| Infection | 27 (51)",
+          "view_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 63,
+          "document_key": "cheng.fulltext",
+          "source_path": "originals/cheng-2020/primary.pdf",
+          "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+          "quote": "ted therapy; RBC, red blood cells.\n\nTable 3\n\nStudy outcomes following goal-directed therapy for high-risk cardiac surgery.\n\n[DOCLING_TABLE rows=21 columns=5]\n| Variable | Individualized GDT (n = 65) | Usual care (n = 63) | P value | RR (95% CI) |\n| Primary outcome, n (%) |  |  |  |  |\n| Composite endpoint | 25 (39) | 33 (52) | 0.15 | 0.73 (0.50-1.08) |\n| Infection | 11 (17) | 20 (32) | 0.06 | 0.53 (0.28-1.02) |\n| Pneumonia | 3 (5) | 6 (",
+          "view_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f"
+        }
+      ],
+      "reason": null,
+      "accuracy_evaluation": "SCOREABLE"
+    },
+    {
+      "study_key": "cheng",
+      "target_id": "result.icu_length_of_stay",
+      "values": null,
+      "evidence": [],
+      "reason": "The primary report provides median and interval summaries rather than a directly reported mean and standard deviation; the Review does not disclose a reproducible conversion.",
+      "accuracy_evaluation": "SCOREABLE"
+    },
+    {
+      "study_key": "cheng",
+      "target_id": "result.kidney_related_adverse_outcome",
+      "values": null,
+      "evidence": [],
+      "reason": "The Review's generic kidney-related analysis mixes different trial endpoints and omits an eligible reported dialysis outcome; protocol-safe Study-level routing is not available.",
+      "accuracy_evaluation": "SCOREABLE"
+    },
+    {
+      "study_key": "cheng",
+      "target_id": "result.cardiac_related_adverse_outcome",
+      "values": null,
+      "evidence": [],
+      "reason": "The Review's generic cardiac-related outcome is not operationally defined in the accessible Methods or registry record; selecting myocardial infarction from trial tables would be answer-derived routing.",
+      "accuracy_evaluation": "SCOREABLE"
+    }
+  ]
+}

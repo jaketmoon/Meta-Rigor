@@ -1,0 +1,343 @@
+[DOCLING_PAGE 1]
+
+Ischemic stroke
+
+Protected by copyright.
+
+J NeuroIntervent Surg: first published as 10.1136/jnis-2022-019460 on 29 September 2022. Downloaded from http://jnis.bmj.com/ on June 14, 2023 at Chang Gung Memorial Hospital Linkou.
+
+Additional supplemental material is published online only. To view, please visit the journal online (http:// dx. doi. org/ 10. 1136/ jnis- 2022019460).
+
+1 Siemens Healthineers USA, Malvern, Pennsylvania, USA 2 Imaging Clinical Effectiveness and Outcomes Research, Center for Health Innovations and Outcomes Research, Feinstein Institute for Medical Research, Manhasset, New York, USA 3 Department of Neurosurgery, Donald and Barbara Zucker School of Medicine at Hofstra/ Northwell, Manhasset, New York, USA
+
+4 Department of Radiology, Donald and Barbara Zucker School of Medicine at Hofstra/ Northwell, Manhasset, New York, USA
+
+5 Department of Radiology and Biomedical Imaging, Yale University School of Medicine, New Haven, Connecticut, USA
+
+Correspondence to
+
+Dr Maria X Sanmartin, Siemens Healthineers USA, Malvern, Pennsylvania, USA; maria. sanmartin@ siemenshealthineers. com
+
+Received 1 August 2022 Accepted 14 September 2022
+
+© Author(s) (or their employer(s)) 2022. No commercial re-­ use. See rights and permissions. Published by BMJ.
+
+To cite: Sanmartin MX, Katz JM, Wang J, et al . J NeuroIntervent Surg Epub ahead of print: [ please include Day Month Year]. doi:10.1136/jnis-2022019460
+
+Original research
+
+Cost-­ effectiveness of endovascular thrombectomy in acute stroke patients with large ischemic core
+
+Maria X Sanmartin, 1,2 Jeffrey M Katz, 3,4 Jason Wang, 4 Ajay Malhotra , 5 Kinpritma Sangha, 1,2 Mehrad Bastani , 2 Gabriela Martinez, 2 Pina C Sanelli 2,4
+
+ABSTRACT
+
+Background Evidence has shown that endovascular thrombectomy (EVT) treatment improves clinical outcomes. Yet, its benefit remains uncertain in patients with large established infarcts as defined by ASPECTS (Alberta Stroke Program Early CT Score) <6. This study evaluates the cost-­ effectiveness of EVT, compared with standard care (SC), in acute ischemic stroke (AIS) patients with ASPECTS 3-5.
+
+Methods An economic evaluation study was performed combining a decision tree and Markov model to estimate lifetime costs (2021 US$) and quality-­ adjusted life years (QALYs) of AIS patients with ASPECTS 3-5. Incremental cost-­ effectiveness ratios (ICERs), net monetary benefits (NMBs), and deterministic one-­ way and two-­ way sensitivity analyses were performed. Probabilistic sensitivity analyses were also performed to evaluate the robustness of our model.
+
+Results Compared with SC, the cost-­ effectiveness analyses revealed that EVT yields higher lifetime benefits (2.20 QALYs vs 1.41 QALYs) with higher lifetime healthcare cost per patient ($285 861 vs $272 954). The difference in health benefits between EVT and SC was 0.79 QALYs, equivalent to 288 additional days of healthy life per patient. Even though EVT is more costly than SC alone, it is still cost-­ effective given better outcomes with ICER of $16 239/QALY. The probabilistic sensitivity analyses indicated that EVT was the most cost-­ effective strategy in 98.8% (9882 of 10 000) of iterations at the willingness-­ to-­ pay threshold of $100 000 per QALY . Conclusions The results of this study suggest that EVT is cost-­ effective in AIS patients with a large ischemic core (ASPECTS 3-5), compared with SC alone over the patient's lifetime.
+
+INTRODUCTION
+
+The efficacy of endovascular thrombectomy (EVT) in acute ischemic stroke (AIS) patients with large vessel occlusion has been proven in several randomized controlled trials (RCTs) after 2015. 1-6 However, its benefits remain uncertain in patients with large established infarcts as defined by ASPECTS (Alberta Stroke Program Early CT Score) <6. 7 Patients with ASPECTS <6 were underrepresented or excluded from these landmark RCTs, due to concern of occurrence of futile recanalization or increased risk of symptomatic intracerebral hemorrhage (sICH) after acute reperfusion therapy. Correspondingly, the most recent American Heart Association/American Stroke Association (AHA/ ASA) guidelines advise performing EVT only in
+
+WHAT IS ALREADY KNOWN ON THIS TOPIC
+
+⇒ Current guidelines from the American Heart Association/American Stroke Association recommend endovascular thrombectomy (EVT) only in patients with ASPECTS (Alberta Stroke Program Early CT Score) ≥6. However, the benefit of EVT remains uncertain in patients with large established infarcts.
+
+WHAT THIS STUDY ADDS
+
+⇒ In this decision-­ analytic model, EVT is cost-­ effective for acute ischemic stroke (AIS) patients with a large ischemic core (defined as ASPECTS 3-5), compared with standard care over a lifetime horizon.
+
+HOW THIS STUDY MIGHT AFFECT RESEARCH, PRACTICE OR POLICY
+
+⇒ EVT is associated with a significant improvement in clinical outcomes of AIS patients with a large ischemic core. Further studies are needed to elucidate the clinical implications of a higher incidence of symptomatic intracerebral hemorrhage among low ASPECTS patients.
+
+patients with ASPECTS ≥6 (class I recommenda -tion). 5 However, they also propose considering patients with ASPECTS <6 in treatment selection and assessment of EVT eligibility based on non-­ randomized evidence (class IIb recommendation). 5
+
+Despite considerable debate about inclusion criteria for EVT eligibility, empirical evidence on the efficacy and safety of EVT in patients with a large ischemic core is scarce. The first RCT to shed light on this matter is the RESCUE-­ Japan LIMIT (Recovery by Endovascular Salvage for Cerebral Ultra-­ Acute Embolism-­ Japan Large Ischemic Core) trial designed only with patients who had ASPECTS 3-5. 8 The RESCUE-­ Japan LIMIT demonstrated better functional outcomes in patients who underwent EVT relative to medical care alone. Further, there were no significant differences in the percentage of ASPECTS 3-5 patients with sICH between the treatment and control cohorts despite higher rates of sICH reported in the EVT cohort. Prior RCTs only included patients with minimal ischemic changes. 1-4 6 For instance, fast progressors were underrepresented or excluded from most of the RCTs involved in the early window trials of the HERMES (Highly Effective Reperfusion Using
+
+Sanmartin MX, et al . J NeuroIntervent Surg 2022; 0 :1-6. doi:10.1136/jnis-2022-019460
+
+1
+
+[DOCLING_PAGE 2]
+
+Protected by copyright. J NeuroIntervent Surg: first published as 10.1136/jnis-2022-019460 on 29 September 2022. Downloaded from http://jnis.bmj.com/ on June 14, 2023 at Chang Gung Memorial Hospital Linkou.
+
+Ischemic stroke
+
+Multiple Endovascular Devices) meta-­ analysis. 9 Under these circumstances, HERMES showed better clinical outcomes in reperfused patients with ASPECTS 0-5 than non-­ reperfused patients.
+
+To date, a smaller body of literature has conducted a long-­ term assessment of expected health benefits and costs associated with AIS patients with large core infarctions. 10-12 Using data from the HERMES meta-­ analysis, Wu et al found that EVT is more cost-­ effective than medical care alone, and Khunte et al stated that EVT yields higher quality-­ adjusted life years (QALYs) regardless of the quality of collateral circulation. 11 12 However, previous cost-­ effectiveness analyses used data from trials that were not designed to select low ASPECTS patients. In this study, we incorporated modified Rankin Scale (mRS)-­ based outcomes specific to patients presenting with low ASPECTS. We hypothesized that EVT in AIS patients with ASPECTS 3-5 would be cost-­ effective given the improved clinical outcomes compared with standard care (SC) alone. This study aimed to conduct a decision-­ analytical model to assess the effectiveness of EVT, compared with SC alone, in AIS patients with a large ischemic region over their lifetime.
+
+METHODS
+
+Model design
+
+A decision-­ analytic model was developed in Tree Age Pro 2022 software (TreeAge Software, Williamstown, MA) to evaluate the cost-­ effectiveness of EVT compared with SC alone from a healthcare perspective in the USA. The model was designed to assess AIS patients presenting with an ASPECTS of 3 to 5 between 0 and 24 hours after stroke symptom onset. In the base-­ case scenario the average age of the modeled cohort was 76 years old in accordance with the average age of patients in the RESCUE-­ Japan LIMIT. 8 Institutional review board approval was not required for this study as input parameters for the decision-­ analytic model were derived from published sources.
+
+The two clinical care pathways analyzed for comparison were EVT with SC, and SC alone. In order to preserve consistency with real-­ life clinical scenarios and published sources such as the RESCUE-­ Japan LIMIT, patients with a confirmed large vessel occlusion and ASPECTS 3-5 received SC, including intravenous tissue-­ plasminogen activator (IV-­ tPA) thrombolysis (if eligible) in both strategies. After each treatment strategy, patients were categorized into one of seven mutually exclusive health states according to the degree of dependence on daily activities as defined by the mRS score 90 days after hospital discharge. The mRS score was categorized as 0 (no disability) to 5 (severe disability), and 6 (death) (table 1)
+
+A long-­ term Markov state transition model was built to estimate lifetime health benefits and costs at the end of the acute care pathway. We assumed the model would be repeated using a 1 year cycle length until all patients expired to reflect the lifetime horizon. Patients could remain in the same mRS state during each cycle, experience a recurrent stroke, or die. 13 Patients who stay in the same mRS state incur the mRS-­ based chronic care cost assigned to that health state. Patients who experience a recurrent stroke could either recover or die. Those who recover transition to a worse mRS state, incurring a combined cost including recurrent stroke care costs and mRS-­ based chronic care costs. Given an increased risk of mortality among patients with worse mRS outcomes (mRS 3-5), mRS-­ based hazard ratios (table 1) were also incorporated into the model. 14 15 Furthermore, the age-­ related risk for non-­ stroke mortality causes for the general population was derived from the 2019 United States Life Tables. 16
+
+[DOCLING_TABLE rows=41 columns=5]
+| Table 1 List of input parameters | Table 1 List of input parameters | Table 1 List of input parameters | Table 1 List of input parameters | Table 1 List of input parameters |
+| Input parameters | Base-­ case value | Distribution | Range | Source (author and reference No) |
+| Treatment cost |  |  |  |  |
+|  IV-­ tPA | $8738 | Gamma | 10% SD | Kunz et al 2018 17 for case value; Wu et al 2020 31 for range |
+|  Cost of recurrent stroke | $25489 | Gamma | 10% SD | base-­ |
+|  EVT | $18262 | Gamma | 10% SD |  |
+| Acute care cost |  |  |  |  |
+|  mRS 0 | $8848 | Gamma | 10% SD | Kunz et al 2018 17 for base-­ case value; Wu et al 2020 31 for range |
+|  mRS 1 | $12216 | Gamma | 10% SD | Kunz et al 2018 17 for base-­ case value; Wu et al 2020 31 for range |
+|  mRS 2 | $19185 | Gamma | 10% SD | Kunz et al 2018 17 for base-­ case value; Wu et al 2020 31 for range |
+|  mRS 3 | $23727 | Gamma | 10% SD | Kunz et al 2018 17 for base-­ case value; Wu et al 2020 31 for range |
+|  mRS 4 | $31793 | Gamma | 10% SD | Kunz et al 2018 17 for base-­ case value; Wu et al 2020 31 for range |
+|  mRS 5 | $37979 | Gamma | 10% SD | Kunz et al 2018 17 for base-­ case value; Wu et al 2020 31 for range |
+|  mRS 6 | $8927 | Gamma | 10% SD | Kunz et al 2018 17 for base-­ case value; Wu et al 2020 31 for range |
+| Chronic care cost |  |  |  |  |
+|  mRS 0 | $12444 | Gamma | 10% SD | Kunz et al 2018 17 for base-­ case value; Wu et al 2020 31 for range |
+|  mRS 1 | $12814 | Gamma | 10% SD | Kunz et al 2018 17 for base-­ case value; Wu et al 2020 31 for range |
+|  mRS 2 | $14824 | Gamma | 10% SD | Kunz et al 2018 17 for base-­ case value; Wu et al 2020 31 for range |
+|  mRS 3 | $25454 | Gamma | 10% SD | Kunz et al 2018 17 for base-­ case value; Wu et al 2020 31 for range |
+|  mRS 4 | $51519 | Gamma | 10% SD | Kunz et al 2018 17 for base-­ case value; Wu et al 2020 31 for range |
+|  mRS 5 | $75741 | Gamma | 10% SD | Kunz et al 2018 17 for base-­ case value; Wu et al 2020 31 for range |
+|  mRS 6 | $0 | Gamma | 10% SD | Kunz et al 2018 17 for base-­ case value; Wu et al 2020 31 for range |
+| Utilities |  |  |  |  |
+|  mRS 0 | 0.85 | Beta | 0.8-1.0 | Peultier et al 2020 14 |
+|  mRS 1 | 0.8 | Beta | 0.8-0.95 | Peultier et al 2020 14 (continued) |
+|  mRS 2 | 0.7 | Beta | 0.68-0.9 | Peultier et al 2020 14 (continued) |
+|  mRS 3 | 0.51 | Beta | 0.45-0.65 | Peultier et al 2020 14 (continued) |
+|  mRS 4 | 0.3 | Beta | 0.1-0.4 | Peultier et al 2020 14 (continued) |
+|  mRS 5 | 0.15 | Beta | 0-0.32 | Peultier et al 2020 14 (continued) |
+|  mRS 6 | 0 | NA | NA | Peultier et al 2020 14 (continued) |
+| Death hazard ratios |  |  |  |  |
+|  mRS 0 | 1 | Log normal | SE 0.076 | Peultier et al 2020 14 |
+|  mRS 1 | 1 | Log normal | SE 0.46 | Peultier et al 2020 14 |
+|  mRS 2 | 1.11 | Log normal | SE 0.46 | Peultier et al 2020 14 |
+|  mRS 3 | 1.27 | Log normal | SE 0.46 | Peultier et al 2020 14 |
+|  mRS 4 | 1.71 | Log normal | SE 0.46 | Peultier et al 2020 14 |
+|  mRS 5 | 2.31 | Log normal | SE 0.46 | Peultier et al 2020 14 |
+| Recurrent stroke risk | 0.059 | NA | NA | Pennlert et al 2014 32 |
+| Annual mortality from other causes | Age-­ specific | NA | NA | US Life Tables 16 |
+| Distribution of patients on the mRS Scale |  |  |  |  |
+| EVT |  |  |  |  |
+[/DOCLING_TABLE]
+
+Continued Parameters of the Markov model. Utilities and costs were discounted at an annual rate of 3%. All Costs were inflation-­ adjusted to 2021 US$ by using the medical care component of the consumer price index. 21
+
+2
+
+Sanmartin MX, et al . J NeuroIntervent Surg 2022; 0 :1-6. doi:10.1136/jnis-2022-019460
+
+[DOCLING_PAGE 3]
+
+Ischemic stroke
+
+Protected by copyright.
+
+J NeuroIntervent Surg: first published as 10.1136/jnis-2022-019460 on 29 September 2022. Downloaded from http://jnis.bmj.com/ on June 14, 2023 at Chang Gung Memorial Hospital Linkou.
+
+[DOCLING_TABLE rows=17 columns=5]
+| Table 1 | Continued |  |  |  |
+| Input parameters | Base-­ case value | Distribution | Range | Source (author and reference No) |
+|  mRS 0 | 2 | Dirichlet | 0-1 | Yoshimura et al 2022 8 |
+|  mRS 1 | 3 | Dirichlet | 0-1 | Yoshimura et al 2022 8 |
+|  mRS 2 | 9 | Dirichlet | 0-1 | Yoshimura et al 2022 8 |
+|  mRS 3 | 17 | Dirichlet | 0-1 | Yoshimura et al 2022 8 |
+|  mRS 4 | 33 | Dirichlet | 0-1 | Yoshimura et al 2022 8 |
+|  mRS 5 | 18 | Dirichlet | 0-1 | Yoshimura et al 2022 8 |
+|  mRS 6 | 18 | Dirichlet | 0-1 | Yoshimura et al 2022 8 |
+| SC |  |  |  |  |
+|  mRS 0 | 0 | Dirichlet | 0-1 | Yoshimura et al 2022 8 |
+|  mRS 1 | 2.9 | Dirichlet | 0-1 | Yoshimura et al 2022 8 |
+|  mRS 2 | 4.9 | Dirichlet | 0-1 | Yoshimura et al 2022 8 |
+|  mRS 3 | 4.9 | Dirichlet | 0-1 | Yoshimura et al 2022 8 |
+|  mRS 4 | 24.5 | Dirichlet | 0-1 | Yoshimura et al 2022 8 |
+|  mRS 5 | 39.2 | Dirichlet | 0-1 | Yoshimura et al 2022 8 |
+|  mRS 6 | 23.5 | Dirichlet | 0-1 | Yoshimura et al 2022 8 |
+[/DOCLING_TABLE]
+
+EVT, endovascular thrombectomy treatment; IV-­ tPA, intravenous tissue-­ plasminogen activator; mRS, modified Rankin Scale; NA, not applicable; SC, standard care.
+
+The complete structure of the decision tree is detailed in figure 1.
+
+Model inputs
+
+All input parameters were derived from the best available evidence in the literature, represented by RCTs, meta-­ analyses, or large-­ cohort studies. The 90-­ day mRS outcomes were obtained from the most recent RCT by Yoshimura et al . The cost of EVT and IV-­ tPA was derived from a study by Kuntz et al who obtained the costs from the National Inpatient Sample. 17
+
+Figure 1 Structure of decision tree: short-­ term model and long-­ term model. EVT, endovascular thrombectomy; mRS, modified Rankin Scale; SC, standard care.
+
+Acute care costs, chronic care costs, and recurrent stroke costs were also derived from Kunz et al, which extracted the costs from Dawson et al, Shireman et al and Chambers et al , respectively. 17-20 All costs were inflation-­ adjusted to 2021 US$ using the medical care consumer price index (US Bureau of Labor Statistics). 21 The mRS-­ based utility was derived from Peultier et al who estimated a weighted utility for each mRS outcome. 14 An annual discount rate of 3% was applied to the mRS-­ based utility and costs per convention.
+
+A list of all input parameters is detailed in table 1.
+
+Cost-effectiveness and sensitivity analyses
+
+The incremental cost-­ effectiveness ratio (ICER) was assessed by using a willingness-­ to-­ pay (WTP) threshold of $100 000 per QALY, following the US guideline recommendations. 22 Sensitivity analyses were performed to explore the robustness and accuracy of the model. Thus, deterministic one-­ way and two-­ way sensitivity analyses were performed to identify and evaluate the key variables driving the model and assess the effect of uncertainties on one (two) input parameter(s) on the results. Another indicator used to compare strategies was the net monetary benefit (NMB).
+
+Probabilistic sensitivity analyses (PSAs) were performed to assess the robustness of the model results. PSA was conducted using 10 000 iterations of a Monte Carlo simulation by varying input parameters values from their respective distributions (table 1). Results were described using a cost-­ effectiveness scatterplot and cost-­ effectiveness acceptability curves.
+
+Model validation
+
+We performed the following validation of our decision model according to best practices. 23 24 (1) Face validation : acute stroke clinicians vetted the model structure, input values, and results against their clinical expertise. (2) Verification analyses : we validated that the results are independent of the model structure. For the EVT strategy, an increase of the probabilities for the mRS states 0 and 1 led to higher effectiveness and lower cost of the EVT treatment over a lifetime horizon. For the SC strategy, a decrease of the probability for the mRS state 6 led to higher effectiveness and higher cost of the SC treatment over a lifetime horizon. These results are consistent with our expectations given the model structure.
+
+RESULTS
+
+Base-case analysis
+
+The cost-­ effectiveness analyses revealed that EVT yields higher lifetime benefits (2.20 QALYs vs 1.41 QALYs) with higher lifetime healthcare cost per patient ($285 861 vs $272 954), compared with the SC strategy. The difference in health benefits between EVT and SC was 0.79 QALYs, equivalent to 288 additional days of healthy life per patient. Thus, EVT is more effective and costly compared with SC alone, representing an undominated strategy. However, EVT is still cost-­ effective since the ICER of $16 239/QALY is lower than the WTP thresholds of 50 000/QALY and 100 000/QALY. The NMBs were negative for EVT and SC strategies.
+
+Sensitivity analysis
+
+The results of the tornado diagram (online supplemental figure S1) showed that the ICER is most sensitive to: (1) stroke related-­ mortality risk after each type of treatment strategies (EVT and SC); (2) age; (3) proportion of good outcomes (mRS 2) after SC and EVT; and (4) poor outcomes (mRS 3) after EVT.
+
+Sanmartin MX, et al . J NeuroIntervent Surg 2022; 0 :1-6. doi:10.1136/jnis-2022-019460
+
+3
+
+[DOCLING_PAGE 4]
+
+Protected by copyright.
+
+J NeuroIntervent Surg: first published as 10.1136/jnis-2022-019460 on 29 September 2022. Downloaded from http://jnis.bmj.com/ on June 14, 2023 at Chang Gung Memorial Hospital Linkou.
+
+Ischemic stroke
+
+Figure 2 (A) One-­ way sensitivity analyses varying mortality risk of EVT. (B) One-­ way sensitivity analyses varying mortality risk of SC. (C) Two-­ way sensitivity analyses varying mortality risks of EVT and SC. (D) Two-­ way sensitivity analyses varying mortality risk of EVT and probability of excellent outcome after SC (mRS score of 0). In the blue region, EVT is more cost-­ effective whereas in the red region SC is more cost-­ effective. The dashed line represents the base-­ case scenario. EVT, endovascular thrombectomy treatment; mRS, modified Rankin Scale; SC, standard care.
+
+The mortality risk of each strategy was varied independently. When the mortality risk after EVT varies within a plausible range, EVT remains the preferred strategy (figure 2A). Likewise, EVT is more favorable when the mortality risk after SC varies from 0% to 30% (figure 2B). T wo-­ way sensitivity analyses were performed, simultaneously varying the mortality risk of EVT and SC from 0% to 30%. The results indicated that EVT was the optimal strategy throughout this range (figure 2C). When the proportion of excellent outcomes (mRS 0) after SC varies from 0% to 20% and mortality risk of EVT varies from 0% to 30%, the results indicated that EVT was cost-­ effective if excellent outcomes (mRS 0) after SC were at most 5.5% (figure 2D).
+
+Additional one-­ way sensitivity analysis varying patient age from 50 to 100 showed that NMBs were negative for both strategies throughout this age range (online supplemental figure S2A). However, EVT remained the most cost-­ effective strategy until age 97.9 years. The difference between the NMB of EVT and SC became smaller with the advancement of age, mainly because benefits and costs were higher in younger patients than in older patients. T wo-­ way sensitivity analyses demonstrated that EVT was the most cost-­ effective strategy until age 98 as long as the proportion of excellent outcomes (mRS 0) of SC is lower than 10% (online supplemental figure S2B). When varying the patient age from 50 to 100 and the mortality risk of EVT from 0% to 30%, the conclusions of the base-­ case scenario remained unchanged until age 97 (online supplemental figure S2C). Furthermore, EVT was the most cost-­ effective strategy until age 92 when varying the patient age from 50 to 100 years old, and the proportion of good outcomes (mRS 0) (online supplemental figure S2D) and poor outcomes (mRS 3) after EVT from 0% to 20% (online supplemental figure S2E).
+
+The probabilistic sensitivity analyses in the base-­ case scenario for 76-­ year-­ old patients with ASPECTS 3-5 indicated that EVT was the more cost-­ effective strategy in 98.8% (9882 of 10 000) of iterations at the WTP threshold of $100 000 per QALY (figure 3A). The cost-­ effectiveness acceptability curves varying the WTP thresholds from $0 to $200 000 showed that EVT was the optimal strategy for almost all WTP thresholds. Notably, a higher WTP threshold led to a higher number of iterations where EVT was more favorable (figure 3B).
+
+Figure 3 (A) Scatterplot of probabilistic sensitivity analysis. Each dot represents one iteration of the 10 000 conducted in this analysis. The total dots below the dashed threshold line representing willingness-­ to-­ pay (WTP) (green dots) denote the probability of endovascular thrombectomy treatment being more cost-­ effective. (B) Cost-­ effectiveness (CE) acceptability curve calculated with probabilistic sensitivity analyses varying the WTP from $0 to $200 000/QALY. QALY, quality-­ adjusted life-­ year.
+
+DISCUSSION
+
+This study examined the cost-­ effectiveness of EVT in suspected AIS patients with a large ischemic core, defined as ASPECTS 3-5. The analysis found that EVT is a cost-­ effective strategy compared with SC alone over the patient's lifetime. Despite higher initial costs with EVT, this strategy yielded higher QALYs with an ICER lower than the WTP thresholds of $50 000/QALY and $100 000/ QALY. The AHA and American College of Cardiology (ACC) recommend high-­ value care when cost-­ effectiveness levels are reached with ICERs below $50 000/QALY, and intermediate value of care with ICERs between $50 000/QALY and $150 000/ QALY. Per the AHA/ACC policy statement, EVT provides high-­ value care in AIS patients with a large ischemic core compared with SC alone. 25 The PSA results showed that EVT was the most cost-­ effective strategy at all levels of WTP thresholds, ranging from $0 to $200 000 per QALY.
+
+Current guidelines from the AHA/ASA recommend EVT only in patients with ASPECTS ≥6. 5 However, the range of ASPECTS values is not an exact quantification of the infarct volume, 8 and the likelihood of good outcomes is not homogeneous throughout the scale. For instance, Panni et al found that patients with ASPECTS 5 had a 37.5% chance of good outcomes (mRS 0-2), while none of the patients with ASPECTS 0-1 had good outcomes after EVT. 26 One study by Roman et al found that ASPECTS 0-2 patients had an 11% probability of good outcomes (mRS 0-2) after EVT, while it was 15% for patients with ASPECTS 3-5. 27 Another study by Cagnazzo et al documented that patients presenting with ASPECTS 5 who underwent EVT had a higher probability of good outcomes (mRS 0-2) (33.3%) than ASPECTS 0-4 patients (17.1%). 28 Even though Yoshimura et al only included ASPECTS 3-5 patients, current evidence has shown that this sub-­ group of all low-­ ASPECTS patients would benefit the most from EVT. 8 Moreover, our results revealed that it is also the most cost-­ effective strategy compared with SC alone in the long term (lifetime horizon).
+
+4
+
+Sanmartin MX, et al . J NeuroIntervent Surg 2022; 0 :1-6. doi:10.1136/jnis-2022-019460
+
+[DOCLING_PAGE 5]
+
+Ischemic stroke
+
+Protected by copyright.
+
+J NeuroIntervent Surg: first published as 10.1136/jnis-2022-019460 on 29 September 2022. Downloaded from http://jnis.bmj.com/ on June 14, 2023 at Chang Gung Memorial Hospital Linkou.
+
+Furthermore, national guidelines from the AHA/ASA advise performing EVT on AIS patients aged 18 and older without an upper age limit, 5 and evidence from RCTs supports this class I recommendation. 1-4 6 For instance, the HERMES meta-­ analysis documented that EVT was associated with improved functional outcomes within 12 hours of symptom onset compared with SC alone among patients ≥80 years old. 9 Similarly, the DAWN (DWI or CTP Assessment with Clinical Mismatch in the Triage of Wake-­ Up and Late Presenting Strokes Undergoing Neurointervention with Trevo) trial showed that EVT had more favorable outcomes than SC among elderly patients (≥80) in the extended time window (6-24 hours of symptom onset). 29 However, there is a lack of consensus about the effectiveness of EVT in older patients presenting with ASPECTS ≥6. Prior research docu -mented that the effectiveness of EVT in patients above 80 years of age depends significantly on the morbidity of the patients at baseline. 30 In contrast, one study found that EVT is the preferred strategy over SC in patients aged 50 to 100 years. 17 Another study indicated that EVT yielded higher QALYs and incremental costs compared with SC alone, but EVT was still cost-­ effective in patients aged 76-80. 20 Even though further research is required to understand the effectiveness of EVT in low ASPECTS patients aged ≥80, Wu et al demonstrated that EVT was cost-­ effective in older (≥75 years) and younger (55-65, 65-75 years) patients presenting with ASPECTS <6. 11 Our results are consistent with the most recent cost-­ effectiveness evidence suggesting that EVT improves health outcomes in patients aged 50 to 98.6 years presenting with ASPECTS 3-5.
+
+This study has several strengths. The outcome parameters were derived from the first and most recent RCT data incorporating mRS-­ based outcomes specific to patients presenting with low ASPECTS. Further, sensitivity analyses were performed to explore the robustness and accuracy of the model. Additionally, our model is flexible and can be used with data from ongoing clinical trials (eg, TESLA: Thrombectomy for Emergent Salvage of Large Anterior Circulation Ischemic Stroke; TENSION: Efficacy and Safety of Thrombectomy in Stroke with Extended Lesion and Extended Time Window) once their results are released. However, there are also limitations in this study. Due to the lack of availability of input parameters, subgroup analyses were not performed. Yet, extensive sensitivity analyses of input parameters were conducted to address this concern. Even though EVT was associated with an increased incidence of sICH, sensitivity analysis could not be performed on this important variable due to the lack of mRS outcomes in patients who had sICH. More research is needed to determine the clinical implications of a higher incidence of sICH among low ASPECTS patients. Finally, mRS outcomes are based on a Japanese study since US-­ specific data are not available yet. Therefore, sensitivity analysis was performed to evaluate the robustness of the model, and the conclusions remain unchanged within plausible ranges.
+
+CONCLUSION
+
+Our study highlights that EVT is cost-­ effective for AIS patients with a large ischemic core, defined as ASPECTS 3-5, over a lifetime horizon. Moreover, EVT is associated with a significant improvement in clinical outcomes of patients aged 50 to 98 years. Further studies are needed to elucidate the clinical implications of a higher incidence of sICH among low ASPECTS patients.
+
+Twitter Ajay Malhotra @AjayMalhotraRad
+
+Contributors MXS collected the data, performed the literature search, designed and analyzed the decision analysis model, analyzed and interpreted the results, revised the manuscript for important intellectual content, and drafted and edited the final version. JMK oversaw the integrity of the entire study, designed and analyzed the decision analysis model, reviewed the results, revised the manuscript for important intellectual content, and drafted and edited the final version. JW, KS and MB designed and analyzed the decision analysis model, reviewed the results, revised the manuscript for important intellectual content, and edited the final version. AM oversaw the integrity of the entire study, designed and analyzed the decision analysis model, reviewed the results, revised the manuscript for important intellectual content, and edited the final version. GM performed the literature search, designed and analyzed the decision analysis model, analyzed and interpreted the results, revised the manuscript for important intellectual content, and edited the final version. PCS oversaw the integrity of the entire study, supervised data collection, designed and analyzed the decision analysis model, analyzed and interpreted the results, revised the manuscript for important intellectual content, and drafted and edited the final version.
+
+Funding The authors have not declared a specific grant for this research from any funding agency in the public, commercial or not-­ for-­ profit sectors.
+
+Competing interests MXS and KS hold a Visiting Scholar appointment at the Feinstein Institutes for Medical Research in the Center for Health Innovations and Outcomes Research and are employees of Siemens Medical Solutions USA Inc. MXS and KS are shareholders of Siemens Healthineers. JMK, JW and PCS receive research support from Siemens Healthineers.
+
+Patient consent for publication Not applicable.
+
+Provenance and peer review Not commissioned; externally peer reviewed.
+
+Data availability statement All data relevant to the study are included in the article or uploaded as supplementary information.
+
+Supplemental material This content has been supplied by the author(s). It has not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been peer-­ reviewed. Any opinions or recommendations discussed are solely those of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and responsibility arising from any reliance placed on the content. Where the content includes any translated material, BMJ does not warrant the accuracy and reliability of the translations (including but not limited to local regulations, clinical guidelines, terminology, drug names and drug dosages), and is not responsible for any error and/or omissions arising from translation and adaptation or otherwise.
+
+ORCID iDs
+
+Ajay Malhotra http://orcid.org/0000-0001-9223-6640 Mehrad Bastani http://orcid.org/0000-0001-9571-9488
+
+REFERENCES
+
+1 Campbell BCV, Mitchell PJ, Kleinig TJ, et al . Endovascular therapy for ischemic stroke with perfusion-­ imaging selection. N Engl J Med 2015;372:1009-18.
+
+2 Jovin TG, Chamorro A, Cobo E, et al . Thrombectomy within 8 hours after symptom onset in ischemic stroke. N Engl J Med 2015;372:2296-306.
+
+3 Berkhemer OA, Fransen PSS, Beumer D, et al . A randomized trial of intraarterial treatment for acute ischemic stroke. N Engl J Med 2015;372:11-20.
+
+4 Saver JL, Goyal M, Bonafe A, et al . Stent-­ retriever thrombectomy after intravenous t-­ PA vs. t-­ PA alone in stroke. N Engl J Med 2015;372:2285-95.
+
+5 Powers WJ, Derdeyn CP, Biller J, et al . 2015 American Heart Association/American Stroke Association focused update of the 2013 guidelines for the early management of patients with acute ischemic stroke regarding endovascular treatment: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke 2015;46:3020-35.
+
+6 Goyal M, Demchuk AM, Menon BK, et al . Randomized assessment of rapid endovascular treatment of ischemic stroke. N Engl J Med 2015;372:1019-30.
+
+7 Leslie-­ Mazwi TM, Hirsch JA, Falcone GJ, et al . Endovascular stroke treatment outcomes after patient selection based on magnetic resonance imaging and clinical criteria. JAMA Neurol 2016;73:43.
+
+8 Yoshimura S, Sakai N, Yamagami H, et al . Endovascular therapy for acute stroke with a large ischemic region. N Engl J Med 2022;386:1303-13.
+
+9 Goyal M, Menon BK, van Zwam WH, et al . Endovascular thrombectomy after large-­ vessel ischaemic stroke: a meta-­ analysis of individual patient data from five randomised trials. Lancet 2016;387:1723-31.
+
+10 Sarraj A, Pizzo E, Lobotesis K, et al . Endovascular thrombectomy in patients with large core ischemic stroke: a cost-­ effectiveness analysis from the SELECT study. J Neurointerv Surg 2021;13:875-82.
+
+11 Wu X, Payabvash S, Matouk CC, et al . Cost-­ effectiveness of endovascular thrombectomy in patients with low Alberta Stroke Program Early CT Scores (< 6) at presentation. J Neurosurg 2021;135:1645-55.
+
+12 Khunte M, Wu X, Avery EW, et al . Impact of collateral flow on cost-­ effectiveness of endovascular thrombectomy. J Neurosurg 2022:1-10.
+
+Sanmartin MX, et al . J NeuroIntervent Surg 2022; 0 :1-6. doi:10.1136/jnis-2022-019460
+
+5
+
+[DOCLING_PAGE 6]
+
+Protected by copyright. J NeuroIntervent Surg: first published as 10.1136/jnis-2022-019460 on 29 September 2022. Downloaded from http://jnis.bmj.com/ on June 14, 2023 at Chang Gung Memorial Hospital Linkou.
+
+Ischemic stroke
+
+13 Earnshaw SR, Jackson D, Farkouh R, et al . Cost-­ effectiveness of patient selection using penumbral-­ based MRI for intravenous thrombolysis. Stroke 2009;40:1710-20.
+
+14 Peultier A-­ C, Pandya A, Sharma R, et al . Cost-­ effectiveness of mechanical thrombectomy more than 6 hours after symptom onset among patients with acute ischemic stroke. JAMA Netw Open 2020;3:e2012476.
+
+15 Momin EN, Adams H, Shinohara RT, et al . Postoperative mortality after surgery for brain tumors by patient insurance status in the United States. Arch Surg 2012;147:1017.
+
+16 Arias E, Xu J. United States Life Tables. National Vital Statistics Reports : From the Centers for Disease Control and Prevention, National Center for Health Statistics, National Vital Statistics System , 2022.
+
+17 Kunz WG, Hunink MG, Dimitriadis K, et al . Cost-­ effectiveness of endovascular therapy for acute ischemic stroke: a systematic review of the impact of patient age. Radiology 2018;288:518-26.
+
+18 Dawson J, Lees JS, Chang T-­ P , et al . Association between disability measures and healthcare costs after initial treatment for acute stroke. Stroke 2007;38:1893-8.
+
+19 Chambers MG, Koch P, Hutton J. Development of a decision-­ analytic model of stroke care in the United States and Europe. Value Health 2002;5:82-97.
+
+20 Shireman TI, Wang K, Saver JL, et al . Cost-­ effectiveness of solitaire stent retriever thrombectomy for acute ischemic stroke. Stroke 2017;48:379-87.
+
+21 US Bureau of Labor Statistics. US City average medical care consumer price index 1982-­ 1984.
+
+22 Neumann PJ, Cohen JT, Weinstein MC. Updating cost-­ effectiveness--the curious resilience of the $50,000-­ per-­ QAL Y threshold. N Engl J Med 2014;371:796-7.
+
+23 Eddy DM, Hollingworth W, Caro JJ, et al . Model transparency and validation. Medical Decision Making 2012;32:733-43.
+
+24 Earnshaw SR, Wilson M, Mauskopf J, et al . Model-­ based cost-­ effectiveness analyses for the treatment of acute stroke events: a review and summary of challenges. Value Health 2009;12:507-20.
+
+25 Anderson JL, Heidenreich PA, Barnett PG, et al . ACC/AHA statement on cost/value methodology in clinical practice guidelines and performance measures: a report of the American College of Cardiology/American Heart Association Task force on performance measures and task force on practice guidelines. J Am Coll Cardiol 2014;63:2304-22.
+
+26 Panni P , Gory B, Xie Y , et al . Acute stroke with large ischemic core treated by thrombectomy. Stroke 2019;50:1164-71.
+
+27 Román LS, Menon BK, Blasco J, et al . Imaging features and safety and efficacy of endovascular stroke treatment: a meta-­ analysis of individual patient-­ level data. Lancet Neurol 2018;17:895-904.
+
+28 Cagnazzo F, Derraz I, Dargazanli C, et al . Mechanical thrombectomy in patients with acute ischemic stroke and ASPECTS ≤6: a meta-­ analysis. J Neurointerv Surg 2020;12:350-5.
+
+29 Nogueira RG, Jadhav AP, Haussen DC, et al . Thrombectomy 6 to 24 hours after stroke with a mismatch between deficit and infarct. N Engl J Med 2018;378:11-21.
+
+30 Malhotra A, Wu X, Payabvash S, et al . Comparative effectiveness of endovascular thrombectomy in elderly stroke patients. Stroke 2019;50:963-9.
+
+31 Wu X, Hughes DR, Gandhi D, et al . CT angiography for triage of patients with acute minor stroke: a cost-­ effectiveness analysis. Radiology 2020;294:580-8.
+
+32 Pennlert J, Eriksson M, Carlberg B, et al . Long-­ term risk and predictors of recurrent stroke beyond the acute phase. Stroke 2014;45:1839-41.
+
+6
+
+Sanmartin MX, et al . J NeuroIntervent Surg 2022; 0 :1-6. doi:10.1136/jnis-2022-019460

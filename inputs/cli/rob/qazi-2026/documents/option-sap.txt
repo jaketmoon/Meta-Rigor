@@ -1,0 +1,2211 @@
+[PDF_PAGE 1]
+OPTION Statistical Analysis Plan
+STATISTICAL ANALYSIS PLAN
+OrTi@N
+
+Intravenous Thrombolysis with Recombinant Human TNK Tissue-
+type Plasminogen Activator (rhTNK-tPA) for Acute Non-large Vessel
+
+Occlusion in Extended Time Window--A Multicenter, Prospective,
+
+Randomized, Open-label, Blinded Endpoint Trial
+Prepared by
+Yingting Zuo, PhD
+Xuanwu Hospital, Capital Medical University, Beijing, China
+Duolao Wang, PhD
+Global Health Trials Unit, Liverpool School of Tropical Medicine, Liverpool, United
+Kingdom
+Version: Original version 1.0
+Date: December 24, 2022
+1
+
+[PDF_PAGE 2]
+Approvals by
+ae =
+
+Prof. Junwei Hao (Chief
+
+Ht 4 la ’
+Investigator) “ ]un (
+Dr. Yingting Zuo (Trial
+AN vo 24/12/2022
+
+Statistician) Yi =| /
+
+Prof. Duolao Wang (Senior Dolao Warg
+
+Statistician)
+
+2
+
+[PDF_PAGE 3]
+TABLE OF CONTENTS
+LIST OF ABBREVIATIONS AND DEFINITIONS OF TERMS ......... cscs 3D
+2.1 Primary ODjective ........esseeccecsseecseeceeeeneeseeeeneecsneesneecaeceneeeneesanessneesneessneesntessneceneesaneee D
+2.2 Secondary Objectives ..........sceceecceecceecseeseeeesseesseessneesaeceeeeneesaeesneessessneesntesseeeneesantee D
+3.1 Primary Efficacy Emdpoint 0.2... cesses eeseeceeesseeeeeneeeeeeeneeennessnessneeseneeeneeesneesaeeses 8
+3.2 Secondary Efficacy Endpoint .............scseccecssecsseessessseseeseeeseesneesneessnesssesssneesaeeesneesaeesee 8
+3.3 Safety EMG point occ cccsecsseceeseesesseesecsseseesssnesseeseesenseessesessecsessessecseesessnseneese D.
+4.1 Overall Study Design and Plan........cccccessesssesssesssessstesssseessesssesssessnessseesstessssessseessessee 9
+4.2 Selection of Study Population ..........cccscecsecsseessessseesseesssessessseesseessesssesseessessseessees LO
+4.2.1 Inclusion Criteria.......cccssssssscsssssseccesssssssessssssssuecsssssssnnessssssssecessssssseees LO
+4.2.2 Exclusion Criteria..........cccsccsssssccsssecsssnseccssneesssnsecsssneccssneeessnmeesssnnecsssnesssneecesseee LD
+4.3 Method of Treatment Assignment and Randomization..............0..:eeceeeeeeee 12
+4.4 Treatment Masking (Blinding) 0... eeceeceseeeeeeeeneeeeneesneecneeeneeentessneesneeeneees LB
+4.5 Unter amal ysis ..........eesseeeseecceeeseeeeeseeeseeesneesneeseneceneeaseesneesnessneesnsesaessneesatessneesaeeeenees 13
+6.1 Intention-to-Treat (ITT) Population..............eceecececseeeeeesieesneeeseeesneesneeseeeeseeeeee LA
+6.2 Per-Protocol (PP) Population ...........:ccccccceecssesseessnesssesestecsseesstessneesseessnessssessseesseessee LA
+6.3 Safety Population.........c.ececcseesseecseecssecssesseecsseesnesssessseesstecsseesssesssessnesssessiessseeeseesaee LS
+7. GENERAL ISSUES FOR STATISTICAL ANALYSIS ......csccscseesseesseesstesseessteesseeesee LS
+7.1 General Principles .......cscsccccsssssssesssessssssisecccsssssnnsesssessssssnecsssssssnsesessssssnssneecsssssssnees LS.
+7.2 Methods for Withdrawals and Missing Data ............ccccssessseesssesseesssessseessteesseeses LO
+7.2.1 Withdrawals ........sscscccsssscsssseccssnecsssneecsssneccssnsecessnecsssneecssnnecsssnnecssanecsssnecssneecsssns 16
+7.2.2 Missing Data........sccccsscsssseccssssecsssseecsssseecssneecsssnessssnsecssnsecsssnnecsssnecsssneesssaneessses 16
+7.3 Data Transformations ...........eseecseeec secs eeseeeenteesseesneecneceneceneesaneesneesnneesneesntessneeeneeseee LT
+7.4 Mulitcenter Data... esseecceccseessescseseeesseneesneesseesneesnecsneeeneessneesneessessnessneeseneesneessee LT
+3
+
+[PDF_PAGE 4]
+7.6 COVAVIACCS esse eeseeeeceeeeeeeeceeeeeeeeeneecnecenecenecaneesneesanecsneesuessneceneesanessntesneessnesentessneseneesees LB
+7.7 Planned Subgroups........esseecseesseccesseeescsesseeesneeeseeseeesneesneeeaeesseesneesnneesneesneeseneseneesees LB
+8. DISPOSITION OF SUBJECTS AND WITHDRAWALS... cccecseeseeeteetesteeeeneee LOD
+9. DEMOGRAPHICS AND BASELINE CHARACTERISTICS 00... eecessesseeseseeseeeteene LOD
+10.1 Primary Efficacy Analysis ...........cccssesssesssessstsssssesssessseessessssessneesstessssessesssessseessnesss 20)
+10.1.1 Crude Analysis ........scccsccssessseessssssseessssssssesssessnesssessnsesssesssessssesssessnesssessaeeessetses 21
+10.1.2 Covariates Adjusted Amalysis..........ccccssssssesssessseeseesseessersssesssessnesssessneeesteeses 21
+10.1.4 Subgroup Amallysis.........ccscssssscsseessessseessesesseessessssessecssesssseessestsssesssessseessessessss 22,
+10.2 Secondary Efficacy AmalySis.........sccccsssseccsssescessescssseecssneecsssneessssneesssnnecsssnneesssnessss 23
+10.2.1 Ordinal Modified Rankin Scale Score at 90 Days .........csssccssecessecsssneeessnee 23
+10.2.2 Modified Rankin Scale Score 0 to 2 at 90 Days........eseeeceeeceeseeeeteesneesneesneees 24
+10.2.3 Reperfusion at 24 HOUrs ...........scecseecceecceecseeesseeeeneecneeeenessneeceessneessneesneesnessneees 24
+10.2.4 Infarct Growth .....esceecceecseesseesseeesneesneeeeneeeneessneesneesnsessnecsaecsneesaeessneesneesnessneees 24
+10.2.5 Early Clinical Response at 24 HOUrs ..........ccccccsseessessseeeseesstessteessteesneesneessees 2S
+10.2.6 NIHSS Change from Baseline to 7 Days or Discharge ...........:ccseeeeees 25
+11.1 SICH Rate within 36 HOUrS..........cccccsssesssesssescstssssseeseesseesseessnessstecsisessteesseessesssness 2D
+11.3 Systemic Bleeding at 90 Days ....ccsscsssssssecccsssssssessscssssssseccssssssnusessssssssssesssssses 20
+11.4 Mortality at 90 Days........ccscssessesssssesseesssesssesssesssssesssessseesseessusssssesssssssssssessseesseessessss 20
+11.5 Adverse Evemts.......ccssscsssseccssseecsssnessssnecsssnsecsssneesssnecsssnseccssnscessssecsssnecsssneeessnseesssns 20
+11.5.1 Adverse Events.........cccscssssssessssesssessssecsseessesesseessssssecsscssesssssessestsseessessssecssesssesees 27
+11.5.2 Serious Adverse Event ........:.e:cseccecsescsesesseesseeesneesneesnneesneecaeseneessessneesneesnneees 27
+4
+
+[PDF_PAGE 5]
+LIST OF ABBREVIATIONS AND DEFINITIONS OF TERMS
+“Abbreviation ‘Definition = =————(i‘“‘S;SSS”S”S””O
+“AE—~—~«CAverseevent ss—<—s—sSSSOSCSsSCS
+
+cl Confidence interval
+
+CT Computed tomography
+
+CTP Computed tomography perfusion
+
+CTCAE Common Terminology Criteria for Adverse Events
+
+DSMB Data and Safety Monitoring Board
+
+GEE Generalized estimating equation
+
+GenOR Generalized odds ratio
+
+GUSTO Global Utilization of Streptokinase and Tissue Plasminogen
+
+Activator for Occluded Coronary Arteries
+
+ICH Intracranial hemorrhage
+
+IPTW Inverse probability of treatment weighting
+
+mT Intention-to-Treat
+
+IWRS Interactive Web Response System
+
+MR Magnetic resonance
+
+MedDRA Medical Dictionary for Regulatory Activities
+
+mRS Modified Rankin Scale
+
+NIHSS National Institute of Health Stroke Scale
+
+PP Per-Protocol
+
+PT Preferred term
+
+thTNK-tPA Recombinant Human TNK Tissue-type Plasminogen Activator
+
+RR Risk ratio
+
+SAE Serious adverse event
+
+5
+
+[PDF_PAGE 6]
+“SAP —sStatistical Analysis Plan
+sICH Symptomatic intracranial hemorrhage
+SOC System Organ Class
+Tmax Time to maximum of the residue function
+tPA Tissue plasminogen activator
+6
+
+[PDF_PAGE 7]
+1. BACKGROUND
+
+Intravenous Thrombolysis with Recombinant Human TNK Tissue-type Plasminogen
+Activator (rhTNK-tPA) for Acute Non-large Vessel Occlusion in Extended Time
+Window--A Multicenter, Prospective, Randomized, Open-label, Blinded Endpoint
+Trial (OPTION) is a multicenter, prospective, randomized, open-label, parallel,
+blinded endpoint, controlled clinical trial to test efficacy and safety of rhnoTNK-tPA in
+patients presenting within 4.5-24 hours after symptom onset who have a non-large
+vessel occlusion and evidence of salvageable tissue on their baseline computed
+tomography perfusion (CTP).
+
+This Statistical Analysis Plan (SAP) describes the statistical methods to be used
+for the OPTION. The version of the SAP has been based on the version 1.2 of the
+study protocol.
+
+2. STUDY OBJECTIVE
+
+2.1 Primary Objective
+
+The primary objective of OPTION is to evaluate whether treatment with rhTNK-tPA,
+
+administered between 4.5-24 hours after symptom onset can improve neurological
+
+outcome in patients who have a non-large vessel occlusion screened by perfusion
+
+imaging.
+
+2.2 Secondary Objectives
+
+@ = To assess the level of disability (shift analysis of modified Rankin Scale [MRS]
+score) at 90 days
+
+@ To assess the proportion of favorable functional outcome (mRS score 0 to 2) at
+
+90 days
+@ To assess the proportion of patients with reperfusion at 24 hours (>90% reduction
+
+in time to maximum of the residue function [Tmax] >6s lesion volume by CTP)
+
+7
+
+[PDF_PAGE 8]
+@ To assess infarct growth between final infarct volume (measured by computed
+tomography [CT] at 24 hours) and baseline infarct volume (rCBF<30% by CTP)
+
+@ To assess the proportion of patients with early clinical response at 24 hours
+(National Institute of Health Stroke Scale [NIHSS] drop of =8 from baseline or
+NIHSS score of 0 or | at 24 hours)
+
+@ To assess the change of the NIHSS score at 7 days or discharge if earlier from
+baseline
+
+@ To assess the safety of the two treatment regimens in terms of symptomatic
+intracranial hemorrhage (sICH) within 36 hours
+
+@ To assess the safety of the two treatment regimens in terms of intracranial
+hemorrhage (ICH) within 36 hours
+
+@ To assess the safety of the two treatment regimens in terms of systemic bleeding
+(The Global Utilization of Streptokinase and Tissue Plasminogen Activator for
+Occluded Coronary Arteries [GUSTO]: moderate and severe bleeding) at 90 days
+
+@ To assess the safety of the two treatment regimens in terms of mortality at 90
+days
+
+3. STUDY ENDPOINTS
+
+3.1 Primary Efficacy Endpoint
+
+@ Proportion of excellent functional outcome defined as an mRS of 0-1 at 90 days
+
+3.2 Secondary Efficacy Endpoint
+
+@ Ordinal mRS score at 90 days
+
+@ Proportion of favorable functional outcome defined as an mRS of 0-2 at 90 days
+
+@ Proportion of patients with reperfusion at 24 hours, defined as >90% reduction in
+Tmax >6s lesion volume by CTP
+
+@ Infarct growth between final infarct volume (measured by CT at 24 hours) and
+
+8
+
+[PDF_PAGE 9]
+baseline infarct volume (rCBF<30% by CTP)
+@ Proportion of patients with early clinical response at 24 hours, defined as a
+NIHSS drop of =8 from baseline or NIHSS score of 0 or 1
+@ NIHSS change from baseline to 7 days/discharge (whichever is earlier)
+3.3 Safety Endpoint
+@ Proportion of patients with sICH within 36 hours, as defined by Heidelberg
+bleeding classification
+@ Proportion of patients with ICH within 36 hours, as defined by Heidelberg
+bleeding classification
+@ Proportion of systemic bleeding at 90 days, as defined by GUSTO: moderate and
+severe bleeding
+@ Mortality at 90 days
+4, STUDY METHODS
+4.1 Overall Study Design and Plan
+This is a multicenter, prospective, randomized, open-label, parallel, blinded endpoint,
+controlled clinical trial. Patients are randomly assigned to receive rhTNK-tPA or
+standard medical treatment in a 1:1 ratio. It is planned to recruit at least 568 patients
+in about 40 sites in China. The follow-up period covers the period from the subacute
+stage (day 7 or hospital discharge) to the final follow-up examination 83-97 days after
+randomization which defines the primary endpoint. The study patient flow outline
+following Consort diagram is shown in Figure 1.
+9
+
+[PDF_PAGE 10]
+XXX Were excluded
+XXX Not mectng target mismatch profile on CTP
+XXX Premorbid disability with  prestoke modified
+Rankin scale (mS) seore> 1
+‘XXX Had large veel oclison
+XXX No consent obtained
+XXX Other reason
+‘XXX Randomized to study inadvertently
+XX Allocated to receive teneseplaxe [XXX Allocated o receive standard medical weatment
+XXX Received treatment as randomized XXX Received treatment as randomized
+=m
+XX Final assesment valle [xXx Final asesoment avaiable
+XXX Atended 90-y vst XXX Attended 90-day visit
+=
+=a
+Figure 1. The study patient flow outline following Consort diagram.
+4.2 Selection of Study Population
+4.2.1 Inclusion Criteria
+Clinical inclusion criteria
+@ Clinical diagnosis of acute ischemic stroke
+@ Age =18 years
+@ Pre-stroke mRS score 0-1
+@ Baseline NIHSS score 4-25 at the time of randomization
+@ Symptom onset within 4.5-24h (onset time refers to “last-seen well”)
+@ Written informed consent from patients or legally responsible representatives
+Imaging inclusion criteria
+@ Target mismatch profile on CTP defined as an ischemic core volume <50mL, a
+mismatch ratio >1.2, and a mismatch volume >10mL
+10
+
+[PDF_PAGE 11]
+4.2.2 Exclusion Criteria
+
+Clinical exclusion criteria
+
+@ = Treatment with a thrombolytic within the last 72 hours
+
+© Contraindications to thrombolysis
+
+@ Planned or anticipated treatment with endovascular therapy
+
+@ Rapidly improving symptoms, particularly if in the judgement of the managing
+clinician is likely to result in a NIHSS <4 at randomization
+
+@ Pregnancy or lactating; formal testing needed in woman of childbearing potential
+
+@ Cerebral neoplasm (with mass effect)
+
+@ Hereditary or acquired hemorrhagic diathesis, coagulation factor deficiency
+
+@ Impairment in coagulation due to comorbid disease or anticoagulant use. If on
+warfarin, international normalized ratio (INR) >1.7 or prothrombin time >15s; if
+use of any direct oral anticoagulant within the last 48 hours; if use of
+heparin/heparinoid within the last 24 hours
+
+@ Use of glycoprotein ITb/IIla inhibitors within the last 72 hours
+
+@ Baseline platelet count <100,000/yL
+
+@ Known severe renal insufficiency with glomerular filtration rate <30mL/min or
+serum creatinine >220mmol/L (2.5mg/dL)
+
+@ Undergoing hemodialysis or peritoneal dialysis; known severe adverse reactions
+to contrast agents
+
+@ Suspected aortic dissection
+
+@ Major surgery or biopsy within the last 1 month
+
+@ Any active bleeding or recent bleeding within the last 1 month, e.g.
+gastrointestinal or urinary tract hemorrhage
+
+@ Known severe, life-threatening allergy (more severe than skin rash) to contrast
+
+"1
+
+[PDF_PAGE 12]
+agents
+
+@ Severe, uncontrolled hypertension (systolic blood pressure >185mmHg or
+diastolic blood pressure >110mmHg)
+
+@ = Any terminal illness such that the patient would not be expected to survive more
+than half a year
+
+© Current participation in any investigational study that may confound outcome
+assessment of the study
+
+@ Any condition that, in the judgement of the investigator, is inappropriate for
+participation in the trial or could impose hazards to the patient (e.g. inability to
+understand and/or follow the study procedures and/or follow-up due to mental
+disorders, cognitive or emotional disorders)
+
+Imaging exclusion criteria
+
+@ Acute intracranial hemorrhage
+
+@ Acute large vessel occlusion on Magnetic resonance (MR)/CT angiography,
+including internal carotid artery, M1, vertebral arteries and basilar artery
+
+@ Hypodensity on non-contrast CT or MRI estimated to be >1/3 MCA territory
+
+4.3 Method of Treatment Assignment and Randomization
+
+Once patients’ eligibility requirements are confirmed, patients are randomized 1:1 to
+
+receive rhTNK-tPA or standard medical treatment through the Interactive Web
+
+Response System (IWRS). The study treatment kit number is also assigned by IWRS
+
+at that time. Patients are treated as soon as possible after randomization. Patients are
+
+considered enrolled in the study once they have provided the informed consent
+
+and been randomized. The patient randomization numbers will be allocated
+
+sequentially in the order in which the patients are randomized. A dynamic
+
+randomization procedure by minimization will be done for achieving a balance of the
+
+12
+
+[PDF_PAGE 13]
+following pre-specified factors: age (<65 or 265 years), baseline NIHSS (<16 or =16)
+and center.
+
+4.4 Treatment Masking (Blinding)
+
+Only patient and treating physician are aware of the randomization information. All
+endpoints of in-hospital visits will be evaluated by a qualified blind evaluation study
+physician who does not know the treatment group. Assessments of primary endpoint
+on the mRS will be performed by independent assessors, blinded to the allocated and
+actually received treatment. Their assessment will be based on standardized reports of
+a telephone interview by trained research personnel who are not aware of treatment
+allocation.
+
+4.5 Interim Analysis
+
+Data and Safety Monitoring Board (DSMB) is in place to monitors patient safety,
+treatment efficacy, and study conduct on an ongoing basis. An independent statistician
+will prepare summary statistics on enrolment, subject status in the study, baseline
+characteristics, and safety data, including summary tables of coded SAEs and these
+will be examined by the DSMB.
+
+One efficacy interim analysis is planned and will be taken place when 50% of the
+target sample size (284 cases) have completed 90-day follow-up. A Lan-DeMets alpha
+spending function! will be used to control for the overall alpha level, using O’Brien
+and Fleming boundaries will be used at the interim analysis and final analysis with
+alpha of two-sided 0.003, and 0.049.
+
+5. SAMPLE SIZE ESTIMATES
+
+In this study, standard medical treatment is set as the control group. The primary
+
+outcome in this study is the occurrence of patients with mRS 0-1 at 90 days. The
+13
+
+[PDF_PAGE 14]
+sample size is based on the primary outcome.
+
+Based on the reported pooled data? of the stroke thrombolysis trials in the
+extended time window, we expect a 12% absolute difference in the proportion of
+patients reaching the primary outcome between patients treated with rhnTNK-tPA and
+standard medical treatment (expected rate of excellent functional outcome 50% in
+patients treated with rhnTNK-tPA and 38% in patients treated with standard medical
+treatment). Considering the potential impact of the one interim efficacy analysis on
+the probability of type I error, we adjusted the statistical significance to a two-sided
+alpha of 0.049. The total sample size of 568 (n=284 per treatment group) will yield
+80% power to detect the specified difference at the two-sided 0.049 significance level,
+with a 5% dropout rate.
+
+This estimation was performed based on PASS (NCSS, LLC.) version 15.0.
+
+6. ANALYSIS POPULATIONS
+
+6.1 Intention-to-Treat (ITT) Population
+
+The ITT population* includes all patients who were randomized, received at least
+one-day treatment of study drugs, had baseline important data, and had at least one
+assessment of the primary efficacy evaluation. The ITT population will be the primary
+analysis population for the efficacy endpoints and patients will be analyzed according
+to the treatment group to which they were assigned at randomization.
+
+6.2 Per-Protocol (PP) Population
+
+The PP population is defined as the subset of the ITT population excluding major
+protocol violators deemed to have the potential to affect patient outcome in terms of
+efficacy.
+
+The PP population includes patients who actually received the assigned treatment
+and do not have major protocol violations or deviations. Major protocol violations or
+
+14
+
+[PDF_PAGE 15]
+deviations will be identified in a blinded fashion prior to database lock. More
+
+specifically, patients with anyone of the following criteria will be excluded from the
+
+PP population. These deviations will be determined based on the medical monitors”
+
+records, as well as programmatically, using the following criteria at a minimum:
+
+@ Received but did not complete treatment with study drug, or dose of study drug
+administered outside recommended dose;
+
+@ Violate inclusion or exclusion criteria;
+
+@ Administering treatments that seriously interfere with the evaluation of efficacy
+after inclusion;
+
+@ Missing essential information.
+
+A list of patients to be excluded from the randomized patients to create the PP-
+Efficacy analysis will be established and validated by the Steering Committee prior to
+unblinding.
+
+6.3 Safety Population
+The Safety Population includes all patients who receive any amount of study drug.
+Patients will be assigned to the different populations prior to unblinding of the
+database. Patients who withdraw informed consent immediately after randomization
+and are not to receive any treatment should be excluded from Safety Population. In
+case of violation of the randomization scheme, patients will be classified according to
+the treatment they actually received. The Safety Population is the safety evaluation
+population in this study.
+7. GENERAL ISSUES FOR STATISTICAL ANALYSIS
+7.1 General Principles
+Data were summarized by means and standard deviations, or medians (interquartile
+ranges) for continuous variables, and frequency along with percentage for
+
+15
+
+[PDF_PAGE 16]
+categorical variables.
+
+All statistical analyses will be performed using SAS Software version 9.4
+(SAS Institute) and R version 4.4.1.
+7.2 Methods for Withdrawals and Missing Data
+7.2.1 Withdrawals
+Reasons for missing data will be collected and described, including withdrawal of
+consent and loss to follow-up. The reasons for withdrawal of consent and loss to
+follow-up will be listed in a summary table. Subjects who don’t complete the 90-day
+study but provide at least one post-baseline measure for a specific endpoint will be
+included in the analysis.
+7.2.2 Missing Data
+All efforts should be made to ensure near complete follow-up, with particular focus
+on the assessment of primary outcome.
+7.2.2.1 Baseline Covariates
+Missing baseline covariates will be imputed using simple imputation methods in the
+covariate adjusted analysis based on the covariate distributions, should the missing
+values for a particular covariate be less than 5%. For a continuous variable, missing
+values will be imputed from random values from a normal distribution with mean and
+SD calculated from the available sample. For a categorical variable, missing values
+will be imputed from random values from a uniform distribution with probabilities P1,
+P, ..., and Pk from the sample.
+
+If the missing values for a covariate are >5% then they will be imputed by the
+multiple imputation.
+
+16
+
+[PDF_PAGE 17]
+7.2.2.2 Efficacy Outcomes
+
+Missing primary outcome values will be replaced using mixed imputation method.
+
+@ = Ifthe patient discontinued treatment early due to a negative event (e.g., adverse
+event, disease progression, or death), their 90-day mRS score will be imputed
+as >.
+
+@ Ifthe patient completed treatment but withdrew from follow-up early due to a
+negative event (e.g., adverse event or death), their 90-day mRS score will also be
+imputed as >1.
+
+@ For all other cases, the last available post-treatment mRS score will be used to
+classify the missing 90-day mRS score as <1 or >1.
+
+Sensitivity analyses based on different hypotheses about the missingness pattern of
+the primary outcome will be performed to test for the robustness of the primary analysis
+results (see section “Primary Efficacy Analysis”).
+
+7.3 Data Transformations
+
+The analysis of continuous variables may require transformation to normalize the
+
+distributions, but these variables will be mainly analyzed using nonparametric
+
+statistical tests. Decisions to transform the distribution of some variables for analysis
+will be taken after the blind review of the data, and before unblinding the treatment
+code.
+
+7.4 Mulitcenter Data
+
+In this analysis, the center effect will be considered as a cluster effect in the models in
+
+the sensitivity analysis of the primary outcome’. Centers that enroll few patients will
+
+be pooled together based on the geographic region, hospital tiers, healthcare quality,
+and other factors to ensure that the sites or pooled sites have a reasonable sample size
+for the statistical analyses (=20 patients for each stratum). This process will be blindly
+
+[PDF_PAGE 18]
+completed and finalized before the database is locked.
+7.5 Multiplicity
+Analyses of secondary outcomes, safety outcomes and additional analyses for the
+primary outcome are regarded as exploratory in nature, therefore, multiplicity
+adjustment will not apply to the primary and secondary outcome analyses®.
+7.6 Covariates
+In the covariates-adjusted analysis, the following variables will be adjusted.
+@ Age (Continuous);
+@ Baseline NIHSS score (Continuous);
+@ Vessel occlusion location (Binary: [anterior circulation and posterior circulation]);
+@ Time from symptom onset to randomization (Continuous).
+If a covariates-adjusted model does not converge, inverse probability of treatment
+weighting (IPTW) method’ will be used.
+7.7 Planned Subgroups
+Subgroup analyses will be performed on a few important patient characteristics and
+other variables of interest. The predefined subgroups including:
+@ Age (<65 years and > 65 years);
+@ Time from symptom onset (last seen well) to randomization (4.5-9 hours, 9-24
+hours and stroke on awakening);
+@ Baseline NIHSS score (<16 and > 16);
+@ Vessel occlusion location (anterior circulation and posterior circulation);
+@ Medium vessel occlusion (M2 segment of middle cerebral artery-M4 segment of
+middle cerebral artery, anterior cerebral artery, and posterior cerebral artery);
+@ Baseline serum glucose (<100 mg/dL and >100 mg/dL);
+18
+
+[PDF_PAGE 19]
+@ Baseline systolic blood pressure (<140 mmHg and >140 mmHg).
+8. DISPOSITION OF SUBJECTS AND WITHDRAWALS
+The number of patients for each of the following categories will be summarized by
+treatment group.
+@ Total number of assessed patients;
+@ Number of randomized patients;
+@ Number of patients completing the study and not completing the study (grouped
+by treatment and main reason);
+@ Number of crossover patients;
+@ Number of patients included in the ITT population;
+@ Number of patients included in the PP population;
+@ Number of patients included in the Safety population.
+9. DEMOGRAPHICS AND BASELINE CHARACTERISTICS
+Clinically important demographic and disease characteristics at screening will be
+summarized with descriptive statistics for each treatment group. Summaries will be
+produced for the ITT population and PP population.
+If the missing value exceeds 5%, the denominator will be added in the footnote of
+the corresponding summary table.
+The variables to be summarized include but are not restricted to the following:
+@ Age
+@ Sex
+@ Medical history (hypertension, diabetes mellitus, hyperlipidemia, atrial
+fibrillation and prior stroke)
+@ Pre stroke onset mRS score
+@ Baseline serum glucose
+19
+
+[PDF_PAGE 20]
+@ Baseline systolic blood pressure
+@ Baseline NIHSS score
+@ Time from symptom onset (last seen well) to randomization
+@ Vessel occlusion location (anterior circulation and posterior circulation)
+@ Occlusion site (M2 segment of middle cerebral artery-M4 segment of middle
+cerebral artery, anterior cerebral artery, and posterior cerebral artery)
+@ Baseline serum glucose
+@ Baseline systolic blood pressure
+10. EFFICACY ANALYSES,
+Efficacy analyses will be performed using the ITT population with patients grouped
+according to treatment assigned at randomization. Available data regardless of
+adherence to the protocol will be included in the efficacy analyses. Secondarily, the
+same analyses will be repeated on the PP population. All efficacy analyses will
+provide the point estimate of treatment effect with associated two-sided 95% CIs.
+Visit windows will be derived according to Table 1 and applied for all clinical
+efficacy assessments. If there are multiple assessments within the same window, the
+one closest to the target time point will be used. Assessments that are outside of the
+defined windows will not be used in analysis.
+Table 1 Definition of Visit Windows.
+10.1 Primary Efficacy Analysis
+20
+
+[PDF_PAGE 21]
+The primary efficacy outcome is the proportion of excellent functional outcome
+defined as an mRS of 0-1 at 90 days. The mRS score is an assessment of disability
+with values from 0 (no symptoms at all) to 5 (sever disability) to 6 (death). The mRS
+score is collected at 90 days after randomization. If death occurs prior to a scheduled
+assessment day, the mRS will be considered available and will be set to 6. Missing
+primary outcome will be imputed using multiple imputation method as described in
+Section 7.2.2 Missing Data.
+10.1.1 Crude Analysis
+Analysis of the primary efficacy outcome will test the hypothesis as follows:
+
+Ho: Prrnk-tpa - Peontrol S A versus Hi: Prhnk-tra - Peontrol> A
+Where P mrnk-ra and Peontroi are the proportion of mRS score 0 to | at 90 days in the
+group treated with rhTNK-tPA and standard medical treatment (control group)
+respectively, with a superiority margin of 0. If the lower limit of 95% confidence
+interval bound exceeds margin, indicating that the treatment group is superior to the
+control group.
+
+The primary analysis of the primary efficacy outcome will be based on ITT
+population, which will be supported by the secondary analysis based on PP
+population. The hypothesis of primary outcome will be tested in the ITT population
+using generalized linear model with treatment as the study variable to derive the risk
+ratio (RR) and its 95% CI. When there are zero events in one group, an exact analysis
+should be performed using PROC FREQ to calculate the risk difference and its 95%
+CL. Crude analysis will be the primary analysis to draw the main conclusion regarding
+the efficacy of the study intervention.
+
+10.1.2 Covariates Adjusted Analysis
+24
+
+[PDF_PAGE 22]
+We will also perform adjusted analysis of the primary outcome with adjustment for
+the following covariates: age, baseline NIHSS score, vessel occlusion location, and
+time from symptom onset to randomization will be used to calculate the adjusted RR
+with 95% CI. Imputation for baseline missing covariates (see description in the
+Section 7.2.2) will be made for covariate adjusted analysis.
+10.1.3 Sensitivity Analysis
+To assess the influence of the missing primary endpoints on the treatment effect
+estimate®, sensitivity analyses will be performed using the same statistical methods as
+described in Section 10.1.1, under the different assumptions of the missing outcome
+below:
+(1) Complete case:
+Patients with a missing primary endpoint will be excluded.
+(2) Worst-case scenario:
+All patients with a missing primary endpoint will be considered as having the worst
+mRS score of 6.
+(3) Worst-Best scenario:
+Patients with a missing primary endpoint in the control group will be considered as a
+excellent outcome (mRS 0-1) while patients with a missing primary outcome in
+thTNK-tPA group will be considered as not achieving the excellent outcome (mRS 2-
+6).
+(4) Assessment of center effect:
+A generalized estimating equation (GEE) model with Poisson distribution and log link
+function will be fitted to estimate the RR between the intervention and control
+treatment with treatment, and the center as a cluster effect.
+10.1.4 Subgroup Analysis
+
+22
+
+[PDF_PAGE 23]
+Subgroup analysis of the primary endpoint will be performed on the following
+
+subgroup variables, and the RR and its 95% CI will be estimated for each category of
+
+a subgroup variable to assess exploratorily homogeneity of treatment effect by a
+
+subgroup variable.
+
+@ Age (<65 years and > 65 years);
+
+@ Time from symptom onset (last seen well) to randomization (4.5-9 hours, 9-24
+hours, and stroke on awakening);
+
+@ Baseline NIHSS score (<16 and > 16);
+
+@ = Vessel occlusion location (anterior circulation and posterior circulation);
+
+@ Medium vessel occlusion site (M2 segment of middle cerebral artery-M4 segment
+of middle cerebral artery, anterior cerebral artery, and posterior cerebral artery);
+
+@ Baseline serum glucose (<100 mg/dL and =100 mg/dL);
+
+@ Baseline systolic blood pressure (<140 mmHg and >140 mmHg).
+
+Assessment of the homogeneity of treatment effect by a subgroup variable will be
+conducted by a generalized linear model with the treatment, subgroup variable, and
+their interaction term as predictors, and the P-value presented for the interaction term.
+Subgroup analysis will be performed on both ITT and PP populations.
+
+10.2 Secondary Efficacy Analysis
+
+10.2.1 Ordinal Modified Rankin Scale Score at 90 Days
+
+The secondary efficacy outcome is the ordinal mRS score at 90 days. mRS is an
+assessment of disability with values from 0 (no symptoms at all) to 5 (severe
+disability); death will be scored as a 6. The distribution of mRS at Day 90 will be
+summarized descriptively, and plotted using Grotta bars.
+
+For the analysis of ordinal mRS at 90 days, an ordinal logistic regression model
+with treatment as the study variable will be used to calculate the common odds ratio
+
+23
+
+[PDF_PAGE 24]
+and corresponding 95% CI between two treatment groups. Prior to its application, the
+proportional odds assumption will be tested. If the P-value for the overall score test of
+the proportional odds hypothesis is >0.05, the proportional odds assumption will be
+deemed acceptable. If the proportional odds hypothesis is rejected, the generalized
+odds ratio (GenOR)’ and corresponding 95% CI will be calculated using WINS
+package.
+10.2.2 Modified Rankin Scale Score 0 to 2 at 90 Days
+The mRS score will be used to evaluate the proportion of patients with a score 0 to 2
+versus 3 or higher at Day 90. The crude and adjusted RR and corresponding 95% CI
+will be calculated by fitting the generalized linear model.
+10.2.3 Reperfusion at 24 Hours
+Reperfusion at 24 hours, defined as >90% reduction in Tmax >6s lesion volume by
+CTP. The proportion of improvement on reperfusion at 24 hours between groups will
+be compared by the generalized linear model. The crude and adjusted RR and
+corresponding 95% CI will be reported.
+10.2.4 Infaret Growth
+Infarct growth between final infract volume at 24 hours and baseline infarct volume,
+which will be provided by central image analysis. Infarct growth between two groups
+will be tested by linear regression model with treatment as the study variable. Infarct
+growth may be log transformed if necessary. Normality assumption for the residuals
+will be assessed using Q-Q plot. The crude and adjusted mean difference/geometric
+mean ratio and corresponding 95% CI will be reported. A win ratio method!” will be
+used if normality assumption is seriously violated. Crude and adjusted win ratio will
+be calculated using WINS package. Adjusted win ratio will be calculated using IPTW.
+24
+
+[PDF_PAGE 25]
+approach!!,
+
+10.2.5 Early Clinical Response at 24 Hours
+
+Early clinical response at 24 hours, defined as a NIHSS drop of >8 from baseline or
+NIHSS score of 0 or 1. The crude and adjusted RR and corresponding 95% CI will be
+calculated by fitting a generalized linear model.
+
+10.2.6 NIHSS Change from Baseline to 7 Days or Discharge
+
+The NIHSS is a standardized neurological examination score, with scores ranging
+from 0 to 42, with higher scores indicating increasing severity.
+
+NIHSS change from baseline to 7 days or discharge will be analyzed using linear
+regression model with treatment as the study variable. The crude and adjusted mean
+difference and corresponding 95% CI will be reported. Normality assumption for the
+residuals will be assessed using Q-Q plot. A win ratio method will be used if
+normality assumption is seriously violated. Crude and adjusted win ratio will be
+calculated using WINS package. Adjusted win ratio will be calculated using IPTW
+approach.
+
+11. SAFETY ANALYSES
+Safety analyses will be conducted on the Safety population only.
+11.1 SICH Rate within 36 Hours
+Proportion of patients with sICH within 36 hours post-treatment is considered primary
+safety outcome. sICH will be evaluated according to the Heidelberg Bleeding
+Classification. Percentage of subjects with sICH within 36 hours after treatment will
+be presented for each definition by treatment group. Frequency counts and percentage
+of patients within each category will be provided for categorical data.
+
+25
+
+[PDF_PAGE 26]
+The generalized linear model with treatment as the study variable will be used to
+estimate the crude and adjusted RR and corresponding 95% CI using the same method
+as for the analysis of primary outcome.
+
+11.2 ICH Rate within 36 Hours
+
+ICH within 36 hours post-treatment will be evaluated according to the Heidelberg
+Bleeding Classification. Percentage of subjects with ICH within 36 hours after
+treatment will be presented for each definition by treatment group. Frequency counts
+and percentage of patients within each category will be provided for categorical data.
+
+The generalized linear model with treatment as the study variable will be used to
+estimate the crude and adjusted RR and corresponding 95% CI using the same method
+as for the analysis of primary outcome.
+
+11.3 Systemic Bleeding at 90 Days
+Systemic bleeding at 90 days, as defined by GUSTO: moderate and severe bleeding.
+The proportion of systemic bleeding will be compared by a generalized linear model
+with treatment as the study variable. The crude and adjusted RR and corresponding
+95% CI will be calculated.
+11.4 Mortality at 90 Days
+Mortality due to any cause is the safety endpoint. The outcome is measured as a
+survival time from randomization to the occurrence of death of any cause. With the
+date of randomization at day 0, any death occurring on or before calendar day 90 will
+be counted as a death. A generalized linear model with treatment as the study variable
+will be used to estimate the crude and adjusted RR and corresponding 95% CI.
+11.5 Adverse Events
+
+26
+
+[PDF_PAGE 27]
+All adverse events (AEs) will be coded using the Medical Dictionary for Regulatory
+Activities (MedDRA) central coding dictionary. AE severity will be graded according
+to National Cancer Institute Common Terminology Criteria for Adverse Events (NCI
+CTCAE V5.0). Adverse events will be summarized using number (%) of patients with
+an AE and compared using Chi-square test or Fisher exact test.
+
+11.5.1 Adverse Events
+
+Any adverse change in health or the appearance of or worsening of any undesirable
+
+sign, symptom, or medical condition occurring after enrollment into the trial will be
+
+recorded as AE whether or not it is considered to be related to the study drug. AEs
+will be summarized by system organ class (SOC) and preferred term (PT), and will be
+presented in descending frequency.
+
+11.5.2 Serious Adverse Events
+
+A serious adverse event (SAE) is any untoward medical occurrence that at any dose:
+
+Result in death; Are life-threatening or fatal; Require or prolong hospitalization;
+
+Result in persistent or significant disability/incapacity, Constitutes a congenital
+
+anomaly or birth defect, or Significant medical event. SAEs will be summarized by
+
+SOC and PT, and will be presented in descending frequency.
+
+12. REFERENCES
+
+1. DeMets DL, Lan KK. Interim analysis: the alpha spending function approach.
+Statistics in medicine 1994;13(13-14):1341-52; discussion 1353-6. (In eng).
+DOI: 10.1002/sim.4780131308.
+
+2. Campbell BCV, Ma H, Ringleb PA, et al. Extending thrombolysis to 4-5-9 h and
+wake-up stroke using perfusion imaging: a systematic review and meta-analysis
+of individual patient data. Lancet (London, England) 2019;394(10193):139-147.
+(In eng). DOI: 10.1016/s0140-6736(19)31053-0.
+
+3. White IR, Horton NJ, Carpenter J, Pocock SJ. Strategy for intention to treat
+analysis in randomised trials with missing outcome data. BMJ (Clinical research
+ed) 2011;342:d40. (In eng). DOI: 10.1136/bmj.d40.
+
+4. Yelland LN, Sullivan TR, Voysey M, Lee KJ, Cook JA, Forbes AB. Applying
+
+27
+
+[PDF_PAGE 28]
+the intention-to-treat principle in practice: Guidance on handling randomisation
+errors. Clinical trials (London, England) 2015;12(4):418-23. (In eng). DOI:
+10.1177/17407745 15588097.
+
+5. Localio AR, Berlin JA, Ten Have TR, Kimmel SE. Adjustments for center in
+multicenter studies: an overview. Annals of internal medicine 2001;135(2):112-
+23. (In eng). DOI: 10.7326/0003-4819-135-2-200107170-00012.
+
+6. Dmitrienko A, D'Agostino RB, Sr. Multiplicity Considerations in Clinical Trials.
+The New England journal of medicine 2018;378(22):2115-2122. (In eng). DOI:
+10.1056/NEJMra1709701.
+
+7. Morris TP, Walker AS, Williamson EJ, White IR. Planning a method for
+covariate adjustment in individually randomised trials: a practical guide. Trials
+2022;23(1):328. (In eng). DOI: 10.1186/s13063-022-06097-z.
+
+8. ‘Young-Saver DF, Gornbein J, Starkman S, Saver JL. Handling of Missing
+Outcome Data in Acute Stroke Trials: Advantages of Multiple Imputation Using
+Baseline and Postbaseline Variables. Journal of stroke and cerebrovascular
+diseases : the official journal of National Stroke Association 2018;27(12):3662-
+3669. (In eng). DOI: 10.1016/j.jstrokecerebrovasdis.2018.08.040.
+
+9. Churilov L, Arup S, Johns H, et al. An improved method for simple,
+assumption-free ordinal analysis of the modified Rankin Scale using
+generalized odds ratios. International journal of stroke : official journal of the
+International Stroke Society 2014;9(8):999-1005. (In eng). DOT:
+10.111 L/ijs.12364.
+
+10. | Wang D, Pocock S. A win ratio approach to comparing continuous non-normal
+outcomes in clinical trials. Pharmaceutical statistics 2016;15(3):238-45. (In
+eng). DOI: 10.1002/pst.1743.
+
+ll. Wang D, Zheng S, Cui Y, He N, Chen T, Huang B. Adjusted win ratio using the
+inverse probability of treatment weighting. Journal of biopharmaceutical
+statistics 2025;35(1):21-36. (In eng). DOI: 10.1080/10543406.2023.2275759.
+
+28
+
+[PDF_PAGE 29]
+OPTION Statistical Analysis Plan
+STATISTICAL ANALYSIS PLAN
+I@
+g
+
+Intravenous Thrombolysis with Recombinant Human TNK Tissue-
+type Plasminogen Activator (rhTNK-tPA) for Acute Non-large Vessel
+
+Occlusion in Extended Time Window--A Multicenter, Prospective,
+
+Randomized, Open-label, Blinded Endpoint Trial
+Prepared by
+Yingting Zuo, PhD
+Xuanwu Hospital, Capital Medical University, Beijing, China
+Duolao Wang, PhD
+Global Health Trials Unit, Liverpool School of Tropical Medicine, Liverpool, United
+Kingdom
+Version: Final version 2.0
+Date: June 20, 2025
+1
+
+[PDF_PAGE 30]
+SAP version history
+SAP Version Details of Changes
+Approvals by
+ae
+
+Prof. Junwei Hao (Chief
+
+Investigator) U2] Jun (
+
+Dr. Yingting Zuo (Trial
+
+Xi-4 ty ve 20/6/2025
+
+Statistician) |
+
+Prof. Duolao Wang (Senior Dolao Wang
+
+Statistician)
+
+2
+
+[PDF_PAGE 31]
+TABLE OF CONTENTS
+LIST OF ABBREVIATIONS AND DEFINITIONS OF TERMS ......... cscs D
+2.1 Primary Objective ..........cecseeesseecseesseesseeseeesneeeseesneesneenneceneecaneesneesaeecsneesneesseseneesaneee D
+2.2 Secondary Objectives 2... ceceecseecceecsesseessseeeeseesneesneeseneeeneesaeesneesseessneesneessessneesaeeee D
+3.1 Primary Efficacy Emd point... .ecseeeseecsecseeeseeeeeeeeeseeeeeesneesneessneesseessneeeneeesneesneeeee 8
+3.2 Secondary Efficacy Endpoint «0.0.0.0... cscseecseesseecsessseeeeneeeseesneesneessnessnessssesneesseesaeesee 8
+3.3 Exploratory Efficacy Endpoint .............ccccssessecseesseseeseesesseeseessesesnesneesessssnenseesee D
+3.4 — Safety Emdpoint 0... ecsecsseseeseesessensesssesessessnssseesesssessesssesessecssnsesseessesscsnsenesse D.
+4.1 Overall Study Design and Plan .........ccccssesssessseessseessteessseesesssessseessnessssessesssssesssessseesse 9
+4.2 Selection of Study Population.........cccccccccsssseeccssssseccssssssnnnsssssssnnssssssneeees LO
+4.2.1 Inclusion Criteria........cccccssseccssssecsssesesssseecssnnecsssnessssnecssnnecsssnnecsssnecsssneesssnnecssene 10
+4.2.2 Exclusion Criteria.........escccseecsesssssseeeseeecneecneeensesseesneesneesnneesneeeeessneeeneeesneeeneees LD
+4.3 Method of Treatment Assignment and Randomization..............0....eeeeeeee 12
+4.4 Treatment Masking (Blinding)... cesses eeeeeeeeeeeeeneeeneeeeneeeneeeaeteentesneeeseees 13
+4.5 Unnterim amalysis 0.0.2... eecceeeeeeseeeeeeeeeeeneesneeenneeeneeeaneesneesneessneesneeseeseneeeatessneesneeeeeees 13
+6.1 Intention-to-Treat (ITT) Population...............ccseeseseeeeteeeeeeseeesnessneessneessteeseeeeee LS.
+6.2 Per-Protocol (PP) Population ...........ccscsscssesssesssessseesssessstecsesssteessessnesssessieesstessseessee LS.
+6.3 Safety Population.........cccccccccsssssesecesssssneccecssssnneeesesssssssnesssessssnnessessssssncessessssnees 16
+7. GENERAL ISSUES FOR STATISTICAL ANALYSIS .....cccsescssssseesseeesessstessteessseesee 16
+7.1 General Principles .......cccsccccsssssssessssesssssssisecccsssssnnssssesssssssueessssssssnesscsssssssnecssssssssies 16
+7.2 Methods for Withdrawals and Missing Data .............cccccssssessecseesseeecseeseessesseesees LT
+T.2A Withdrawals .........ccccccecseessesseessessessesseessesessesseessessessessscseessessecseessesessesssesseseeseesee LT
+7.2.2 Missing Data .........sesseecseecsessseecsescneeseseesneesssecsneesaecsneseneeesessncessnessneesntessneeeneesene LT
+7.3 Data Transformations ...........esecseeeceecsesseeeeeeeeeeeeeneesneeeneeeneesaneesneesnessnessnteseneeeneeseee 1B
+7.4 Mulitcemter Data........secsseecseeecsecseeseeeeseeseneeeneeesneesneesaeeenessneesseesneesnnessneesneeseneseneesees 1B
+3
+
+[PDF_PAGE 32]
+7.6 Covariates......seeceecceecceessecesseesneecneecsneeeneeseneesneesaneesneesusesaneeeneesaeesneessessneesntessneseneesees LQ
+7.7 Planned Subgroups.........sscecseecsecsesssessseessteesneesseesnessaeessnesenesssnsesaeessessneesneessneeeseesaee 1D
+8. DISPOSITION OF SUBJECTS AND WITHDRAWAL... csccceseseesteeeestenteeeene LO
+9. DEMOGRAPHICS AND BASELINE CHARACTERISTICS |... cesessessesseseeseeeneees 20
+10.1 Primary Efficacy Analysis .........csccsssesssesssesssssessessesssessseessneesseessisesssenssesssesssessneess 21
+10.1.1 Crude AmalySis.....ccccssssssssccssssssnesssccsssssnsesscessssnsseessssssnsnessssssssnnsssssesssssnnsese 22
+10.1.2 Covariates Adjusted Amalysis..........ccccsssscssssescessneesssseecssnsecsssncsssneccssnneesssnees 22,
+10.1.3 Sensitivity AMALYSIS.........:ccssseccsssseessssseecsssneceesneecsssntecsssnccssnnecsssnecsssnnecsssneesssies 23
+10.1.4 Subgroup AMmalySis.........sccccsssecsssssecsssnsecsssneccssnecsssnecsssneessnneessssessssnecsssneeessine 23
+10.2 Secondary Efficacy AMAlySis.........ccsscssssescssssessssneccssnecsssnecsssssecsssnecsssneeesssneesssne 24
+10.2.1 Ordinal Modified Rankin Scale Score at 90 Days .........-escseeseeseeeeeesneeeneees 24
+10.2.2 Modified Rankin Scale Score 0 to 2 at 90 Days ........:.sceseeeeeeeeeeeeeeeeeeeee 25
+10.2.3 Reperfusion at 24 HOUrS ..........ccccccsseessseesseeecseeseeeeneeesneesaeeesneesnessnessnessatessneesaes 2D,
+10.2.4 Infarct Volume at 24 HOUrS.........cccceecseessesssesssessseessteesseessessnessnessneesstessseesaes 2D)
+10.2.5 Early Clinical Response at 24 Hour ..........cccccsccsessseesseessessseessteessteesseesseeesees 25
+10.2.6 NIHSS Change from Baseline to 7 Days or Discharge..........cecsereeenees 26
+10.2.7 EQ-5D-5L at 90 Days .......cccecseesssessssessseesstessssesssesssessssssnecsseesstessssesssesssessseessnesss 20
+10.3 Exploratory Efficacy Amalysis..........sccssesssessssssseesssessseesseessessseesstessssesssesssessseessnesss 27
+10.3.1 Utility weighted modified Rankin Scale at 90 Days......cccssssssesssesssseseees 27
+11.1 SICH Rate within 36 HOUMS..........ccccssssccssssecessnessesneccssneccssnecssssecsssnecsssnecesssneesssns 2B
+11.2 Systemic Bleeding at 90 Days .........cccsssccsssescssssecsssseccssnecsssnessssssessssnecsssnessssneesssns 2B
+11.3 Mortality at 90 Days... esses esseessseessneesneesnneesnescaseeeneeeaeesneesneessneesneessnessneesees 28
+11.4 Adverse Evemts........esseecsessessseessseecsesseneeeseeesneesneesaneesnseeaeeeneesaeesneesnsessnessetssaneesneesees 28
+11.4.1 Adverse Evemts........ccsceecseccsesssessssesssessneesneesssessneesaeesnsessessnsesnessnessnsessneesseesses 29)
+11.4.2 Serious Adverse Event ..........ccccccsccssssssssssessseessnessstessseessseesseesneesssessneessneesneessns 2D)
+4
+
+[PDF_PAGE 33]
+LIST OF ABBREVIATIONS AND DEFINITIONS OF TERMS
+“Abbreviation ‘Definition =———iti‘“‘s~s*s*”S”S”™”™”™”™CS
+“AE——~—«é‘Averseevent s—i—i‘“<“‘<‘<‘< a
+
+Cl Confidence interval
+
+CT Computed tomography
+
+CTP Computed tomography perfusion
+
+CTCAE Common Terminology Criteria for Adverse Events
+
+DSMB Data and Safety Monitoring Board
+
+EQ-5D-5L European Quality of Life Five-Dimension Five-Level scale
+
+GEE Generalized estimating equation
+
+GenOR Generalized odds ratio
+
+GUSTO Global Utilization of Streptokinase and Tissue Plasminogen
+
+Activator for Occluded Coronary Arteries
+
+IPTW Inverse probability of treatment weighting
+
+mT Intention-to-Treat
+
+IWRS Interactive Web Response System
+
+MR Magnetic resonance
+
+MedDRA Medical Dictionary for Regulatory Activities
+
+mRS Modified Rankin Scale
+
+NIHSS National Institute of Health Stroke Scale
+
+PP Per-Protocol
+
+PT Preferred term
+
+thTNK-tPA Recombinant Human TNK Tissue-type Plasminogen Activator
+
+RR Risk ratio
+
+SAE Serious adverse event
+
+5
+
+[PDF_PAGE 34]
+“SAPs Statistical AnalysisPlan
+sICH Symptomatic intracranial hemorrhage
+Niele System Organ Class
+Tmax Time to maximum of the residue function
+tPA Tissue plasminogen activator
+UW-mRS Utility weighted modified Rankin Scale
+6
+
+[PDF_PAGE 35]
+1. BACKGROUND
+
+Intravenous Thrombolysis with Recombinant Human TNK Tissue-type Plasminogen
+Activator (rhaTNK-tPA) for Acute Non-large Vessel Occlusion in Extended Time
+Window--A Multicenter, Prospective, Randomized, Open-label, Blinded Endpoint
+Trial (OPTION) is a multicenter, prospective, randomized, open-label, parallel,
+blinded endpoint, controlled clinical trial to test efficacy and safety of rho TNK-tPA in
+patients presenting within 4.5-24 hours after symptom onset who have a non-large
+vessel occlusion and evidence of salvageable tissue on their baseline computed
+tomography perfusion (CTP).
+
+This Statistical Analysis Plan (SAP) describes the statistical methods to be used
+for the OPTION. The version of the SAP has been based on the version 1.6 of the
+study protocol.
+
+2. STUDY OBJECTIVE
+
+2.1 Primary Objective
+
+The primary objective of OPTION is to evaluate whether treatment with rhTNK-tPA,
+
+administered between 4.5-24 hours after symptom onset can improve neurological
+
+outcome in patients who have a non-large vessel occlusion screened by perfusion
+
+imaging.
+
+2.2 Secondary Objectives
+
+@ = To assess the level of disability (shift analysis of modified Rankin Scale [mRS]
+score) at 90 days
+
+@ To assess the proportion of favorable functional outcome (mRS score 0 to 2) at
+
+90 days
+@ = To assess the proportion of patients with reperfusion at 24 hours (>90% reduction
+
+7
+
+[PDF_PAGE 36]
+in time to maximum of the residue function [Tmax] >6s lesion volume by CTP)
+
+@ To assess infarct volume at 24 hours (measured by computed tomography [CT])
+
+@ To assess the proportion of patients with early clinical response at 24 hours
+(National Institute of Health Stroke Scale [NIHSS] drop of >8 from baseline or
+NIHSS score of 0 or | at 24 hours)
+
+@ To assess the change of the NIHSS score at 7 days or discharge if earlier from
+baseline
+
+@ To assess the quality of life scored by European Quality Five-Dimension Five-
+Level (EQ-5D-5L) scale score at 90 days
+
+@ To assess the safety of the two treatment regimens in terms of symptomatic
+intracranial hemorrhage (sICH) within 36 hours
+
+@ To assess the safety of the two treatment regimens in terms of systemic bleeding
+(The Global Utilization of Streptokinase and Tissue Plasminogen Activator for
+Occluded Coronary Arteries [GUSTO]: moderate and severe bleeding) at 90 days
+
+@ To assess the safety of the two treatment regimens in terms of mortality at 90
+days
+
+3. STUDY ENDPOINTS
+
+3.1 Primary Efficacy Endpoint
+
+@ Proportion of excellent functional outcome defined as an mRS of 0-1 at 90 days
+
+3.2 Secondary Efficacy Endpoint
+
+@ Ordinal mRS score at 90 days
+
+@ Proportion of favorable functional outcome defined as an mRS of 0-2 at 90 days
+
+@ Proportion of patients with reperfusion at 24 hours, defined as >90% reduction in
+Tmax >6s lesion volume by CTP
+
+8
+
+[PDF_PAGE 37]
+@ Infarct volume at 24 hours, expressed as 24 hours infarct size [by CT]
+
+@ Proportion of patients with early clinical response at 24 hours, defined as a
+NIHSS drop of =8 from baseline or NIHSS score of 0 or I
+
+@ NIHSS change from baseline to 7 days/discharge (whichever is earlier)
+
+@ Functional health status and quality of life (EQ-5D-5L) at 90 days
+
+3.4 Exploratory Efficacy Endpoint
+
+© Utility weighted modified Rankin Scale (UW-mRS) at 90 days
+
+3.5 Safety Endpoint
+
+@ Proportion of patients with sICH within 36 hours, as defined by Heidelberg
+bleeding classification
+
+@ Proportion of systemic bleeding at 90 days, as defined by GUSTO: moderate and
+severe bleeding
+
+@ Mortality at 90 days
+
+4. STUDY METHODS
+
+4.1 Overall Study Design and Plan
+
+This is a multicenter, prospective, randomized, open-label, parallel, blinded endpoint,
+
+controlled clinical trial. Patients are randomly assigned to receive rhTNK-tPA or
+
+standard medical treatment in a 1:1 ratio. It is planned to recruit at least 568 patients
+
+in about 40 sites in China. The follow-up period covers the period from the subacute
+
+stage (day 7 or hospital discharge) to the final follow-up examination 83-97 days after
+
+randomization which defines the primary endpoint. The study patient flow outline
+
+following Consort diagram is shown in Figure 1.
+
+9
+
+[PDF_PAGE 38]
+xxx Were excluded
+‘XXX Not meeting target mismatch profile on CTP
+XXX Pro-morid disability wit a pre-stoke modified
+Rankin scale (mS) seore> 1
+‘XXX Hal large vessel occlusion
+XXX No consent obtained
+XXX Othe reason
+‘XXX Randomized to study inadvertently
+XO Allocated to recive eneteplase [XX Allocated to recive standard medial weaiment
+XXX Received treatment as randomized XXX Received treatment as randomized
+XXX Withdraw consent XXX Withdaw consent
+XX Final assesment valable [XX Final asesment valle
+XXX Attended 90-day vst XXX Atended 90day vist
+=
+Figure 1. The study patient flow outline following Consort diagram.
+4.2 Selection of Study Population
+4.2.1 Inclusion Criteria
+Clinical inclusion criteria
+@ Clinical diagnosis of acute ischemic stroke
+@ Age =18 years
+@ Pre-stroke mRS score 0-1
+@ Disabling stroke defined as follows:
+
+Baseline NIHSS score 6-25 at the time of randomization, or NIHSS 4-5 with
+disabling deficit (e.g. hemianopia, aphasia, loss of hand function) as determined by
+the managing clinician
+@ Symptom onset within 4.5-24h (onset time refers to “last-seen well”)
+
+@ Written informed consent from patients or legally responsible representatives
+10
+
+[PDF_PAGE 39]
+Imaging inclusion criteria
+
+@ Target mismatch profile on CTP defined as an ischemic core volume <50mL, a
+mismatch ratio >1.2, and a mismatch volume >10mL
+
+4.2.2 Exclusion Criteria
+
+Clinical exclusion criteria
+
+@ Treatment with a thrombolytic within the last 72 hours or intention to receive
+intravenous thrombolysis
+
+© Contraindications to thrombolysis
+
+@ Planned or anticipated treatment with endovascular therapy
+
+@ Rapidly improving symptoms, particularly if in the judgement of the managing
+clinician is likely to result ina NIHSS <4 at randomization
+
+@ Pregnancy or lactating; formal testing needed in woman of childbearing potential
+
+@ Cerebral neoplasm (with mass effect)
+
+@ Hereditary or acquired hemorrhagic diathesis, coagulation factor deficiency
+
+@ Impairment in coagulation due to comorbid disease or anticoagulant use. If on
+warfarin, international normalized ratio (INR) >1.7 or prothrombin time >15s; if
+use of any direct oral anticoagulant within the last 48 hours; if use of
+heparin/heparinoid within the last 24 hours
+
+@ Use of glycoprotein IIb/IIla inhibitors within the last 72 hours
+
+@ Baseline platelet count <100,000/uL
+
+@ Undergoing hemodialysis or peritoneal dialysis; known severe renal insufficiency
+with glomerular filtration rate <30mL/min or serum creatinine >220mmol/L
+(2.5mg/dL)
+
+@ Suspected aortic dissection
+
+@ = Major surgery or biopsy within the last 1 month
+
+1
+
+[PDF_PAGE 40]
+@ Any active bleeding or recent bleeding within the last | month, e.g.
+gastrointestinal or urinary tract hemorrhage
+
+@ Known severe, life-threatening allergy (more severe than skin rash) to contrast
+agents
+
+@ Severe, uncontrolled hypertension (systolic blood pressure >185mmHg or
+diastolic blood pressure >110mmHg)
+
+@ Any terminal illness such that the patient would not be expected to survive more
+than half a year
+
+@ Current participation in any investigational study that may confound outcome
+assessment of the study
+
+@ Any condition that, in the judgement of the investigator, is inappropriate for
+participation in the trial or could impose hazards to the patient (e.g. inability to
+understand and/or follow the study procedures and/or follow-up due to mental
+disorders, cognitive or emotional disorders)
+
+Imaging exclusion criteria
+
+@ = Acute intracranial hemorrhage
+
+@ Acute large vessel occlusion on Magnetic resonance (MR)/CT angiography,
+including internal carotid artery, M1, vertebral arteries and basilar artery
+
+4.3 Method of Treatment Assignment and Randomization
+
+Once patients’ eligibility requirements are confirmed, patients are randomized 1:1 to
+
+receive rhTNK-tPA or standard medical treatment through the Interactive Web
+
+Response System (IWRS). The study treatment kit number is also assigned by IWRS
+
+at that time. Patients are treated as soon as possible after randomization. Patients are
+
+considered enrolled in the study once they have provided the informed consent
+
+and been randomized. The patient randomization numbers will be allocated
+
+12
+
+[PDF_PAGE 41]
+sequentially in the order in which the patients are randomized. A dynamic
+randomization procedure by minimization will be done for achieving a balance of the
+following pre-specified factors: occlusion site (anterior or posterior circulation), age
+(<65 or 65 years), baseline NIHSS (<16 or =16) and center.
+
+4.4 Treatment Masking (Blinding)
+
+Only patient and treating physician are aware of the randomization information. All
+endpoints of in-hospital visits will be evaluated by a qualified blind evaluation study
+physician who does not know the treatment group. Assessments of primary endpoint
+on the mRS will be performed by independent assessors, blinded to the allocated and
+actually received treatment. Their assessment will be based on standardized reports of
+a telephone interview by trained research personnel who are not aware of treatment
+allocation.
+
+4.5 Interim Analysis
+
+Data and Safety Monitoring Board (DSMB) is in place to monitors patient safety,
+treatment efficacy, and study conduct on an ongoing basis. An independent statistician
+will prepare summary statistics on enrolment, subject status in the study, baseline
+characteristics, and safety data, including summary tables of coded SAEs and these
+will be examined by the DSMB.
+
+The original protocol specified that, the safety analyses will occur when the first
+100, 200, and 300 patients completed 90-day follow-up. It will be conducted by the
+DSMB. If there are concerns about the safety of patients, this board will make a
+recommendation to the trial Steering Committee about continuing, stopping, or
+modifying the trial. The Haybittle-Peto procedure!” for generating early stopping
+boundaries will be used. To compare the safety of the rhnTNK-tPA and standard
+
+13
+
+[PDF_PAGE 42]
+medical treatment, primary safety parameters (mortality at 90 days) will be tested. A
+recommendation of early termination due to safety reasons will be considered by the
+DSMB if the corresponding Haybittle-Peto boundary (P = 0.001, Z =3) at a given
+interim analysis is crossed.
+
+One efficacy interim analysis is planned and will be taken place when 50% of the
+target sample size (284 cases) have completed 90-day follow-up. A Lan-DeMets alpha
+spending function* will be used to control for the overall alpha level, using O’Brien
+and Fleming boundaries will be used at the interim analysis and final analysis with
+alpha of two-sided 0.003, and 0.049.
+
+Due to the fast speed of enrolment, after review with the DSMB in June 2025, the
+original interim analysis plan no longer serves its purpose. The efficacy interim
+analysis and the third safety interim analysis will be rescinded as per the
+recommendation of the DSMB. Since no formal assessment of efficacy is done and no
+alpha is spent, we will not adjust the alpha level or p values for the final analysis.
+
+5. SAMPLE SIZE ESTIMATES
+
+In this study, standard medical treatment is set as the control group. The primary
+outcome in this study is the occurrence of patients with mRS 0-1 at 90 days. The
+sample size is based on the primary outcome.
+
+Based on the reported pooled data‘ of the stroke thrombolysis trials in the
+extended time window, we expect a 12% absolute difference in the proportion of
+patients reaching the primary outcome between patients treated with rhnTNK-tPA and
+standard medical treatment (expected rate of excellent functional outcome 50% in
+patients treated with rhnTNK-tPA and 38% in patients treated with standard medical
+treatment). Considering the potential impact of the one interim efficacy analysis on
+the probability of type I error, we adjusted the statistical significance to a two-sided
+
+14
+
+[PDF_PAGE 43]
+alpha of 0.049. The total sample size of 568 (n=284 per treatment group) will yield
+80% power to detect the specified difference at the two-sided 0.049 significance level,
+with a 5% dropout rate.
+
+Due to protocol amendments that eliminated the pre-specified interim efficacy
+analysis, this study maintains the original two-sided alpha level of 0.05 and the
+planned sample size of 568, with an increased the statistical power of 82.7%.
+
+This estimation was performed based on PASS (NCSS, LLC.) version 15.0.
+
+6. ANALYSIS POPULATIONS
+
+6.1 Intention-to-Treat (ITT) Population
+
+The ITT population®” includes all patients randomized into the trial, even if a patient
+does not receive the correct treatment, or does not follow the protocol until
+completion. The ITT population will be the primary analysis population for the
+efficacy endpoints and patients will be analyzed according to the treatment group to
+which they were assigned at randomization.
+
+6.2 Per-Protocol (PP) Population
+
+The PP population is defined as the subset of the ITT population excluding major
+protocol violators deemed to have the potential to affect patient outcome in terms of
+efficacy.
+
+The PP population includes patients who actually received the assigned treatment
+and do not have major protocol violations or deviations. Major protocol violations or
+deviations will be identified in a blinded fashion prior to database lock. More
+specifically, patients with anyone of the following criteria will be excluded from the
+PP population. These deviations will be determined based on the medical monitors’
+records, as well as programmatically, using the following criteria at a minimum:
+
+15
+
+[PDF_PAGE 44]
+@ Received but did not complete treatment with study drug, or dose of study drug
+administered outside recommended dose;
+
+@ = Violate inclusion or exclusion criteria;
+
+@ Administering treatments that seriously interfere with the evaluation of efficacy
+after inclusion;
+
+© Missing essential information.
+
+A list of patients to be excluded from the randomized patients to create the PP-
+Efficacy analysis will be established and validated by the Steering Committee prior to
+unblinding.
+
+6.3 Safety Population
+
+The Safety Population includes all patients who receive any amount of study drug.
+Patients will be assigned to the different populations prior to unblinding of the
+database. Patients who withdraw informed consent immediately after randomization
+and are not to receive any treatment should be excluded from Safety Population. In
+case of violation of the randomization scheme, patients will be classified according to
+the treatment they actually received. The Safety Population is the safety evaluation
+population in this study.
+
+7. GENERAL ISSUES FOR STATISTICAL ANALYSIS
+
+7.1 General Principles
+
+Data were summarized by means and standard deviations, or medians (interquartile
+ranges) for continuous variables, and frequency along with percentage for
+categorical variables.
+
+All statistical analyses will be performed using SAS Software version 9.4
+(SAS Institute) and R version 4.4.1.
+
+16
+
+[PDF_PAGE 45]
+7.2 Methods for Withdrawals and Missing Data
+7.2.1 Withdrawals
+Reasons for missing data will be collected and described, including withdrawal of
+consent and loss to follow-up. The reasons for withdrawal of consent and loss to
+follow-up will be listed in a summary table. Subjects who don’t complete the 90-day
+study but provide at least one post-baseline measure for a specific endpoint will be
+included in the analysis.
+7.2.2 Missing Data
+All efforts should be made to ensure near complete follow-up, with particular focus
+on the assessment of primary outcome.
+7.2.2.1 Baseline Covariates
+Missing baseline covariates will be imputed using simple imputation methods in the
+covariate adjusted analysis based on the covariate distributions, should the missing
+values for a particular covariate be less than 5%. For a continuous variable, missing
+values will be imputed from random values from a normal distribution with mean and
+SD calculated from the available sample. For a categorical variable, missing values
+will be imputed from random values from a uniform distribution with probabilities Pi,
+P2, ..., and Px from the sample.
+
+If the missing values for a covariate are >5% then they will be imputed by the
+multiple imputation.
+7.2.2.2 Efficacy Outcomes
+Missing primary outcome values will be replaced using multiple imputation method.
+Logistic regression model with the following covariates: allocated treatment, baseline
+
+17
+
+[PDF_PAGE 46]
+age (continuous), baseline NIHSS (continuous), vessel occlusion location (Binary:
+[anterior circulation and posterior circulation]), and time from symptom onset to
+randomization (continuous) will be used and implemented using SAS PROC MI with
+a seed being 224. A total of 5 multiply imputed datasets will be generated to get the
+final treatment effect estimate and associated confidence interval (CI) from the
+modified Poisson regression model.
+
+Sensitivity analyses based on different hypotheses about the missingness pattern of
+the primary outcome will be performed to test for the robustness of the primary analysis
+results (see section “Primary Efficacy Analysis”).
+
+7.3 Data Transformations
+The analysis of continuous variables may require transformation to normalize the
+distributions, but these variables will be mainly analyzed using nonparametric
+statistical tests. Decisions to transform the distribution of some variables for analysis
+will be taken after the blind review of the data, and before unblinding the treatment
+code.
+7.4 Mulitcenter Data
+In this analysis, the center effect will be considered as a cluster effect in the models in
+the sensitivity analysis of the primary outcome’. Centers that enroll few patients will
+be pooled together based on the geographic region, hospital tiers, healthcare quality,
+and other factors to ensure that the sites or pooled sites have a reasonable sample size
+for the statistical analyses (=20 patients for each stratum). This process will be blindly
+completed and finalized before the database is locked.
+7.5 Multiplicity
+Analyses of secondary outcomes, safety outcomes and additional analyses for the
+
+18
+
+[PDF_PAGE 47]
+primary outcome are regarded as exploratory in nature, therefore, multiplicity
+adjustment will not apply to the primary and secondary outcome analyses*.
+7.6 Covariates
+In the covariates-adjusted analysis, the following variables will be adjusted.
+@ Age (Continuous);
+@ Baseline NIHSS score (Continuous);
+@ Vessel occlusion location (Binary: [anterior circulation and posterior
+circulation]);
+@ Time from symptom onset to randomization (Continuous).
+If a covariates-adjusted model does not converge, inverse probability of treatment
+weighting (IPTW) method? will be used.
+7.7 Planned Subgroups
+Subgroup analyses will be performed on a few important patient characteristics and
+other variables of interest. The predefined subgroups including:
+@ Age (<65 years and > 65 years);
+@ Baseline NIHSS score (<10 and > 10);
+@ = Vessel occlusion location (anterior circulation and posterior circulation);
+@ Time from symptom onset (last seen well) to randomization (4.5-9 hours, 9-24
+hours and stroke on awakening);
+@ Occlusion site (M2 segment of middle cerebral artery, M3-M4 segment of middle
+cerebral artery, anterior cerebral artery, posterior cerebral artery, and stenosis);
+@ Baseline serum glucose (<100 mg/dL and >100 mg/dL);
+@ Baseline systolic blood pressure (<140 mmHg and >140 mmHg).
+8. DISPOSITION OF SUBJECTS AND WITHDRAWALS
+19
+
+[PDF_PAGE 48]
+The number of patients for each of the following categories will be summarized by
+treatment group.
+@ Total number of assessed patients;
+@ Number of randomized patients;
+@ Number of patients completing the study and not completing the study (grouped
+by treatment and main reason);
+@ Number of crossover patients;
+@ Number of patients included in the ITT population;
+@ Number of patients included in the PP population;
+@ Number of patients included in the Safety population.
+9. DEMOGRAPHICS AND BASELINE CHARACTERISTICS
+Clinically important demographic and disease characteristics at screening will be
+summarized with descriptive statistics for each treatment group. Summaries will be
+produced for the ITT population and PP population.
+If the missing value exceeds 5%, the denominator will be added in the footnote of
+the corresponding summary table.
+The variables to be summarized include but are not restricted to the following:
+@ Age
+@ Sex
+@ Medical history (hypertension, diabetes mellitus, hyperlipidemia, atrial
+fibrillation and prior stroke)
+@ Pre stroke onset mRS score
+@ Baseline serum glucose
+@ Baseline systolic blood pressure
+@ Baseline NIHSS score
+20
+
+[PDF_PAGE 49]
+@ Time from symptom onset (last seen well) to randomization
+@ Vessel occlusion location (anterior circulation and posterior circulation)
+@ Occlusion site (M2 segment of middle cerebral artery, M3-M4 segment of middle
+cerebral artery, anterior cerebral artery, posterior cerebral artery, and stenosis)
+@ Baseline serum glucose
+@ Baseline systolic blood pressure
+10. EFFICACY ANALYSES
+Efficacy analyses will be performed using the ITT population with patients grouped
+according to treatment assigned at randomization. Available data regardless of
+adherence to the protocol will be included in the efficacy analyses. Secondarily, the
+same analyses will be repeated on the PP population. All efficacy analyses will
+provide the point estimate of treatment effect with associated two-sided 95% CIs.
+Visit windows will be derived according to Table 1 and applied for all clinical
+efficacy assessments. If there are multiple assessments within the same window, the
+one closest to the target time point will be used. Assessments that are outside of the
+defined windows will not be used in analysis.
+Table 1 Definition of Visit Windows.
+10.1 Primary Efficacy Analysis
+The primary efficacy outcome is the proportion of excellent functional outcome
+defined as an mRS of 0-1 at 90 days. The mRS score is an assessment of disability
+21
+
+[PDF_PAGE 50]
+with values from 0 (no symptoms at all) to 5 (sever disability) to 6 (death). The mRS
+score is collected at 90 days after randomization. If death occurs prior to a scheduled
+assessment day, the mRS will be considered available and will be set to 6. Missing
+primary outcome will be imputed using multiple imputation method as described in
+Section 7.2.2 Missing Data.
+10.1.1 Crude Analysis
+Analysis of the primary efficacy outcome will test the hypothesis as follows:
+
+Ho: P mtnk-tpa = Peontrot versus Hi: P entNk-pa # Peontrot
+Where P mntnk-+ra and Peontroi are the proportion of mRS score 0 to | at 90 days in the
+group treated with rhTNK-tPA and standard medical treatment (control group)
+respectively. Superiority of rhoTNK-tPA over standard medical treatment will be
+declared if the P-value of the estimated treatment effect is <0.05 (two-sided).
+
+The primary analysis of the primary efficacy outcome will be based on ITT
+population, which will be supported by the secondary analysis based on PP
+population. The hypothesis of primary outcome will be tested in the ITT population
+using modified Poisson regression!*'? with treatment as the study variable to derive
+the risk ratio (RR) and its 95% CI. When there are zero events in one group, an exact
+analysis should be performed using PROC FREQ to calculate the risk difference and
+its 95% CI. Crude analysis will be the primary analysis to draw the main conclusion
+regarding the efficacy of the study intervention.
+
+10.1.2 Covariates Adjusted Analysis
+
+We will also perform adjusted analysis of the primary outcome with adjustment for
+
+the following covariates: age, baseline NIHSS score, vessel occlusion location, and
+
+time from symptom onset to randomization will be used to calculate the adjusted RR.
+22
+
+[PDF_PAGE 51]
+with 95% CI. Imputation for baseline missing covariates (see description in the
+
+Section 7.2.2) will be made for covariate adjusted analysis.
+
+10.1.3 Sensitivity Analysis
+
+To assess the influence of the missing primary endpoints on the treatment effect
+
+estimate!*, sensitivity analyses will be performed using the same statistical methods as
+
+described in Section 10.1.1, under the different assumptions of the missing outcome
+
+below:
+
+(1) Complete case:
+
+Patients with a missing primary endpoint will be excluded.
+
+(2) Worst-case scenario:
+
+All patients with a missing primary endpoint will be considered as having the worst
+
+mRS score of 6.
+
+(3) Worst-Best scenario:
+
+Patients with a missing primary endpoint in the control group will be considered as a
+
+excellent outcome (mRS 0-1) while patients with a missing primary outcome in
+
+rhTNK-tPA group will be considered as not achieving the excellent outcome (mRS 2-
+
+6).
+
+(4) Assessment of center effect:
+
+A generalized estimating equation (GEE) model with Poisson distribution and log link
+
+function will be fitted to estimate the RR between the intervention and control
+
+treatment with treatment, and the center as a cluster effect.
+
+10.1.4 Subgroup Analysis
+
+Subgroup analysis of the primary endpoint will be performed on the following
+
+subgroup variables, and the RR and its 95% CI will be estimated for each category of
+23
+
+[PDF_PAGE 52]
+a subgroup variable to assess exploratorily homogeneity of treatment effect by a
+
+subgroup variable.
+
+@ Age (<65 years and > 65 years);
+
+@ Time from symptom onset (last seen well) to randomization (4.5-9 hours, 9-24
+hours, and stroke on awakening);
+
+@ Baseline NIHSS score (<10 and > 10);
+
+@ = Vessel occlusion location (anterior circulation and posterior circulation);
+
+© Occlusion site (M2 segment of middle cerebral artery, M3-M4 segment of middle
+cerebral artery, anterior cerebral artery, posterior cerebral artery, and stenosis);
+
+@ Baseline serum glucose (<100 mg/dL and =100 mg/dL);
+
+© Baseline systolic blood pressure (<140 mmHg and >140 mmHg).
+
+Assessment of the homogeneity of treatment effect by a subgroup variable will be
+conducted by a modified Poisson model with the treatment, subgroup variable, and
+their interaction term as predictors, and the P-value presented for the interaction term.
+Subgroup analysis will be performed on both ITT and PP populations.
+
+10.2 Secondary Efficacy Analysis
+
+10.2.1 Ordinal Modified Rankin Scale Score at 90 Days
+
+The secondary efficacy outcome is the ordinal mRS score at 90 days. mRS is an
+assessment of disability with values from 0 (no symptoms at all) to 5 (severe
+disability); death will be scored as a 6. The distribution of mRS at Day 90 will be
+summarized descriptively, and plotted using Grotta bars.
+
+For the analysis of ordinal mRS at 90 days, an ordinal logistic regression model
+with treatment as the study variable will be used to calculate the common odds ratio
+and corresponding 95% CI between two treatment groups. Prior to its application, the
+proportional odds assumption will be tested. If the P-value for the overall score test of
+
+24
+
+[PDF_PAGE 53]
+the proportional odds hypothesis is >0.05, the proportional odds assumption will be
+deemed acceptable. If the proportional odds hypothesis is rejected, the generalized
+odds ratio (GenOR)'* and corresponding 95% CI will be calculated using WINS
+package.
+10.2.2 Modified Rankin Scale Score 0 to 2 at 90 Days
+The mRS score will be used to evaluate the proportion of patients with a score 0 to 2
+versus 3 or higher at Day 90. The crude and adjusted RR and corresponding 95% CI
+will be calculated by fitting the modified Poisson regression model.
+10.2.3 Reperfusion at 24 Hours
+Reperfusion at 24 hours, defined as >90% reduction in Tmax >6s lesion volume by
+CTP. The proportion of improvement on reperfusion at 24 hours between groups will
+be compared by the modified Poisson regression model. The crude and adjusted RR
+and corresponding 95% CI will be reported.
+10.2.4 Infarct Volume at 24 Hours
+Infarct volume at 24 hours will be measured by CT, which will be provided by central
+image analysis. Infarct volume at 24 hours between two groups will be tested by
+linear regression model with treatment as the study variable. Infarct volume may be
+log transformed if necessary. Normality assumption for the residuals will be assessed
+using Q-Q plot. The crude and adjusted mean difference/geometric mean ratio and
+corresponding 95% CI will be reported. A win ratio method! will be used if
+normality assumption is seriously violated. Crude and adjusted win ratio will be
+calculated using WINS package. Adjusted win ratio will be calculated using IPTW
+approach!°,
+10.2.5 Early Clinical Response at 24 Hours
+
+25
+
+[PDF_PAGE 54]
+Early clinical response at 24 hours, defined as a NIHSS drop of 28 from baseline or
+NIHSS score of 0 or 1. The crude and adjusted RR and corresponding 95% CI will be
+calculated by fitting a modified Poisson regression model.
+
+10.2.6 NIHSS Change from Baseline to 7 Days or Discharge
+
+The NIHSS is a standardized neurological examination score, with scores ranging
+from 0 to 42, with higher scores indicating increasing severity.
+
+NIHSS change from baseline to 7 days or discharge will be analyzed using linear
+regression model with treatment as the study variable. The crude and adjusted mean
+difference and corresponding 95% CI will be reported. Normality assumption for the
+residuals will be assessed using Q-Q plot. A win ratio method will be used if
+normality assumption is seriously violated. Crude and adjusted win ratio will be
+calculated using WINS package. Adjusted win ratio will be calculated using IPTW
+approach.
+
+10.2.7 EQ-5D-5L at 90 Days
+
+The EQ-5D-5SL is a tool for describing and assessing health-related quality of life 90
+days after randomization. The tool is designed for self-completion. The EQ-5D-5L
+will be completed on the 90 days after randomization.
+
+Total score on EQ-5D-5L" will be analyzed using linear regression model with
+treatment as the study variable. Total score on EQ-5D-5L may be log transformed if
+necessary. Normality assumption for the residuals will be assessed using Q-Q plot.
+The crude and adjusted mean difference/geometric mean ratio and corresponding 95%
+CI will be reported. A win ratio method will be used if normality assumption is
+seriously violated. Crude and adjusted win ratio will be calculated using WINS
+package. Adjusted win ratio will be calculated using IPTW approach.
+
+26
+
+[PDF_PAGE 55]
+10.3 Exploratory Efficacy Analysis
+10.3.1 Utility weighted modified Rankin Scale at 90 Days
+The mRS is an ordinal disability score range from 0 (no symptoms) to 6 (death).
+However, the difference between any two points on the scale is not linearly
+proportional to the difference in the “value” that humans assign to their corresponding
+degrees of disability. The UW-mRS is derived by averaging values from previous
+studies using time-tradeoff methodology in stroke survivors and person-tradeoff
+methodology in healthcare providers!’. For purposes of weighted mRS analysis, each
+mRS category will be assigned a numerical value representing its clinical utility, as
+follows:
+
+Table 2 Weights Used for mRS score at 90 days
+a
+Pram fost ore fous fos foo
+
+The following weights are assigned to scores 0 through 6 on the modified Rankin
+scale: 1.0, 0.91, 0.76, 0.65, 0.33, 0, and 0, respectively. The UW-mRS ranges from 0
+(death) to 1 (no symptoms or disability). These utility weights have been used
+previously in trials on ischemic stroke!??”.
+
+The UW-mRS at 90 days between two groups will be compared using linear
+regression model with treatment as the study variable. The crude and adjusted mean
+difference with their corresponding 95% CIs will be reported. If normality assumption
+is not met, a win ratio method will be used. Crude and adjusted win ratio will be
+calculated using WINS package. Adjusted win ratio will be calculated using IPTW
+approach.
+
+11. SAFETY ANALYSES
+27
+
+[PDF_PAGE 56]
+Safety analyses will be conducted on the Safety population only.
+
+11.1 SICH Rate within 36 Hours
+
+Proportion of patients with sICH within 36 hours post-treatment is considered primary
+safety outcome. sICH will be evaluated according to the Heidelberg Bleeding
+Classification. Percentage of subjects with sICH within 36 hours after treatment will
+be presented for each definition by treatment group. Frequency counts and percentage
+of patients within each category will be provided for categorical data.
+
+The modified Poisson regression model with treatment as the study variable will
+be used to estimate the crude and adjusted RR and corresponding 95% CI using the
+same method as for the analysis of primary outcome.
+
+11.2 Systemic Bleeding at 90 Days
+Systemic bleeding at 90 days, as defined by GUSTO: moderate and severe bleeding.
+The proportion of systemic bleeding will be compared by a modified Poisson
+regression model with treatment as the study variable. The crude and adjusted RR and
+corresponding 95% CI will be calculated.
+11.3 Mortality at 90 Days
+Mortality due to any cause is the safety endpoint. The outcome is measured as a
+survival time from randomization to the occurrence of death of any cause. With the
+date of randomization at day 0, any death occurring on or before calendar day 90 will
+be counted as a death. A modified Poisson regression model with treatment as the
+study variable will be used to estimate the crude and adjusted RR and corresponding
+95% CI.
+11.4 Adverse Events
+
+28
+
+[PDF_PAGE 57]
+All adverse events (AEs) will be coded using the Medical Dictionary for Regulatory
+
+Activities (MedDRA) central coding dictionary. AE severity will be graded according
+
+to National Cancer Institute Common Terminology Criteria for Adverse Events (NCI
+
+CTCAE V5.0). Adverse events will be summarized using number (%) of patients with
+
+an AE and compared using Chi-square test or Fisher exact test.
+
+11.4.1 Adverse Events
+
+Any adverse change in health or the appearance of or worsening of any undesirable
+
+sign, symptom, or medical condition occurring after enrollment into the trial will be
+
+recorded as AE whether or not it is considered to be related to the study drug. AEs
+
+will be summarized by system organ class (SOC) and preferred term (PT), and will be
+
+presented in descending frequency.
+
+11.4.2 Serious Adverse Events
+
+A serious adverse event (SAE) is any untoward medical occurrence that at any dose:
+
+Result in death; Are life-threatening or fatal; Require or prolong hospitalization;
+
+Result in persistent or significant disability/incapacity, Constitutes a congenital
+
+anomaly or birth defect, or Significant medical event. SAEs will be summarized by
+
+SOC and PT, and will be presented in descending frequency.
+
+12. REFERENCES
+
+1. Haybittle JL. Repeated assessment of results in clinical trials of cancer treatment.
+The British journal of radiology 1971;44(526):793-7. (In eng). DOI:
+10.1259/0007-1285-44-526-793.
+
+2. Peto R, Pike MC, Armitage P, et al. Design and analysis of randomized clinical
+trials requiring prolonged observation of each patient. I. Introduction and design.
+British journal of cancer 1976;34(6):585-612. (In eng). DOI:
+10.1038/bjc.1976.220.
+
+3. DeMets DL, Lan KK. Interim analysis: the alpha spending function approach.
+Statistics in medicine 1994;13(13-14):1341-52; discussion 1353-6. (In eng).
+DOI: 10.1002/sim.4780131308.
+
+4. Campbell BCV, Ma H, Ringleb PA, et al. Extending thrombolysis to 4-5-9 h and
+
+29
+
+[PDF_PAGE 58]
+wake-up stroke using perfusion imaging: a systematic review and meta-analysis
+of individual patient data. Lancet (London, England) 2019;394(10193):139-147.
+(In eng). DOI: 10.1016/s0140-6736(19)31053-0.
+
+5. White IR, Horton NJ, Carpenter J, Pocock SJ. Strategy for intention to treat
+analysis in randomised trials with missing outcome data. BMJ (Clinical research
+ed) 2011;342:d40. (In eng). DOL: 10.1136/bmj.d40.
+
+6. Yelland LN, Sullivan TR, Voysey M, Lee KJ, Cook JA, Forbes AB. Applying
+the intention-to-treat principle in practice: Guidance on handling randomisation
+errors. Clinical trials (London, England) 2015;12(4):418-23. (In eng). DOI:
+10.1177/17407745 15588097.
+
+7. Localio AR, Berlin JA, Ten Have TR, Kimmel SE. Adjustments for center in
+multicenter studies: an overview. Annals of internal medicine 2001;135(2):112-
+23. (In eng). DOI: 10.7326/0003-4819-135-2-200107170-00012.
+
+8. Dmitrienko A, D'Agostino RB, Sr. Multiplicity Considerations in Clinical Trials.
+The New England journal of medicine 2018;378(22):2115-2122. (In eng). DOI:
+10.1056/NEJMra1709701.
+
+9. Morris TP, Walker AS, Williamson EJ, White IR. Planning a method for
+covariate adjustment in individually randomised trials: a practical guide. Trials
+2022;23(1):328. (In eng). DOI: 10.1186/s13063-022-06097-z.
+
+10. Spiegelman D, Hertzmark E. Easy SAS calculations for risk or prevalence ratios
+and differences. American journal of epidemiology 2005;162(3):199-200. (In
+eng). DOI: 10.1093/aje/kwil88.
+
+ll. Petersen MR, Deddens JA. A comparison of two methods for estimating
+prevalence ratios. BMC medical research methodology 2008;8:9. (In eng). DOI:
+10.1186/1471-2288-8-9.
+
+12. Zou G. A modified poisson regression approach to prospective studies with
+binary data. American journal of epidemiology 2004;159(7):702-6. (In eng).
+DOT: 10.1093/aje/kwh090.
+
+13, Young-Saver DF, Gornbein J, Starkman S, Saver JL. Handling of Missing
+Outcome Data in Acute Stroke Trials: Advantages of Multiple Imputation Using
+Baseline and Postbaseline Variables. Journal of stroke and cerebrovascular
+diseases : the official journal of National Stroke Association 2018;27(12):3662-
+3669. (In eng). DOT: 10.1016/j.jstrokecerebrovasdis.2018.08.040.
+
+14. Churilov L, Arnup S, Johns H, et al. An improved method for simple,
+assumption-free ordinal analysis of the modified Rankin Scale using
+generalized odds ratios. International journal of stroke : official journal of the
+International Stroke Society 2014;9(8):999-1005. (In eng). DOI:
+10.111 1/ijs.12364.
+
+15. Wang D, Pocock S. A win ratio approach to comparing continuous non-normal
+outcomes in clinical trials. Pharmaceutical statistics 2016;15(3):238-45. (In
+eng). DOI: 10.1002/pst.1743.
+
+16. | Wang D, Zheng S, Cui Y, He N, Chen T, Huang B. Adjusted win ratio using the
+inverse probability of treatment weighting. Journal of biopharmaceutical
+statistics 2025;35(1):21-36. (In eng). DOT: 10.1080/10543406.2023.2275759.
+
+17. Luo N, Liu G, Li M, Guan H, Jin X, Rand-Hendriksen K. Estimating an EQ-
+5D-5L Value Set for China. Value in health : the journal of the International
+Society for Pharmacoeconomics and Outcomes Research 2017;20(4):662-669.
+(In eng). DOT: 10.1016/j.jval.2016.11.016.
+
+18. Chaisinanunkul N, Adeoye O, Lewis RJ, et al. Adopting a Patient-Centered
+
+30
+
+[PDF_PAGE 59]
+Approach to Primary Outcome Analysis of Acute Stroke Trials Using a Utility-
+Weighted Modified Rankin Scale. Stroke 2015;46(8):2238-43. (In eng). DOI:
+10.1161/strokeaha.114,008547.
+
+19, Nogueira RG, Jadhav AP, Haussen DC, et al. Thrombectomy 6 to 24 Hours after
+Stroke with a Mismatch between Deficit and Infarct. The New England journal
+of medicine 2018;378(1):11-21. (In eng). DOI: 10.1056/NEJMoa1 706442.
+
+20. Broderick JP, Adeoye O, Elm J. Evolution of the Modified Rankin Scale and Its
+Use in Future Stroke Trials. Stroke 2017;48(7):2007-2012. (In eng). DOI:
+10.1161/strokeaha.117.017866.
+
+21. Adeoye O, Broderick J, Derdeyn CP, et al. Adjunctive Intravenous Argatroban
+or Eptifibatide for Ischemic Stroke. The New England journal of medicine
+2024;391(9):810-820. (In eng). DOI: 10.1056/NEJMoa23 14779.
+
+22. Mistry EA, Hart KW, Davis LT, et al. Blood Pressure Management After
+Endovascular Therapy for Acute Ischemic Stroke: The BEST-II Randomized
+Clinical Trial. Jama —-2023;330(9):821-831. (In _— eng). ~— DOT:
+10.1001/jama.2023.14330.
+
+3
+
+[PDF_PAGE 60]
+SAP amendments between original version (December 24", 2022) to final version (June 20", 2025)
+Revisions Original version 1.0 Final version 2.0
+(Location) December 24" 2022 June 20" 2025
+Version Number/Date | Version: Original version 1.0, December 24, 2022 Version: Final version 2.0, June 20, 2025
+fae Pe |
+2.2 Secondary Objectives | @ To assess infarct growth between final infarct volume (measured | @ To assess infarct volume at 24 hours (measured by computed
+by computed tomography [CT] at 24 hours) and baseline infarct tomography [CT])
+volume (rCBF<30% by CTP) © To assess the quality of life scored by European Quality Five-
+Dimension Five-Level (EQ-SD-SL) scale score at 90 days
+© To assess the safety of the two treatment regimens in terms of
+intracranial hemorrhage (ICH) within 36 hours © Remove
+3.2 Secondary Efficacy | @ — Infarct growth between final infarct volume (measured by CT at24 | @ Infarct volume at 24 hours, expressed as 24 hours infarct size [by
+Endpoint hours) and baseline infarct volume (1CBF<30% by CTP) ct
+© Functional health status and quality of life (EQ-SD-SL) at 90
+days
+3.3 Exploratory Efficacy © Utility weighted modified Rankin Seale (UW-mRS) at 90 days
+fie ini |
+3.4 Safety Endpoint © Proportion of patients with ICH within 36 hours, as defined by | @ — Remove
+powers kewaiaase |e
+4.2.1 Inclusion Criteria | @ — Baseline NIHSS score 4-25 © Disabling stroke defined as follows:
+Baseline National Institutes of Health Stroke Scale (NIHSS) score 6-
+25 at the time of randomization, Or NIHSS 4-5 with disabling deficit
+(e.g. hemianopia, aphasia, loss of hand function) as determined by the
+managing clinician
+4.2.2 Exclusion Criteria | @ — Known severe renal insufficiency with glomerular filtration rate | @ Undergoing hemodialysis or peritoneal dialysis; known severe
+<30mL/min or serum creatinine >220mmol/L (2.Smg/dL) renal insufficiency with glomerular filtration rate <30mL/min or
+32
+
+[PDF_PAGE 61]
+© Undergoing hemodialysis or peritoneal dialysis; known severe serum creatinine >220mmol/L (2.5mg/dL)
+adverse reactions to contrast agents
+© © Treatment with a thrombolytic within the last 72 hours or
+© Treatment with a thrombolytic within the last 72 hours intention to receive intravenous thrombolysis
+© Hypodensity on non-contrast CT or MRI estimated to be >1/3 | @ — Remove
+MCA territory
+
+4.3 Method of Treatment | A dynamic randomization procedure by minimization will be done for | A dynamic randomization procedure by minimization will be done for
+
+Assignment and | achieving a balance of the following pre-specified factors: age (<65 or | achieving a balance of the following pre-specified factors: vessel
+
+Randomization 265 years), baseline NIHSS (<16 or =16) and center. occlusion location (anterior or posterior circulation), age (<65 or >65
+
+years), baseline NIHSS (<16 or 216) and center.
+
+45 Interim Analysis One efficacy interim analysis is planned and will be taken place when | The original protocol specified that, the safety analyses will occur
+50% of the target sample size (284 cases) have completed 90-day follow- | when the first 100, 200, and 300 patients completed 90-day follow-up.
+up. A Lan-DeMets alpha spending function will be used to control for | It will be conducted by the DSMB. If there are concems about the
+the overall alpha level, using O’Brien and Fleming boundaries will be | safety of patients, this board will make a recommendation to the trial
+used at the interim analysis and final analysis with alpha of two-sided | Steering Committee about continuing, stopping, or modifying the trial.
+0.003, and 0.049, The Haybittle-Peto procedure for generating early stopping boundaries
+
+will be used. To compare the safety of the rhTNK-tPA and standard
+medical treatment, primary safety parameters (mortality at 90 days)
+will be tested. A recommendation of early termination due to safety
+reasons will be considered by the DSMB if the corresponding
+Haybittle-Peto boundary (P= 0.001, Z =3) at a given interim analysis
+is crossed.
+
+One efficacy interim analysis is planned and will be taken place when
+50% of the target sample size (284 cases) have completed 90-day
+follow-up. A Lan-DeMets alpha spending function will be used to
+
+33
+
+[PDF_PAGE 62]
+control for the overall alpha level, using O'Brien and Fleming
+boundaries will be used at the interim analysis and final analysis with
+alpha of two-sided 0.003, and 0.049.
+
+Due to the fast speed of enrolment, after review with the DSMB in
+June 2025, the original interim analysis plan no longer serves its
+purpose. The efficacy interim analysis and the third safety interim
+analysis will be rescinded as per the recommendation of the DSMB.
+Since no formal assessment of efficacy is done and no alpha is spent,
+we will not adjust the alpha level or P values for the final analysis.
+
+5. Sample Size Estimates ‘Add: Due to protocol amendments that eliminated the pre-specified
+interim efficacy analysis, this study maintains the original two-sided
+alpha level of 0.05 and the planned sample size of 568, with an
+increased the statistical power of 82.7%.
+
+6.1 Intention-to-Treat | The ITT population includes all patients who were randomized, received | The ITT population includes all patients randomized into the trial, even
+
+(ITT) Population at least one-day treatment of study drugs, had baseline important data, | if'a patient does not receive the correct treatment, or does not follow
+
+and had at least one assessment of the primary efficacy evaluation. the protocol until completion.
+
+72.22 Efficacy | Missing primary outcome values will be replaced using mixed | Missing primary outcome values will be replaced using multiple
+
+Outcomes imputation method imputation method. Logistic regression model with the following
+
+© Ifthe patient discontinued treatment early due to a negative event | covariates: allocated treatment, baseline age (continuous), baseline
+(cg., adverse event, disease progression, or death), their 90-day | NIHSS (continuous), vessel occlusion location (Binary: [anterior
+mRS score will be imputed as >1 circulation and posterior circulation), and time from symptom onset
+© If the patient completed treatment but withdrew from follow-up | to randomization (continuous) will be used and implemented using
+early due to a negative event (e.g., adverse event or death), their | SAS PROC MI with a seed being 224, A total of S multiply imputed
+90-day mRS score will also be imputed as >1 datasets will be generated to get the final treatment effect estimate and
+© Forall other cases, the last available post-treatment mRS score will | associated confidence interval (CI) from the modified Poisson
+be used to classify the missing 90-day mRS score as <I or>1. __| regression model.
+34
+
+[PDF_PAGE 63]
+7.7 Planned Subgroups] @ — Baseline NIHSS score (<16 and > 16) © Baseline NIHSS score (<10 and > 10)
+© Medium vessel occlusion site (M2-M4 segment of middle cerebral | @ — Occlusion site (M2-M4 segment of middle cerebral artery,
+artery, anterior cerebral artery, and posterior cerebral artery) anterior cerebral artery, posterior cerebral artery, and stenosis)
+10.1.1 Crude Analysis | Analysis of the primary efficacy outcome will test the hypothesis as | Analysis of the primary efficacy outcome will test the hypothesis as
+follows: follows:
+Ho: P mitnkra - Peontol <A versus Hi: Pritnkpa - Peontrol> A Ho: PritNkpa = Peontrot versus Hi; P ritNkara # Peontrol
+Where Pasrvirs and Peonist are the proportion of mRS score 0 to 1 at 90 | Where Pyyrxina and Pesan are the proportion of mRS score 0 to I at
+days in the group treated with rhTNK-PA and standard medical | 90 days in the group treated with rhTNK-tPA and standard medical
+treatment (control group) respectively, with a superiority margin of 0. If | treatment (control group) respectively. Superiority of thTNK-tPA over
+the lower limit of 95% confidence interval bound exceeds margin, | standard medical treatment will be declared if the P-value of the
+indicating that the treatment group is superior to the control group. estimated treatment effect is <0.05 (two-sided).
+‘The primary analysis of the primary efficacy outcome will be based on | The primary analysis of the primary efficacy outcome will be based on
+ITT population, which will be supported by the secondary analysis based | ITT population, which will be supported by the secondary analysis
+on PP population. The hypothesis of primary outcome will be tested in | based on PP population. The hypothesis of primary outcome will be
+the ITT population using generalized linear model with treatment as the | tested in the ITT population using modified Poisson regression10-12
+study variable to derive the risk ratio (RR) and its 95% CI. Crude | with treatment as the study variable to derive the risk ratio (RR) and
+analysis will be the primary analysis to draw the main conclusion | its 95% CI. Crude analysis will be the primary analysis to draw the
+regarding the efficacy of the study intervention. main conclusion regarding the efficacy of the study intervention,
+10.1.4 Subgroup | @ — Baseline NIHSS score (<16 and > 16) © Baseline NIHSS score (<10 and > 10)
+Analysis © — Medium vessel occlusion site (M2-M4 segment of middle cerebral | @ — Occlusion site (M2 segment of middle cerebral artery, M3-Md
+artery, anterior cerebral artery, and posterior cerebral artery) segment of middle cerebral artery, anterior cerebral artery,
+posterior cerebral artery, and stenosis)
+10.2.2 Modified Rankin | The crude and adjusted RR and corresponding 95% CI will be calculated | The crude and adjusted RR and corresponding 95% CI will be
+35
+
+[PDF_PAGE 64]
+SS
+10.2.3 Reperfusion at 24 | The proportion of improvement on reperfusion at 24 hours between | The proportion of improvement on reperfusion at 24 hours between
+Hours groups will be compared by the generalized linear model. The crude and | groups will be compared by the modified Poisson regression model
+
+adjusted RR and corresponding 95% CI will be reported. The crude and adjusted RR and corresponding 95% CI will be
+reported,
+
+10.2.4 Infarct Growth | Infaret growth between final infract volume at 24 hours and baseline | Infarct volume at 24 hours will be measured by CT, which will be
+infarct volume, which will be provided by central image analysis. Infarct | provided by central image analysis. Infarct volume at 24 hours
+growth between two groups will be tested by linear regression model | between two groups will be tested by linear regression model with
+with treatment as the study variable. Infarct growth may be log | treatment as the study variable. Infarct volume may be log transformed
+transformed if necessary. ifnecessary.
+
+10.2.5 Early Clinical | The crude and adjusted RR and corresponding 95% CI will be calculated | The crude and adjusted RR and corresponding 95% CI will be
+
+10.2.7 EQ-SD-SL at 90 The EQ-SD-SL is a tool for describing and assessing health-related
+
+days quality of life 90 days after randomization, The tool is designed for
+
+self-completion, The EQ-SD-SL will be completed on the 90 days after
+randomization.
+
+Total score on EQ-SD-SL17 will be analyzed using linear regression
+model with treatment as the study variable, Total score on EQ-SD-5L
+may be log transformed if necessary. Normality assumption for the
+residuals will be assessed using Q-Q plot. The crude and adjusted mean
+difference/geometric mean ratio and corresponding 95% CI will be
+reported, A win ratio method will be used if normality assumption is,
+seriously violated. Crude and adjusted win ratio will be calculated
+using WINS package. Adjusted win ratio will be calculated using
+IPTW approach.
+
+[ios Rin fy Ra Sse De
+36
+
+[PDF_PAGE 65]
+Efficacy Analysis ‘The mRS is an ordinal disability seore range from 0 (no symptoms) to
+6 (death). However, the difference between any two points on the scale
+is not linearly proportional to the difference in the “value” that
+humans assign to their corresponding degrees of disability. The UW-
+mRS is derived by averaging values from previous studies using time-
+tradeoff methodology in stroke survivors and person-tradeoff
+methodology in healtheare providers. For purposes of weighted mRS
+analysis, each mRS category will be assigned a numerical value
+representing its clinical utility, as follows:
+
+Table 2 Weights Used for mRS score at 90 days
+ee
+[Rew [7 [oor fare [aor for [oe |
+The following weights are assigned to scores 0 through 6 on the
+modified Rankin scale: 1.0, 0.91, 0.76, 0.65, 0.33, 0, and 0,
+respectively. The UW-mRS ranges from 0 (death) to 1 (no symptoms
+or disability). These utility weights have been used previously in trials
+on ischemic stroke.
+
+The UW-mRS at 90 days between two groups will be compared using
+linear regression model with treatment as the study variable. The crude
+and adjusted mean difference with their corresponding 95% CIs will
+be reported. If normality assumption is not met, a win ratio method
+will be used. Crude and adjusted win ratio will be calculated using
+WINS package. Adjusted win ratio will be calculated using IPTW
+approach.
+
+37
+
+[PDF_PAGE 66]
+11.1 SICH Rate within 36 ] The generalized linear model with treatment as the study variable will | Remove
+Hours be used to estimate the crude and adjusted RR and corresponding 95%
+Clusing the same method as for the analysis of primary outcome.
+11.2 ICH Rate within 36 ICH within 36 hours post-treatment will be evaluated according to the
+Hours Heidelberg Bleeding Classification, Percentage of subjects with ICH
+within 36 hours after treatment will be presented for each definition by
+treatment group. Frequency counts and percentage of patients within
+each category will be provided for categorical data,
+The generalized linear model with treatment as the study variable will
+be used to estimate the crude and adjusted RR and corresponding 95%
+Cl using the same method as for the analysis of primary outcome.
+11.3 Systemic Bleeding | The proportion of systemic bleeding will be compared by a generalized | The proportion of systemic bleeding will be compared by a modified
+at 90 Days linear model with treatment as the study variable. The crude and adjusted | Poisson regression model with treatment as the study variable. The
+RR and corresponding 95% Cl will be calculated. crude and adjusted RR and corresponding 95% CI will be calculated.
+11.4 Mortality at 90 Days | A generalized linear model with treatment as the study variable will be | A modified Poisson regression model with treatment as the study
+used to estimate the crude and adjusted RR and corresponding 95% CI. | variable will be used to estimate the crude and adjusted RR and
+corresponding 95% Cl
+38

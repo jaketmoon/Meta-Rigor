@@ -1,0 +1,1415 @@
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients
+
+after  cardiac  surgery  (MINDDS):  a  single-centre,  parallel-arm,  randomised,  placebo-
+
+controlled superiority trial (Qu et al.)
+
+                                                  SUPPLEMENTARY APPENDIX
+
+Table of Contents
+
+SUPPLEMENTARY APPENDIX 1.                              MINDDS Study Investigators ................................................................ 2
+SUPPLEMENTARY APPENDIX 2.                              Detailed Study Protocol ......................................................................... 4
+SUPPLEMENTARY APPENDIX 3.                              History of Changes to the IRB Approved Protocol .............................. 12
+SUPPLEMENTARY APPENDIX 4.                              Statistical Analysis Plan ....................................................................... 15
+SUPPLEMENTARY APPENDIX 5.                              Planned Sensitivity Models .................................................................. 23
+SUPPLEMENTARY APPENDIX 6.                              Post Hoc Sensitivity Analysis of the Primary Outcome Assuming
+                                                       Different Imputation Strategies and Utilising Fisher’s Exact Test ....... 24
+SUPPLEMENTARY APPENDIX 7.                              Post Hoc Sensitivity Analysis Utilising Exact Logistic Regression for
+                                                       Outcomes with Low Event Rates in the Modified Intention-to-Treat
+                                                       Cohort .................................................................................................. 25
+SUPPLEMENTARY APPENDIX 8.                              Hypnotics, Analgesics, and Other Relevant Medications .................... 26
+SUPPLEMENTARY APPENDIX 9.                              Participant Characteristics at Baseline in the Per-Protocol Cohort ...... 27
+SUPPLEMENTARY APPENDIX 10.                             Surgical Characteristics and Study Drug Administration in the Per-
+                                                       Protocol Cohort .................................................................................... 29
+SUPPLEMENTARY APPENDIX 11.                             Outcomes and Clinical Characteristics of the Per-Protocol Cohort
+                                                       Conditional on the Randomisation Strata ............................................. 30
+SUPPLEMENTARY APPENDIX 12.                             Kaplan Meier Curve in the Modified Intention-to-Treat Cohort .......... 32
+
+                                                                                                                                               1
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+SUPPLEMENTARY APPENDIX 1. MINDDS Study Investigators
+
+Jason Z Qu MD1, Ariel Mueller MA1, Tina B McKay PhD1, M. Brandon Westover MD PhD2, Kenneth T Shelton
+
+MD1, Shahzad Shaefi MD MPH3, David A D'Alessandro MD4, Lorenzo Berra MD1,5, Emery N Brown MD PhD1,6,
+
+Timothy T Houle PhD      1, and Oluwaseun Akeju MD MMSc            1 on behalf of the MINDDS Study Team*
+
+     *Members of the MINDDS Study Team Include:              Grace E Namirembe MPH1, Alan DiBiasio BS Pharm7, Chloe
+
+     O’Connell MD1, Derek He MD1, Reine Ibala BS1, Marco L. Loggia PhD1,8, Eunice Hahm BS1, Jacob A Gitlin
+
+     BS1,  Breanna  Ethridge  BA1,  Katia  Colon  BS1,  Isabella  Turco  BS1,    Katherine  Adelsberger  BS1,               Serguie
+
+     Melnitchouk, MD MPH4, George Tolis MD9, Ashishana Osho MD MPH4, Hao Deng MD MPH DrPH(c)1, Ge
+
+     Wendong PhD2, Yasmine Tameze MD1, Jamie Sparling MD1, Katarina J  Ruscic MD PhD1, Hassan S Dashti PhD
+
+     RD1,10, Vivian Donahue RN MS11, Thoralf M Sundt MD4
+
+     1.   Department of Anesthesia, Critical Care and Pain Medicine, Massachusetts General Hospital, Harvard
+
+          Medical School, Boston, MA
+
+     2.   Department of Neurology, Massachusetts General Hospital, Harvard Medical School, Boston, MA
+
+     3.   Department of Anesthesia, Critical Care and Pain Medicine, Beth Israel Deaconess Medical Center,
+
+          Harvard Medical School, Boston, MA
+
+     4.   Department of Surgery, Division of Cardiac Surgery, Massachusetts General Hospital, Harvard Medical
+
+          School, Boston, MA
+
+     5.   Respiratory Care Services, Massachusetts General Hospital, Boston, MA
+
+     6.   Institute for Medical Engineering and Sciences, Massachusetts Institute of Technology, Cambridge, MA
+
+     7.   Department of Pharmacy, Massachusetts General Hospital, Boston, MA
+
+     8.   Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Harvard Medical
+
+          School, Charlestown, MA
+
+     9.   Department of Surgery, Division of Cardiac Surgery, Brigham and Women’s Hospital, Harvard Medical
+
+          School, Boston, MA
+
+     10.  Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA
+
+                                                                                                                                   2
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+     11.  Blake 8 Cardiac Surgical Intensive Care Unit, Massachusetts General Hospital, Boston MA
+
+                                                                                                                                       3
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+SUPPLEMENTARY APPENDIX 2. Detailed Study Protocol
+
+  Minimizing ICU neurological dysfunction with dexmedetomidine-induced sleep (MINDDS): A randomised
+                                                       placebo-controlled trial
+Principal Investigator: Oluwaseun Johnson-Akeju, M.D., M.M.Sc
+Version: 12/15/2020
+
+1. BACKGROUND AND SIGNIFICANCE
+
+Delirium is an acute brain dysfunction characterised by disturbances in attention, awareness, and cognition not
+explained by a pre-existing neurocognitive disorder.1 Although the increased mortality rates ascribed to delirium
+remain debatable, delirium remains a leading cause of preventable morbidity in hospitalised elderly patients. It is also
+associated with prolonged hospitalisation, prolonged institutionalisation, and long-term cognitive deficits.2-7 Patients
+with pre-existing dementia, such as Alzheimer’s disease, are especially vulnerable to developing delirium.8 The total
+healthcare cost attributable to delirium is estimated between $143 and $152 billion annually.9 In the United States,
+delirium occurs in approximately 80% of critically ill patients admitted to medical/surgical intensive care units (ICU),
+10 and 15% of patients admitted to cardiac surgical (CS) ICU.11 Most patients diagnosed with delirium also present
+with multiple comorbidities (sepsis, multi-organ failure) that significantly confound our understanding of this disease.2
+Thus, to date, no pharmacological intervention to treat delirium has been identified.2 The aging process has been
+identified as a risk factor for developing delirium.
+Normal aging is associated with a morphological shift of glia (microglia, astrocytes) to an activated state.                     Following
+a systemic challenge such as critical illness,          these activated glia aid a neuroinflammatory state that contributes to
+delirium.  The  aforementioned  neuroinflammatory  state  is  exacerbated  by  sleep  disturbances.15-17                       Thus,  sleep
+deprivation may be a modifiable risk factor for the development of delirium. Presently, pharmacological treatment
+with no current medication (benzodiazepines, antipsychotics) induces natural sleep or reliably reduces the incidence
+of delirium. We have found that pharmacological induction of rapid eye movement sleep (REM) and non-REM
+I-III sleep states using dexmedetomidine, can now be safely achieved in humans. Our overall objective is to
+evaluate the efficacy of dexmedetomidine-induced sleep in preventing delirium, investigate cellular and molecular
+mechanisms underlying delirium, and investigate whether recently described intraoperative electroencephalogram
+(EEG) signatures of the aging brain are associated with developing delirium.18 Our central hypothesis is that nightly
+biomimetic sleep in elderly patients admitted to the CSICU for > 24hrs will reduce the incidence of ICU delirium.
+Our intervention and control groups will be comprised of extubated CSICU patients, because their homogeneity in
+terms of surgical procedures,        anaesthetic    management, and systemic inflammatory response represents a unique
+opportunity to study the mechanisms underlying delirium, while limiting confounding factors that may otherwise be
+encountered in heterogeneous patients found in the medical/surgical ICU. We will perform assessments of cognition
+(peri-operative), obtain EEG recordings (intra-operative, ICU) and blood samples (peri-operative).
+At the conclusion of these studies, we will have expanded our knowledge of the pathophysiology of delirium,
+evaluated a new       pre-emptive     therapeutic strategy for delirium, suggest neurophysiologically based monitoring
+strategies to reduce significantly the amount of anaesthetic administered to elderly patients – and possibly delirium –
+while being certain the patient is sufficiently unconscious for surgery (individualised anesthesia care), and enable
+continued investigation into the pathophysiology of this clinically important disorder.
+2. SPECIFIC AIMS
+
+We will pursue three aims. In the first aim, we will investigate the benefits of pre-emptive biomimetic sleep for
+reducing the risk of developing delirium in a randomised controlled trial; in the second aim, we will investigate the
+mechanisms of delirium using serum metabolic profiling; and in                   the third aim, we will investigate power spectral
+analyses of intraoperative and CSICU electroencephalogram dynamics.
+
+Table 1 shows a proposed timeline.
+
+                                                                                                                                            4
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+   Table 1: Planned Schedule
+   Hypothesis      Short Name                                                        Year 1       Year 2       Year 3       Year 4       Year 5
+        1·1        Nightly pre-emptive biomimetic sleep will reduce                     ..           ..           ..
+                   the incidence of delirium
+        2·1        Serum metabolic profiling will be sensitive to detect                                          ..           ..
+                   neurodegeneration of preclinical delirium
+        3·1        Absence of anesthesia-induced frontal alpha                                                    ..           ..           ..
+                   oscillations will be associated with delirium
+        3·2        Burst-suppression/anesthesia overdose will be                                                  ..           ..           ..
+                   associated with delirium
+
+The specific aims of this study are:
+AIM 1:      Investigate the benefits of           pre-emptive       biomimetic sleep for reducing the risk of delirium in a
+Randomised Controlled Trial.
+Hypothesis 1·1. Compared to standard treatments (benzodiazepines, antipsychotics), nightly pre-emptive biomimetic
+sleep will reduce the incidence of ICU delirium.
+AIM 2: Investigate mechanisms of delirium using serum metabolic profiling.
+Hypothesis 2·1. Unbiased metabolic profiling will be sensitive to detect early signatures of neurodegeneration that
+predisposes to the development of delirium.
+AIM 3: Investigate power spectral analyses of intraoperative and CSICU electroencephalogram dynamics.
+Hypothesis 3·1. The relative absence of anesthesia-induced frontal alpha oscillations (a putative marker of brain
+vulnerability) is associated with delirium.
+Hypothesis 3·2. Burst-suppression induced by the age-adjusted maintenance anaesthetic (a putative marker of
+anaesthetic overdose and brain vulnerability) is associated with the severity of delirium.
+
+3. STUDY PROCEDURES
+Subject Selection: We will aim to enrol 530 patients over a period of three years into a randomised, controlled, double-
+blinded, single-site, parallel-arm superiority trial. Our primary outcome is the incidence of delirium on postoperative
+day 1 upon administration of the study intervention. To ensure that the study is appropriately powered for the primary
+outcome measure, patients will be recruited and randomised into the study until 370 patients receive the study
+intervention  on  postoperative  day  0.          Thus,  patients  will  be  censored  from  the  study  if  they  do  not  receive
+dexmedetomidine or placebo on postoperative day 0. The cardiac surgical case volume at Massachusetts General
+Hospital (MGH) will enable us to meet our recruitment goals within our projected timeline. Cardiac surgeons, cardiac
+intensivists, and anaesthesiologists at MGH will identify all potential study participants. This initial care provider-
+patient contact will       ensure that eligible patients are comfortable with all study procedures. Once the potential
+participant confirms that he/she is comfortable with all study procedures, a copy of the consent form will be made
+available. Informed consent for this protocol will follow a two part process. First, a verbal consent will be obtained at
+the Department of Anesthesia, Critical Care and Pain Medicine pre-operative visit. This verbal consent is necessary
+to ensure that pre-operative baseline questionnaires can be administered. During this visit, the study protocol will also
+be explained to potential participants. In addition, a flyer detailing the study protocol will also be given to potential
+study participants. After verbal consent is obtained, the study team will allocate a study identification number, based
+on the study stratification schema, to the potential participant. Written consent will be obtained on the morning of
+surgery. The research pharmacy will allocate the participant into his/her assigned intervention group according to the
+randomisation key associated with each study identification number. This key will be provided to the pharmacy by
+the study statisticians. All study team members, including the statisticians, and all clinical care providers will be
+blinded to the treatment group assignments. All subjects who provide verbal consent and complete the baseline
+assessment, but later decline participation in the study, or fail to give signed consent, will not be subject to any study-
+related follow-up or intervention. However their baseline assessment, which has already been acquired, may be used
+to identify factors that may predispose or bias patients toward enrolment. Patients who undergo secondary surgical
+procedures after admittance to the CSICU, and/or remain intubated longer than the 12 hours stipulated below, will not
+be subject to any further study procedures as they will no longer satisfy the primary inclusion and exclusion criteria.
+Primary inclusion criteria for patients and controls: (1) age ≥ 60; (2) scheduled for a cardiac surgical procedure
+with planned post-operative admission to the CSICU for ≥ 24 hours; (3) scheduled same day surgical admission.
+
+                                                                                                                                                 5
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+Primary exclusion criteria for patients and controls: (1) blind, deafness or the inability to speak English; (2) greater
+than 2 days of ICU admission in the month preceding the current surgical procedure; (3) renal and liver failure
+requiring dialysis or Child-Pugh score > 5; (4) follow-up difficulties (i.e. active substance abuse, psychotic disorder,
+homelessness); (5) previous cardiac surgery within 1 year of surgical procedure; (6) allergy to dexmedetomidine; (7)
+chronic therapy with benzodiazepines and/or antipsychotics; (8) severe deficit due to structural or anoxic brain
+damage; (9) surgical procedure requiring total circulatory arrest; (10) SARS-CoV-2 positive or SARS-CoV-2-like
+symptoms (i.e. fever, sore throat, new cough, new nasal congestion or runny nose, muscle aches, new loss of taste or
+smell, shortness of breath).
+Primary objective drop criteria for patients and controls: (1) Scheduled for a second surgical procedure during
+hospital stay; (2) post-operative intubation > 12 hours; (3) SARS-CoV-2 positive or SARS-CoV-2-like symptoms (i.e.
+fever, sore throat, new cough, new nasal congestion or runny nose, muscle aches, new loss of taste or smell, shortness
+of breath).
+Intervention  (dexmedetomidine-induced  sleep  vs.  placebo).                      After  admission  to  the  CSICU,  rewarming,
+discontinuation of the sedative/anaesthetic           infusion and extubation of the airway, sedative medications will be
+administered as clinically indicated by the CSICU intensive care physician. Study patients admitted to the CSICU
+during the afternoon and extubated by 8:30 PM, would either receive a sleep induction dose of dexmedetomidine
+(1mcg/kg over 40 minutes) or placebo (normal saline or D5W over 40 minutes) every night throughout their CSICU
+stay. A sustained infusion of dexmedetomidine would never be administered for study related purposes. The targeted
+sleep induction time will be 9 PM. For the second start or later surgical cases, study patients admitted to the CSICU
+and extubated after 8:30 PM, but before 2 AM, would either receive a sleep induction dose of dexmedetomidine
+(1mcg/kg over 40 minutes) or placebo (normal saline or D5W over 40 minutes). The targeted sleep induction time
+will be within 30 minutes of extubation, with the earliest administration time being 9 PM. However, throughout the
+rest of the CSICU stay the sleep induction time will be targeted for 9 PM. In contrast, those patients who are admitted
+to the CSICU and remain intubated past 2 AM will not begin study procedures until postoperative day 1, assuming
+they are extubated within 12 hours of admission to the CSICU. The maximum dose of dexmedetomidine that will be
+administered for any study participant will be 80mcg over a 40-minute period at any one instance. Nighttime EEG
+may be obtained on all participants to enable sleep stage scoring in the spectral domain. The intraoperative EEG data
+acquisition system (SedLine) is a four-channel EEG device approved by MGH bioengineering. This device is currently
+used in all operating and procedural rooms at MGH for monitoring depth-of-anesthesia. For EEG monitoring in the
+ICU we will use the Compumedics Somte Portable PSG monitoring device.
+Post cardiac surgical patients that are admitted to the CSICU have implanted temporary pacemakers and are also on a
+variety vasoactive medications (including but not limited to: norepinephrine, dobutamine, dopamine, and epinephrine)
+to maintain hemodynamic stability. Therefore, the administration of dexmedetomidine in these patients will not unduly
+compromise their cardiovascular status. However, patients with active bleeding necessitating surgical intervention
+will be excluded from the study.
+Outcome measures and variables of interest. The primary outcome measure for this study is the incidence delirium
+in the CSICU on post-operative day 1. Secondary outcome measures include ICU- and hospital-delirium/coma-free
+days, length of hospital stay, 30-day mortality, 90-day mortality, and 180-day mortality. Variables of interest will
+include  age,  sex,  years  of  formal  education,  race,  ethnicity,  marital  status,  chronic  disease  burden  (Charlson
+comorbidity index), cerebrovascular disease (Framingham Stroke Risk profile), physical function as assessed by NIH
+Patient  Reported  Outcomes  Measurement  Information  System  (PROMIS-29)                               questionnaires,  organ  failure
+(Sequential Organ Failure Assessment), length of cardiopulmonary bypass, presence of significant cardiac dysfunction
+(ejection fraction less than 35%), and sedative use in the ICU.
+Cognitive testing. We will conduct delirium assessments twice daily (AM and PM with at least 6 hours between tests)
+beginning on post-operative day 1 using the Long           - Confusion Assessment Method (CAM). Delirium assessments will
+be conducted up to day 3 or hospital discharge,           whichever comes first. Patients who remain delirious past day 3 will
+be assessed until day 5 or hospital discharge, whichever comes first.              For those patients who remain delirious past day
+5, assessments will continue until day 7 or hospital discharge, whichever comes first.
+Other Cognitive Testing: Cognitive decline will be estimated by taking into account the patient’s baseline cognitive
+
+                                                                                                                                            6
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+function and sleep quality before admission to the ICU, as assessed using the PROMIS-29, abbreviated Montreal
+cognitive assessment and PROMIS-4A questionnaires scored at recruitment, 1 month, 3 months, 6 months. The 3-D
+CAM and TPS questionnaire will be administered at baseline. These questionnaires may be administered via email
+(REDCap), regular mail, or phone call.
+Blood Draws: For all patients, we will acquire peri              -operative blood samples. This will enable us relate              the serum
+metabolic/inflammatory profile to primary and secondary outcomes. For all study participants, blood sampling will
+be acquired as follows: (1) up to 40 ml of blood may be acquired at baseline on the day of surgery prior to the induction
+of general anesthesia (5-10ml for TSPO genetic profiling);              (2) up to 20 ml of blood may be acquired at approximately
+9 am of every ICU stay up to day 5.            We may apply at least three distinct LC           -MS–based methods to study distinct
+plasma aliquots for each experimental sample.
+Anaesthetic management and EEG data acquisition: Intraoperatively, patients will receive standard anesthesia care
+in which the anaesthesiologist uses age-adjusted drug dosing information, as well as heart rate, and blood pressure to
+set and titrate the anaesthetic. This portion of the study will follow a strictly observational nature. EEG will be recorded
+per clinical practice in all patients using the 4-channel SedLine EEG machine that is installed in all operating rooms
+at MGH. In the ICU, EEG may be acquired through the Compumedics Portable PSG monitoring device.
+Other data. A member of the study team will review the patient’s bedside nursing log and clinical notes in the patient
+chart. A timeline of physiological data (obtained from continuously recorded clinical data in the CSICU), sedatives,
+analgesics, as well as any patient events will be recorded for later analysis in relation to outcome measures and
+nighttime spectral sleep stage scoring.
+4. DATA ANALYSIS PLAN
+Data will be     analysed     using an intention-to-treat approach defined as all randomised patients who receive an
+intervention. Continuous data will be described using median and interquartile range, and categorical data using
+frequencies and proportions. The primary outcome will be evaluated using logistic regression examining the presence
+or absence of delirium conditional on randomised group assignment. Any randomisation imbalances, or other potential
+treatment effect modifiers will be further examined as covariates in sensitivity analyses. Secondary analyses will be
+evaluated using tests that are appropriate for the             outcomes. We will use Pearson χ2 tests to compare categorical
+variables between the 2 study groups and independent t-tests or Wilcoxon rank-sum tests to compare continuous
+variables. Time-to-event analyses will be used to compare the effects of dexmedetomidine-induced sleep and normal
+care on mortality, CSICU and hospital lengths of stay, CSICU and hospital readmission rates. Kaplan-Meier survival
+curves will be used for graphical presentation of these time-to-event analyses and log-rank statistics to assess the
+effects of biomimetic sleep and normal care. For mortality analyses, patients will be censored at the time of last contact
+alive or days from enrolment, whichever was first. Censoring for CSICU or hospital discharge readiness analyses will
+occur time of death or study withdrawal. Two-sided P values of 0·05 or less were considered to indicate statistical
+significance. Because missing data rarely occur entirely at random, we will assess the associations between patient
+characteristics with respect to missing data. If patients with at least one missing outcome value are different from
+those with complete outcomes data, we              will use multiple imputation to assign values to missing risk factors and
+outcomes in regression modelling.
+Metabolite concentrations will be log transformed to reduce heteroscedasticity of case-control differences. Metabolite
+levels will be compared in persons who developed delirium versus those who did not using two-tailed t tests. To screen
+these associations in the context of the balance of type-I and type-II errors, we will consider both FDR adjusted and
+Bonferroni-corrected P value thresholds. For metabolites meeting the less conservative FDR P value threshold, logistic
+regression analyses to estimate the OR of developing cognitive deficits will be performed at different metabolite
+values. Metabolites will be analysed as continuous variables (log transformed and scaled to SD of 1), and regressions
+adjusted for age, sex, delirium assessment, CT-ICU length of stay, and surgical duration. To examine the unique
+predictive  ability  of  these  metabolites,  we  will  conduct  an  exploratory  stepwise  logistic  model                    including  all
+metabolites meeting our threshold, and conduct cross-validation procedures to examine the internal consistency of
+these estimates. We will then construct a multimarker score based on the regression coefficients of the metabolites
+that were significant and consistent in our multivariable model, and then assess whether a model including clinical
+risk factors plus the multimarker panel improves delirium prediction compared with the model including clinical risk
+
+                                                                                                                                              7
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+factors only.
+All EEG data will be downloaded for off-line computational analysis. Data will be visualised and                            analysed using
+signal processing and statistical algorithms available in MatLab, and using algorithms developed in house by the study
+investigators. To address hypothesis 3·1, we will employ multitaper power spectral analysis,21 multitaper bivariate
+coherence analysis.18      We will also perform phase-amplitude modulation between low and high frequency EEG
+components.21 To address hypothesis 3·2, Segmentation of EEG recordings into burst and suppression periods will be
+performed in a semi-automated manner using an adaptation of previously described methods.22-24 We will quantify
+the depth of burst suppression using the burst suppression probability (BSP), a number between 0 and 1, which
+describes the instantaneous probability of the EEG being in a state of suppression. A BSP value of 0 corresponds to a
+continuously active EEG with no suppression, whereas a value of 1 corresponds to a completely isoelectric or
+suppressed EEG.
+5. POWER ANALYSIS
+The  primary  objective  of  this  study  is  to  detect  a  difference  in  the  incidence  of  ICU  delirium  between  the
+dexmedetomidine-induced sleep and normal care groups. Assuming a delirium event rate of 15%, a type I error of
+0·05, and power of 0·90, an n = 185 patients per group will enable us to detect an absolute difference 10% (i.e., 15%
+versus 5%). With respect to decreased morbidity and healthcare costs, this change represents a clinically meaningful
+difference. Therefore, we will recruit up to 370 patients total           who receive the study intervention on postoperative day
+0.
+6. REMUNERATION
+Patients will not be compensated for this study.
+
+7. RISK AND DISCOMFORT
+Dexmedetomidine risks: The risks involved in the administration of dexmedetomidine include nausea, xerostomia,
+atrial fibrillation, and transient hypertension during drug loading. The significant risks involved are directly related to
+a drug induced reduction in sympathetic activity, resulting in hypotension and bradycardia. Rare case reports of sinus
+arrest in instances of rapid drug administration and in patients with a high resting vagal tone have also been described.
+Drug discontinuation, dose reduction, or the use of vasoactive substances causes a return of these hemodynamic
+parameters to baseline. All subject hemodynamic parameters will be continuously monitored to ensure that appropriate
+medical intervention will be instituted for any clinically significant hypotensive or bradycardic episodes. In addition,
+most of our study subjects will have temporary pacemakers in place for routine post-surgical heart-rate management.
+Since dexmedetomidine maintains the respiratory rate and we are only administering a one-time dose (similar to our
+recently completed proof of concept study in healthy volunteers; NCT01485393), there is no concern for respiratory
+compromise.
+
+EEG risks: The risks associated with EEG electrodes are redness and irritation at placement site.
+Psychological risks: Psychological risks include the possibility of claustrophobia within the scanner.
+Questionnaire risks: Minimal risks associated with completing questionnaires are subject fatigue and the possibility
+of minor psychological distress associated with answering sensitive questions regarding psychological functioning.
+Data risks:     Procedures are in place to reduce the likelihood of a breach of confidentiality including the de-
+identification of data and storage of data only on partners approved devices/portals. However, there is a small risk that
+people outside of this study may be exposed to information about study subjects.
+8. POTENTIAL BENEFITS
+Subjects will have no direct benefit from taking part in this study. Findings from these studies will help advance our
+understanding of the pathophysiology of delirium. In particular, this project will assess the role of sleep induction and
+neuroinflammation in the establishment and/or maintenance of delirium. As such, we envision that in the future the
+information obtained from the proposed research will enhance the diagnosis and management of delirium.
+
+                                                                                                                                             8
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+9. MONITORING AND QUALITY ASSURANCE
+No identifiers other than study ID’s will be included in the dataset. Thus, all data will be deidentified and data will be
+stored on password protected partners computers and cluster for off-line analysis.                       The proposed study will be
+monitored for safety, with monthly staff meetings reviewing adverse events and treatment outcomes and directly
+reporting any adverse events. The PI will also routinely monitor and assure the validity and integrity of collected data
+and adherence to the IRB-approved protocol. The trained staff members who carry out the procedures will also
+carefully monitor the study throughout its duration. The team will evaluate the progress of the study, verify that the
+rights and wellbeing      of the subjects are protected, verify that the reported study data are accurate, complete and
+verifiable from source documents, and the conduct of the study is in compliance with the approved protocol and
+amendments. Outcome monitoring and adverse events will all be reported through appropriate channels of the Human
+Studies Committee. A DSMB will also oversee this study.
+Unanticipated problems involving risks to subjects or others including adverse events will be reported to the PHRC
+in accordance with PHRC unanticipated problems including adverse events reporting guidelines, as well as the RDRC
+within 5 days.
+
+10. SUPPLEMENTARY ANALYSIS
+In a supplementary analysis data from the MINDDS study will be combined with data and specimens from the
+Maximizing trEatment of Neurological Dysfunction using INtravenous Guanfacine (                       MENDING) study in an effort
+to help determine future routes of study of the alpha2 agonism on delirium and              acquired-dementia/Alzheimer’s disease
+and related dementias (ADRD)          . This collaboration will be established between MGH and Vanderbilt University
+Medical Center in order to share data and specimens for analysis.
+Briefly, the MENDING trial leverages resources              from three ongoing NIH       -funded trials. Patients in the MENDING
+trial have been enrolled into one of the ongoing prospective studies through the                 Critical Illness, Brain Dysfunction,
+and Survivorship (CIBS) Center at Vanderbilt, all of which have daily delirium monitoring and 3- and 12-month
+cognitive assessments. These include the Illuminating Neuropsychological Dysfunction and Systemic Inflammatory
+Mechanisms Gleaned After Hospitalisation in Trauma-ICU (INSIGHT-ICU) study (R01GM120484, PI: Patel), the
+Measuring Outcomes of Activity in Intensive Care (MOSAIC) study (K76AG054864, PI: Brummel); and the Bringing
+to light the Risk factors And Incidence of Neuropsychological dysfunction in ICU Survivors, 2nd (BRAIN-ICU-2)
+study (R01AG058639, PI: Ely). Patients enrolled into one of these parent observational studies will subsequ                          ently
+be consented for      enrolment into the MENDING clinical trial, which evaluates the role of                        the alpha-2 agonist
+guanfacine. All study procedures for the MENDING trial at Vanderbilt are covered under their local IRB (Protocol
+202000). Additionally, the consent for all MENDING studies includes approval to share data and specimens to
+evaluate mechanisms and associations with delirium, consistent with the aims of the MINDDS study. Thus, sharing
+of specimens and data will be consistent with future use described in the informed consent. Data collected from the
+MENDING study will be used in conjunction with neurocognitive data from the MINDDS study in interpreting the
+potential of alpha-2 agonism on delirium and ADRD.
+All data shared between institutions will be           coded so that the collaborating institution cannot identify individual
+participants. This limited dataset will only include dates (of neurocognitive assessments, admission/discharge) and
+ages over 89. All other identifiable aspects of data will be removed. No other identifiable information will be shared.
+If possible a completely deidentified data set will be shared between institutions. Data and specimen sharing will be
+bi-directional in order to study of the alpha2 agonism on delirium. Appropriate data and material transfer agreements
+will be obtained between sites prior to sharing of any data or specimens.
+
+                                                                                                                                          9
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+References
+
+1.   American Psychiatric Association., American Psychiatric Association. DSM-5 Task Force. Diagnostic and
+     statistical manual of mental disorders : DSM-5. 5th ed. Washington, D.C.: American Psychiatric Association;
+     2013.
+2.   Maldonado JR. Neuropathogenesis of delirium: review of current etiologic theories and common pathways. The
+     American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry
+     2013;21:1190-222.
+3.   O'Keeffe S, Lavan J. The prognostic significance of delirium in older hospital patients. Journal of the American
+     Geriatrics Society 1997;45:174-8.
+4.   McCusker J, Cole MG, Dendukuri N, Belzile E. Does delirium increase hospital stay? Journal of the American
+     Geriatrics Society 2003;51:1539-46.
+5.   Francis J, Martin D, Kapoor WN. A prospective study of delirium in hospitalized elderly. Jama 1990;263:1097-
+     101.
+6.   Pandharipande PP, Girard TD, Jackson JC, et al. Long-term cognitive impairment after critical illness. The New
+     England journal of medicine 2013;369:1306-16.
+7.   Fong TG, Tulebaev SR, Inouye SK. Delirium in elderly adults: diagnosis, prevention                        and treatment. Nature
+     reviews Neurology 2009;5:210-20.
+8.   Gross AL, Jones RN, Habtemariam DA, et al. Delirium and Long-term Cognitive Trajectory Among Persons
+     With Dementia. Archives of internal medicine 2012;172:1324-31.
+9.   Leslie DL, Marcantonio ER, Zhang Y, Leo-Summers L, Inouye SK. One-year health care costs associated with
+     delirium in the elderly population. Archives of internal medicine 2008;168:27-32.
+10.  Ely EW, Margolin R, Francis J, et al. Evaluation of delirium in critically ill patients: validation of the Confusion
+     Assessment Method for the Intensive Care Unit (CAM-ICU). Critical care medicine 2001;29:1370-9.
+11.  Rudolph JL, Inouye SK, Jones RN, et al. Delirium: an independent predictor of functional decline after cardiac
+     surgery. Journal of the American Geriatrics Society 2010;58:643-9.
+12.  Cerejeira J, Firmino H, Vaz-Serra A, Mukaetova-Ladinska EB. The neuroinflammatory hypothesis of delirium.
+     Acta neuropathologica 2010;119:737-54.
+13.  Norden DM, Godbout JP. Review: microglia of the aged brain: primed to be activated and resistant to regulation.
+     Neuropathology and applied neurobiology 2013;39:19-34.
+14.  Cunningham C. Systemic inflammation and delirium: important co-factors in the progression of dementia.
+     Biochemical Society transactions 2011;39:945-53.
+15.  Ingiosi AM, Opp MR, Krueger JM. Sleep and immune function: glial contributions and consequences of aging.
+     Current opinion in neurobiology 2013;23:806-11.
+16.  Vacas S, Degos V, Feng X, Maze M. The neuroinflammatory response of postoperative cognitive decline. British
+     medical bulletin 2013;106:161-78.
+17.  Zhu B, Dong Y, Xu Z, et al. Sleep disturbance induces neuroinflammation and impairment of learning and
+     memory. Neurobiology of disease 2012;48:348-55.
+18.  Purdon PL, Pavone KJ, Akeju O, et al. The Ageing Brain: Age-dependent changes in the electroencephalogram
+     during propofol and sevoflurane general anaesthesia. British journal of anaesthesia 2015;115 Suppl 1:i46-i57.
+19.  Inouye SK, van Dyck CH, Alessi CA, Balkin S, Siegal AP, Horwitz RI. Clarifying confusion: the confusion
+     assessment method. A new method for detection of delirium. Annals of internal medicine 1990;113:941-8.
+20.  Ely EW, Inouye SK, Bernard GR, et al. Delirium in mechanically ventilated patients: validity and reliability of
+     the confusion assessment method for the intensive care unit (CAM-ICU). Jama 2001;286:2703-10.
+21.  Purdon  PL,  Pierce  ET,  Mukamel  EA,  et  al.  Electroencephalogram  signatures  of  loss  and  recovery  of
+     consciousness from propofol. Proc Natl Acad Sci U S A 2013;110:E1142-51.
+22.  Brandon Westover M, Shafi MM, Ching S, et al. Real-time segmentation of burst suppression patterns in critical
+     care EEG monitoring. Journal of neuroscience methods 2013;219:131-41.
+23.  Lewis LD, Ching S, Weiner VS, et al. Local cortical dynamics of burst suppression in the anaesthetized brain.
+     Brain : a journal of neurology 2013;136:2727-37.
+24.  Brandon Westover M, Ching S, Kumaraswamy VM, et al. The human burst suppression electroencephalogram
+     of deep hypothermia. Clinical neurophysiology : official               journal of the International Federation of Clinical
+     Neurophysiology 2015;126:1901-14.
+25.  Chemali JJ, Wong KF, Solt K, Brown EN. A state-space model of the burst suppression ratio. Conference
+     proceedings :  Annual International Conference of the IEEE Engineering in Medicine and Biology Society IEEE
+     Engineering in Medicine and Biology Society Annual Conference 2011;2011:1431-4.
+
+                                                                                                                                       10
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+26.  Chemali J, Ching S, Purdon PL, Solt K, Brown EN. Burst suppression probability algorithms: state-space methods
+     for tracking EEG burst suppression. Journal of neural engineering 2013;10:056017.
+
+                                                                                                                                       11
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+SUPPLEMENTARY APPENDIX 3. History of Changes to the IRB Approved Protocol
+
+ Protocol Version                   Summary of Changes
+ 09/22/2016                         Original IRB Approved Protocol
+
+ 12/15/2016                         The use of the Mini Cog as an alternative was removed. Timing of assessments was
+                                    changed from 1, 2, 3 and 12 months to only evaluate patients up to six months
+                                    postoperatively. The use of a Compumedics Portable PSG monitoring device was added
+                                    for exploratory data collection.
+
+                                    Rationale: Changes to the cognitive assessment battery were removed to streamline the
+                                    number of assessments performed and reduce variation in reliability across measures.
+
+ 04/12/2017                         The amount of compensation was reduced to $45 per study participant.
+
+                                    Rationale: Given existing issues collecting in which social security number was required
+                                    in order to process reimbursements, the amount of compensation as reduced so that this
+                                    would no longer be required in order to process the payment.
+
+ 4/18/2017                          This amendment changes the duration of drug administration from 10 minutes to 40
+                                    minutes. Sampling timepoints for blood biomarkers were changed from daily in the
+                                    cardiac surgical ICU to an intraoperative sample (collected on the morning of surgery in
+                                    the operating room) and a sample collected on the morning of postoperative day 1.
+
+                                    Rationale: Changes in the drug administration duration were made in order to reduce
+                                    the possibility of unblinding because of hemodynamic instability, thus ensuring the
+                                    integrity of randomisation and concealment. Changes to the blood sampling timepoints
+                                    were made in relation to resource considerations but it is believed these amended
+                                    timepoints   represent   clinically   important   timepoints   in   which   proteomic   and
+                                    inflammatory profiles of patients will be most robust.
+
+ 06/05/2017                         This  amendment  involves  the  addition  of  the  PROMIS-4A  Sleep  Disturbance
+                                    questionnaire to be assessed at the same time point as the other PROMIS assessments
+                                    (baseline, 30, 90,     and 180 days). The study exclusion criteria was also amended to
+                                    remove the following criterion: (1) obstructive sleep apnoea (OSA) requiring nighttime
+                                    mechanical ventilation assistance, and (2) residence greater than 100 miles from MGH.
+
+                                    Rationale:    Eligibility criteria was updated to be consistent with the targeted patient
+                                    population for     enrolment. Exclusions for distance from the hospital were originally
+                                    implemented because of restrictions to return to the hospital at follow up, however given
+                                    the ability to perform telephonic assessments, this was removed. Recent literature has
+                                    suggested that OSA is associated with an increased risk of delirium, so the exclusion
+                                    criteria was removed to ensure patients with OSA, who are at risk of the primary
+                                    outcome, were not inappropriately excluded, thus limiting the                 generalisability    of the
+                                    study findings. The addition of the sleep questionnaire was implemented because of
+                                    recommendations by the DSMB to capture quality of sleep at baseline.
+
+ 07/31/2017                         The following changes were included in this amendment: (1) Patients will be censored
+                                    from the study if they do not receive the study intervention. (2) Only patients whose
+                                    surgeries are the first case of the day, and/or commence by 12pm on the day of surgery,
+                                    will be approached for written consent. (3) Patients who undergo a second surgery
+                                    during their hospital stay and/or remain intubated for over 12 hours will not be subject
+                                    to further study procedures. (4) Length of hospital stay will be tracked as a secondary
+
+                                                                                                                                         12
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+                                     outcome measure rather than readiness for CSICU and hospital discharge. (5) Nighttime
+                                     EEG data may be collected during the patients’ intensive care unit stay.
+
+                                     Rationale: Censoring criteria was added to truly reflect 300 subjects who receive the
+                                     intervention on study day 0, in an effort to better elucidate the true relationship between
+                                     dexmedetomidine and placebo among patients who received the study drug on day 0.
+                                     Limits were placed on second case surgery because of the perception that these patients
+                                     would not be extubated prior to the drug administration cut-offs on postoperative day 0,
+                                     thus excluding them from the possibility of receiving the study drug. Outcomes were
+                                     adapted as Epic reporting of patient readiness for discharge are variable an instead
+                                     dates of hospital discharge are more objective. Criteria was added to ensure protocol
+                                     procedures for ancillary, exploratory outcomes were appropriately reflected in the study
+                                     procedures.
+
+ 10/03/2017                          The dropout criteria added in the previous amendment has been removed. Instead all
+                                     patients extubated before 2AM are now eligible for drug administration.  The duration
+                                     of delirium assessments has been limited to day 3 for patients who did not experience
+                                     delirium, with an option to continue to assess delirious patients until day 7 depending
+                                     on their status.
+
+                                     Rationale: The dropout criteria has been removed to ensure generalisability of our results
+                                     and increase accrual rates. Reduction in the number of assessments of non-delirious
+                                     patient was performed in an effort to improve retention rates for subsequent long term
+                                     follow up.
+
+ 12/13/2017                          Based off a suggestion during publication of the protocol paper, the power calculation
+                                     was updated to reflect a lower incidence of delirium.
+
+                                     Rationale: At the time of peer review of the protocol paper it was suggested that the
+                                     power be      re-evaluated    given the current literature that suggested an incidence of
+                                     delirium was much lower that the effect estimates on which the study was based (i.e.
+                                     48% vs 15%). The power was thus estimated without unblinding the data and instead
+                                     the study was powered to a baseline incidence of 15% in the control group. The sample
+                                     size was thus adjusted accordingly.
+
+ 01/04/2018                          The study protocol was amended to allow D5W to be supplemented in place of normal
+                                     saline in the event of a saline shortage. Rationale: These changes were made as a result
+                                     of a nationwide hospital shortage of saline supply.
+
+ 07/02/2018                          This amendment removed compensation for subjects and updated the study contacts.
+
+                                     Rationale: This amendment was required because of a new institutional policy requiri                    ng
+                                     social security numbers from all enrolled participants in order to receive compensation.
+                                     Based off existing and previous issues obtaining this from participants, the study team
+                                     decided to cease all renumerations.
+
+ 01/25/2019                          This amendment replaced the current primary care physician care satisfaction questions
+                                     in the subjects' baseline assessments with the Trust in Physician Scale (TPS) survey. The
+                                     study population was also be updated from 300 to 370.
+
+                                     Rationale: The previous care satisfaction was team-generated, and was replaced in
+                                     order to use a validated, reliable measure for assessment, and to allow comparison with
+                                     previous literation. The study sample was updated from 300 consented to 370 consented
+                                     individuals to account for potential dropout of participants who might consent at clinic
+                                     verbally but would ultimately decline to participate on the day of surgery.
+
+                                                                                                                                            13
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+ 07/06/2020                         SARS-CoV-2 or SARS-CoV-2-like symptoms were added to the study protocol as both
+                                    study exclusion and dropout criteria. Rationale: This amendment to the study inclusion
+                                    was implemented to reduce the possibility of transmission, particularly for the safety of
+                                    the study team.
+
+ 10/28/2020                         The detailed protocol was edited to clarify that we intend to enrol 370 patients in the
+                                    study who receive the study intervention on postoperative day 0. Therefore, we will aim
+                                    to enrol/consent 530 patients total.
+
+                                    Rationale: Although the study still aims to only enrol 370 subjects who received the
+                                    study intervention on day 0, this amendment was required in order to allow screening
+                                    and consent of additional subjects who may ultimately dropout after not meeting the
+                                    eligibility criteria. This amendment was required to clarify that point in the protocol.
+
+ 12/15/2020                         This study protocol was amended to include the addition of data and specimen sharing
+                                    with Vanderbilt University Medical Center.
+
+                                    Rationale:     Data  and  blood  specimens  from  the  study  Maximizing  trEatment  of
+                                    Neurological Dysfunction using INtravenous Guanfacine (MENDING) may be shared
+                                    with  investigators  in  order  to  evaluate  characteristics  of  delirium  between  the
+                                    MENDING and MINDDS study cohorts.
+
+                                                                                                                                          14
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+SUPPLEMENTARY APPENDIX 4. Statistical Analysis Plan
+
+           Minimizing ICU neurological dysfunction with dexmedetomidine-induced sleep (MINDDS):
+                                            A randomised placebo-controlled trial
+                                                           NCT02856594
+
+                                                     Statistical Analysis Plan
+
+                               Statistical Analysis Plan (SAP) Version: 1·0: August 22, 2021
+
+Principal Investigator:                  Oluwaseun Johnson-Akeju, M.D., M.M.Sc
+                                         Massachusetts General Hospital
+                                         Department of Anesthesia, Critical Care and Pain Medicine
+
+Senior Biostatistician(s):               Hao Deng, MD MPH DrPH(c); Timothy Houle, PhD
+                                         Massachusetts General Hospital
+                                         Department of Anesthesia, Critical Care and Pain Medicine
+                                         Anesthesia Research Center (ARC)
+
+Biostatistician:                         Jiawei Meng, MPH
+                                         Massachusetts General Hospital
+                                         Department of Anesthesia, Critical Care and Pain Medicine
+                                         Anesthesia Research Center (ARC)
+
+                                                                                                                                     15
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+Introduction
+
+Background and Rationale
+Delirium is an acute brain dysfunction characterised by disturbances in attention, awareness and cognition not explained
+by a pre-existing neurocognitive disorder. Although the increased mortality rates ascribed to delirium remain debatable,
+delirium remains a leading cause of preventable morbidity in hospitalised elderly patients. It is also associated with
+prolonged hospitalisation, prolonged institutionalisation, and long-term cognitive deficits. Patients with pre-existing
+dementia, such as Alzheimer’s disease, are especially vulnerable to developing delirium. The total healthcare cost
+attributable to delirium is estimated between $143 and $152 billion annually. In the United States, delirium occurs in
+approximately 80% of critically ill patients admitted to medical/surgical intensive care units (ICU), and 43% of patients
+admitted to cardiac surgical (CS) ICU. Most patients diagnosed with delirium also present with multiple comorbidities
+(sepsis,  multi-organ  failure)  that  significantly  confound  our  understanding  of  this  disease.  Thus,  to  date,  no
+pharmacological intervention to treat delirium has been identified.
+
+The aging process has previously been identified as a risk factor for developing delirium. Normal aging is associated
+with a morphological shift of glia (microglia, astrocytes) to an activated state. Following a systemic challenge such as
+critical illness, this activated glia aid a neuroinflammatory state that contributes to delirium. The neuroinflammatory
+state is exacerbated by sleep disturbances. Thus, sleep deprivation may be a modifiable risk factor for the development
+of delirium. Presently, pharmacological treatment with no current medication (benzodiazepines, antipsychotics) induces
+natural sleep or reliably reduces the incidence of delirium. We have found that pharmacological induction of rapid eye
+movement sleep (REM) and non-REM I-III sleep states using dexmedetomidine, can now be safely achieved in humans.
+Our overall objective is to evaluate the efficacy of dexmedetomidine-induced sleep-in preventing delirium, investigate
+cellular and molecular mechanisms underlying delirium, and investigate whether recently described intraoperative
+electroencephalogram (EEG) signatures of the aging brain are associated with developing delirium. Our central
+hypothesis is that nightly biomimetic sleep-in elderly patients admitted to the CSICU for greater than 24 hours will
+reduce the incidence of ICU delirium.
+
+Our intervention and control groups will be comprised of extubated CSICU patients, because their homogeneity in
+terms of surgical procedures,          anaesthetic    management, and systemic inflammatory response represents a unique
+opportunity to study the mechanisms underlying delirium, while limiting confounding factors that may otherwise be
+encountered in heterogeneous patients found in the medical/surgical ICU. We will perform assessments of cognition
+(perioperative), obtain EEG recordings (intraoperative, ICU) and blood samples (perioperative).
+
+At the conclusion of these studies, we will have expanded our knowledge of the pathophysiology of delirium, evaluated
+a new pre-emptive therapeutic strategy for delirium, suggest neurophysiologically based monitoring strategies to reduce
+significantly the amount of anaesthetic administered to elderly patients – and possibly delirium – while being certain
+the patient is sufficiently unconscious for surgery (individualised anesthesia care), and enabling continued investigation
+into the pathophysiology of this clinically important disorder.
+
+Objectives
+
+Primary Objectives
+The primary aim of the study is to investigate, via administration of dexmedetomidine or placebo postoperatively, the
+benefits of pre-emptive biomimetic sleep for reducing the risk of postoperative delirium in a randomised controlled
+trial.
+
+           Hypothesis 1. Incidence of Delirium
+           The null hypothesis (H0) is that the probability of delirium in the placebo group is equal to the probability of
+           delirium in the dexmedetomidine-induced sleep group. The alternative hypothesis (H1) is that the probability
+           of delirium in the dexmedetomidine           -induced sleep group is less than the probability of delirium in placebo
+           group. In statistical terms:
+                                                              H0: Pdexmedetomidine = Pplacebo
+                                                              H1: Pdexmedetomidine < Pplacebo,
+           where P is the probability of delirium.
+
+Secondary Objectives
+
+                                                                                                                                               16
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+There are six main secondary objectives. We aimed to investigate the influence of pre-emptive biomimetic sleep on
+ICU- and hospital-delirium/coma-free days, length of hospital stay, 30-day, 90-day, and 180-day mortality, cognitive
+testing variables and other health related quality of life measures.
+
+           Hypothesis 2. ICU and Hospital Delirium/Coma Free Days
+           The null hypothesis is that the ICU and hospital delirium/coma free days in the placebo group is equal to the
+           ICU and hospital delirium/coma free days in the dexmedetomidine-induced sleep group. The alternative
+           hypothesis is that the ICU and hospital delirium/coma free days in dexmedetomidine-induced sleep group is
+           greater than the ICU and hospital delirium/coma free days in the placebo group. In statistical terms:
+                                                               H0: μdexmedetomidine = μplacebo
+                                                               H1: μdexmedetomidine > μplacebo,
+           where μ is the ICU and Hospital delirium/coma free days.
+
+           Hypothesis 3. Severity of Delirium
+           The null hypothesis is that the severity of delirium in the placebo group is equal to the severity of delirium
+           in the dexmedetomidine-induced sleep group. The alternative hypothesis is that the severity of delirium in
+           the dexmedetomidine-induced sleep group is less than the severity of delirium in placebo group. In statistical
+           terms:
+                                                               H0: μdexmedetomidine = μplacebo
+                                                               H1: μdexmedetomidine < μplacebo,
+           where μ is the severity of delirium.
+
+           Hypotheses 4a and 4b. Length of Hospital and ICU Stay
+           The null hypothesis is that the length of hospital/ICU stay in the placebo group is equal to the length of
+           hospital/ICU stay in the dexmedetomidine-induced sleep group. The alternative hypothesis is that the length
+           of hospital/ICU stay in the dexmedetomidine-induced sleep group is less than the length of hospital/ICU
+           stays in placebo group. In statistical terms:
+                                                               H0: μdexmedetomidine = μplacebo
+                                                               H1: μdexmedetomidine < μplacebo,
+           where μ is the length of hospital/ICU stay.
+
+           Hypotheses 5a, 5b, and 5c. 30-day, 90-day, and 180-day Mortality
+           The  null  hypothesis  is  that  the  mortality  in              the  placebo  group  is  equal  to  the  mortality  in  the
+           dexmedetomidine-induced   sleep   group.   The   alternative   hypothesis   is   that   the   mortality   in   the
+           dexmedetomidine-induced sleep group is less than the mortality in placebo group. In statistical terms:
+                                                               H0: μdexmedetomidine = μplacebo
+                                                               H1: μdexmedetomidine < μplacebo,
+           where μ is the 30-day, 90-day, or 180-day mortality.
+
+           Hypothesis 6. Postoperative Cognitive Status
+           The null hypothesis is that for all scales related to postoperative cognitive status in the placebo group is equal
+           to that in the dexmedetomidine-induced sleep group. The alternative hypothesis is that for all scales related
+           to postoperative cognitive status the dexmedetomidine-induced sleep group will be superior to the placebo
+           group. In statistical terms:
+                                                               H0: μdexmedetomidine = μplacebo
+                                                               H1: μdexmedetomidine > μplacebo,
+           where μ is all scales related to postoperative cognitive status.
+
+           Hypothesis 7. Postoperative Health Related Quality of Life
+           The null hypothesis is that for all scales related to postoperative health related quality of life in the placebo
+           group is equal to that in the dexmedetomidine-induced sleep group. The alternative hypothesis is that for all
+           scales related to postoperative health related quality of life in the dexmedetomidine-induced sleep group will
+           be superior to the placebo group (with direction of effect appropriate to scaling of each scale/subscale). In
+           statistical terms:
+                                                               H0: μdexmedetomidine = μplacebo
+                                                               H1: μdexmedetomidine > μplacebo,
+
+                                                                                                                                                 17
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+          where μ is all scales related to postoperative health related quality of life.
+
+Trial Methods
+
+Overall Design
+In this randomised, double-blinded, controlled, single-site, parallel-arm superiority trial, eligible patients will be
+randomised to receive either dexmedetomidine or placebo with a 1:1 allocation.
+
+The primary outcome – incidence of delirium –  will be defined as the presence or absence of a positive delirium
+assessment at either the morning or afternoon assessment on postoperative day one using the Confusion Assessment
+Measure (CAM), as described below. Multiple sources of outcome assessment such as clinical assessment,
+adjudication committee assessment and a natural language processing (NLP) method are available, therefore these
+three methods will be evaluated in planned sensitivity analysis.
+
+For secondary outcomes, ICU and hospital delirium/coma-free days assessed two times per day until postoperative
+day three. Delirious patients will be assessed until postoperative day five. If delirium does not resolve by postoperative
+day five, assessments will continue until postoperative day seven or hospital discharge, whichever comes first.
+Severity of delirium will be assessed using the CAM delirium severity scoring long form at the time of delirium
+assessments. Length of hospital stays will be measured from admission until discharge and assessed by chart review.
+Mortality up to day 180 will be assessed by chart review, and/or elicited from family members during follow-up calls
+at 30 days, 90 days, and 180 days postoperatively. Postoperative cognitive status and health related quality of life will
+be assessed via telephone interviews and/or online questionnaires at 30 days, 90 days, and 180 days postoperatively.
+
+Randomisation
+Participants will be randomised into treatment arms in a 1:1 ratio using permuted blocks of sizes 4 to 8. Randomisation
+assignments will be stratified by cardiac surgery status (i.e., cardiac vs non-cardiac surgery). The ‘blockrand’ package
+in R will be used and the randomisation will be conducted by a statistician otherwise uninvolved with the study.
+Allocation concealment will be maintained using a centralised pharmacy administration of study drug. Participants
+will be allocated to a treatment arm by a member of the research team at confirmation that the participant meets
+eligibility criteria. Both study agents are designed to look identical to each other to maintain blinding, and study staff
+will remain blinded throughout the study.
+
+Outcomes
+
+Primary Outcomes
+The primary outcome will be the presence or absence of a positive delirium assessment on postoperative day 1 using
+the long-Confusion Assessment Measure (CAM). Patients will be assessed twice daily, therefore the patient will be
+considered delirious on postoperative day one if delirium is present at either the morning or afternoon assessment.
+
+Secondary Outcomes
+For the secondary measures, in-hospital outcomes will be evaluated by in-person assessments during hospitalisation
+and medical record review. Post-discharge measures will be assessed via the medical record or by telephone interview
+at 30, 90, and 180 days post-procedure. The following variables will be measured:
+
+          ICU and Hospital Delirium/Coma-Free Days
+          ICU and hospital delirium/coma-free days will be assessed two times per day until postoperative day 3.
+          Delirious patients will be assessed until postoperative day 5. If delirium does not resolve by postoperative
+          day 5, assessments will continue until postoperative day 7 or hospital discharge, whichever comes first. The
+          risk period for Delirium/Coma-Free Days will be calculated out of 3 days (i.e., 3                     – number of days of
+          delirium). On days where delirium is not assessed due to participant discharge, ‘no delirium’ will be imputed.
+
+          Severity of Delirium
+          Severity of delirium features scored using the CAM delirium severity score long form will be assessed in all
+          participants. The severity score will be calculated as the maximum score from the twice-daily assessments.
+          If only one daily assessment is completed, that score will be used as the severity score.
+
+                                                                                                                                       18
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+           Length of Hospital Stay
+           Length of hospital stay (date of discharge – date of surgery).
+
+           Inpatient Mortality and Major Inpatient Morbidity
+           Inpatient   mortality and major inpatient morbidity. The following specific outcomes will be evaluated:
+           readmission, surgical site infection, reoperation for bleeding, stroke, renal failure, sternal wound infection.
+
+           Cognitive Function
+           Cognitive function will be assessed using the abbreviated Montreal Cognitive Assessment total score.
+
+           Physical Function
+           Physical function will be defined using the Patient-Reported Outcomes Measurement Information System®
+           Short Form (PROMIS SF) V.1.2—Physical Function 8b final score. This will be assessed at baseline, at 30,
+           90 and 180 days. The T-score from each standardised metric will be used in analysis.
+
+           General Health
+           The global health score will be defined from the PROMIS SF V.1.1—Global Health Short Form. From this
+           assessment the overall score, the mental subscale, and the physical subscale will be                    analysed and reported.
+           The T-score from each standardised metric subscales will be used in analysis.
+
+           Pain
+           Pain will be defined using the pain interference final score from the PROMIS SF V.1.0—Pain Interference
+           8a instrument. The T-score from each standardised metric will be used in analysis.
+
+           Applied Cognition
+           Applied cognition abilities will be reported as the final score with the PROMIS V.1.0—Applied Cognition
+           Abilities SF 8a. The T-score from each standardised metric will be used in analysis.
+
+           Sleep Quality
+           Sleep quality is defined as a raw sum score with the PROMIS V.1.0—Sleep Disturbance 4A. The T-score
+           from each standardised metric will be used in analysis.
+
+           Mortality
+           Mortality will be assessed by chart review, and/or elicited from family member during follow-up calls. This
+           will occur at 30, 90 and 180 days.
+
+Patient Demographics and Ancillary Characteristics
+Patient characteristics will be evaluated and described that clearly define the population being examined, including
+demographic information (e.g., age, gender, race/ethnicity, and education). No information will be reported or
+displayed that allow identification of the individual participants. Patient characteristics unrelated to basic demographic
+information that help define the population will also be evaluated (e.g. surgical procedure).
+
+Sample Size and Statistical Power
+
+Sample Size
+The  primary     objective  of  this  study  is  to  detect  a  difference  in  the  incidence  of  ICU  delirium  between  the
+dexmedetomidine-induced sleep and placebo groups. Assuming a delirium event rate of 15%, a type I error of 0·05,
+and power of 0·90, a sample size of n = 185 patients per group will enable us to detect an absolute difference of 10%
+(i.e., 15% versus 5%). With respect to decreased morbidity and healthcare costs, this change represents a clinically
+meaningful difference. Therefore, we will recruit up to 370 patients                    total who receive the study intervention on
+postoperative day 0.
+
+Interim and Final Analyses
+
+Interim Analyses
+
+                                                                                                                                            19
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+There are no planned interim analyses. Confidential review of safety events will be performed by a Data Safety
+Monitoring Board (DSMB) routinely, and we will not apply stopping rules for futility or superiority.
+
+Ending the Trial
+Enrolment     will cease when the target enrolment is obtained. The final analysis will proceed when all follow-up
+measurements are completed and the databased is cleaned and                 locked.
+
+Analysis Populations
+
+          Modified Intent-To-Treat Analysis Set
+          The Modified Intent-To-Treat (mITT) set is defined to be the set of all participants who were randomised
+          and were not dropped from the study before the primary outcome                      assessment (postoperative day 1). The
+          mITT set will be used for the primary analysis.
+
+          Safety analysis set
+          This set consists of any randomised subjects who received any dose of the study drug or placebo at any
+          timepoint. This study sample will be used for secondary analyses.
+
+          Per-Protocol Analysis Set
+          The Per-Protocol (PP) analysis set will consist of the subjects in the mITT population, who received the drug
+          on study day zero.
+
+Protocol Deviations
+The numbers and proportions of participants with              protocol deviations and the numbers and proportions of days in
+which there are protocol deviations will be summarised by allocated group with details of type of deviation provided.
+
+Analyses
+
+Primary Analyses
+The primary outcome will be evaluated using logistic regression examining the presence or absence of delirium
+conditional on randomised group assignment (dexmedetomidine vs placebo) and the stratification variable used in
+randomisation (cardiac versus non-cardiac surgery type).
+
+Hypothesis testing will be two-tailed with statistical significance interpreted at p < 0·05.
+
+Secondary Analyses
+The secondary outcomes involve variables with a range of measurement types and expected distributions. The
+proposed methods are designed using the generalised linear model with estimation conditional on the treatment effect
+(dexmedetomidine vs placebo) and the stratification variable used in randomisation (cardiac versus non-cardiac
+surgery type). For binary outcomes, including the chart review definition of delirium and mortality, a binomial
+distribution with a logit link will be used. For continuously scaled outcomes with at least ordinal measurement
+properties, including severity of delirium, PROMIS function outcomes, pain, and sleep, a gaussian distribution with
+either an identity or log link will be used to accommodate deviations from normality. Secondary outcomes will be
+evaluated at each measurement occasion.
+
+Using the same formulation as above, time-to-event analyses will be used to compare the effects                      of dexmedetomidine
+and placebo on mortality, and CSICU and hospital lengths of stay. Cox proportional hazard models will be used for
+estimation and Kaplan-Meier survival curves will be used for graphical presentation of these time                     -to-event outcomes,
+with adjusted hazard ratios will be used to assess these effects. Censoring for CSICU or hospital discharge readiness
+analyses will occur at time of death or trial withdrawal.
+
+Missing Data
+Long-CAM assessments for patients who are reintubated for clinical care or for further surgical management will be
+considered as missing data for the primary analysis.
+
+                                                                                                                                           20
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+Due to the nature of the study methods and in-hospital timing of data collection, only small amounts of missing data
+are expected in the mITT set. If there are greater than 5% missing primary outcome assessments, a sensitivity model
+will be conducted to examine the impact of missing data on the treatment effect estimate for the primary outcome. A
+multiple imputation model will be conducted using all prognostic variables as outlined above. Additionally, the
+secondary outcome of chart review/NLP derived delirium will be used as a predictor in the multiple imputation model.
+The models will be conducted using multiple imputations by chained equations (MICE), with m = 20 iterations, using
+predictive mean matching algorithm (PMM). The pooled estimates will be combined using Rubin’s rules.
+
+Sensitivity Considerations
+Several sensitivity models are planned to evaluate the treatment effect estimates under the context of differing
+assumptions.
+
+The primary models will be re-specified adding a set of prognostic variables that might impact treatment effect. Age,
+preoperative cognitive function, cardiac condition, surgery duration, and sex will be specified as fixed covariate
+predictors, as these variables are known to be associated with presence of delirium. The conditional estimates based
+on this model will be informally compared to that from the primary model with predictions from this model used to
+estimate treatment effects.
+
+As above, treatment heterogeneity will be examined using interaction terms between cardiac condition, age, sex,
+preoperative cognitive function, surgery time (morning vs afternoon) and treatment assignment (e.g., age x treatment).
+Because such interaction terms are difficult to power, and subject to spurious associations, they will be treated as
+exploratory and used in a hypothesis-generating context.
+
+As above, in order to ensure treatment effects are sufficiently robust, baseline variables that are unexpectedly
+imbalanced (i.e., ASD > 0·10) will be entered into the models as covariates for the primary outcome model.
+
+As described in the missing data approach, a sensitivity analysis will be triggered if missing data is greater than 5%
+for the mITT sample.
+
+Although the number of individuals who are randomised but do not receive a study medication is expected to be small,
+an additional sensitivity analysis will be conducted by including these individuals in the analysis according to their
+randomisation assignment and imputing missing outcome assessments as described in the multiple imputation models.
+
+Safety
+The numbers and proportions of participants with death events and date of death, cause of death will be summar                            ised
+by allocated group with details.
+
+Statistical Software
+The latest versions of R (R core Team, Vienna, Austria) and RStudio (Boston, MA) will be used to examine all
+hypotheses and analyse all data.
+
+Consort (2010)
+A CONSORT Flow Diagram (2010) will be presented illustrating the number of individuals who were screened, were
+eligible for the trial, who withdrew from the study, and any other information that defines how the total number of
+participants in the intent to treat and per protocol analyses was generated. Included in this will be those who withdrew,
+why they withdrew, and at what point in the trial they withdrew. Any publications stemming from the analyses will
+conform to the CONSORT 2010 reporting guidelines.
+
+                                                                                                                                           21
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+Addendum 1
+12/8/2017 Clinical Trials Registration
+The clinical trial registration was updated to reflect a corrected target sample size of 370 patients for the per-protocol
+sensitivity analysis (it was erroneously listed as N = 300 on clinicaltrials.gov).
+
+Addendum 2
+On July 15, 2021, an unplanned, blinded interim analysis was conducted due to slow recruitment caused by COVID-
+19. Several simulation studies were conducted using the currently enrolled sample and the overall (i.e., pooled)
+primary outcome event rate.
+
+Below are summary data for context:
+
+     •     Total Randomised Cohort = 465 patients
+
+     •     Intention to Treat Cohort = 391 patients
+                o     Day 1 Delirium = 5·6% (primary outcome; lower than the 10% expected)
+
+Simulation results for ITT analysis based on the observed event rate: Using the ITT cohort to date, and assuming a
+two-tailed alpha = 0·05, and a 1:1 randomisation ratio, the study is powered to detect a difference of ± 3·2% from the
+marginal event rate of 5·6% for the two groups. This would suggest adequate power to detect a difference in
+proportions  if  the  group  delirium  rates  were  8·8%  and  2·4%  (or  more  extreme).  Enrolling  and  randomising
+approximately 100 additional patients would provide power to detect a ± 2·9% difference from the pooled rate (e.g.,
+8·5% vs 2·7%).
+
+Based on the results of simulations, it was concluded by the PI and study team that continuing to recruit patients into
+the MINDDS study posed diminishing returns in relation to the value of the added statistical power when compared
+to additional recruitment time and costs. Given that the observed event rate is lower than anticipated and that enrolling
+additional patients is unlikely to remediate the statistical power in relation to the original effect size assumptions, the
+study PI asked the statistical team to engage with the DSMB to ensure that there are no fundamental concerns to
+closing the study. Following approval from the DSMB, the study was closed to enrolment on July 29, 2021.
+
+                                                                                                                                            22
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+SUPPLEMENTARY APPENDIX 5. Planned Sensitivity Models
+
+ Prespecified Sensitivity Analyses for Primary Outcome
+                                                                                                        N            Odds Ratioa
+                                                                                                                        (95% CI)
+
+ Modified Intention to Treat Cohort
+
+ Model 1 (Primary): Adjusted for Cardiac Randomisation Strata Only                                     364         0·32 (0·10, 0·83)
+
+ Model 2 (Prognostic): Adjusted for Age, Preoperative Cognitive Function,                              364         0·31 (0·09, 0·88)
+   Cardiac Strata, Surgery Duration, and Sex
+ Model 3 (Multiple Imputation): Multiple Imputation Based on Delirium                                  394         0·33 (0·12, 0·91)
+   Keywords Chart Review and Prognostic Variables
+ Per Protocol Cohort
+
+ Model 1 (Primary):  Adjusted for Cardiac Randomisation Strata Only                                    312         0·23 (0·03, 0·91)
+
+ Model 2 (Prognostic): Adjusted for Age, Preoperative Cognitive Function,                              312         0·25 (0·04, 1·05)
+   Cardiac Strata, Surgery Duration, and Sex
+ Model 3 (Multiple Imputation): Multiple Imputation Based on Delirium                                  334         0·23 (0·05, 1·08)
+   Keywords Chart Review and Prognostic Variables
+
+ aEffect estimates are reported comparing the dexmedetomidine group to the placebo group (reference).
+ Abbreviations: CI (confidence interval), N (Number of Observations)
+
+                                                                                                                                      23
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+SUPPLEMENTARY APPENDIX 6. Post Hoc Sensitivity Analysis of the Primary Outcome Assuming
+Different Imputation Strategies and Utilising Fisher’s Exact Test
+
+                                                                             Placebo              Dexmedetomidine               P-Value
+                                                                             N = 206                    N = 188
+
+ Delirium on postoperative day one (as assessed)                           16/189 (8·5)               5/175 (2·9)                 0·035
+
+ Coded missing data on postoperative day one as                            16/206 (7·8)               5/188 (2·7)                 0·039
+ negative for delirium
+
+ Coded missing data on postoperative day one as                           33/206 (16·0)               18/188 (9·6)                0·078
+ negative for delirium
+
+ Coded missing data on postoperative day one as positive
+ for delirium if delirium was present on postoperative                     17/190 (9·0)               6/176 (3·4)                 0·046
+ day two
+
+ Coded missing data on postoperative day one as positive
+ for delirium if delirium was present on postoperative                     17/196 (8·7)               6/184 (3·3)                 0·043
+ day two, and negative for delirium if delirium was
+ absent on day two
+
+ Coded missing data on postoperative day one as positive
+ for delirium if delirium was present on postoperative                    27/200 (13·5)               10/180 (5·6)                0·013
+ day two or if data were missing on day two
+
+ Coded missing data on postoperative day one as positive
+ for delirium if delirium was present on postoperative                    27/206 (13·1)               10/188 (5·3)                0·012
+ day two or if data were missing on day two, and
+ negative for delirium if delirium was absent on day two.
+
+ The resulting p-values for Fishers Exact Test p-values were calculated by doubling the exact one-tailed probability.
+
+                                                                                                                                          24
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+SUPPLEMENTARY APPENDIX 7. Post Hoc Sensitivity Analysis Utilising Exact Logistic Regression for
+Outcomes with Low Event Rates in the Modified Intention-to-Treat Cohort
+
+                                                                                Effect Estimate c                 P Value
+                                                                                     (95% CI)
+
+        Univariate Models
+        Postoperative Day 1 Delirium (Primary Outcome)a                         0·32 (0·09, 0·94)                   0·036
+        Postoperative Delirium Days 1 to 3b                                     0·58 (0·27, 1·22)                    0·17
+        Surgical Site Infection                                                 0·73 (0·06, 6·43)                    1·00
+        Reoperation for Bleeding                                                0·55 (0·01, 10·57)                   1·00
+        Renal Failure                                                          3·32 (0·26, 175·35)                   0·56
+        In Hospital Mortality                                                  3·32 (0·26, 175·35)                   0·56
+        30 Day Mortality                                                       3·32 (0·26, 175·35)                   0·56
+        90 Day Mortality                                                       4·44 (0·43, 220·52)                   0·32
+        180 Day Mortality                                                       1·10 (0·20, 5·98)                    1·00
+        Models Conditional on Randomization Strata
+        Postoperative Day 1 Delirium (Primary Outcome)a                         0·32 (0·09, 0·94)                   0·036
+        Postoperative Delirium Days 1 to 3b                                     0·58 (0·27, 1·22)                    0·17
+        Surgical Site Infection                                                 0·69 (0·06, 6·17)                    1·00
+        Reoperation for Bleeding                                                0·54 (0·01, 10·39)                   1·00
+        Renal Failure                                                          3·29 (0·26, 173·55)                   0·56
+        In Hospital Mortality                                                  3·29 (0·26, 173·55)                   0·56
+        30 Day Mortality                                                       3·29 (0·26, 173·55)                   0·56
+        90 Day Mortality                                                       4·43 (0·43, 219·64)                   0·32
+        180 Day Mortality                                                       1·11 (0·20, 6·03)                    1·00
+        aA total of 30 participants (13 in dexmedetomidine group and 17 in the placebo group) were missing
+        the primary outcome, incidence of delirium on postoperative day 1.  bA total of 57 participants (28 in
+        dexmedetomidine group and 29 in the placebo group) had missing delirium assessments through
+        postoperative day three. No other data was missing unless specified. cEffect estimates are reported as
+        odds ratios comparing the dexmedetomidine group to the placebo group (reference).
+
+                                                                                                                                       25
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+SUPPLEMENTARY APPENDIX 8. Hypnotics, Analgesics, and Other Relevant Medications
+
+                                              Placebo                                     Dexmedetomidine
+                                              N = 206                                            N = 188                       P Value
+                                N Received                 Dose                    N Received                 Dose
+
+ Intraoperative Medications
+   Midazolam, mg                     145                  2 [2, 4]                     127                  2 [2, 4]             0·64
+   Propofol, mg                      174             687 [345, 1226]                   157             704 [332, 1222]           0·83
+   Fentanyl, mcg                     175              500 [500, 750]                   158              500 [500, 750]           0·38
+   Hydromorphone                     134              1·0 [0·5, 1·5]                   124               1·0 [0·5, 1·5]          0·78
+   Etomidate                          5                 16 [15, 18]                     6                 20 [20, 20]            0·16
+   Morphine, mg                      23                 10 [10, 20]                     10                10 [10, 20]            0·31
+ Administered After Extubation Until 6PM on Postoperative Day 1
+   Fentanyl, mcg                     11                50 [25, 150]                     11               100 [50, 200]           0·39
+   Haloperidol                       11             1·00 [0·50, 1·50]                   8              1·00 [0·75, 1·75]         0·93
+   Oxycodone                         118            30·0 [20·0, 45·0]                  120             37·0 [25·0, 47·5]         0·44
+   Ketorolac                         12                 30 [30, 60]                     14                30 [30, 60]            0·89
+   Lorazepam                          3             0·50 [0·25, 1·00]                   2              0·50 [0·50, 0·50]         1·00
+   Tylenol                           155            1950 (1300, 2275)                  135            1950 (1300, 2600)          0·19
+ Data is presented as median [quartile 1, quartile 3. The p-values compares the dose of each medication among
+ those who received it in each group.
+
+                                                                                                                                     26
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+SUPPLEMENTARY APPENDIX 9. Participant Characteristics at Baseline in the Per-Protocol Cohort
+
+                                                                             Placebo                         Dexmedetomidine
+                                                                             N = 175                                N = 159
+ Demographics
+ Age, years                                                             69·0 [65·0, 74·0]                     67·0 [63·0, 73·0]
+ Male Sex                                                                   128 (73·1)                            122 (76·7)
+ Height, centimetres                                                  175·3 [167·6, 180·3]                  175·3 [167·6, 180·3]
+ Weight, kilograms                                                      86·0 [72·6, 95·5]                     85·3 [77·1, 97·5]
+ Body Mass Index, kg/m²                                               27·62 [25·13, 30·96]                  28·19 [25·13, 31·99]
+ Self-Reported Race
+  White                                                                     171 (97·7)                            153 (96·2)
+  Asian                                                                       2 (1·1)                                5 (3·1)
+  American Indian or Alaskan Native                                           0 (0·0)                                1 (0·6)
+  Other                                                                       1 (0·6)                                0 (0·0)
+  Unknown                                                                     1 (0·6)                                0 (0·0)
+ Ethnicity
+  Hispanic or Latino                                                          1 (0·6)                                1 (0·6)
+  Not Hispanic of Latino                                                    166 (94·9)                            152 (95·6)
+  Not Documented                                                              8 (4·6)                                6 (3·8)
+ Marital Status at Enrolment
+   Married                                                                  134 (76·6)                            116 (73·0)
+   Divorced                                                                  14 (8·0)                              18 (11·3)
+   Single                                                                    12 (6·9)                               10 (6·3)
+   Widowed                                                                   14 (8·0)                               13 (8·2)
+   Other                                                                      0 (0·0)                                2 (1·3)
+   Unknown                                                                    1 (0·6)                                0 (0·0)
+ Highest Level of Education
+   8th Grade but Less than High School Graduate                               0 (0·0)                                3 (1·9)
+   High School Graduate, GED                                                 26 (14·9)                             27 (17·0)
+   Some College, Associate's Degree                                          36 (20·6)                             32 (20·1)
+   Bachelor's Degree                                                         52 (29·7)                             46 (28·9)
+   Master’s Degree                                                           35 (20·0)                             24 (15·1)
+   Doctoral Degree                                                           26 (14·9)                             26 (16·4)
+   Unknown                                                                    0 (0·0)                                1 (0·6)
+ Comorbidities and Past Medical History
+ Diabetes                                                                    33 (18·9)                             36 (22·6)
+ Hypertension                                                               134 (76·6)                            123 (77·4)
+ Heart Failurea                                                           46/170 (27·1)                          50/157 (31·8)
+ Prior Myocardial Infarction                                                 15 (8·6)                              17 (10·7)
+ Previous Cardiac Intervention                                               48 (27·4)                             49 (30·8)
+ Peripheral Arterial Disease                                                 11 (6·3)                               14 (8·8)
+ Cerebrovascular Disease                                                     21 (12·0)                             16 (10·1)
+ Liver Disease                                                                7 (4·0)                                7 (4·4)
+
+                                                                                                                                         27
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+                                                                             Placebo                         Dexmedetomidine
+                                                                             N = 175                                N = 159
+ Syncope                                                                      7 (4·0)                                3 (1·9)
+ Sleep Apnoea                                                                44 (25·1)                             32 (20·1)
+ Chronic Lung Disease                                                        29 (16·6)                             22 (13·8)
+ Baseline Neurocognitive and PROMIS Scores
+ Delirium at Baseline                                                         0 (0·0)                                0 (0·0)
+ Abbreviated MoCA                                                       19·0 [18·0, 20·0]                      19·0 [17·0, 20·0]
+ PROMIS Scoresb
+    Global Health – Physical                                            50·8 [44·9, 57·7]                      50·8 [44·9, 57·7]
+    Global Health – Mental                                              56·0 [48·3, 62·5]                      56·0 [50·8, 62·5]
+   Physical Function                                                    46·4 [40·1, 59·7]                      45·5 [39·4, 52·5]
+   Pain Interference                                                    40·7 [40·7, 51·2]                      40·7 [40·7, 55·0]
+   Applied Cognition                                                    51·7 [45·9, 62·7]                      53·0 [45·9, 62·7]
+   Sleep Disturbancec                                                   50·5 [43·8, 54·3]                      50·5 [43·8, 56·1]
+ 2Data is presented as mean (standard deviation), median [quartile 1, quartile 3], or n (%) depending on variable
+ type  and  distribution.      aHistory  of  heart  failure  was  missing  for  seven  participants,  including  two  in  the
+ dexmedetomidine group and five participants in the placebo group. bAll PROMIS scores are translated to T-scores
+ for reporting. cBaseline PROMIS sleep disturbance scores were introduced after enrolment began, therefore sleep
+ disturbance  scores  are  missing  in  the  first  ten  enrolled  participants          (six  in  the  placebo  group  and  four  in
+ dexmedetomidine group). No other data was missing unless specified. Abbreviations: GED (General Educational
+ Development), MoCA (Montreal Cognitive Assessment), PROMIS (Patient-Reported Outcomes Measurement
+ Information System)
+
+                                                                                                                                         28
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+SUPPLEMENTARY APPENDIX 10. Surgical Characteristics and Study Drug Administration in the Per-
+Protocol Cohort
+
+                                                                            Placebo                        Dexmedetomidine
+                                                                             N = 175                              N = 159
+
+ Surgical Characteristics
+ Cardiopulmonary Bypass Time, minutes                                 128·0 [95·0, 162·0]                  125·0 [93·0, 162·0]
+ Cross Clamp Timea, minutes                                           88·0 [70·0, 115·0]                    90·0 [73·0, 116·0]
+ Strata at Randomisation: Isolated CABG Surgery                             35 (20·0)                            35 (22·0)
+ Procedure Type Performed
+   Isolated CABG                                                            34 (19·4)                            33 (20·8)
+   AV Replacement + CABG                                                    23 (13·1)                             13 (8·2)
+   AV Replacement + MV Replacement                                           3 (1·7)                              1 (0·6)
+   AV Replacement                                                           40 (22·9)                            35 22·0)
+   MV Repair                                                                29 (16·6)                            37 (23·3)
+   MV Repair + CABG                                                          4 (2·3)                              3 (1·9)
+   MV Replacement + CABG                                                     1 (0·6)                              2 (1·3)
+   MV Replacement                                                            4 (2·3)                              2 (1·3)
+   Other                                                                    37 (21·1)                            33 (20·8)
+ Afternoon Surgery                                                          28 (16·0)                            18 (11·3)
+ Study Drug Administration
+ Received the Study Drug (Ever)                                           175 (100·0)                          159 (100·0)
+ Received the Study Drug on POD 0                                         175 (100·0)                          159 (100·0)
+ Number of Days Receiving the Study Drug
+   0                                                                         0 (0·0)                              0 (0·0)
+   1                                                                       147 (84·0)                           131 (82·4)
+   2                                                                         17 (9·7)                            18 (11·3)
+   3                                                                         10 (5·7)                             10 (6·3)
+   4                                                                         1 (0·6)                              0 (0·0)
+ Data is presented as mean (standard deviation), median [quartile 1, quartile 3], or n (%) depending on variable
+ type and distribution. aCross clamp time was missing for one  participant in the dexmedetomidine group who did
+ not have their aorta clamped. Abbreviations: AV (aortic valve), MV (mitral valve), CABG (coronary artery bypass
+ graft), POD (postoperative day)
+
+                                                                                                                                      29
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+SUPPLEMENTARY APPENDIX 11. Outcomes and Clinical Characteristics of the Per-Protocol Cohort
+Conditional on the Randomisation Strata
+
+                                                        Placebo             Dexmedetomidine             Effect Estimate g
+                                                        N = 175                    N = 159                   (95% CI)             P Value
+
+Delirium Outcomes
+Postoperative Day 1
+  Delirium (Primary Outcome)a                         9/162 (5·6)                2/150 (1·3)            0·23 (0·03, 0·91)          0·036
+  Delirium Severity b                                3·0 [2·0, 4·0]             3·0 [2·0, 4·0]          0·97 (0·89, 1·06)           0·50
+Postoperative Days 1 to 3c
+  Delirium                                          16/152 (10·5)                9/135 (6·7)            0·60 (0·25, 1·39)           0·25
+  Delirium Severity b                                3·0 [2·0, 4·5]             3·0 [2·0, 4·0]          0·97 (0·90, 1·05)           0·52
+Delirium Free Days to Day 3c                                                                            1·73 (0·76, 4·21)           0·20
+  0                                                   0/158 (0·0)                0/157 (0·0)
+  1                                                   5/168 (3·0)                3/157 (1·9)
+  2                                                  11/168 (6·5)                6/157 (3·8)
+  3                                                 152/168 (90·5)             148/157 (94·3)
+Hospital Clinical Characteristics
+Length of Hospital Stay, days b                      6·0 [5·0, 7·0]             6·0 [5·0, 8·0]          1·02 (0·94, 1·10)           0·63
+Length of ICU Stay, hours b                       25·2 [23·0, 32·6]          26·0 [23·0, 45·0]          1·07 (0·95, 1·21)           0·24
+
+Readmitted to the ICU                                    4 (2·3)                    6 (3·8)             1·68 (0·47, 6·67)           0·43
+Total Postoperative Ventilation                   4·80 [3·90, 6·50]          4·70 [3·80, 6·20]          0·96 (0·85, 1·08)           0·46
+Time, hours b
+Discharged to Homed                                 141/174 (81·0)             139/157 (88·5)           1·80 (0·98, 3·40)           0·06
+
+Clinical Characteristics Within 30 Days Postoperatively
+Readmitted e                                         14/174 (8·0)               13/155 (8·4)            1·04 (0·47, 2·29)           0·93
+
+Surgical Site Infection                                  3 (1·7)                    2 (1·3)             0·69 (0·09, 4·28)           0·69
+Reoperation for Bleeding                                 2 (1·1)                    0 (0·0)                     NA                  1·00
+Stroke                                                   1 (0·6)                    0 (0·0)                     NA                  1·00
+Renal Failure                                            1 (0·6)                    1 (0·6)            1·13 (0·04, 28·78)           0·93
+Atrial Fibrillation                                    74 (42·3)                  57 (35·8)             0·77 (0·49, 1·19)           0·24
+Mortality
+In Hospital Mortality                                    1 (0·6)                    2 (1·3)            2·19 (0·21, 47·34)           0·53
+30 Day                                                   1 (0·6)                    2 (1·3)            2·19 (0·21, 47·34)           0·53
+90 Day                                                   1 (0·6)                    3 (1·9)            3·33 (0·42, 67·77)           0·30
+180 Day                                                  3 (1·7)                    3 (1·9)             1·11 (0·20, 6·07)           0·90
+Neurocognitive and PROMIS Scores at Follow Up
+Number Assessed at Follow Up
+  30 Days                                                 118                         116                        ---                 ---
+  90 Days                                                 108                         98                         ---                 ---
+  180 Days                                                105                         106                        ---                 ---
+
+                                                                                                                                          30
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+Abbreviated MoCA b
+  30 Days                                          20·0 [19·0, 21·0]          20·0 [18·0, 21·0]          0·98 (0·95, 1·01)           0·22
+  90 Days                                          20·0 [19·0, 21·0]          20·0 [19·0, 21·0]          1·01 (0·98, 1·03)           0·73
+  180 Days                                         21·0 [19·0, 22·0]          20·5 [19·0, 21·0]          0·98 (0·94, 1·02)           0·25
+PROMIS Global Health – Physical f
+  30 Days                                          47·7 [42·3, 54·1]          50·8 [44·9, 54·1]            0·5 (-1·7, 2·7)           0·66
+  90 Days                                          54·1 [47·7, 57·7]          54·1 [47·7, 61·9]            0·4 (-2·1, 2·9)           0·75
+  180 Days                                         54·1 [50·8, 61·9]          57·7 [50·8, 61·9]           -0·4 (-2·8, 2·0)           0·76
+PROMIS Global Health – Mental f
+  30 Days                                          56·0 [50·8, 67·6]          59·0 [50·8, 67·6]            0·8 (-1·5, 3·2)           0·48
+  90 Days                                          62·5 [56·0, 67·6]          59·0 [53·3, 67·6]           -0·4 (-2·8, 2·0)           0·75
+  180 Days                                         62·5 [53·3, 67·6]          62·5 [53·3, 67·6]           -0·4 (-2·7, 1·9)           0·75
+PROMIS Physical Function f
+  30 Days                                          39·1 [35·5, 44·6]          40·8 [36·8, 46·4]            1·1 (-0·9, 3·0)           0·28
+  90 Days                                          47·5 [43·7, 52·5]          48·8 [44·6, 59·7]            0·7 (-1·6, 3·0)           0·54
+  180 Days                                         50·4 [46·4, 59·7]          50·4 [45·5, 59·7]           -0·5 (-2·8, 1·7)           0·63
+PROMIS Pain Interference f
+  30 Days                                          51·2 [40·7, 56·6]          49·9 [40·7, 55·8]           -0·5 (-2·8, 1·7)           0·65
+  90 Days                                          40·7 [40·7, 49·9]          40·7 [40·7, 51·2]            0·7 (-1·4, 2·8)           0·53
+  180 Days                                         40·7 [40·7, 40·7]          40·7 [40·7, 47·9]           -0·3 (-2·0, 1·4)           0·76
+PROMIS Applied Cognition f
+  30 Days                                          53·0 [47·7, 62·7]          54·6 [48·2, 62·7]            1·0 (-1·1, 3·1)           0·34
+  90 Days                                          54·6 [47·7, 62·7]          53·0 [49·5, 62·7]            0·3 (-2·1, 2·8)           0·80
+  180 Days                                         53·0 [48·6, 62·7]          53·8 [47·7, 62·7]           -0·5 (-2·7, 1·7)           0·64
+PROMIS Sleep Disturbance f
+  30 Days                                          50·5 [43·8, 56·1]          50·5 [43·8, 56·1]           -1·2 (-3·7, 1·3)           0·35
+  90 Days                                          48·4 [41·1, 54·3]          48·4 [43·8, 52·4]            0·2 (-2·1, 2·5)           0·87
+  180 Days                                         46·2 [41·1, 50·5]          46·2 [41·1, 50·5]           -0·5 (-2·9, 1·9)           0·70
+Data is presented as mean (standard deviation), median [quartile 1, quartile 3], or n (%) depending on variable type
+and distribution. aA total of 22 participants (9 in dexmedetomidine group and 13 in the placebo group) were missing
+the primary outcome, incidence of delirium on postoperative day one. bValues were log transformed for analysis, with
+resulting effect estimates presented as a ratio of geometric means. Effect estimates can be interpreted as the percent
+increase (or decrease) in for every one-unit increase (e.g. 1.02 corresponds to a 2% increase in the dexmedetomidine
+group).  cA total of 47 participants (24 in dexmedetomidine group and 23 in the placebo group) had missing delirium
+assessments through postoperative day three. One additional  participant was assessed as delirious but the delirium
+severity score was missing. dDischarge status was missing for 3 participants (2 in dexmedetomidine group and 1 in
+the placebo group). eReadmission status was missing for 5 participants (4 in dexmedetomidine group and 1 in the
+placebo group). No other data was missing unless specified. fAll PROMIS scores are translated to T-scores for
+reporting. gEffect estimates are reported as odds ratios (binary outcomes) or mean difference (continuous outcomes)
+comparing the dexmedetomidine group to the placebo group (reference). Abbreviations: ICU (intensive care unit),
+MoCA (Montreal Cognitive Assessment), PROMIS (Patient-Reported Outcomes Measurement Information System)
+
+                                                                                                                                           31
+
+Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac
+surgery (MINDDS): a single-centre, parallel-arm, randomised, placebo-controlled superiority trial (Qu et al.)
+
+SUPPLEMENTARY APPENDIX 12. Kaplan Meier Curve in the Modified Intention-to-Treat Cohort
+
+                                                                                                                               32

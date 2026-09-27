@@ -1,0 +1,1093 @@
+[[PAGE 1]]
+Anaesthesia 2017, 72, 1456–1466 doi:10.1111/anae.14056
+Original Article
+Cerebral oximetry and postoperative delirium after cardiac
+surgery: a randomised, controlled trial*
+L. Lei,1 R. Katznelson,2 L. Fedorko,2 J. Carroll,3 H. Poonawala,4 M. Machina,5 R. Styra,6 V. Rao7 and
+G. Djaiani8
+1 Clinical Fellow, 2 Associate Professor, 3 Research Manager, 4 Research Consultant, 5 Postdoctoral Fellow,
+8 Professor, Departments of Anesthesia and Pain Management, 6 Associate Professor, Department of Psychiatry,
+7 Professor, Division of Cardiovascular Surgery, Toronto General Hospital, University Health Network, University of
+Toronto, Toronto, Ontario, Canada
+Summary
+Postoperative delirium is associated with increased morbidity and mortality. We hypothesised that restoration of
+regional cerebral oxygen desaturation would reduce the incidence of postoperative delirium in elderly patients after
+cardiac surgery. After institutional ethics review board approval and informed consent, a double-blinded, prospective,
+randomised, controlled trial was conducted in patients ≥ 60 years of age undergoing cardiac surgery with cardiopul-
+monary bypass. In the intervention group, an algorithm was commenced if regional cerebral oxygen saturation
+decreased below 75% of baseline value for 1 min or longer. In the control group, the cerebral oximetry monitor
+screen was electronically blinded. Assessment of delirium was performed with confusion assessment method for
+intensive care unit or confusion assessment method after discharge from intensive care unit at 12-h intervals for
+seven postoperative days. Postoperative delirium was present in 30 out of 123 (24.4%) and 31 out of 126 (24.6%)
+patients in the intervention and control groups, respectively, odds ratio 0.98 (95%CI 0.55–1.76), p = 0.97. Postopera-
+tive delirium was present in 20 (71%) out of 28 and in 41 (18%) out of 221 patients with baseline regional cerebral
+oxygen saturation ≤ 50, or > 50%, respectively, p = 0.0001. Higher baseline regional cerebral oxygen saturation and
+body mass index were protective against postoperative delirium. Restoration of regional cerebral oxygen desaturation
+did not result in lower postoperative delirium after cardiac surgery. Pre-operative regional cerebral oxygen saturation
+≤ 50% was associated with increased postoperative delirium rates in elderly patients following cardiac surgery.
+.................................................................................................................................................................
+Correspondence to: G. Djaiani
+Email: george.djaiani@uhn.ca
+Accepted: 10 August 2017
+Keywords: cardiac surgery; cerebral oximetry; postoperative delirium
+*Presented at the Society of Cardiovascular Anesthesiologists 38th Annual Meeting, San Diego, CA, USA, April 2016.
+This article is accompanied by an editorial by Kunst and Milan, Anaesthesia 2017; 72: 1435–38.
+Introduction undergoing complex cardiac surgery [1]. It has been
+Cardiac surgery is associated with a significant risk of estimated that about $6.9 billion US dollars of Medi-
+postoperative morbidity. Postoperative delirium (POD) care hospital expenditures are attributable to delirium
+may occur in up to one in three elderly patients [2]. The aetiology of delirium is complex, and includes
+1456 © 2017 The Association of Anaesthetists of Great Britain and Ireland
+
+[[PAGE 2]]
+Lei et al. | Cerebral oximetry and postoperative delirium after cardiac surgery Anaesthesia 2017, 72, 1456–1466
+a variety of medical conditions and substances that The study group was patients ≥ 60 years of age,
+interfere with brain function. The exact pathophysio- undergoing combined valve and coronary revasculari-
+logical mechanism involved in the development of sation procedures, repeat cardiac surgery, multiple
+delirium following cardiac surgery is unclear. It is valve replacement or repair, or surgery of ascending
+important to recognise that most of the independent aorta and aortic arch, with or without circulatory
+predictors of delirium are difficult to modify, so that arrest. We recruited patients through the pre-admis-
+preventive strategies that reduce the incidence and sion clinic and they gave written, informed consent.
+severity of delirium should be prioritised. Patients with a history of serious mental illness, delir-
+One such strategy might include the peri-operative ium or who were planned to undergo either emergency
+use of near-infrared reflectance spectroscopy (NIRS), or surgery without bypass were not included in the
+which measures regional cerebral oxygen saturation study.
+(rScO ) and detects real-time cerebral ischaemia. Anaesthesia management was conducted according
+2
+Interventions designed to minimise peri-operative to routine clinical practice. Premedication with oral
+reductions in rScO may improve overall outcomes, lorazepam 1–2 mg was optional. The use of midazo- 2
+particularly if rScO is considered a reflection of ade- lam during surgery was limited to a maximum of
+2
+quacy of global perfusion, using the brain as an index 0.05 mg.kg
+(cid:1)1.
+Anaesthesia was induced with fentanyl
+organ [3]. This is of particular importance in empha- 10–12 lg.kg (cid:1)1, propofol 0.5–2 mg.kg (cid:1)1 and rocuro-
+sising the principle that if the brain is ‘not OK’, then nium 0.6 mg.kg (cid:1)1, and maintained with 0.5–2.0%
+be aware and beware [4]. isoflurane. Heart rate and blood pressure were kept
+Low rScO values have been associated with post- within 25% of baseline values. Heparin was adminis- 2
+operative cognitive dysfunction [5, 6], peri-operative tered to maintain an activated clotting time above
+stroke [7], increased incidence of major organ morbid- 480 s.
+ity [8] and even 30-day and 1-year mortality after car- The cardiopulmonary bypass circuit was primed
+diac surgery [9]. Although the debate about whether with 1.8 l of Ringer’s lactate and 50 ml of 20% manni-
+all cardiac surgical patients should have intra-operative tol. Management of bypass included systemic tempera-
+cerebral oxygenation monitoring is ongoing [10, 11], ture drift to 34 °C, alpha-stat pH management,
+the need for better clinical evidence for NIRS technol- targeted mean perfusion pressure between 60 mmHg
+ogy is clearly recognised [12, 13]. Currently, the rec- and 80 mmHg and pump flow rates of 2.0–
+ommendations of the Association of Anaesthetists of 2.4 l.m
+(cid:1)2.min (cid:1)1.
+Myocardial protection was achieved
+Great Britain and Ireland for standards of monitoring with intermittent antegrade, and occasionally retro-
+during anaesthesia do not include cerebral oximetry grade blood cardioplegia. A 32-lm filter (Avecor
+monitoring as a standard of care [14]. Affinity, Minneapolis, MN, USA) was used in the arte-
+We describe a prospective randomised clinical trial rial perfusion line.
+that assessed the effectiveness of peri-operative cerebral Deep hypothermic circulatory arrest was achieved
+oximetry monitoring in reducing delirium following by cooling to 20 °C with antegrade cerebral perfusion.
+cardiac surgery. We hypothesised that restoration of Before separation from CPB, patients were rewarmed
+rScO desaturation to baseline values would reduce the to 36–37 °C. During rewarming, the maximal inflow
+2
+incidence of delirium in elderly patients. temperature was limited to 37 °C. After separation
+from bypass, heparin was neutralised with protamine
+Methods sulphate (1 mg per 100 U of heparin) to achieve an
+After Research Ethics Board approval at University activated clotting time within 10% of baseline. All
+Health Network, Toronto, Ontario, Canada, we con- patients were transferred to the intensive care unit
+ducted a prospective randomised, double-blind, con- (ICU) after surgery.
+trolled clinical trial from January 2012 to April 2015. Postoperative sedation was achieved with propofol
+This was a single-centre study in the quaternary refer- infusion 25–50 lg.kg (cid:1)1.min (cid:1)1 until tracheal extubation
+ral hospital in Toronto, Canada. criteria were met. Both groups received a combination
+© 2017 The Association of Anaesthetists of Great Britain and Ireland 1457
+13652044,
+2017,
+12,
+Downloaded
+from
+https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.14056
+by Zhonglin
+Chen
+- Xian
+Jiaotong
+University
+, Wiley
+Online
+Library
+on
+[26/08/2026].
+See
+the Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by the
+applicable
+Creative
+Commons
+License
+
+[[PAGE 3]]
+Anaesthesia 2017, 72, 1456–1466 Lei et al. | Cerebral oximetry and postoperative delirium after cardiac surgery
+of opioid analgesics and non-opioid adjuvants for also unaware of the study design. The rScO data for 2
+postoperative pain management. both groups were stored on a dedicated computer for
+This was a superiority study, hypothesising that consequent analysis.
+restoration of rScO would result in lower POD rates Baseline and minimum values of rScO , number of
+2 2
+after cardiac surgery. Before surgery, patients were ran- desaturation events, area under the curve (AUC) of
+domly allocated to either interventional or control rScO values below 75% of baseline (AUC
+2
+groups according to a computer-generated randomisa- rScO < 75% baseline), as well as the effectiveness of
+2
+tion code in blocks of four, aiming at subject allocation restoration of rScO were determined. The AUC
+2
+in a 1:1 ratio. included both the duration and severity of rScO
+2
+Bilateral NIRS sensors (INVOSTM 5100C; Covi- desaturations (based on 25% desaturation from base-
+dien) were used to measure rScO intra-operatively line), and was calculated by using INVOS analytic tool
+2
+and postoperatively, up to 24 h in ICU. The sensors software (provided by Covidien Canada Ltd, Mansfield,
+were placed on the fronto-temporal area, and baseline MA, USA).
+values of rScO were obtained (according to manufac- Assessment of delirium was performed pre-opera- 2
+turer’s guidelines) in the operating room before induc- tively (baseline) and postoperatively at 12-h intervals,
+tion of anaesthesia. or as needed (if the patient’s condition changed or
+In the intervention group, an alarm threshold at antipsychotic medications were administered), using
+75% of the baseline rScO value (25% reduction from the confusion assessment method for ICU (CAM-ICU)
+2
+baseline) was established. Interventions were com- [15]. When patients were discharged from ICU to the
+menced if the rScO value decreased below 75% of surgical floor, delirium was assessed using the confu- 2
+baseline for 1 min or longer. A similar algorithm to sion assessment method (CAM). Patients were assessed
+that which was previously reported by Murkin et al. [8] for delirium for the first seven postoperative days or
+was utilised. It included potential mechanical and phys- until discharge. Patients were considered delirious until
+iological causes of low rScO values: checking head they were deemed CAM-negative. The confusion
+2
+position and venous cannula position to ensure ade- assessment method was used for both ventilated and
+quate venous drainage; maintaining jugular venous extubated patients. It included a four-step algorithm to
+pressure < 10 mmHg by repositioning the heart during identify the following: (1) acute onset of changes or
+bypass; maintaining cerebral perfusion pressure fluctuations in the course of mental status; (2) inatten-
+> 50 mmHg; increasing FIO 2 to 1.0; increasing depth tion; (3) disorganised thinking; (4) altered level of con-
+of anaesthesia to decrease cerebral oxygen consump- sciousness. Patients were considered delirious if both
+tion; optimising PaCO (maintain PaCO close to features (1) and (2) were present, plus either feature
+2 2
+5.3 kPa); maintaining mean arterial pressure (3) or (4). Patients were recorded as either CAM-posi-
+>= 50 mmHg; transfusing red blood cells if haemat- tive (delirium present) or CAM-negative (delirium
+ocrit is < 20%; increasing cardiac output if cardiac absent). The CAM-ICU and CAM testers were
+index is < 2.0 l. m (cid:1)2.min (cid:1)1; facilitating cooling if core research assistants who were trained and had been
+temperature exceeds 38.5 °C. If seizures were present, performing these tests for a number of years. They
+aggressive anticonvulsant therapy was commenced. were not aware of the study objectives. Intravenous
+There was no stepwise strategy to restore rScO value; haloperidol was used as first-line treatment in delirious
+2
+more than one intervention was allowed at any one patients, given in increments of 1–5 mg, repeated
+time. However, the actual target treatment physiological every 30–60 min as needed. Other antipsychotic medi-
+parameters for individual patients were not quantified. cations were administered as required.
+In the control group, the cerebral oximetry moni- Major adverse outcomes were recorded. These
+tor screen was electronically blinded. However, record- included: stroke (functional deficit exceeding a 24-h
+ing was continuous following verification of the signal period); myocardial infarction (troponin assays); renal
+strength and baseline value by an independent obser- failure (dialysis); pneumonia (clinical, X-ray); atrial
+ver trained in cerebral oximetry application, who was fibrillation (documented electrocardiogram); sepsis
+1458 © 2017 The Association of Anaesthetists of Great Britain and Ireland
+13652044,
+2017,
+12,
+Downloaded
+from
+https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.14056
+by Zhonglin
+Chen
+- Xian
+Jiaotong
+University
+, Wiley
+Online
+Library
+on
+[26/08/2026].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+[[PAGE 4]]
+Lei et al. | Cerebral oximetry and postoperative delirium after cardiac surgery Anaesthesia 2017, 72, 1456–1466
+(microbiology laboratory confirmation, septic shock); statistic. The area under the ROC curve for the
+systemic inflammatory response syndrome (vaso-active reduced model was compared with the area under the
+medication requirement); and unplanned return to the ROC curve for the base model (with all initial covari-
+operating room. Duration of ICU and hospital length ates included), to test whether backward stepwise
+of stay, and all-cause in-hospital mortality were also covariate elimination affected the model performance.
+recorded. Statistical analysis was performed using STATA 12.1
+Given the 30% prevalence of POD after cardiac (StataCorp, College Station, TX, USA).
+surgery, to detect a 50% reduction of POD in patients
+receiving rScO restoration management strategy with Results
+2
+a = 0.05 and power 1-b = 0.8, a group of 121 patients A total of 1248 subjects were screened for eligibility,
+in each arm of the study are required, making a total and 998 were not studied due to patient refusal, not
+of 242 patients in the randomisation schedule. meeting the criteria, language barrier or prior recruit-
+Descriptive analysis was performed for all vari- ment to other studies. A total of 250 patients were
+ables measured before and after surgery. Continuous randomly allocated, and 249 analysed. One patient
+data were presented as mean (SD), or median (IQR from the intervention group died in the operating
+[range]). Dichotomous data were presented as n (%). room. As a result, there were a total of 123 and 126
+For the primary outcome of delirium, the two patients in the intervention and control groups, respec-
+groups were compared with the Chi-square test for tively (Fig. 1). Both groups were similar with respect
+differences in proportions in a 2 9 2 contingency to baseline characteristics, pre-operative medications,
+table. Odds ratio and confidence intervals for propor- comorbidities and surgical characteristics (Table 1).
+tions were calculated at 95%. A two-tailed Student’s Postoperative delirium was present in 30 out of 123
+t-test was used for two independent samples to analyse (24.4%), and 31 out of 126 (24.6%) patients in the inter-
+continuous normally distributed data. The Mann– vention and control groups, respectively (OR 0.98, 95%
+Whitney U-test was used for nonparametric data. A CI 0.55–1.76, p = 0.97). A total of 24 (80%) out of 30,
+p < 0.05 was considered statistically significant. All and 26 (84%) out of 31 patients in the intervention and
+analyses were performed on an intention-to-treat basis. control groups developed POD while still in ICU. The
+To determine the predictors of POD, a post-hoc remaining six (20%) and five (16%) patients in their
+logistic regression model using backwards stepwise respective groups developed POD after ICU discharge.
+methodology was used. The threshold for inclusion in Postoperative delirium rates were similar in patients
+the model was selected at p < 0.10. Initial covariates with and without cerebral desaturations, as well as in
+included in the model were: left and right baseline patients with restored and not restored rScO (Fig. 2).
+2
+rScO measures; log10 of combined desaturation AUC There were no significant differences between the
+2
+(because area values ranged from 0 to over 12,500); two groups with respect to incidence or duration of
+dichotomous (yes or no) desaturation covariate; age; cerebral desaturations (Table 2). During the entire
+sex; categorical body mass index ((BMI); normal, over- study period, a total of 287 and 245 desaturation epi-
+weight, obese); history of pre-operative cerebrovascular sodes (lasting ≥ 1 min) occurred in the intervention
+accident; history of pre-operative diabetes mellitus; and control groups, respectively. Thirty-eight percent
+hypertension; bypass duration; alcohol use; smoking vs. 40% of these desaturation episodes were recorded
+status; pre-operative use of beta-blockers and statins; in the operating room, and 62% vs. 60% in ICU, in
+number of units of red cells transfused; overall transfu- the intervention and control groups, respectively. In
+sion (dichotomous variable, yes or no); and a covariate the operating room, the majority of desaturations hap-
+for any blood product used. pened during bypass in both groups (Fig. 3). The suc-
+The Hosmer–Lemeshow goodness-of-fit test was cess rates in restoring rScO to baseline values differed
+2
+used to assess the fit of the model, while performance significantly between attempts in the operating room
+of the model was assessed using the receiver operating and the ICU. Restoration of rScO was achieved more 2
+characteristic (ROC) curve and the associated c- consistently in the operating room compared with the
+© 2017 The Association of Anaesthetists of Great Britain and Ireland 1459
+13652044,
+2017,
+12,
+Downloaded
+from
+https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.14056
+by
+Zhonglin
+Chen
+- Xian
+Jiaotong
+University
+, Wiley
+Online
+Library
+on
+[26/08/2026].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+[[PAGE 5]]
+Anaesthesia 2017, 72, 1456–1466 Lei et al. | Cerebral oximetry and postoperative delirium after cardiac surgery
+for POD. Interestingly, overweight or obese patients
+1248 subjects screened
+had a lower incidence of delirium. The logistic model
+for eligibility
+was a good fit, based on a non-significant Hosmer–
+Lemeshow statistic (p = 0.34), and performed well
+998 subjects were not studied based on
+with a ROC area of 0.79. Lastly, when the ROC area
+patient refusal, not meeting criteria,
+of this reduced model (0.79) was compared with the
+language barrier, prior recruitment in
+other studies ROC area of the full model with all initial covariates
+(0.81) there was no significant difference (p = 0.09),
+250 patients were suggesting no difference in model performance due to
+randomly allocated, 1 patient
+the backwards stepwise elimination of non-significant
+died in the operating room
+covariates.
+249 patients Discussion
+analyzed
+This was a large-scale randomised, controlled clinical
+trial that examined the effects of peri-operative surveil-
+123 patients in
+lance of rScO and restoration of low rScO on the
+the interventional 2 2
+group incidence of POD in elderly patients after cardiac sur-
+gery. We found no difference in the incidence of POD
+between the intervention group (algorithm designed to
+126 patients in
+the control group restore low rScO ) and control (no interventions) 2
+group. Postoperative delirium rates were similar in
+patients with and without rScO desaturations, regard-
+Figure 1 CONSORT diagram. 2
+less of the group assignment. Even though the median
+ICU (Fig. 4). The number of different therapeutic duration of cerebral desaturation (AUC ) was 2.2-
+%.min
+measures to restore rScO are described in Table 3. fold higher in the control group than the intervention 2
+Baseline rScO ≤ 50% was present in 28 patients group (Table 2), this was not a statistically significant 2
+(15 interventional group and 13 controls). Postopera- difference. It is likely that, with the wide range in
+tive delirium was present in 20 (71%) out of 28 AUC a much larger sample size would be
+%.min
+patients (9 interventional group and 11 controls) with required to achieve statistical significance.
+baseline rScO ≤ 50%, compared with 41 (18%) out of It is important to note, however, that there was a
+2
+221 patients with baseline rScO > 50% (OR 3.8, 95% four-fold increase in POD rates in patients with base-
+2
+CI 1.98–7.47, p = 0.0001). line rScO ≤ 50% when compared with patients with
+2
+Haloperidol was administered in 12 and 14 patients rScO > 50%. This finding supports the previous report
+2
+in the intervention and control groups, respectively. by Schoen et al. [16] who conducted an observational
+Furthermore, quetiapine was administered in four and study of 231 patients, showing that pre-operative rScO
+2
+five patients in their respective groups. The overall inci- < 59.5% was predictive of POD after elective cardiac
+dence of major adverse outcomes, requirements for surgery. Additionally, Heringlake et al. [9] reported
+inotropic/vasoconstrictor support and the length of stay that pre-operative rScO ≤ 50% was an independent
+2
+was similar in the two groups (Table 4). risk factor for 1-year mortality in a large cohort of
+When the logistic regression model was utilised 1178 patients undergoing cardiac surgery, independent
+with significance threshold for inclusion of p < 0.10, of the severity of pre-operative EuroSCORE.
+12 out of the initial 17 covariates were removed from Several other studies have reported a correlation
+the model, with right baseline rScO , BMI, history of between low rScO and cognitive decline after cardiac
+2 2
+stroke, bypass duration and smoking status remaining surgery. Yao et al. [5] showed that intra-operative
+(Table 5). Higher baseline rScO was protective against rScO < 40% was predictive of postoperative cognitive 2 2
+POD, whereas longer bypass duration was a risk factor dysfunction as measured by the Mini-Mental State
+1460 © 2017 The Association of Anaesthetists of Great Britain and Ireland
+13652044,
+2017,
+12,
+Downloaded
+from
+https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.14056
+by
+Zhonglin
+Chen
+- Xian
+Jiaotong
+University
+, Wiley
+Online
+Library
+on
+[26/08/2026].
+See
+the Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+[[PAGE 6]]
+Lei et al. | Cerebral oximetry and postoperative delirium after cardiac surgery Anaesthesia 2017, 72, 1456–1466
+Table 1 Baseline characteristics and surgical characteristics of study population. Values are mean (SD), number (pro-
+portion), mean (SD) or median (IQR [range]).
+Intervention group Control group
+n = 123 n = 126
+Age; years 74.2 (6.5) 72.9 (6.3)
+Sex; male 88 (71.5%) 88 (69.8%)
+BMI; kg.m(cid:1)2 27.6 (4.8) 28.5 (5.1)
+Comorbidities
+Coronary artery disease 88 (71.5%) 79 (62.7%)
+Hypertension 90 (73.2%) 101 (80.1%)
+Myocardial infarction 16 (13.0%) 15 (11.9%)
+Atrial fibrillation 31 (25.2%) 42 (33.3%)
+Congestive heart failure 24 (19.5%) 28 (22.2%)
+Stroke/Transient ischaemic attack 21 (17.0%) 15 (11.9%)
+Diabetes mellitus 36 (29.3%) 33 (26.2%)
+Peripheral vascular disease 9 (7.3%) 11 (8.7%)
+Thyroid disease 18 (14.6%) 18 (14.2%)
+COPD 17 (13.8%) 15 (11.9%)
+Left ventricular grade 1 (1–2 [1–4]) 1 (1–2 [1–4])
+Pre-operative medications
+Beta-blockers 67 (54.5%) 69 (54.7%)
+Calcium channel blockers 33 (26.8%) 34 (26.9%)
+ACE inhibitors 41 (33.3%) 51 (40.5%)
+Statins 78 (63.4%) 86 (68.2%)
+Aspirin 81 (65.8%) 84 (66.6%)
+Antidepressants 7 (5.7%) 11 (8.7%)
+Benzodiazepines 9 (7.3%) 14 (11.1%)
+Lorazepam premedication 60 (48.8%) 66 (52.3%)
+Alcohol intake 54 (44%) 47 (37%)
+Units per week 0 (0–7 [0–55]) 0 (0–3 [0–60])
+Smoking 36 (29%) 42 (33%)
+Haemoglobin; g.l(cid:1)1 134.2 (15.3) 135.7 (16.9)
+Creatinine; lmol.l(cid:1)1 96.3 (30.4) 92.3 (24.3)
+Type of surgery
+CABG 65 (52.8%) 59 (46.8%)
+Mitral valve 33 (26.8%) 37 (29.3%)
+Aortic valve 63 (51.2%) 70 (55.5%)
+Ascending aorta/Arch 24 (19.5%) 30 (23.8%)
+Redo sternotomy 12 (9.7%) 10 (7.9%)
+DHCA 11 (8.9%) 14 (11.1%)
+Any two valves 19 (15.4%) 16 (12.7%)
+Any three valves 11 (8.9%) 9 (7.1%)
+CABG plus valve(s) 53 (43%) 49 (38.9%)
+Redo-CABG 9 (7.3%) 6 (4.8%)
+Redo-CABG plus valve 3 (2.4%) 4 (3.2%)
+Distal anastomoses 1 (0–2 [0–5]) 1 (0–2 [0–5])
+CPB time; min 108 (83–136 [34–382]) 114 (85–148 [52–336])
+Cross-clamp time; min 85 (64–109 [27–282]) 91 (63–123 [28–193])
+COPD, chronic obstructive pulmonary disease; ACE, angiotensin-converting enzyme; CPB, cardiopulmonary bypass, CABG,
+coronary artery bypass graft; DHCA, deep hypothermic circulatory arrest; Left ventricular grading, 1 (ejection fraction > 60%), 2
+(ejection fraction 40–59%), 3 (ejection fraction 20–39%), 4 (ejection fraction < 20%).
+Examination and the antisaccadic eye movement tests. reported that an absolute value of rScO < 50%, as
+2
+Slater et al. [6] found that patients with significant well as the relative decrease in rScO by more than 2
+rScO desaturations during primary coronary revascu- 30% were associated with early and late cognitive 2
+larisation surgery had a significantly higher risk of decline after bypass. A more recent study by Colak
+early postoperative cognitive decline, as well as pro- et al. [18] demonstrated that prolonged rScO desatu-
+2
+longed hospital stay. De Tournay-Jett(cid:1)e et al. [17] ration was a significant predictor of cognitive decline
+© 2017 The Association of Anaesthetists of Great Britain and Ireland 1461
+13652044,
+2017,
+12,
+Downloaded
+from
+https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.14056
+by
+Zhonglin
+Chen
+- Xian
+Jiaotong
+University
+, Wiley
+Online
+Library
+on
+[26/08/2026].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of use;
+OA articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+[[PAGE 7]]
+30
+25
+20
+15
+10
+5
+0
+Desaturated Not desaturated Restored rSO Not restored rSO
+2 2
+%
+Anaesthesia 2017, 72, 1456–1466 Lei et al. | Cerebral oximetry and postoperative delirium after cardiac surgery
+Figure 2 Postoperative delirium in different sub-groups of patients. All patients ( ); Intervention group ( ); Control
+group ( ).
+Table 2 Prevalence of cerebral desaturations in operating room andICU. Values are mean (SD), number
+(proportion) or median (IQR [range]).
+Intervention group Control group
+n = 123 n = 126
+Baseline rScO ; %
+2
+Right side 63.1 (10.4) 62.7 (10.5)
+Left side 63.4 (9.8) 62.3 (10.3)
+Incidence of cerebral desaturations
+During entire study period 65 (52.8%) 69 (55%)
+Only OR 15 (12%) 21 (17%)
+Only ICU 21 (17%) 25 (20%)
+Both, OR/ICU 29 (23%) 23 (18%)
+Number of desaturation episodes
+OR 1 (0–3 [0–9]) 1 (0–2 [0–10])
+ICU 2 (1–4 [0–14]) 1 (0–3 [0–16])
+Both, OR/ICU 3 (1.7–7.0 [1–19]) 2 (1–4 [1–17])
+Duration of cerebral desaturation in OR; min
+All patients 11.2 (4.4–35.8 [1.9–146.3]) 20.3 (4.8–52.7 [1.2–274.8])
+No algorithm employed (n = 11) 5.73 (2.9–5.8 [1.9–7.5])
+rScO restored with algorithm (n = 24) 11.7 (6.7–20.5 [7.5–28.3])
+2
+rScO not restored with algorithm (n = 9) 73.8 (40.9–90.2 [37.4–146.3])
+2
+Duration of cerebral desaturation in ICU; min
+All patients 29.9 (17.2–108.9 [1.3–1135.1]) 57.3 (12.1–226.8 [2.1–1151.3])
+No algorithm employed (n = 34) 22.8 (8.5–57.5 [1.3–154.2])
+rScO restored with algorithm (n = 10) 31.7 (21.7–69.4 [20.4–122.0]) 2
+rScO not restored with algorithm (n = 6) 386.1 (267.2–883.3 [154.2–1135.1])
+2
+Combined OR/ICU AUC rScO < 75% baseline 36 (14–702 [2–12 520]) 80 (22–301 [2–10 831]) 2
+OR, operating room; ICU, intensive care unit; rScO , regional cerebral oxygen saturation. Cerebral desaturation was defined as a
+2
+reduction in rScO value by 25% or more from the baseline value. If the rScO value was not restored to baseline, the patient was
+2 2
+classed as ‘not restored with algorithm’.
+1462 © 2017 The Association of Anaesthetists of Great Britain and Ireland
+13652044,
+2017,
+12,
+Downloaded
+from
+https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.14056
+by
+Zhonglin
+Chen
+- Xian
+Jiaotong
+University
+, Wiley
+Online
+Library
+on
+[26/08/2026].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on Wiley
+Online
+Library
+for
+rules
+of use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+[[PAGE 8]]
+after cardiac surgery with bypass, and that maintaining
+rScO > 80% of baseline could potentially reduce this
+2
+incidence.
+Two recent multi-centre pilot and feasibility studies
+were conducted to determine the frequency of rScO
+2
+desaturations during bypass, and the effectiveness of
+interventions designed to reverse them. Subramanian
+et al. [19] defined cerebral desaturation as a reduction
+in rScO of more than 20% from baseline, which was
+2
+present in 143 (61%) of 235 patients during bypass. It
+is interesting to note that spontaneous resolution of
+desaturation was present in 115 (33%) out of 380 desat-
+uration events, but the application of a treatment algo-
+rithm resulted in reversibility of rScO in all but 5% of 2
+patients. Deschamps et al. [20] initiated an algorithm
+for reversal of rScO desaturation using a 10% reduc-
+2
+tion from the baseline rule. This study was a feasibility
+trial including 201 patients from eight Canadian cen-
+tres, achieving 97% reversal of intra-operative cerebral
+desaturations. The pivotal difference between the NOR-
+MOSAT study [20] and this study was the treatment
+thresholds for cerebral desaturation, that is, 10% vs.
+25% reduction of rScO below baseline. It is likely that
+2
+earlier interventions in the NORMOSAT study [20]
+resulted in higher success rates for rScO restoration. 2
+In this study, we found that standard clinical care
+in the operating room was associated with reversal of
+rScO in one out of four patients in whom the study
+2
+algorithm was not employed. The duration of rScO 2
+desaturations in these patients was 5.7 (1.9–7.5) min-
+utes. Subramanian et al. [19] reported that sponta-
+neous rScO restoration was noted in 30% of patients.
+2
+Deschamps et al. [20] intervened within 15 s of 10%
+rScO reduction from baseline, and achieved a reversal 2
+rate of 97%. It is possible that keeping the rScO very
+2
+close to baseline at all times would be a better man-
+agement strategy. Different studies have used different
+definitions (10–25%) with respect to the threshold of
+rScO reduction from baseline necessitating interven-
+2
+tion. Similarly, successful reversal rates in the same
+studies have ranged from 80% to 97% [8, 19, 20].
+Spontaneous reversibility of rScO in the ICU
+2
+exceeded 20 min, to a maximum of 2.5 h in three
+patients. However, there was no difference in POD
+rates between patients with prolonged desaturations
+and no desaturations.
+%
+70
+60
+50
+40
+30
+20
+10
+0 Pre-CPB During CPB Post-CPB ICU
+Figure 3 Prevalence of cerebral desaturation during
+the study period. CPB, cardiopulmonary bypass. Inter-
+vention group ( ); Control group ( ).
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Operating room Intensive care unit
+snoitarutased
+larberec
+htiw
+stneitap
+fo
+%
+Lei et al. | Cerebral oximetry and postoperative delirium after cardiac surgery Anaesthesia 2017, 72, 1456–1466
+Figure 4 Cerebral regional oxygen saturation (rScO )
+2
+restoration rates in the intervention group. No Inter-
+vention group ( ); rScO restored ( ); rScO not 2 2
+restored ( ).
+Table 3 The list of therapeutic measures to restore
+cerebral desaturations.
+Number
+of events
+Increase in mean arterial pressure 126
+Increase in FIO
+2
+31
+Check head and venous cannula position 27
+Adjust depth of anaesthesia 21
+Increase haemoglobin concentration 17
+Adjust PaCO 14 2 Increase cardiac index 12
+© 2017 The Association of Anaesthetists of Great Britain and Ireland 1463
+13652044,
+2017,
+12,
+Downloaded
+from
+https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.14056
+by Zhonglin
+Chen
+- Xian
+Jiaotong
+University
+, Wiley
+Online
+Library
+on
+[26/08/2026].
+See
+the Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by the
+applicable
+Creative
+Commons
+License
+
+[[PAGE 9]]
+Anaesthesia 2017, 72, 1456–1466 Lei et al. | Cerebral oximetry and postoperative delirium after cardiac surgery
+Table 4 Postoperative morbidity and mortality after cardiac surgery. Values are number (proportion) or median
+(IQR [range]).
+Intervention group Control group
+n = 123 n = 126
+Outcome of interest
+Atrial fibrillation 73 (59%) 68 (54%)
+Pneumonia 6 (5%) 2 (1.6%)
+Sepsis 2 (1.6%) 2 (1.6%)
+Chest reopening for bleeding 7 (6%) 8 (6%)
+Dialysis 3 (2.4%) 1 (0.8%)
+Stroke 4 (3%) 3 (2.4%)
+Myocardial infarction 4 (3%) 4 (3%)
+Any transfusion 46 (37%) 54 (43%)
+Any inotropes 109 (89%) 110 (87%)
+Death 3 (2.4%) 4 (3%)
+Extubation time; h 7.2 (4.8–12.0 [0.2–538.8]) 6.0 (4.2–12.9 [0.0–161.4])
+Intensive care unit length of stay; h 49 (25–104 [4–813]) 49 (23–95 [0–1316])
+Hospital length of stay; days 8 (6–11 [5–67]) 8 (6–11 [1–71])
+Table 5 Multivariate analysis: Stepwise logistic regression analyses.
+Logistic model,
+Base logistic model backwards stepwise
+Covariates (no covariate elimination) p value elimination (p < 0.10) p value
+Baseline rScO (left) 0.99 (0.93–1.07) 0.83 –
+2
+Baseline rScO (right) 0.94 (0.88–1.01) 0.09 0.93 (0.89–0.96) < 0.0001
+2
+Desaturation (yes/no) 0.97 (0.26–3.62) 0.95 –
+Desaturation AUC, log10 1.21 (0.63–2.33) 0.57 –
+Age; year 1.05 (0.99–1.12) 0.09 –
+Sex 1.55 (0.71–3.39) 0.27 –
+BMI; kg.m(cid:1)2
+< 25
+25–30 0.35 (0.14–0.84) 0.02 0.39 (0.17–0.87) 0.02
+> 30 0.31 (0.11–0.86) 0.02 0.33 (0.14–0.81) 0.016
+Past medical history
+CVA/TIA 2.07 (0.81–5.33) 0.13 2.13 (0.90–5.02) 0.08
+Diabetes mellitus 1.65 (0.75–3.60) 0.21 –
+Hypertension 1.24 (0.49–3.15) 0.64 –
+Alcohol intake 1.01 (0.97–1.04) 0.65 –
+Smoking status 1.69 (0.74–3.86) 0.20 1.81 (0.90–3.65) 0.09
+Beta-blockers 0.94 (0.47–1.90) 0.87 –
+Statins 0.86 (0.39–1.92) 0.71 –
+Cardiopulmonary bypass time; min 1.01 (1.00–1.02) 0.004 1.01 (1.00–1.02) 0.001
+RBC transfusion 1.2 (0.94–1.74) 0.12 –
+Any transfusion (yes/no) 0.77 (0.30–1.95) 0.58 –
+ROC; c-statistic 0.81 0.79
+Hosmer–Lemeshow (model fit) 0.83 0.34
+ROC compared with base model N/A 0.09
+BMI, body mass index; CVA/TIA, cerebrovascular accident, transient ischaemic attack; RBC, red blood cells; AUC, area under the
+curve; ROC, receiver operating characteristic curve. Logistic regression results displayed as odds ratio (95% CI); N/A, not applica-
+ble.
+It is likely that some of these rScO desaturations particularly pertinent to a relatively short spontaneous
+2
+reflected non-compliance with the protocol, but the recovery of rScO in the operating room by applying
+2
+majority of them were seen in patients with otherwise standard clinical care. Most treatment algorithms are a
+‘acceptable’ physiologic limits. This finding was combination of strategies to improve global cerebral
+1464 © 2017 The Association of Anaesthetists of Great Britain and Ireland
+13652044,
+2017,
+12,
+Downloaded
+from
+https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.14056
+by
+Zhonglin
+Chen
+- Xian
+Jiaotong
+University
+, Wiley
+Online
+Library
+on
+[26/08/2026].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+[[PAGE 10]]
+Lei et al. | Cerebral oximetry and postoperative delirium after cardiac surgery Anaesthesia 2017, 72, 1456–1466
+perfusion and oxygen delivery. The algorithm that was also identified that being overweight (BMI 25–
+utilised in our study was based on correcting mechani- 30 kg.m (cid:1)2 or obese (BMI > 30 kg.m (cid:1)2) seemed to con-
+cal causes (e.g. head and cannula position), increasing fer protection against POD. It has been reported that
+oxygen supply (e.g. increasing FIO
+2
+, cardiac output, BMI of 25–30 kg.m (cid:1)2 is associated with lower mortality
+haemoglobin) and decreasing oxygen demand (e.g. after cardiac surgery [23], and the BMI 35–40 kg.m (cid:1)2
+decreasing body temperature, increasing anaesthesia resulted in lower incidence of peri-operative stroke after
+depth). Although it is usually relatively easy to restore non-cardiac surgery [24]. Although intriguing, these
+rScO desaturations due to mechanical causes, the incidental findings require further investigation.
+2
+exact thresholds for different physiological parameters The current study has several limitations. Restora-
+such as optimal mean arterial blood pressure, PaCO , tion of rScO occurred without any documented inter-
+2 2
+PaO and haemoglobin correction for an individual ventions in 25% of patients in the operating room,
+2
+patient are currently unknown. For example, should a and 68% of patients in ICU. This could have been
+patient receive red cell transfusion for haemoglobin related to non-compliance with the protocol, possibly
+level of 85 g.l (cid:1)1 in ICU if rScO is 25% below baseline, due to conflicting clinical priorities, or it is possible 2
+but all other physiological parameters are within the that the algorithm was followed but the interventions
+acceptable range? It is an open question that requires were not entered into the monitor, that is, not
+discussion. It is also important to note that recent evi- recorded. Another possibility is that the physiological
+dence suggests that increasing mean arterial blood limits could have been within an acceptable range, not
+pressure by administration of phenylephrine or vaso- requiring any intervention.
+pressin may in fact reduce cerebral oxygenation as a We were unable to restore rScO to baseline values 2
+result of cerebral vasoconstriction [21]. in 20% of patients in the operating room and 12% of
+Furthermore, neither Subramanian et al. [19] nor patients in ICU. Although the previously reported
+Deschamps et al. [20] included patients undergoing restoration failure rates for rScO varied between 3%
+2
+deep circulatory arrest. Our study included patients and 20% during CPB [8, 19, 20], none of these studies
+undergoing aortic arch surgery with deep circulatory included patients with deep hypothermic circulatory
+arrest, resulting in a considerable number of desatura- arrest. This particular sub-group of patients has higher
+tions that were not amendable to interventions rates of cerebral desaturation that are not amendable to
+designed to restore rScO . standard interventions during circulatory arrest. Fur-
+2
+Streamlining the current research developments in thermore, unsuccessful reversal of rScO could have 2
+detecting lower and higher limits of cerebral autoregu- potentially resulted in higher number of patients with
+lation by employment of cerebral oximetry monitoring POD in the interventional group. However, delirium
+with integrated blood pressure variations may address rates in patients with ‘successful’ vs. ‘unsuccessful’
+some of the limitations of the current approach [22]. reversal vs. ‘no interventions’, were not significantly
+Furthermore, the exact threshold for the treatment of different. In addition, patients with poor baseline rScO
+2
+cerebral desaturation is not well established. We chose values could also have contributed to reduced
+a 25% reduction from baseline as a threshold for inter- reversibility of rScO decreases, and resulted in reduced 2
+ventions. Perhaps keeping values closer to the baseline numbers of patients receiving successful treatment.
+would have been a better choice. It is possible that a In conclusion, this study suggests that the baseline
+larger study recruiting several thousands of patients rScO ≤ 50% carried better predictive value of POD
+2
+may provide more information on the importance of than a relative change in rScO values during the peri-
+2
+rScO reversibility with respect to clinically meaningful operative period. It has been previously suggested that
+2
+outcomes. It may also provide an indication of what low rScO might be a reflection of poor cognitive
+2
+cut-off limits for duration and severity of rScO desat- reserve in awake elderly subjects [25]. It is important
+2
+urations are associated with poor outcomes. to recognise that cognitive reserve is included in most
+It was not surprising that longer bypass times were frailty evaluation tools, and the incidence of POD
+associated with higher risk of POD. Interestingly, we increases exponentially with the advanced frailty scores
+© 2017 The Association of Anaesthetists of Great Britain and Ireland 1465
+13652044,
+2017,
+12,
+Downloaded
+from
+https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.14056
+by Zhonglin
+Chen
+- Xian
+Jiaotong
+University
+, Wiley
+Online
+Library
+on
+[26/08/2026].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+
+[[PAGE 11]]
+Anaesthesia 2017, 72, 1456–1466 Lei et al. | Cerebral oximetry and postoperative delirium after cardiac surgery
+[26]. Consequently, baseline rScO might be a quanti- Journal of Cardiothoracic and Vascular Anesthesia 2006; 20: 2
+tative reflection of combined frailty and cognitive
+450–5.
+12. Fischer GW. Recent advances in application of cerebral oxime-
+reserve scores. Measurements of baseline rScO 2 could try in adult cardiovascular surgery. Seminars of Cardiothoracic
+optimise peri-operative risk stratification and direct and Vascular Anesthesia 2008; 12: 60–9.
+13. Green DW, Kunst G. Cerebral oximetry and its role in adult car-
+appropriate preventive and therapeutic strategies
+diac, non-cardiac surgery and resuscitation from cardiac
+towards reducing POD. arrest. Anaesthesia 2017; 72: 48–57.
+14. Checketts MR, Alladi R, Ferguson K, et al. Recommendations
+Acknowledgements for standards of monitoring during anaesthesia and recovery
+2015: AAGBI. Anaesthesia 2016; 71: 85–93.
+Registered at www.clinicaltrials.gov, NCT01707446. The 15. Ely EW, Inouye SK, Bernard GR, et al. Delirium in mechanically
+ventilated patients: validity and reliability of the confusion
+authors acknowledge the support of the Department of
+assessment method for the intensive care unit (CAM-ICU).
+Anesthesia, the Division of Cardiovascular Surgery, the Journal of American Medical Association 2001; 286: 2703–10.
+Perfusionists, and the Cardiovascular Intensive Care 16. Schoen J, Meyerrose J, Paarmann H, Heringlake M, Hueppe M,
+Berger KU. Preoperative regional cerebral oxygen saturation is
+nurses at Toronto General Hospital, University Health
+a predictor of postoperative delirium in on-pump cardiac sur-
+Network, Toronto, Ontario, Canada. The study was sup- gery patients: a prospective observational trial. Critical Care
+2011; 15: 1–10.
+ported in part by Covidien Canada Ltd, and the Depart-
+17. De Tournay-Jette(cid:1) E, Dupuis G, Bherer L, Deschamps A, Cartier
+ment of Anesthesia and Pain Management, Toronto R, Denault A. The relationship between cerebral oxygen satu-
+General Hospital, Toronto, Canada. No other external ration changes and postoperative cognitive dysfunction in
+elderly patients after coronary artery bypass graft surgery.
+funding or competing interests declared.
+Journal of Cardiothoracic and Vascular Anesthesia 2011; 25:
+95–104.
+References 18. Colak Z, Borojevic M, Bogovic A, Ivancan V, Biocina B, Majeric-
+1. Djaiani G, Silverton N, Fedorko L, et al. Dexmedetomidine ver- Kogler V. Influence of intraoperative cerebral oximetry moni-
+sus propofol sedation reduces delirium after cardiac surgery: a toring on neurocognitive function after coronary artery bypass
+randomized controlled trial. Anesthesiology 2016; 124: 362– surgery: a randomized, prospective study. European Journal of
+8. Cardiothoracic Surgery 2015; 47: 447–54.
+2. Inouye SK. Delirium in older persons. New England Journal of 19. Subramanian B, Nyman C, Fritock M, et al. A muticenter pilot
+Medicine 2006; 354: 1157–65. study assessing regional cerebral oxygen desaturation fre-
+3. Murkin JM. Cerebral oximetry: monitoring the brain as the quency during cardiopulmonary bypass and responsiveness to
+index organ. Anesthesiology 2011; 114: 12–3. an intervention algorithm. Anesthesia and Analgesia 2016;
+4. Murkin JM, Giraldo M. Alpha-stat, beach chair, cerebral
+1222: 1786–93.
+autoregulation. . .But who is at risk? Canadian Journal of Anes- 20. Deschamps A, Hall R, Grocott H, et al. Cerebral oximetry mon-
+thesia 2016; 63: 513–8. itoring to maintain normal cerebral oxygen saturation during
+5. Yao FS, Tseng CC, Ho CY, Levin SK, Illner P. Cerebral oxygen high-risk cardiac surgery: a randomized controlled feasibility
+desaturation is associated with early postoperative neuropsy- trial. Anesthesiology 2016; 124: 826–36.
+chological dysfunction in patients undergoing cardiac surgery. 21. Sperna Weiland NH, Brevoord D, Jo€bsis DA, et al. Cerebral
+Journal of Cardiothoracic and Vascular Anesthesia 2004; 18: oxygenation during changes in vascular resistance and flow in
+552–8. patients on cardiopulmonary bypass – a physiological proof of
+6. Slater JP, Guarino T, Stack J, et al. Cerebral oxygen desatura- concept study. Anaesthesia 2017; 72: 49–56.
+tion predicts cognitive decline and longer hospital stay 22. Hori D, Brown C, Ono M, et al. Arterial pressure above the
+after cardiac surgery. Annals of Thoracic Surgery 2009; 87: upper cerebral autoregulation limit during cardiopulmonary
+36–44. bypass is associated with postoperative delirium. British Jour-
+7. Goldman S, Sutter F, Ferdinand F, Trace C. Optimizing intraop- nal of Anaesthesia 2014; 113: 1009–17.
+erative cerebral oxygen delivery using noninvasive cerebral 23. Stamou SC, Nussbaum M, Stiegel RM, et al. Effect of body
+oximetry decreases the incidence of stroke for cardiac surgical mass index on outcomes after cardiac surgery: is there an
+patients. Heart Surgery Forum 2004; 7: E376–81. obesity paradox? Annals of Thoracic Surgery 2011; 91: 42–7.
+8. Murkin JM, Adams SJ, Novick RJ, et al. Monitoring brain oxy- 24. Mashour GA, Shanks AM, Kheterpal S. Perioperative stroke
+gen saturation during coronary bypass surgery: a randomized, and associated mortality after noncardiac, nonneurologic sur-
+prospective study. Anesthesia and Analgesia 2007; 104: 51– gery. Anesthesiology 2011; 114: 1289–96.
+8. 25. Carlson BW, Neelon VJ, Carlson JR, Hartman M, Bliwise DL.
+9. Heringlake M, Garbers C, Kabler JH, et al. Preoperative cere- Cerebral oxygenation in wake and during sleep and its rela-
+bral oxygen saturation and clinical outcomes in cardiac sur- tionship to cognitive function in community-dwelling older
+gery. Anesthesiology 2011; 114: 58–69. adults without sleep disordered breathing. Journal of Geron-
+10. Edmonds HL Jr. Pro: all cardiac surgical patients should have tology: Series A Biological Science Medical Science 2011;
+intraoperative cerebral oxygenation monitoring. Journal of
+66A: 150–6.
+Cardiothoracic and Vascular Anesthesia 2006; 20: 445–9. 26. Leung JM, Tsai TL, Sands LP. Brief report: preoperative frailty in
+11. Davies LK, Janelle GM. Con: all cardiac surgical patients should older surgical patients is associated with early postoperative
+not have intraoperative cerebral oxygenation monitoring. delirium. Anesthesia and Analgesia 2011; 112: 1199–201.
+1466 © 2017 The Association of Anaesthetists of Great Britain and Ireland
+13652044,
+2017,
+12,
+Downloaded
+from
+https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.14056
+by
+Zhonglin
+Chen
+- Xian
+Jiaotong
+University
+, Wiley
+Online
+Library
+on [26/08/2026].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-conditions)
+on
+Wiley
+Online
+Library
+for rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the applicable
+Creative
+Commons
+License

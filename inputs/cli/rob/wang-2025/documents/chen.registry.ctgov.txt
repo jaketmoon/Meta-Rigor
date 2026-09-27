@@ -1,0 +1,1879 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02473718",
+      "orgStudyIdInfo": {
+        "id": "201310111"
+      },
+      "organization": {
+        "fullName": "Washington University School of Medicine",
+        "class": "OTHER"
+      },
+      "briefTitle": "Fluid Balance in the ICU - Interventions to Minimize Fluids in Patients With Septic Shock",
+      "officialTitle": "Fluid Balance in the ICU - Interventions to Minimize Fluids in Patients With Septic Shock"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-07",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2014-01"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2014-12",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2015-01",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2015-06-10",
+      "studyFirstSubmitQcDate": "2015-06-11",
+      "studyFirstPostDateStruct": {
+        "date": "2015-06-16",
+        "type": "ESTIMATED"
+      },
+      "resultsFirstSubmitDate": "2018-01-31",
+      "resultsFirstSubmitQcDate": "2018-02-27",
+      "resultsFirstPostDateStruct": {
+        "date": "2018-03-29",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-07-22",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-07-24",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Washington University School of Medicine",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of the study is to determine if a protocol that assesses patients' daily fluid intake and output can decrease the overall amount of fluid patients receive during the first five days in the ICU. The study will also determine if decreasing overall fluids can decrease adverse events associated with mechanical ventilation, such as ventilator-associated pneumonias.\n\nThe protocol will include daily ultrasounds and blood draws to evaluate fluid balance. Ultrasound will be used to measure changes in the diameter of the inferior vena cava with respiration."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Septic Shock",
+        "Fluid Therapy",
+        "Hypotension"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 82,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Fluid minimization group",
+          "type": "EXPERIMENTAL",
+          "description": "Patients in the fluid minimization arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Patients who are intubated will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ. A fluid challenge in the form of a leg raise or infusion of 250 mL of crystalloid over 5 minutes will then be performed and the parameters repeated. The patient will be judged to be fluid responsive or nonresponsive based on the changes in the parameters. Fluid nonresponsive patients will receive the intervention of the fluid minimization protocol by concentrating continuous infusions, discontinuing maintenance fluids, and minimizing carrier fluids. Diuretics and/or ultrafiltration will be utilized to maintain an even to negative fluid balance.",
+          "interventionNames": [
+            "Other: Fluid minimization protocol",
+            "Device: Ultrasound"
+          ]
+        },
+        {
+          "label": "Usual care group",
+          "type": "NO_INTERVENTION",
+          "description": "Patients in the usual care arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Patients who are intubated will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ."
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Fluid minimization protocol",
+          "description": "Fluid nonresponsive patients will have continuous infusions concentrated, maintenance fluids discontinued, and carrier fluids minimized. Diuretics and/or ultrafiltration will be utilized to maintain an even to negative fluid balance in patients demonstrating fluid non-responsiveness.",
+          "armGroupLabels": [
+            "Fluid minimization group"
+          ]
+        },
+        {
+          "type": "DEVICE",
+          "name": "Ultrasound",
+          "armGroupLabels": [
+            "Fluid minimization group"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Cumulative Fluid Administered",
+          "description": "Cumulative volume of crystalloid boluses, continuous infusions, and colloid fluids administered in mL by day 3",
+          "timeFrame": "Day 3"
+        },
+        {
+          "measure": "Cumulative Fluid Administered",
+          "description": "Cumulative volume of crystalloid boluses, continuous infusions, and colloid fluids administered in mL by day 5",
+          "timeFrame": "Day 5"
+        },
+        {
+          "measure": "Net Fluid Balance",
+          "description": "Difference between cumulative volume of all IV fluids administered and all outputs in mL by day 3",
+          "timeFrame": "Day 3"
+        },
+        {
+          "measure": "Net Fluid Balance",
+          "description": "Difference between cumulative volume of all IV fluids administered and all outputs in mL by day 5",
+          "timeFrame": "Day 5"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Ventilator Days",
+          "description": "Number of days requiring mechanical ventilation support, including continuous noninvasive positive pressure ventilation",
+          "timeFrame": "Hospital stay, median of 16 days"
+        },
+        {
+          "measure": "Rate of Renal Replacement Therapy",
+          "description": "Percentage of patients requiring renal replacement therapy",
+          "timeFrame": "ICU stay, median of 10 days"
+        },
+        {
+          "measure": "Mortality",
+          "description": "Percentage of patients who died during their hospitalization",
+          "timeFrame": "Hospital stay, median of 16 days"
+        },
+        {
+          "measure": "Mortality",
+          "description": "Percentage of patients who died during their ICU stay",
+          "timeFrame": "ICU stay, median of 10 days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Adult patient with septic shock as the primary cause of hypotension\n2. Requiring vasopressors for 12 hours after adequate fluid resuscitation and at the time of enrollment\n\nExclusion Criteria:\n\n1. Patients with a history of end-stage renal disease requiring outpatient dialysis\n2. Patients whose goals of care are consistent with comfort measures only\n3. Pregnant patients",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "89 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "10858412",
+          "type": "BACKGROUND",
+          "citation": "Alsous F, Khamiees M, DeGirolamo A, Amoateng-Adjepong Y, Manthous CA. Negative fluid balance predicts survival in patients with septic shock: a retrospective pilot study. Chest. 2000 Jun;117(6):1749-54. doi: 10.1378/chest.117.6.1749."
+        },
+        {
+          "pmid": "11445675",
+          "type": "BACKGROUND",
+          "citation": "Angus DC, Linde-Zwirble WT, Lidicker J, Clermont G, Carcillo J, Pinsky MR. Epidemiology of severe sepsis in the United States: analysis of incidence, outcome, and associated costs of care. Crit Care Med. 2001 Jul;29(7):1303-10. doi: 10.1097/00003246-200107000-00002."
+        },
+        {
+          "pmid": "23353941",
+          "type": "BACKGROUND",
+          "citation": "Dellinger RP, Levy MM, Rhodes A, Annane D, Gerlach H, Opal SM, Sevransky JE, Sprung CL, Douglas IS, Jaeschke R, Osborn TM, Nunnally ME, Townsend SR, Reinhart K, Kleinpell RM, Angus DC, Deutschman CS, Machado FR, Rubenfeld GD, Webb SA, Beale RJ, Vincent JL, Moreno R; Surviving Sepsis Campaign Guidelines Committee including the Pediatric Subgroup. Surviving sepsis campaign: international guidelines for management of severe sepsis and septic shock: 2012. Crit Care Med. 2013 Feb;41(2):580-637. doi: 10.1097/CCM.0b013e31827e83af."
+        },
+        {
+          "pmid": "10903232",
+          "type": "BACKGROUND",
+          "citation": "Michard F, Boussat S, Chemla D, Anguel N, Mercat A, Lecarpentier Y, Richard C, Pinsky MR, Teboul JL. Relation between respiratory changes in arterial pulse pressure and fluid responsiveness in septic patients with acute circulatory failure. Am J Respir Crit Care Med. 2000 Jul;162(1):134-8. doi: 10.1164/ajrccm.162.1.9903035."
+        },
+        {
+          "pmid": "12065368",
+          "type": "BACKGROUND",
+          "citation": "Michard F, Teboul JL. Predicting fluid responsiveness in ICU patients: a critical analysis of the evidence. Chest. 2002 Jun;121(6):2000-8. doi: 10.1378/chest.121.6.2000."
+        },
+        {
+          "pmid": "18628220",
+          "type": "BACKGROUND",
+          "citation": "Marik PE, Baram M, Vahid B. Does central venous pressure predict fluid responsiveness? A systematic review of the literature and the tale of seven mares. Chest. 2008 Jul;134(1):172-8. doi: 10.1378/chest.07-2331."
+        },
+        {
+          "pmid": "17900477",
+          "type": "BACKGROUND",
+          "citation": "Marik PE, Baram M. Noninvasive hemodynamic monitoring in the intensive care unit. Crit Care Clin. 2007 Jul;23(3):383-400. doi: 10.1016/j.ccc.2007.05.002."
+        },
+        {
+          "pmid": "11794169",
+          "type": "BACKGROUND",
+          "citation": "Rivers E, Nguyen B, Havstad S, Ressler J, Muzzin A, Knoblich B, Peterson E, Tomlanovich M; Early Goal-Directed Therapy Collaborative Group. Early goal-directed therapy in the treatment of severe sepsis and septic shock. N Engl J Med. 2001 Nov 8;345(19):1368-77. doi: 10.1056/NEJMoa010307."
+        },
+        {
+          "pmid": "16424713",
+          "type": "BACKGROUND",
+          "citation": "Vincent JL, Sakr Y, Sprung CL, Ranieri VM, Reinhart K, Gerlach H, Moreno R, Carlet J, Le Gall JR, Payen D; Sepsis Occurrence in Acutely Ill Patients Investigators. Sepsis in European intensive care units: results of the SOAP study. Crit Care Med. 2006 Feb;34(2):344-53. doi: 10.1097/01.ccm.0000194725.48928.3a."
+        },
+        {
+          "pmid": "16714767",
+          "type": "BACKGROUND",
+          "citation": "National Heart, Lung, and Blood Institute Acute Respiratory Distress Syndrome (ARDS) Clinical Trials Network; Wiedemann HP, Wheeler AP, Bernard GR, Thompson BT, Hayden D, deBoisblanc B, Connors AF Jr, Hite RD, Harabin AL. Comparison of two fluid-management strategies in acute lung injury. N Engl J Med. 2006 Jun 15;354(24):2564-75. doi: 10.1056/NEJMoa062200. Epub 2006 May 21."
+        },
+        {
+          "pmid": "26291900",
+          "type": "DERIVED",
+          "citation": "Chen C, Kollef MH. Targeted Fluid Minimization Following Initial Resuscitation in Septic Shock: A Pilot Study. Chest. 2015 Dec;148(6):1462-1469. doi: 10.1378/chest.15-1525."
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Fluid Minimization Group",
+          "description": "Patients in the fluid minimization arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Intubated patients will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ. Fluid challenge as a leg raise or infusion of 250 mL of crystalloid over 5 minutes will be performed and parameters repeated. Fluid responsiveness based on the changes in the parameters. Fluid nonresponsive patients will undergo the fluid minimization protocol.\n\nFluid minimization protocol: Fluid nonresponsive patients will have continuous infusions concentrated, maintenance fluids discontinued, and carrier fluids minimized. Diuretics and/or ultrafiltration will be utilized to maintain an even to negative fluid balance."
+        },
+        {
+          "id": "FG001",
+          "title": "Usual Care Group",
+          "description": "Patients in the usual care arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Patients who are intubated will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "41"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "41"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "41"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "41"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Fluid Minimization Group",
+          "description": "Patients in the fluid minimization arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Intubated patients will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ. Fluid challenge as a leg raise or infusion of 250 mL of crystalloid over 5 minutes will be performed and parameters repeated. Fluid responsiveness based on the changes in the parameters. Fluid nonresponsive patients will undergo the fluid minimization protocol.\n\nFluid minimization protocol: Fluid nonresponsive patients will have continuous infusions concentrated, maintenance fluids discontinued, and carrier fluids minimized. Diuretics and/or ultrafiltration will be utilized to maintain an even to negative fluid balance."
+        },
+        {
+          "id": "BG001",
+          "title": "Usual Care Group",
+          "description": "Patients in the usual care arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Patients who are intubated will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "41"
+            },
+            {
+              "groupId": "BG001",
+              "value": "41"
+            },
+            {
+              "groupId": "BG002",
+              "value": "82"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "62"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "58",
+                      "lowerLimit": "45",
+                      "upperLimit": "65"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "60",
+                      "lowerLimit": "50",
+                      "upperLimit": "68"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "58",
+                      "lowerLimit": "51",
+                      "upperLimit": "66"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "21"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "41"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "21"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "41"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race and Ethnicity Not Collected",
+          "populationDescription": "Race and Ethnicity were not collected from any participant.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "United States",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "APACHE II score",
+          "description": "Acute Physiology And Chronic Health Evaluation II (APACHE II) score is a severity of illness scoring system. An integer score from 0 to 71 is calculated based on physiologic parameters within the first 24 hours of admission to the ICU. Higher scores correspond to more severe disease and an increasing risk of death.",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "units on a scale",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "25",
+                      "lowerLimit": "22",
+                      "upperLimit": "28.5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "26",
+                      "lowerLimit": "20.5",
+                      "upperLimit": "30"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "25",
+                      "lowerLimit": "21.5",
+                      "upperLimit": "29.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "SOFA score",
+          "description": "Sequential organ failure assessment (SOFA) score is a severity of illness scoring system. An integer score from 0 to 24 is calculated based on physiologic parameters at the time of admission. Higher scores correspond to more severe disease and an increasing risk of death.",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "units on a scale",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "13",
+                      "lowerLimit": "11",
+                      "upperLimit": "15"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "12",
+                      "lowerLimit": "11",
+                      "upperLimit": "15"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "13",
+                      "lowerLimit": "11",
+                      "upperLimit": "15"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BMI",
+          "paramType": "MEDIAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "kg/m^2",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "32.62",
+                      "lowerLimit": "24.37",
+                      "upperLimit": "37.85"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "31.13",
+                      "lowerLimit": "25.98",
+                      "upperLimit": "37.41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "32.33",
+                      "lowerLimit": "24.84",
+                      "upperLimit": "37.85"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Intubation status",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "28"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "59"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Presence of ARDS",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "26"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "51"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Presence of COPD",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Presence of hypertension",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "33"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Presence of hyperlipidemia",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Presence of diabetes mellitus",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "22"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Presence of systolic heart failure",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Presence of diastolic heart failure",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Presence of chronic kidney disease",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Presence of active malignancy",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "26"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Presence of end-stage liver disease",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "82"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Cumulative Fluid Administered",
+          "description": "Cumulative volume of crystalloid boluses, continuous infusions, and colloid fluids administered in mL by day 3",
+          "populationDescription": "Five patients in the fluid minimization group and two patients in the usual care group died prior to the first time point analysis at day three. One patient in the usual care group was transferred out of the ICU prior to the first time point analysis at day 3.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "mL of study fluid",
+          "timeFrame": "Day 3",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Fluid Minimization Group",
+              "description": "Patients in the fluid minimization arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Intubated patients will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ. Fluid challenge as a leg raise or infusion of 250 mL of crystalloid over 5 minutes will be performed and parameters repeated. Fluid responsiveness based on the changes in the parameters. Fluid nonresponsive patients will undergo the fluid minimization protocol.\n\nFluid minimization protocol: Fluid nonresponsive patients will have continuous infusions concentrated, maintenance fluids discontinued, and carrier fluids minimized. Diuretics and/or ultrafiltration will be utilized to maintain an even to negative fluid balance."
+            },
+            {
+              "id": "OG001",
+              "title": "Usual Care Group",
+              "description": "Patients in the usual care arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Patients who are intubated will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "36"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "38"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4417",
+                      "lowerLimit": "3139",
+                      "upperLimit": "6528"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4110",
+                      "lowerLimit": "2702",
+                      "upperLimit": "10004"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Cumulative Fluid Administered",
+          "description": "Cumulative volume of crystalloid boluses, continuous infusions, and colloid fluids administered in mL by day 5",
+          "populationDescription": "Five patients in the fluid minimization group and four patients in the usual care group died prior to analysis at day 5. Five patients in the fluid minimization group and six patients in the usual care group were transferred out of the ICU prior to analysis at day 5.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "mL of study fluid",
+          "timeFrame": "Day 5",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Fluid Minimization Group",
+              "description": "Patients in the fluid minimization arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Intubated patients will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ. Fluid challenge as a leg raise or infusion of 250 mL of crystalloid over 5 minutes will be performed and parameters repeated. Fluid responsiveness based on the changes in the parameters. Fluid nonresponsive patients will undergo the fluid minimization protocol.\n\nFluid minimization protocol: Fluid nonresponsive patients will have continuous infusions concentrated, maintenance fluids discontinued, and carrier fluids minimized. Diuretics and/or ultrafiltration will be utilized to maintain an even to negative fluid balance."
+            },
+            {
+              "id": "OG001",
+              "title": "Usual Care Group",
+              "description": "Patients in the usual care arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Patients who are intubated will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "31"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "31"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6244",
+                      "lowerLimit": "5106",
+                      "upperLimit": "8497"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "8690",
+                      "lowerLimit": "4211",
+                      "upperLimit": "13197"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Net Fluid Balance",
+          "description": "Difference between cumulative volume of all IV fluids administered and all outputs in mL by day 3",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "mL",
+          "timeFrame": "Day 3",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Fluid Minimization Group",
+              "description": "Patients in the fluid minimization arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Intubated patients will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ. Fluid challenge as a leg raise or infusion of 250 mL of crystalloid over 5 minutes will be performed and parameters repeated. Fluid responsiveness based on the changes in the parameters. Fluid nonresponsive patients will undergo the fluid minimization protocol.\n\nFluid minimization protocol: Fluid nonresponsive patients will have continuous infusions concentrated, maintenance fluids discontinued, and carrier fluids minimized. Diuretics and/or ultrafiltration will be utilized to maintain an even to negative fluid balance."
+            },
+            {
+              "id": "OG001",
+              "title": "Usual Care Group",
+              "description": "Patients in the usual care arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Patients who are intubated will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "36"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "38"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1952",
+                      "lowerLimit": "48",
+                      "upperLimit": "5003"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3124",
+                      "lowerLimit": "767",
+                      "upperLimit": "10103"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Net Fluid Balance",
+          "description": "Difference between cumulative volume of all IV fluids administered and all outputs in mL by day 5",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "mL",
+          "timeFrame": "Day 5",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Fluid Minimization Group",
+              "description": "Patients in the fluid minimization arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Intubated patients will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ. Fluid challenge as a leg raise or infusion of 250 mL of crystalloid over 5 minutes will be performed and parameters repeated. Fluid responsiveness based on the changes in the parameters. Fluid nonresponsive patients will undergo the fluid minimization protocol.\n\nFluid minimization protocol: Fluid nonresponsive patients will have continuous infusions concentrated, maintenance fluids discontinued, and carrier fluids minimized. Diuretics and/or ultrafiltration will be utilized to maintain an even to negative fluid balance."
+            },
+            {
+              "id": "OG001",
+              "title": "Usual Care Group",
+              "description": "Patients in the usual care arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Patients who are intubated will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "31"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "31"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2641",
+                      "lowerLimit": "-1837",
+                      "upperLimit": "5075"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3616",
+                      "lowerLimit": "-1513",
+                      "upperLimit": "9746"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Ventilator Days",
+          "description": "Number of days requiring mechanical ventilation support, including continuous noninvasive positive pressure ventilation",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "days",
+          "timeFrame": "Hospital stay, median of 16 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Fluid Minimization Group",
+              "description": "Patients in the fluid minimization arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Intubated patients will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ. Fluid challenge as a leg raise or infusion of 250 mL of crystalloid over 5 minutes will be performed and parameters repeated. Fluid responsiveness based on the changes in the parameters. Fluid nonresponsive patients will undergo the fluid minimization protocol.\n\nFluid minimization protocol: Fluid nonresponsive patients will have continuous infusions concentrated, maintenance fluids discontinued, and carrier fluids minimized. Diuretics and/or ultrafiltration will be utilized to maintain an even to negative fluid balance."
+            },
+            {
+              "id": "OG001",
+              "title": "Usual Care Group",
+              "description": "Patients in the usual care arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Patients who are intubated will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "41"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "41"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8",
+                      "lowerLimit": "3.25",
+                      "upperLimit": "15.25"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5",
+                      "lowerLimit": "3",
+                      "upperLimit": "9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Rate of Renal Replacement Therapy",
+          "description": "Percentage of patients requiring renal replacement therapy",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "ICU stay, median of 10 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Fluid Minimization Group",
+              "description": "Patients in the fluid minimization arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Intubated patients will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ. Fluid challenge as a leg raise or infusion of 250 mL of crystalloid over 5 minutes will be performed and parameters repeated. Fluid responsiveness based on the changes in the parameters. Fluid nonresponsive patients will undergo the fluid minimization protocol.\n\nFluid minimization protocol: Fluid nonresponsive patients will have continuous infusions concentrated, maintenance fluids discontinued, and carrier fluids minimized. Diuretics and/or ultrafiltration will be utilized to maintain an even to negative fluid balance."
+            },
+            {
+              "id": "OG001",
+              "title": "Usual Care Group",
+              "description": "Patients in the usual care arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Patients who are intubated will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "41"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "41"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "17"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "16"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mortality",
+          "description": "Percentage of patients who died during their hospitalization",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Hospital stay, median of 16 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Fluid Minimization Group",
+              "description": "Patients in the fluid minimization arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Intubated patients will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ. Fluid challenge as a leg raise or infusion of 250 mL of crystalloid over 5 minutes will be performed and parameters repeated. Fluid responsiveness based on the changes in the parameters. Fluid nonresponsive patients will undergo the fluid minimization protocol.\n\nFluid minimization protocol: Fluid nonresponsive patients will have continuous infusions concentrated, maintenance fluids discontinued, and carrier fluids minimized. Diuretics and/or ultrafiltration will be utilized to maintain an even to negative fluid balance."
+            },
+            {
+              "id": "OG001",
+              "title": "Usual Care Group",
+              "description": "Patients in the usual care arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Patients who are intubated will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "41"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "41"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Mortality",
+          "description": "Percentage of patients who died during their ICU stay",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "ICU stay, median of 10 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Fluid Minimization Group",
+              "description": "Patients in the fluid minimization arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Intubated patients will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ. Fluid challenge as a leg raise or infusion of 250 mL of crystalloid over 5 minutes will be performed and parameters repeated. Fluid responsiveness based on the changes in the parameters. Fluid nonresponsive patients will undergo the fluid minimization protocol.\n\nFluid minimization protocol: Fluid nonresponsive patients will have continuous infusions concentrated, maintenance fluids discontinued, and carrier fluids minimized. Diuretics and/or ultrafiltration will be utilized to maintain an even to negative fluid balance."
+            },
+            {
+              "id": "OG001",
+              "title": "Usual Care Group",
+              "description": "Patients in the usual care arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Patients who are intubated will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "41"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "41"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "20"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Hospital length of stay, median of 16 days",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Fluid Minimization Group",
+          "description": "Patients in the fluid minimization arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Intubated patients will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ. Fluid challenge as a leg raise or infusion of 250 mL of crystalloid over 5 minutes will be performed and parameters repeated. Fluid responsiveness based on the changes in the parameters. Fluid nonresponsive patients will undergo the fluid minimization protocol.\n\nFluid minimization protocol: Fluid nonresponsive patients will have continuous infusions concentrated, maintenance fluids discontinued, and carrier fluids minimized. Diuretics and/or ultrafiltration will be utilized to maintain an even to negative fluid balance.",
+          "deathsNumAffected": 23,
+          "deathsNumAtRisk": 41,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 41,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 41
+        },
+        {
+          "id": "EG001",
+          "title": "Usual Care Group",
+          "description": "Patients in the usual care arm will have daily fluid intake and output, baseline central venous pressure, mean arterial pressure, central venous oxygen saturation, pulse pressure variation, and inferior vena cava diameters during inspiration and expiration recorded by a dedicated research fellow. Patients who are intubated will also have corrected flow time, stroke volume, cardiac output, and cardiac index recorded via CardioQ.",
+          "deathsNumAffected": 20,
+          "deathsNumAtRisk": 41,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 41,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 41
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "limitationsAndCaveats": {
+        "description": "Pilot study with small sample size Single center study Possible undetected crossover effect or Hawthorne effect"
+      },
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": false
+      },
+      "pointOfContact": {
+        "title": "Catherine Chen",
+        "organization": "University of Texas Southwestern Medical Center",
+        "email": "catherine.chen@utsouthwestern.edu",
+        "phone": "214-648-9095"
+      }
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-08-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D012772",
+          "term": "Shock, Septic"
+        },
+        {
+          "id": "D007022",
+          "term": "Hypotension"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D018805",
+          "term": "Sepsis"
+        },
+        {
+          "id": "D007239",
+          "term": "Infections"
+        },
+        {
+          "id": "D018746",
+          "term": "Systemic Inflammatory Response Syndrome"
+        },
+        {
+          "id": "D007249",
+          "term": "Inflammation"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D012769",
+          "term": "Shock"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D014463",
+          "term": "Ultrasonography"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003952",
+          "term": "Diagnostic Imaging"
+        },
+        {
+          "id": "D019937",
+          "term": "Diagnostic Techniques and Procedures"
+        },
+        {
+          "id": "D003933",
+          "term": "Diagnosis"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

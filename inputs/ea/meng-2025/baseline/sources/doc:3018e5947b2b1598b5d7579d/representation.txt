@@ -1,0 +1,581 @@
+[DOCLING_PAGE 1]
+
+British Journal of Anaesthesia , 126 (3): 665 e 673 (2021)
+
+doi: 10.1016/j.bja.2020.10.041 Advance Access Publication Date: 24 December 2020 Neuroscience and Neuroanaesthesia
+
+NEUROSCIENCE AND NEUROANAESTHESIA
+
+Propofol plus low-dose dexmedetomidine infusion and postoperative delirium in older patients undergoing cardiac surgery
+
+Mona Momeni 1, *, C  eline Khalifa 1 , Guillaume Lemaire 1 , Christine Watremez 1 , Robert Tircoveanu 1 , Michel Van Dyck 1 , David Kahn 1 , Maria Rosal Martins 1 , Stefano Mastrobuoni 2 , Laurent De Kerchove 2 , Serge Henri Zango 3 and Luc-Marie Jacquet 4
+
+1 Department of Anaesthesiology; Cliniques Universitaires Saint Luc, Universit  e Cathlique de Louvain, Institut de Recherche Exp  erimentale et Clinique (IREC), Brussels, Belgium, 2 Department of Cardiac Surgery; Cliniques Universitaires Saint Luc, Universit  e Cathlique de Louvain, Institut de Recherche Exp  erimentale et Clinique (IREC), Brussels, Belgium, 3 Department of Epidemiology and Statistics; Cliniques Universitaires Saint Luc, Universit  e Cathlique de Louvain, Institut de Recherche Exp  erimentale et Clinique (IREC), Brussels, Belgium and 4 Department of Intensive Care Unit; Cliniques Universitaires Saint Luc, Universit  e Cathlique de Louvain, Institut de Recherche Exp  erimentale et Clinique (IREC), Brussels, Belgium
+
+*Corresponding author. E-mail: mona.momeni@uclouvain.be
+
+This work has been presented at the Euroanaesthesia meeting. June 2 e 4, 2018, Copenhagen, Denmark.
+
+Abstract
+
+Background: Postoperative delirium (POD) is a frequent complication in older patients. Dexmedetomidine might be effective in decreasing the incidence of POD. We hypothesised that adding low-dose rate dexmedetomidine infusion to a propofol sedation regimen would have fewer side-effects and would counteract the possible delirium producing properties of propofol, resulting in a lower risk of POD than propofol with placebo.
+
+Methods: In this double-blind placebo-controlled trial, patients  60 yr old undergoing on-pump cardiac surgery were randomised 1:1 to the following postoperative sedative regimens: a propofol infusion and dexmedetomidine (0.4 m g kg [UNMAPPED_GLYPH U+0000] 1 h [UNMAPPED_GLYPH U+0000] 1 ) or a propofol infusion and saline 0.9% (placebo group). The study drug was started at chest closure and continued for 10 h. The primary endpoint was in-hospital POD, assessed using the Confusion Assessment Method and chart review method.
+
+Results: POD over the course of hospital stay occurred in 31/177 (18%) and 33/172 (19%) patients in the dexmedetomidine and placebo arm, respectively ( P ¼ 0.687; odds ratio ¼ 0.89; 95% confidence interval, 0.52 e 1.54). The incidence of POD in the intensive care alone, or on the ward alone, was also not significantly different between the groups. Subjects in the dexmedetomidine group spent less median time in a delirious state ( P ¼ 0.026). Median administered postoperative norepinephrine was significantly higher in the dexmedetomidine group ( P < 0.001). One patient in the dexmedetomidine group and 10 patients in the placebo group died in the hospital.
+
+Conclusions: Adding low-dose rate dexmedetomidine to a sedative regimen based on propofol did not result in a different risk of in-hospital delirium in older patients undergoing cardiac surgery. With a suggestion of both harm and benefit in secondary outcomes, supplementing postoperative propofol with dexmedetomidine cannot be recommended based on this study.
+
+Clinical trial registration: NCT03388541.
+
+Keywords: cardiac surgery; Confusion Assessment Method; dexmedetomidine; older patients; postoperative delirium
+
+2020 British Journal of Anaesthesia. Published by Elsevier Ltd. All rights reserved.
+
+Received: 18 July 2020 ; Accepted: 29 October 2020 © For Permissions, please email: permissions@elsevier.com
+
+665
+
+[DOCLING_PAGE 2]
+
+666 -Momeni et al.
+
+Editor's key points
+
+ Some studies have reported that low-dose dexmedetomidine prevents postoperative delirium.
+
+ This trial tested whether a low dose rate postoperative dexmedetomidine infusion, combined with a usual practice propofol infusion, decreased the incidence of postoperative delirium in older patients after cardiac surgery.
+
+ Although the trial was too small to provide precise estimates, low-dose dexmedetomidine was not found to decrease significantly postoperative delirium incidence.
+
+ Taken together with other recent trials, the evidence suggesting that dexmedetomidine does not prevent postoperative delirium is more compelling than the evidence in favour.
+
+Postoperative delirium (POD) occurs in 20 e 53% of patients undergoing cardiac surgery. 1 e 3 POD is significantly associated with increased morbidity and mortality. 4,5
+
+Dexmedetomidine (DEX), an alpha-2 adrenergic agonist, is a suitable sedative drug after cardiac surgery. 6 Meta-analyses for cardiac surgery have shown a reduced incidence of POD when using relatively high doses of DEX when compared with propofol or other sedatives. 7 e 9 Meanwhile, animal and experimental studies have shown the neuroprotective effects of DEX. 10 e 12 The pathophysiology of POD in cardiac surgery is multifactorial and not fully elucidated. 13,14 Propofol, commonly used as sedative agent, may have delirogenic effects because of its ability to block the muscarinic acetylcholinergic receptors. 15 Indeed, the use of anticholinergic medications has been associated with a subsequent increase in delirium symptom severity in older medical patients with diagnosed delirium. 16
+
+One study showed that a loading dose of 0.4 m g kg [UNMAPPED_GLYPH U+0000] 1 of DEX followed by a continuous infusion of 0.2 e 0.7 m g kg [UNMAPPED_GLYPH U+0000] 1 h [UNMAPPED_GLYPH U+0000] 1 was associated with 47% absolute risk reduction of delirium compared with propofol sedation. 17 In another study, the continuous infusion of DEX until the removal of chest drains was associated with 14% absolute risk reduction of delirium compared with propofol sedation. 18 The results of these studies may therefore suggest that DEX when used alone is delirium sparing compared with propofol, or that propofol is associated with a non-trivial risk of delirium or both.
+
+It is, however, not known whether the addition of low dose rate DEX to a sedative regimen based on propofol can counter the possible delirogenic effects of propofol, often observed in older patients after cardiac surgery. We hypothesised that DEX at low dose rate, by stimulating alpha-2 adrenoreceptors, would have neuroprotective effects and that these putative benefits of DEX would counteract the possible delirogenic properties of propofol when used as a sedative agent. By using a low dose rate of DEX the frequency of main side-effects, namely bradycardia and low blood pressure, would theoretically be reduced. 6
+
+Methods
+
+This study was approved by Comit  e d'Ethique HospitaloFacultaire Saint-Luc-UCL on December 7, 2017 (2017/24JUL/ 374; Eudra-CT Number: 2017-002007-97). The principal investigator (Mona Momeni) registered the study before patient enrolment at ClinicalTrials.gov (NCT03388541) on August 01, 2017. Written informed consent was obtained from all patients. The study was initiated on January 17, 2018 and completed on August 12, 2019.
+
+Inclusion criteria and randomisation
+
+In this randomised, double-blind, placebo-controlled singlesite study, all patients  60 yr old undergoing cardiac surgery with cardiopulmonary bypass (CPB) were randomised 1:1 to two different sedative regimens: either a postoperative propofol infusion at a dose rate of 1 e 3 mg kg [UNMAPPED_GLYPH U+0000] 1 h [UNMAPPED_GLYPH U+0000] 1 and DEX infusion at a rate of 5 ml h [UNMAPPED_GLYPH U+0000] 1 corresponding to 0.4 m g kg [UNMAPPED_GLYPH U+0000] 1 h [UNMAPPED_GLYPH U+0000] 1 (DEX group) or to a propofol infusion at a dose of 1 e 3 mg kg [UNMAPPED_GLYPH U+0000] 1 h [UNMAPPED_GLYPH U+0000] 1 and placebo (saline 0.9%) at a rate of 5 ml h [UNMAPPED_GLYPH U+0000] 1 (placebo [PL] group). The infusion rate of the study drug was thus 5 ml h [UNMAPPED_GLYPH U+0000] 1 whether the patients were in the DEX or PL group. The propofol infusion was started before leaving the operating theatre and was continued until the moment the patient would be suitable for extubation. The study drug was prepared in a 50 ml syringe. The anaesthetist started the study medication once the chest was closed. The study medication was administered on a separate dedicated line over 10 h, regardless of when or whether extubation occurred.
+
+The exclusion criteria were patients with hepatic dysfunction (liver enzyme three times the upper limit of normal together with a serum albumin concentration below the normal reference limit), preoperative delirium, surgery without CPB, minimally invasive or robotic cardiac surgery, emergency surgery, patients on chronic renal replacement therapy, and patients not fluent in French. Trained study staff evaluated eligibility and proposed the trial. Written informed consent was obtained from all patients. The institutional research pharmacy in charge of the preparation of the study medication was contacted on the day of surgery, and was notified of each patient's weight. The research pharmacy used a computerised technique to randomise the patients in blocks of 10. The study medication was then prepared in laminar flow hoods and sent to the operating theatre. Participants, care providers, and investigators were all blinded to group allocation. The trial was conducted in accordance with the original protocol. Off-label use of DEX was only allowed as treatment of severe POD in the ICU but not as a sedative drug. Hyperactive POD was preferably treated with haloperidol, when deemed clinically indicated.
+
+Anaesthesia and postoperative care management
+
+After inclusion, subjects underwent a Mini-Mental State Examination. Premedication with alprazolam was allowed. Intraoperative neuromonitoring consisted of the NeuroSENSE ® depth-of-anaesthesia monitor and bilateral cerebral oximetry (INVOS 5100; Somanetics Corporation, Troy, MI, USA). Intraoperative efforts were made to optimise cerebral oxygenation and to avoid any EEG suppression. The depth of anaesthesia was based on the raw EEG and the corresponding spectral analysis. Anaesthetic technique was standardised. The following induction medications were used: midazolam 0.03 e 0.06 mg kg [UNMAPPED_GLYPH U+0000] 1 , sufentanil 0.3 e 0.5 m g kg [UNMAPPED_GLYPH U+0000] 1 , ketamine 0.3 e 0.5 mg kg [UNMAPPED_GLYPH U+0000] 1 , and a bolus dose of propofol. A continuous infusion of sufentanil at a rate of 0.5 e 0.8 m g kg [UNMAPPED_GLYPH U+0000] 1 h [UNMAPPED_GLYPH U+0000] 1 was administered for intraoperative analgesia. Anaesthesia was maintained with sevoflurane. Sevoflurane was continued
+
+[DOCLING_PAGE 3]
+
+Low dose rate dexmedetomidine and delirium
+
+667
+
+-
+
+Fig 1. Flowchart of the study.
+
+Eligible for inclusion:
+
+n
+
+=740
+
+- Patient refusal
+
+- Study not proposed
+
+- Included in other studies
+
+Enrolled and randomised:
+
+n
+
+=420
+
+- Study withdrawal before the
+
+induction of anaesthesia:
+
+n
+
+=2
+
+- Medication not prepared:
+
+n
+
+=1
+
+- Change in surgical plan:
+
+n
+
+=2
+
+- Study withdrawal before the
+
+induction of anaesthesia:
+
+n
+
+=1
+
+- Medication not prepared:
+
+n
+
+=1
+
+- Change in surgical plan:
+
+n
+
+=4
+
+- Died before chest closure:
+
+n
+
+=1
+
+Study drug administered:
+
+n
+
+=205
+
+Study drug administered:
+
+n
+
+=203
+
+Primary outcome not
+
+assessed:
+
+n
+
+=28
+
+Primary outcome not
+
+assessed:
+
+n
+
+=31
+
+Analysed for in-hospital
+
+postoperative delirium:
+
+n
+
+=177
+
+Analysed for in-hospital
+
+postoperative delirium:
+
+n
+
+=172
+
+DEX group:
+
+n
+
+=10
+
+PL group:
+
+n
+
+=210
+
+during the CPB period. Postoperative analgesia was managed with a patient-controlled analgesia pump delivering morphine. In addition, intravenous acetaminophen, intravenous NSAIDs or tramadol were used to manage postoperative pain. Postoperative care of the subjects in the ICU was according to standard of care practices of the institution in order to achieve early weaning from mechanical ventilation, extubation, haemodynamic stability, early mobilisation, and subsequent discharge from the ICU. If a subjects was hypotensive, vasoactive drugs were used as a first line. The level of consciousness was evaluated with the Richmond Agitation e Sedation Scale. 19 Propofol infusion was stopped when extubation was planned. Extubation was only performed when subjects were conscious, haemodynamically stable, did not show major postoperative bleeding, were normothermic, and were breathing spontaneously.
+
+Outcomes
+
+The primary outcome was the incidence of POD at any time during the patient's hospital stay. Delirium assessment in the ICU was performed once the Richmond Agitation e Sedation Scale was  e 3 and was based on the Confusion Assessment Method for intubated patients in the ICU (CAM-ICU). The nurses in the ICU evaluated POD every 8 h with the French version of the CAM-ICU. 20 Delirium assessment at the ward was performed twice a day (08:00 and 20:00) with the CAM. Because POD is a fluctuating state, often presenting in the ward and at night, the chart review method was used to detect any episode of POD that was not diagnosed otherwise. 21 The medical chart of the subjects was checked for any notifications made by nurses or physicians suggesting POD (e.g. aggressive or inappropriate behaviour, confusion, use of restraints, use of haloperidol, reports of hallucinations). Trained study staff reviewed the medical chart.
+
+The nursing staff responsible for delirium assessment was trained to perform CAM and CAM-ICU. This training programme was initiated before the start of the trial in the framework of the hospital accreditation.
+
+Secondary outcomes included number of days in a delirious state, ICU and hospital length of stay, total dose of postoperative inotropes and vasopressors, total dose of propofol and analgesics administered in the ICU, and number of patients requiring external pacing. Exploratory delirium outcomes were incidence of POD in the ICU, and at the ward. If the CAM, CAM-ICU, or both were not performed every day but the Table 1 subjects baseline characteristics. Age is expressed as median (inter-quartile range). Other continuous variables are expressed as median (25th percentile e 75th percentile). *Baseline values measured at room air before the induction of anaesthesia. DEX, dexmedetomidine; EuroSCORE, European System for Cardiac Operative Risk Evaluation.
+
+[DOCLING_PAGE 4]
+
+668 -Momeni et al.
+
+[DOCLING_TABLE rows=16 columns=3]
+| Variables | DEX ( N ¼ 205) | Placebo ( N ¼ 203) |
+| Age (yr) | 71 (10) | 70 (11) |
+| Weight (kg) | 80 (70 e 89) | 80 (73 e 91) |
+| Sex male, N (%) | 150 (73) | 159 (78) |
+| Mini-Mental State Examination (max 30) | 28 (26 e 29) | 28 (26 e 29) |
+| Redo surgery, N (%) | 19 (9) | 18 (9) |
+| EuroSCORE II (%) | 1.75 (1.11 e 3.41) | 1.99 (1.15 e 3.59) |
+| Haemoglobin (g dl [UNMAPPED_GLYPH U+0000] 1 ) | 13.5 (12.4 e 14.6) | 13.7 (12.6 e 14.8) |
+| Creatinine (mg dl [UNMAPPED_GLYPH U+0000] 1 ) | 1.01 (0.86 e 1.17) | 1.00 (0.86 e 1.20) |
+| History alcohol abuse, N (%) | 39 (19) | 39 (19) |
+| History epilepsy, N (%) | 6 (3) | 1 (0.5) |
+| History cerebrovascular accident, N (%) | 21 (10) | 16 (8) |
+| Atheromatosis left carotid artery, N (%) | 43 (21) N ¼ 203 | 43 (21) |
+| Atheromatosis right carotid artery, N (%) | 48 (24) N ¼ 203 | 45 (22) |
+| Regional cerebral oxygen saturation, right (%)* | 63 (56 e 68) | 63 (57 e 70) |
+| Regional cerebral oxygen saturation, left (%)* | 63 (57 e 68) | 63 (57 e 69) |
+[/DOCLING_TABLE]
+
+chart review method indicated POD, this latter information was considered. In case CAM, CAM-ICU, or both were not performed every day and the chart review method did not indicate any POD, the information regarding POD was considered missing.
+
+[DOCLING_TABLE rows=6 columns=5]
+| Variable | DEX ( N ¼ 205) | Placebo ( N ¼ 203) | Odds ratio (95% CI) | P |
+| In-hospital POD, n / N (%)* | 31/177 (18) 28 | 33/172 (19) 31 | 0.89 (0.52; 1.54) | 0.687 |
+| Missing data, N POD at ICU, n / N (%) Missing data, N | 12/188 (6) 17 | 21/188 (11) 15 | 0.54 (0.26; 1.14) | 0.101 |
+| POD at ICU only assessed by CAM-ICU, n / N (%) Missing data, N | 12/188 (6) 17 | 21/188 (11) 15 | 0.54 (0.26; 1.14) | 0.101 |
+| POD at ward, n / N (%) Missing data, N | 26/187 (14) 18 | 19/170 (11) 33 | 1.28 (0.68; 2.41) | 0.438 |
+| POD at ward only assessed by CAM, n / N (%) Missing data, N | 23/171 (13) 34 | 17/151 (11) 52 | 1.23 (0.63; 2.39) | 0.552 |
+[/DOCLING_TABLE]
+
+Statistical analysis
+
+This is a superiority trial with an alternative hypothesis being that adding a low dose rate DEX to propofol sedation would result in a lower incidence of POD compared with propofol with PL. The sample size was calculated based on the incidence of POD. In a prospective study in cardiac surgery patients previously published by our group, the incidence of POD at any time during a patient's hospital stay was 25% in subjects  60 yr. 1 Taking into account that no validated tests were used to detect POD in that study, the incidence may have been under-evaluated. We therefore estimated that by using the CAM/CAM-ICU, the incidence of POD in the current study would be 30%. We calculated that 242 subjects were needed (121 patients in each group) to detect a 50% reduction in the incidence of POD from a baseline incidence of 30% using twosided a ¼ 0.05 and 80% power. Our estimated treatment effect of 50% is in line with previous delirium studies. 22,23 To take into account any eventual dropouts, a total of 270 subjects were included. An interim analysis was planned at 130 subjects. If no subjects in the DEX group had POD, the study would have been stopped. The results of the interim analysis were reported to the data safety monitoring board of the local ethics committee. The interim analysis showed that despite the use of the CAM and CAM-ICU the incidence of POD in the PL arm was 20% instead of the a priori estimated 30%. We thus reestimated that 398 patients (199 in each group) were needed to detect a 50% reduction in the incidence of POD from a baseline incidence of 20% in the PL group. To take into account any dropouts, a total of 420 subjects (210 in each group) were included. In other respects, the study was completed as originally planned.
+
+The Kolgomorov e Smirnov test was used to check the normality of the data. The categorical data are presented as numbers and percentages. Continuous variables are presented as medians (25th percentile e 75th percentile). Continuous variables between the two study arms were compared with the Mann e Whitney U -test. A Pearson c 2 test or Fisher's exact test was used to compare categorical variables between the two groups. A forest plot was used for subgroup analysis. Confidence interval (CI) of the odds ratio was calculated to compare proportions. CI values for median differences were calculated using Hodges e Lehmann estimates. The statistical analyses were performed using IBM SPSS Statistics version 25 (Armonk, NY, USA) and STATA 16 (College Station, TX, USA).
+
+Results
+
+Figure 1 shows the flowchart of the study. In total, 420 subjects were enrolled and 210 were randomised to each study group. Five subjects in the DEX arm and seven subjects in the PL arm did not receive the study medication for various reasons. As such, 205 subjects in the DEX arm and 203 subjects in the PL group were analysed on an intention-to-treat basis. There were no study protocol violations. Baseline characteristics of both study arms were similar and are presented in Table 1. As illustrated in Table 2, in total 28 (14%) subjects in the DEX arm and 31 (15%) subjects in the PL arm were not evaluated for inhospital POD. This was mainly attributable to non-assessment of delirium by nurses or in very few cases because the subject died before being tested. No subject refused repeated delirium
+
+[DOCLING_PAGE 5]
+
+Low dose rate dexmedetomidine and delirium
+
+669
+
+-
+
+Risk ratio of delirium (95% CI)
+
+0.2
+
+0.5
+
+Dexdor better
+
+Placebo better
+
+1.0
+
+3.0
+
+0.91 (0.57-1.42)
+
+0.90 (0.43-1.88)
+
+0.84 (0.49-1.45)
+
+0.95 (0.87-1.81)
+
+0.88 (0.48-1.63)
+
+0.87 (0.53-1.42)
+
+1.32 (0.43-4.03)
+
+0.91 (0.54-1.54)
+
+0.93 (0.41-2.11)
+
+1.52 (0.66-3.48)
+
+0.73 (0.43-1.23)
+
+0.63 (0.34-1.17)
+
+1.37 (0.71-2.64)
+
+0.88 (0.45-1.72)
+
+0.94 (0.52-1.71)
+
+0.41 (0.14-1.18)
+
+1.13 (0.68-1.86)
+
+1.11 (0.50-2.49)
+
+0.87 (0.51-1.48)
+
+0.71 (0.34-1.47)
+
+1.07 (0.61-1.86)
+
+0.77 (0.41-1.42)
+
+1.09 (0.57-1.07)
+
+0.74 (0.41-1.33)
+
+1.18 (0.60-2.33)
+
+[DOCLING_TABLE rows=41 columns=7]
+| Subgroup | No. of subjects | No. of subjects | No. of events | No. of events | Risk ratio of delirium (95% CI) | Risk ratio of delirium (95% CI) |
+|  | Dexdor | Placebo | Dexdor | Placebo |  | 0.91 (0.57-1.42) |
+| Age (yr) |  |  |  |  |  |  |
+| ≤ median | 87 | 100 | 11 | 14 |  | 0.90 (0.43-1.88) |
+| > median | 90 | 72 | 20 | 19 |  | 0.84 (0.49-1.45) |
+| Weight (kg) |  |  |  |  |  |  |
+| ≤ median | 94 | 84 | 16 | 15 |  | 0.95 (0.87-1.81) |
+| > median | 83 | 88 | 15 | 18 |  | 0.88 (0.48-1.63) |
+| Sex |  |  |  |  |  |  |
+| Male | 127 | 139 | 23 | 29 |  | 0.87 (0.53-1.42) |
+| Female | 50 | 33 | 8 | 4 |  | 1.32 (0.43-4.03) |
+| Mini Mental State Examination (Max 30) |  |  |  |  |  |  |
+| ≤ median | 100 | 100 | 21 | 23 |  | 0.91 (0.54-1.54) |
+| > median | 77 | 72 | 10 | 10 |  | 0.93 (0.41-2.11) |
+| EuroSCORE II |  |  |  |  |  |  |
+| ≤ median | 90 | 84 | 13 | 8 |  | 1.52 (0.66-3.48) |
+| > median | 87 | 88 | 18 | 25 |  | 0.73 (0.43-1.23) |
+| Haemoglobin (g dl-1) |  |  |  |  |  |  |
+| ≤ median | 92 | 83 | 14 | 20 |  | 0.63 (0.34-1.17) |
+| > median | 85 | 89 | 17 | 18 |  | 1.37 (0.71-2.64) |
+| Creatinine (mg dl-1) |  |  |  |  |  |  |
+| ≤ median | 92 | 87 | 14 | 15 |  | 0.88 (0.45-1.72) |
+| > median | 85 | 85 | 17 | 18 |  | 0.94 (0.52-1.71) |
+| History alcohol abuse |  |  |  |  |  |  |
+| Yes | 33 | 34 | 4 | 10 |  | 0.41 (0.14-1.18) |
+| No | 144 | 138 | 27 | 23 |  | 1.13 (0.68-1.86) |
+| Atheromatosis left carotid artery |  |  |  |  |  |  |
+| Yes | 35 | 39 | 9 | 9 |  | 1.11 (0.50-2.49) |
+| No | 140 | 133 | 22 | 24 |  | 0.87 (0.51-1.48) |
+| Atheromatosis right carotid artery |  |  |  |  |  |  |
+| Yes | 39 | 40 | 9 | 13 |  | 0.71 (0.34-1.47) |
+| No | 136 | 132 | 22 | 20 |  | 1.07 (0.61-1.86) |
+| Regional cerebral oxygen saturation, right |  |  |  |  |  |  |
+| ≤ median | 87 | 80 | 15 | 18 |  | 0.77 (0.41-1.42) |
+| > median | 90 | 92 | 16 | 15 |  | 1.09 (0.57-1.07) |
+| Regional cerebral oxygen saturation, left |  |  |  |  |  |  |
+| ≤ median | 93 | 86 | 16 | 20 |  | 0.74 (0.41-1.33) |
+| > median |  | 86 | 15 | 13 |  | 1.18 (0.60-2.33) |
+|  |  |  |  |  | 3.0 |  |
+|  |  |  |  |  | 0.2 0.5 1.0 |  |
+|  | 84 |  |  |  | Dexdor better Placebo better |  |
+[/DOCLING_TABLE]
+
+testing. As presented in Table 2, 31 subjects in the DEX arm (31/ 177; 18%) and 33 subjects in the PL group (33/172; 19%) were evaluated as having POD at some time during their entire hospital stay ( P ¼ 0.687; odds ratio ¼ 0.89; 95% CI, 0.52 e 1.54). There was no statistically significant difference between both groups in the proportion of the patients presenting with delirium in the ICU (DEX: 12/188 [6%] vs PL: 21/188 [11%]; P ¼ 0.101; odds ratio ¼ 0.54; 95% CI, 0.26 e 1.14). The same was true for POD at the ward (DEX: 26/187 [14%] vs PL: 19/170 [11%]; P ¼ 0.438; odds ratio ¼ 1.28; 95% CI, 0.68 e 2.41). Table 2 shows the proportion of subjects presenting POD that was only assessed by CAM-ICU or by CAM.
+
+Supplementary Table S1 illustrates the baseline characteristics of subjects with DEX vs without DEX and analysis of the primary endpoint, which was similar between both groups. Figure 2 shows the forest plot for in-hospital delirium taking into account this subgroup analysis. As illustrated in Figure 2, there was no statistically significant difference in the incidence of POD between the two arms regardless of the prespecified subgroup of subjects. When the subjects who were not assessed for POD during the entire hospital stay were all considered as having in-hospital POD, the difference between both groups in the proportion of patients presenting POD was not statistically significant (DEX: 59/205 [28.8%] vs PL: 64/203 [31.5%]; P ¼ 0.546; odds ratio ¼ 0.88; 95% CI, 0.58 e 1.34).
+
+Two subjects in the PL group showed severe POD at day 2 and day 3 in the ICU, not responding to haloperidol. An intravenous infusion of DEX was used to treat their POD. Table 3 illustrates the results regarding the secondary outcomes. subjects in the DEX group with delirium spent significantly less time (median days) in a delirious state (DEX: 0.5 [0.5 e 2.0] vs PL: 1.5 [1.0 e 2.5]; P ¼ 0.026). The proportion of subjects requiring norepinephrine in the ICU was significantly higher in the DEX group (DEX: 178/195 [91%] vs PL: 153/189 [81%]; P ¼ 0.005; odds ratio ¼ 2.40; 95% CI, 1.29 e 4.46). Median postoperative norepinephrine administered was 6.6 mg (3.0 e 14.2) in the DEX arm and 3.0 mg (1.2 e 10.4) in the PL arm ( P < 0.001). subjects in the PL arm required significantly higher dose rates of propofol for postoperative sedation ( P ¼ 0.022). Otherwise there were no statistically significant differences between both groups regarding the secondary outcome data. Table 4 shows the perioperative data of both groups. There were no statistically significant differences between both groups except in the rate of in-hospital mortality. One (0.5%) subject in the DEX group and 10 (5%) subjects in the PL group died during their hospital stay ( P ¼ 0.006; odds ratio ¼ 0.10; 95% CI, 0.01 e 0.75). Supplementary Table S2 illustrates the characteristics of the deceased subjects.
+
+[DOCLING_PAGE 6]
+
+670 -Momeni et al.
+
+[DOCLING_TABLE rows=19 columns=5]
+| Variable | Dexmedetomidine ( N ¼ 205) | Placebo ( N ¼ 203) | P | Difference (95% CI) |
+| Days in delirious state* Min e Max | 0.5 (0.5 e 2.0) 0.5 e 7.5 | 1.5 (1.0 e 2.5) 0.5 e 7.0 | 0.026 | 0.50 (0 e 1.0) |
+| Postoperative intubation time, h* Norepinephrine administered, N (%) | 8.3 (6.5 e 11.0) 178 (91) | 7.6 (6.0 e 10.5) 153 (81) | 0.07 0.005 | 0.58 (0 e 1.17) 2.40 (1.29 e 4.46) y |
+| Total dose norepinephrine, mg* | N ¼ 195 6.6 (3.0 e 14.2) | N ¼ 189 3.0 (1.2 e 10.4) | < 0.001 | e 11.0 ( e 17.0 to e 5.0) |
+| Inotropic agents administered, N (%) |  |  |  |  |
+| Dobutamine ( N ¼ 196) | 26 (13) | 30 (15) | 0.481 | 0.82 (0.46 e 1.44) y |
+| Milrinone ( N ¼ 190) | 19 (10) | 13 (7) | 0.310 | 1.46 (0.70 e 3.05) y |
+| Dose inotropic agents (ml)* |  |  |  |  |
+| Dobutamine | 33 (25 e 69) | 50 (33 e 70) | 0.315 | 9.0 ( e 9.0 to 26.0) |
+| Milrinone | 26 (13 e 71) | 30 (11 e 63) | 0.985 | 0 ( e 20.0 to 27.0) |
+| Total dose propofol 2% for sedation, ml* | 39 (28 e 56) | 44 (32 e 60) | 0.022 | e 5.0 ( e 9.0 to e 1.0) |
+| Total dose postoperative analgesics* |  |  |  |  |
+| Morphine, mg | 41 (28 e 61) | 38 (25 e 60) | 0.521 | 1.4 ( e 3.0 to 6.40) |
+| Paracetamol, g | 5 (3 e 6) | 5 (3 e 6) | 0.806 | 0 (0 e 0) |
+| Ketolorac, mg | 0 (0 e 0) | 0 (0 e 0) | 0.504 | 0 (0 e 0) |
+| Tradonal, mg | 0 (0 e 0) | 0 (0 e 0) | 0.736 | 0 (0 e 0) |
+| External pacemaker, N (%)* | 116 (57) N 204 | 97 (48) N 202 | 0.074 | 1.43 (0.97; 2.11) y |
+| ICU stay, days* | ¼ 2 (2 e 3) | ¼ 2 (2 e 3) | 0.907 | 0 (0; 0) |
+| Hospital stay, days* | 8 (7 e 10) | 7 (7 e 10) | 0.232 | 0 (0; 1) |
+[/DOCLING_TABLE]
+
+Discussion
+
+The results of this study show that in patients  60 yr old undergoing cardiac surgery, postoperative administration of DEX at 0.4 m g kg e 1 h e 1 for 10 h in addition to a propofol infusion did not result in a significantly different incidence of inhospital delirium compared with propofol plus placebo infusions. A secondary finding, which should be regarded as hypothesis generating, was that the median duration of POD among those who had delirium was significantly less in the DEX arm compared with the PL arm.
+
+Our study distinguishes itself from most studies in cardiac surgery where a loading dose of DEX followed by a continuous infusion of 0.1 e 0.8 m g kg [UNMAPPED_GLYPH U+0000] 1 h [UNMAPPED_GLYPH U+0000] 1 was used to decrease the incidence of POD. 17,18,24 e 26 The only trial in cardiac surgery where similar low dose rates were used as in our study was meant to determine the analgesic effects of DEX. 27 However, a large randomised, double-blinded, placebo-controlled trial conducted in older patients after noncardiac surgery showed a reduced incidence of POD with a low dose rate DEX. 28 As high dose rates of DEX have been associated with an increased incidence of bradycardia 8,9,24,29 and arterial hypotension, 26 we sought to evaluate the effect of low dose rate DEX on the incidence of POD.
+
+Although not statistically significantly different, the incidence of POD in the ICU was higher in the PL group (11%) compared with the DEX arm (6%). However, our study was not appropriately designed to detect a difference in the incidence of delirium in the ICU. Low dose rate DEX in combination with propofol might decrease the incidence of early POD after cardiac surgery. This should be tested in future studies.
+
+Consistent with the results of our study, the combination of propofol/DEX was not found to decrease the incidence of delirium in a randomised, double-blinded, and placebocontrolled trial conducted in 285 patients undergoing cardiac surgery. 26 In that study DEX was started in the intraoperative period and continued until the end of mechanical ventilation. In that study, patients in the DEX arm had significantly lower average bispectral index (BIS) values in the intraoperative period. Low BIS values and deeper levels of sedation have been hypothesised to be risk factors for POD. 30 In our study the duration of EEG suppression was not significantly different between the study groups, and patients in the DEX arm received significantly less propofol for postoperative sedation.
+
+The pathophysiology of POD is complex, and it is therefore questionable whether the administration of any single drug can effectively decrease the incidence of this complex acute brain dysfunction that may occur up to several days postoperatively.
+
+Despite the low dose rate of DEX used in our study, significantly more subjects required postoperative norepinephrine. Moreover, the median dose rate of norepinephrine was significantly higher in the DEX arm. The total doses of analgesics, including intravenous acetaminophen, consumed in the postoperative period was not significantly different between the groups. In one randomised trial, postoperative intravenous paracetamol combined with propofol or DEX, appeared to decrease in-hospital delirium incidence vs placebo. 23 Whether or not acetaminophen has a salutary effect on POD, differential administration between groups did not occur in our study, and this was therefore unlikely to have been a confounding factor.
+
+An interesting observation was that the incidence of inhospital mortality was significantly higher in the PL arm compared with the DEX arm. Only 1 (0.5%) subject in the DEX
+
+[DOCLING_PAGE 7]
+
+Low dose rate dexmedetomidine and delirium
+
+671
+
+-
+
+[DOCLING_TABLE rows=35 columns=5]
+| Variables | Dexmedetomidine ( N ¼ 205) | Placebo ( N ¼ 203) | P | Difference (95% CI) |
+| Surgical characteristics |  |  |  |  |
+| Procedure, No (%) |  |  | 0.136 |  |
+| CABG | 81 (40) | 83 (41) |  |  |
+| CABG þ other | 0 | 3 (1) |  |  |
+| CABG þ valve | 33 (16) | 42 (21) |  |  |
+| CABG þ valve þ other | 6 (3) | 3 (1) |  |  |
+| Other | 6 (3) | 2 (1) |  |  |
+| Valve | 70 (34) | 56 (28) |  |  |
+| Valve þ other | 9 (4) | 14 (7) |  |  |
+| Cardiopulmonary bypass time, min | 96 (73 e 127) | 104 (78 e 132) | 0.256 | e 4.0 ( e 12.0 to 3.0) |
+| Aortic cross-clamp time, min | 75 (54 e 99) | 76 (55 e 100) | 0.529 | e 2.0 ( e 8.0 to 4.0) |
+| Duration anaesthesia, min | 275 (230 e 328) | 285 (238 e 337) | 0.146 | e 10.0 ( e 24.0 to 4.0) |
+| Dose propofol, mg | 70 (50 e 100) | 70 (50 e 100) | 0.650 | 0 ( e 10.0 to 8.0) |
+| Dose midazolam, mg | 3 (2 e 4) | 3 (2 e 4) | 0.566 | 0 (0 e 0) |
+| Dose ketamine, mg | 35 (30 e 45) | 40 (30 e 50) | 0.098 | 0 ( e 5.0 to 0) |
+| Dose sufentanil, m g | 200 (154 e 259) | 202 (165 e 258) | 0.620 | e 4.0 ( e 19.7 to 10.0) |
+| Lowest intraoperative | 9.2 (8.3 e 10.1) | 9.4 (8.3 e 10.3) | 0.411 | e 0.10 ( e 0.40 to 0.20) |
+| haemoglobin, g dl [UNMAPPED_GLYPH U+0000] 1 Intraoperative EEG suppression | 0 (0 e 2.0) | 0.2 (0 e 2.5) | 0.265 | 0 (0 e 0) |
+| ratio left, % Intraoperative EEG suppression ratio right, % | 0 (0 e 2.0) | 0.2 (0 e 2.5) | 0.227 | 0 (0 e 0) |
+| Intraoperative regional cerebral oxygen desaturation, left (min%)* | 0 (0 e 1.0) | 0 (0 e 1.0) | 0.934 | 0 (0 e 0) |
+| Intraoperative regional cerebral oxygen desaturation, right (min%)* | 0 (0 e 0) | 0 (0 e 0) | 0.613 | 0 (0 e 0) |
+| Transfusion red blood cells, N (%) | 41 (20) | 41 (20) | 0.960 | 0.99 (0.61 e 1.60) y |
+| Volume transfused red blood cells, ml | 0 (0 e 0) | 0 (0 e 0) | 0.956 | 0 (0 e 0) |
+| Cell salvage, ml | 607 (485 e 780) | 639 (490 e 804) | 0.513 | e 13.0 ( e 53.0 to 27.0) |
+| Renal failure according RIFLE criteria, | N ¼ 205 | N ¼ 202 |  |  |
+| Risk | 13 (6) | 17 (8) | 0.423 | 0.74 (0.35 e 1.56) y |
+| Injury | 2 (1) | 2 (1) | 0.988 | 0.99 (0.14 e 7.06) y |
+| Failure | 1 (0.5) | 0 | > 0.999 | NA |
+| Loss | 0 | 0 | > 0.999 | NA |
+| End-stage renal disease | 0 | 0 | > 0.999 | NA |
+| Surgical revision, N (%) | 12 (6) | 8 (4) | 0.383 | 1.50 (0.60 e 3.75) y |
+| Permanent pacemaker, N (%) | 6 (3) | 2 (1) | 0.157 | 3.03 (0.60 e 15.19) y |
+| Cerebrovascular accident, N (%) | 6 (3) | 10 (5) | 0.270 | 0.56 (0.20 e 1.58) y |
+| In-hospital mortality, N (%) | N ¼ 204 1 (0.5) | N ¼ 196 10 (5) | 0.006 | 0.10 (0.01 e 0.75) y |
+[/DOCLING_TABLE]
+
+armdied in the hospital compared with 10 (5%) in the PL group. Most of these subject underwent combined surgery and died because of cardiovascular and pulmonary complications. Whether DEX effectively reduces postoperative mortality and through which mechanisms this would occur need to be elucidated in larger trials. So far, studies evaluating the effect of DEX on postoperative mortality have not been conclusive. 29,31 The most likely explanation is that this finding was spurious.
+
+This study has strengths and limitations. All patients received a standardised dose rate of DEX, as the duration of administration was 10 h, regardless of the time of extubation. This is in contrast with many other studies. Secondly, anaesthetic technique was standardised. However, CAM and CAMICU were not available in all subjects. Nevertheless, the primary outcome was not altered in a sensitivity analysis in which those with missing delirium assessments were assumed to have had delirium. Thirdly, our primary endpoint was based on in-hospital POD. A drug infused over 10 h after surgery might not have an effect on late in-hospital POD. It might have been more relevant for us to have focused on early delirium occurring in the ICU.
+
+In summary, the results of this study show that addition of a low dose rate DEX to a postoperative sedative regimen based on propofol does not appear to result in a large in-hospital decrease of POD in older patients undergoing cardiac surgery. The addition of low dose rate DEX to propofol after cardiac surgery is not supported by the findings of this trial.
+
+Authors ' contributions
+
+Study design: MM, CK, LMJ Patient recruitment: MM, CK, GL, CW, RT, MVD, DK, MRM Study conduct: MM, CK, GL, CW, RT, MVD, DK, MRM, SM, LDK,
+
+LMJ
+
+Data collection: MM, CK, GL, CW, RT, MVD, DK, MRM.
+
+Data analysis: MM, SM, SHZ
+
+Writing up of the first draft of the paper: MM
+
+[DOCLING_PAGE 8]
+
+672
+
+Momeni et al.
+
+-
+
+Declarations of interest
+
+The authors declare that they have no conflicts of interest.
+
+Funding
+
+Society for Anesthesia and Resuscitation of Belgium and the European Association of Cardiothoracic Anaesthesiology.
+
+Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.bja.2020.10.041.
+
+References
+
+Momeni M, Meyer S, Docquier MA, et al. Predicting postoperative delirium and postoperative cognitive decline with combined intraoperative electroencephalogram monitoring and cerebral near-infrared spectroscopy in patients undergoing cardiac interventions. J Clin Monit Comput 2019; 33 : 999 e 1009
+
+Lopez MG, Hughes CG, DeMatteo A, et al. Intraoperative oxidative damage and delirium after cardiac surgery. Anesthesiology 2020; 132 : 551 e 61
+
+Brown 4th CH, Probert J, Healy R, et al. Cognitive decline after delirium in patients undergoing cardiac surgery. Anesthesiology 2018; 129 : 406 e 16
+
+Gleason LJ, Schmitt EM, Kosar CM, et al. Effect of delirium and other major complications on outcomes after elective surgery in older adults. JAMA Surg 2015; 150 : 1134 e 40
+
+Witlox J, Eurelings LS, de Jonghe JF, et al. Delirium in elderly patients and the risk of postdischarge mortality, institutionalization, and dementia: a meta-analysis. JAMA 2010; 304 : 443 e 51
+
+Liu H, Ji F, Peng K, Applegate 2nd RL, Fleming N. Sedation after cardiac surgery: is one drug better than another? Anesth Analg 2017; 124 : 1061 e 70
+
+Duan X, Coburn M, Rossaint R, Sanders RD, Waesberghe JV, Kowark A. Efficacy of perioperative dexmedetomidine on postoperative delirium: systematic review and meta-analysis with trial sequential analysis of randomised controlled trials. Br J Anaesth 2018; 121 : 384 e 97
+
+Wu M, Liang Y, Dai Z, Wang S. Perioperative dexmedetomidine reduces delirium after cardiac surgery: a metaanalysis of randomized controlled trials. J Clin Anesth 2018; 50 : 33 e 42
+
+Liu X, Xie G, Zhang K, et al. Dexmedetomidine vs propofol sedation reduces delirium in patients after cardiac surgery: a meta-analysis with trial sequential analysis of randomized controlled trials. J Crit Care 2017; 38 : 190 e 6
+
+Maier C, Steinberg GK, Sun GH, Zhi GT, Maze M. Neuroprotection by the alpha 2-adrenoreceptor agonist dexmedetomidine in a focal model of cerebral ischemia. Anesthesiology 1993; 79 : 306 e 12
+
+Paris A, Mantz J, Tonner PH, Hein L, Brede M, Gressens P. The effects of dexmedetomidine on perinatal excitatoxic brain injury are mediated by the alpha2A-adrenoceptor subtype. Anesth Analg 2006; 102 : 456 e 61
+
+Sanders RD, Xu J, Shu Y, et al. Dexmedetomidine attenuates isoflurane-induced neurocognitive impairment in neonatal rats. Anesthesiology 2009; 110 : 1077 e 85
+
+Berger M, Terrando N, Smith SK, Browndyke JN, Newman MF, Mathew JP. Neurocognitive function after cardiac surgery: from phenotypes to mechanisms. Anesthesiology 2018; 129 : 829 e 51
+
+Hughes CG, Patel MB, Pandharipande PP. Pathophysiology of acute brain dysfunction: what's the cause of all this confusion? Curr Opin Crit Care 2012; 18 : 518 e 26
+
+Brown KE, Mirrakhimov AE, Yeddula K, Kwatra MM. Propofol and the risk of delirium: exploring the anticholinergic properties of propofol. Med Hypotheses 2013; 81 : 536 e 9
+
+Han L, McCasker J, Cole M, Abrahamowicz M, Primeau F, Elie M. Use of medications with anticholinergic effect predicts clinical severity of delirium symptoms in older medical inpatients. Arch Intern Med 2001; 161 : 1099 e 105
+
+Maldonado JR, Wysong A, van der Starre PJ, Block T, Miller C, Reitz BA. Dexmedetomidine and the reduction of postoperative delirium after cardiac surgery. Psychosomatics 2009; 50 : 206 e 17
+
+Djaiani G, Silverton N, Fedorko L, et al. Dexmedetomidine vs propofol sedation reduces delirium after cardiac surgery: a randomized controlled trial. Anesthesiology 2016; 124 : 362 e 8
+
+Sessler CN, Gosnell MS, Grap MJ, et al. The Richmond Agitation-Sedation Scale: validity and reliability in adult intensive care unit patients. AmJ Respir Crit Care Med 2002; 166 : 1338 e 44
+
+Chanques G, Garnier O, Carr J, et al. The CAM-ICU has now a French ' official ' version. The translation process of the 2014 updated complete training manual of the confusion assessment method for the intensive care unit in French (CAM-ICU.fr). Anaesth Crit Care Pain Med 2017; 36 : 297 e 300
+
+Inouye SK, Leo-Summers L, Zhang Y, Bogardus Jr ST, Leslie DL, Agostinin JV. A chart-based method for identification of delirium: validation compared with interviewer ratings using the confusion assessment method. J Am Geriatr Soc 2005; 53 : 312 e 8
+
+Al Tmimi L, Verbrugghe P, Van de Velde M, et al. Intraoperative xenon for prevention of delirium after on-pump cardiac surgery: a randomised, observer-blind, controlled clinical trial. Br J Anaesth 2020; 124 : 454 e 62
+
+Subramaniam B, Shanker P, Shaefi S, et al. Effect of intravenous acetaminophen vs placebo combined with propofol or dexmedetomidine on postoperative delirium among older patients following cardiac surgery: the DEXACET randomized clinical trial. JAMA 2019; 321 : 686 e 96
+
+Shehabi Y, Grant P, Wolfenden H, et al. Prevalence of delirium with dexmedetomidine compared with morphine based therapy after cardiac surgery: a randomized controlled trial (DEXmedetomidine COmpared to Morphine -DEXCOM study). Anesthesiology 2009; 111 : 1075 e 84
+
+Park JB, Bang SH, Chee HK, Kim JS, Lee SA, Shin JK. Efficacy and safety of dexmedetomidine for postoperative delirium in adult cardiac surgery on cardiopulmonary bypass. Kor J Thorac Cardiovasc Surg 2014; 47 : 249 e 54
+
+Li X, Yang J, Nie XL, et al. Impact of dexmedetomidine on the incidence of delirium in elderly patients after cardiac surgery: a randomized controlled trial. PLoS One 2017; 12 , e0170757
+
+Priye S, Jagannath S, Singh D, Shivaprakash S, Reddy DP. Dexmedetomidine as an adjunct in postoperative
+
+[DOCLING_PAGE 9]
+
+Low dose rate dexmedetomidine and delirium
+
+673
+
+analgesia following cardiac surgery: a randomized doubleblind study. Saudi J Anaesth 2015; 9 : 353 e 8
+
+Su X, Meng ZT, Wu XH, et al. Dexmedetomidine for prevention of delirium in elderly patients after non-cardiac surgery: a randomised, double-blind, placebo-controlled trial. Lancet 2016; 388 : 1893 e 902
+
+Peng K, Ji FH, Liu HY, Zhang J, Chen QC, Jiang YH. Effects of perioperative dexmedetomidine on postoperative mortality and morbidity: a systematic review and metaanalysis. Clin Ther 2019; 41 : 138 e 54
+
+-
+
+Radtke FM, Franck M, Lendner J, Kru ¨ ger S, Wernecke KD, Spies CD. Monitoring depth of anaesthesia in a randomized trial decreases the rate of postoperative delirium but not postoperative cognitive dysfunction. Br J Anaesth 2013; 110 : 98 e 105
+
+Xu F, Wang Q, Chen S, Ao H, Ma J. The association between intraoperative dexmedetomidine and 1 year morbidity and mortality after cardiac surgery: a propensity matched analysis of over 1400 patients. J Clin Anesth 2018; 50 : 70 e 5
+
+Handling editor: Michael Avidan

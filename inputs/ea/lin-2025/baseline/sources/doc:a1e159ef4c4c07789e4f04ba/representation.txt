@@ -1,0 +1,1179 @@
+[DOCLING_PAGE 1]
+
+Research
+
+JAMANeurology | Original Investigation
+
+Endovascular Thrombectomy Treatment Effect in Direct vs Transferred Patients With Large Ischemic Strokes APrespecified Analysis of the SELECT2 Trial
+
+Amrou Sarraj, MD; Michael D. Hill, MD; M. Shazam Hussain, MD; Michael G. Abraham, MD; Santiago Ortega-Gutierrez, MD; Michael Chen, MD; Scott E. Kasner, MD; Leonid Churilov, PhD; Deep K. Pujara, MBBS; Hannah Johns, PhD; Spiros Blackburn, MD; Sophia Sundararajan, MD; Yin C. Hu, MD; Nabeel A. Herial, MD; Ronald F. Budzik, MD; William J. Hicks, MD; Juan F. Arenillas, MD, PhD; Jenny P. Tsai, MD; Osman Kozak, MD; Dennis J. Cordato, PhD; Ricardo A. Hanel, MD; Teddy Y. Wu, PhD; Pere Cardona Portela, MD; Chirag D. Gandhi, MD; Fawaz Al-Mufti, MD; Laith Maali, MD; Daniel Gibson, MD; Natalia Pérez de la Ossa, MD, PhD; Joanna D. Schaafsma, MD; Jordi Blasco, MD, PhD; Navdeep Sangha, MD; Steven Warach, MD; Timothy J. Kleinig, PhD; Faris Shaker, MBChB; Clark W. Sitton, MD; Thanh Nguyen, MD; Johanna T. Fifi, MD; Pascal Jabbour, MD; Anthony Furlan, MD; Maarten G. Lansberg, MD; Georgios Tsivgoulis, MD; Cathy Sila, MD; Nicholas Bambakidis, MD; Stephen Davis, MD; Lawrence Wechsler, MD; Greg W. Albers, MD; James C. Grotta, MD; Marc Ribo, MD; Bruce C. Campbell, MD; Ameer E. Hassan, MD; and the SELECT2 Collaborators; for the SELECT2 Investigators
+
+Supplemental content
+
+Author Affiliations: Author affiliations are listed at the end of this article.
+
+Group Information: The SELECT2 Collaborators appear at the end of the article, and members of the SELECT2 Investigators appear in Supplement 3.
+
+Corresponding Author: Amrou Sarraj, MD, University Hospital Cleveland Medical Center, Case Western Reserve University, 11100 Euclid Ave, Hanna House #504, Cleveland, OH 44115 (amrou.sarraj@ uhhospitals.org).
+
+(Reprinted)
+
+IMPORTANCE Patients with large ischemic core stroke have poor clinical outcomes and are frequently not considered for interfacility transfer for endovascular thrombectomy (EVT).
+
+OBJECTIVE To assess EVT treatment effects in transferred vs directly presenting patients and to evaluate the association between transfer times and neuroimaging changes with EVT clinical outcomes.
+
+DESIGN, SETTING, AND PARTICIPANTS This prespecified secondary analysis of the SELECT2 trial, which evaluated EVT vs medical management (MM) in patients with large ischemic stroke, evaluated adults aged 18 to 85 years with acute ischemic stroke due to occlusion of the internal carotid or middle cerebral artery (M1 segment) as well as an Alberta Stroke Program Early CT Score (ASPECTS) of 3 to 5, core of 50 mL or greater on imaging, or both. Patients were enrolled between October 2019 and September 2022 from 31 EVT-capable centers in the US, Canada, Europe, Australia, and New Zealand. Data were analyzed from August 2023 to January 2024.
+
+INTERVENTIONS EVT vs MM.
+
+MAINOUTCOMESANDMEASURES Functional outcome, defined as modified Rankin Scale (mRS) score at 90 days with blinded adjudication.
+
+RESULTS Atotal of 958 patients were screened and 606 patients were excluded. Of 352 enrolled patients, 145 (41.2%) were female, and the median (IQR) age was 66.5 (58-75) years. Atotal of 211 patients (59.9%) were transfers, while 141 (40.1%) presented directly. The median (IQR) transfer time was 178 (136-230) minutes. The median (IQR) ASPECTS decreased from the referring hospital (5 [4-7]) to an EVT-capable center (4 [3-5]). Thrombectomy treatment effect was observed in both directly presenting patients (adjusted generalized odds ratio [OR], 2.01; 95% CI, 1.42-2.86) and transferred patients (adjusted generalized OR, 1.50; 95% CI, 1.11-2.03) without heterogeneity ( P for interaction = .14). Treatment effect point estimates favored EVT among 82 transferred patients with a referral hospital ASPECTS of 5 or less (44 received EVT; adjusted generalized OR, 1.52; 95% CI, 0.89-2.58). ASPECTS loss was associated with numerically worse EVT outcomes (adjusted generalized OR per 1-ASPECTS point loss, 0.89; 95% CI, 0.77-1.02). EVT treatment effect estimates were lower in patients with transfer times of 3 hours or more (adjusted generalized OR, 1.15; 95% CI, 0.73-1.80).
+
+CONCLUSIONS AND RELEVANCE Both directly presenting and transferred patients with large ischemic stroke in the SELECT2 trial benefited from EVT, including those with low ASPECTS at referring hospitals. However, the association of EVT with better functional outcomes was numerically better in patients presenting directly to EVT-capable centers. Prolonged transfer times and evolution of ischemic change were associated with worse EVT outcomes. These findings emphasize the need for rapid identification of patients suitable for transfer and expedited transport.
+
+TRIAL REGISTRATION ClinicalTrials.gov Identifier: NCT03876457
+
+JAMANeurol . 2024;81(4):327-335. doi:10.1001/jamaneurol.2024.0206 Published online February 8, 2024.
+
+© 2024 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Fudan University, li bai on 09/05/2026
+
+327
+
+[DOCLING_PAGE 2]
+
+Research Original Investigation
+
+Endovascular Thrombectomy Treatment Effect in Direct vs Transferred Patients With Large Ischemic Strokes
+
+F our recent randomized clinical trials and a metaanalysisdemonstratedbetterclinicaloutcomeswithendovascularthrombectomy(EVT)inpatientswithalarge ischemic stroke on noncontrast computed tomography (CT) or advanced diffusion-perfusion imaging. 1-5 Two additional trials provided evidence in support of EVT in patients with extensive ischemic changes assessed using the Alberta Stroke Program Early CT Score (ASPECTS) on CT or magnetic resonance(MR)imaging. 6,7 Implementationofthesefindingsmay havesignificantimplicationsforstrokecareinfrastructureand systemsofcare.Asignificantproportionofpatientswithstroke present to non-EVT-capable centers, 8 which provide initial treatment and then coordinate transfers to EVT-capable centers after evaluating eligibility and the need for a higher level of care. While large ischemic core trials enrolled both directly presenting patients as well as those who were transferred to EVT-capablecenters,importantquestionsremain.Isthetreatment effect maintained in patients with large ischemic cores presenting initially to an outside hospital? Does the effect of transit time and radiological deterioration during transfer alter the treatment effect? Additionally, transfer futility is often determined at the point of decision-making for transfer rather than at the arrival point at the destination center. If ineligibility for EVT or poor outcome regardless of treatment could be reliably assessed at the primary hospital, informed transfer decisions could be made, especially for those with already low ASPECTS (5 or less) seen on imaging at non-EVTcapable centers.
+
+Weaimedtoprovideacomprehensiveevaluationoftheassociation of transfer status with EVT outcomes and treatment effectsinpatientswithlargeischemicstrokeintheRandomized ControlledTrialtoOptimizePatient'sSelectionforEndovascular Treatment in Acute Ischemic Stroke (SELECT2) trial. Furthermore,weevaluatedtheassociationofinterfacilitytransfertime, ASPECTSdecay,andcollateralflowwithEVToutcomesandtreatment effect in patients with large ischemic core. Additionally, we assessed EVT treatment effects in patients who presented with ASPECTS of 3 to 5 at referring hospitals.
+
+Methods
+
+Study Population
+
+Data are from the SELECT2 trial, an international, multicenter, randomizedclinical trial with blinded outcome assessment, conducted at 31 centers across North America, Europe, Australia, and New Zealand. The trial protocol and statistical analysis plan can be found in Supplement 1. Eligibility criteria included adults aged 18 to 85 years with an ischemic stroke duetoocclusionoftheinternalcarotidorfirstpartofthemiddle cerebral artery and a large ischemic core on non-contrast CT (ASPECTS of 3 to 5) and/or CT perfusion (tissue with relative cerebral blood flow less than 30%) volume of 50 mL or greater or MRdiffusion-perfusion (tissue with apparent diffusion coefficient less than 620 × 10 -6 mm/s 2 ) volume of 50 mL or greater, presenting within 24 hours of last known well. Further details regarding inclusion and exclusion criteria as well as detailed trial protocol and primary results are published
+
+JAMANeurology April 2024 Volume 81, Number 4
+
+(Reprinted)
+
+KeyPoints
+
+Question Did clinical outcomes and endovascular thrombectomy (EVT) treatment effect differ between directly presenting and transferred patients with large ischemic core stroke in the SELECT2 trial?
+
+Findings In this prespecified analysis of the SELECT2 trial including 352 patients, both directly presenting and transferred patients had better clinical outcomes with EVT compared with medical management, without a significant effect modification. Treatment effect estimates favored thrombectomy in patients with a low Alberta Stroke Program Early CT Score (ASPECTS) at referring hospitals and in those who demonstrated a loss of 2 or more points in ASPECTS during transfer.
+
+Meaning Thrombectomy was beneficial in transferred patients with large ischemic core stroke without heterogeneity in treatment effect vs those who presented directly and appeared to confer better outcomes even in those with low ASPECTS at outside hospitals or worsening ASPECTS during interfacility transfer.
+
+elsewhere. 2,9 All participating centers obtained approval from local institutional review boards or equivalent ethics committees prior to enrolling patients for the trial. All patients or their surrogates provided written informed consent. Patients were randomized to receive EVT or best medical care using a webbasedcentralized system with covariate adaptive randomization. Choice of EVT devices and approaches were at the discretion of the neurointerventional team. All patients received bestmedicalmanagement(MM),includingintravenousthrombolytics if eligible based on national guidelines. For this analysis, patients were characterized based on whether they presented directly to an EVT-capable center or transferred from outside hospitals. This study followed the Consolidated StandardsofReportingTrials(CONSORT)reportingguideline.
+
+Imaging Evaluation
+
+All patients received a uniform imaging protocol prior to enrollment, including a noncontrast CT, CT/MR angiography, and CT perfusion/MR diffusion-perfusion imaging. Ischemic core volume was defined as the larger of the CT hypodensity volume (manually outlined), CT perfusion volume (relative cerebral blood flow less than 30%), or MR diffusion-perfusion volume (tissue with apparent diffusion coefficient less than 620 × 10 -6 mm/s 2 ) at baseline. Lesion volume was calculated by manual planimetry on follow-up imaging (diffusion-weighted imaging preferred; CT was used if diffusion-weighted imaging was not available) acquired within24hoursto7daysofrandomization.Infarctgrowthwas determinedasthevolumetricdifferencebetweenbaselineischemiccoreandfollow-uplesionvolume.Collateralstatuswas evaluatedbyacentralcorelabusingtheTancollateralscore, 10 with good collaterals defined as a collateral score of 2 to 3.
+
+For transferred patients, transfer time was defined as the time between 2 imaging acquisitions, if available. For cases where imaging acquisition times were not available, the differencebetweenarrivaltimeattheEVT-capablecenterandarrival timeattheoutsidehospitalwasusedtoapproximatethese times. If outside noncontrast CT images were available, ASPECTSwasscoredbytheimagingcorelab.Otherwise,sitereportedASPECTSwereconsideredforanalyses.ASPECTSloss was defined as the difference in ASPECTS from the referring hospital to EVT hospital. A significant ASPECTS decay was definedasalossof2ormorepointsbetweenoutsidehospitaland EVT hospital. The rate of ASPECTS decay was defined using ASPECTS point loss divided by transfer time.
+
+328
+
+© 2024 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Fudan University, li bai on 09/05/2026
+
+jamaneurology.com
+
+[DOCLING_PAGE 3]
+
+Endovascular Thrombectomy Treatment Effect in Direct vs Transferred Patients With Large Ischemic Strokes
+
+Original Investigation Research
+
+Outcomes
+
+The primary outcome was shift in modified Rankin Scale (mRS) score at 90-day follow-up. Secondary clinical outcomes included functional independence (mRS score of 0 to 2), independent ambulation (mRS score of 0 to 3), and severe disability or death (mRS score of 5 to 6) at 90-day follow-up. Safety outcomes included mortality, parenchymal and symptomatic hemorrhage, and procedural complications. The proportion of patients receiving hemicraniectomy procedure, follow-up infarct volume, and infarct growth were also evaluated.
+
+Statistical Analysis
+
+Categorical variables were described using counts and proportions and compared using χ 2 or Fisher exact tests, as appropriate.ContinuousvariablesweredescribedusingmediansandIQRs and compared using Wilcoxon rank sum tests. The thrombectomy treatment effects for the primary and secondary outcomeswereevaluatedusingprobabilisticindexmodel(PIM)and modified Poisson regression models with robust SEs, respectively. All models were adjusted for age, National Institutes of HealthStrokeScalescoreatpresentationatthetrialhospital,time from last known well to randomization, ASPECTS, and estimated ischemic core volume obtained at the EVT hospital. AdjustedPIMmodelsdifferfromparametricordinallogisticregression modelsinthatPIMsestimatetheoddsofarandompatient from the EVT group having a better mRS outcome than a randompatientfromtheMMgroup,giventhedifferencesincovariates between these 2 patients. 11,12 The treatment effect estimateswerereportedusingadjustedgeneralizedoddsratios(ORs) and95%CIs,withties split equally between groups for ordinal outcomes and adjusted relative risk (aRR) with 95% CIs for dichotomous variables. A multiplicative interaction term betweenthecharacteristicofinterest and received treatment was used to determine the heterogeneity of EVT treatment effect. Similarmodelswereusedtodeterminetheassociationsoftransfer timeandASPECTSdecayintransferwiththeoutcomes.EVT treatment effect was also evaluated within the trial population with an ASPECTS of 5 or less at the referring hospital and those with significant ASPECTS decay (2 or more points) during the transfer.
+
+All analyses were conducted based on the treatment receivedbytheindividual(as-treatedanalysis) regardless of the randomization assignment. Stata version 17 (StataCorp) and R version 4.2.2 (The R Foundation) were used to perform all statistical analyses. All hypotheses were tested using 2-sided statistical tests, and a P value less than .05 was considered significant. All analyses were considered hypothesisgenerating. Missing data were not imputed.
+
+jamaneurology.com
+
+Results
+
+Atotalof958patientswerescreenedand606patientswereexcludedfromparticipationand/ordidnotprovideconsent.Of352 enrolledpatients,145(41.2%)werefemale,andthemedian(IQR) age was 66.5 (58-75) years. A total of 211 patients (59.9%) were transfers, of whom 108 (51.2%) received EVT, while 141 (40.1%) presented directly, of whom 72 (51.1%) received EVT ( Figure 1 ). Acomparison of the baseline characteristics based on transfer status is provided in eTable 1 in Supplement 2. The 2 populationsweresimilarexceptthatpatientstransferredwereyounger (median[IQR]age,65[58-74]yearsvs69[60-77]years)andreceived intravenous thrombolytics more frequently (51 of 210 [24.3%] vs 16 of 141 [11.3%]). Compared with directly presentingpatients,transferredpatientshadlongermedian(IQR)times from last known well to arrival at an EVT-capable center (390 [118-703] minutes vs 518 [318-912] minutes) and randomization (516 [226-765] minutes vs 635 [364-979] minutes) but had shortermedian(IQR)timesfromarrivaltoacquisitionofCTperfusion/MR diffusion-perfusion (29 [19-40] minutes vs 24 [1335] minutes) and arterial puncture (118 [92-146] minutes vs 99 [66-130] minutes) if they received EVT.
+
+ASPECTS at both the referring hospital and EVT-capable centerwereavailablefor153of211transferredpatients(72.5%). The median (IQR) ASPECTS at the referring hospital (EVT, 5 [4-7]; MM, 5.5 [4-7]) and at an EVT-capable hospital (EVT, 4 [3-5]; MM, 4 [4-5]) were similar between the 2 treatment arms, as were the median (IQR) National Institutes of Health Stroke Scale score at the referring hospital (EVT, 18 [14-22]; MM, 17 [14-21]) and at an EVT-capable hospital (EVT, 18.5 [15-23]; MM, 19 [15-23]) ( Table ).
+
+Functional and Safety Outcomes in Directly Presenting vs Transferred Patients
+
+There was a shift toward improved mRS distribution with EVT for both directly presenting patients (median [IQR]: EVT, 4 [36]; MM, 5 [4-6]; adjusted generalized OR, 2.01; 95% CI, 1.422.86)andtransferredpatients(median[IQR]:EVT,4[3-6];MM, 5 [4-6]; adjusted generalized OR, 1.50; 95% CI, 1.11-2.03). TreatmenteffectestimatesalsofavoredEVTforsecondaryfunctional outcomes (eTable 5 in Supplement 2). Sensitivity analysesafterincludingintravenousthrombolysisasanadditionalcovariateforadjustmentdemonstratedsimilarresults(eTable6in Supplement2).Noevidenceofheterogeneitybetweentransfer statusandtreatmenteffectwasobservedacrossfunctionaloutcomes (eTable 5 in Supplement 2).
+
+Symptomatichemorrhage(directlypresenting,1[0receiving EVT and 1 receiving MM]; transfers, 2 [1 receiving EVT and 1 receiving MM]) and parenchymal hemorrhage (directly presenting, 4 [3 receiving EVT and 1 receiving MM]; transfers, 4 [2 receiving EVT and 2 receiving MM]) were observed infrequently (eTable 3 in Supplement 2). Treatment effect estimateslargelyfavoredEVTinkeyclinicalsubgroups(age,stroke severity, and time from last known well to randomization) and imagingsubgroups(ischemiccorevolumeandASPECTSstrata), without heterogeneity in both directly presenting and transferred patients ( Figure 2 ; eFigures 1 to 6 in Supplement 2).
+
+(Reprinted)
+
+JAMANeurology April 2024 Volume 81, Number 4
+
+© 2024 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Fudan University, li bai on 09/05/2026
+
+329
+
+[DOCLING_PAGE 4]
+
+330
+
+Figure 1. Flow Diagram of the Study Participants
+
+958
+
+Study participants assessed for eligibility
+
+352
+
+Enrolled
+
+108
+
+Received EVT
+
+103
+
+Received MM
+
+72
+
+Received EVT
+
+69
+
+Received MM
+
+211
+
+Transferred to EVT center
+
+141
+
+Directly presented to EVT center
+
+606
+
+Excluded
+
+124
+
+Had ineligible or multiple clot locations in different territories
+
+99
+
+Had ineligible age
+
+61
+
+LKW >24 h
+
+59
+
+With mRS score >1
+
+51
+
+With hemorrhage, neoplasm, or arteriovenous malformations
+
+on baseline imaging
+
+45
+
+Did not consent
+
+28
+
+Had dissection
+
+26
+
+Had IV tPA >4.5 h
+
+22
+
+Enrolled in another interventional trial
+
+19
+
+Had an ASPECTS ≤2
+
+15
+
+With mass effect or signs of established infarct
+
+13
+
+With life expectancy <90 d
+
+11
+
+Had intracranial stent
+
+9
+
+Had uncertain compliance (eg, drug use, language barrier)
+
+24
+
+For other reasons
+
+ASPECTS indicates Alberta Stroke Program Early CT Score; EVT, endovascular thrombectomy; LKW, last known well; MM, medical management; mRS, modified Rankin Scale; tPA, tissue plasminogen activator.
+
+Research Original Investigation
+
+Endovascular Thrombectomy Treatment Effect in Direct vs Transferred Patients With Large Ischemic Strokes
+
+Table. Key Parameters at Outside and Endovascular Thrombectomy (EVT)-Capable Centers
+
+in Transferred Patients, Overall and Stratified by Type of Treatment Received
+
+[DOCLING_TABLE rows=11 columns=5]
+|  | Median (IQR) | Median (IQR) | Median (IQR) |  |
+| Parameter | Total (n = 211) | MMonly (n = 103) | EVT plusMM (n = 108) | P value |
+| Transfer time, min | 178 (136-230) | 180 (140-230) | 176 (128-231) | .95 |
+| CT ASPECTS at outside hospital | 5 (4-7) | 6 (4-7) | 5 (4-7) | .82 |
+| CT ASPECTS at EVT-capable hospital | 4 (3-5) | 4 (4-5) | 4 (3-5) | .37 |
+| ASPECTS loss during transfer | 1 (0-3) | 1 (0-2) | 1 (0-3) | .50 |
+| Rate of ASPECTS decay, points per h | 0.3 (0.0-0.9) | 0.3 (0.0-0.8) | 0.4 (0.0-0.9) | .95 |
+| NIHSS score at outside hospital | 18 (14-22) | 17 (14-21) | 18 (14-22) | .56 |
+| NIHSS at EVT-capable hospital | 19 (15-23) | 19 (15-22) | 19 (15-23) | .72 |
+| Time from arrival to arterial puncture, min | 109 (75-138) | NA | 109 (75-138) | NA |
+| Time from arterial puncture to reperfusion/end of the procedure, min | 38 (25-61) | NA | 38 (25-61) | NA |
+[/DOCLING_TABLE]
+
+Association of Collateral Status With Thrombectomy OutcomeTreatment Effect in Transferred Patients
+
+Of 211 transfers, 90 patients (49 receiving EVT and 41 receiving MM)demonstratedpoorcollaterals(collateralscoreof0to1)on vascular imaging obtained at EVT trial centers, whereas 121 (59 receivingEVTand62receivingMM)demonstratedgoodcollaterals (collateral score of 2 to 3). Baseline characteristics, includingstrokeseverityandimagingfindings,wereotherwisesimilar betweenthe2treatmentarmswithgoodandpoorcollateralscores (eTable 7 in Supplement 2).
+
+EVTwasassociatedwithbetterfunctionaloutcomesintransferredpatientswithgoodcollateralscores(adjustedgeneralized OR,1.94;95%CI,1.29-2.92),higherindependentambulation(EVT, 29of58[50%];MM,17of62[27%];aRR,1.80;95%CI,1.19-2.72), andreducedseveredisabilityordeath(EVT,20of58[34%];MM,
+
+JAMANeurology April 2024 Volume 81, Number 4
+
+(Reprinted)
+
+Abbreviations: ASPECTS, Alberta Stroke Program Early CT Score; CT, computed tomography; MM, medical management; NA, not applicable; NIHSS, National Institutes of Health Stroke Scale.
+
+33of62[53%];aRR,0.63;95%CI,0.43-0.92)(eTable8inSupplement2).However,amongtransferredpatientswithpoorcollateralscores,noassociationbetweentreatmentarmandfunctional outcomesdistribution was observed (adjusted generalized OR, 0.94; 95% CI, 0.62-1.44; P for interaction = .047). Independent ambulationwasnumericallyhigherwithEVT(EVT,14of49[29%]; MM,4of41[10%];aRR,2.60;95%CI,0.99-6.85), while no differenceincompletedependenceordeathwasobserved(EVT,29 of 49 [59%]; MM, 24 of 41 [59%]; aRR, 1.23; 95% CI, 0.98-1.69).
+
+Thrombectomy Treatment Effect in Transferred Patients Based on Referring Hospital ASPECTS
+
+Amongtransfers,82patients(44receivingEVTand38receiving MM) demonstrated an ASPECTS of 5 or less on initial noncontrast CT at the referring hospital (eTable 9 in Supple-
+
+© 2024 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Fudan University, li bai on 09/05/2026
+
+jamaneurology.com
+
+[DOCLING_PAGE 5]
+
+Endovascular Thrombectomy Treatment Effect in Direct vs Transferred Patients With Large Ischemic Strokes
+
+Original Investigation Research
+
+Figure 2. Forest Plot of the Association of Endovascular Thrombectomy (EVT) With Distribution of 90-Day Modified Rankin Scale Scores in Patients Directly Presenting and Transferring to an EVT-Capable Center
+
+A
+
+Directly presented to an EVT-capable center
+
+Adjusted
+
+EVT,
+
+No.
+
+37
+
+MM,
+
+No.
+
+34
+
+Category
+
+Age, y
+
+<70
+
+≥70
+
+32
+
+35
+
+NIHSS score at presentation
+
+<20
+
+37
+
+41
+
+≥20
+
+35
+
+Occlusion location
+
+ICA
+
+generalized
+
+OR (95% CI)
+
+2.30 (1.34-3.95)
+
+1.55 (1.00-2.38)
+
+2.35 (1.39-3.99)
+
+1.59 (1.06-2.39)
+
+1.35 (0.82-2.23)
+
+25
+
+27
+
+24
+
+MCA
+
+48
+
+39
+
+2.13 (1.36-3.34)
+
+Time from LKW to randomization, h
+
+<12
+
+54
+
+40
+
+1.68 (1.13-2.49)
+
+12-24
+
+<6
+
+26
+
+21
+
+18
+
+31
+
+6-24
+
+41
+
+45
+
+Ischemic core volume, mL
+
+<70
+
+15
+
+23
+
+≥70
+
+<100
+
+≥100
+
+<150
+
+≥150
+
+CT ASPECTS
+
+0-2
+
+3-5
+
+49
+
+41
+
+31
+
+53
+
+19
+
+9
+
+50
+
+6-10
+
+13
+
+Subpopulation A
+
+No
+
+10
+
+Yes
+
+62
+
+Subpopulation B
+
+No
+
+33
+
+Yes
+
+39
+
+Mismatch profile 1
+
+Absent
+
+42
+
+Present
+
+29
+
+Mismatch profile 2
+
+Absent
+
+9
+
+Present
+
+62
+
+51
+
+35
+
+31
+
+56
+
+10
+
+3
+
+51
+
+12
+
+7
+
+59
+
+23
+
+43
+
+41
+
+24
+
+16
+
+49
+
+3.93 (2.04-7.56)
+
+2.20 (1.30-3.72)
+
+1.87 (1.17-2.99)
+
+1.13 (0.51-2.51)
+
+2.30 (1.59-3.35)
+
+2.15 (1.30-3.55)
+
+1.65 (1.05-2.59)
+
+2.04 (1.36-3.07)
+
+2.60 (1.44-4.70)
+
+1.32 (0.88-1.99)
+
+2.18 (1.43-3.33)
+
+3.09 (1.37-6.98)
+
+2.67 (1.00-7.13)
+
+2.17 (1.47-3.19)
+
+1.55 (0.89-2.69)
+
+2.62 (1.71-4.02)
+
+2.47 (1.55-3.92)
+
+1.77 (1.03-3.04)
+
+3.18 (1.13-8.91)
+
+1.85 (1.26-2.73)
+
+MM
+
+better
+
+0.5
+
+EVT
+
+better
+
+1
+
+5
+
+2
+
+Adjusted generalized
+
+OR (95% CI)
+
+EVT
+
+better
+
+MM
+
+better
+
+0.5
+
+10
+
+5
+
+Adjusted generalized
+
+OR (95% CI)
+
+2
+
+1
+
+Category
+
+Age, y
+
+Occlusion location
+
+Ischemic core volume, mL
+
+CT ASPECTS
+
+Subpopulation A
+
+Subpopulation B
+
+Mismatch profile 1
+
+Mismatch profile 2
+
+Time from LKW to randomization, h
+
+<70
+
+≥70
+
+NIHSS score at presentation
+
+<20
+
+≥20
+
+ICA
+
+MCA
+
+<12
+
+<70
+
+≥70
+
+<100
+
+≥100
+
+<150
+
+≥150
+
+0-2
+
+3-5
+
+6-10
+
+No
+
+Yes
+
+No
+
+Yes
+
+Absent
+
+Present
+
+Absent
+
+Present
+
+12-24
+
+<6
+
+6-24
+
+EVT,
+
+No.
+
+65
+
+42
+
+61
+
+46
+
+55
+
+52
+
+24
+
+83
+
+21
+
+86
+
+44
+
+63
+
+91
+
+16
+
+3
+
+98
+
+6
+
+2
+
+105
+
+25
+
+82
+
+72
+
+33
+
+25
+
+80
+
+56
+
+51
+
+MM,
+
+No.
+
+64
+
+39
+
+56
+
+47
+
+59
+
+44
+
+23
+
+80
+
+23
+
+80
+
+50
+
+53
+
+83
+
+20
+
+5
+
+88
+
+10
+
+4
+
+99
+
+27
+
+76
+
+60
+
+42
+
+25
+
+77
+
+39
+
+64
+
+P
+
+for
+
+interaction
+
+.88
+
+.61
+
+.52
+
+.71
+
+.10
+
+.08
+
+.50
+
+.55
+
+.45
+
+NA
+
+.046
+
+.21
+
+.08
+
+.78
+
+Adjusted
+
+generalized
+
+OR (95% CI)
+
+1.66 (1.11-2.51)
+
+1.36 (0.92-2.02)
+
+1.42 (0.94-2.16)
+
+1.53 (1.02-2.29)
+
+1.63 (1.08-2.46)
+
+1.41 (0.90-2.20)
+
+1.67 (0.89-3.15)
+
+1.47 (1.05-2.05)
+
+3.01 (1.46-6.20)
+
+1.40 (1.01-1.93)
+
+2.60 (1.56-4.32)
+
+1.29 (0.89-1.85)
+
+1.64 (1.17-2.29)
+
+1.42 (0.72-2.79)
+
+6.82 (1.68-27.63)
+
+1.47 (1.07-2.03)
+
+2.35 (1.05-5.25)
+
+N/A
+
+1.46 (1.08-1.98)
+
+2.86 (1.49-5.50)
+
+1.29 (0.92-1.82)
+
+1.35 (0.92-1.97)
+
+2.10 (1.24-3.56)
+
+1.15 (0.58-2.29)
+
+1.76 (1.25-2.48)
+
+1.41 (0.90-2.21)
+
+1.49 (0.98-2.26 )
+
+Transferred to an EVT-capable center
+
+B
+
+ASPECTS, Alberta Stroke Program Early CT Score; CT, computed tomography; ICA, internal carotid artery; LKW, last known well; MCA, middle cerebral artery; MM, medical management; NA, not applicable; NIHSS, National Institutes of Health Stroke Scale; OR, odds ratio.
+
+ment 2). Points estimates favored functional outcomes in patients receiving EVT (median [IQR] ASPECTS: EVT, 4 [3-6]; MM, 4 [3-5.5]; adjusted generalized OR, 1.52; 95% CI, 0.892.58) and independent ambulation (EVT, 21 of 44 [48%]; MM, 10of38[26%];aRR,1.52;95%CI,0.93-2.49).Additionally,EVT wasassociated with better functional independence (EVT, 10 of 44 [23%]; MM, 2 of 38 [5%]; aRR, 4.28; 95% CI, 1.09-16.81) (eTable 10 in Supplement 2). A sensitivity analysis excluding 3patientswithoutsideASPECTSlessthan3demonstratedsimilar results (eTable 11 in Supplement 2). There was no interactionbetweenreferralhospitalASPECTS(ASPECTSgreaterthan 5 vs ASPECTS of 5 or less) and EVT treatment benefit ob-
+
+jamaneurology.com served across all outcomes (eFigure 7 and eTable 10 in Supplement 2).
+
+Transfer Time Association With EVT Outcomes and Treatment Effect
+
+The median (IQR) transfer time was 176 (128-231) minutes for patients whowererandomizedtoEVTand180(140-230)minutes for those who received MM. Patients with transfer time lessthan3hoursdemonstratedbetterfunctionaloutcomes(adjusted generalized OR, 1.92; 95% CI, 1.21-3.04), functional independence(EVT,12of49[25%];MM,5of47[11%];aRR,2.55; 95% CI, 1.00-6.49) and independent ambulation (EVT, 22 of
+
+(Reprinted)
+
+JAMANeurology April 2024 Volume 81, Number 4
+
+10
+
+P
+
+for
+
+interaction
+
+.45
+
+.42
+
+.41
+
+.12
+
+.67
+
+.11
+
+.54
+
+.70
+
+.90
+
+.75
+
+.23
+
+.15
+
+.32
+
+.23
+
+© 2024 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Fudan University, li bai on 09/05/2026
+
+331
+
+[DOCLING_PAGE 6]
+
+Research Original Investigation
+
+Endovascular Thrombectomy Treatment Effect in Direct vs Transferred Patients With Large Ischemic Strokes
+
+Figure 3. Predicted Marginal Probabilities of Independent Ambulation (ModifiedRankinScale[mRS]Scoreof0to3)byTransferTime in ThoseReceivingEndovascularThrombectomyandMedicalManagement
+
+80
+
+60
+
+40
+
+20
+
+0
+
+Predicted probability of independent ambulation
+
+(mRS score of 0-3), %
+
+Transfer time, min
+
+600
+
+400
+
+200
+
+0
+
+Medical management
+
+Endovascular thrombectomy
+
+As transfer time increased, the predicted probability of independent ambulation decreased in both arms, but treatment effects were largely preserved. Shaded areas indicate 95% CIs.
+
+49 [45%]; MM, 10 of 47 [21%]; aRR, 2.47; 95% CI, 1.45-4.22) (eTable 14 in Supplement 2). In those with transfer time of 3 hours or more, treatment effect estimates were reduced but still favored EVT for better functional outcomes (adjusted generalized OR, 1.15; 95% CI, 0.73-1.80) and independent ambulation (EVT, 16 of 45 [36%]; MM, 11 of 47 [23%]; aRR, 1.58; 95% CI, 0.89-2.80). There was no significant interaction between EVT treatment effect and transfer time strata ( P for interaction = .19) ( Figure 3 ).
+
+ASPECTS Decay Association With EVT Outcomes and Treatment Effect
+
+The median (IQR) ASPECTS loss between outside and EVT-capable center imaging was 1 (0-3) for the EVT arm and 1 (0-2) for the MM arm, with ASPECTS decay at a median (IQR) rate of 0.4 (0-0.9) points per hour and 0.3 (0-0.8) points per hour,respectively. ASPECTSlosswasassociatedwithnumerically worse functional outcomesinpatientsreceivingEVT(adjusted generalized OR per 1-ASPECTS point loss, 0.89; 95% CI, 0.77-1.02) but not in patients receiving MM (adjusted generalized OR per 1-ASPECTS point loss, 0.99; 95% CI, 0.86-1.13) ( Figure 4 ). However, the interaction term was not significant ( P for interaction = .45) (eTable 12 in Supplement 2).
+
+Discussion
+
+Wefoundthatamongpatientswithlargeischemicstrokeatthe time of evaluation, both directly presenting patients and patientstransferredtoEVT-capablecentersbenefitedfromthrombectomy. This benefit was consistent for improvement on mRS score, functional independence,andindependentambulation. Furthermore, treatment effect estimates favored EVT in transferred patients with ASPECTS of 5 or less prior to transfer on referringhospitalimages.MedianASPECTSlosswasalmost1point
+
+JAMANeurology April 2024 Volume 81, Number 4
+
+(Reprinted)
+
+Figure 4. Predicted Marginal Probabilities of Independent Ambulation (Modified Rankin Scale [mRS] Score of 0 to 3) by Loss of Alberta Stroke Program Early CT Score (ASPECTS) Points During Transfers in Those Receiving Endovascular Thrombectomy and Medical Management
+
+80
+
+60
+
+40
+
+20
+
+0
+
+Predicted probability of independent ambulation
+
+(mRS score of 0-3), %
+
+ASPECTS drop
+
+6
+
+4
+
+5
+
+2
+
+3
+
+1
+
+0
+
+Medical management
+
+Endovascular thrombectomy
+
+As ASPECTS loss increased, the predicted probability of independent ambulation decreased in arms, but treatment effects were largely preserved. Shaded areas indicate 95% CIs.
+
+for every 3 hours of transfer time, and ASPECTS loss during interfacility transfer was associated with numerically worse outcomesinpatientsreceivingEVTbutnotMM.Patientswithtransfer times less than 3 hours demonstrated better functional outcomes with EVT, whereas treatment effect estimates were lower but still favored EVT in those with longer transfer time.
+
+Additionally, collateral scores appeared to modify EVT treatmenteffects in this population, since EVT resulted in improvedfunctionaloutcomesintransferredpatientswithgood collateral scores but there was no consistent association of EVT with better functional outcomes in transferred patients with poor collateral scores. Collateral status, as with perfusion imaging, only provides assessment of blood flow status at the timeofimagingacquisition.Wecouldnotevaluatechangesbefore and after transfer in this dataset. Other than transferred patientswithpoorcollateralscores,allclinicalandimagingsubgroups favored EVT without heterogeneity between transferred and directly presenting patients.
+
+We observed a trend toward potential effect modificationofthrombectomytreatmentintransferredpatientsbymismatch status, as patients with an absence of mismatch (definedasanadjustedgeneralizedORof1.2orgreaterorischemic core volume of 10 mL or greater) demonstrated a reduction in EVTassociationwithbetterclinical outcomes compared with those with a presence of mismatch. However, no such association was observed in patients presenting directly to EVT-capable centers. Similarly, when the definition of mismatch was analyzed as an adjusted generalized OR of 1.8 or greater or ischemic core volume of 15 mL or greater, the effect modification disappeared. Transfer status was not one of the covariates in the adaptive randomization algorithm used for thetrial, and further evaluation from other large ischemic core trials and pooled patient-level meta-analyses may help explain the findings.
+
+332
+
+© 2024 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Fudan University, li bai on 09/05/2026
+
+jamaneurology.com
+
+[DOCLING_PAGE 7]
+
+Endovascular Thrombectomy Treatment Effect in Direct vs Transferred Patients With Large Ischemic Strokes
+
+Original Investigation Research
+
+Prior analyses have demonstrated improved clinical outcomeswithEVTinpatientswithlargevesselocclusion stroke whopresentedinitially to non-EVT-capable centers and then transferred for thrombectomy, both in the early and late time window. 8,13 However,thesecohortsincludedpatientswithlimited ischemic changes prior to EVT. Furthermore, many patients were excluded due to deterioration on neuroimaging, suggesting infarct expansion and large ischemic stroke. In our currentanalyses,transferredpatientshadbetterfunctionaloutcomes with EVT vs MM, which was persistent in various ischemicinjurystratabasedonvolumetriccoreorASPECTSwithout significant heterogeneity.
+
+Treatment of patients with large vessel occlusion stroke who already demonstrate established large strokes is challenging for hospitals without EVT capability due to perceived poor outcomes. Furthermore, EVT-capable centers frequently dissuade transfers of such patients owing to concerns regarding EVT eligibility and potential further radiologic deterioration during interfacility transfers. The lack of advanced imaging capabilities at referring hospitals, which are recommended by current guidelines 14 for EVT in the late time window, also make transfer decisions challenging. Our results demonstrated that these patients may still benefit from EVTdespitehavinglargeischemiccorestrokes,asdefined as an ASPECTS of 5 or less, on initial images at referring hospitals. Furthermore, the treatment effect estimates were largely similar for patients with high (6 to 10) and low (5 or less) ASPECTS at referral hospitals, without significant heterogeneity.
+
+Potential radiological deterioration during transfer remainsavalidconcernregardingEVToutcomesforpatientswith large ischemic core stroke. In our study, worsening ASPECTS was associated with numerically worse clinical outcomes in patients receiving EVT. Our findings support the transfer and treatment consideration of patients with large ischemic core stroke presenting to non-EVT-capable centers as well as exploration of opportunities to further optimize clinical outcomes by reducing potential stroke evolution on neuroimagingduringtransferthroughothertherapeuticapproaches,such as neuroprotection. On the other hand, a 2023 meta-analysis demonstrated that EVT improves outcomes even in patients with very low ASPECTS (0 to 2). 15 A randomized clinical trial has included patients with ASPECTS of 0 to 2 and their findings, if confirming beneficial effects of EVT in this population, may further support the notion of transferring patients even with very low ASPECTS or longer transfer times for consideration of thrombectomy procedures. These findings also raise important questions about stroke system of care design. Approximately1in5patientswithstrokeduetolargevessel occlusion present with estimated large ischemic cores at initial evaluation, 16 suggesting that these expanded EVT eligibility criteria will substantially increase the number of procedures. On the other hand, futile transfers are also expected to rise because of patients demonstrating a very large stroke and fast progression 17 before they reach an EVT-capable center. All these factors are expected to significantly challenge the current stroke systems, and thus proactive measures should be considered to ensure an adequate workforce and neces-
+
+jamaneurology.com sary support as we gear toward incorporating EVT for large ischemic core strokes in our treatment protocols.
+
+Patientswithlongertransfertimesdemonstrateddecreased EVTtreatmenteffectestimatesforfunctionaloutcomesandindependentambulation.Optimizingtransfertimesmaybeanother strategytoimproveEVToutcomesandtreatmenteffectsinthese patients but is a complex and challenging endeavor. A recent analysis from American Heart Association/American Stroke AssociationGetWithTheGuidelinesregistrysuggestedthatmediandoor-in-door-outtimesforpatientswithstrokewereapproximately3hours,and3of4patientswithstrokeexceededtherecommendedtimeoflessthan2hours. 18 Ontheotherhand,asignificant proportion of the US population reside outside of a 30-minutedrive-timedistancetoEVT-capablecenters. 19 Inour study,themediantransfertimewasapproximately3hours,and morethan80%ofpatientswithavailabletransfertimestookat least 2 hours for transfers.
+
+While thrombectomy benefit was preserved in both directly presenting and transferred patients, the treatment effect estimates were lower for transferred patients. A portion of this decrease could be attributed to the time it takes to transfer patients to an EVT-capable center and potential ASPECTSdecaythatmayoccurduringtransfer.Theexpected transfer times and distances may provide ancillary information to estimate potential ASPECTS and eventual EVT eligibility by the time the transfer is completed. Combining all these prognostic markers (ASPECTS decay, transfer time, and collateral status) into a clinically relevant scoring system may potentially segregateindividualswithverylowlikelihoodoftreatment benefit and/or reasonable clinical outcomes. However, we do not have sufficient data to derive and validate such a score at present. A thorough discussion with patients and/or their surrogates regarding the extent of ischemic changes on outside hospital imaging, potential for further worsening, expectedoutcomes,andindividuals'wishesregardingthequality of life and advanced directives should further help individualize transfer and treatment decision-making in this unique population.
+
+Limitations
+
+This study has limitations. The SELECT2 trial was not primarily designed to evaluate the potential impact of transfer status on EVT treatment effect. As such, while the study was prespecified in concept, randomization and treatment assignments were not based on transfer status (transfer status was not accounted for in the covariate adaptive randomization schemefortheSELECT2trial).Thus,analysespresentedinthis article are underpowered and exploratory in nature, and the results should be considered preliminary. A significant proportion of patients did not have available data regarding imaging findings at referring hospitals. Additional limitationstoouranalysisincludeunavailabilityofperfusionimaging findings at referring hospitals and a relatively low number of patientswithoutsideASPECTSlessthan5.Furthermore,evaluation of potential effect modification through collateral statuswaslimitedbyourinabilitytoaccountforpotentialchanges in collaterals during transfer. We also did not have information regarding how many patients with low ASPECTS at out-
+
+(Reprinted)
+
+JAMANeurology April 2024 Volume 81, Number 4
+
+© 2024 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Fudan University, li bai on 09/05/2026
+
+333
+
+[DOCLING_PAGE 8]
+
+Research Original Investigation
+
+Endovascular Thrombectomy Treatment Effect in Direct vs Transferred Patients With Large Ischemic Strokes
+
+side hospitals were not considered for transfer, nor how many transferred patients were rendered ineligible for participation in the trial due to very low ASPECTS at EVT hospitals.
+
+Conclusions
+
+In a randomized clinical trial of patients with large ischemic core stroke, both directly presenting and transferred patients benefitedfromEVT.However,theassociationofEVTwithbet-
+
+ARTICLE INFORMATION
+
+Accepted for Publication: January 11, 2024. Published Online: February 8, 2024.
+
+doi:10.1001/jamaneurol.2024.0206
+
+Author Affiliations: Neurology, University Hospital Cleveland Medical Center, Case Western Reserve University, Cleveland, Ohio (Sarraj, Pujara, Sundararajan, Furlan, Sila); Clinical Neuroscience, University of Calgary, Calgary, Alberta, Canada (Hill); Cerebrovascular Center, Neurology, Cleveland Clinic, Cleveland, Ohio (Hussain); Neurology, University of Kansas Medical Center, Kansas City (Abraham, Maali); Neurosurgery and Radiology, University of Iowa Hospitals and Clinics, Iowa City (Ortega-Gutierrez); Neurosurgery, Rush University Medical Center, Chicago, Illinois (Chen); Neurology, University of Pennsylvania, Philadelphia (Kasner); Medicine and Neurology, The Royal Melbourne Hospital, Melbourne, Australia (Churilov, Johns); Neurosurgery, McGovern Medical School at UTHealth, Houston, Texas (Blackburn, Shaker); Neurosurgery, University Hospital Cleveland Medical Center, Case Western Reserve University, Cleveland, Ohio (Hu, Bambakidis); Neurosurgery, Thomas Jefferson University Hospital, Philadelphia, Pennsylvania (Herial, Jabbour);
+
+Neuro-Interventional Radiology, OhioHealth, Riverside Methodist Hospital, Columbus (Budzik); Neurology, OhioHealth, Riverside Methodist Hospital, Columbus (Hicks); Internal Medicine, Hospital Clínico Universitario Valladolid, University of Valladolid, Valladolid, Spain (Arenillas); Neurosurgery, Cleveland Clinic, Cleveland, Ohio (Tsai); Neurosurgery, Abington Jefferson Health, Abington, Pennsylvania (Kozak); Neurology, Liverpool Hospital, Liverpool, Australia (Cordato); Neurosurgery, Baptist Medical Center Jacksonville, Jacksonville, Florida (Hanel); Neurology, Christchurch Hospital, Christchurch, New Zealand (Wu); Neurology, Hospital Universitari de Bellvitge, L'Hospitalet de Llobregat, Spain (Portela); Neurosurgery, Westchester Medical Center, NY Medical College, Valhalla, New York (Gandhi, Al-Mufti); Neurointerventional Surgery, Ascension Columbia St Mary's Hospital, Milwaukee, Wisconsin (Gibson); Neurology, Hospital Universitari Germans Trias i Pujol, Badalona, Spain (Pérez de la Ossa); Internal Medicine, Toronto Western Hospital, Toronto, Ontario, Canada (Schaafsma); Stroke Unit, Hospital Clínic de Barcelona, Barcelona, Spain (Blasco); Neurology, Kaiser Permanente Southern California, Los Angeles (Sangha); Neurology, Dell Medical School at The University of Texas at Austin, Ascension Texas, Austin (Warach); Neurology, Royal Adelaide Hospital, Adelaide, Australia (Kleinig); Interventioal and Diagnostic Imaging, McGovern Medical School at UTHealth, Houston, Texas (Sitton); Neurology, Boston Medical Center, Boston,
+
+334 JAMANeurology April 2024 Volume 81, Number 4
+
+ter functionaloutcomeswasnumericallybetterinpatientspresenting directly to EVT-capable centers. The treatment effect estimates favored EVT even in patients with low ASPECTS at the referring hospital. Prolonged transfer times and ASPECTS loss was associated with numerically worse functional outcomesafterEVT,butthetreatmenteffectwaspreserved.These findings may impact stroke systems of care infrastructure, highlighting the need for rapid identification of patients suitable for transfer and expedited transport and reperfusion on arrival.
+
+Massachusetts (Nguyen); Neurology, Icahn School of Medicine at Mount Sinai, New York, New York (Fifi); Neurology, Stanford University, Stanford, California (Lansberg, Albers); Second Department of Neurology, School of Medicine, National and Kapodistrian University of Athens, 'Attikon' University Hospital, Athens, Greece (Tsivgoulis); Neurology, The Royal Melbourne Hospital, Melbourne, Australia (Davis); Neurology, Hospitals of University of Pennsylvania, Philadelphia (Wechsler); Mobile Stroke Unit, Memorial Hermann Hospital, Houston, Texas (Grotta); Neurology, Hospital Vall d'Hebrón, Sabadell, Spain (Ribo); Medicine and Neurology, The Royal Melbourne Hospital, The Florey Institute for Neuroscience and Mental Health, Melbourne, Australia (Campbell); Neuroscience, Valley Baptist Medical Center, Harlingen, Texas (Hassan).
+
+The SELECT2 Collaborators: Nirav Vora, MD; Nathan W. Manning, MBBS; Andrew Cheung, MBBS; Amin N. Aghaebrahim, MD; Andres J. Paipa Merchán, MD; Daniel Sahlein, MD; Manuel Requena Ruiz, MD; Lucas Elijovich, MD; Adam Arthur, MD; Faisal Al-Shaibi, MD; Edgar A. Samaniego, MD; Kelsey R. Duncan, MD; Amanda Opaskar, MD; Abhishek Ray, MD; Wei Xiong, MD; Jeffery Sunshine, MD, PhD; Michael DeGeorgia, MD; Stavropoula Tjoumakaris, MD; Vitor Mendes Pereira, MD.
+
+Affiliations of The SELECT2 Collaborators: Neurology, University Hospital Cleveland Medical Center, Case Western Reserve University, Cleveland, Ohio (Al-Shaibi, Duncan, Opaskar, Xiong, DeGeorgia); Neurosurgery, University Hospital Cleveland Medical Center, Case Western Reserve University, Cleveland, Ohio (Ray, Sunshine); Neurosurgery, Thomas Jefferson University Hospital, Philadelphia, Pennsylvania (Tjoumakaris); Neuro-Interventional Radiology, OhioHealth, Riverside Methodist Hospital, Columbus (Vora); Neurosurgery, Baptist Medical Center Jacksonville, Jacksonville, Florida (Aghaebrahim); Neurosurgery, Liverpool Hospital, Liverpool, Australia (Manning); Neurosurgery, Liverpool Hospital, Liverpool, Australia (Cheung); Hospital Universitari de Bellvitge, L'Hospitalet de Llobregat, Spain (Paipa Merchán); Interventional Neuroradiology, Goodman Campbell Brain and Spine, Indianapolis, Indiana (Sahlein); Hospital Vall d'Hebrón, Barcelona, Spain (Requena Ruiz); Semmes Murphey Clinic, Memphis, Tennessee (Elijovich, Arthur); Neurology, University of Iowa Hospitals and Clinics, Iowa City (Samaniego); Neurology, St Michael's Hospital, Toronto, Ontario, Canada (Mendes Pereira).
+
+data analysis. Drs Ribo, Campbell, and Hassan contributed equally to the manuscript. Concept and design: Sarraj, Hussain, Hicks, Vora, Al-Mufti, Sangha, Tjoumakaris, Mendes Pereira, Lansberg, Bambakidis, Albers, Grotta, Campbell. Acquisition, analysis, or interpretation of data: Sarraj, Hill, Hussain, Abraham, Ortega-Gutierrez, Chen, Kasner, Churilov, Pujara, Johns, Blackburn, Sundararajan, Hu, Herial, Budzik, Arenillas, Tsai, Kozak, Cordato, Manning, Cheung, Hanel, Aghaebrahim, Wu, Portela, Paipa Merchán, Gandhi, Al-Mufti, Maali, Gibson, Sahlein, Pérez de la Ossa, Schaafsma, Blasco, Requena Ruiz, Warach, Kleinig, Elijovich, Arthur, Shaker, Sitton, Al-Shaibi, Samaniego, Duncan, Opaskar, Ray, Xiong, Sunshine, DeGeorgia, Nguyen, Fifi, Jabbour, Furlan, Tsivgoulis, Sila, Davis, Wechsler, Ribo, Campbell, Hassan. Drafting of the manuscript: Sarraj, Hicks, Aghaebrahim, Portela, Al-Mufti, Tjoumakaris, Mendes Pereira, Davis. Critical review of the manuscript for important intellectual content: Hill, Hussain, Abraham, Ortega-Gutierrez, Chen, Kasner, Churilov, Pujara, Johns, Blackburn, Sundararajan, Hu, Herial, Budzik, Vora, Arenillas, Tsai, Kozak, Cordato, Manning, Cheung, Hanel, Wu, Paipa Merchán, Gandhi, Al-Mufti, Maali, Gibson, Sahlein, Pérez de la Ossa, Schaafsma, Blasco, Requena Ruiz, Sangha, Warach, Kleinig, Elijovich, Arthur, Shaker, Sitton, Al-Shaibi, Samaniego, Duncan, Opaskar, Ray, Xiong, Sunshine, DeGeorgia, Nguyen, Fifi, Tjoumakaris, Jabbour, Furlan, Lansberg, Tsivgoulis, Sila, Bambakidis, Davis, Wechsler, Albers, Grotta, Ribo, Campbell, Hassan. Statistical analysis: Churilov, Pujara, Johns. Obtained funding: Sarraj. Administrative, technical, or material support: Sarraj, Chen, Hu, Herial, Budzik, Hicks, Kozak, Cordato, Manning, Aghaebrahim, Wu, Schaafsma, Elijovich, Shaker, Ray, Tjoumakaris, Tsivgoulis, Davis. Blackburn, Herial, Cheung, Hanel, Aghaebrahim,
+
+Author Contributions: Dr Sarraj had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the
+
+(Reprinted)
+
+Supervision: Sarraj, Ortega-Gutierrez, Churilov, Portela, Al-Mufti, Sangha, Samaniego, Sunshine, Jabbour, Furlan, Wechsler, Grotta.
+
+Conflict of Interest Disclosures: Dr Sarraj reported grants from Stryker Neurovascular during the conduct of the study. Dr Hill reported grants from Medtronic and personal fees from Microvention outside the submitted work. Dr Hussain reported grants from Medtronic Core Lab as well as personal fees from Stryker Neurovascular, Rapid Medical, and Cerenovus outside the submitted work. Dr Abraham consulted for Stryker Neurovascular and Q'Apel outside the submitted work. Dr Ortega-Gutierrez reported grants from Stryker Neurovascular, National Institute of Neurological Disorders and Stroke, and MicroVention as well as personal fees from Medtronic and Stryker Neurovascular outside the submitted work. Dr Kasner reported grants from Stryker during the conduct of the study; grants from Bayer, Bristol Myers Squibb, Diamedica, and Genentech as well as personal fees from NovoNordisk, Artivion, and UpToDate outside the submitted work. Dr Herial reported honorarium from Medtronic outside the submitted work. Dr Budzik reported grants from Stryker Neurovascular during the conduct of the study. Dr Arenillas reported grants from the Spanish Ministry of Science, Spanish Ministry of Science, European Commission, Castilla-Leon Department of Health, University Valladolid, and AstraZeneca as well as personal fees from AstraZeneca, Medtronic, Medtronic, Amgen, BMS-Pfizer, Daiichi Sankyo, and University Valladolid outside the submitted work. Dr Tsai reported personal fees from Medtronic, MicroVention, Cerenovus, Q'Apel, and Imperative Care outside the submitted work. Dr Manning reported personal fees from Medtronic, Stryker, and MicroVention outside the submitted work. Dr Cheung reported personal fees from Medtronic outside the submitted work. Dr Hanel reported grants from the National Institutes of Health, Interline Endowment, MicroVention, Stryker, and CNX; personal fees from Medtronic, Stryker, Cerenovous, MicroVention, Balt, Phenox, Rapid Medical, Q'Apel, MIVI Neuroscience, eLum, Three Rivers Medical, Shape Medical, and Corindus; and holds stock in InNeuroCo, Cerebrotech, eLum, Endostream, Three Rivers Medical, Scientia, RisT, BlinkTBI, Corindus, and NTI outside the submitted work. Dr Gibson serves on the clinical advisory board for iSchemaView outside the submitted work. Dr Sahlein reported grants from MicroVention; personal fees from Medtronic and Kaneka; and holds stock in Scientia, Vasorum, and Emboa outside the submitted work; and has a patent for TRAP pending. Dr Warach reported grants from the University Hospital Cleveland and The University of Texas Health Science Center at Houston during the conduct of the study as well as personal fees from Genentech outside the submitted work. Dr Arthur reported personal fees from Balt, Johnson and Johnson, Medtronic, Microvention, Penumbra, Perfuze, Scientia, Siemens, and Stryker and holds stock in Bendit, Cerebrotech, Magneto, and Vastrax outside the submitted work. Dr Sitton reported grants from Stryker during the conduct of the study. Dr Nguyen serves on the advisory board of Idorsia and Brainomix and is an Associate Editor of Stroke for the American Stroke Association outside the submitted work. Dr Fifi reported personal fees from University of Houston during the conduct of the study; personal fees from Cerenovus, MicroVention, Stryker, MIVI Neuroscience, and Medtronic; and holds stock in Imperative Care outside the submitted work. Dr Tjoumakaris reported personal fees from MicroVention outside the submitted work. Dr Mendes Pereira reported personal fees from Stryker outside the submitted work. Dr Sila reported grants from University Hospitals during the conduct of the study. Dr Bambakidis reported grants from Idorsia outside the submitted work. Dr Davis reported personal fees from Boehringer Ingelheim and Medtronic outside the submitted work. Dr Wechsler reported jamaneurology.com personal fees from Astellas Pharma, Athersys, Silk Road Medical, and Forest Devices outside the submitted work. Dr Albers reported personal fees from iSchemaView and Genentech outside the submitted work. Dr Hassan reported personal fees from Medtronic, MicroVention, Stryker, Penumbra, Cerenovus, Genentech, GE Healthcare, Scientia, Balt, Viz.ai, Insera Therapeutics, Proximie, NeuroVasc, NovaSignal, Vesalio, Rapid Medical, Imperative Care, Galaxy Therapeutics, Route 92, and Perfuze outside the submitted work. No other disclosures were reported.
+
+© 2024 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Fudan University, li bai on 09/05/2026
+
+jamaneurology.com
+
+[DOCLING_PAGE 9]
+
+Endovascular Thrombectomy Treatment Effect in Direct vs Transferred Patients With Large Ischemic Strokes
+
+Original Investigation Research
+
+Funding/Support: The SELECT2 trial was funded by Stryker Neurovascular through grants to University Hospitals Cleveland Medical Center and UTMcGovern Medical School.
+
+Role of the Funder/Sponsor: The funder had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+Group Information: Members of the SELECT2 Investigators appear in Supplement 3.
+
+Data Sharing Statement: See Supplement 4.
+
+REFERENCES
+
+1 . Yoshimura S, Sakai N, Yamagami H, et al. Endovascular therapy for acute stroke with a large ischemic region. NEngl J Med . 2022;386(14):13031313. doi:10.1056/NEJMoa2118191
+
+2 . Sarraj A, Hassan AE, Abraham MG, et al; SELECT2 Investigators. Trial of endovascular thrombectomy for large ischemic strokes. NEngl J Med . 2023;388(14):1259-1271. doi:10.1056/ NEJMoa2214403
+
+3 . Huo X, Ma G, Tong X, et al; ANGEL-ASPECT Investigators. Trial of endovascular therapy for acute ischemic stroke with large infarct. NEngl J Med . 2023;388(14):1272-1283. doi:10.1056/ NEJMoa2213379
+
+4 . Bendszus M, Fiehler J, Subtil F, et al; TENSION Investigators. Endovascular thrombectomy for acute ischaemic stroke with established large infarct: multicentre, open-label, randomised trial. Lancet . 2023;402(10414):1753-1763. doi:10.1016/ S0140-6736(23)02032-9
+
+5 . ESOC 2023-late breaking abstracts. Eur Stroke J . 2023;8(2)(suppl):670-711. doi:10.1177/ 23969873231174267
+
+6 . Costalat V, Lapergue B, Albucher JF, et al; LASTE Trial Investigators. Evaluation of acute mechanical revascularization in large stroke (ASPECTS ⩽ 5) and large vessel occlusion within 7 h of last-seen-well: the LASTE multicenter, randomized, clinical trial protocol. Int J Stroke . 2024;19(1):114-119. doi:10. 1177/17474930231191033
+
+7 . Zaidat OO, Al Kasab S, Sheth S, et al. TESLA trial: rationale, protocol, and design. Stroke Vasc Intervent Neurol . 2023;3(4):e000787. doi:10.1161/ SVIN.122.000787
+
+8 . Froehler MT, Saver JL, Zaidat OO, et al; STRATIS Investigators. Interhospital transfer before thrombectomy is associated with delayed
+
+(Reprinted)
+
+treatment and worse outcome in the STRATIS registry (Systematic Evaluation of Patients Treated With Neurothrombectomy Devices for Acute Ischemic Stroke). Circulation . 2017;136(24):2311-2321. doi:10.1161/CIRCULATIONAHA.117.028920
+
+9 . Sarraj A, Hassan AE, Abraham M, et al; SELECT2 Investigators. A randomized controlled trial to optimize patient's selection for endovascular treatment in acute ischemic stroke (SELECT2): study protocol. Int J Stroke . 2022;17(6):689-693. doi:10.1177/17474930211035032
+
+10 . Tan JC, Dillon WP, Liu S, Adler F, Smith WS, Wintermark M. Systematic comparison of perfusion-CT and CT-angiography in acute stroke patients. Ann Neurol . 2007;61(6):533-543. doi:10. 1002/ana.21130
+
+11 . Thas O, De Neve J, Clement L, Ottoy JP. Probabilistic index models. J R Stat Soc Series B Stat Methodol . 2012;74(4):623-671. doi:10.1111/j.14679868.2011.01020.x
+
+12 . De Schryver M, De Neve J. A tutorial on probabilistic index models: regression models for the effect size P(Y1 < Y2). Psychol Methods . 2019;24 (4):403-418. doi:10.1037/met0000194
+
+13 . Sarraj A, Mlynash M, Savitz SI, et al. Outcomes of thrombectomy in transferred patients with ischemic stroke in the late window: a subanalysis from the DEFUSE 3 trial. JAMANeurol . 2019;76(6): 682-689. doi:10.1001/jamaneurol.2019.0118
+
+14 . Powers WJ, Rabinstein AA, Ackerson T, et al. Guidelines for the early management of patients with acute ischemic stroke: 2019 update to the 2018 guidelines for the early management of acute ischemic stroke: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke . 2019;50(12):e344-e418. doi:10.1161/STR. 0000000000000211
+
+15 . Katsanos AH, Catanese L, Shoamanesh A. Endovascular thrombectomy in patients with very low ASPECTS scores: a systematic review and meta-analysis. Neurology . 2023;101(20):e2043e2045. doi:10.1212/WNL.0000000000207869
+
+16 . Sarraj A, Hassan AE, Grotta J, et al. Optimizing Patient Selection for Endovascular Treatment in Acute Ischemic Stroke (SELECT): a prospective, multicenter cohort study of imaging selection. Ann Neurol . 2020;87(3):419-433. doi:10.1002/ana.25669
+
+17 . Sarraj A, Hassan AE, Grotta J, et al; SELECT Investigators. Early infarct growth rate correlation with endovascular thrombectomy clinical outcomes: analysis from the SELECT study. Stroke . 2021;52(1):57-69. doi:10.1161/STROKEAHA.120. 030912
+
+18 . StammB, Royan R, Giurcanu M, Messe SR, Jauch EC, Prabhakaran S. Door-in-door-out times for interhospital transfer of patients with stroke. JAMA . 2023;330(7):636-649. doi:10.1001/jama.2023. 12739
+
+19 . Sarraj A, Savitz S, Pujara D, et al. Endovascular thrombectomy for acute ischemic strokes: current US access paradigms and optimization methodology. Stroke . 2020;51(4):1207-1217. doi:10. 1161/STROKEAHA.120.028850
+
+JAMANeurology April 2024 Volume 81, Number 4 335
+
+© 2024 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Fudan University, li bai on 09/05/2026

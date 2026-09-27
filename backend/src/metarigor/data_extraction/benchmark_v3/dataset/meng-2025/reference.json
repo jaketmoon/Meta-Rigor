@@ -1,0 +1,1136 @@
+{
+  "schema_version": "3.1.0",
+  "case_id": "meng-2025",
+  "review_id": "cardiac.dexmedetomidine.review.2025",
+  "governing_protocol_sha256": "3a50f67ea4035e703b4aa527fbef8e7ed30b580983c679c24977e0a136e9df79",
+  "governing_review_inventory_sha256": "e263cc1d97cdc544319e23a23d0d52b28f44616d8323da3f8f9317f716606f6e",
+  "expected_study_keys": [
+    "huet.2024",
+    "li.2017",
+    "likhvantsev.2021",
+    "priye.2015",
+    "qu.mindds.2023",
+    "turan.decade.2020",
+    "wang.2023"
+  ],
+  "expected_report_keys": [
+    "huet.primary",
+    "li.primary",
+    "likhvantsev.primary",
+    "priye.primary",
+    "qu.primary",
+    "turan.primary",
+    "wang.primary"
+  ],
+  "expected_report_study_bindings": [
+    {
+      "report_key": "huet.primary",
+      "study_key": "huet.2024"
+    },
+    {
+      "report_key": "li.primary",
+      "study_key": "li.2017"
+    },
+    {
+      "report_key": "likhvantsev.primary",
+      "study_key": "likhvantsev.2021"
+    },
+    {
+      "report_key": "priye.primary",
+      "study_key": "priye.2015"
+    },
+    {
+      "report_key": "qu.primary",
+      "study_key": "qu.mindds.2023"
+    },
+    {
+      "report_key": "turan.primary",
+      "study_key": "turan.decade.2020"
+    },
+    {
+      "report_key": "wang.primary",
+      "study_key": "wang.2023"
+    }
+  ],
+  "expected_report_identity_issues": [],
+  "expected_documents": [
+    {
+      "document_key": "huet.pmc",
+      "report_key": "huet.primary",
+      "source_path": "documents/huet-jats/source.xml",
+      "source_sha256": "c65bce62cb99731882ca084a0a52eba84d1c6cdb82955f015f29d1e4c90d4b2d",
+      "view_sha256": "95d422f8f544bdc08b3f785b21fa36b65326d8f8a1450e826eccceb5681c4f4f"
+    },
+    {
+      "document_key": "li.pmc",
+      "report_key": "li.primary",
+      "source_path": "documents/li-jats/source.xml",
+      "source_sha256": "2962d1288e9f514b404a8cab64494dd421d78d4a53e1249aae12bba932d3521c",
+      "view_sha256": "ed24d6ff7ef7fadaf60e1bae24bc34f45eedf5b56b5af4bda0bc81eb993664b0"
+    },
+    {
+      "document_key": "likhvantsev.full",
+      "report_key": "likhvantsev.primary",
+      "source_path": "documents/likhvantsev-full/source.html",
+      "source_sha256": "d82bc2cec20dfabf52e53a8593fee03e8118659444acb137c9846650b9963e7b",
+      "view_sha256": "0c784141fe9651dc7c1f023a88694b5037065af34d6a40bc79f81be7a231eb5d"
+    },
+    {
+      "document_key": "priye.pmc",
+      "report_key": "priye.primary",
+      "source_path": "documents/priye-jats/source.xml",
+      "source_sha256": "2c5e7be4acd8dca28b9cecc77957f201c646d37ec10ed053706bf9a5068f6276",
+      "view_sha256": "14b86bff026cd46e57dde5d804a049e2b5310a0cc7fec68d5fc8059bea16159d"
+    },
+    {
+      "document_key": "qu.pmc",
+      "report_key": "qu.primary",
+      "source_path": "documents/qu-jats/source.xml",
+      "source_sha256": "8e0cbaf0d87d6818a43553d3517872960f6795fdbce05d8d8076ad5c7f8e5052",
+      "view_sha256": "2acc9226e621da03b965127bae0d18b3eae2f41b3312b911c53f5dd7eddb4a63"
+    },
+    {
+      "document_key": "turan.full",
+      "report_key": "turan.primary",
+      "source_path": "documents/turan-full/source.html",
+      "source_sha256": "e8a25ea220e55f46f1a1baeaaa430927cc3d4bcc2e33ca5705987227b6d119e3",
+      "view_sha256": "a5d2ed0c01adbe3bb7994f566b61c3b26852577d5b2b9b81e6d5f674a5b7b0e8"
+    },
+    {
+      "document_key": "wang.full",
+      "report_key": "wang.primary",
+      "source_path": "documents/wang-full/source.xml",
+      "source_sha256": "31e28cc79c0dbcb5c56957c2b737773eaae69efe8ad90da23a913e9ac4fd6c55",
+      "view_sha256": "65e6aff860bf999188c0d48c2baf0c02a0a293a8094c7ec6c7b0080d82963683"
+    }
+  ],
+  "expected_source_disposition_report_keys": [],
+  "expected_target_ids": [
+    "result.postoperative_delirium",
+    "result.icu_length_of_stay",
+    "result.mortality",
+    "result.bradycardia",
+    "result.hypotension"
+  ],
+  "study_target_cells": [
+    {
+      "study_key": "huet.2024",
+      "target_id": "result.postoperative_delirium",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 20,
+        "intervention_group_size": 165,
+        "comparator_events": 20,
+        "comparator_group_size": 166
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 20,
+          "document_key": "huet.pmc",
+          "source_path": "documents/huet-jats/source.xml",
+          "source_sha256": "c65bce62cb99731882ca084a0a52eba84d1c6cdb82955f015f29d1e4c90d4b2d",
+          "quote": "In the intention-to-treat population, PoD occurred in 40 patients (12.5%): 20 of 165 patients assigned to the dexmedetomidine group (12.6%) and 20 of 166 patients assigned to the placebo group (12.4%), p = 0.97 (Table 2 ).",
+          "view_sha256": "95d422f8f544bdc08b3f785b21fa36b65326d8f8a1450e826eccceb5681c4f4f"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 165,
+          "document_key": "huet.pmc",
+          "source_path": "documents/huet-jats/source.xml",
+          "source_sha256": "c65bce62cb99731882ca084a0a52eba84d1c6cdb82955f015f29d1e4c90d4b2d",
+          "quote": "In the intention-to-treat population, PoD occurred in 40 patients (12.5%): 20 of 165 patients assigned to the dexmedetomidine group (12.6%) and 20 of 166 patients assigned to the placebo group (12.4%), p = 0.97 (Table 2 ).",
+          "view_sha256": "95d422f8f544bdc08b3f785b21fa36b65326d8f8a1450e826eccceb5681c4f4f"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 20,
+          "document_key": "huet.pmc",
+          "source_path": "documents/huet-jats/source.xml",
+          "source_sha256": "c65bce62cb99731882ca084a0a52eba84d1c6cdb82955f015f29d1e4c90d4b2d",
+          "quote": "In the intention-to-treat population, PoD occurred in 40 patients (12.5%): 20 of 165 patients assigned to the dexmedetomidine group (12.6%) and 20 of 166 patients assigned to the placebo group (12.4%), p = 0.97 (Table 2 ).",
+          "view_sha256": "95d422f8f544bdc08b3f785b21fa36b65326d8f8a1450e826eccceb5681c4f4f"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 166,
+          "document_key": "huet.pmc",
+          "source_path": "documents/huet-jats/source.xml",
+          "source_sha256": "c65bce62cb99731882ca084a0a52eba84d1c6cdb82955f015f29d1e4c90d4b2d",
+          "quote": "In the intention-to-treat population, PoD occurred in 40 patients (12.5%): 20 of 165 patients assigned to the dexmedetomidine group (12.6%) and 20 of 166 patients assigned to the placebo group (12.4%), p = 0.97 (Table 2 ).",
+          "view_sha256": "95d422f8f544bdc08b3f785b21fa36b65326d8f8a1450e826eccceb5681c4f4f"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "li.2017",
+      "target_id": "result.postoperative_delirium",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 7,
+        "intervention_group_size": 142,
+        "comparator_events": 11,
+        "comparator_group_size": 143
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 7,
+          "document_key": "li.pmc",
+          "source_path": "documents/li-jats/source.xml",
+          "source_sha256": "2962d1288e9f514b404a8cab64494dd421d78d4a53e1249aae12bba932d3521c",
+          "quote": "Incidence of delirium within the first 5 days after surgery | 11 (7.7%) | 7 (4.9%) | 0.62 (0.23 to 1.65) | 0.341",
+          "view_sha256": "ed24d6ff7ef7fadaf60e1bae24bc34f45eedf5b56b5af4bda0bc81eb993664b0"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 142,
+          "document_key": "li.pmc",
+          "source_path": "documents/li-jats/source.xml",
+          "source_sha256": "2962d1288e9f514b404a8cab64494dd421d78d4a53e1249aae12bba932d3521c",
+          "quote": " | CTRL group (n = 143) | DEX group (n = 142) | Estimated effects | P value",
+          "view_sha256": "ed24d6ff7ef7fadaf60e1bae24bc34f45eedf5b56b5af4bda0bc81eb993664b0"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 11,
+          "document_key": "li.pmc",
+          "source_path": "documents/li-jats/source.xml",
+          "source_sha256": "2962d1288e9f514b404a8cab64494dd421d78d4a53e1249aae12bba932d3521c",
+          "quote": "Incidence of delirium within the first 5 days after surgery | 11 (7.7%) | 7 (4.9%) | 0.62 (0.23 to 1.65) | 0.341",
+          "view_sha256": "ed24d6ff7ef7fadaf60e1bae24bc34f45eedf5b56b5af4bda0bc81eb993664b0"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 143,
+          "document_key": "li.pmc",
+          "source_path": "documents/li-jats/source.xml",
+          "source_sha256": "2962d1288e9f514b404a8cab64494dd421d78d4a53e1249aae12bba932d3521c",
+          "quote": " | CTRL group (n = 143) | DEX group (n = 142) | Estimated effects | P value",
+          "view_sha256": "ed24d6ff7ef7fadaf60e1bae24bc34f45eedf5b56b5af4bda0bc81eb993664b0"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "likhvantsev.2021",
+      "target_id": "result.postoperative_delirium",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 6,
+        "intervention_group_size": 84,
+        "comparator_events": 16,
+        "comparator_group_size": 85
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 6,
+          "document_key": "likhvantsev.full",
+          "source_path": "documents/likhvantsev-full/source.html",
+          "source_sha256": "d82bc2cec20dfabf52e53a8593fee03e8118659444acb137c9846650b9963e7b",
+          "quote": "Delirium, n (%) | 6 (7.1) | 16 (18.8) | 0.02",
+          "view_sha256": "0c784141fe9651dc7c1f023a88694b5037065af34d6a40bc79f81be7a231eb5d"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 84,
+          "document_key": "likhvantsev.full",
+          "source_path": "documents/likhvantsev-full/source.html",
+          "source_sha256": "d82bc2cec20dfabf52e53a8593fee03e8118659444acb137c9846650b9963e7b",
+          "quote": "Characteristics | Dex (n = 84) | Placebo (n = 85) | p Value",
+          "view_sha256": "0c784141fe9651dc7c1f023a88694b5037065af34d6a40bc79f81be7a231eb5d"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 16,
+          "document_key": "likhvantsev.full",
+          "source_path": "documents/likhvantsev-full/source.html",
+          "source_sha256": "d82bc2cec20dfabf52e53a8593fee03e8118659444acb137c9846650b9963e7b",
+          "quote": "Delirium, n (%) | 6 (7.1) | 16 (18.8) | 0.02",
+          "view_sha256": "0c784141fe9651dc7c1f023a88694b5037065af34d6a40bc79f81be7a231eb5d"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 85,
+          "document_key": "likhvantsev.full",
+          "source_path": "documents/likhvantsev-full/source.html",
+          "source_sha256": "d82bc2cec20dfabf52e53a8593fee03e8118659444acb137c9846650b9963e7b",
+          "quote": "Characteristics | Dex (n = 84) | Placebo (n = 85) | p Value",
+          "view_sha256": "0c784141fe9651dc7c1f023a88694b5037065af34d6a40bc79f81be7a231eb5d"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "priye.2015",
+      "target_id": "result.postoperative_delirium",
+      "values": null,
+      "evidence": [],
+      "reason": "Source reports only a partial direct arm-level row"
+    },
+    {
+      "study_key": "qu.mindds.2023",
+      "target_id": "result.postoperative_delirium",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 14,
+        "intervention_group_size": 160,
+        "comparator_events": 25,
+        "comparator_group_size": 177
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 14,
+          "document_key": "qu.pmc",
+          "source_path": "documents/qu-jats/source.xml",
+          "source_sha256": "8e0cbaf0d87d6818a43553d3517872960f6795fdbce05d8d8076ad5c7f8e5052",
+          "quote": "Delirium | 25/177 (14.1) | 14/160 (8.8) | 0.58 (0.28, 1.15) | 0.12",
+          "view_sha256": "2acc9226e621da03b965127bae0d18b3eae2f41b3312b911c53f5dd7eddb4a63"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 160,
+          "document_key": "qu.pmc",
+          "source_path": "documents/qu-jats/source.xml",
+          "source_sha256": "8e0cbaf0d87d6818a43553d3517872960f6795fdbce05d8d8076ad5c7f8e5052",
+          "quote": "Delirium | 25/177 (14.1) | 14/160 (8.8) | 0.58 (0.28, 1.15) | 0.12",
+          "view_sha256": "2acc9226e621da03b965127bae0d18b3eae2f41b3312b911c53f5dd7eddb4a63"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 25,
+          "document_key": "qu.pmc",
+          "source_path": "documents/qu-jats/source.xml",
+          "source_sha256": "8e0cbaf0d87d6818a43553d3517872960f6795fdbce05d8d8076ad5c7f8e5052",
+          "quote": "Delirium | 25/177 (14.1) | 14/160 (8.8) | 0.58 (0.28, 1.15) | 0.12",
+          "view_sha256": "2acc9226e621da03b965127bae0d18b3eae2f41b3312b911c53f5dd7eddb4a63"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 177,
+          "document_key": "qu.pmc",
+          "source_path": "documents/qu-jats/source.xml",
+          "source_sha256": "8e0cbaf0d87d6818a43553d3517872960f6795fdbce05d8d8076ad5c7f8e5052",
+          "quote": "Delirium | 25/177 (14.1) | 14/160 (8.8) | 0.58 (0.28, 1.15) | 0.12",
+          "view_sha256": "2acc9226e621da03b965127bae0d18b3eae2f41b3312b911c53f5dd7eddb4a63"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "turan.decade.2020",
+      "target_id": "result.postoperative_delirium",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 67,
+        "intervention_group_size": 398,
+        "comparator_events": 46,
+        "comparator_group_size": 396
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 67,
+          "document_key": "turan.full",
+          "source_path": "documents/turan-full/source.html",
+          "source_sha256": "e8a25ea220e55f46f1a1baeaaa430927cc3d4bcc2e33ca5705987227b6d119e3",
+          "quote": "Delirium | 9 | 67 (17%) | 9 | 46 (12%) | 1·48 (0·99–2·23) | 0·026",
+          "view_sha256": "a5d2ed0c01adbe3bb7994f566b61c3b26852577d5b2b9b81e6d5f674a5b7b0e8"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 398,
+          "document_key": "turan.full",
+          "source_path": "documents/turan-full/source.html",
+          "source_sha256": "e8a25ea220e55f46f1a1baeaaa430927cc3d4bcc2e33ca5705987227b6d119e3",
+          "quote": "Empty Cell | Empty Cell | Dexmedetomidine (n=398) | Placebo (n=396) | Relative risk * † | p value †",
+          "view_sha256": "a5d2ed0c01adbe3bb7994f566b61c3b26852577d5b2b9b81e6d5f674a5b7b0e8"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 46,
+          "document_key": "turan.full",
+          "source_path": "documents/turan-full/source.html",
+          "source_sha256": "e8a25ea220e55f46f1a1baeaaa430927cc3d4bcc2e33ca5705987227b6d119e3",
+          "quote": "Delirium | 9 | 67 (17%) | 9 | 46 (12%) | 1·48 (0·99–2·23) | 0·026",
+          "view_sha256": "a5d2ed0c01adbe3bb7994f566b61c3b26852577d5b2b9b81e6d5f674a5b7b0e8"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 396,
+          "document_key": "turan.full",
+          "source_path": "documents/turan-full/source.html",
+          "source_sha256": "e8a25ea220e55f46f1a1baeaaa430927cc3d4bcc2e33ca5705987227b6d119e3",
+          "quote": "Empty Cell | Empty Cell | Dexmedetomidine (n=398) | Placebo (n=396) | Relative risk * † | p value †",
+          "view_sha256": "a5d2ed0c01adbe3bb7994f566b61c3b26852577d5b2b9b81e6d5f674a5b7b0e8"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "wang.2023",
+      "target_id": "result.postoperative_delirium",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 47,
+        "intervention_group_size": 326,
+        "comparator_events": 51,
+        "comparator_group_size": 326
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 47,
+          "document_key": "wang.full",
+          "source_path": "documents/wang-full/source.xml",
+          "source_sha256": "31e28cc79c0dbcb5c56957c2b737773eaae69efe8ad90da23a913e9ac4fd6c55",
+          "quote": "We recorded delirium for 47/326 (14%) participants allocated dexmedetomidine and for 51/326 (16%) participants allocated placebo, p = 0.62, adjusted relative risk (95%CI) 0.89 (0.58–1.39), p = 0.51, and adjusted hazard ratio (95% CI) 1.03 (0.68–1.56), log‐rank p = 0.65 (Fig.",
+          "view_sha256": "65e6aff860bf999188c0d48c2baf0c02a0a293a8094c7ec6c7b0080d82963683"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 326,
+          "document_key": "wang.full",
+          "source_path": "documents/wang-full/source.xml",
+          "source_sha256": "31e28cc79c0dbcb5c56957c2b737773eaae69efe8ad90da23a913e9ac4fd6c55",
+          "quote": "We recorded delirium for 47/326 (14%) participants allocated dexmedetomidine and for 51/326 (16%) participants allocated placebo, p = 0.62, adjusted relative risk (95%CI) 0.89 (0.58–1.39), p = 0.51, and adjusted hazard ratio (95% CI) 1.03 (0.68–1.56), log‐rank p = 0.65 (Fig.",
+          "view_sha256": "65e6aff860bf999188c0d48c2baf0c02a0a293a8094c7ec6c7b0080d82963683"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 51,
+          "document_key": "wang.full",
+          "source_path": "documents/wang-full/source.xml",
+          "source_sha256": "31e28cc79c0dbcb5c56957c2b737773eaae69efe8ad90da23a913e9ac4fd6c55",
+          "quote": "We recorded delirium for 47/326 (14%) participants allocated dexmedetomidine and for 51/326 (16%) participants allocated placebo, p = 0.62, adjusted relative risk (95%CI) 0.89 (0.58–1.39), p = 0.51, and adjusted hazard ratio (95% CI) 1.03 (0.68–1.56), log‐rank p = 0.65 (Fig.",
+          "view_sha256": "65e6aff860bf999188c0d48c2baf0c02a0a293a8094c7ec6c7b0080d82963683"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 326,
+          "document_key": "wang.full",
+          "source_path": "documents/wang-full/source.xml",
+          "source_sha256": "31e28cc79c0dbcb5c56957c2b737773eaae69efe8ad90da23a913e9ac4fd6c55",
+          "quote": "We recorded delirium for 47/326 (14%) participants allocated dexmedetomidine and for 51/326 (16%) participants allocated placebo, p = 0.62, adjusted relative risk (95%CI) 0.89 (0.58–1.39), p = 0.51, and adjusted hazard ratio (95% CI) 1.03 (0.68–1.56), log‐rank p = 0.65 (Fig.",
+          "view_sha256": "65e6aff860bf999188c0d48c2baf0c02a0a293a8094c7ec6c7b0080d82963683"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "huet.2024",
+      "target_id": "result.icu_length_of_stay",
+      "values": null,
+      "evidence": [],
+      "reason": "ICU stay is reported as median and IQR; M0 does not transform it to mean/SD."
+    },
+    {
+      "study_key": "li.2017",
+      "target_id": "result.icu_length_of_stay",
+      "values": null,
+      "evidence": [],
+      "reason": "ICU stay is reported as median and confidence interval; M0 does not transform it to mean/SD."
+    },
+    {
+      "study_key": "likhvantsev.2021",
+      "target_id": "result.icu_length_of_stay",
+      "values": null,
+      "evidence": [],
+      "reason": "ICU stay is reported as median and IQR; M0 does not transform it to mean/SD."
+    },
+    {
+      "study_key": "priye.2015",
+      "target_id": "result.icu_length_of_stay",
+      "values": null,
+      "evidence": [],
+      "reason": "The full-text representation has no direct ICU mean/SD/N or median row."
+    },
+    {
+      "study_key": "qu.mindds.2023",
+      "target_id": "result.icu_length_of_stay",
+      "values": null,
+      "evidence": [],
+      "reason": "ICU stay is reported as median and IQR; M0 does not transform it to mean/SD."
+    },
+    {
+      "study_key": "turan.decade.2020",
+      "target_id": "result.icu_length_of_stay",
+      "values": null,
+      "evidence": [],
+      "reason": "ICU stay is reported as median and IQR; M0 does not transform it to mean/SD."
+    },
+    {
+      "study_key": "wang.2023",
+      "target_id": "result.icu_length_of_stay",
+      "values": null,
+      "evidence": [],
+      "reason": "Critical-care stay is reported as median, IQR and range; M0 does not transform it to mean/SD."
+    },
+    {
+      "study_key": "huet.2024",
+      "target_id": "result.mortality",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 8,
+        "intervention_group_size": 165,
+        "comparator_events": 3,
+        "comparator_group_size": 166
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 8,
+          "document_key": "huet.pmc",
+          "source_path": "documents/huet-jats/source.xml",
+          "source_sha256": "c65bce62cb99731882ca084a0a52eba84d1c6cdb82955f015f29d1e4c90d4b2d",
+          "quote": "Mortality at 3 months, n (%) | 11 (3.3) | 8 (4.8) | 3 (1.8) | 0.12",
+          "view_sha256": "95d422f8f544bdc08b3f785b21fa36b65326d8f8a1450e826eccceb5681c4f4f"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 165,
+          "document_key": "huet.pmc",
+          "source_path": "documents/huet-jats/source.xml",
+          "source_sha256": "c65bce62cb99731882ca084a0a52eba84d1c6cdb82955f015f29d1e4c90d4b2d",
+          "quote": "Outcomes | Total ( n = 331) | Dexmedetomidine group ( n = 165) | Placebo group ( n = 166) | P",
+          "view_sha256": "95d422f8f544bdc08b3f785b21fa36b65326d8f8a1450e826eccceb5681c4f4f"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 3,
+          "document_key": "huet.pmc",
+          "source_path": "documents/huet-jats/source.xml",
+          "source_sha256": "c65bce62cb99731882ca084a0a52eba84d1c6cdb82955f015f29d1e4c90d4b2d",
+          "quote": "mortality, n (%) | 6 (1.8) | 5 (3) | 1 (0.6) | 0.12",
+          "view_sha256": "95d422f8f544bdc08b3f785b21fa36b65326d8f8a1450e826eccceb5681c4f4f"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 166,
+          "document_key": "huet.pmc",
+          "source_path": "documents/huet-jats/source.xml",
+          "source_sha256": "c65bce62cb99731882ca084a0a52eba84d1c6cdb82955f015f29d1e4c90d4b2d",
+          "quote": "Outcomes | Total ( n = 331) | Dexmedetomidine group ( n = 165) | Placebo group ( n = 166) | P",
+          "view_sha256": "95d422f8f544bdc08b3f785b21fa36b65326d8f8a1450e826eccceb5681c4f4f"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "li.2017",
+      "target_id": "result.mortality",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 2,
+        "intervention_group_size": 142,
+        "comparator_events": 4,
+        "comparator_group_size": 143
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 2,
+          "document_key": "li.pmc",
+          "source_path": "documents/li-jats/source.xml",
+          "source_sha256": "2962d1288e9f514b404a8cab64494dd421d78d4a53e1249aae12bba932d3521c",
+          "quote": "mortality i | 4 (3.0%) | 2 (1.4%) | 0.48 (0.09 to 2.66) | 0.399",
+          "view_sha256": "ed24d6ff7ef7fadaf60e1bae24bc34f45eedf5b56b5af4bda0bc81eb993664b0"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 142,
+          "document_key": "li.pmc",
+          "source_path": "documents/li-jats/source.xml",
+          "source_sha256": "2962d1288e9f514b404a8cab64494dd421d78d4a53e1249aae12bba932d3521c",
+          "quote": " | CTRL group (n = 143) | DEX group (n = 142) | Estimated effects | P value",
+          "view_sha256": "ed24d6ff7ef7fadaf60e1bae24bc34f45eedf5b56b5af4bda0bc81eb993664b0"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 4,
+          "document_key": "li.pmc",
+          "source_path": "documents/li-jats/source.xml",
+          "source_sha256": "2962d1288e9f514b404a8cab64494dd421d78d4a53e1249aae12bba932d3521c",
+          "quote": "mortality i | 4 (3.0%) | 2 (1.4%) | 0.48 (0.09 to 2.66) | 0.399",
+          "view_sha256": "ed24d6ff7ef7fadaf60e1bae24bc34f45eedf5b56b5af4bda0bc81eb993664b0"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 143,
+          "document_key": "li.pmc",
+          "source_path": "documents/li-jats/source.xml",
+          "source_sha256": "2962d1288e9f514b404a8cab64494dd421d78d4a53e1249aae12bba932d3521c",
+          "quote": " | CTRL group (n = 143) | DEX group (n = 142) | Estimated effects | P value",
+          "view_sha256": "ed24d6ff7ef7fadaf60e1bae24bc34f45eedf5b56b5af4bda0bc81eb993664b0"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "likhvantsev.2021",
+      "target_id": "result.mortality",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 2,
+        "intervention_group_size": 84,
+        "comparator_events": 2,
+        "comparator_group_size": 85
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 2,
+          "document_key": "likhvantsev.full",
+          "source_path": "documents/likhvantsev-full/source.html",
+          "source_sha256": "d82bc2cec20dfabf52e53a8593fee03e8118659444acb137c9846650b9963e7b",
+          "quote": "Mortality at 30 days was 2 (2.4%) in both groups.",
+          "view_sha256": "0c784141fe9651dc7c1f023a88694b5037065af34d6a40bc79f81be7a231eb5d"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 84,
+          "document_key": "likhvantsev.full",
+          "source_path": "documents/likhvantsev-full/source.html",
+          "source_sha256": "d82bc2cec20dfabf52e53a8593fee03e8118659444acb137c9846650b9963e7b",
+          "quote": "A decrease in the rate of delirium in the dexmedetomidine group compared with the placebo group was demonstrated (6 of 84 [7.1%] v 16 of 85 [18.8%]; p = 0.02; odds ratio [OR] 0.33 [95% confidence interval {CI} 0.12-0.90]).",
+          "view_sha256": "0c784141fe9651dc7c1f023a88694b5037065af34d6a40bc79f81be7a231eb5d"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 2,
+          "document_key": "likhvantsev.full",
+          "source_path": "documents/likhvantsev-full/source.html",
+          "source_sha256": "d82bc2cec20dfabf52e53a8593fee03e8118659444acb137c9846650b9963e7b",
+          "quote": "Mortality at 30 days was 2 (2.4%) in both groups.",
+          "view_sha256": "0c784141fe9651dc7c1f023a88694b5037065af34d6a40bc79f81be7a231eb5d"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 85,
+          "document_key": "likhvantsev.full",
+          "source_path": "documents/likhvantsev-full/source.html",
+          "source_sha256": "d82bc2cec20dfabf52e53a8593fee03e8118659444acb137c9846650b9963e7b",
+          "quote": "A decrease in the rate of delirium in the dexmedetomidine group compared with the placebo group was demonstrated (6 of 84 [7.1%] v 16 of 85 [18.8%]; p = 0.02; odds ratio [OR] 0.33 [95% confidence interval {CI} 0.12-0.90]).",
+          "view_sha256": "0c784141fe9651dc7c1f023a88694b5037065af34d6a40bc79f81be7a231eb5d"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "priye.2015",
+      "target_id": "result.mortality",
+      "values": null,
+      "evidence": [],
+      "reason": "The full-text representation does not report mortality."
+    },
+    {
+      "study_key": "qu.mindds.2023",
+      "target_id": "result.mortality",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 4,
+        "intervention_group_size": 188,
+        "comparator_events": 1,
+        "comparator_group_size": 206
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 4,
+          "document_key": "qu.pmc",
+          "source_path": "documents/qu-jats/source.xml",
+          "source_sha256": "8e0cbaf0d87d6818a43553d3517872960f6795fdbce05d8d8076ad5c7f8e5052",
+          "quote": "In hospital mortality | 1 (0.5) | 3 (1.6) | 3.31 (0.42, 67.19) | 0.30\n30 days | 1 (0.5) | 3 (1.6) | 3.31 (0.42, 67.19) | 0.30\n90 days | 1 (0.5) | 4 (2.1) | 4.46 (0.65, 87.67) | 0.19",
+          "view_sha256": "2acc9226e621da03b965127bae0d18b3eae2f41b3312b911c53f5dd7eddb4a63"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 188,
+          "document_key": "qu.pmc",
+          "source_path": "documents/qu-jats/source.xml",
+          "source_sha256": "8e0cbaf0d87d6818a43553d3517872960f6795fdbce05d8d8076ad5c7f8e5052",
+          "quote": " | Placebo N = 206 | Dexmedetomidine N = 188 | Effect estimate g (95% CI) | P value",
+          "view_sha256": "2acc9226e621da03b965127bae0d18b3eae2f41b3312b911c53f5dd7eddb4a63"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 1,
+          "document_key": "qu.pmc",
+          "source_path": "documents/qu-jats/source.xml",
+          "source_sha256": "8e0cbaf0d87d6818a43553d3517872960f6795fdbce05d8d8076ad5c7f8e5052",
+          "quote": "In hospital mortality | 1 (0.5) | 3 (1.6) | 3.31 (0.42, 67.19) | 0.30\n30 days | 1 (0.5) | 3 (1.6) | 3.31 (0.42, 67.19) | 0.30\n90 days | 1 (0.5) | 4 (2.1) | 4.46 (0.65, 87.67) | 0.19",
+          "view_sha256": "2acc9226e621da03b965127bae0d18b3eae2f41b3312b911c53f5dd7eddb4a63"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 206,
+          "document_key": "qu.pmc",
+          "source_path": "documents/qu-jats/source.xml",
+          "source_sha256": "8e0cbaf0d87d6818a43553d3517872960f6795fdbce05d8d8076ad5c7f8e5052",
+          "quote": " | Placebo N = 206 | Dexmedetomidine N = 188 | Effect estimate g (95% CI) | P value",
+          "view_sha256": "2acc9226e621da03b965127bae0d18b3eae2f41b3312b911c53f5dd7eddb4a63"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "turan.decade.2020",
+      "target_id": "result.mortality",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 1,
+        "intervention_group_size": 391,
+        "comparator_events": 1,
+        "comparator_group_size": 387
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 1,
+          "document_key": "turan.full",
+          "source_path": "documents/turan-full/source.html",
+          "source_sha256": "e8a25ea220e55f46f1a1baeaaa430927cc3d4bcc2e33ca5705987227b6d119e3",
+          "quote": "The incidence of atrial fibrillation was 121 (30%) in 397 patients given dexmedetomidine and 134 (34%) in 395 patients given placebo, a difference that was not significant: relative risk 0·90 (97·8% CI 0·72, 1·15; p=0·34).",
+          "view_sha256": "a5d2ed0c01adbe3bb7994f566b61c3b26852577d5b2b9b81e6d5f674a5b7b0e8"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 391,
+          "document_key": "turan.full",
+          "source_path": "documents/turan-full/source.html",
+          "source_sha256": "e8a25ea220e55f46f1a1baeaaa430927cc3d4bcc2e33ca5705987227b6d119e3",
+          "quote": "1 (<1%) of 391 patients given dexmedetomidine and 1 (<1%) of 387 patients given placebo died.",
+          "view_sha256": "a5d2ed0c01adbe3bb7994f566b61c3b26852577d5b2b9b81e6d5f674a5b7b0e8"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 1,
+          "document_key": "turan.full",
+          "source_path": "documents/turan-full/source.html",
+          "source_sha256": "e8a25ea220e55f46f1a1baeaaa430927cc3d4bcc2e33ca5705987227b6d119e3",
+          "quote": "The incidence of atrial fibrillation was 121 (30%) in 397 patients given dexmedetomidine and 134 (34%) in 395 patients given placebo, a difference that was not significant: relative risk 0·90 (97·8% CI 0·72, 1·15; p=0·34).",
+          "view_sha256": "a5d2ed0c01adbe3bb7994f566b61c3b26852577d5b2b9b81e6d5f674a5b7b0e8"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 387,
+          "document_key": "turan.full",
+          "source_path": "documents/turan-full/source.html",
+          "source_sha256": "e8a25ea220e55f46f1a1baeaaa430927cc3d4bcc2e33ca5705987227b6d119e3",
+          "quote": "1 (<1%) of 391 patients given dexmedetomidine and 1 (<1%) of 387 patients given placebo died.",
+          "view_sha256": "a5d2ed0c01adbe3bb7994f566b61c3b26852577d5b2b9b81e6d5f674a5b7b0e8"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "wang.2023",
+      "target_id": "result.mortality",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 3,
+        "intervention_group_size": 326,
+        "comparator_events": 2,
+        "comparator_group_size": 326
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 3,
+          "document_key": "wang.full",
+          "source_path": "documents/wang-full/source.xml",
+          "source_sha256": "31e28cc79c0dbcb5c56957c2b737773eaae69efe8ad90da23a913e9ac4fd6c55",
+          "quote": "Three patients and two patients died before hospital discharge after dexmedetomidine and placebo, respectively.",
+          "view_sha256": "65e6aff860bf999188c0d48c2baf0c02a0a293a8094c7ec6c7b0080d82963683"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 326,
+          "document_key": "wang.full",
+          "source_path": "documents/wang-full/source.xml",
+          "source_sha256": "31e28cc79c0dbcb5c56957c2b737773eaae69efe8ad90da23a913e9ac4fd6c55",
+          "quote": "We recorded delirium for 47/326 (14%) participants allocated dexmedetomidine and for 51/326 (16%) participants allocated placebo, p = 0.62, adjusted relative risk (95%CI) 0.89 (0.58–1.39), p = 0.51, and adjusted hazard ratio (95% CI) 1.03 (0.68–1.56), log‐rank p = 0.65 (Fig.",
+          "view_sha256": "65e6aff860bf999188c0d48c2baf0c02a0a293a8094c7ec6c7b0080d82963683"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 2,
+          "document_key": "wang.full",
+          "source_path": "documents/wang-full/source.xml",
+          "source_sha256": "31e28cc79c0dbcb5c56957c2b737773eaae69efe8ad90da23a913e9ac4fd6c55",
+          "quote": "Three patients and two patients died before hospital discharge after dexmedetomidine and placebo, respectively.",
+          "view_sha256": "65e6aff860bf999188c0d48c2baf0c02a0a293a8094c7ec6c7b0080d82963683"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 326,
+          "document_key": "wang.full",
+          "source_path": "documents/wang-full/source.xml",
+          "source_sha256": "31e28cc79c0dbcb5c56957c2b737773eaae69efe8ad90da23a913e9ac4fd6c55",
+          "quote": "We recorded delirium for 47/326 (14%) participants allocated dexmedetomidine and for 51/326 (16%) participants allocated placebo, p = 0.62, adjusted relative risk (95%CI) 0.89 (0.58–1.39), p = 0.51, and adjusted hazard ratio (95% CI) 1.03 (0.68–1.56), log‐rank p = 0.65 (Fig.",
+          "view_sha256": "65e6aff860bf999188c0d48c2baf0c02a0a293a8094c7ec6c7b0080d82963683"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "huet.2024",
+      "target_id": "result.bradycardia",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 6,
+        "intervention_group_size": 165,
+        "comparator_events": 1,
+        "comparator_group_size": 166
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 6,
+          "document_key": "huet.pmc",
+          "source_path": "documents/huet-jats/source.xml",
+          "source_sha256": "c65bce62cb99731882ca084a0a52eba84d1c6cdb82955f015f29d1e4c90d4b2d",
+          "quote": "Bradycardia |  |  |  |\nYes | 7 (2.1) | 6 (3.6) | 1 (0.6) | 0.07",
+          "view_sha256": "95d422f8f544bdc08b3f785b21fa36b65326d8f8a1450e826eccceb5681c4f4f"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 165,
+          "document_key": "huet.pmc",
+          "source_path": "documents/huet-jats/source.xml",
+          "source_sha256": "c65bce62cb99731882ca084a0a52eba84d1c6cdb82955f015f29d1e4c90d4b2d",
+          "quote": " | Total ( n = 331) | Dexmedetomidine group ( n = 165) | Placebo group ( n = 166) | P",
+          "view_sha256": "95d422f8f544bdc08b3f785b21fa36b65326d8f8a1450e826eccceb5681c4f4f"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 1,
+          "document_key": "huet.pmc",
+          "source_path": "documents/huet-jats/source.xml",
+          "source_sha256": "c65bce62cb99731882ca084a0a52eba84d1c6cdb82955f015f29d1e4c90d4b2d",
+          "quote": "Bradycardia |  |  |  |\nYes | 7 (2.1) | 6 (3.6) | 1 (0.6) | 0.07",
+          "view_sha256": "95d422f8f544bdc08b3f785b21fa36b65326d8f8a1450e826eccceb5681c4f4f"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 166,
+          "document_key": "huet.pmc",
+          "source_path": "documents/huet-jats/source.xml",
+          "source_sha256": "c65bce62cb99731882ca084a0a52eba84d1c6cdb82955f015f29d1e4c90d4b2d",
+          "quote": " | Total ( n = 331) | Dexmedetomidine group ( n = 165) | Placebo group ( n = 166) | P",
+          "view_sha256": "95d422f8f544bdc08b3f785b21fa36b65326d8f8a1450e826eccceb5681c4f4f"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "li.2017",
+      "target_id": "result.bradycardia",
+      "values": null,
+      "evidence": [],
+      "reason": "The source has separate intraoperative and postoperative bradycardia and treatment rows but no unique cumulative participant count."
+    },
+    {
+      "study_key": "likhvantsev.2021",
+      "target_id": "result.bradycardia",
+      "values": null,
+      "evidence": [],
+      "reason": "The full primary report does not report a cumulative bradycardia result row."
+    },
+    {
+      "study_key": "priye.2015",
+      "target_id": "result.bradycardia",
+      "values": null,
+      "evidence": [],
+      "reason": "The full-text representation does not report exact bradycardia events."
+    },
+    {
+      "study_key": "qu.mindds.2023",
+      "target_id": "result.bradycardia",
+      "values": null,
+      "evidence": [],
+      "reason": "The full text mentions two isolated intervention-arm events but does not give a comparable two-arm cumulative row."
+    },
+    {
+      "study_key": "turan.decade.2020",
+      "target_id": "result.bradycardia",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 36,
+        "intervention_group_size": 398,
+        "comparator_events": 45,
+        "comparator_group_size": 396
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 36,
+          "document_key": "turan.full",
+          "source_path": "documents/turan-full/source.html",
+          "source_sha256": "e8a25ea220e55f46f1a1baeaaa430927cc3d4bcc2e33ca5705987227b6d119e3",
+          "quote": "bradycardia | 4 | 36 (9%) | 6 | 45 (11%)",
+          "view_sha256": "a5d2ed0c01adbe3bb7994f566b61c3b26852577d5b2b9b81e6d5f674a5b7b0e8"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 398,
+          "document_key": "turan.full",
+          "source_path": "documents/turan-full/source.html",
+          "source_sha256": "e8a25ea220e55f46f1a1baeaaa430927cc3d4bcc2e33ca5705987227b6d119e3",
+          "quote": "Empty Cell | Empty Cell | Dexmedetomidine (n=398) | Placebo (n=396)",
+          "view_sha256": "a5d2ed0c01adbe3bb7994f566b61c3b26852577d5b2b9b81e6d5f674a5b7b0e8"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 45,
+          "document_key": "turan.full",
+          "source_path": "documents/turan-full/source.html",
+          "source_sha256": "e8a25ea220e55f46f1a1baeaaa430927cc3d4bcc2e33ca5705987227b6d119e3",
+          "quote": "bradycardia | 4 | 36 (9%) | 6 | 45 (11%)",
+          "view_sha256": "a5d2ed0c01adbe3bb7994f566b61c3b26852577d5b2b9b81e6d5f674a5b7b0e8"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 396,
+          "document_key": "turan.full",
+          "source_path": "documents/turan-full/source.html",
+          "source_sha256": "e8a25ea220e55f46f1a1baeaaa430927cc3d4bcc2e33ca5705987227b6d119e3",
+          "quote": "Empty Cell | Empty Cell | Dexmedetomidine (n=398) | Placebo (n=396)",
+          "view_sha256": "a5d2ed0c01adbe3bb7994f566b61c3b26852577d5b2b9b81e6d5f674a5b7b0e8"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "wang.2023",
+      "target_id": "result.bradycardia",
+      "values": null,
+      "evidence": [],
+      "reason": "The full primary report does not report a cumulative bradycardia result row."
+    },
+    {
+      "study_key": "huet.2024",
+      "target_id": "result.hypotension",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 12,
+        "intervention_group_size": 165,
+        "comparator_events": 1,
+        "comparator_group_size": 166
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 12,
+          "document_key": "huet.pmc",
+          "source_path": "documents/huet-jats/source.xml",
+          "source_sha256": "c65bce62cb99731882ca084a0a52eba84d1c6cdb82955f015f29d1e4c90d4b2d",
+          "quote": "Hypotension |  |  |  |\nYes | 13 (3.9) | 12 (7.3) | 1 (0.6) | < 0.01",
+          "view_sha256": "95d422f8f544bdc08b3f785b21fa36b65326d8f8a1450e826eccceb5681c4f4f"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 165,
+          "document_key": "huet.pmc",
+          "source_path": "documents/huet-jats/source.xml",
+          "source_sha256": "c65bce62cb99731882ca084a0a52eba84d1c6cdb82955f015f29d1e4c90d4b2d",
+          "quote": " | Total ( n = 331) | Dexmedetomidine group ( n = 165) | Placebo group ( n = 166) | P",
+          "view_sha256": "95d422f8f544bdc08b3f785b21fa36b65326d8f8a1450e826eccceb5681c4f4f"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 1,
+          "document_key": "huet.pmc",
+          "source_path": "documents/huet-jats/source.xml",
+          "source_sha256": "c65bce62cb99731882ca084a0a52eba84d1c6cdb82955f015f29d1e4c90d4b2d",
+          "quote": "Hypotension |  |  |  |\nYes | 13 (3.9) | 12 (7.3) | 1 (0.6) | < 0.01",
+          "view_sha256": "95d422f8f544bdc08b3f785b21fa36b65326d8f8a1450e826eccceb5681c4f4f"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 166,
+          "document_key": "huet.pmc",
+          "source_path": "documents/huet-jats/source.xml",
+          "source_sha256": "c65bce62cb99731882ca084a0a52eba84d1c6cdb82955f015f29d1e4c90d4b2d",
+          "quote": " | Total ( n = 331) | Dexmedetomidine group ( n = 165) | Placebo group ( n = 166) | P",
+          "view_sha256": "95d422f8f544bdc08b3f785b21fa36b65326d8f8a1450e826eccceb5681c4f4f"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "li.2017",
+      "target_id": "result.hypotension",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 120,
+        "intervention_group_size": 142,
+        "comparator_events": 100,
+        "comparator_group_size": 143
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 120,
+          "document_key": "li.pmc",
+          "source_path": "documents/li-jats/source.xml",
+          "source_sha256": "2962d1288e9f514b404a8cab64494dd421d78d4a53e1249aae12bba932d3521c",
+          "quote": "Treatment for hypotension d | 100 (69.9%) | 120 (84.5%) | 0.003",
+          "view_sha256": "ed24d6ff7ef7fadaf60e1bae24bc34f45eedf5b56b5af4bda0bc81eb993664b0"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 142,
+          "document_key": "li.pmc",
+          "source_path": "documents/li-jats/source.xml",
+          "source_sha256": "2962d1288e9f514b404a8cab64494dd421d78d4a53e1249aae12bba932d3521c",
+          "quote": " | CTRL group (n = 143) | DEX group (n = 142) | P value",
+          "view_sha256": "ed24d6ff7ef7fadaf60e1bae24bc34f45eedf5b56b5af4bda0bc81eb993664b0"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 100,
+          "document_key": "li.pmc",
+          "source_path": "documents/li-jats/source.xml",
+          "source_sha256": "2962d1288e9f514b404a8cab64494dd421d78d4a53e1249aae12bba932d3521c",
+          "quote": "Treatment for hypotension d | 100 (69.9%) | 120 (84.5%) | 0.003",
+          "view_sha256": "ed24d6ff7ef7fadaf60e1bae24bc34f45eedf5b56b5af4bda0bc81eb993664b0"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 143,
+          "document_key": "li.pmc",
+          "source_path": "documents/li-jats/source.xml",
+          "source_sha256": "2962d1288e9f514b404a8cab64494dd421d78d4a53e1249aae12bba932d3521c",
+          "quote": " | CTRL group (n = 143) | DEX group (n = 142) | P value",
+          "view_sha256": "ed24d6ff7ef7fadaf60e1bae24bc34f45eedf5b56b5af4bda0bc81eb993664b0"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "likhvantsev.2021",
+      "target_id": "result.hypotension",
+      "values": null,
+      "evidence": [],
+      "reason": "The full primary report describes hypotension management but does not report a cumulative hypotension result row."
+    },
+    {
+      "study_key": "priye.2015",
+      "target_id": "result.hypotension",
+      "values": null,
+      "evidence": [],
+      "reason": "The full-text representation does not report exact hypotension events."
+    },
+    {
+      "study_key": "qu.mindds.2023",
+      "target_id": "result.hypotension",
+      "values": null,
+      "evidence": [],
+      "reason": "The source gives overlapping day-of-surgery and day-one hypotension rows but no unique cumulative participant count."
+    },
+    {
+      "study_key": "turan.decade.2020",
+      "target_id": "result.hypotension",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 224,
+        "intervention_group_size": 398,
+        "comparator_events": 140,
+        "comparator_group_size": 396
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 224,
+          "document_key": "turan.full",
+          "source_path": "documents/turan-full/source.html",
+          "source_sha256": "e8a25ea220e55f46f1a1baeaaa430927cc3d4bcc2e33ca5705987227b6d119e3",
+          "quote": "hypotension | 4 | 224 (57%) | 6 | 140 (36%)",
+          "view_sha256": "a5d2ed0c01adbe3bb7994f566b61c3b26852577d5b2b9b81e6d5f674a5b7b0e8"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 398,
+          "document_key": "turan.full",
+          "source_path": "documents/turan-full/source.html",
+          "source_sha256": "e8a25ea220e55f46f1a1baeaaa430927cc3d4bcc2e33ca5705987227b6d119e3",
+          "quote": "Empty Cell | Empty Cell | Dexmedetomidine (n=398) | Placebo (n=396)",
+          "view_sha256": "a5d2ed0c01adbe3bb7994f566b61c3b26852577d5b2b9b81e6d5f674a5b7b0e8"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 140,
+          "document_key": "turan.full",
+          "source_path": "documents/turan-full/source.html",
+          "source_sha256": "e8a25ea220e55f46f1a1baeaaa430927cc3d4bcc2e33ca5705987227b6d119e3",
+          "quote": "hypotension | 4 | 224 (57%) | 6 | 140 (36%)",
+          "view_sha256": "a5d2ed0c01adbe3bb7994f566b61c3b26852577d5b2b9b81e6d5f674a5b7b0e8"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 396,
+          "document_key": "turan.full",
+          "source_path": "documents/turan-full/source.html",
+          "source_sha256": "e8a25ea220e55f46f1a1baeaaa430927cc3d4bcc2e33ca5705987227b6d119e3",
+          "quote": "Empty Cell | Empty Cell | Dexmedetomidine (n=398) | Placebo (n=396)",
+          "view_sha256": "a5d2ed0c01adbe3bb7994f566b61c3b26852577d5b2b9b81e6d5f674a5b7b0e8"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "wang.2023",
+      "target_id": "result.hypotension",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 31,
+        "intervention_group_size": 326,
+        "comparator_events": 39,
+        "comparator_group_size": 326
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 31,
+          "document_key": "wang.full",
+          "source_path": "documents/wang-full/source.xml",
+          "source_sha256": "31e28cc79c0dbcb5c56957c2b737773eaae69efe8ad90da23a913e9ac4fd6c55",
+          "quote": "hypotension for 31 vs. 39 participants after dexmedetomidine vs. placebo, p = 0.38",
+          "view_sha256": "65e6aff860bf999188c0d48c2baf0c02a0a293a8094c7ec6c7b0080d82963683"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 326,
+          "document_key": "wang.full",
+          "source_path": "documents/wang-full/source.xml",
+          "source_sha256": "31e28cc79c0dbcb5c56957c2b737773eaae69efe8ad90da23a913e9ac4fd6c55",
+          "quote": "We recorded delirium for 47/326 (14%) participants allocated dexmedetomidine and for 51/326 (16%) participants allocated placebo, p = 0.62, adjusted relative risk (95%CI) 0.89 (0.58–1.39), p = 0.51, and adjusted hazard ratio (95% CI) 1.03 (0.68–1.56), log‐rank p = 0.65 (Fig.",
+          "view_sha256": "65e6aff860bf999188c0d48c2baf0c02a0a293a8094c7ec6c7b0080d82963683"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 39,
+          "document_key": "wang.full",
+          "source_path": "documents/wang-full/source.xml",
+          "source_sha256": "31e28cc79c0dbcb5c56957c2b737773eaae69efe8ad90da23a913e9ac4fd6c55",
+          "quote": "hypotension for 31 vs. 39 participants after dexmedetomidine vs. placebo, p = 0.38",
+          "view_sha256": "65e6aff860bf999188c0d48c2baf0c02a0a293a8094c7ec6c7b0080d82963683"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 326,
+          "document_key": "wang.full",
+          "source_path": "documents/wang-full/source.xml",
+          "source_sha256": "31e28cc79c0dbcb5c56957c2b737773eaae69efe8ad90da23a913e9ac4fd6c55",
+          "quote": "We recorded delirium for 47/326 (14%) participants allocated dexmedetomidine and for 51/326 (16%) participants allocated placebo, p = 0.62, adjusted relative risk (95%CI) 0.89 (0.58–1.39), p = 0.51, and adjusted hazard ratio (95% CI) 1.03 (0.68–1.56), log‐rank p = 0.65 (Fig.",
+          "view_sha256": "65e6aff860bf999188c0d48c2baf0c02a0a293a8094c7ec6c7b0080d82963683"
+        }
+      ],
+      "reason": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+[DOCLING_PAGE 1]
+
+CURRENT BEST EVIDENCE
+
+Translating Best Evidence into Best Care
+
+EDITOR'S NOTE: Studies for this column are identified using the Clinical Queries feature of PubMed, 'hand' searching JAMA , JAMA Pediatrics , Pediatrics , The Journal of Pediatrics , and The New England Journal of Medicine , and from customized EvidenceAlerts.
+
+EBMPEARL: SURVEY RESEARCH: A very popular type of research, survey research, is well suited to answer questions about opinions, attitudes, and actual clinical practice (as opposed to what is recommended by a guideline) and other topics (eg, sensitive issues using an anonymous survey). A well-constructed survey includes attention to a number of key issues. Did the researchers define the target population? Were the employed questions previous validated? If not, did the survey questions go through a clear development process (eg, formatting, pilot testing, refinement)? How was the survey sent: electronically, mail (higher response rate), telephone (higher response rate), with incentives (higher response rate), mixed approach (likely the highest response rate)? What statistics were used (parametric for random sample, non-parametric for complex sampling)? Were non-respondents demographically similar to respondents? Samady et al, below, is an example of survey research on complementary food introduction.
+
+CRITICAL STATISTICAL DISTINCTION PEARL: ODDS RATIO (OR) VS ABSOLUTE RISK REDUCTION
+
+(ARR): An OR is the proportion of patients exposed in a diseased vs non-diseased patient sample ( Figure ). The article by Benari et al (below) used an OR to express their results. In their study the 'exposure' was a prescription for ondansetron (in a patient with vomiting with or without gastroenteritis) and the 'disease' was returning to the ED within 72 hours. They calculated an OR of 0.86 (95% CI, 0.75-0.93), corresponding to 14% decreased odds of returning to the ED if given an ondansetron prescription. In this particular study, we have a defined population and can compute the absolute risk reduction ARR = 0.75% (95% CI, 0.35%-1.15%). While the OR appears moderately large, the actual benefit, the ARR, was small. The critical statistical distinction is that OR's may appear larger than the actual benefit. The same would be true for relative risk (RR), discussed in a previous Current Best Evidence column ( J Pediatr 2019;210:239-42).
+
+-Jordan Hupert, MD
+
+[DOCLING_TABLE rows=4 columns=3]
+|  | Disease | Disease |
+| Exposure | + | - |
+| + | A | B |
+| - | C | D |
+[/DOCLING_TABLE]
+
+Figure. An OR is the proportion of patients exposed in a diseased vs non-diseased patient sample.
+
+Provider behavior and AAP complementaryfood-introduction recommendations at variance
+
+Samady W, Campbell E, Aktas ON, Jiang J, Bozen A, Fierstein JL, et al. Recommendations on Complementary Food Introduction Among Pediatric Practitioners. JAMA Netw Open 2020;3:e2013070.
+
+Question How do pediatricians' complementary food introduction recommendations compare with American Academy of Pediatrics (AAP) recommendations?
+
+Design Cross-sectional survey.
+
+Setting US.
+
+Participants Members of the Illinois Chapter of the American Academy of Pediatrics (ICAAP) and the national AAP's Council on Early Childhood (COEC).
+
+Intervention Pediatric practitioners' recommendations on complementary food type, age of introduction, and waiting periods.
+
+Outcomes Age of complementary food introduction, food type, and the time between introduction of new foods.
+
+Main Results There were 563 participants with a response rate of 27.3%. Introduction of complementary food was mostly done at 6 months for exclusively breastfed (EBF) infants and 4 months in non-EBF infants. Only 39% of the providers recommended waiting 3 days or longer between new food introduction, and 66% recommended the same in children at risk of developing food allergy. Although 60% felt that introducing multiple foods at once was safe, only 1 out of 10 recommended this in practice. The most common food recommended initially was cereal, followed by no specific recommendation.
+
+310
+
+[DOCLING_PAGE 2]
+
+Volume 228 
+
+January 2021
+
+Conclusions Current practices do not reflect AAP guidelines for early introduction of allergenic foods into infant diets (wait 3-5 days). The variability in recommendations of pediatric providers highlights the potential need of re-evaluation of the current guidelines.
+
+Elucidation Complementary food introduction is an important milestone, and pediatric providers work with families to provide the necessary anticipatory guidance on this practice. The landmark LEAP study 1 and other studies 2 suggest that early introduction of allergenic foods in high-risk infants between 4 and 6 months can drastically reduce future food allergy. This led to the National Institute of Allergy and Infectious Diseases addendum guidelines recommending early introduction of peanut for many infants that are high-risk. 3 This may hold true for other allergenic foods. However, AAP and CDC recommendations do not currently reflect this guidance. They recommend introducing one food at a time and waiting 3-5 days between foods. IgE-mediated reactions mostly occur immediately after ingestion and non-IgE reactions typically occur within hours. Recommended waiting time may slow down the introduction of variety of food including allergenic ones. Further work is needed to update complementary food introduction practices. Specifically, we believe that earlier introduction of both allergenic and non-allergenic foods depending on an infant's risk factors and reduced waiting time between new food introductions should be strongly considered. Pediatric providers might benefit from clear decision trees on how to introduce allergenic foods in normal and high-risk populations.
+
+Ozge N. Aktas, MD Andrea A. Pappalardo, MD
+
+University of Illinois at Chicago Chicago, Illinois
+
+References
+
+Du Toit G, Roberts G, Sayre PH, Bahnson HT, Radulovic S, Santos AF, et al. Randomized trial of peanut consumption in infants at risk for peanut allergy. N Engl J Med 2015;372:803-13.
+
+Natsume O, Kabashima S, Nakazato J, Yamamoto-Hanada K, Narita M, Kondo M, et al. Two-step egg introduction for prevention of egg allergy in high-risk infants with eczema (PETIT): a randomised, double-blind, placebo-controlled trial. Lancet 2017;389(10066):276-86.
+
+Togias A, Cooper SF, Acebal ML, Assa'ad A, Baker JR Jr, Beck LA, et al. Addendum guidelines for the prevention of peanut allergy in the United States: report of the National Institute of Allergy and Infectious Diseasessponsored expert panel. World Allergy Organ J 2017;10:1.
+
+Ondansetron prescription for vomiting associated with 72-hour ED return reduction
+
+Benary D, Lozano JM, Higley R, Lowe D. Ondansetron Prescription is Associated with Reduced Return Visits to the Pediatric Emergency Department for Children with Gastroenteritis. Ann Emerg Med 2020:S0196-0644(20) 30262-6.
+
+Question Among children with vomiting, with or without gastroenteritis, presenting to an emergency department (ED), what is the therapeutic efficacy of an ondansetron prescription in preventing ED return within 72 hours?
+
+Design Retrospective cohort study.
+
+Setting US pediatric ED and its 11 affiliated urgent care centers.
+
+Participants 6 months to 18 years of age with vomiting with or without gastroenteritis.
+
+Intervention A prescription for ondansetron vs none.
+
+Outcomes Return to the ED within 72 hours.
+
+Main Results 4187 (35.5%) of 11 785 eligible patients received a prescription for ondansetron. 4.7% returned within 72 hours. The adjusted OR for ED return if given a prescription was 0.86 (95% CI, 0.75-0.93). The absolute risk reduction was 0.75% (95% CI, 0.35%-1.15%), number needed to treat (NNT) 133 (95% CI, 87-282). A return diagnosis of appendicitis did not differ between the groups.
+
+Conclusions A prescription for ondansetron was associated with a small, statistically-significant reduction in ED return within 72 hours.
+
+Commentary Ondansetron has been shown to reduce admission and intravenous-fluid use in pediatric ED patients with acute gastroenteritis. 1 Interest has been increasing in its prescription for home use. Prior small studies have shown no decrease in ED return rates with such prescription. 2,3 However, in this large, retrospective study, Benary et al report a decreased ED return rate in children prescribed ondansetron. Their significant findings in adjusted and unadjusted return rates suggest a promising role for an ondansetron prescription in reducing ED return, with low risk of masking a serious alternative diagnosis. Their NNT for this outcome was high, and their retrospective design did not allow assessment of ondansetron's effect on ongoing vomiting and diarrhea after discharge. Further study assessing these key patient-centered outcomes would be helpful.
+
+James M. Gray, MB, BCh
+
+Cincinnati Children's Hospital Medical Center Cincinnati, Ohio
+
+Marissa A. Hendrickson, MD
+
+University of Minnesota Minneapolis, Minnesota
+
+References
+
+Freedman SB, Pasichnyk D, Black KJL, Fitzpatrick E, Gouin S, Milne A, et al. Gastroenteritis Therapies in Developed Countries: Systematic Review and Meta-Analysis. PLoS ONE 2015;10:e0128754.
+
+Gray JM, Maewal JD, Lunos SA, Furnival RA, Hendrickson MA. Ondansetron Prescription for Home Use in a Pediatric Emergency Department. Pediatr Emerg Care 2020;36:e120-4.
+
+311
+
+[DOCLING_PAGE 3]
+
+THE JOURNAL OF PEDIATRICS  www.jpeds.com
+
+Volume 228
+
+McLaren SH, Yim RB, Fleegler EW. Impact of Ondansetron Prescription on Return Emergency Department Visits Among Children with Acute Gastroenteritis. Pediatr Emerg Care 2019. https://doi.org/10.1097/ PEC.0000000000001907.
+
+Single-dose nirsevimab prevents RSV infection
+
+Griffin MP, Yuan Y, Takas T, Domachowske JB, Madhi SA, Manzoni P, et al.; Nirsevimab Study Group. Single-Dose Nirsevimab for Prevention of RSV in Preterm Infants. N Engl J Med 2020;383:415-25.
+
+Question Among infants born prematurely, what is the clinical efficacy of nirsevimab, compared with placebo, in preventing respiratory syncytial virus (RSV)-associated lower respiratory tract infection (LRTI)?
+
+Design Randomized controlled trial.
+
+Setting 164 sites in 23 countries.
+
+Participants Infants born prematurely 29-34 weeks 6 days and enrolled in the study by 1 year old.
+
+Intervention Nirsevimab vs placebo.
+
+Outcomes RSV-associated LRTI through 150 days after administration of the dose.
+
+Main Results Nirsevimab reduced both RSV LRTI and hospitalization: absolute risk reduction (ARR) 6.9% (95% CI, 4.1%-9.7%), number needed to treat (NNT) 14.5 (95% CI, 10.3-24.3) and ARR 3.3% (95% CI, 1.4%-5.2%), NNT 30.3 (95% CI, 19.4-69.5), respectively. These results were consistent throughout the RSV season following a single nirsevimab dose.
+
+Conclusions Single-dose nirsevimab reduces the incidence of RSV LRTI and hospitalization.
+
+Elucidation There are no licensed vaccines for RSV, the leading cause of LRTI and hospitalizations globally. Palivizumab, an RSV - specific monoclonal antibody is licensed for use in certain high risk patients for monthly administration in the RSV season. It is 71% (95% CI, 46%-84%) effective in preventing RSV-LRTI in infants born at <35 weeks gestational age, but is sparsely used even in high-income settings. 1 In our study (Griffin et al), a single dose of nirsevimab, a longacting, potent, neutralizing monoclonal antibody, reduced RSV-A/B associated medically-attended LRTI by 70% (95% CI, 52-81%) up to 150 days post-administration in preterm infants born 29-34 weeks gestational age. Controlled trials in term infants and other high-risk infants (very preterm, underlying chronic lung or heart disease), currently underway, if successful, offer optimism for future prospects of controlling the burden of RSV. Effectiveness may be reduced by viral mutation at the targeted binding site, and its safety has to be confirmed in current trials and post-licensure. Finally, the ability to scale-up affordable production and the pricing of niversimab will influence recommendations for its use, and ultimately determine whether this promising intervention benefits only children from high-income countries, or is also equitably accessible to children in low-middle income settings where >90% of approximately 118 000 annual RSV-LRTI deaths occur. 2
+
+Shabir A. Madhi, MBBCH, PhD
+
+University of the Witwatersrand Johannesburg, South Africa
+
+Eric A.F. Sim ~ oes, MD
+
+University of Colorado School of Medicine and Center for Global Health Aurora, Colorado
+
+References
+
+Morris SK, Dzolganovski B, Beyene J, Sung L. A meta-analysis of the effect of antibody therapy for the prevention of severe respiratory syncytial virus infection. BMC Infect Dis 2009;9:106.
+
+Shi T, McAllister DA, O'Brien KL, Simoes EAF, Madhi SA, Gessner BD, et al. Global, regional, and national disease burden estimates of acute lower respiratory infections due to respiratory syncytial virus in young children in 2015: a systematic review and modelling study. Lancet 2017;390(10098):946-58.
+
+Behavioral counseling associated with STI prevention
+
+Henderson JT, Senger CA, Henninger M, Bean SI, Redmond N, O'Connor EA. Behavioral Counseling Interventions to Prevent Sexually Transmitted Infections: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA 2020;324:682-99.
+
+Question Among adolescents and young adults, what is the efficacy of behavioral counseling, compared with none, in preventing sexually transmitted infections (STIs)?
+
+Design Systematic review of randomized controlled trials and cohort controlled trials.
+
+Setting Mostly US, also Portugal, Australia.
+
+Participants Predominantly heterosexual adolescents and young adults (12 to 25 years).
+
+Intervention Behavioral counseling.
+
+Outcomes Primary: STI diagnoses.
+
+Main Results This systemic review, including 37 randomized and 2 nonrandomized trials demonstrated an intervention association with reduced STI incidence, OR 0.66 (95% CI, 0.540.80). In follow-up beyond 1 year, effects tended to diminish.
+
+Conclusions Behavioral counseling was associated with reduced STI incidence.
+
+Commentary While the review by Henderson et al is encouraging, the proverbial glass remains half full. Key issues are the observed magnitude of intervention effects (reduction in STI incidence) and the sustainability of the intervention effects. There remains a need to intensify behavioral interventions in clinical settings. 1 There are, however, barriers to implementing time-intensive behavioral counseling interventions in clinical practice. One strategy to surmount these barriers is employing task shifting, training ancillary clinical staff (ie, physician assistants, health educators) to implement behavioral interventions. A second, complementary strategy, is co-locating technology-based approaches in clinical settings. This approach has the advantage of providing evidence-based interventions via an interactive computer module. 2 Subsequently, clinicians engage patients, address any questions, and reinforce newly learned STI-prevention knowledge and skills. This complementary model may reduce the time-intensive clinical encounter, while allowing clinicians to provide personalized counseling by addressing each patient's particular risk profile (eg, substance use). Similarly, for behavioral interventions to be meaningful, they must be durable. This complementary clinician-technology prevention model may mitigate decay of intervention effects observed over time 3 by scheduling patients to return for periodic follow-up and re-initiating STI risk-reduction behavioral counseling.
+
+312
+
+[DOCLING_PAGE 4]
+
+January 2021
+
+CURRENT BEST EVIDENCE
+
+Ralph Joseph DiClemente, PhD
+
+New York University New York, New York
+
+References
+
+DiClemente RJ, Wingood GM, Sionean C, Crosby R, Harrington K, Davies S, et al. Association of adolescents' STD history and their current high-risk behavior and STD status: A case for intensifying clinic-based prevention efforts. Sex Transm Dis 2002;29:503-9.
+
+Wingood GM, Card JJ, Er D, Solomon J, Braxton N, Lang DL, et al. Preliminary efficacy of a computer-based HIV intervention for African American women. Psychol Health 2011;26:223-34.
+
+DiClemente RJ, Brown JL, Sales JM, Rose ES. Rate of decay in proportion of condom-protected sex acts among adolescents after participation in an HIV risk-reduction intervention. J Acquir Immune Defic Syndr 2013;63(Suppl 1):S85-9.
+
+Beta-lactam-allergy testing appears to be inexpensive
+
+Sobrino M, Mu ~ noz-Bellido FJ, Mac  ıas E, L  azaro-Sastre M, de Arriba-M  endez S, D  avila I. A Prospective Study of Costs Associated with the Evaluation of b -Lactam Allergy in Children. J Pediatr 2020;223:108-13.e2.
+
+Question Among children with suspected beta-lactam allergy, what are the costs of beta-lactam allergy evaluation?
+
+Design Prospective observational study.
+
+Setting Outpatient allergy clinic in Spain.
+
+Participants Patients up to 14 years with suspected beta-lactam allergy.
+
+Intervention Allergy evaluation.
+
+Outcomes Direct and indirect healthcare and non-healthcare costs.
+
+Main results Total cost was $12 324.25, $308.11 per patient.
+
+Conclusion Elective allergy evaluation for suspected betalactam allergy is not expensive and may reduce the future expense of often more expensive alternative antibiotics.
+
+Commentary Up to 10% of children are labeled as betalactam allergic, but the vast majority of these children are able to tolerate beta-lactam antibiotics after an allergy evaluation. 1 Mislabeling of beta-lactam allergy in children is associated with several adverse consequences, including risk of antibiotic resistance. 1 As a result, there has been a growing number of healthcare and policy initiatives to de-label children with possible beta-lactam allergy. This study adds to the body of literature supporting such initiatives, demonstrating de-labeling to be cost-effective when examining cost robustly (including direct and indirect healthcare and non-healthcare costs), and to reduce possible future expense. It is interesting to note that within this study, skin testing and specific IgE testing contributed close to 10% of the total cost. There is a movement reflected within the pediatric literature to support de-labeling with graded oral challenge in the absence of skin testing given the poor sensitivity and high rate of false positive tests in children with cutaneous symptoms associated with amoxicillin treatment. 2,3 This would have resulted in even lower direct and indirect costs associated with de-labeling as an encounter with the allergist will involve only one visit in which a challenge will be conducted. Overall, this study adds to the growing literature supporting de-labeling as an important, and cost-effective public health initiative.
+
+Elissa M. Abrams, MD
+
+University of Manitoba Winnipeg, Manitoba, Canada
+
+Moshe Ben-Shoshan, MD, MSc
+
+McGill University Montreal, Quebec, Canada
+
+References
+
+Abrams EM, Atkinson AR, Wong T, Ben-Shoshan M. The Importance of Delabeling beta-Lactam Allergy in Children. J Pediatr 2019;204:291-7.
+
+Mill C, Primeau MN, Medoff E, Lejtenyi C, O'Keefe A, Netchiporouk E, et al. Assessing the diagnostic properties of a graded oral provocation challenge for the diagnosis of immediate and nonimmediate reactions to amoxicillin in children. JAMA Pediatr 2016;170:1-8.
+
+Ibanez MD, Rodriguez Del Rio P, Lasa EM, Joral A, Ruiz-Hornillos J, Munoz C, et al. Prospective assessment of diagnostic tests for pediatric penicillin allergy: From clinical history to challenge tests. Ann Allergy Asthma Immunol 2018;121:235-44.e3.
+
+313

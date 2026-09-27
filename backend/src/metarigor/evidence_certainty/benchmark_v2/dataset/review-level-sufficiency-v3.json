@@ -1,0 +1,640 @@
+{
+  "schema_version": "3.0.0",
+  "contract_id": "EC_V2_REVIEW_LEVEL_SUFFICIENCY_V3",
+  "governing_grade_rule_version": "CORE_GRADE_2025_V1",
+  "scope": "V2_PMC_OA_REVIEW_LEVEL_ONLY",
+  "cases": [
+    {
+      "case_id": "pmc-13290216-pancreatoduodenectomy-mortality",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "disposition": "ASSESSABLE",
+          "basis": "REVIEW_ROB_WITH_CONTRIBUTION_CONTEXT",
+          "missing_facts": [],
+          "issue": "Review-level RoB summary and the selected forest weights support a body-of-evidence judgment, but do not replace outcome-specific primary-source RoB closure.",
+          "supplemental_evidence": []
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "disposition": "ASSESSABLE",
+          "basis": "COMPLETE_REVIEW_FOREST",
+          "missing_facts": [],
+          "issue": null,
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-forest-mortality",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "figure_label": "Figure 3A",
+              "artifact_path": "sources/review-figures/PMC13290216-forest.jpg",
+              "artifact_sha256": "235e5bdfdaec285e0257115d43822c26c538f4f78abd151946ef0d06178125d7",
+              "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/66ac/13290216/f6247b22a759/as9-7-e656-g003.jpg",
+              "transcription": "Figure 3A reports all ten mortality comparison rows. Point estimates occur on both sides of RR/OR 1, but every individual 95% CI is wide and overlaps the null and the pooled estimate; the two approach subgroups are OR 0.98 (0.17 to 5.50) and OR 1.05 (0.32 to 3.38), and total I2 is 3%.",
+              "source_pmcid": "PMC13290216"
+            }
+          ]
+        },
+        {
+          "domain": "PUBLICATION_BIAS",
+          "disposition": "ASSESSABLE",
+          "basis": "REVIEW_SEARCH_AND_SMALL_STUDY_ASSESSMENT",
+          "missing_facts": [],
+          "issue": "The exact funnel plot, comprehensive search and ongoing-trial inventory are supplied; the Review's own low-risk statement remains evidence, not a copied GRADE judgment.",
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-search-trial-registries",
+              "representation_kind": "FROZEN_REVIEW_TEXT_EXCERPT",
+              "source_pmcid": "PMC13290216",
+              "candidate_path": "frozen/PMC13290216/candidate.txt",
+              "candidate_sha256": "f3095b3be0a39eb62db7a62474069eb384ae04ff65cbe547509265563b3576a1",
+              "line_number": 26,
+              "line_sha256": "104e73863b5a75f13dadb097aeaf41276c2acc9fd597109d354af8583f27e204",
+              "quote": "PARAGRAPH\t-\tThe last database search was performed on November 26, 2025. In addition to the databases listed above, we conducted a search for ongoing trials (Clinical-Trials.gov, International Clinical Trials Registry Platform) and a web search for further trials. The last web search and trial database search was performed on November 11, 2025. Study authors of ongoing trials were contacted for information to gather missing information. The complete search string is shown in Supplemental Table 1, https://links.lww.com/AOSO/A579."
+            },
+            {
+              "evidence_id": "review-selection-ongoing-trials",
+              "representation_kind": "FROZEN_REVIEW_TEXT_EXCERPT",
+              "source_pmcid": "PMC13290216",
+              "candidate_path": "frozen/PMC13290216/candidate.txt",
+              "candidate_sha256": "f3095b3be0a39eb62db7a62474069eb384ae04ff65cbe547509265563b3576a1",
+              "line_number": 41,
+              "line_sha256": "d13fd6dbb3197e0c43e3930aab89759e5b995b7a3cbdf99254cb8c984c405ff5",
+              "quote": "PARAGRAPH\t-\tIn all 3647 studies were title and abstract-screened for inclusion. Of these, 3522 were excluded due to ineligibility. One hundred twenty-five studies were full-text screened. Of these, 95 were excluded. Of the remaining studies, 10 were excluded as they presented the trial registry of an included study, one was a congress abstract of an included study, and 10 studies were ongoing (CTRI/2013/09/004016, NCT03747588, NCT04171440, NCT03722732, ChiCTR1900028686, NCT02807701, NCT05463328, NCT06661135, ChiCTR1900024788, and NCT04400357). Finally, 10 studies were included.22–31 The full search process is presented in Figure 1."
+            },
+            {
+              "evidence_id": "review-funnel-mortality",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "source_pmcid": "PMC13290216",
+              "figure_label": "Supplemental Figure 1, Mortality panel",
+              "artifact_path": "sources/review-supplements/PMC13290216-supplemental-figure-1.pdf",
+              "artifact_sha256": "bf46d055e03c74588c6f20c614b5875f9c035bc9d76051a2b796856a6ce9a7e1",
+              "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13290216.1/as9-7-e656-s003.pdf",
+              "transcription": "The mortality funnel-plot panel shows study points on both sides of OR 1 across standard errors of approximately 0.6 to 1.6; no Egger p-value is printed in the panel."
+            },
+            {
+              "evidence_id": "review-egger-result",
+              "representation_kind": "FROZEN_REVIEW_TEXT_EXCERPT",
+              "source_pmcid": "PMC13290216",
+              "candidate_path": "frozen/PMC13290216/candidate.txt",
+              "candidate_sha256": "f3095b3be0a39eb62db7a62474069eb384ae04ff65cbe547509265563b3576a1",
+              "line_number": 50,
+              "line_sha256": "839c8c22efffe95fc08c33afdd02cb84b32b5d848889c0390f175a71a1958685",
+              "quote": "PARAGRAPH\t-\tAs another relevant factor, we considered the experience of the surgeons involved. All trials were conducted in so-called “high-volume centers.” However, some of the earlier laparoscopic trials26,27 reported limited surgeon experience, which should be regarded as a potential source of bias. Only 2 trials25,30 did not provide information regarding the surgeon’s level of experience, which is therefore considered a relevant source of bias. In contrast, the RPD trials required a previous experience of at least 40 robotic and 60 open procedures.22,29,31 Funnel plots and Egger’s test indicated a low risk of publication bias (Supplemental Figure 1, https://links.lww.com/AOSO/A577)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": "pmc-13337450-stroke-short-rehospitalization",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "disposition": "ASSESSABLE",
+          "basis": "REVIEW_ROB_WITH_CONTRIBUTION_CONTEXT",
+          "missing_facts": [],
+          "issue": "The Review reports study-level domain profiles rather than outcome-specific RoB 2 overall judgments. The selected forest and RoB figure nevertheless close the exact four-contributor set and preserve each contributor's displayed weight and seven-domain profile.",
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-short-rehospitalization-contributor-weights",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "source_pmcid": "PMC13337450",
+              "figure_label": "Figure 4 short-term subgroup",
+              "artifact_path": "sources/review-figures/PMC13337450-forest.jpg",
+              "artifact_sha256": "183ccad4fea4c344afc65e04cec8033a09855c49ae6f850384b0c9881e5325c5",
+              "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8a3a/13337450/0bd45418840f/fneur-17-1769301-g004.jpg",
+              "transcription": "The Figure 4 short-term subgroup has four contributors with displayed weights Chen 2018 11.3%, Krauss 2024 9.8%, Qian 2019 11.7%, and Wong 2015 9.1% (41.9% of the full Figure 4 analysis)."
+            },
+            {
+              "evidence_id": "review-short-rehospitalization-contributor-rob",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "source_pmcid": "PMC13337450",
+              "figure_label": "Figure 2",
+              "artifact_path": "sources/review-figures/PMC13337450-rob.jpg",
+              "artifact_sha256": "39b69b076f391e0ab26ee63ed8c68c0b141582ed5c6d8f2df882005686bb855f",
+              "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13337450.1/fneur-17-1769301-g002.jpg",
+              "transcription": "Figure 2 directly shows seven domain ratings for the four selected contributors. Krauss 2024 is low risk in D1-D7. Qian 2019 is low, unclear, high, unclear, high, low, high. Chen 2018 is low, low, unclear, low, high, unclear, unclear. Wong 2015 is low, low, low, low, low, unclear, low. The figure does not display an overall judgment column."
+            }
+          ]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "disposition": "ASSESSABLE",
+          "basis": "COMPLETE_REVIEW_FOREST",
+          "missing_facts": [],
+          "issue": null,
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-forest-short-rehospitalization",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "figure_label": "Figure 4, short-term subgroup",
+              "artifact_path": "sources/review-figures/PMC13337450-forest.jpg",
+              "artifact_sha256": "183ccad4fea4c344afc65e04cec8033a09855c49ae6f850384b0c9881e5325c5",
+              "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8a3a/13337450/0bd45418840f/fneur-17-1769301-g004.jpg",
+              "transcription": "The four short-term study RRs are 0.38 (0.14 to 1.02), 0.35 (0.12 to 1.05), 0.79 (0.31 to 2.05), and 0.51 (0.18 to 1.46). All point estimates favor transitional care, the intervals overlap broadly, and subgroup I2 is 0%.",
+              "source_pmcid": "PMC13337450"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": "pmc-13348439-minocycline-functional-independence",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "disposition": "ASSESSABLE",
+          "basis": "REVIEW_ROB_WITH_CONTRIBUTION_CONTEXT",
+          "missing_facts": [],
+          "issue": null,
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-mrs-contributor-weights",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "source_pmcid": "PMC13348439",
+              "figure_label": "Figure 2A",
+              "artifact_path": "sources/review-figures/PMC13348439-forest.jpg",
+              "artifact_sha256": "d965480fd60e12f192bf6b609c39c7db95fe24824a11ff6cfe43309cf85711fd",
+              "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3dcc/13348439/b389f3fb3ba8/BRB3-16-e71576-g002.jpg",
+              "transcription": "For the selected 3-month mRS 0-2 outcome, the five contributors and random-effects weights are Lampl 2007 21.1%, Srivastava 2012 13.7%, Blacker 2013 19.2%, Singh 2019 21.7%, and Lu 2026 24.3%."
+            },
+            {
+              "evidence_id": "review-mrs-contributor-rob",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "source_pmcid": "PMC13348439",
+              "figure_label": "Supplemental Figure S1",
+              "artifact_path": "sources/review-figures/PMC13348439-rob.png",
+              "artifact_sha256": "4ee5aaabe9fb39508d375aac51c327e8542c748e7b075f659c62d0a4b15251e8",
+              "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13348439.1/BRB3-16-e71576-s001.docx",
+              "source_document_path": "sources/review-supplements/PMC13348439-supplement.docx",
+              "source_document_sha256": "b78a44d04a6ee06874f6c1a27d8977ee3b7c7885a6881f46017c5c8ef6dcd0b4",
+              "derivation_locator": "DOCX Figure S1 embedded image, extracted without pixel modification",
+              "transcription": "Supplemental Figure S1 reports overall RoB for the five selected outcome contributors as Lampl 2007 some concerns, Srivastava 2012 high, Blacker 2013 high, Singh 2019 low, and Lu 2026 low."
+            }
+          ]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "disposition": "ASSESSABLE",
+          "basis": "COMPLETE_REVIEW_FOREST",
+          "missing_facts": [],
+          "issue": null,
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-forest-mrs-0-2",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "figure_label": "Figure 2A",
+              "artifact_path": "sources/review-figures/PMC13348439-forest.jpg",
+              "artifact_sha256": "d965480fd60e12f192bf6b609c39c7db95fe24824a11ff6cfe43309cf85711fd",
+              "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3dcc/13348439/b389f3fb3ba8/BRB3-16-e71576-g002.jpg",
+              "transcription": "The five study RRs are 1.79 (1.42 to 2.26), 1.92 (1.16 to 3.18), 1.23 (0.91 to 1.66), 0.90 (0.73 to 1.11), and 1.07 (1.00 to 1.14), with weights 21.1%, 13.7%, 19.2%, 21.7%, and 24.3%. Direction and magnitude vary materially and I2 is 84.9%.",
+              "source_pmcid": "PMC13348439"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": "pmc-13380479-heart-failure-readmission",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "disposition": "ASSESSABLE",
+          "basis": "REVIEW_ROB_WITH_CONTRIBUTION_CONTEXT",
+          "missing_facts": [],
+          "issue": "The RoB figure is explicitly for HF hospitalization and all-cause mortality; all seven trials have some concerns overall, while the forest supplies their outcome weights.",
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-rob-hf-readmission",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "figure_label": "Figure 5a",
+              "artifact_path": "sources/review-figures/PMC13380479-rob-study.jpg",
+              "artifact_sha256": "bdb41e6d545d5279d5f9f4924292dc3bc213303a24ba8f77cb2fa5b8ffeabfaf",
+              "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9fcc/13380479/4ad795330e97/gr8.jpg",
+              "transcription": "For HF hospitalization/readmission, all seven contributing RCTs are some concerns overall. Every trial is low for randomization, missing data, and selective reporting; all are some concerns for deviations from intended intervention, and Marini 2020 plus Torres-Macho 2022 also have some concerns for outcome measurement.",
+              "source_pmcid": "PMC13380479"
+            }
+          ]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "disposition": "ASSESSABLE",
+          "basis": "COMPLETE_REVIEW_FOREST",
+          "missing_facts": [],
+          "issue": null,
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-forest-hf-readmission",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "figure_label": "Figure 2",
+              "artifact_path": "sources/review-figures/PMC13380479-forest.jpg",
+              "artifact_sha256": "7c8b4f44b992212f9f1faf126dc51e9f466678df3d1f515fcb817adaa2c4f3af",
+              "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9fcc/13380479/564ed01f4e2d/gr2.jpg",
+              "transcription": "The seven study RRs are 1.09 (0.56 to 2.13), 0.50 (0.16 to 1.58), 0.44 (0.23 to 0.84), 1.76 (0.58 to 5.38), 0.72 (0.39 to 1.31), 0.36 (0.13 to 1.03), and 0.20 (0.06 to 0.62). Point estimates and modality subgroups vary materially; total I2 is 52%.",
+              "source_pmcid": "PMC13380479"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": "pmc-13391209-laac-ischaemic-stroke",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "disposition": "ASSESSABLE",
+          "basis": "REVIEW_ROB_WITH_CONTRIBUTION_CONTEXT",
+          "missing_facts": [],
+          "issue": "The exact outcome-specific domain judgments remain unavailable, but the selected forest contains only included randomized trials and the Review explicitly states that all included trials were some concerns overall; contribution weights cannot change that uniform overall profile.",
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-efficacy-contributor-set",
+              "representation_kind": "FROZEN_REVIEW_TEXT_EXCERPT",
+              "source_pmcid": "PMC13391209",
+              "candidate_path": "frozen/PMC13391209/candidate.txt",
+              "candidate_sha256": "d9c12d4536a42ed080a0ce48788f918a834b850c29c0fff58bbccf70df9a7a56",
+              "line_number": 41,
+              "line_sha256": "03af2a963cbd4c6ec82261e1792f01e5ef3ac7eb5499d082b661b9c3cb7928b7",
+              "quote": "PARAGRAPH\t-\tFive study comparisons (six RCTs) contributed to each efficacy outcome, representing 7004 participants overall (3681 assigned to LAAC and 3323 to OAC)."
+            },
+            {
+              "evidence_id": "review-all-trials-rob-some-concerns",
+              "representation_kind": "FROZEN_REVIEW_TEXT_EXCERPT",
+              "source_pmcid": "PMC13391209",
+              "candidate_path": "frozen/PMC13391209/candidate.txt",
+              "candidate_sha256": "d9c12d4536a42ed080a0ce48788f918a834b850c29c0fff58bbccf70df9a7a56",
+              "line_number": 39,
+              "line_sha256": "5a331e3f394f280283359ab6013b28ffb04d8179a1b6bb9d55c8fcbc88ef4b77",
+              "quote": "PARAGRAPH\t-\tRisk-of-bias assessments for the included randomized trials are shown in Supplementary material online, Figure S2; all trials were judged to be of some concern overall."
+            }
+          ]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "disposition": "ASSESSABLE",
+          "basis": "COMPLETE_REVIEW_FOREST",
+          "missing_facts": [],
+          "issue": "PREVAIL and PROTECT AF are presented as one pooled comparison row, so five forest rows represent six RCTs.",
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-forest-ischaemic-stroke",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "figure_label": "Figure 2B",
+              "artifact_path": "sources/review-figures/PMC13391209-forest.jpg",
+              "artifact_sha256": "89bb8ef50d604b09775f9f68912e958c653e426d537d6addf63e52dd7a5984c8",
+              "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3684/13391209/d244a62f94ad/euag159f2.jpg",
+              "transcription": "Five comparison rows representing six RCTs report RRs 1.68 (0.93 to 3.02), 1.30 (0.58 to 2.90), 0.99 (0.43 to 2.28), 1.24 (0.65 to 2.36), and 1.55 (0.98 to 2.46). Their intervals overlap broadly and I2 is 0%.",
+              "source_pmcid": "PMC13391209"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": "pmc-13506725-lung-cancer-ppc",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "disposition": "ASSESSABLE",
+          "basis": "REVIEW_ROB_WITH_CONTRIBUTION_CONTEXT",
+          "missing_facts": [],
+          "issue": "The RoB 2 figure is study-level rather than outcome-specific. The selected forest and RoB figure close all thirteen PPC contributors: eleven are some concerns and two are low risk, with no selected high-risk contributor.",
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-ppc-contributor-weights",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "source_pmcid": "PMC13506725",
+              "figure_label": "Figure 4",
+              "artifact_path": "sources/review-figures/PMC13506725-forest.webp",
+              "artifact_sha256": "f7f3cd31ede89895a07d80e933a21669bcf1f82794bd38727e329d684272b885",
+              "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e33c/13506725/27e1e6450a7a/fmed-13-1899789-g004.webp",
+              "transcription": "The thirteen Figure 4 PPC contributors and weights are Li 2024 2.6%, Yao 2023 2.5%, Yang 2022 8.7%, Wang 2024 3.9%, Xue 4.9%, Li 2023 6.0%, Lai 2017 6.4%, Su 2020 7.9%, Hu 2025 7.8%, Zhang 12.7%, Benzo 2011 5.0%, Licker 2017 23.7%, and Fang 2013 8.0%."
+            },
+            {
+              "evidence_id": "review-ppc-contributor-rob",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "source_pmcid": "PMC13506725",
+              "figure_label": "Figure 3",
+              "artifact_path": "sources/review-figures/PMC13506725-rob.webp",
+              "artifact_sha256": "4d5f6af4ffcef4a714819bffff518e7fbcd4fae86cdd473f035978f5f0691238",
+              "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13506725.1/fmed-13-1899789-g003.webp",
+              "transcription": "Figure 3 gives overall low risk for selected contributors Lai 2017 and Licker 2017 and some concerns for each of the other eleven selected contributors; none is high risk."
+            }
+          ]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "disposition": "ASSESSABLE",
+          "basis": "COMPLETE_REVIEW_FOREST",
+          "missing_facts": [],
+          "issue": null,
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-forest-overall-ppc",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "figure_label": "Figure 4",
+              "artifact_path": "sources/review-figures/PMC13506725-forest.webp",
+              "artifact_sha256": "f7f3cd31ede89895a07d80e933a21669bcf1f82794bd38727e329d684272b885",
+              "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e33c/13506725/27e1e6450a7a/fmed-13-1899789-g004.webp",
+              "transcription": "All thirteen study point estimates favor prehabilitation, ranging from RR 0.22 to 0.67. Individual intervals overlap materially, the pooled RR is 0.42 (0.33 to 0.53), and I2 is 0%.",
+              "source_pmcid": "PMC13506725"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": "pmc-13446969-postextubation-reintubation",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "disposition": "ASSESSABLE",
+          "basis": "OUTCOME_SPECIFIC_LOW_RISK_SENSITIVITY",
+          "missing_facts": [],
+          "issue": "The Review explicitly reports three high-risk trials and a same-outcome higher-quality sensitivity estimate; this does not require treating study count as contribution weight.",
+          "supplemental_evidence": []
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "disposition": "ASSESSABLE",
+          "basis": "COMPLETE_REVIEW_FOREST",
+          "missing_facts": [],
+          "issue": "The user explicitly selected published main Figure 2 as the governing analysis. Its fifteen study rows provide the complete contributor identities, effects, CIs, weights, totals and heterogeneity needed for Review-level inconsistency assessment; the conflicting Table 1 version remains excluded and preserved.",
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-selected-figure2-forest",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "source_pmcid": "PMC13446969",
+              "figure_label": "Figure 2",
+              "artifact_path": "sources/review-figures/PMC13446969-forest.jpg",
+              "artifact_sha256": "d9d3c78af33c4cfd2913a7416b0d9a45cab0faa6bf5e4c5a6481669c5a250f04",
+              "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/24b5/13446969/c7f0600064e5/cc9-8-e1452-g002.jpg",
+              "transcription": "Figure 2 contains the complete fifteen-row selected forest. Cortegiani et al 2020: 1/40 vs 1/39, weight 1.1%, OR 0.97 [0.06, 16.14]; Hernandez et al 2016: 66/290 vs 60/314, 21.6%, OR 1.25 [0.84, 1.85]; Hernandez et al 2022: 35/90 vs 21/92, 13.3%, OR 2.15 [1.13, 4.10]; Hernandez et al 2025: 24/72 vs 17/72, 11.3%, OR 1.62 [0.78, 3.36]; Jing et al 2019: 2/22 vs 1/20, 1.4%, OR 1.90 [0.16, 22.72]; Ketan et al 2024: 2/30 vs 8/32, 3.0%, OR 0.21 [0.04, 1.11]; Kumari et al 2024: 14/30 vs 6/30, 5.7%, OR 3.50 [1.11, 11.02]; Mokhtar et al 2025: 13/60 vs 15/60, 9.2%, OR 0.83 [0.36, 1.94]; RENOVATE 2025: 10/35 vs 10/42, 6.9%, OR 1.28 [0.46, 3.55]; Shang et al 2021: 0/24 vs 1/24, 0.8%, OR 0.32 [0.01, 8.25]; Stephan et al 2017: 5/135 vs 8/136, 5.7%, OR 0.62 [0.20, 1.93]; Tan et al 2020: 6/44 vs 6/42, 5.2%, OR 0.95 [0.28, 3.21]; Theerawit et al 2021: 5/71 vs 6/69, 5.0%, OR 0.80 [0.23, 2.74]; Tongyoo et al 2021: 12/60 vs 13/58, 8.6%, OR 0.87 [0.36, 2.09]; Tseng et al 2023: 5/20 vs 0/20, 1.0%, OR 14.55 [0.75, 283.37]. Totals are 1023 vs 1050 participants and 200 vs 173 events; Wald random-effects OR 1.22 [0.90, 1.65], I2 22%."
+            }
+          ],
+          "source_resolution": {
+            "resolution_kind": "USER_AUTHORIZED_GOVERNING_SOURCE_SELECTION",
+            "authority": "USER_INSTRUCTION_2026_09_01",
+            "decision_id": "ec-v2-pmc134-figure2-governing-version-20260901",
+            "authorization_actor": "USER",
+            "selection_actor": "USER",
+            "decision_text": "副对话已经改成deepseek flash成功运行了，以及PMC13446969 可以选择Figure 2 当标准，不用table 1",
+            "decision_text_sha256": "61f44b081eb009b2283ab2e896665a7b57dd54b7ea163f9f79366b8a77d52e40",
+            "source_pmcid": "PMC13446969",
+            "selected_version": "Published main Figure 2: 15 study rows, Wald OR 1.22 (0.90 to 1.65), 2073 participants",
+            "selected_artifact_path": "sources/review-figures/PMC13446969-forest.jpg",
+            "selected_artifact_sha256": "d9d3c78af33c4cfd2913a7416b0d9a45cab0faa6bf5e4c5a6481669c5a250f04",
+            "selected_source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/24b5/13446969/c7f0600064e5/cc9-8-e1452-g002.jpg",
+            "excluded_version": "Published Table 1: 14 studies, OR 1.19 (0.88 to 1.59), 1996 participants",
+            "excluded_artifact_path": "sources/review-conflicts/PMC13446969-table1.txt",
+            "excluded_artifact_sha256": "fe8f7b5d9963e88e168feb403efd7e207f475c9efb6b92076dc909bceccdccb4",
+            "excluded_source_document_path": "sources/PMC13446969.xml",
+            "excluded_source_document_sha256": "76b82b7150074e62d5c3b79a3180a04af800f27027966703f38bb93e8b81be34",
+            "selected_study_count": 15,
+            "selected_intervention_total": 1023,
+            "selected_control_total": 1050,
+            "excluded_study_count": 14,
+            "excluded_intervention_total": 988,
+            "excluded_control_total": 1008,
+            "rationale": "The user explicitly selected Figure 2 as the standard and rejected Table 1 for this case. Figure 2 is therefore the sole governing analysis; Table 1 remains preserved only as an excluded conflict source and is not sent as selected semantic evidence."
+          }
+        }
+      ]
+    },
+    {
+      "case_id": "pmc-13472815-high-protein-mortality",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "disposition": "ASSESSABLE",
+          "basis": "REVIEW_ROB_WITH_CONTRIBUTION_CONTEXT",
+          "missing_facts": [],
+          "issue": "The Review uses the older Cochrane domain tool without an outcome-specific overall judgment; selected-trial domain patterns and forest weights must be interpreted conservatively.",
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-rob-high-protein-mortality",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "figure_label": "Figure 2",
+              "artifact_path": "sources/review-figures/PMC13472815-rob.jpg",
+              "artifact_sha256": "694de81484be3c67f41ef1090f5c22e9cf0372b9329689f5df7e2fefb54610d6",
+              "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b31f/13472815/fd36bcd9c5be/fnut-13-1893988-g0002.jpg",
+              "transcription": "Figure 2 supplies study-level judgments for the six mortality contributors and domain-level proportions. Random sequence generation and selective reporting are predominantly low risk; allocation concealment is mixed; lack of participant/personnel blinding is frequently high risk; incomplete data and other bias are mixed.",
+              "source_pmcid": "PMC13472815"
+            }
+          ]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "disposition": "ASSESSABLE",
+          "basis": "COMPLETE_REVIEW_FOREST",
+          "missing_facts": [],
+          "issue": null,
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-forest-high-protein-mortality",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "figure_label": "Figure 3A",
+              "artifact_path": "sources/review-figures/PMC13472815-forest.jpg",
+              "artifact_sha256": "faad0e60a27c69da2c057b85678e865b0bf0b8b7b82ee0f3c4f6de171fa229e7",
+              "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b31f/13472815/266b2f662225/fnut-13-1893988-g0003.jpg",
+              "transcription": "The six 28/30-day mortality RRs are 0.75, 0.87, 0.80, 0.95, 0.85, and 0.73. All point estimates favor higher protein, all 95% CIs cross 1 and overlap broadly, and I2 is 0%.",
+              "source_pmcid": "PMC13472815"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": "pmc-13473429-txa-short-mortality",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "disposition": "ASSESSABLE",
+          "basis": "REVIEW_ROB_WITH_CONTRIBUTION_CONTEXT",
+          "missing_facts": [],
+          "issue": "The Review RoB judgment is study-level rather than primary-source outcome-specific, but Figure 2 and the selected Figure 3A forest close the exact four-contributor set and its random-effects weights.",
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-short-mortality-contributor-weights",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "source_pmcid": "PMC13473429",
+              "figure_label": "Figure 3A",
+              "artifact_path": "sources/review-figures/PMC13473429-forest.jpg",
+              "artifact_sha256": "7135966f7630333bae5e8e48cf8da929bc54059561f4d8b07e4f2d3045c19581",
+              "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e935/13473429/3b8953b411e9/fneur-17-1902987-g003.jpg",
+              "transcription": "The Figure 3A short-term mortality contributors and random-effects weights are Sprigg 2018 9.1%, CRASH-3 trial collaborators 2019 80.4%, Post 2020 9.8%, and Yassi 2024 0.6%."
+            },
+            {
+              "evidence_id": "review-short-mortality-contributor-rob",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "source_pmcid": "PMC13473429",
+              "figure_label": "Figure 2",
+              "artifact_path": "sources/review-figures/PMC13473429-rob.jpg",
+              "artifact_sha256": "8fd61b4ebc4f66060a50b29124ec5bb23ece991b615cd411b17e7e9000db71a1",
+              "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13473429.1/fneur-17-1902987-g002.jpg",
+              "transcription": "Figure 2 gives overall low risk for selected contributors Sprigg 2018, CRASH-3 trial collaborators 2019, and Yassi 2024, and some concerns for selected contributor Post 2020."
+            }
+          ]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "disposition": "ASSESSABLE",
+          "basis": "COMPLETE_REVIEW_FOREST",
+          "missing_facts": [],
+          "issue": null,
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-forest-short-mortality",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "figure_label": "Figure 3A",
+              "artifact_path": "sources/review-figures/PMC13473429-forest.jpg",
+              "artifact_sha256": "7135966f7630333bae5e8e48cf8da929bc54059561f4d8b07e4f2d3045c19581",
+              "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e935/13473429/3b8953b411e9/fneur-17-1902987-g003.jpg",
+              "transcription": "The four short-term mortality RRs are 0.82 (0.64 to 1.06), 0.94 (0.86 to 1.02), 0.98 (0.77 to 1.25), and 0.96 (0.38 to 2.46). Point estimates have the same direction, intervals overlap broadly, and I2 is 0%.",
+              "source_pmcid": "PMC13473429"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": "pmc-13486297-bronchiolitis-treatment-failure",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "disposition": "ASSESSABLE",
+          "basis": "OUTCOME_SPECIFIC_LOW_RISK_SENSITIVITY",
+          "missing_facts": [],
+          "issue": "The Review reports contributor-level RoB patterns and a same-outcome sensitivity restricted to five studies with low-risk outcome measurement.",
+          "supplemental_evidence": []
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "disposition": "ASSESSABLE",
+          "basis": "COMPLETE_REVIEW_FOREST",
+          "missing_facts": [],
+          "issue": null,
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-forest-treatment-failure",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "figure_label": "Figure 2A",
+              "artifact_path": "sources/review-figures/PMC13486297-forest.jpg",
+              "artifact_sha256": "735e63ad524c1f38e19dca5c14be3093719e9e1dc36359ac435ddb8a4470c7a8",
+              "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3e4c/13486297/684ea44b690a/fped-14-1892131-g002.jpg",
+              "transcription": "Ten study RRs range from 0.11 to 1.66. Two large PICU trials show RR 1.64 and 1.66 with CIs above 1, while several ward trials favor HFNC; total I2 is 67%, the setting subgroup effects are 1.10 and 0.34, and the subgroup-difference P value is 0.01.",
+              "source_pmcid": "PMC13486297"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": "pmc-13495394-imaging-pci-mace",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "disposition": "ASSESSABLE",
+          "basis": "REVIEW_ROB_WITH_CONTRIBUTION_CONTEXT",
+          "missing_facts": [],
+          "issue": "The Review figure reports all included RCTs low in every RoB 2 domain and overall; this remains review-level reporting.",
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-rob-imaging-pci-mace",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "figure_label": "Figure 2",
+              "artifact_path": "sources/review-figures/PMC13495394-rob.webp",
+              "artifact_sha256": "a1602697321d9c4239d56ab32c34a4a48fee7599db874590ec8ce3f5021f3496",
+              "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b6fd/13495394/ede6974d623d/12872_2026_6135_Fig2_HTML.webp",
+              "transcription": "Figure 2 reports 100% low risk for randomization, deviations from intended interventions, missing outcome data, outcome measurement, selective reporting, and overall risk of bias across the included randomized trials.",
+              "source_pmcid": "PMC13495394"
+            }
+          ]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "disposition": "ASSESSABLE",
+          "basis": "COMPLETE_REVIEW_FOREST",
+          "missing_facts": [],
+          "issue": null,
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-forest-imaging-pci-mace",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "figure_label": "Figure 3",
+              "artifact_path": "sources/review-figures/PMC13495394-forest.webp",
+              "artifact_sha256": "c0794473eb66d0e7618f4b58518c73a54233e8f22a4ea91ec49ea27d1c1853b6",
+              "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b6fd/13495394/e81baf90b549/12872_2026_6135_Fig3_HTML.webp",
+              "transcription": "The five RRs are 0.49 (0.31 to 0.78), 0.57 (0.37 to 0.89), 0.85 (0.51 to 1.41), 0.64 (0.33 to 1.24), and 0.36 (0.17 to 0.75). All point estimates favor imaging guidance, intervals overlap, and I2 is 9.8%.",
+              "source_pmcid": "PMC13495394"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": "pmc-13507955-ultrasound-atelectasis",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "disposition": "ASSESSABLE",
+          "basis": "REVIEW_ROB_WITH_CONTRIBUTION_CONTEXT",
+          "missing_facts": [],
+          "issue": "Four trials are low overall and six have some concerns; the selected forest supplies contribution weights, but formal outcome-specific primary-source RoB closure remains absent.",
+          "supplemental_evidence": []
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "disposition": "ASSESSABLE",
+          "basis": "COMPLETE_REVIEW_FOREST",
+          "missing_facts": [],
+          "issue": null,
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-forest-atelectasis",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "figure_label": "Figure 3",
+              "artifact_path": "sources/review-figures/PMC13507955-forest.webp",
+              "artifact_sha256": "1e345d02d5c23358595e3ad69b1b9d4137cb3ca36bd342497898457ff62ba7f1",
+              "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/06e4/13507955/da4285c0f804/fcvm-13-1890372-g003.webp",
+              "transcription": "The ten study RRs range from 0.14 to 1.00 and all point estimates are at or below the null. Most intervals overlap the pooled effect, but magnitudes vary and total I2 is 50.8%.",
+              "source_pmcid": "PMC13507955"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "case_id": "pmc-13522188-ohca-mortality",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "disposition": "ASSESSABLE",
+          "basis": "OUTCOME_SPECIFIC_LOW_RISK_SENSITIVITY",
+          "missing_facts": [],
+          "issue": "The Review reports a same-outcome low-risk sensitivity synthesis of RR 1.00 (0.92 to 1.08), directly constraining the effect of RoB concerns.",
+          "supplemental_evidence": []
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "disposition": "ASSESSABLE",
+          "basis": "COMPLETE_REVIEW_FOREST",
+          "missing_facts": [],
+          "issue": null,
+          "supplemental_evidence": [
+            {
+              "evidence_id": "review-forest-ohca-mortality",
+              "representation_kind": "CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION",
+              "figure_label": "Figure 2",
+              "artifact_path": "sources/review-figures/PMC13522188-forest.webp",
+              "artifact_sha256": "de329c891e7904881777bc03ce57abf6fc9d2dedb9ddae3de3b0a6c0c7c15256",
+              "source_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5dbe/13522188/1121e6b74447/fmed-13-1917259-g002.webp",
+              "transcription": "The four study RRs are 0.99 (0.87 to 1.13), 0.89 (0.76 to 1.03), 1.00 (0.90 to 1.11), and 0.88 (0.45 to 1.73). Intervals overlap broadly, subgroup effects are 0.94 and 1.00 with interaction P 0.46, and total I2 is 0%.",
+              "source_pmcid": "PMC13522188"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

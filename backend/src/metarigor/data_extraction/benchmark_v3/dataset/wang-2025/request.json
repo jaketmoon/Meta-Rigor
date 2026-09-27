@@ -1,0 +1,864 @@
+{
+  "schema_version": "3.0.0",
+  "review_id": "sepsis.dynamic-fluid-responsiveness.review.2025",
+  "protocol_content": {
+    "schema_version": "3.0.0",
+    "protocol_id": "sepsis.dynamic-fluid-responsiveness.protocol.m1",
+    "title": "Dynamic fluid-responsiveness guidance for sepsis and septic shock",
+    "research_question": "Among adults with sepsis or septic shock, compare intravenous-fluid resuscitation guided by dynamic measures of fluid responsiveness with no dynamic guidance for prespecified patient-important clinical and resuscitative outcomes.",
+    "review_criteria": "Include randomized controlled trials enrolling adults aged 18 years or older with sepsis or septic shock, including severe-infection populations eligible under the registered protocol, with at least one arm using dynamic measures of fluid responsiveness to guide intravenous-fluid administration and a comparator arm without dynamic guidance.",
+    "result_targets": [
+      {
+        "target_id": "result.mortality.day28_closest",
+        "population": "Adults aged 18 years or older with sepsis or septic shock.",
+        "intervention": {
+          "label": "dynamic measures of fluid responsiveness",
+          "aliases": [
+            "dynamic measures of fluid responsiveness",
+            "dynamic fluid responsiveness",
+            "fluid responsiveness",
+            "dynamic-guided resuscitation"
+          ]
+        },
+        "comparator": {
+          "label": "no dynamic measures of fluid responsiveness",
+          "aliases": [
+            "no dynamic measures of fluid responsiveness",
+            "without dynamic measures of fluid responsiveness",
+            "non-dynamic control",
+            "usual care",
+            "clinical assessment",
+            "early goal-directed therapy"
+          ]
+        },
+        "outcome": "All-cause mortality",
+        "outcome_definition": "All-cause mortality at 28 days, or the closest reported all-cause mortality timepoint when day 28 is unavailable.",
+        "timepoint": "28 days after randomization preferred; otherwise the closest reported timepoint.",
+        "analysis_population": "Participants in the arm-level outcome analysis population reported by the eligible randomized trial.",
+        "selection_rule": "Prefer directly reported arm-level deaths and denominators at 28 days; if unavailable, use the closest reported all-cause mortality timepoint. Keep the separately prespecified ICU-mortality outcome under its own target.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.mortality.day90",
+        "population": "Adults aged 18 years or older with sepsis or septic shock.",
+        "intervention": {
+          "label": "dynamic measures of fluid responsiveness",
+          "aliases": [
+            "dynamic measures of fluid responsiveness",
+            "dynamic fluid responsiveness",
+            "fluid responsiveness",
+            "dynamic-guided resuscitation"
+          ]
+        },
+        "comparator": {
+          "label": "no dynamic measures of fluid responsiveness",
+          "aliases": [
+            "no dynamic measures of fluid responsiveness",
+            "without dynamic measures of fluid responsiveness",
+            "non-dynamic control",
+            "usual care",
+            "clinical assessment",
+            "early goal-directed therapy"
+          ]
+        },
+        "outcome": "All-cause mortality",
+        "outcome_definition": "All-cause mortality at 90 days.",
+        "timepoint": "90 days after randomization.",
+        "analysis_population": "Participants in the arm-level outcome analysis population reported by the eligible randomized trial.",
+        "selection_rule": "Use directly reported arm-level deaths and denominators at 90 days.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.mortality.icu",
+        "population": "Adults aged 18 years or older with sepsis or septic shock.",
+        "intervention": {
+          "label": "dynamic measures of fluid responsiveness",
+          "aliases": [
+            "dynamic measures of fluid responsiveness",
+            "dynamic fluid responsiveness",
+            "fluid responsiveness",
+            "dynamic-guided resuscitation"
+          ]
+        },
+        "comparator": {
+          "label": "no dynamic measures of fluid responsiveness",
+          "aliases": [
+            "no dynamic measures of fluid responsiveness",
+            "without dynamic measures of fluid responsiveness",
+            "non-dynamic control",
+            "usual care",
+            "clinical assessment",
+            "early goal-directed therapy"
+          ]
+        },
+        "outcome": "ICU mortality",
+        "outcome_definition": "Death during the index ICU admission.",
+        "timepoint": "Index ICU admission.",
+        "analysis_population": "Participants in the arm-level outcome analysis population reported by the eligible randomized trial.",
+        "selection_rule": "Use directly reported arm-level ICU deaths and denominators.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.length_of_stay.icu",
+        "population": "Adults aged 18 years or older with sepsis or septic shock.",
+        "intervention": {
+          "label": "dynamic measures of fluid responsiveness",
+          "aliases": [
+            "dynamic measures of fluid responsiveness",
+            "dynamic fluid responsiveness",
+            "fluid responsiveness",
+            "dynamic-guided resuscitation"
+          ]
+        },
+        "comparator": {
+          "label": "no dynamic measures of fluid responsiveness",
+          "aliases": [
+            "no dynamic measures of fluid responsiveness",
+            "without dynamic measures of fluid responsiveness",
+            "non-dynamic control",
+            "usual care",
+            "clinical assessment",
+            "early goal-directed therapy"
+          ]
+        },
+        "outcome": "ICU length of stay",
+        "outcome_definition": "Duration of the index ICU stay.",
+        "timepoint": "Index ICU admission.",
+        "analysis_population": "Participants in the arm-level outcome analysis population reported by the eligible randomized trial.",
+        "selection_rule": "Use directly reported arm-level mean, standard deviation and group size. Preserve the source-reported time unit; do not perform unit conversion in this model task.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "CONTINUOUS",
+        "measurement_basis": "FINAL",
+        "scale": "source-reported time unit",
+        "direction": "LOWER_IS_BETTER"
+      },
+      {
+        "target_id": "result.length_of_stay.hospital",
+        "population": "Adults aged 18 years or older with sepsis or septic shock.",
+        "intervention": {
+          "label": "dynamic measures of fluid responsiveness",
+          "aliases": [
+            "dynamic measures of fluid responsiveness",
+            "dynamic fluid responsiveness",
+            "fluid responsiveness",
+            "dynamic-guided resuscitation"
+          ]
+        },
+        "comparator": {
+          "label": "no dynamic measures of fluid responsiveness",
+          "aliases": [
+            "no dynamic measures of fluid responsiveness",
+            "without dynamic measures of fluid responsiveness",
+            "non-dynamic control",
+            "usual care",
+            "clinical assessment",
+            "early goal-directed therapy"
+          ]
+        },
+        "outcome": "Hospital length of stay",
+        "outcome_definition": "Duration of the index hospital stay.",
+        "timepoint": "Index hospital admission.",
+        "analysis_population": "Participants in the arm-level outcome analysis population reported by the eligible randomized trial.",
+        "selection_rule": "Use directly reported arm-level mean, standard deviation and group size. Preserve the source-reported time unit; do not perform unit conversion in this model task.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "CONTINUOUS",
+        "measurement_basis": "FINAL",
+        "scale": "source-reported time unit",
+        "direction": "LOWER_IS_BETTER"
+      },
+      {
+        "target_id": "result.mechanical_ventilation.need",
+        "population": "Adults aged 18 years or older with sepsis or septic shock.",
+        "intervention": {
+          "label": "dynamic measures of fluid responsiveness",
+          "aliases": [
+            "dynamic measures of fluid responsiveness",
+            "dynamic fluid responsiveness",
+            "fluid responsiveness",
+            "dynamic-guided resuscitation"
+          ]
+        },
+        "comparator": {
+          "label": "no dynamic measures of fluid responsiveness",
+          "aliases": [
+            "no dynamic measures of fluid responsiveness",
+            "without dynamic measures of fluid responsiveness",
+            "non-dynamic control",
+            "usual care",
+            "clinical assessment",
+            "early goal-directed therapy"
+          ]
+        },
+        "outcome": "Need for invasive mechanical ventilation",
+        "outcome_definition": "New use of invasive mechanical ventilation after randomization.",
+        "timepoint": "During reported trial follow-up.",
+        "analysis_population": "Participants in the arm-level outcome analysis population reported by the eligible randomized trial.",
+        "selection_rule": "Use directly reported arm-level participants requiring invasive mechanical ventilation and denominators.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.mechanical_ventilation.duration",
+        "population": "Adults aged 18 years or older with sepsis or septic shock.",
+        "intervention": {
+          "label": "dynamic measures of fluid responsiveness",
+          "aliases": [
+            "dynamic measures of fluid responsiveness",
+            "dynamic fluid responsiveness",
+            "fluid responsiveness",
+            "dynamic-guided resuscitation"
+          ]
+        },
+        "comparator": {
+          "label": "no dynamic measures of fluid responsiveness",
+          "aliases": [
+            "no dynamic measures of fluid responsiveness",
+            "without dynamic measures of fluid responsiveness",
+            "non-dynamic control",
+            "usual care",
+            "clinical assessment",
+            "early goal-directed therapy"
+          ]
+        },
+        "outcome": "Duration of invasive mechanical ventilation",
+        "outcome_definition": "Time receiving invasive mechanical ventilation after randomization.",
+        "timepoint": "During reported trial follow-up.",
+        "analysis_population": "Participants in the arm-level outcome analysis population reported by the eligible randomized trial.",
+        "selection_rule": "Use directly reported arm-level mean, standard deviation and group size. Preserve the source-reported time unit; do not perform unit conversion in this model task.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "CONTINUOUS",
+        "measurement_basis": "FINAL",
+        "scale": "source-reported time unit",
+        "direction": "LOWER_IS_BETTER"
+      },
+      {
+        "target_id": "result.renal_replacement_therapy.need",
+        "population": "Adults aged 18 years or older with sepsis or septic shock.",
+        "intervention": {
+          "label": "dynamic measures of fluid responsiveness",
+          "aliases": [
+            "dynamic measures of fluid responsiveness",
+            "dynamic fluid responsiveness",
+            "fluid responsiveness",
+            "dynamic-guided resuscitation"
+          ]
+        },
+        "comparator": {
+          "label": "no dynamic measures of fluid responsiveness",
+          "aliases": [
+            "no dynamic measures of fluid responsiveness",
+            "without dynamic measures of fluid responsiveness",
+            "non-dynamic control",
+            "usual care",
+            "clinical assessment",
+            "early goal-directed therapy"
+          ]
+        },
+        "outcome": "Need for renal replacement therapy",
+        "outcome_definition": "New use of renal replacement therapy after randomization.",
+        "timepoint": "During reported trial follow-up.",
+        "analysis_population": "Participants in the arm-level outcome analysis population reported by the eligible randomized trial.",
+        "selection_rule": "Use directly reported arm-level participants requiring renal replacement therapy and denominators.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.renal_replacement_therapy.duration",
+        "population": "Adults aged 18 years or older with sepsis or septic shock.",
+        "intervention": {
+          "label": "dynamic measures of fluid responsiveness",
+          "aliases": [
+            "dynamic measures of fluid responsiveness",
+            "dynamic fluid responsiveness",
+            "fluid responsiveness",
+            "dynamic-guided resuscitation"
+          ]
+        },
+        "comparator": {
+          "label": "no dynamic measures of fluid responsiveness",
+          "aliases": [
+            "no dynamic measures of fluid responsiveness",
+            "without dynamic measures of fluid responsiveness",
+            "non-dynamic control",
+            "usual care",
+            "clinical assessment",
+            "early goal-directed therapy"
+          ]
+        },
+        "outcome": "Duration of renal replacement therapy",
+        "outcome_definition": "Time receiving renal replacement therapy after randomization.",
+        "timepoint": "During reported trial follow-up.",
+        "analysis_population": "Participants in the arm-level outcome analysis population reported by the eligible randomized trial.",
+        "selection_rule": "Use directly reported arm-level mean, standard deviation and group size. Preserve the source-reported time unit; do not perform unit conversion in this model task.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "CONTINUOUS",
+        "measurement_basis": "FINAL",
+        "scale": "source-reported time unit",
+        "direction": "LOWER_IS_BETTER"
+      },
+      {
+        "target_id": "result.acute_kidney_injury",
+        "population": "Adults aged 18 years or older with sepsis or septic shock.",
+        "intervention": {
+          "label": "dynamic measures of fluid responsiveness",
+          "aliases": [
+            "dynamic measures of fluid responsiveness",
+            "dynamic fluid responsiveness",
+            "fluid responsiveness",
+            "dynamic-guided resuscitation"
+          ]
+        },
+        "comparator": {
+          "label": "no dynamic measures of fluid responsiveness",
+          "aliases": [
+            "no dynamic measures of fluid responsiveness",
+            "without dynamic measures of fluid responsiveness",
+            "non-dynamic control",
+            "usual care",
+            "clinical assessment",
+            "early goal-directed therapy"
+          ]
+        },
+        "outcome": "Acute kidney injury",
+        "outcome_definition": "Acute kidney injury as defined by the eligible trial.",
+        "timepoint": "During reported trial follow-up.",
+        "analysis_population": "Participants in the arm-level outcome analysis population reported by the eligible randomized trial.",
+        "selection_rule": "Use directly reported arm-level acute kidney injury events and denominators.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.fluid_volume.day1",
+        "population": "Adults aged 18 years or older with sepsis or septic shock.",
+        "intervention": {
+          "label": "dynamic measures of fluid responsiveness",
+          "aliases": [
+            "dynamic measures of fluid responsiveness",
+            "dynamic fluid responsiveness",
+            "fluid responsiveness",
+            "dynamic-guided resuscitation"
+          ]
+        },
+        "comparator": {
+          "label": "no dynamic measures of fluid responsiveness",
+          "aliases": [
+            "no dynamic measures of fluid responsiveness",
+            "without dynamic measures of fluid responsiveness",
+            "non-dynamic control",
+            "usual care",
+            "clinical assessment",
+            "early goal-directed therapy"
+          ]
+        },
+        "outcome": "Intravenous fluid administered on day 1",
+        "outcome_definition": "Total intravenous fluid administered during the first day after randomization.",
+        "timepoint": "First 24 hours after randomization.",
+        "analysis_population": "Participants in the arm-level outcome analysis population reported by the eligible randomized trial.",
+        "selection_rule": "Use directly reported arm-level mean, standard deviation and group size. Preserve the source-reported volume unit; do not perform unit conversion in this model task.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "CONTINUOUS",
+        "measurement_basis": "FINAL",
+        "scale": "source-reported volume unit",
+        "direction": "LOWER_IS_BETTER"
+      },
+      {
+        "target_id": "result.fluid_balance.day3",
+        "population": "Adults aged 18 years or older with sepsis or septic shock.",
+        "intervention": {
+          "label": "dynamic measures of fluid responsiveness",
+          "aliases": [
+            "dynamic measures of fluid responsiveness",
+            "dynamic fluid responsiveness",
+            "fluid responsiveness",
+            "dynamic-guided resuscitation"
+          ]
+        },
+        "comparator": {
+          "label": "no dynamic measures of fluid responsiveness",
+          "aliases": [
+            "no dynamic measures of fluid responsiveness",
+            "without dynamic measures of fluid responsiveness",
+            "non-dynamic control",
+            "usual care",
+            "clinical assessment",
+            "early goal-directed therapy"
+          ]
+        },
+        "outcome": "Cumulative fluid balance",
+        "outcome_definition": "Cumulative fluid balance through day 3 after randomization.",
+        "timepoint": "Through 72 hours after randomization.",
+        "analysis_population": "Participants in the arm-level outcome analysis population reported by the eligible randomized trial.",
+        "selection_rule": "Use directly reported arm-level mean, standard deviation and group size. Preserve the source-reported volume unit; do not perform unit conversion in this model task.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "CONTINUOUS",
+        "measurement_basis": "FINAL",
+        "scale": "source-reported volume unit",
+        "direction": "LOWER_IS_BETTER"
+      },
+      {
+        "target_id": "result.vasopressor.use",
+        "population": "Adults aged 18 years or older with sepsis or septic shock.",
+        "intervention": {
+          "label": "dynamic measures of fluid responsiveness",
+          "aliases": [
+            "dynamic measures of fluid responsiveness",
+            "dynamic fluid responsiveness",
+            "fluid responsiveness",
+            "dynamic-guided resuscitation"
+          ]
+        },
+        "comparator": {
+          "label": "no dynamic measures of fluid responsiveness",
+          "aliases": [
+            "no dynamic measures of fluid responsiveness",
+            "without dynamic measures of fluid responsiveness",
+            "non-dynamic control",
+            "usual care",
+            "clinical assessment",
+            "early goal-directed therapy"
+          ]
+        },
+        "outcome": "Vasopressor administration",
+        "outcome_definition": "Use of a vasopressor after randomization.",
+        "timepoint": "During reported trial follow-up.",
+        "analysis_population": "Participants in the arm-level outcome analysis population reported by the eligible randomized trial.",
+        "selection_rule": "Use directly reported arm-level participants receiving vasopressors and denominators.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.inotrope.use",
+        "population": "Adults aged 18 years or older with sepsis or septic shock.",
+        "intervention": {
+          "label": "dynamic measures of fluid responsiveness",
+          "aliases": [
+            "dynamic measures of fluid responsiveness",
+            "dynamic fluid responsiveness",
+            "fluid responsiveness",
+            "dynamic-guided resuscitation"
+          ]
+        },
+        "comparator": {
+          "label": "no dynamic measures of fluid responsiveness",
+          "aliases": [
+            "no dynamic measures of fluid responsiveness",
+            "without dynamic measures of fluid responsiveness",
+            "non-dynamic control",
+            "usual care",
+            "clinical assessment",
+            "early goal-directed therapy"
+          ]
+        },
+        "outcome": "Inotrope administration",
+        "outcome_definition": "Use of an inotrope after randomization.",
+        "timepoint": "During reported trial follow-up.",
+        "analysis_population": "Participants in the arm-level outcome analysis population reported by the eligible randomized trial.",
+        "selection_rule": "Use directly reported arm-level participants receiving inotropes and denominators.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.vasopressor.duration",
+        "population": "Adults aged 18 years or older with sepsis or septic shock.",
+        "intervention": {
+          "label": "dynamic measures of fluid responsiveness",
+          "aliases": [
+            "dynamic measures of fluid responsiveness",
+            "dynamic fluid responsiveness",
+            "fluid responsiveness",
+            "dynamic-guided resuscitation"
+          ]
+        },
+        "comparator": {
+          "label": "no dynamic measures of fluid responsiveness",
+          "aliases": [
+            "no dynamic measures of fluid responsiveness",
+            "without dynamic measures of fluid responsiveness",
+            "non-dynamic control",
+            "usual care",
+            "clinical assessment",
+            "early goal-directed therapy"
+          ]
+        },
+        "outcome": "Duration of vasopressor use",
+        "outcome_definition": "Time receiving vasopressor therapy after randomization.",
+        "timepoint": "During reported trial follow-up.",
+        "analysis_population": "Participants in the arm-level outcome analysis population reported by the eligible randomized trial.",
+        "selection_rule": "Use directly reported arm-level mean, standard deviation and group size. Preserve the source-reported time unit; do not perform unit conversion in this model task.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "CONTINUOUS",
+        "measurement_basis": "FINAL",
+        "scale": "source-reported time unit",
+        "direction": "LOWER_IS_BETTER"
+      }
+    ]
+  },
+  "accepted_protocol_sha256": "abaa5a52007f376064cddb3b774d03d40d07bd015301ff6cc51607c8bf3fef92",
+  "protocol_acceptance": {
+    "actor": "project-owner",
+    "decided_at": "2026-08-25T21:55:00+08:00",
+    "decision": "ACCEPTED"
+  },
+  "governing_review_inventory_sha256": "eb09d732888232a603a79f16b9b15b991abf812d68d5245fd46456b3c49e5ea5",
+  "accepted_study_inventory_sha256": "d82705aaeda67ff81e21622d43f605f79b451abdafff5f23b67378bf090ebe87",
+  "studies": [
+    {
+      "study_key": "fresh.douglas",
+      "display_label": "FRESH / Douglas 2020",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "richard.preload_dependence",
+      "display_label": "Richard 2015",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "gones.kuan",
+      "display_label": "GONeS / Kuan 2016",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "lin.gedi",
+      "display_label": "Lin 2019",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "cronhjort.plr",
+      "display_label": "Cronhjort 2017",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "moress.gruartmoner",
+      "display_label": "MORESS / Gruartmoner 2019",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "chen.fluid_minimization",
+      "display_label": "Chen 2015",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "juneja.svv",
+      "display_label": "Juneja 2009",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "li.plr_tte",
+      "display_label": "Li G 2019",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    }
+  ],
+  "reports": [
+    {
+      "report_key": "douglas.primary",
+      "title": "Fluid Response Evaluation in Sepsis Hypotension and Shock: A Randomized Clinical Trial",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1016/j.chest.2020.04.025"
+        },
+        {
+          "scheme": "PMID",
+          "value": "32353418"
+        },
+        {
+          "scheme": "PMCID",
+          "value": "PMC9490557"
+        },
+        {
+          "scheme": "NCT",
+          "value": "NCT02837731"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "douglas.supplement",
+      "title": "FRESH trial online supplement, e-Table 3",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1016/j.chest.2020.04.025"
+        }
+      ],
+      "report_role": "COMPANION"
+    },
+    {
+      "report_key": "richard.primary",
+      "title": "Preload dependence indices to titrate volume expansion during septic shock: a randomized controlled trial",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1186/s13054-014-0734-3"
+        },
+        {
+          "scheme": "PMID",
+          "value": "25572383"
+        },
+        {
+          "scheme": "PMCID",
+          "value": "PMC4310180"
+        },
+        {
+          "scheme": "NCT",
+          "value": "NCT01972828"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "kuan.primary",
+      "title": "Emergency Department Management of Sepsis Patients: A Randomized, Goal-Oriented, Noninvasive Sepsis Trial",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1016/j.annemergmed.2015.09.010"
+        },
+        {
+          "scheme": "PMID",
+          "value": "26475246"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "lin.primary",
+      "title": "Global end-diastolic volume index guided fluid resuscitation in septic shock",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.3760/cma.j.issn.0253-3758.2019.09.014"
+        },
+        {
+          "scheme": "PMID",
+          "value": "31550844"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "cronhjort.primary",
+      "title": "Fluid responsiveness assessment using passive leg raising test to reduce fluid administration and weight gain in patients with septic shock",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.24015/JAPM.2016.0049"
+        },
+        {
+          "scheme": "NCT",
+          "value": "NCT02301585"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "gruartmoner.primary",
+      "title": "Monitoring resuscitation in severe sepsis and septic shock patients: results of the MORESS trial",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1186/s40635-019-0265-y"
+        },
+        {
+          "scheme": "PMID",
+          "value": "31559498"
+        },
+        {
+          "scheme": "PMCID",
+          "value": "PMC6763544"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "chen.primary",
+      "title": "Targeted fluid minimization following initial resuscitation in septic shock: a pilot study",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1378/chest.15-1525"
+        },
+        {
+          "scheme": "PMID",
+          "value": "26291900"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "juneja.primary",
+      "title": "Use of stroke volume variation to guide fluid therapy in septic shock for prevention of acute kidney injury",
+      "identifiers": [],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "li.primary",
+      "title": "Clinical value of early liquid resuscitation guided by passive leg-raising test combined with transthoracic echocardiography in patients with septic shock",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.3760/cma.j.issn.2095-4352.2019.04.008"
+        },
+        {
+          "scheme": "PMID",
+          "value": "31109412"
+        }
+      ],
+      "report_role": "PRIMARY"
+    }
+  ],
+  "report_study_bindings": [
+    {
+      "report_key": "douglas.primary",
+      "study_key": "fresh.douglas"
+    },
+    {
+      "report_key": "douglas.supplement",
+      "study_key": "fresh.douglas"
+    },
+    {
+      "report_key": "richard.primary",
+      "study_key": "richard.preload_dependence"
+    },
+    {
+      "report_key": "kuan.primary",
+      "study_key": "gones.kuan"
+    },
+    {
+      "report_key": "lin.primary",
+      "study_key": "lin.gedi"
+    },
+    {
+      "report_key": "cronhjort.primary",
+      "study_key": "cronhjort.plr"
+    },
+    {
+      "report_key": "gruartmoner.primary",
+      "study_key": "moress.gruartmoner"
+    },
+    {
+      "report_key": "chen.primary",
+      "study_key": "chen.fluid_minimization"
+    },
+    {
+      "report_key": "juneja.primary",
+      "study_key": "juneja.svv"
+    },
+    {
+      "report_key": "li.primary",
+      "study_key": "li.plr_tte"
+    }
+  ],
+  "report_identity_issues": [],
+  "documents": [
+    {
+      "document_key": "douglas.pmc",
+      "report_key": "douglas.primary",
+      "input_path": "documents/douglas-main/source.xml",
+      "expected_sha256": "497a50951f7a3c17242d8d4a8deae3d640bd43b55b183dc7da0d4531a8fd0c69",
+      "media_type": "application/xml",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9490557/"
+    },
+    {
+      "document_key": "douglas.supplement_pdf",
+      "report_key": "douglas.supplement",
+      "input_path": "documents/douglas-supplement/source.pdf",
+      "expected_sha256": "976341812a131d8cdec2595de91443e769c3715ced592e4c8bd7ab84c1aa282a",
+      "media_type": "application/pdf",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0012369220307686-mmc1.pdf"
+    },
+    {
+      "document_key": "richard.pmc",
+      "report_key": "richard.primary",
+      "input_path": "documents/richard-main/source.xml",
+      "expected_sha256": "8acbb432abef30ca31aa21688ffbc6487e1411411028f8b8060dbe7b424cd2f2",
+      "media_type": "application/xml",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4310180/"
+    },
+    {
+      "document_key": "kuan.publisher",
+      "report_key": "kuan.primary",
+      "input_path": "documents/kuan-primary/source.pdf",
+      "expected_sha256": "e0e8b01b1dd19a88ccaa93a0c4b25da06e278d0e5426f5e2304e03c04a81bbc9",
+      "media_type": "application/pdf",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1016/j.annemergmed.2015.09.010"
+    },
+    {
+      "document_key": "lin.pubmed",
+      "report_key": "lin.primary",
+      "input_path": "documents/lin-pubmed/source.xml",
+      "expected_sha256": "1c9bd0f773ad8ac16c24fc7f71e8b938468a5db365b6e62d6f1fe3583d31b911",
+      "media_type": "application/xml",
+      "representation_scope": "ABSTRACT_AND_RESULTS",
+      "display_url": "https://pubmed.ncbi.nlm.nih.gov/31550844/"
+    },
+    {
+      "document_key": "cronhjort.publisher",
+      "report_key": "cronhjort.primary",
+      "input_path": "documents/cronhjort-primary/source.pdf",
+      "expected_sha256": "55e08702342f53aae8c29ee1d1e5cebc83b615074deaa9134400193057cf0f7e",
+      "media_type": "application/pdf",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.24015/JAPM.2016.0049"
+    },
+    {
+      "document_key": "gruartmoner.conference_abstract",
+      "report_key": "gruartmoner.primary",
+      "input_path": "documents/gruartmoner-primary/source.pdf",
+      "expected_sha256": "64718f88bb0331c69aaead631b3240c09c3a769c490891eca480f352208d07db",
+      "media_type": "application/pdf",
+      "representation_scope": "ABSTRACT_AND_RESULTS",
+      "display_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6763544/"
+    },
+    {
+      "document_key": "chen.publisher",
+      "report_key": "chen.primary",
+      "input_path": "documents/chen-primary/source.pdf",
+      "expected_sha256": "552297a63aa8e3c8798339382d82c6a8af2af8d5db425f05343ab0ce6eb4b3e9",
+      "media_type": "application/pdf",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1378/chest.15-1525"
+    },
+    {
+      "document_key": "juneja.conference_abstract",
+      "report_key": "juneja.primary",
+      "input_path": "documents/juneja-primary/source.pdf",
+      "expected_sha256": "05c2f20323e237c8ce66fde1574cf7ad99b1bf18ab067fad2d4c7daced931bb1",
+      "media_type": "application/pdf",
+      "representation_scope": "ABSTRACT_AND_RESULTS",
+      "display_url": "https://www.researchgate.net/publication/295157312_USE_OF_STROKE_VOLUME_VARIATION_TO_GUIDE_FLUID_THERAPY_IN_SEPTIC_SHOCK_FOR_PREVENTION_OF_ACUTE_KIDNEY_INJURY"
+    },
+    {
+      "document_key": "li.abstract",
+      "report_key": "li.primary",
+      "input_path": "documents/li-primary/source.txt",
+      "expected_sha256": "c4dc0b261058180533eef4e2f2a42c2c0245ab8523d2451c0a77dc48f21f0570",
+      "media_type": "text/plain",
+      "representation_scope": "ABSTRACT_AND_RESULTS",
+      "display_url": "https://pubmed.ncbi.nlm.nih.gov/31109412/"
+    }
+  ],
+  "source_dispositions": []
+}

@@ -1,0 +1,52 @@
+{
+  "files": [
+    {
+      "bytes": 3126,
+      "path": "screening-protocol.json",
+      "sha256": "f93a39f640f990dc6d5e4839b619165b9da138b875a9ceac8eb54a8ebce94a25"
+    },
+    {
+      "bytes": 56644,
+      "path": "records.jsonl",
+      "sha256": "ff5f38054355542a7559d7c1f349893b4595d98970cdb33deb73a8b23478e218"
+    }
+  ],
+  "record_count": 31,
+  "record_ids": [
+    "turalde-mapili-2023:central:record:010",
+    "turalde-mapili-2023:central:record:012",
+    "turalde-mapili-2023:central:record:013",
+    "turalde-mapili-2023:central:record:014",
+    "turalde-mapili-2023:central:record:015",
+    "turalde-mapili-2023:central:record:016",
+    "turalde-mapili-2023:pubmed:record:001",
+    "turalde-mapili-2023:pubmed:record:002",
+    "turalde-mapili-2023:pubmed:record:003",
+    "turalde-mapili-2023:pubmed:record:004",
+    "turalde-mapili-2023:pubmed:record:005",
+    "turalde-mapili-2023:pubmed:record:006",
+    "turalde-mapili-2023:pubmed:record:007",
+    "turalde-mapili-2023:pubmed:record:008",
+    "turalde-mapili-2023:scopus:record:017",
+    "turalde-mapili-2023:scopus:record:019",
+    "turalde-mapili-2023:scopus:record:020",
+    "turalde-mapili-2023:scopus:record:021",
+    "turalde-mapili-2023:scopus:record:023",
+    "turalde-mapili-2023:scopus:record:024",
+    "turalde-mapili-2023:scopus:record:025",
+    "turalde-mapili-2023:scopus:record:026",
+    "turalde-mapili-2023:scopus:record:027",
+    "turalde-mapili-2023:scopus:record:031",
+    "turalde-mapili-2023:scopus:record:032",
+    "turalde-mapili-2023:scopus:record:033",
+    "turalde-mapili-2023:scopus:record:034",
+    "turalde-mapili-2023:scopus:record:035",
+    "turalde-mapili-2023:scopus:record:036",
+    "turalde-mapili-2023:scopus:record:037",
+    "turalde-mapili-2023:scopus:record:038"
+  ],
+  "schema_version": "1.0.0",
+  "semantic_input_sha256": "6e281996a06c87a257a91c68a83fa3cd254eff3b92eb94994499510cafb68ace",
+  "task": "TITLE_ABSTRACT_SCREENING_ONLY",
+  "case_id": "turalde-mapili-2023"
+}

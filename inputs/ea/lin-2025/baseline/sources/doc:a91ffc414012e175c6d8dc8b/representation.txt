@@ -1,0 +1,330 @@
+[DOCLING_PAGE 1]
+
+https://doi.org/10.1007/s00062-022-01239-x Clin Neuroradiol
+
+REVIEW ARTICLE
+
+CommonDataElements Analysis of Mechanical Thrombectomy Clinical Trials for Acute Ischemic Stroke with Large Core Infarct
+
+Mohamed Sobhi Jabal 1,2 · Mohamed K. Ibrahim 1 · Jade Thurnham 3 · Kevin M. Kallmes 3 · Hassan Kobeissi 4 · Sherief Ghozy 1 · Nicole Hardy 3 · Ranita Tarchand 3 · Cem Bilgin 1 · Jeremy J. Heit 5 · Waleed Brinjikji 1 · David F. Kallmes 1
+
+Received: 16 September 2022 / Accepted: 9 November 2022 ©The Author(s), under exclusive licence to Springer-Verlag GmbH Germany 2022
+
+Abstract
+
+Background Clinical trials addressing large core acute ischemic stroke (AIS) are ongoing across multiple international groups. Future development of clinical guidelines depends on meta-analyses of these trials calling for a degree of homogeneity of elements across the studies. This common data element study aims to provide an overview of key features of pertinent large core infarct trials.
+
+Methods PubMed and ClinicalTrials.gov databases were screened for published and ongoing clinical trials assessing mechanical thrombectomy in patients with AIS with large core infarct. Nested Knowledge AutoLit living review platform was utilized to categorize primary and secondary outcomes as well as inclusion and exclusion criteria for patient selection in the trials.
+
+Results The most reported data element was ASPECTS score but with varied definitions of what constitutes large core. Non-utility-weighted modified Rankin score (mRS) was reported in 6/7 studies as the primary outcome, while the utility-weighted mRS was the outcome of interest in the TESLA trial, all of them at the 3 months mark, with only LASTE looking for mRS shift at the 6 months mark. Secondary outcomes had more variations. Mortality is reported separately only in 4/7 trials, all at the 3-month mark. Additionally, the TENSION trial reported the frequency of serious adverse events, including mortality, at the 1-week and 12-month mark.
+
+Discussion Overall, in large core trials there is a large degree of heterogeneity in the collected data elements. Differences in definition and timepoints render reaching a unified standard difficult, which hinders high quality meta-analyses and cohesive evidence-driven synthesis.
+
+Keywords Ischemic stroke · Large core infarct · Clinical trials · Common data elements · Mechanical thrombectomy
+
+envelopeback Mohamed Sobhi Jabal jabal.mohamedsobhi@mayo.edu
+
+Mohamed K. Ibrahim ibrahim.mohamed2@mayo.edu
+
+Jade Thurnham jade.thurnham@nested-knowledge.com
+
+Kevin M. Kallmes kevinkallmes@supedit.com
+
+Hassan Kobeissi kobei1h@cmich.edu
+
+Sherief Ghozy ghozy.sherief@mayo.edu
+
+Nicole Hardy nicole_hardy@alumni.brown.edu
+
+Ranita Tarchand ranita.tarchand@nested-knowledge.com
+
+Cem Bilgin bilgin.cem@mayo.edu
+
+Jeremy J. Heit jheit@stanford.edu
+
+Waleed Brinjikji brinjikji.waleed@mayo.edu
+
+David F. Kallmes kallmes.david@mayo.edu
+
+1 Department of Radiology, Mayo Clinic, Rochester, MN, USA
+
+2 Department of Computer and Information Science, University of Pennsylvania, Philadelphia, PA, USA
+
+3 Nested Knowledge Inc, Saint Paul, MN, USA
+
+4 Central Michigan University College of Medicine, Mt. Pleasant, MI, USA
+
+5 Neuroadiology and Neurointervention Division, Stanford University, Palo Alto, CA, USA
+
+K
+
+[DOCLING_PAGE 2]
+
+M. S. Jabal et al.
+
+Introduction
+
+Stroke is the second leading cause of death worldwide and a primary cause of long-term disability [1]. Endovascular therapy (EVT) using mechanical thrombectomy has become the gold standard treatment for patients with acute ischemic stroke (AIS) with large vessel occlusion (LVO) since 2015 [2-6], upon demonstration of its value in improving patient functional outcomes by multiple major clinical trials [2, 7]. These trials that established EVT as standard of care enrolled patients with favorable imaging profiles and small ischemic burden, given the uncertainty of EVT effectiveness and safety concerns regarding reperfusion injury with extensive ischemic parenchymal areas and the perceived irreversibility of deficits.
+
+Alberta Stroke Program Early CT Score (ASPECTS) mapping of infarct size and affected areas is used as a proxy to stratify patients with LVO of the anterior circulation. Most of the pertinent clinical trials published in the last decade excluded patients with ASPECTS of ≤ 5, which lead treating neurointerventionalists to confront the dilemma of whether to proceed with EVT or have recourse to medical treatment in these circumstances. Patients with ASPECTS lower than 6 were excluded from most clinical trials that validated mechanical thrombectomy indications in the last decade [8], therefore, data about their outcomes and whether they could benefit from MT remain scarce and largely undetermined [5]. Hence, patients with low ASPECTS have been generally thought to be ineligible for EVT given the lower chance of salvaging neuronal tissue to improve functional outcome and to mitigate the risk of revascularization bleeding of infarcted tissue [9].
+
+While several concurrent large core trials are underway across various international groups, there is no clear prospective alignment on key attributes such as selection criteria and outcomes. The current trials have contrasting approaches and rationales for patient selection, which could potentially lead to variability in results across the trials and may be an effect of the different selection strategies. This is particularly tangible in the academic debates and discussions that arose about eligibility criteria of the clinical trials patients for thrombectomy in AIS with large core infarct [10-12].
+
+In spite of the witnessed increase in adoption of common data elements and core outcome measures in clinical trials [13-15], the absence of standardization in clinical trials remains not uncommon and has been described in various fields and pathologies. Standardization of data collection across studies and trials is becoming increasingly critical, in an effort to reduce the heterogeneity of collected data to facilitate deriving consistent results with generalizable conclusions and establishing higher quality evidence, which is essential for future meta-analysis and optimized management guidelines [16, 17].
+
+With the emerging advancements in data science and knowledge synthesis, efforts are ongoing globally to set standards for data collection and data sharing in clinical trials. The main goal of common data element (CDE) studies is to analyze study components and highlight their consistency and comprehensiveness, or the lack thereof, to help raise awareness of optimization and harmonization of dispersed efforts.
+
+The present CDE study was conducted with the aim to help provide the medical community with an overview of the key features pertaining to the ongoing studies, by examining the homogeneities and heterogeneities in the inclusion criteria and outcomes in current thrombectomy trials specific to ischemic stroke with large core infarct, as well as to assist any groups adjusting current trials or planning future trials.
+
+Material and Methods
+
+Literature Search
+
+This qualitative analysis was conducted according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Given the public nature of the data and the lack of patient information collection, the study did not require ethics committee approval or informed consent. A literature search was performed using Nested Knowledge (NK) (St. Paul, MN, USA) AutoLit platform [18]. Screening of Medline and Embase databases as well as clinicaltrials.gov was done for relevant studies pertaining to active EVT trials for patients with large core infarct. The following key terms were used: 'large core', 'acute ischemic', 'stroke', 'thrombectomy', and 'low ASPECTS' on 27 April 2022. A manual pearl growing search through references was also conducted to find any additional eligible studies. Title and abstract screening were conducted first. Then, a full-text screening of the remaining studies not excluded after title and abstract review was carried out by one author (J.T.). A senior expert was responsible for resolving any doubts of inclusion. The AutoLit platform was used for literature search, full-text screening, and tagging. Details of the study search and screening flowchart are summarized in Fig. 1.
+
+Inclusion and Exclusion Criteria
+
+Inclusion criteria were composed of active and published randomized controlled trials that included patients with large infarct core undergoing mechanical thrombectomy regardless of the interventional modality used. All large core thrombectomy trials reporting outcomes that include follow-up modified Rankin Scale (mRS) scores or hemorrhage, and with imaging inclusion criteria relating to ASPECT score and core volume, were included.
+
+K
+
+[DOCLING_PAGE 3]
+
+Common Data Elements Analysis of Mechanical Thrombectomy Clinical Trials for Acute Ischemic Stroke with Large Core Infarct
+
+Fig. 1 Preferred reporting items for systematic reviews and meta-analyses (PRISMA) flowchart of study inclusion process
+
+Tagging CommonData Elements
+
+Identification of all interventions, patient inclusion criteria, and assessed outcomes of included studies was achieved using the AutoLit tagging tool [18]. Unique tags were assigned for each treatment arm modality and data component based on a full text or full protocol review, as appropriate and available. Across the trials, a comparison between inclusion and exclusion criteria for large core thrombectomy interventions was conducted, as well as all determined primary and secondary outcomes, to assess the possibility of arriving at comprehensive core outcome measures pertinent to large core infarct stroke. To ensure quality control, all tagging done by one co-author (J.T.) was eventually inde- pendently verified by two authors (N.H. and K.K.). In order to evaluate heterogeneity, it was defined as any reporting of a data element that cannot be combined or compared due to difference in definition, scale, tool, or evaluation scope and time frame.
+
+Data Synthesis
+
+Following the CDE tagging process, the qualitative synthesis feature of the NK platform was used to provide a sunburst diagram showing the frequency of study design types and data pieces. Each slice represents a tag applied across trials, and the frequency was computed in the platform based on the number of studies with that tag (Fig. 2; the interactive version can be found through https://nestedknowledge.com/nest/qualitative/797). Detailed illustration of the different composition of elements are provided in Supplementary Figures 1-10. Using Microsoft presentation software, tables and figures were constructed based on the data collected from the NK qualitative synthesis function.
+
+K
+
+[DOCLING_PAGE 4]
+
+M. S. Jabal et al.
+
+Fig. 2 Sunburst diagram of data elements in the Nested Knowledge nest of this study. Interactive version of the diagram is available at the platform where tags can be explored along with their associated elements providing overview of commonalities and frequencies of mutual data between the seven large core infarct trials in ischemic stroke with large vessel occlusion. (Refer to https://nested-knowledge. com/qualitative/797)
+
+Results
+
+Search Results
+
+A systematic search of the databases, including expert additions, identified 251 studies. Following the removal of duplicate records and the automated exclusion criteria, 197 studies were screened for inclusion and 176 studies were excluded at the title and abstract screening stage. The remaining 21 study protocols and published manuscripts were assessed for eligibility, of which, 7 studies were included and tagged for qualitative analysis: Efficacy and safety of thrombectomy in stroke with extended lesion and extended time window (TENSION) [19], Recovery by endovascular salvage for cerebral ultra-acute embolism japan large ischemic core trial (RESCUE-Japan LIMIT) [20], Large stroke therapy evaluation (LASTE) [21], thrombectomy for emergent salvage of large anterior circulation ischemic stroke (TESLA) [22], randomized controlled trial to optimize patient's selection for endovascular treatment in acute ischemic stroke (SELECT2) [23], study of endovascular therapy in acute anterior circulation large vessel occlusive patients with a large infarct core (ANGEL-ASPECT) [24], improving low ASPECTS stroke thrombectomy (I-LAST) [25].
+
+K
+
+Details of the screening and study exclusion steps can be visualized in Fig. 1.
+
+[DOCLING_PAGE 5]
+
+Common Data Elements Analysis of Mechanical Thrombectomy Clinical Trials for Acute Ischemic Stroke with Large Core Infarct
+
+Imaging Inclusion Criteria
+
+There was a great deal of heterogeneity in defining what classifies as a large core infarct according to imaging. For instance, the five trials that used ASPECTS as the sole means to define large core infarct shared no full agreement on which modality to use for the grading or the time frame. Moreover, the modality used to calculate ASPECTS was inconsistent, just TESLA had non-contrast CT (NCCT) as the sole modality, while the other studies accepted both diffusion weighted imaging (DWI) and NCCT as modalities for calculating ASPECTS. What ASPECTS defined large core was also varied among studies, four reporting ASPECTS (3-5), two as ASPECTS (0-5), and only TESLA defining it as ASPECTS (2-5). Age was not of consideration except in LASTE, where the ASPECTS defining large core changed if patient where older than 80 years, redefining it from ASPECTS (0-5) if patient is <80 years, to ASPECTS (4-5) if 80 years or older.
+
+Three studies reported large vessel occlusion location as an inclusion criterion, with the TENSION and RESCUEJapan LIMIT trial including internal carotid artery (ICA) and M1 occlusions, while the LASTE trial specifying ICA, M1, or M1-M2 occlusions.
+
+Details of the overall imaging-based inclusion criteria are provided in supplementary figure 2.
+
+Study Details and Therapeutic Arms
+
+Among the seven included studies, one open label randomized controlled trial (RCT) was recently published (RESCUE-Japan LIMIT) [20], and six still actively ongoing studies were mainly prospective randomized open blinded endpoint (PROBE) trials (ANGEL-ASPECT, TENSION, SELECT2, TESLA), except for one open-label RCT (LASTE) and one non-randomized trial (I-LAST). In terms of the therapeutic arms distribution, some heterogeneity was noted in the different trials. Both, the ongoing ANGEL-ASPECT trial and the published RESCUE-Japan LIMIT trial reported including the following EVT modalities: stent retriever, aspiration, balloon angioplasty, and intracranial and carotid stenting. Two ongoing trials, TESLA and SELECT-2 reported including unspecified thrombectomy methods and intravenous recombinant tissue plasminogen activator (IVrtPA) or intra-arterial therapy (IAT). Three ongoing RCTs, I-LAST, LASTE, and TENSION, disclosed the inclusion of thrombectomy combined or not thrombolysis without further specifications.
+
+Exclusion Criteria
+
+Apart from the I-LAST study, all six trials had defined exclusion criteria. The two most shared exclusion criteria among all the six trials were cerebrovascular events and mass effect, with all six studies reporting some type of exclusion criteria with respect to them. Five studies excluded patients with signs of intracranial hemorrhage, and SELECT2 RCT additionally excluded internal carotid artery (ICA) or aortic dissections. Regarding mass effect exclusion, six studies explicitly excluded patients with midline shifts with some variations and different associations. The third most common exclusion criteria used was the presence of intracranial tumor, used in three of the studies. TESLA and TENSION trials, excluding any intracranial neoplasm, and the SELECT2 trial, had similar criteria but allowed for patients with small meningioma. The remaining less common exclusion criteria were presence of intracranial stent blocking access, mentioned by only two studies, SELECT 2 and LASTE, and cerebral blood volume (CBV) drop on CT perfusion CBV maps in the TENSION RCT.
+
+Outcomes
+
+Clinical endpoints were the most examined outcomes, reported by all seven trials, followed by imaging and endovascular outcomes which were prevalently reported in all studies with the exception of TESLA and I-LAST. Quality of life was reported by three studies, the SELECT2, LASTE, and TENSION RCTs. The least common outcome investigated was cost-effectiveness as a secondary outcome, reported only in the LASTE and TENSION trials.
+
+The mRS was the most commonly investigated clinical outcome, with all studies reporting changes from baseline in comparison to different postintervention time points, mostly mRS at 90 days. The LASTE trial included additional mRS at 180 days as well, and the TENSION trial has additional mRS evaluation at 360 days. Although most studies used the mRS scale and reported the 90 days assessment, they disagreed on what qualifies as a favorable outcome, with most reporting mRS 0-2 and 0-3, aside from the I-LAST RCT, which specified mRS change from baseline. Additionally, both the LASTE RCT and the TESLA trials adopted the utility-weighted mRS instead of the standard mRS that the other trials used.
+
+Quantitative illustration of overall mRS distribution as primary and secondary endpoint clinical outcome across the trials in Fig. 3.
+
+Other less common clinical outcomes were all-cause mortality within 90 days and The NIH Stroke Score (NIHSS) reported by four studies each, followed by infection, length of hospital stay, and discharge location, all reported by the SELECT2 trial.
+
+As relates to intracranial hemorrhage (ICH), several descriptions of tracked hemorrhage type were noted, including 3 different definitions of symptomatic ICH, 1) according to the NIHSS, 2) SITS-MOST, or 3) Heidelberg bleeding clas- sification, and on time scales ranging from 24h to 90 days. Additional assessed outcomes included endovascular complications, with 3 studies reporting dissections, 2 reporting procedure-related adverse events, and 1 for groin hematoma and groin pseudoaneurysm. A less shared outcome reported was infarction recurrence, reported in two trials. The least reported outcomes were any vascular injury, lesion growth, malignant brain edema, and thrombus formation reported once each.
+
+K
+
+[DOCLING_PAGE 6]
+
+M. S. Jabal et al.
+
+Fig. 3 Distribution of modified Rankin Scale as a primary endpoint clinical outcome across the trials
+
+Imaging outcomes were referenced to the same degree as endovascular complications, being reported in 5 studies, with TICI and infarct volume taking the lead with 3 studies each, where ANGEL-ASPECT, SELECT2 reported both. The second most commonly reported imaging outcome was ischemic lesion water uptake, reported only by the I-LAST trial, which in turn did not report either TICI or infarct volume.
+
+For quality of life assessment, different surveys were used. EuroQol 5 was used in 2 RCTs LASTE and TENSION. Neuro-QoL by SELECT2. And TENSION reporting both PROMIS-10 and PHQ-4 in addition to Euro-QoL 5. Each was recorded at 90 and 360 days, except for LASTE which evaluated Euro-QoL 5 at 180 days.
+
+As for time window from onset, LASTE time to randomization was within ≤ 6.5h and EVT within 30min from randomization. RESCUE-Japan LIMIT time to randomization was within 6h or 6-24h without positive lesion on MRIFLAIR, and EVT within 1h from randomization. TENSION LASTE time to randomization was within ≤ 6.5h and EVT within 30min from randomization. ANGEL-ASPECT and TESLA only reported three studies reported time to randomization within 24h. SELECT2 only reported time to EVT within 24h. And no pertinent information was found for I-LAST.
+
+K
+
+Characteristics, inclusion and exclusion criteria, in addition to primary and secondary outcomes of the trials are summarized in Table 1.
+
+Discussion
+
+In the present study, substantial variations in data elements were discovered among the different studies examining EVT in ischemic stroke patients with LVO and large core infarct. Our CDE findings highlighted existing heterogeneities where the data element is reported differently across studies which could limit proper comparative analyses. Furthermore, some data elements were found to be entirely lacking in certain studies compared to others. All this could prevent adequate meta-analyses and systematic reviews in the future, thus delaying any conclusive clinical guidelines and recommendations that might ensue.
+
+[DOCLING_PAGE 7]
+
+Common Data Elements Analysis of Mechanical Thrombectomy Clinical Trials for Acute Ischemic Stroke with Large Core Infarct
+
+[DOCLING_TABLE rows=8 columns=6]
+| TESLA | NCT03805308 Thrombectomy for emergent sal- vage of large an- terior circulation ischemic stroke | 300 Randomized Single (Outcomes Assessor) | July 2019 November 2022 | US >6 ICA t,MCAM1 | Not (2-5) NCCT 0-1 24 N/A 18-85 A, P, C, persistent HTN >185/110, E<3 |
+| SELECT2 | NCT03876457 A randomized controlled trial to optimize patient's selection for endovas- cular treatment in acute ischemic stroke | 560 Randomized Single (Outcomes Asses- sor) October 2019 | November 2022 USA, Canada, Australia, New Zealand, Spain Not | (3-5) ≥ 6 ICA, MCAM1 0-1 N/A | 24 18-85 A, E<3 months, renal insufficiency, previous thrombolytic treatment a |
+| TENSION | NCT03094715 Efficacy and safety of thrombectomy in stroke with extended lesion and extended time window | 665 Randomized Single (Outcomes Assessor) June 2018 | September 2024 Austria, Canada, Czechia, Norway, Slovakia, Denmark. France, Germany, Spain Not | (3-5) NCCT/DWI <26 ICA t, M1 0-2 11 | 12h (from TLKW) ≥ 18 Infective endocardi- tis, E<6-12 |
+| I-LAST | NCT04862507 Improving low AS- PECTS stroke thrombec- tomy | 500 Observational - December 2021 | April 2026 Germany, Switzerland Not | (0-5) N/A ICA t, M1 &M2, basilar artery N/A N/A | N/A >18 N/A |
+| RESCUE-Japan LIMIT | NCT03702413 Randomized con- trolled trial of en- dovascular therapy for acute large ves- sel occlusion with large ischemic core | 203 Randomized None (Open label) November 2018 | March 2022 Japan Yes (3-5) NCCT/DWI ≥ 6 ICA, M1 | 0-1 6, or 6-24 without positive lesion on MRI-FLAIR | 1 (from randomiza- tion) ≥ 18 A, P, C |
+| ANGEL-ASPECT | NCT04551664 Study of endovascular ther- apy in acute anterior circu- lation large vessel occlusive patients with a large infarct core (ANGEL-ASPECT) | 488 Randomized Single (Outcomes Asses- sor) October 2020 | November 2022 China Not (3-5) | (6-30) ICA t,MCA M1 0-1 24 | N/A 18-80 A, P, C, biopsy within 1 month, active bleeding within 1 month, renal fail- ure, E<1 |
+| LASTE | NCT03811769 Large stroke ther- apy evaluation | 450 Randomized None (Open label) April 2019 | February 2022 France Not (0-5), (4-5) in pt ≥ 80 NCCT/DWI e N/A | ICA, M1, M1-M2 0-1 ≤ 6.5 | 7 (30min from randomization) ≥ 18 A, E<6, seizures at stroke (affecting NIHSS assessment), unable to follow up |
+| Trial | NCT number Title | Participants Random/type Masking Estimated Start date | Estimated Com- pletion date Country Published/not NIHSS score Occlusion site | ASPECT Pre-stroke mRS Randomize within (Hours) | Time to EVT (Hours) Age (Years) Exclusion |
+[/DOCLING_TABLE]
+
+K
+
+[DOCLING_PAGE 8]
+
+M. S. Jabal et al.
+
+(Continued)
+
+Table 1
+
+[DOCLING_TABLE rows=7 columns=8]
+| TESLA | ICH, ME, dif- ficult EVT per physician, PCO, intracranial tu- mors | Utility-weighted | mRS N/A N/A | N/A | N/A N/A | N/A | N/A |
+| SELECT2 | ASPECT ≥ 6+Core volume <50cc, AP- SECTS ≤ 2, Tumor (ex- cept meningioma), ICH, AVM, ME, ICA dis- section (ICA, aortic), S, MVO, large cerebral | edema mRS distribution | N/A sICH, NIHSS worsening by ≥ 4 points+ sICH, NIHSS, recanalization AE, infarct volume, le- | sion growth LOS, NIHSS | QoL c , mRS (0-2) rate, Mortality | N/A | N/A |
+| TENSION | ICA stenosis, ME, tumors | mRS | N/A Infarct volume, infarct growth, sICH | N/A | AE including mor- tality , malignant edema, new AIS mRS (0-2), (0-3), QoL b , parenchymal | hemorrhage N/A | mRS (4-6), new AIS, Cost analysis, QoL |
+| I-LAST | N/A | mRS | N/A ILWU on admission | ILWU fol- low-up | N/A N/A | N/A | N/A |
+| RESCUE-Japan LIMIT | ME, acute ICH, chronic occlusion | mRS 0-3 | N/A N/A | NIHSS improve- ment ≥ 8 points, sICH, ICH DC rate | mRS (0-2), (0-1), mRS shift, Mortal- ity , new AIS | N/A | N/A |
+| ANGEL-ASPECT | ME, acute ICH, MVO | mRS (±7 days) | N/A N/A | NIHSS 0-1 or decrease ≥ 10, infarct volume change from baseline, ICH, re- canalization rate DC rate | mRS (0-2), (0-3), Mortal- ity | N/A | N/A |
+| LASTE | exclusion ICH, cervical tor- tuosity/stenosis, CVD, S, MVO, ME, S, PIO | 90 days mRS | 180 days mRS shift Secondary 0-1 day sICH, AE | 1-3 days N/A 1 week NIHSSS 0-1, or | drop by ≥ 8 90 days mRS (0-2), (0-3), Mortality | 180 days NIHSS ≥ 10 points during hospital, mRS (0-2), (0-3), (5-6), QoL d , DC rate, cost analysis | 360 days N/A |
+[/DOCLING_TABLE]
+
+K
+
+mRS modified Rankin Scale, sICH symptomatic intracranial hemorrhage, ICH intracranial hemorrhage, ICA internal carotid artery, MCA middle cerebral artery, AVM arteriovenous malformation, LOS length of stay, ILWU ischemic lesion water uptake, TLKW time last known well, AE adverse events (device/procedure adverse events), AIS acute ischemic stroke, A allergy to contrast, P pregnancy, C coagulopathy, E life expectancy (months), MVO multiple vessel occlusion, ME mass effect/midline shift, S intracranial stent that preclude deployment, ICS intracranial lesion requiring stent, CVD cerebral vascular disease, PIO isolated proximal ICA occlusion, PCO isolated cervical ICA occlusion, t terminus, QoL quality of life, DC decompressive craniotomoy a Thrombolytic agent beyond 4.5h from last known well, Thrombolytic agent 3-4.5h after last known well AND any of the following: 1) age >80 years, 2) current anticoagulant use, 3) history of diabetes AND prior stroke, 4) NIHSS >25, 5) ischemic involvement of >1/3 MCA territory b PROMIS-10, EQ-5D, PHQ-4, QoL
+
+QoL
+
+c Neuro-QoL, d EuroQol 5D-5L
+
+e At randomization Recent interest in precise imaging inclusion criteria for large core trials focuses on CTP for quantifying core volumes. Given its prominence in existing trial data, some groups argue NCCT ASPECTS should remain the cornerstone of thrombectomy trial selection criteria. These same groups argue that CTP remains an unproven tool for core estimation and that overestimation of core using CTP could randomize patients to a control arm who would otherwise be considered appropriate for thrombectomy using standard noncontrast CT criteria. The interchangeability of CT or MRI for measuring ASPECTS is also questionable, and the different definition adds more discrepancy (ASPECT 0-5 vs. 3-5). CT and DWI MRI for ASPECTS quantification have only been compared once. While the mean difference between modalities was only one point, 75% of DWI ASPECTS 3-5 patients had CT ASPECTS 6-10 [26]. Heterogeneous inclusion and exclusion criteria were observed with different ASPECTS scores and core volume measurements, demonstrating a range of 'large core infarct' definition concepts. Mass effect, midline shift, and herniation were all excluded in different ways, sometimes limited to tumor-based mass effect.
+
+[DOCLING_PAGE 9]
+
+Common Data Elements Analysis of Mechanical Thrombectomy Clinical Trials for Acute Ischemic Stroke with Large Core Infarct
+
+The second next biggest concern is discrepancy in assessing primary clinical outcome. There is a significant variability in the way mRS is reported. Six of seven studies reported mRS 0-2 at 90 days, and one additional study, TESLA, reported utility-weighted mRS (UW-mRS) instead. Additionally, LASTE was unique in adding mRS shift at 6 months as one of its primary outcomes. The UWmRS has been criticized for not capturing the individual variation in utility values within each mRS category [27]. It is more efficient than dichotomous mRS analysis, but less than its ordinal counterpart.
+
+Secondary outcomes were more evident, and studies had a wide range of outcomes they assessed at different time points. Heterogeneous depiction of ICH and vastly different timescales were adopted, ranging from 24h to 90 days. In terms of imaging outcomes other than TICI, infarct volume is another major evaluated outcome; however, the measurements differed greatly in modality and timing, ranging from CT perfusion at 36h to DWI-MRI at 72h. A few studies also looked at ischemic lesion water uptake. Reference tools for assessment of the quality of life outcome were sparse, varying between PHQ-4, PROMIS-10, EuroQol 5D-5L, and Neuro-Qol.
+
+An important point in LVO stroke with large early ischemic changes is that salvageable brain tissue is relatively dependent on how early reperfusion is acquired from the time of onset. As the time from last known normal remains possibly the most important modifiable factor, it varied however in the inclusion criteria across the studies. And while the rationale to prioritize shortening this time is understandable, ensuring a degree of standardization of treat- ment time from onset or at least of the other variables is needed to ascertain the conclusions.
+
+One additional interesting finding is that none of the trials expanded on the devices used, or whether tandem lesions should be included. A great deal of effort is allocated to the design and execution of clinical trials to determine the relevant data to collect and monitor over time using data management systems; however, idiosyncrasies often exist between the investigation forms and definitions of data points to be captured. Baseline ASPECTS and 90-day mRS score of each patient are collected in all studies, which may render meta-analyses based on individual patient data feasible. The range of ASPECTS as inclusion criteria and the range of mRS score as primary outcome, however, differ significantly among studies. This presents a challenge for researchers to combine data from individual studies and aggregate results of trials, which then makes it challenging to produce quality meta-analyses that foster important and much-needed data to inform clinical guidelines that can establish a definitive, evidence-based treatment for ischemic stroke with large core infarct.
+
+Given the implications of this topic on the future of ischemic stroke therapy, which could affect a large number of stroke patients worldwide, harmonization of data elements and definitions across RCTs is imperative. This aligns with NIH, UK, and international efforts [28, 29]. Despite guidelines and recommendations for core, supplemental, and exploratory CDEs established by the National Institute of Neurological Disorders and Stroke (NINDS) for stroke clinical trials [30], there is currently little consensus on definitions and endpoints related to large core infarct stroke, and the need for a consortium regarding this considerable subpopulation of stroke patients is pressing. Adjustments to RCT protocols and a consensus on data element definitions and standardized reporting could save time, money, and resources. We therefore extend our invitation to the regulatory agencies, stakeholders, and investigators of current and future large core stroke trials to emphasize on harmonizing the conduct and reporting of said trials.
+
+Limitations
+
+A few limitations of our study are worthy of noting. Firstly, many trials lacked specificity in the type of thrombectomy used, or in the range of infarct volumes reported, which limits our ability to comment on specific modalities of treatment under the thrombectomy umbrella. Secondly, there was significant heterogeneity in the level of details within each of the study protocols that we used to tag studies, which may lead to bias in reporting results. For example, while some of the included studies disclosed clear descriptions of their endpoints, inclusion criteria, and therapeutic arm interventions, which facilitated accurate tagging, others lacked in-depth outcome reporting which might affect accurate comparison and assessment of elements in currently active trials.
+
+K
+
+[DOCLING_PAGE 10]
+
+M. S. Jabal et al.
+
+Conclusion
+
+The lack of consistent and common data element definitions, and interstudy uniformity between the current randomized controlled trials pertaining to the effectiveness and safety profile of EVT in management of ischemic stroke with LVO with large core infarct, renders any conclusive meta-analysis and systematic review on this topic difficult, and represents a hurdle for synthesizing essential and much needed clinical therapy recommendations and guidelines.
+
+Supplementary Information The online version of this article (https:// doi.org/10.1007/s00062-022-01239-x) contains supplementary material, which is available to authorized users.
+
+Funding This study has not received any specific grant from any funding agency in the public, commercial, or not-for-profit sectors.
+
+Conflict of interest J. Thurnham and R. Tarchand work for Nested Knowledge Inc. K.M. Kallmes works for and holds equity in Nested Knowledge Inc, works for Conway Medical LLC, and holds equity in Superior MedicalExperts Inc. N. Hardy works for and holds equity in Nested Knowledge Inc. J.J. Heit is a consultant for Medtronic and MicroVention and is a member of the scientific and medical advisory board for iSchemaView. D.F. Kallmes has ownership in Nested Knowledge Inc, Superior Medical Experts Inc, and Conway Medical LLC; research support from Microvention, Balt USA, and Medtronic. M.S. Jabal, M.K. Ibrahim, H. Kobeissi, S. Ghozy, C. Bilgin and W. Brinjikji declare that they have no competing interests.
+
+References
+
+GBD 2019 Diseases and Injuries Collaborators. Global burden of 369 diseases and injuries in 204 countries and territories, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019. Lancet. 2020;396:1204-22. Erratum in: Lancet. 2020;396:1562.
+
+Powers WJ, Rabinstein AA, Ackerson T, Adeoye OM, Bambakidis NC, Becker K, Biller J, Brown M, Demaerschalk BM, Hoh B, Jauch EC, Kidwell CS, Leslie-Mazwi TM, Ovbiagele B, Scott PA, Sheth KN, Southerland AM, Summers DV, Tirschwell DL. Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 Update to the 2018 Guidelines for the Early Management of Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. Stroke. 2019;50:e344-418. Erratum in: Stroke. 2019;50:e440-1.
+
+Jovin TG, Chamorro A, Cobo E, de Miquel MA, Molina CA, Rovira A, San Román L, Serena J, Abilleira S, Ribó M, Millán M, Urra X, Cardona P, López-Cancio E, Tomasello A, Castaño C, Blasco J, Aja L, Dorado L, Quesada H, Rubiera M, HernandezPérez M, Goyal M, Demchuk AM, von Kummer R, Gallofré M, Dávalos A; REVASCAT Trial Investigators. Thrombectomy within 8 hours after symptom onset in ischemic stroke. N Engl J Med. 2015;372:2296-306.
+
+Nogueira RG, Jadhav AP, Haussen DC, Bonafe A, Budzik RF, Bhuva P, Yavagal DR, Ribo M, Cognard C, Hanel RA, Sila CA,
+
+K
+
+Hassan AE, Millan M, Levy EI, Mitchell P, Chen M, English JD, Shah QA, Silver FL, Pereira VM, Mehta BP, Baxter BW, Abraham MG, Cardona P, Veznedaroglu E, Hellinger FR, Feng L, Kirmani JF, Lopes DK, Jankowitz BT, Frankel MR, Costalat V, Vora NA, Yoo AJ, Malik AM, Furlan AJ, Rubiera M, Aghaebrahim A, Olivot JM, Tekle WG, Shields R, Graves T, Lewis RJ, Smith WS, Liebeskind DS, Saver JL, Jovin TG; DAWN Trial Investigators. Thrombectomy 6 to 24 Hours after Stroke with a Mismatch between Deficit and Infarct. N Engl J Med. 2018;378:11-21.
+
+Goyal M, Menon BK, van Zwam WH, Dippel DW, Mitchell PJ, Demchuk AM, Dávalos A, Majoie CB, van der Lugt A, de Miquel MA, Donnan GA, Roos YB, Bonafe A, Jahan R, Diener HC, van den Berg LA, Levy EI, Berkhemer OA, Pereira VM, Rempel J, Millán M, Davis SM, Roy D, Thornton J, Román LS, Ribó M, Beumer D, Stouch B, Brown S, Campbell BC, van Oostenbrugge RJ, Saver JL, Hill MD, Jovin TG; HERMES collaborators. Endovascular thrombectomy after large-vessel ischaemic stroke: a meta-analysis of individual patient data from five randomised trials. Lancet. 2016;387:1723-31.
+
+Albers GW, Marks MP, Kemp S, Christensen S, Tsai JP, OrtegaGutierrez S, McTaggart RA, Torbey MT, Kim-Tenser M, LeslieMazwi T, Sarraj A, Kasner SE, Ansari SA, Yeatts SD, Hamilton S, Mlynash M, Heit JJ, Zaharchuk G, Kim S, Carrozzella J, Palesch YY, Demchuk AM, Bammer R, Lavori PW, Broderick JP, Lansberg MG; DEFUSE 3 Investigators. Thrombectomy for Stroke at 6 to 16 Hours with Selection by Perfusion Imaging. N Engl J Med. 2018;378:708-18.
+
+Powers WJ, Derdeyn CP, Biller J, Coffey CS, Hoh BL, Jauch EC, Johnston KC, Johnston SC, Khalessi AA, Kidwell CS, Meschia JF, Ovbiagele B, Yavagal DR; American Heart Association Stroke Council. 2015 American Heart Association/American Stroke Association Focused Update of the 2013 Guidelines for the Early Management of Patients With Acute Ischemic Stroke Regarding Endovascular Treatment: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. Stroke. 2015;46:3020-35.
+
+Román LS, Menon BK, Blasco J, Hernández-Pérez M, Dávalos A, Majoie CBLM, Campbell BCV, Guillemin F, Lingsma H, Anxionnat R, Epstein J, Saver JL, Marquering H, Wong JH, Lopes D, Reimann G, Desal H, Dippel DWJ, Coutts S, du Mesnil de Rochemont R, Yavagal D, Ferre JC, Roos YBWEM, Liebeskind DS, Lenthall R, Molina C, Al Ajlan FS, Reddy V, Dowlatshahi D, Sourour NA, Oppenheim C, Mitha AP, Davis SM, Weimar C, van Oostenbrugge RJ, Cobo E, Kleinig TJ, Donnan GA, van der Lugt A, Demchuk AM, Berkhemer OA, Boers AMM, Ford GA, Muir KW, Brown BS, Jovin T, van Zwam WH, Mitchell PJ, Hill MD, White P, Bracard S, Goyal M; HERMES collaborators. Imaging features and safety and efficacy of endovascular stroke treatment: a meta-analysis of individual patient-level data. Lancet Neurol. 2018;17:895-904. Erratum in: Lancet Neurol. 2018;17:e2-3.
+
+Leslie-Mazwi TM, Altschul D, Simonsen CZ. Thrombectomy for Patients With Large Infarct Core in Practice: Where Should the Pendulum Swing? Stroke. 2021;52:3118-20.
+
+Ren Z, Huo X, Ma G, Tong X, Kumar J, Pressman E, Chen W, Yuan G, Wang AY, Wei M, Zhang J, Nan G, Zhu Q, Liu Y, Zhang L, Song W, Zhou Z, Wang G, Li T, Luo J, Wang E, Ling W, Ju D, Song C, Liu SD, Gui L, Li T, Liu Y, Zhao J, Guo Z, Zheng H, Sun Y, Xu N, Wang YJ, Miao Z; ANGEL-ASPECT Investigators and ANGEL-ASPECT Steering Committee. Selection criteria for large core trials: rationale for the ANGEL-ASPECT study design. J Neurointerv Surg. 2022;14:107-10.
+
+Jadhav AP, Hacke W, Dippel DWJ, Simonsen CZ, Costalat V, Fiehler J, Thomalla G, Bendszus M, Andersson T, Mattle HP, Leslie-Mazwi TM, Mokin M, Yoo AJ, Zaidat OO, Sheth SA, Jovin TG, Liebeskind D. Select wisely: the ethical challenge of defining
+
+[DOCLING_PAGE 11]
+
+Common Data Elements Analysis of Mechanical Thrombectomy Clinical Trials for Acute Ischemic Stroke with Large Core Infarct
+
+large core with perfusion in the early time window. J Neurointerv Surg. 2021;13:497-9.
+
+Sarraj A, Campbell B, Ribo M, Hussain MS, Chen M, Abraham MG, Lansberg MG, Mendes Pereira V, Blackburn S, Sitton CW, Budzik RF, Pérez de la Ossa N, Arenillas JF, Wu T, Blasco J, Mullen M, Schaafsma J, Tsai JP, Sangha N, Kozak O, Gibson D, Warach S, Cordato D, Manning NW, Kleinig TJ, Olivot JM, Elijovich L, Tsivgoulis G, Alexandrov A, Jabbour P, Yan B, Kasner SE, Arthur AS, Parsons M, Grotta JC, Hassan AE, Albers GW; SELECT2 Investigators and SELECT2 Steering Committee. SELECTion criteria for large core trials: dogma or data? J Neurointerv Surg. 2021;13:500-4.
+
+Tugwell P, Boers M, Brooks P, Simon L, Strand V, Idzerda L. OMERACT: an international initiative to improve outcome measurement in rheumatology. Trials. 2007;8:38.
+
+Ioannidis JP, Horbar JD, Ovelman CM, Brosseau Y, Thorlund K, Buus-Frank ME, Mills EJ, Soll RF. Completeness of main outcomes across randomized trials in entire discipline: survey of chronic lung disease outcomes in preterm infants. BMJ. 2015; 350:h72.
+
+Harburg L, McCormack E, Kenney K, Moore C, Yang K, Vos P, Jacobs B, Madden CJ, Diaz-Arrastia R, Bogoslovsky T. Reliability of the NINDS common data elements cranial tomography (CT) rating variables for traumatic brain injury (TBI). Brain Inj. 2017;31:174-84.
+
+Williamson PR, Altman DG, Blazeby JM, Clarke M, Devane D, Gargon E, Tugwell P. Developing core outcome sets for clinical trials: issues to consider. Trials. 2012;13:132.
+
+Koroshetz W. A core set of trial outcomes for every medical discipline? BMJ. 2015;350:h85.
+
+Nested Knowledge. Large core/low ASPECTS Thrombectomy trials. https://nested-knowledge.com/nest/qualitative/797. Accessed 20 Apr 2022.
+
+Efficacy and Safety of Thrombectomy in Stroke With Extended Lesion and Extended Time Window (Tension). ClinicalTrials.gov Identifier: NCT03094715. https://clinicaltrials.gov/ct2/show/ NCT03094715. Accessed 20 Apr 2022.
+
+Yoshimura S, Uchida K, Sakai N, Yamagami H, Inoue M, Toyoda K, Matsumaru Y, Matsumoto Y, Kimura K, Ishikura R, Morimoto T. Randomized Clinical Trial of Endovascular Therapy for Acute Large Vessel Occlusion with Large Ischemic Core (RESCUE-Japan LIMIT): Rationale and Study Protocol. Neurol Med Chir (Tokyo). 2022;62:156-64.
+
+Large Stroke Therapy Evaluation (LASTE). ClinicalTrials.gov Identifier: NCT03811769. https://clinicaltrials.gov/ct2/show/ NCT03811769. Accessed 20 Apr 2022.
+
+The TESLA Trial: Thrombectomy for Emergent Salvage of Large Anterior Circulation Ischemic Stroke (TESLA). ClinicalTrials.gov Identifier: NCT03805308. https://clinicaltrials.gov/ct2/ show/NCT03805308. Accessed 20 Apr 2022.
+
+SELECT2: A Randomized Controlled Trial to Optimize Patient's Selection for Endovascular Treatment in Acute Ischemic Stroke (SELECT2). ClinicalTrials.gov Identifier: NCT03876457. https:// clinicaltrials.gov/ct2/show/NCT03876457. Accessed 20 Apr 2022.
+
+Study of Endovascular Therapy in Acute Anterior Circulation Large Vessel Occlusive Patients With a Large Infarct Core (ANGEL-ASPECT). ClinicalTrials.gov Identifier: NCT04551664. https://clinicaltrials.gov/ct2/show/NCT04551664. Accessed 20 Apr 2022.
+
+Improving Low ASPECTS Stroke Thrombectomy (I-LAST). ClinicalTrials.gov Identifier: NCT04862507. https://clinicaltrials.gov/ ct2/show/NCT04862507. Accessed 20 Apr 2022.
+
+Kallmes DF, Rabinstein A, Brinjikji W. Letter by Kallmes et al Regarding Article, 'Mechanical Thrombectomy in Ischemic Stroke Patients With Alberta Stroke Program Early Computed Tomography Score 0-5'. Stroke. 2019;50:e219.
+
+Dijkland SA, Voormolen DC, Venema E, Roozenbeek B, Polinder S, Haagsma JA, Nieboer D, Chalos V, Yoo AJ, Schreuders J, van der Lugt A, Majoie CBLM, Roos YBWEM, van Zwam WH, van Oostenbrugge RJ, Steyerberg EW, Dippel DWJ, Lingsma HF; MR CLEAN Investigators. Utility-Weighted Modified Rankin Scale as Primary Outcome in Stroke Trials: A Simulation Study. Stroke. 2018;49:965-71.
+
+Budhdeo S, Chari A, Harrison O, Blazeby J. Patient-centred healthcare outcome measures: towards a unified architecture. J R Soc Med. 2014;107:300-2.
+
+Grinnon ST, Miller K, Marler JR, Lu Y, Stout A, Odenkirchen J, Kunitz S. National Institute of Neurological Disorders and Stroke Common Data Element Project - approach and methods. Clin Trials. 2012;9:322-9.
+
+https://www.commondataelements.ninds.nih.gov/sites/nindscde/ files/Doc/Stroke/Stroke_CDE_Highlight_Summary.pdf. Accessed 20 Apr 2022.
+
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+
+K

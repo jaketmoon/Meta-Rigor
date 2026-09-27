@@ -1,0 +1,646 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="brb371576" xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Brain Behav</journal-id><journal-id journal-id-type="iso-abbrev">Brain Behav</journal-id><journal-id journal-id-type="pmc-domain-id">1650</journal-id><journal-id journal-id-type="pmc-domain">brb</journal-id><journal-id journal-id-type="nlm-id">101570837</journal-id><journal-id journal-id-type="publisher-id">BRB3</journal-id><journal-title-group><journal-title>Brain and Behavior</journal-title></journal-title-group><issn pub-type="epub">2162-3279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13348439</article-id><article-id pub-id-type="pmcid-ver">PMC13348439.1</article-id><article-id pub-id-type="pmcaid">13348439</article-id><article-id pub-id-type="pmcaiid">13348439</article-id><article-id pub-id-type="pmid">42423424</article-id><article-id pub-id-type="doi">10.1002/brb3.71576</article-id><article-id pub-id-type="publisher-id">BRB371576</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Adjunctive Minocycline in Acute Ischemic Stroke: A Systematic Review and Meta‐Analysis of Randomized Controlled Trials</article-title></title-group><contrib-group><contrib id="brb371576-cr-0001" contrib-type="author"><name name-style="western"><surname>Khalid</surname><given-names initials="S">Samaha</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0006-1726-0484</contrib-id><xref rid="brb371576-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb371576-cr-0002" contrib-type="author"><name name-style="western"><surname>Abbas</surname><given-names initials="MAA">Malik Aon Ali</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0000-8034-9090</contrib-id><xref rid="brb371576-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb371576-cr-0003" contrib-type="author"><name name-style="western"><surname>Shahid</surname><given-names initials="MS">Muhammad Sohaib</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0003-7597-6876</contrib-id><xref rid="brb371576-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="brb371576-cr-0004" contrib-type="author"><name name-style="western"><surname>Malik</surname><given-names initials="MNMA">Muhammad Nihal Moarij Azeem</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0001-4510-3826</contrib-id><xref rid="brb371576-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb371576-cr-0005" contrib-type="author"><name name-style="western"><surname>Javed</surname><given-names initials="M">Mahnoor</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0000-4679-000X</contrib-id><xref rid="brb371576-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="brb371576-cr-0006" contrib-type="author"><name name-style="western"><surname>Rehman</surname><given-names initials="A">Abdur</given-names></name><xref rid="brb371576-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="brb371576-cr-0007" contrib-type="author"><name name-style="western"><surname>Ashraf</surname><given-names initials="S">Saad</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2125-7043</contrib-id><xref rid="brb371576-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="brb371576-cr-0008" contrib-type="author"><name name-style="western"><surname>Tariq</surname><given-names initials="MD">Muhammad Daoud</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0003-7769-5592</contrib-id><xref rid="brb371576-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb371576-cr-0009" contrib-type="author" corresp="yes"><name name-style="western"><surname>Rai</surname><given-names initials="D">Deepak</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0006-3766-3096</contrib-id><xref rid="brb371576-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><address><email>Deepakrai9812@gmail.com</email></address></contrib></contrib-group><aff id="brb371576-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Internal Medicine</named-content>
+<institution>Foundation University Medical College</institution>
+<city>Islamabad</city>
+<country country="PK">Pakistan</country>
+</aff><aff id="brb371576-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Medical College</named-content>
+<institution>Aga Khan University</institution>
+<city>Karachi</city>
+<country country="PK">Pakistan</country>
+</aff><aff id="brb371576-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of ENT and Head and Neck Surgery</named-content>
+<institution>Benazir Bhutto Hospital</institution>
+<city>Rawalpindi</city>
+<country country="PK">Pakistan</country>
+</aff><aff id="brb371576-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<institution>Dow University of Health Sciences</institution>
+<city>Karachi</city>
+<country country="PK">Pakistan</country>
+</aff><aff id="brb371576-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>National Academy of Medical Sciences</institution>
+<institution>Bir Hospital</institution>
+<city>Kathmandu</city>
+<country country="NP">Nepal</country>
+</aff><pub-date pub-type="epub"><day>09</day><month>7</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>7</month><year>2026</year></pub-date><volume>16</volume><issue seq="120">7</issue><issue-id pub-id-type="pmc-issue-id">516980</issue-id><issue-id pub-id-type="doi">10.1002/brb3.v16.7</issue-id><elocation-id>e71576</elocation-id><pub-history><event event-type="pmc-release"><date><day>09</day><month>07</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>10</day><month>07</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-07-10 11:25:19.153"><day>10</day><month>07</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Brain and Behavior</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="BRB3-16-e71576.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:BRB3-16-e71576.pdf"/><abstract><title>ABSTRACT</title><sec id="brb371576-sec-0010"><title>Background</title><p>Acute ischemic stroke (AIS) is a leading cause of mortality and long‐term disability worldwide. Despite advances in acute stroke management, many patients continue to experience substantial neurological disability and incomplete recovery. Minocycline, a tetracycline antibiotic with anti‐inflammatory and neuroprotective properties and good blood–brain barrier penetration, has been investigated as a potential adjunctive therapy in AIS.</p></sec><sec id="brb371576-sec-0020"><title>Methods</title><p>A systematic search of major databases was conducted identifying randomized controlled trials evaluating minocycline in patients with AIS. Outcomes included functional and neurological recovery assessed using the modified Rankin Scale (mRS), National Institutes of Health Stroke Scale (NIHSS), and Barthel index (BI), as well as mortality and vascular events. Pooled effect estimates were calculated using random‐effects meta‐analysis.</p></sec><sec id="brb371576-sec-0030"><title>Results</title><p>Seven RCTs comprising 2197 patients were included, with 1093 receiving minocycline and 1104 receiving placebo or standard care. Functional independence at 3 months (mRS 0–2) showed no significant difference between groups (RR 1.28, 95% CI 0.97–1.69; <italic toggle="yes">I</italic>
+<sup>2</sup> = 84.9%). Minocycline was associated with lower NIHSS scores (MD −2.45, 95% CI −4.32 to −0.59; <italic toggle="yes">I</italic>
+<sup>2</sup> = 88.6%) and higher BI scores (MD 12.52, 95% CI 6.28–18.76; <italic toggle="yes">I</italic>
+<sup>2</sup> = 47.0%). Mortality (RR 0.66, 95% CI 0.39–1.090 and stroke recurrence or MI showed no significant differences (RR 0.97, 95% CI 0.69–1.37).</p></sec><sec id="brb371576-sec-0040"><title>Conclusions</title><p>Although a consistent improvement in functional independence was not demonstrated, minocycline showed signals of benefit in selected neurological outcomes with a favorable safety profile. These findings support the need for adequately powered, multicenter randomized trials to clarify its therapeutic role.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="brb371576-kwd-0001">acute ischemic stroke</kwd><kwd id="brb371576-kwd-0002">minocycline</kwd><kwd id="brb371576-kwd-0003">neuroprotection</kwd><kwd id="brb371576-kwd-0004">randomized controlled trials</kwd><kwd id="brb371576-kwd-0005">recovery</kwd></kwd-group><counts><fig-count count="2"/><table-count count="3"/><page-count count="12"/><word-count count="6171"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.8.3 mode:remove_FC converted:09.07.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="brb371576-sec-0050"><label>1</label><title>Introduction</title><p>Acute ischemic stroke (AIS) is a medical emergency characterized by the sudden loss of brain function resulting from disruption of cerebral blood flow (Laurent et al. <xref rid="brb371576-bib-0016" ref-type="bibr">2025</xref>). Given the rapid progression of neuronal injury following ischemia, early recognition and timely intervention are critical to minimize brain damage and prevent adverse outcomes (Mendelson and Prabhakaran <xref rid="brb371576-bib-0021" ref-type="bibr">2021</xref>).</p><p>AIS is diagnosed clinically and confirmed with neuroimaging, most commonly non‐contrast computed tomography (CT), which is mainly used to exclude intracranial hemorrhage (Musuka et al. <xref rid="brb371576-bib-0023" ref-type="bibr">2015</xref>). Current management includes evidence‐based acute interventions and supportive care aimed at reducing neurological injury and improving functional recovery (NICE <xref rid="brb371576-bib-0026" ref-type="bibr">2022</xref>). Despite advancements in stroke treatment, many patients continue to experience substantial disability and incomplete neurological recovery. These ongoing challenges highlight the need for adjunctive therapeutic strategies that target secondary injury mechanisms and promote recovery after stroke.</p><p>Neuroprotective agents aim to mitigate secondary brain injury by targeting key mechanisms within the ischemic cascade, including excitotoxicity, oxidative stress, inflammation, and apoptosis (Vos et al. <xref rid="brb371576-bib-0049" ref-type="bibr">2022</xref>). Among these, minocycline is of particular interest due to its high lipophilicity, which facilitates blood–brain barrier penetration, as well as its low cost and favorable safety profile (Fagan et al. <xref rid="brb371576-bib-0009" ref-type="bibr">2011</xref>). These characteristics support its investigation as a potential adjunctive therapy in AIS.</p><p>Previous systematic reviews and meta‐analyses (Malhotra et al. <xref rid="brb371576-bib-0019" ref-type="bibr">2018</xref>) evaluating minocycline in acute stroke have reported inconclusive and heterogeneous findings, with inconsistent results across randomized controlled trials, likely due to small sample sizes, variability in treatment protocols, and methodological limitations. These uncertainties, alongside calls for larger, well‐designed trials, have limited the reliability of prior conclusions.</p><p>Recently, the EMPHASIS trial, a large multicenter, double‐blind randomized controlled trial demonstrated a significant improvement in functional outcomes with minocycline without safety concerns, providing robust new evidence that may influence existing conclusions (Lu et al. <xref rid="brb371576-bib-0017" ref-type="bibr">2026</xref>). Accordingly, an updated systematic review and meta‐analysis is warranted to incorporate this evidence and provide a more precise evaluation of its efficacy and safety.</p></sec><sec id="brb371576-sec-0060"><label>2</label><title>Methods</title><sec id="brb371576-sec-0070"><label>2.1</label><title>Protocol Registration</title><p>This systematic review and meta‐analysis was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta‐Analyses (PRISMA) guidelines (Page et al. <xref rid="brb371576-bib-0027" ref-type="bibr">2021</xref>).</p><p>The primary objective was to systematically evaluate the safety and efficacy of minocycline in management of AIS through quantitative synthesis of evidence from randomized controlled trials. The protocol was prospectively registered with PROSPERO (CRD420261321955).</p></sec><sec id="brb371576-sec-0080"><label>2.2</label><title>Study Sources and Search Strategy</title><p>A comprehensive electronic search was carried out using a variety of databases, including Web of Science, PubMed, Embase, Google Scholar, Scopus, and Cochrane Central Register of Controlled Trials (CENTRAL), from inception to February 17, 2026. The search string utilized a combination of Medical Subject Headings (MeSH) and free‐text keywords including “Stroke,” “AIS,” “Ischemic stroke,” “Minocycline,” and “Cerebral infarction.” Boolean operators (AND, OR) were applied to maximize sensitivity. To ensure literature saturation, reference lists of identified trials and prior meta‐analyses were manually screened. Gray literature, including conference abstracts and trial registry records, was considered where relevant. Only studies published in English were included due to resource constraints for translation, which may have introduced language bias. The full search strategy for each database is archived in Table <xref rid="brb371576-supinfo-0001" ref-type="">S1</xref>.</p></sec><sec id="brb371576-sec-0090"><label>2.3</label><title>Eligibility Criteria</title><p>Eligibility criteria were predefined according to the Population, Intervention, Comparator, Outcomes, and Study designs (PICOS) framework to ensure structured and transparent study selection process. Randomized controlled trials evaluating minocycline as a therapeutic intervention in patients with AIS were considered eligible. Included studies were required to report at least one efficacy outcome or one safety outcome. Studies were excluded if they lacked comparator or focused exclusively on hemorrhagic stroke or were observational studies, reviews, editorials, or case reports. In addition, the studies, which did not provide sufficient data for quantitative synthesis or included mixed stroke populations without extractable data specific to AIS patients, were also excluded.</p></sec><sec id="brb371576-sec-0100"><label>2.4</label><title>Study Selection</title><p>All records identified through the database search were imported into Rayyan AI, and detected duplicates were removed by the reviewers (Ouzzani et al. <xref rid="brb371576-bib-0043" ref-type="bibr">2016</xref>) . Titles and abstracts were screened to identify potentially eligible studies, followed by full‐text assessment against the predefined eligibility criteria. Study selection was conducted independently by two reviewers (A.A.A and S.K.), from initial literature search to final inclusion of study, and disagreements were resolved through discussion and consensus with a third author (MSS). The study selection process was documented in accordance with PRISMA guidelines and presented in a PRISMA flow diagram.</p></sec><sec id="brb371576-sec-0110"><label>2.5</label><title>Data Extraction</title><p>Data were extracted independently by two reviewers (A.A.A and S.K.) using a standardized form. Any disagreements were resolved through discussion and consensus, and where necessary a third reviewer was consulted (MSS). Extracted variables included study characteristics, participant demographics, intervention details (minocycline dosage and duration), comparator characteristics, reported outcomes, and follow‐up duration. Data were extracted on intention‐to‐treat (ITT) principles wherever possible. For dichotomous outcomes, event counts and total sample sizes were extracted. For continuous outcomes, means and standard deviations were extracted; where necessary, data were converted or estimated using standard methods.</p></sec><sec id="brb371576-sec-0120"><label>2.6</label><title>Quality Assessment</title><p>Risk of bias in the included studies was independently assessed by two reviewers (MNMAM, MJ) using the Cochrane Risk of Bias 2 (RoB 2) tool (Sterne et al. <xref rid="brb371576-bib-0046" ref-type="bibr">2019</xref>), which evaluates bias across five domains: the randomization process, deviations from intended interventions, missing outcome data, outcome measurement, and selection of reported results. Each study was classified as having low risk of bias, some concerns, or high risk of bias according to RoB 2 criteria. Discrepancies between reviewers were resolved through discussion and consensus. The certainty for evidence of each outcome was assessed using the GRADE approach, which incorporates risk of bias alongside inconsistency, indirectness, imprecision, and publication bias. A summary of findings table was generated to present the certainty of evidence for key outcomes.</p></sec><sec id="brb371576-sec-0130"><label>2.7</label><title>Outcomes</title><p>The primary efficacy outcomes were functional and neurological recovery at 3 months, including functional independence measured by a modified Rankin Scale (mRS) score of 0–2, neurological deficit assessed using the National Institutes of Health Stroke Scale (NIHSS), and functional performance measured by the Barthel index (BI). A favorable functional outcome, defined as an mRS score of 0–1 at 3 months, was assessed as an additional outcome where reported. Exploratory analyses were conducted at earlier follow‐up intervals (5–7 days and 30 days) where data were available. Secondary safety outcomes included all‐cause mortality and recurrent stroke or myocardial infarction.</p></sec><sec id="brb371576-sec-0140"><label>2.8</label><title>Statistical Analysis</title><p>Statistical analyses were performed using R software (version 2025.05.1 + 513) with the meta package (). For dichotomous outcomes, pooled effect estimates were calculated as risk ratios (RRs) with 95% confidence intervals (CIs) using the Mantel–Haenszel method, while mean differences (MDs) were used for continuous outcomes measured on the same scale. Meta‐analyses were conducted using a random‐effects model to account for potential clinical and methodological heterogeneity across studies, with between‐study variance (<italic toggle="yes">τ</italic>
+<sup>2</sup>) estimated using the Paule–Mandel method.</p><p>Statistical heterogeneity was assessed using the Cochran Q test and quantified using the <italic toggle="yes">I</italic>
+<sup>2</sup> statistics, with values of 25%, 50%, and 75% representing low, moderate, and high heterogeneity, respectively (Higgins et al. <xref rid="brb371576-bib-0011" ref-type="bibr">2003</xref>). When studies reported zero events in one treatment arm, a continuity correction of 0.5 was applied to enable effect size estimation.</p><p>Sensitivity analyses were performed using a leave‐one‐out approach to evaluate the influence of individual studies on pooled estimates. Baujat plots were generated to examine the contribution of individual studies to overall heterogeneity. Subgroup analysis was not performed due to limited number of included studies and insufficient data to allow meaningful comparisons. Publication bias was not formally assessed due to the limited number of included studies per outcome (&lt; 10), as funnel plots and statistical tests for asymmetry are unreliable in such cases (Higgins et al. <xref rid="brb371576-bib-0045" ref-type="bibr">2019</xref>) All statistical tests were two‐sided, and <italic toggle="yes">p</italic> value of &lt; 0.05 was considered statistically significant.</p></sec></sec><sec id="brb371576-sec-0150"><label>3</label><title>Results</title><sec id="brb371576-sec-0160"><label>3.1</label><title>Study Selection and Characteristics</title><p>The initial electronic search identified 1042 potentially relevant citations. Following the removal of duplicates and irrelevant records, including case reports, editorials, review articles, and wrong titles, 566 records were further screened. The records were further excluded as they lacked proper comparator or wrong population, and 17 records underwent full‐text evaluation. One record was removed as it lacked proper outcome (Switzer et al. <xref rid="brb371576-bib-0047" ref-type="bibr">2011</xref>) Three of the records included patients with intracranial hemorrhage and hence were excluded (Kohler et al. <xref rid="brb371576-bib-0013" ref-type="bibr">2013</xref>; Chang et al. <xref rid="brb371576-bib-0006" ref-type="bibr">2017</xref>; Fouda et al. <xref rid="brb371576-bib-0010" ref-type="bibr">2017</xref>). After careful evaluation, 7 randomized controlled trials were included which had relevant comparators and results (Lu et al. <xref rid="brb371576-bib-0017" ref-type="bibr">2026</xref>; Lampl et al. <xref rid="brb371576-bib-0015" ref-type="bibr">2007</xref>; Padma Srivastava et al. <xref rid="brb371576-bib-0048" ref-type="bibr">2012</xref>); Blacker et al. <xref rid="brb371576-bib-0003" ref-type="bibr">2013</xref>; Amiri‐Nikpour et al. <xref rid="brb371576-bib-0001" ref-type="bibr">2015</xref>; Shamsaei and Mohammadi <xref rid="brb371576-bib-0033" ref-type="bibr">2017</xref>; Singh et al. <xref rid="brb371576-bib-0035" ref-type="bibr">2019</xref>). The PRISMA flow diagram detailing the attrition of studies is presented in Figure <xref rid="brb371576-fig-0001" ref-type="fig">1</xref>.</p><fig position="float" fig-type="FIGURE" id="brb371576-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>PRISMA flowchart.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="BRB3-16-e71576-g001.jpg"/></fig><p>The total pooled cohort consisted of 2197 patients, of whom 1093 were on minocycline therapy in addition to standard stroke management compared with 1104 on placebo for acute ischemicstroke. Baseline demographics and clinical characteristics were generally comparable between the treatment and control groups across the included studies, including age and the prevalence of common vascular risk factors such as hypertension, diabetes mellitus, and dyslipidemia. Comprehensive study characteristics and patient‐level baseline data are provided in Tables <xref rid="brb371576-tbl-0001" ref-type="table">1</xref> and <xref rid="brb371576-tbl-0002" ref-type="table">2</xref>.</p><table-wrap position="float" id="brb371576-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Baseline characteristics of studies included. Comparison of minocycline versus placebo in acute ischemic stroke (AIS).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th rowspan="2" align="left" colspan="1">Study</th><th rowspan="2" align="center" colspan="1">Year</th><th rowspan="2" align="center" colspan="1">Origin</th><th colspan="2" align="center" rowspan="1">No. of patients</th><th rowspan="2" align="center" colspan="1">Minocycline dose</th><th rowspan="2" align="center" colspan="1">Route, duration of treatment</th><th rowspan="2" align="center" colspan="1">Minocycline administration from symptoms onset, hours</th><th rowspan="2" align="center" colspan="1">Outcomes</th></tr><tr><th align="center" rowspan="1" colspan="1">Minocycline</th><th align="center" rowspan="1" colspan="1">Placebo</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Amiri‐Nikpour et al.</td><td align="center" rowspan="1" colspan="1">2015</td><td align="center" rowspan="1" colspan="1">Iran</td><td align="center" rowspan="1" colspan="1">26</td><td align="center" rowspan="1" colspan="1">27</td><td align="center" rowspan="1" colspan="1">200 mg, once daily</td><td align="center" rowspan="1" colspan="1">Oral, 5 days</td><td align="center" rowspan="1" colspan="1">6–24 h</td><td align="center" rowspan="1" colspan="1">NIHSS</td></tr><tr><td align="left" rowspan="1" colspan="1">Blacker et al.</td><td align="center" rowspan="1" colspan="1">2013</td><td align="center" rowspan="1" colspan="1">Australia</td><td align="center" rowspan="1" colspan="1">21</td><td align="center" rowspan="1" colspan="1">23</td><td align="center" rowspan="1" colspan="1">200 mg, twice daily</td><td align="center" rowspan="1" colspan="1">IV, 5 doses</td><td align="center" rowspan="1" colspan="1">&lt; 6 h</td><td align="center" rowspan="1" colspan="1">NIHSS, mRS, BI</td></tr><tr><td align="left" rowspan="1" colspan="1">Lampl et al.</td><td align="center" rowspan="1" colspan="1">2007</td><td align="center" rowspan="1" colspan="1">Israel</td><td align="center" rowspan="1" colspan="1">74</td><td align="center" rowspan="1" colspan="1">77</td><td align="center" rowspan="1" colspan="1">200 mg, once daily</td><td align="center" rowspan="1" colspan="1">Oral, 5 days</td><td align="center" rowspan="1" colspan="1">6–24 h</td><td align="center" rowspan="1" colspan="1">NIHSS, mRS, BI</td></tr><tr><td align="left" rowspan="1" colspan="1">Lu et al.</td><td align="center" rowspan="1" colspan="1">2026</td><td align="center" rowspan="1" colspan="1">China</td><td align="center" rowspan="1" colspan="1">862</td><td align="center" rowspan="1" colspan="1">862</td><td align="center" rowspan="1" colspan="1">200 mg, twice daily</td><td align="center" rowspan="1" colspan="1">Oral, 4 days</td><td align="center" rowspan="1" colspan="1">72 h</td><td align="center" rowspan="1" colspan="1">NIHSS, mRS, BI</td></tr><tr><td align="left" rowspan="1" colspan="1">Padma Srivastava et al.</td><td align="center" rowspan="1" colspan="1">2012</td><td align="center" rowspan="1" colspan="1">India</td><td align="center" rowspan="1" colspan="1">23</td><td align="center" rowspan="1" colspan="1">27</td><td align="center" rowspan="1" colspan="1">200 mg, once daily</td><td align="center" rowspan="1" colspan="1">Oral, 5 days</td><td align="center" rowspan="1" colspan="1">6–24 h</td><td align="center" rowspan="1" colspan="1">NIHSS, mRS, BI</td></tr><tr><td align="left" rowspan="1" colspan="1">Shamsaei et al.</td><td align="center" rowspan="1" colspan="1">2017</td><td align="center" rowspan="1" colspan="1">Iran</td><td align="center" rowspan="1" colspan="1">18</td><td align="center" rowspan="1" colspan="1">18</td><td align="center" rowspan="1" colspan="1">200 mg, once daily</td><td align="center" rowspan="1" colspan="1">Oral, 5 days</td><td align="center" rowspan="1" colspan="1">6–24 h</td><td align="center" rowspan="1" colspan="1">NIHSS</td></tr><tr><td align="left" rowspan="1" colspan="1">Singh et al.</td><td align="center" rowspan="1" colspan="1">2019</td><td align="center" rowspan="1" colspan="1">Singapore</td><td align="center" rowspan="1" colspan="1">69</td><td align="center" rowspan="1" colspan="1">70</td><td align="center" rowspan="1" colspan="1">200 mg, once daily</td><td align="center" rowspan="1" colspan="1">Oral, 5 days</td><td align="center" rowspan="1" colspan="1">3–48 h</td><td align="center" rowspan="1" colspan="1">mRS</td></tr></tbody></table><table-wrap-foot><fn id="brb371576-tbl1-note-0001"><p>Abbreviations: BI, Barthel index; IV, intravenous; mRS, modified Rankin Scale; NIHSS, National Institutes of Health Stroke Scale.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><table-wrap position="float" id="brb371576-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Baseline characteristics of patients included. Patient demographics and clinical characteristics by treatment group.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Trial</th><th align="center" rowspan="1" colspan="1">
+<p>Age (years) Mean ± SD</p>
+<p>Mino, Placebo</p>
+</th><th align="center" rowspan="1" colspan="1">
+<p>Males (%)</p>
+<p>Mino, Placebo</p>
+</th><th align="center" rowspan="1" colspan="1">
+<p>HTN (%)</p>
+<p>Mino, Placebo</p>
+</th><th align="center" rowspan="1" colspan="1">
+<p>DM (%)</p>
+<p>Mino, Placebo</p>
+</th><th align="center" rowspan="1" colspan="1">
+<p>HLD (%)</p>
+<p>Mino, Placebo</p>
+</th><th align="center" rowspan="1" colspan="1">
+<p>Smoker (%)</p>
+<p>Mino, Placebo</p>
+</th><th align="center" rowspan="1" colspan="1">
+<p>Prior AIS/TIA (%)</p>
+<p>Mino, Placebo</p>
+</th><th align="center" rowspan="1" colspan="1">
+<p>Prior heart disease (%)</p>
+<p>Mino, Placebo</p>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Amiri‐Nikpour et al.</td><td align="center" rowspan="1" colspan="1">65.23 ± 9, 66.52 ± 7.8</td><td align="center" rowspan="1" colspan="1">46.15, 48.14</td><td align="center" rowspan="1" colspan="1">69.23, 77.78</td><td align="center" rowspan="1" colspan="1">17.39, 29.62</td><td align="center" rowspan="1" colspan="1">46.15, 40.74</td><td align="center" rowspan="1" colspan="1">34.61, 37.03</td><td align="center" rowspan="1" colspan="1">19.23, 18.51</td><td align="center" rowspan="1" colspan="1">34.61, 29.62</td></tr><tr><td align="left" rowspan="1" colspan="1">Blacker et al.</td><td align="center" rowspan="1" colspan="1">68.26 ± 14.19, 68 ± 12.95</td><td align="center" rowspan="1" colspan="1">65.21, 60.86</td><td align="center" rowspan="1" colspan="1">47.82, 65.21</td><td align="center" rowspan="1" colspan="1">13.04, 30.43</td><td align="center" rowspan="1" colspan="1">52.17, 52.17</td><td align="center" rowspan="1" colspan="1">47.82, 47.82</td><td align="center" rowspan="1" colspan="1">13.04, 4.34</td><td align="center" rowspan="1" colspan="1">21.73/ 21.73</td></tr><tr><td align="left" rowspan="1" colspan="1">Lu et al.</td><td align="center" rowspan="1" colspan="1">64.67 ± 11.1, 64.3 ± 10.4</td><td align="center" rowspan="1" colspan="1">66.5, 67.1</td><td align="center" rowspan="1" colspan="1">64.3, 66.4</td><td align="center" rowspan="1" colspan="1">33.2, 32.5</td><td align="center" rowspan="1" colspan="1">43.9, 42.1</td><td align="center" rowspan="1" colspan="1">37.7, 41.6</td><td align="center" rowspan="1" colspan="1">27.6, 29.9</td><td align="center" rowspan="1" colspan="1">11, 13.2</td></tr><tr><td align="left" rowspan="1" colspan="1">Lampl et al.</td><td align="center" rowspan="1" colspan="1">67.2 ± 11.1, 66.2 ± 11.1</td><td align="center" rowspan="1" colspan="1">63.51, 66.23</td><td align="center" rowspan="1" colspan="1">60.81, 64.93</td><td align="center" rowspan="1" colspan="1">36.36, 25</td><td align="center" rowspan="1" colspan="1">24.32, 35.06</td><td align="center" rowspan="1" colspan="1">27.02, 31.16</td><td align="center" rowspan="1" colspan="1">22.97, 22.07</td><td align="center" rowspan="1" colspan="1">29.72, 31.16</td></tr><tr><td align="left" rowspan="1" colspan="1">Srivastava et al.</td><td align="center" rowspan="1" colspan="1">52.7 ± 15.3, 57 ± 14.2</td><td align="center" rowspan="1" colspan="1">56.52, 66.67</td><td align="center" rowspan="1" colspan="1">65.21, 70.37</td><td align="center" rowspan="1" colspan="1">17.39, 29.62</td><td align="center" rowspan="1" colspan="1">43.47, 44.44</td><td align="center" rowspan="1" colspan="1">30.43, 13.81</td><td align="center" rowspan="1" colspan="1">NR</td><td align="center" rowspan="1" colspan="1">26.08, 37.03</td></tr><tr><td align="left" rowspan="1" colspan="1">Shamsaei et al.</td><td align="center" rowspan="1" colspan="1">69 ± 10.3, 68 ± 10.3</td><td align="center" rowspan="1" colspan="1">44.44, 38.89</td><td align="center" rowspan="1" colspan="1">50, 55.56</td><td align="center" rowspan="1" colspan="1">50, 16.67</td><td align="center" rowspan="1" colspan="1">27.8, 33.33</td><td align="center" rowspan="1" colspan="1">33.33, 22.22</td><td align="center" rowspan="1" colspan="1">NR</td><td align="center" rowspan="1" colspan="1">NR</td></tr><tr><td align="left" rowspan="1" colspan="1">Singh et al.</td><td align="center" rowspan="1" colspan="1">61.5 ± 14.8, 62.6 ± 11.1</td><td align="center" rowspan="1" colspan="1">72.5, 74.3</td><td align="center" rowspan="1" colspan="1">73.9, 75.7</td><td align="center" rowspan="1" colspan="1">29.1, 38.5</td><td align="center" rowspan="1" colspan="1">39.2, 52.8</td><td align="center" rowspan="1" colspan="1">24.6, 35.7</td><td align="center" rowspan="1" colspan="1">4.4, 2.9</td><td align="center" rowspan="1" colspan="1">14.5, 7.2</td></tr></tbody></table><table-wrap-foot><fn id="brb371576-tbl2-note-0001"><p>Abbreviations: AIS, acute ischaemic stroke; DM, diabetes mellitus; HLD, hyperlipidaemia; HTN, hypertension; Mino, minocycline; TIA, transient ischemic attack.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="brb371576-sec-0170"><label>3.2</label><title>Risk of Bias</title><p>Risk of bias was assessed using the Cochrane RoB 2 tool. Overall, two trials were judged to be at low risk of bias, three had some concerns, and two were classified as high risk of bias. High risk of bias was primarily driven by deviations from intended interventions and concerns in outcome measurement. Detailed domain‐level assessments are provided in the summary (Figure <xref rid="brb371576-supinfo-0001" ref-type="">S1</xref>).</p></sec><sec id="brb371576-sec-0180"><label>3.3</label><title>Efficacy Outcomes</title><sec id="brb371576-sec-0190"><label>3.3.1</label><title>Modified Rankin Scale</title><p>The pooled random‐effects estimate for mRS (0–2) at 3 months was derived from five RCTs including 2082 participants (RR: 1.28, 95% CI 0.97–1.69) (Figure <xref rid="brb371576-fig-0002" ref-type="fig">2A</xref>). There was no statistically significant difference between groups. Substantial heterogeneity was observed across studies <italic toggle="yes">I<sup>2</sup>
+</italic> = 84.9% after excluding Lampl 2007 (Lampl et al. <xref rid="brb371576-bib-0015" ref-type="bibr">2007</xref>), it dropped to <italic toggle="yes">I<sup>2</sup>
+</italic> = 65.4% (Table <xref rid="brb371576-supinfo-0001" ref-type="">S2</xref>). Exploratory analyses at earlier follow‐up at 30 days showed comparable patterns with no significant differences observed (MD: −0.76; 95% CI: −1.65 to 0.13; <italic toggle="yes">I</italic>
+<sup>2</sup> = 89.9%) (Figure <xref rid="brb371576-supinfo-0001" ref-type="">S2</xref>).</p><fig position="float" fig-type="FIGURE" id="brb371576-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Forest plots illustrating the effects of minocycline in patients with acute ischemic stroke. Individual study estimates and pooled effects are presented with 95% confidence intervals (CIs) using a random‐effects model. Squares represent individual study estimates (size proportional to study weight), horizontal lines indicate 95% CIs, and the diamond represents the pooled effect estimate. (A) Forest plot showing the association of minocycline (compared to placebo) with 3‐month favorable functional outcome defined as mRS scores of 0–2. (B) Forest plot showing the association of minocycline (compared to placebo) with 90‐day NIHSS score. (C) Forest plot showing the pooled effect of minocycline on functional independence measured by the Barthel index (BI) in patients with acute ischemic stroke.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="BRB3-16-e71576-g002.jpg"/></fig><p>A favorable functional outcome at 3 months (defined as mRS score 0–1) was reported in five RCTs (RR: 1.39, 95% CI 0.73–2.67), indicating no statistically significant difference between groups (Figure <xref rid="brb371576-supinfo-0001" ref-type="">S3</xref>).</p></sec><sec id="brb371576-sec-0200"><label>3.3.2</label><title>NIHSS Score</title><p>The pooled random‐effects estimate for NIHSS at 3 months was derived from four RCTs including 290 participants (MD = −2.45, 95% CI −4.32 to −0.59), indicating lower NIHSS score in the minocycline group (Figure <xref rid="brb371576-fig-0002" ref-type="fig">2B</xref>). Substantial heterogeneity was observed (<italic toggle="yes">I</italic>
+<sup>2</sup> = 88.6%) after excluding Lampl 2007 (Lampl et al. <xref rid="brb371576-bib-0015" ref-type="bibr">2007</xref>) <italic toggle="yes">I</italic>
+<sup>2</sup> = 0 (Table <xref rid="brb371576-supinfo-0001" ref-type="">S2</xref>). Exploratory analyses at earlier follow‐up intervals showed no significant differences at 5–7 days (MD: −0.78; 95% CI: −1.62 to 0.06; <italic toggle="yes">I</italic>
+<sup>2</sup> = 44.4%) (Figure <xref rid="brb371576-supinfo-0001" ref-type="">S4</xref>) and 30 days (MD: −2.28; 95% CI: −5.75 to 1.19; <italic toggle="yes">I</italic>
+<sup>2</sup> = 91.0%) (Figure <xref rid="brb371576-supinfo-0001" ref-type="">S5</xref>).</p></sec><sec id="brb371576-sec-0210"><label>3.3.3</label><title>BI Score</title><p>The pooled random‐effects estimate for BI at 3 months was derived from three RCTs including 242 participants (MD = 12.52, 95% CI 6.28–18.76; <italic toggle="yes">p</italic> = &lt; 0.0001), indicating significantly higher BI scores in the minocycline group (Figure <xref rid="brb371576-fig-0002" ref-type="fig">2C</xref>). Moderate heterogeneity was observed (<italic toggle="yes">I</italic>
+<sup>2</sup> = 47.0%) after excluding Lampl 2007 (Lampl et al. <xref rid="brb371576-bib-0015" ref-type="bibr">2007</xref>) <italic toggle="yes">I</italic>
+<sup>2</sup>
+<italic toggle="yes">= 0</italic> (Table <xref rid="brb371576-supinfo-0001" ref-type="">S2</xref>). Exploratory analyses at earlier follow‐up intervals showed no statistically significant difference with pooled estimates at 5–7 days (MD: 13.47; 95% CI: −7.49 to 34.44; <italic toggle="yes">I</italic>
+<sup>2</sup> = 90.1%) (Figure <xref rid="brb371576-supinfo-0001" ref-type="">S6</xref>) and 30 days (MD: 11.49; 95% CI: −1.13 to 24.12; <italic toggle="yes">I</italic>
+<sup>2</sup> = 82.5%) (Figure <xref rid="brb371576-supinfo-0001" ref-type="">S7</xref>).</p></sec></sec><sec id="brb371576-sec-0220"><label>3.4</label><title>Safety Outcomes</title><sec id="brb371576-sec-0230"><label>3.4.1</label><title>Mortality</title><p>Mortality was reported in four RCTs, including 2036 participants. The pooled random‐effects estimate showed no statistically significant difference between groups (RR: 0.66; 95% CI: 0.39–1.09), with no heterogeneity observed across studies (Figure <xref rid="brb371576-supinfo-0001" ref-type="">S8</xref>). Although the point estimate was lower in the minocycline group, the CI was wide and included the possibility of no effect.</p></sec><sec id="brb371576-sec-0240"><label>3.4.2</label><title>Stroke Recurrence or Myocardial Infarction</title><p>Stroke recurrence or myocardial infarction was reported in four randomized controlled trials including 2040 participants. The pooled random‐effects estimate was (RR: 0.97; 95% CI 0.69–1.37), with no heterogeneity observed across studies (<italic toggle="yes">I</italic>
+<sup>2</sup> = 0%) (Figure <xref rid="brb371576-supinfo-0001" ref-type="">S9</xref>).</p><p>The certainty of evidence for key outcomes, assessed using the GRADE approach, is summarized in the Summary of Findings table (Table <xref rid="brb371576-tbl-0003" ref-type="table">3</xref>). Overall, the certainty of evidence was low for functional and neurological outcomes, including mRS (0–2), NIHSS, and BI, primarily due to substantial heterogeneity and imprecision. In contrast, the certainty of evidence was moderate for mortality and recurrent vascular events, although these outcomes showed no significant difference between groups.</p><table-wrap position="float" id="brb371576-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Summary of findings.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr><th colspan="7" align="left" rowspan="1">
+<bold>Certainty assessment</bold>
+</th><th colspan="2" align="center" rowspan="1">
+<bold>№ of patients</bold>
+</th><th colspan="2" align="center" rowspan="1">
+<bold>Effect</bold>
+</th><th rowspan="2" align="center" colspan="1">
+<bold>Certainty</bold>
+</th><th rowspan="2" align="center" colspan="1">
+<bold>Importance</bold>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">
+<bold>№ of studies</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Study design</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Risk of bias</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Inconsistency</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Indirectness</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Imprecision</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Other considerations</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Minocycline</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Placebo</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Relative (95% CI)</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Absolute (95% CI)</bold>
+</th></tr></thead><tbody><tr><td colspan="13" align="left" rowspan="1">
+<bold>Functional independence; mRS (score 0–2) (follow‐up: mean 3 months)</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">Randomized trials</td><td align="center" rowspan="1" colspan="1">Serious<sup>a</sup>
+</td><td align="center" rowspan="1" colspan="1">Serious<sup>b</sup>
+</td><td align="center" rowspan="1" colspan="1">Not serious</td><td align="center" rowspan="1" colspan="1">Not serious</td><td align="center" rowspan="1" colspan="1">None</td><td align="center" rowspan="1" colspan="1">764/1035 (73.8%)</td><td align="center" rowspan="1" colspan="1">696/1047 (66.5%)</td><td align="center" rowspan="1" colspan="1">
+<bold>RR 1.28</bold> (0.97–1.69)</td><td align="center" rowspan="1" colspan="1">
+<bold>186 more per 1000</bold> (from 20 fewer to 459 more)</td><td align="center" rowspan="1" colspan="1">⨁⨁◯◯ Low<sup>a,b</sup>
+</td><td align="center" rowspan="1" colspan="1">
+<p>CRITICAL</p>
+</td></tr><tr><td colspan="13" align="left" rowspan="1">
+<bold>NIHSS score (follow‐up: mean 3 months)</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">Randomized trials</td><td align="center" rowspan="1" colspan="1">Not serious</td><td align="center" rowspan="1" colspan="1">Serious<sup>b</sup>
+</td><td align="center" rowspan="1" colspan="1">Not serious</td><td align="center" rowspan="1" colspan="1">Serious<sup>c</sup>
+</td><td align="center" rowspan="1" colspan="1">None</td><td align="center" rowspan="1" colspan="1">141</td><td align="center" rowspan="1" colspan="1">149</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">MD <bold>2.45 lower</bold> (4.32 lower to 0.59 lower)</td><td align="center" rowspan="1" colspan="1">⨁⨁◯◯ Low<sup>b,c</sup>
+</td><td align="center" rowspan="1" colspan="1">CRITICAL</td></tr><tr><td colspan="13" align="left" rowspan="1">
+<bold>Barthel index (follow‐up: mean 3 months)</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">Randomized trials</td><td align="center" rowspan="1" colspan="1">Serious<sup>a</sup>
+</td><td align="center" rowspan="1" colspan="1">Not serious</td><td align="center" rowspan="1" colspan="1">Not serious</td><td align="center" rowspan="1" colspan="1">Serious<sup>c</sup>
+</td><td align="center" rowspan="1" colspan="1">None</td><td align="center" rowspan="1" colspan="1">116</td><td align="center" rowspan="1" colspan="1">126</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">MD <bold>12.52 higher</bold> (6.28 higher to 18.76 higher)</td><td align="center" rowspan="1" colspan="1">⨁⨁◯◯ Low<sup>a,c</sup>
+</td><td align="center" rowspan="1" colspan="1">IMPORTANT</td></tr><tr><td colspan="13" align="left" rowspan="1">
+<bold>Mortality (follow‐up: mean 3 months)</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">Randomized trials</td><td align="center" rowspan="1" colspan="1">Not serious</td><td align="center" rowspan="1" colspan="1">Not serious</td><td align="center" rowspan="1" colspan="1">Not serious</td><td align="center" rowspan="1" colspan="1">Serious<sup>c</sup>
+</td><td align="center" rowspan="1" colspan="1">None</td><td align="center" rowspan="1" colspan="1">22/1018 (2.2%)</td><td align="center" rowspan="1" colspan="1">34/1018 (3.3%)</td><td align="center" rowspan="1" colspan="1">
+<bold>RR 0.66</bold> (0.39–1.09)</td><td align="center" rowspan="1" colspan="1">
+<bold>11 fewer per 1000</bold> (from 20 fewer to 3 more)</td><td align="center" rowspan="1" colspan="1">⨁⨁⨁◯ Moderate<sup>c</sup>
+</td><td align="center" rowspan="1" colspan="1">CRITICAL</td></tr><tr><td colspan="13" align="left" rowspan="1">
+<bold>Recurrent stroke or myocardial infarction (follow‐up: mean 3 months)</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">Randomized trials</td><td align="center" rowspan="1" colspan="1">Not serious</td><td align="center" rowspan="1" colspan="1">Not serious</td><td align="center" rowspan="1" colspan="1">Not serious</td><td align="center" rowspan="1" colspan="1">Serious<sup>c</sup>
+</td><td align="center" rowspan="1" colspan="1">None</td><td align="center" rowspan="1" colspan="1">58/1019 (5.7%)</td><td align="center" rowspan="1" colspan="1">60/1021 (5.9%)</td><td align="center" rowspan="1" colspan="1">
+<bold>RR 0.97</bold> (0.69–1.37)</td><td align="center" rowspan="1" colspan="1">
+<bold>2 fewer per 1000</bold> (from 18 fewer to 22 more)</td><td align="center" rowspan="1" colspan="1">⨁⨁⨁◯ Moderate<sup>c</sup>
+</td><td align="center" rowspan="1" colspan="1">CRITICAL</td></tr></tbody></table><table-wrap-foot><fn id="brb371576-tbl3-note-0001"><p>Abbreviations: CI, confidence interval; MD, mean difference; RR, risk ratio.</p></fn><fn id="brb371576-tbl3-note-0002"><p>
+<sup>a</sup>Downgraded for risk of bias due to high risk in ≥ 2 studies, particularly related to outcome assessment.</p></fn><fn id="brb371576-tbl3-note-0003"><p>
+<sup>b</sup>Substantial statistical heterogeneity was observed (<italic toggle="yes">I</italic>
+<sup>2</sup> &gt; 75%).</p></fn><fn id="brb371576-tbl3-note-0004"><p>
+<sup>c</sup>Downgraded for imprecision due to limited sample size and wide confidence intervals.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Influence diagnostics were explored using Baujat plots (Figure <xref rid="brb371576-supinfo-0001" ref-type="">S10</xref>). For the mRS outcome, Lu et al. (<xref rid="brb371576-bib-0017" ref-type="bibr">2026</xref>) contributed most to heterogeneity, while Lampl et al. (<xref rid="brb371576-bib-0015" ref-type="bibr">2007</xref>) had the greatest influence on the pooled estimate (Lu et al. <xref rid="brb371576-bib-0017" ref-type="bibr">2026</xref>; Lampl et al. <xref rid="brb371576-bib-0015" ref-type="bibr">2007</xref>). For NIHSS and BI outcomes, Lampl et al. (<xref rid="brb371576-bib-0015" ref-type="bibr">2007</xref>) contributed most to both heterogeneity and influence (Lampl et al. <xref rid="brb371576-bib-0015" ref-type="bibr">2007</xref>).</p><p>Certainty of evidence was moderate for major clinical outcomes but lower for others due to imprecision and inconsistency (Table <xref rid="brb371576-tbl-0003" ref-type="table">3</xref>).</p></sec></sec></sec><sec id="brb371576-sec-0250"><label>4</label><title>Discussion</title><p>In this systematic review of randomized controlled trials, minocycline in AIS showed a mixed but overall encouraging pattern of benefit at 3 months. Pooled analysis of the most commonly used functional outcome, mRS (score of 0–2), did not show a statistically significant benefit compared with placebo (RR 1.28, 95% CI 0.97–1.69). Improvements were observed in neurological deficit and functional performance, with lower NIHSS scores (MD −2.45, 95% CI −4.32 to −0.59) and higher BI scores (MD 12.52, 95% CI 6.28–18.76). The magnitude of these effects is within ranges that have been associated with clinically relevant differences in stroke outcomes in prior literature. In particular, small changes in NIHSS (e.g., ≥ 2‐point differences) have been linked to meaningful differences in functional outcomes and prognosis, while changes in the BI exceeding minimal clinically important difference thresholds and approaching larger increments (e.g., around 10 points) have been used to reflect more substantial functional recovery (Siegler et al. <xref rid="brb371576-bib-0034" ref-type="bibr">2013</xref>; Hsieh et al. <xref rid="brb371576-bib-0012" ref-type="bibr">2007</xref>). However, these findings were derived from a limited number of smaller trials with substantial heterogeneity and should therefore be interpreted with caution.</p><p>The discordance between outcomes warrants careful interpretation. Although minocycline was associated with improved NIHSS and BI scores at 3 months, this benefit was not mirrored by a statistically significant increase in primary mRS (score of 0–2) outcome. This may reflect differences in the way these measures capture recovery. Continuous scales such as NIHSS and BI may detect modest improvements that are not sufficient to shift patients across an mRS threshold. Importantly, the positive NIHSS and BI findings were derived from fewer and substantially smaller trials, resulting in less precise estimates with greater uncertainty, whereas the mRS analysis incorporated a larger evidence base, including the most adequately powered studies. As such, the mRS findings likely provide a more robust and reliable estimate of overall functional outcome.</p><p>Our findings are partly consistent with the prior meta‐analysis by Malhotra et al. (Malhotra et al. <xref rid="brb371576-bib-0019" ref-type="bibr">2018</xref>), which reported significant benefit of minocycline in the AIS subgroup for functional independence (defined as mRS 0–2), as well as improvements in BI and NIHSS at 3 months. However, unlike their AIS subgroup analysis, our pooled mRS analysis did not show a statistically significant improvement in functional independence (mRS 0–2). It is important to distinguish this from more stringent definitions of favorable functional outcome (mRS 0–1), which reflects an excellent functional outcome with minimal or no disability. This suggests that while minocycline may improve selected recovery measures after AIS, its effect on overall functional independence remains less certain in the updated ischemic stroke evidence base.</p><p>The biological rationale for minocycline in AIS is supported by the understanding that ischemic injury extends beyond the initial loss of perfusion into a secondary phase characterized by neuroinflammation, microglial activation, blood–brain barrier disruption, and matrix metalloproteinase‐mediated injury (Lakhan et al. <xref rid="brb371576-bib-0014" ref-type="bibr">2009</xref>; del Zoppo et al. <xref rid="brb371576-bib-0008" ref-type="bibr">2007</xref>; Candelario‐Jalil et al. <xref rid="brb371576-bib-0005" ref-type="bibr">2022</xref>). Preclinical and translational studies suggest that minocycline may attenuate several of these pathways by reducing pro‐inflammatory microglial signaling and cytokine expression, inhibiting MMP‐2 and MMP‐9 activity, limiting blood–brain barrier injury, and modulating apoptotic pathways through effects on cytochrome c release and caspase activation (Candelario‐Jalil et al. <xref rid="brb371576-bib-0005" ref-type="bibr">2022</xref>; Wang et al. <xref rid="brb371576-bib-0040" ref-type="bibr">2003</xref>; Naderi et al. <xref rid="brb371576-bib-0024" ref-type="bibr">2020</xref>; Tao et al. <xref rid="brb371576-bib-0037" ref-type="bibr">2013</xref>). These mechanisms provide a biologically plausible explanation for the observed improvements in neurological deficit and functional performance, as reflected by NIHSS and BI outcomes. Microglial responses after ischemic stroke are temporally heterogeneous, such that the commonly used M1/M2 classification is best understood as an oversimplified heuristic rather than a strict biological dichotomy (Zhao et al. <xref rid="brb371576-bib-0041" ref-type="bibr">2017</xref>). Nevertheless, experimental data suggest that minocycline may promote a shift toward a more anti‐inflammatory (M2‐like) microglial state while attenuating (M1‐like) pro‐inflammatory activation (Lu et al. <xref rid="brb371576-bib-0018" ref-type="bibr">2021</xref>).</p><p>From a clinical perspective, the present findings support the potential role of minocycline as an adjunctive therapy in AIS, warranting further investigation. The overall pattern of improvement across neurologic and functional outcomes suggests that targeting post‐stroke inflammatory and secondary injury pathways may translate into measurable recovery benefits at 3 months. In this context, minocycline is of particular interest given its favorable safety profile, good tolerability at standard doses, and high lipophilicity, enabling effective blood–brain barrier penetration (Nazarian and Akhondi <xref rid="brb371576-bib-0044" ref-type="bibr">2023</xref>;Minocycline: MedlinePlus Drug Information <xref rid="brb371576-bib-0020" ref-type="bibr">2026</xref>); Saivin and Houin <xref rid="brb371576-bib-0032" ref-type="bibr">1988</xref>). The overall findings suggest that the effect of minocycline may be context‐dependent; however, the absence of stratified analyses precludes conclusions regarding the influence of factors such as timing of administration and baseline stroke severity.</p><p>Sex differences in AIS are important, as men and women may differ in risk profile, stroke severity, recovery, and functional outcomes (Appelros et al. <xref rid="brb371576-bib-0002" ref-type="bibr">2009</xref>). For minocycline, it is relevant given its apoptosis and blood‐brain barrier‐modulating mechanism (Fagan et al. <xref rid="brb371576-bib-0009" ref-type="bibr">2011</xref>). In this review sex distribution was reported in baselines across included trials, but sex‐stratified outcomes were largely unavailable. One small trial suggested significant neurological improvement among males, but this finding was limited by small sample size and baseline imbalance (Amiri‐Nikpour et al. <xref rid="brb371576-bib-0001" ref-type="bibr">2015</xref>). Conversely, the large EMPHASIS trial did not demonstrate a differential treatment effect by sex (Lu et al. <xref rid="brb371576-bib-0017" ref-type="bibr">2026</xref>). Therefore, current evidence does not confirm sex specific effect of minocycline in AIS.</p><p>From a global health perspective, these findings are particularly relevant in low‐ and middle‐income countries, where access to timely and equitable stroke care remains limited due to disparities in healthcare infrastructure, resource availability, and organization of stroke services (Pandian et al. <xref rid="brb371576-bib-0028" ref-type="bibr">2020</xref>; Mendis <xref rid="brb371576-bib-0022" ref-type="bibr">2010</xref>). In this context, minocycline is of particular interest as a low‐cost, widely available agent with a favorable safety profile that can be administered without the need for specialized infrastructure (Qurashi et al. <xref rid="brb371576-bib-0029" ref-type="bibr">2017</xref>). These considerations highlight the importance of evaluating therapies not only for efficacy but also for feasibility and impact in resource‐constrained healthcare settings.</p><p>Several limitations should be acknowledged when interpreting these findings. Most importantly, substantial heterogeneity was present across key pooled analyses. This heterogeneity was clinically plausible and likely reflects important differences between trials regarding route of administration and timing of minocycline initiation, background stroke care, and variation in the proportion of patients receiving thrombolysis or thrombectomy. Treatment initiation ranged from within 6 h to beyond 48 h, and differences in treatment protocols may have influenced the observed treatment effects.</p><p>Lampl et al. (<xref rid="brb371576-bib-0015" ref-type="bibr">2007</xref>) was a notable contributor to heterogeneity, as demonstrated by sensitivity analyses showing marked reductions in heterogeneity following its exclusion. In comparison to more recent trials this study was conducted in an earlier era of stroke care, employed an open‐label evaluator blinded design, enrolled a relatively small sample, and reported substantially larger treatment effects across NIHSS, mRS, and BI outcomes than those observed in subsequent studies. In addition, baseline imbalances in selected patient characteristics and medication use were reported between treatment groups. These methodological and clinical differences may have contributed to the variability observed across pooled analyses. Although timing of administration may be an important modifier of treatment effect, subgroup analyses based on early versus late initiation (e.g., ≤ 24 h vs. &gt; 24 h) were not performed due to limited data and variability in reporting across studies. Most included trials did not report outcomes stratified according to stroke severity categories, precluding meaningful quantitative subgroup analyses.</p><p>In addition, the included studies were conducted across different eras of stroke care, which may limit comparability given the advent of mechanical thrombectomy. Risk of bias assessment using the Cochrane RoB 2 tool demonstrated that several included studies had a high overall risk of bias, particularly due to deviations from intended interventions and lack of blinding. Subgroup analysis by stroke severity was limited because trials did not report outcomes across NIHSS severity strata; therefore, pooled subgroup analysis by baseline NIHSS was not feasible. Sex‐specific interpretation was also limited, as most included trials did not provide sufficient sex‐stratified data for formal analysis; therefore, inference regarding differential effect by sex remains exploratory. Finally, mechanistic interpretation remains limited because biomarker and radiological data were sparse and showed no clear difference when present. Taken together, these factors temper the certainty of the pooled estimates and suggest that the observed signal of benefit should be interpreted with appropriate caution.</p><p>Given these limitations, future research should place greater emphasis on mechanistic and translational endpoints, as current clinical data provide insufficient insight into how minocycline exerts its effects in human stroke populations. Incorporation of imaging biomarkers, such as infarct volume and cerebral edema, alongside blood biomarkers including S100β, neurofilament light chain, and brain‐derived tau, would improve mechanistic understanding. Studies should also assess if minocycline efficacy and safety vary according to baseline‐NIHSS severity. Future trials should prospectively report sex‐stratified efficacy and safety outcomes to determine whether effect of minocycline differs between male and female patients. Consistent reporting of NIHSS and BI at 3 months may further enable more granular assessment of recovery.</p></sec><sec id="brb371576-sec-0260"><label>5</label><title>Conclusion</title><p>Overall, current evidence does not demonstrate a consistent improvement in functional independence with minocycline in AIS, although signals of benefit are observed in selected measures of neurological and functional recovery. Confidence in these findings remains limited. Future research should focus on adequately powered, multicenter randomized controlled trials with standardized intervention protocols, including consistent dosing, timing, duration of therapy, and sex‐specific treatment effects to better define its therapeutic role. In addition, comparative studies against contemporary standards of stroke care are warranted, as many included trials predate widespread use of advanced reperfusion therapies, and the relevance of these findings to current practice remains to be clarified.</p></sec><sec id="brb371576-sec-0270"><title>Author Contributions</title><p>
+<bold>Abdur Rehman</bold>: writing – review and editing, supervision. <bold>Samaha Khalid</bold>: conceptualization, data curation, writing – original draft, writing – review and editing. <bold>Muhammad Sohaib Shahid</bold>: writing – original draft, writing – review and editing. <bold>Deepak Rai</bold>: writing – review and editing, supervision. <bold>Malik Aon Ali Abbas</bold>: conceptualization, formal analysis, writing – original draft, writing – review and editing. <bold>Muhammad Nihal Moarij Azeem Malik</bold>: software, writing – original draft, writing – review and editing. <bold>Muhammad Daoud Tariq</bold>: writing – review and editing, supervision. <bold>Mahnoor Javed</bold>: writing – original draft, writing – review and editing. <bold>Saad Ashraf</bold>: writing – review and editing, supervision.</p></sec><sec id="brb371576-sec-0290"><title>Ethics Statement</title><p>Ethical approval was not required for this study because it is a systematic review and meta‐analysis based on previously published data.</p></sec><sec id="brb371576-sec-0300"><title>Funding</title><p>The authors have nothing to report.</p></sec><sec sec-type="COI-statement" id="brb371576-sec-0310"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="brb371576-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="brb371576-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supplementary Material</bold>: brb371576‐sup‐0001‐SuppMat.docx</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BRB3-16-e71576-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="brb371576-sec-0280"><title>Acknowledgments</title><p>The authors have nothing to report.</p></ack><sec sec-type="data-availability" id="brb371576-sec-0330"><title>Data Availability Statement</title><p>The data that support the findings of this study are available within the article and its Supporting Information.</p></sec><ref-list id="brb371576-bibl-0001"><title>References</title><ref id="brb371576-bib-0001"><mixed-citation publication-type="journal" id="brb371576-cite-0001">
+<string-name name-style="western">
+<surname>Amiri‐Nikpour</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Nazarbaghi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hamdi‐Holasou</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Rezaei</surname>
+</string-name>. <year>2015</year>. “<article-title>An Open‐Label Evaluator‐Blinded Clinical Study of Minocycline Neuroprotection in Ischemic Stroke: Gender‐Dependent Effect</article-title>.” <source>Acta Neurologica Scandinavica</source>
+<volume>131</volume>, no. <issue>1</issue>: <fpage>45</fpage>–<lpage>50</lpage>. <pub-id pub-id-type="doi">10.1111/ane.12296</pub-id>.<pub-id pub-id-type="pmid">25155474</pub-id>
+</mixed-citation></ref><ref id="brb371576-bib-0002"><mixed-citation publication-type="journal" id="brb371576-cite-0002">
+<string-name name-style="western">
+<surname>Appelros</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Stegmayr</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Terént</surname>
+</string-name>. <year>2009</year>. “<article-title>Sex Differences in Stroke Epidemiology</article-title>.” <source>Stroke; A Journal of Cerebral Circulation</source>
+<volume>40</volume>, no. <issue>4</issue>: <fpage>1082</fpage>–<lpage>1090</lpage>. <pub-id pub-id-type="doi">10.1161/STROKEAHA.108.540781</pub-id>.<pub-id pub-id-type="pmid">19211488</pub-id></mixed-citation></ref><ref id="brb371576-bib-0003"><mixed-citation publication-type="journal" id="brb371576-cite-0003">
+<string-name name-style="western">
+<surname>Blacker</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Prentice</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Alvaro</surname>
+</string-name>, et al. <year>2013</year>. “<article-title>Reducing Haemorrhagic Transformation After Thrombolysis for Stroke: A Strategy Utilising Minocycline</article-title>.” <source>Stroke Research Treatment</source>
+<volume>2013</volume>: <elocation-id>362961</elocation-id>. <pub-id pub-id-type="doi">10.1155/2013/362961</pub-id>.<pub-id pub-id-type="pmid">23691430</pub-id>
+<pub-id pub-id-type="pmcid">PMC3649751</pub-id></mixed-citation></ref><ref id="brb371576-bib-0005"><mixed-citation publication-type="journal" id="brb371576-cite-0005">
+<string-name name-style="western">
+<surname>Candelario‐Jalil</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R. M.</given-names>
+<surname>Dijkhuizen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Magnus</surname>
+</string-name>. <year>2022</year>. “<article-title>Neuroinflammation, Stroke, Blood‐Brain Barrier Dysfunction, and Imaging Modalities</article-title>.” <source>Stroke; A Journal of Cerebral Circulation</source>
+<volume>53</volume>, no. <issue>5</issue>: <fpage>1473</fpage>–<lpage>1486</lpage>. <pub-id pub-id-type="doi">10.1161/STROKEAHA.122.036946</pub-id>.<pub-id pub-id-type="pmcid">PMC9038693</pub-id><pub-id pub-id-type="pmid">35387495</pub-id></mixed-citation></ref><ref id="brb371576-bib-0006"><mixed-citation publication-type="journal" id="brb371576-cite-0006">
+<string-name name-style="western">
+<surname>Chang</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kim‐Tenser</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. A.</given-names>
+<surname>Emanuel</surname>
+</string-name>, et al. <year>2017</year>. “<article-title>Minocycline and Matrix Metalloproteinase Inhibition in Acute Intracerebral Hemorrhage: A Pilot Study</article-title>.” <source>European Journal of Neurology</source>
+<volume>24</volume>, no. <issue>11</issue>: <fpage>1384</fpage>–<lpage>1391</lpage>. <pub-id pub-id-type="doi">10.1111/ene.13403</pub-id>.<pub-id pub-id-type="pmid">28929560</pub-id>
+</mixed-citation></ref><ref id="brb371576-bib-0009"><mixed-citation publication-type="journal" id="brb371576-cite-0009">
+<string-name name-style="western">
+<surname>Fagan</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L. E.</given-names>
+<surname>Cronic</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. C.</given-names>
+<surname>Hess</surname>
+</string-name>. <year>2011</year>. “<article-title>Minocycline Development for Acute Ischemic Stroke</article-title>.” <source>Translational Stroke Research</source>
+<volume>2</volume>, no. <issue>2</issue>: <fpage>202</fpage>–<lpage>208</lpage>. <pub-id pub-id-type="doi">10.1007/s12975-011-0072-6</pub-id>.<pub-id pub-id-type="pmid">21909339</pub-id>
+<pub-id pub-id-type="pmcid">PMC3169090</pub-id></mixed-citation></ref><ref id="brb371576-bib-0010"><mixed-citation publication-type="journal" id="brb371576-cite-0010">
+<string-name name-style="western">
+<surname>Fouda</surname>, <given-names>A. Y.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A. S.</given-names>
+<surname>Newsome</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Spellicy</surname>
+</string-name>, et al. <year>2017</year>. “<article-title>Minocycline in Acute Cerebral Hemorrhage: An Early Phase Randomized Trial</article-title>.” <source>Stroke; A Journal of Cerebral Circulation</source>
+<volume>48</volume>, no. <issue>10</issue>: <fpage>2885</fpage>–<lpage>2887</lpage>. <pub-id pub-id-type="doi">10.1161/STROKEAHA.117.018658</pub-id>.<pub-id pub-id-type="pmid">28887388</pub-id></mixed-citation></ref><ref id="brb371576-bib-0011"><mixed-citation publication-type="journal" id="brb371576-cite-0011">
+<string-name name-style="western">
+<surname>Higgins</surname>, <given-names>J. P. T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. G.</given-names>
+<surname>Thompson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. J.</given-names>
+<surname>Deeks</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. G.</given-names>
+<surname>Altman</surname>
+</string-name>. <year>2003</year>. “<article-title>Measuring Inconsistency in Meta‐Analyses</article-title>.” <source>BMJ</source>
+<volume>327</volume>, no. <issue>7414</issue>: <fpage>557</fpage>–<lpage>560</lpage>. <pub-id pub-id-type="doi">10.1136/bmj.327.7414.557</pub-id>.<pub-id pub-id-type="pmid">12958120</pub-id>
+<pub-id pub-id-type="pmcid">PMC192859</pub-id></mixed-citation></ref><ref id="brb371576-bib-0045"><mixed-citation publication-type="miscellaneous" id="brb371576-cite-0045">
+<string-name name-style="western">
+<surname>Higgins</surname>, <given-names>J. P. T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Thomas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Chandler</surname>
+</string-name>, et al. <year>2019</year>. <article-title>Cochrane Handbook for Systematic Reviews of Interventions</article-title>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook" ext-link-type="uri">https://www.cochrane.org/authors/handbooks‐and‐manuals/handbook</ext-link>.</mixed-citation></ref><ref id="brb371576-bib-0012"><mixed-citation publication-type="journal" id="brb371576-cite-0012">
+<string-name name-style="western">
+<surname>Hsieh</surname>, <given-names>Y. W.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C. H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. C.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. C.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. F.</given-names>
+<surname>Sheu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C. L.</given-names>
+<surname>Hsieh</surname>
+</string-name>. <year>2007</year>. “<article-title>Establishing the Minimal Clinically Important Difference of the Barthel Index in Stroke Patients</article-title>.” <source>Neurorehabilitation and Neural Repair</source>
+<volume>21</volume>, no. <issue>3</issue>: <fpage>233</fpage>–<lpage>238</lpage>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.sagepub.com/doi/10.1177/1545968306294729?url_ver=Z39.88-2003&amp;rfr_id=ori%3Arid%3A.org&amp;rfr_dat=cr_pub%2B%2B0pubmed" ext-link-type="uri">https://journals.sagepub.com/doi/10.1177/1545968306294729?url_ver=Z39.88‐2003&amp;rfr_id=ori%3Arid%3A.org&amp;rfr_dat=cr_pub++0pubmed</ext-link>.<pub-id pub-id-type="pmid">17351082</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1545968306294729</pub-id></mixed-citation></ref><ref id="brb371576-bib-0013"><mixed-citation publication-type="journal" id="brb371576-cite-0013">
+<string-name name-style="western">
+<surname>Kohler</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D. A.</given-names>
+<surname>Prentice</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. R.</given-names>
+<surname>Bates</surname>
+</string-name>, et al. <year>2013</year>. “<article-title>Intravenous Minocycline in Acute Stroke: A Randomized, Controlled Pilot Study and Meta‐Analysis</article-title>.” <source>Stroke; A Journal of Cerebral Circulation</source>
+<volume>44</volume>, no. <issue>9</issue>: <fpage>2493</fpage>–<lpage>2499</lpage>. <pub-id pub-id-type="doi">10.1161/STROKEAHA.113.000780</pub-id>.<pub-id pub-id-type="pmid">23868273</pub-id></mixed-citation></ref><ref id="brb371576-bib-0014"><mixed-citation publication-type="journal" id="brb371576-cite-0014">
+<string-name name-style="western">
+<surname>Lakhan</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kirchgessner</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hofer</surname>
+</string-name>. <year>2009</year>. “<article-title>Inflammatory Mechanisms in Ischemic Stroke: Therapeutic Approaches</article-title>.” <source>Journal of Translational Medicine</source>
+<volume>7</volume>: <elocation-id>97</elocation-id>. <pub-id pub-id-type="doi">10.1186/1479-5876-7-97</pub-id>.<pub-id pub-id-type="pmid">19919699</pub-id>
+<pub-id pub-id-type="pmcid">PMC2780998</pub-id></mixed-citation></ref><ref id="brb371576-bib-0015"><mixed-citation publication-type="journal" id="brb371576-cite-0015">
+<string-name name-style="western">
+<surname>Lampl</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Boaz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Gilad</surname>
+</string-name>, et al. <year>2007</year>. “<article-title>Minocycline Treatment in Acute Stroke</article-title>.” <source>Neurology</source>
+<volume>69</volume>, no. <issue>14</issue>: <fpage>1404</fpage>–<lpage>1410</lpage>. <pub-id pub-id-type="doi">10.1212/01.wnl.0000277487.04281.db</pub-id>.<pub-id pub-id-type="pmid">17909152</pub-id>
+</mixed-citation></ref><ref id="brb371576-bib-0016"><mixed-citation publication-type="book" id="brb371576-cite-0016">
+<string-name name-style="western">
+<surname>Laurent</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C. N.</given-names>
+<surname>Small</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Goutnik</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Hoh</surname>
+</string-name>. <year>2025</year>. “<part-title>Ischemic Stroke</part-title>.” In <source>Acute Care Neurosurgery by Case Management: Pearls and Pitfalls</source>, edited by <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>P. B</given-names>
+<surname>Raksin</surname>
+</string-name>
+</person-group>, <fpage>159</fpage>–<lpage>172</lpage>. <publisher-name>Springer</publisher-name>. <pub-id pub-id-type="doi">10.1007/978-3-030-99512-6_13</pub-id>.</mixed-citation></ref><ref id="brb371576-bib-0017"><mixed-citation publication-type="journal" id="brb371576-cite-0017">
+<string-name name-style="western">
+<surname>Lu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Guan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wu</surname>
+</string-name>, et al. <year>2026</year>. “<article-title>Efficacy and Safety of Minocycline in Patients With Acute Ischaemic Stroke (EMPHASIS): A Multicentre, Double‐Blind, Randomised Controlled Trial</article-title>.” <source>Lancet</source>
+<volume>407</volume>, no. <issue>10529</issue>: <fpage>679</fpage>–<lpage>688</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(25)01862-8</pub-id>.<pub-id pub-id-type="pmid">41628627</pub-id>
+</mixed-citation></ref><ref id="brb371576-bib-0018"><mixed-citation publication-type="journal" id="brb371576-cite-0018">
+<string-name name-style="western">
+<surname>Lu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Hua</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Fan</surname>
+</string-name>. <year>2021</year>. “<article-title>Minocycline Promotes Functional Recovery in Ischemic Stroke by Modulating Microglia Polarization Through STAT1/STAT6 Pathways</article-title>.” <source>Biochemical Pharmacology</source>
+<volume>186</volume>: <elocation-id>114464</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.bcp.2021.114464</pub-id>.<pub-id pub-id-type="pmid">33577892</pub-id>
+</mixed-citation></ref><ref id="brb371576-bib-0019"><mixed-citation publication-type="journal" id="brb371576-cite-0019">
+<string-name name-style="western">
+<surname>Malhotra</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. J.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Khunger</surname>
+</string-name>, et al. <year>2018</year>. “<article-title>Minocycline for Acute Stroke Treatment: A Systematic Review and Meta‐Analysis of Randomized Clinical Trials</article-title>.” <source>Journal of Neurology</source>
+<volume>265</volume>, no. <issue>8</issue>: <fpage>1871</fpage>–<lpage>1879</lpage>. <pub-id pub-id-type="doi">10.1007/s00415-018-8935-3</pub-id>.<pub-id pub-id-type="pmid">29948247</pub-id>
+</mixed-citation></ref><ref id="brb371576-bib-0020"><mixed-citation publication-type="miscellaneous" id="brb371576-cite-0020">
+<collab collab-type="authors">MedlinePlus Drug Information</collab>
+. <year>2026</year>. "<article-title>Minocycline</article-title>." <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://medlineplus.gov/druginfo/meds/a682101.html" ext-link-type="uri">https://medlineplus.gov/druginfo/meds/a682101.html</ext-link>.</mixed-citation></ref><ref id="brb371576-bib-0021"><mixed-citation publication-type="journal" id="brb371576-cite-0021">
+<string-name name-style="western">
+<surname>Mendelson</surname>, <given-names>S. J.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Prabhakaran</surname>
+</string-name>. <year>2021</year>. “<article-title>Diagnosis and Management of Transient Ischemic Attack and Acute Ischemic Stroke</article-title>.” <source>Jama</source>
+<volume>325</volume>, no. <issue>11</issue>: <fpage>1088</fpage>. <pub-id pub-id-type="doi">10.1001/jama.2020.26867</pub-id>.<pub-id pub-id-type="pmid">33724327</pub-id>
+</mixed-citation></ref><ref id="brb371576-bib-0022"><mixed-citation publication-type="journal" id="brb371576-cite-0022">
+<string-name name-style="western">
+<surname>Mendis</surname>, <given-names>S.</given-names>
+</string-name>
+<year>2010</year>. “<article-title>Prevention and Care of Stroke in Low‐ and Middle‐Income Countries; the Need for a Public Health Perspective</article-title>.” <source>International Journal of Stroke</source>
+<volume>5</volume>, no. <issue>2</issue>: <fpage>86</fpage>–<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1111/j.1747-4949.2010.00406.x</pub-id>.<pub-id pub-id-type="pmid">20446942</pub-id>
+</mixed-citation></ref><ref id="brb371576-bib-0023"><mixed-citation publication-type="journal" id="brb371576-cite-0023">
+<string-name name-style="western">
+<surname>Musuka</surname>, <given-names>T. D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. B.</given-names>
+<surname>Wilton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Traboulsi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. D.</given-names>
+<surname>Hill</surname>
+</string-name>. <year>2015</year>. “<article-title>Diagnosis and Management of Acute Ischemic Stroke: Speed is Critical</article-title>.” <source>Canadian Medical Association Journal</source>
+<volume>187</volume>, no. <issue>12</issue>: <fpage>887</fpage>–<lpage>893</lpage>. <pub-id pub-id-type="doi">10.1503/cmaj.140355</pub-id>.<pub-id pub-id-type="pmid">26243819</pub-id>
+<pub-id pub-id-type="pmcid">PMC4562827</pub-id></mixed-citation></ref><ref id="brb371576-bib-0024"><mixed-citation publication-type="journal" id="brb371576-cite-0024">
+<string-name name-style="western">
+<surname>Naderi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Panahi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. E.</given-names>
+<surname>Barreto</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Sahebkar</surname>
+</string-name>. <year>2020</year>. “<article-title>Neuroprotective Effects of Minocycline on Focal Cerebral Ischemia Injury: A Systematic Review</article-title>.” <source>Neural Regeneration Research</source>
+<volume>15</volume>, no. <issue>5</issue>: <fpage>773</fpage>–<lpage>782</lpage>. <pub-id pub-id-type="doi">10.4103/1673-5374.268898</pub-id>.<pub-id pub-id-type="pmid">31719236</pub-id>
+<pub-id pub-id-type="pmcid">PMC6990777</pub-id></mixed-citation></ref><ref id="brb371576-bib-0044"><mixed-citation publication-type="book" id="brb371576-cite-0044">
+<string-name name-style="western">
+<surname>Nazarian</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Akhondi</surname>
+</string-name>. <year>2023</year>. “<part-title>Minocycline</part-title>.” In <source>StatPearls [Internet]</source>. <publisher-loc>Treasure Island (FL)</publisher-loc>: <publisher-name>StatPearls Publishing</publisher-name>. Updated November 12, 2023. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/books/NBK554519/" ext-link-type="uri">https://www.ncbi.nlm.nih.gov/books/NBK554519/</ext-link>.</mixed-citation></ref><ref id="brb371576-bib-0026"><mixed-citation publication-type="book" id="brb371576-cite-0026">
+<collab collab-type="authors">NICE</collab>
+. <year>2022</year>. <source>Stroke and Transient Ischaemic Attack in Over 16s: Diagnosis and Initial Management</source>. <publisher-name>National Institute for Health and Care Excellence</publisher-name>.<pub-id pub-id-type="pmid">31211538</pub-id></mixed-citation></ref><ref id="brb371576-bib-0043"><mixed-citation publication-type="journal" id="brb371576-cite-0043">
+<string-name name-style="western">
+<surname>Ouzzani</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Hammady</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Fedorowicz</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Elmagarmid</surname>
+</string-name>. <year>2016</year>. “<article-title>Rayyan—A Web and Mobile App for Systematic Reviews</article-title>.” <source>Systematic Reviews</source>
+<volume>5</volume>: <fpage>210</fpage>. <pub-id pub-id-type="doi">10.1186/s13643-016-0384-4</pub-id>.<pub-id pub-id-type="pmid">27919275</pub-id>
+<pub-id pub-id-type="pmcid">PMC5139140</pub-id></mixed-citation></ref><ref id="brb371576-bib-0048"><mixed-citation publication-type="journal" id="brb371576-cite-0048">
+<string-name name-style="western">
+<surname>Padma Srivastava</surname>, <given-names>M. V.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bhasin</surname>
+</string-name> and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Bhatia</surname>
+</string-name>, et al. <year>2012</year>. “<article-title>Efficacy of Minocycline in Acute Ischemic Stroke: A Single‐Blinded, Placebo‐Controlled Trial</article-title>.” <source>Neurology India</source>
+<volume>60</volume>, no. <issue>1</issue>: <fpage>23</fpage>–<lpage>28</lpage>. <pub-id pub-id-type="doi">10.4103/0028-3886.93584</pub-id>.<pub-id pub-id-type="pmid">22406775</pub-id>
+</mixed-citation></ref><ref id="brb371576-bib-0027"><mixed-citation publication-type="journal" id="brb371576-cite-0027">
+<string-name name-style="western">
+<surname>Page</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>McKenzie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Bossuyt</surname>
+</string-name>, et al. <year>2021</year>. “<article-title>The PRISMA 2020 Statement: An Updated Guideline for Reporting Systematic Reviews</article-title>.” <source>BMJ</source>
+<volume>372</volume>: <elocation-id>n71</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmj.n71</pub-id>.<pub-id pub-id-type="pmid">33782057</pub-id>
+<pub-id pub-id-type="pmcid">PMC8005924</pub-id></mixed-citation></ref><ref id="brb371576-bib-0028"><mixed-citation publication-type="journal" id="brb371576-cite-0028">
+<string-name name-style="western">
+<surname>Pandian</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Kalkonde</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I. A.</given-names>
+<surname>Sebastian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Felix</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Urimubenshi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Bosch</surname>
+</string-name>. <year>2020</year>. “<article-title>Stroke Systems of Care in Low‐Income and Middle‐Income Countries: Challenges and Opportunities</article-title>.” <source>Lancet</source>
+<volume>396</volume>, no. <issue>10260</issue>: <fpage>1443</fpage>–<lpage>1451</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(20)31374-X</pub-id>.<pub-id pub-id-type="pmid">33129395</pub-id>
+</mixed-citation></ref><ref id="brb371576-bib-0029"><mixed-citation publication-type="journal" id="brb371576-cite-0029">
+<string-name name-style="western">
+<surname>Qurashi</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>I. B.</given-names>
+<surname>Chaudhry</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. B.</given-names>
+<surname>Khoso</surname>
+</string-name>, et al. <year>2017</year>. “<article-title>A Randomised, Double‐Blind, Placebo‐Controlled Trial of Minocycline and/or Omega‐3 Fatty Acids Added to Treatment as Usual for at‐Risk Mental States (NAYAB): Study Protocol</article-title>.” <source>Trials</source>
+<volume>18</volume>, no. <issue>1</issue>: <fpage>524</fpage>. <pub-id pub-id-type="doi">10.1186/s13063-017-2275-y</pub-id>.<pub-id pub-id-type="pmid">29121974</pub-id>
+<pub-id pub-id-type="pmcid">PMC5679379</pub-id></mixed-citation></ref><ref id="brb371576-bib-0032"><mixed-citation publication-type="journal" id="brb371576-cite-0032">
+<string-name name-style="western">
+<surname>Saivin</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Houin</surname>
+</string-name>. <year>1988</year>. “<article-title>Clinical Pharmacokinetics of Doxycycline and Minocycline</article-title>.” <source>Clinical Pharmacokinetics</source>
+<volume>15</volume>, no. <issue>6</issue>: <fpage>355</fpage>–<lpage>366</lpage>. <pub-id pub-id-type="doi">10.2165/00003088-198815060-00001</pub-id>.<pub-id pub-id-type="pmid">3072140</pub-id>
+</mixed-citation></ref><ref id="brb371576-bib-0033"><mixed-citation publication-type="journal" id="brb371576-cite-0033">
+<string-name name-style="western">
+<surname>Shamsaei</surname>, <given-names>G.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Mohammadi</surname>
+</string-name>. <year>2017</year>. “<article-title>Effect of Oral Minocycline on Clinical Recovery Process in Patients With Acute Ischemic Stroke: A Randomized Clinical Trial</article-title>.” <source>Jundishapur Journal of Natural Pharmaceutical Products</source>
+<volume>12</volume>, no. <issue>3</issue>: <elocation-id>e63792</elocation-id>. <pub-id pub-id-type="doi">10.5812/jjnpp.63792</pub-id>.</mixed-citation></ref><ref id="brb371576-bib-0034"><mixed-citation publication-type="journal" id="brb371576-cite-0034">
+<string-name name-style="western">
+<surname>Siegler</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Boehme</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. D.</given-names>
+<surname>Kumar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Gillette</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. C.</given-names>
+<surname>Albright</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Martin‐Schild</surname>
+</string-name>. <year>2013</year>. “<article-title>What Change in the National Institutes of Health Stroke Scale Should Define Neurologic Deterioration in Acute Ischemic Stroke?</article-title>” <source>Journal of Stroke and Cerebrovascular Diseases</source>
+<volume>22</volume>, no. <issue>5</issue>: <fpage>675</fpage>–<lpage>682</lpage>. <pub-id pub-id-type="doi">10.1016/j.jstrokecerebrovasdis.2012.04.012</pub-id>.<pub-id pub-id-type="pmid">22727922</pub-id>
+<pub-id pub-id-type="pmcid">PMC5535077</pub-id></mixed-citation></ref><ref id="brb371576-bib-0035"><mixed-citation publication-type="journal" id="brb371576-cite-0035">
+<string-name name-style="western">
+<surname>Singh</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Augustin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Jane</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M. Y.</given-names>
+<surname>Cheong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. S.</given-names>
+<surname>Haur</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T. B.</given-names>
+<surname>Choo</surname>
+</string-name>. <year>2019</year>. “<article-title>Does Minocycline Improve Recovery After Acute Ischemic Stroke?</article-title>” <source>Journal of Stroke Medicine</source>
+<volume>2</volume>, no. <issue>1</issue>: <fpage>40</fpage>–<lpage>46</lpage>. <pub-id pub-id-type="doi">10.1177/2516608519856263</pub-id>.</mixed-citation></ref><ref id="brb371576-bib-0046"><mixed-citation publication-type="journal" id="brb371576-cite-0046">
+<string-name name-style="western">
+<surname>Sterne</surname>, <given-names>J. A. C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Savović</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Page</surname>
+</string-name>, et al. <year>2019</year>. “<article-title>RoB 2: A Revised Tool for Assessing Risk of Bias in Randomised Trials</article-title>.” <source>Bmj</source>
+<volume>366</volume>: <elocation-id>l4898</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmj.l4898</pub-id>.<pub-id pub-id-type="pmid">31462531</pub-id>
+</mixed-citation></ref><ref id="brb371576-bib-0047"><mixed-citation publication-type="journal" id="brb371576-cite-0047">
+<string-name name-style="western">
+<surname>Switzer</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D. C.</given-names>
+<surname>Hess</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ergul</surname>
+</string-name>, et al. <year>2011</year>. “<article-title>Matrix Metalloproteinase‐9 in an Exploratory Trial of Intravenous Minocycline for Acute Ischemic Stroke</article-title>.” <source>Stroke; A Journal of Cerebral Circulation</source>
+<volume>42</volume>, no. <issue>9</issue>: <fpage>2633</fpage>–<lpage>2635</lpage>. <pub-id pub-id-type="doi">10.1161/STROKEAHA.111.618215</pub-id>.<pub-id pub-id-type="pmcid">PMC3181080</pub-id><pub-id pub-id-type="pmid">21737808</pub-id></mixed-citation></ref><ref id="brb371576-bib-0037"><mixed-citation publication-type="journal" id="brb371576-cite-0037">
+<string-name name-style="western">
+<surname>Tao</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Si Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Kong</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Qin</surname>
+</string-name>. <year>2013</year>. “<article-title>Minocycline Promotes Axonal Regeneration Through Suppression of RGMa in Rat MCAO/Reperfusion Model</article-title>.” <source>Synapse</source>
+<volume>67</volume>, no. <issue>4</issue>: <fpage>189</fpage>–<lpage>198</lpage>. <pub-id pub-id-type="doi">10.1002/syn.21629</pub-id>.<pub-id pub-id-type="pmid">23184880</pub-id>
+</mixed-citation></ref><ref id="brb371576-bib-0049"><mixed-citation publication-type="journal" id="brb371576-cite-0049">
+<string-name name-style="western">
+<surname>Vos</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>V. J.</given-names>
+<surname>Geraedts</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Van Der Lugt</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>Systematic Review—Combining Neuroprotection with Reperfusion in Acute Ischemic Stroke</article-title>.” <source>Frontiers in Neurology</source>
+<volume>13</volume>: <elocation-id>840892</elocation-id>. <pub-id pub-id-type="doi">10.3389/fneur.2022.840892</pub-id>.<pub-id pub-id-type="pmid">35370911</pub-id>
+<pub-id pub-id-type="pmcid">PMC8969766</pub-id></mixed-citation></ref><ref id="brb371576-bib-0040"><mixed-citation publication-type="journal" id="brb371576-cite-0040">
+<string-name name-style="western">
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Drozda</surname>
+</string-name>, et al. <year>2003</year>. “<article-title>Minocycline Inhibits Caspase‐Independent and ‐Dependent Mitochondrial Cell Death Pathways in Models of Huntington's Disease</article-title>.” <source>Proceedings of the National Academy of Sciences</source>
+<volume>100</volume>, no. <issue>18</issue>: <fpage>10483</fpage>–<lpage>10487</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1832501100</pub-id>.<pub-id pub-id-type="pmcid">PMC193587</pub-id><pub-id pub-id-type="pmid">12930891</pub-id></mixed-citation></ref><ref id="brb371576-bib-0041"><mixed-citation publication-type="journal" id="brb371576-cite-0041">
+<string-name name-style="western">
+<surname>Zhao</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L. S.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z. H.</given-names>
+<surname>Chu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. Q.</given-names>
+<surname>Wu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Liu</surname>
+</string-name>. <year>2017</year>. “<article-title>Regulation of Microglial Activation in Stroke</article-title>.” <source>Acta Pharmacologica Sinica</source>
+<volume>38</volume>, no. <issue>4</issue>: <fpage>445</fpage>–<lpage>458</lpage>. <pub-id pub-id-type="doi">10.1038/aps.2016.162</pub-id>.<pub-id pub-id-type="pmid">28260801</pub-id>
+<pub-id pub-id-type="pmcid">PMC5386316</pub-id></mixed-citation></ref><ref id="brb371576-bib-0008"><mixed-citation publication-type="journal" id="brb371576-cite-0008">
+<string-name name-style="western">
+<surname>del Zoppo</surname>, <given-names>G. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Milner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Mabuchi</surname>
+</string-name>, et al. <year>2007</year>. “<article-title>Microglial Activation and Matrix Protease Generation During Focal Cerebral Ischemia</article-title>.” <source>Stroke; A Journal of Cerebral Circulation</source>
+<volume>38</volume>: <fpage>646</fpage>–<lpage>651</lpage>. <pub-id pub-id-type="doi">10.1161/01.STR.0000254477.34231.cb</pub-id>.<pub-id pub-id-type="pmid">17261708</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

@@ -1,0 +1,1067 @@
+BEGIN V1_FACT fact-balbaa-2025-identity {"content_sha256": "1f2e64bc83e018c1f323f1f7054687f1cfeccc20260fa4b4fee979fc0e04a63c", "upstream_artifact_refs": ["source-review-balbaa-2025"]}
+This manuscript reports a systematic review with an eligible headline synthesis.
+END V1_FACT fact-balbaa-2025-identity
+BEGIN V1_FACT fact-balbaa-2025-objective {"content_sha256": "bdb511ff997be67bbca53b6f7e9c4b16fd6b96b7bf7abfd90255207a1c20404b", "upstream_artifact_refs": ["accepted-protocol-balbaa-2025"]}
+Among adults undergoing percutaneous cardiac or cardiac device procedures, compare a non-fasting protocol with conventional fasting for patient-reported comfort and the safety outcomes defined by the Review.
+END V1_FACT fact-balbaa-2025-objective
+BEGIN V1_FACT fact-balbaa-2025-eligibility {"content_sha256": "0d0820c8f94396e504724fe4185b8b2c1ce8eeb23d4d5ec82646e47556a1c2f5", "upstream_artifact_refs": ["accepted-protocol-balbaa-2025"]}
+Eligibility criteria were prespecified in the accepted Protocol.
+END V1_FACT fact-balbaa-2025-eligibility
+BEGIN V1_FACT fact-balbaa-2025-search {"content_sha256": "66d689a362365e1c0f00e8d86782d2e71bea155ead2b19966fcf19097618c175", "upstream_artifact_refs": ["source-review-balbaa-2025"]}
+多数 study 在美国且总数很少，未形成可靠 small-study assessment。
+END V1_FACT fact-balbaa-2025-search
+BEGIN V1_FACT fact-balbaa-2025-method-basis {"content_sha256": "9d915fbfee74514e96f773ac37af3eb822ab9812927a0ef5543f9a20658eab73", "upstream_artifact_refs": ["accepted-protocol-balbaa-2025", "ec-catalog"]}
+Atkinson 仅报告 median/IQR，Review 未披露其转换为 Mean/SD 的方法；V1 不执行或猜测该转换。
+END V1_FACT fact-balbaa-2025-method-basis
+BEGIN V1_FACT fact-balbaa-2025-selection {"content_sha256": "a6bf66ee3e5a9815ecb2e08f46a89f10d5c6a18e35321dddfe2663539512ec7b", "upstream_artifact_refs": ["ec-catalog"]}
+The headline synthesis included 5 studies; other selection-flow counts were not exposed in the curated V1 reference.
+END V1_FACT fact-balbaa-2025-selection
+BEGIN V1_FACT fact-balbaa-2025-studies {"content_sha256": "f46de743fb587c91723d41d5ee0f4f5944a57d1c19a56e6032845b6b26222b45", "upstream_artifact_refs": ["ec-catalog", "de-request-balbaa-2025"]}
+五项 RCT、2034 人进入 Review。
+END V1_FACT fact-balbaa-2025-studies
+BEGIN V1_FACT fact-balbaa-2025-outcome {"content_sha256": "12e42759bd2df6d2efb4ff8a883624e5c149e76d5bfdcd6c0c65afaa907c6a6c", "upstream_artifact_refs": ["ec-catalog", "de-reference-balbaa-2025"]}
+Review 报 SMD -0.65 [-1.39,0.09]、I²=96%，但转换方法不闭合。
+END V1_FACT fact-balbaa-2025-outcome
+BEGIN V1_FACT fact-balbaa-2025-synthesis {"content_sha256": "c00c204353f25d01fab2db68cb2a3887e7581c54c1c6a65392d38d3bbb17e3c8", "upstream_artifact_refs": ["ec-catalog"]}
+Review 报 SMD -0.65 [-1.39,0.09]、I²=96%，但转换方法不闭合。
+END V1_FACT fact-balbaa-2025-synthesis
+BEGIN V1_FACT fact-balbaa-2025-risk-of-bias {"content_sha256": "f24f40f228fcaca914aedd04ea98d2d537c8b3a34ddbd0a5299fd3d981f78fb2", "upstream_artifact_refs": ["ec-catalog"]}
+四项 single-blind、一项 open-label；主观 satisfaction outcome 的 assessor blinding 不清。
+END V1_FACT fact-balbaa-2025-risk-of-bias
+BEGIN V1_FACT fact-balbaa-2025-certainty {"content_sha256": "78eb86129a5f286af71a41a854f800b6337a39210a2f4c86ba7608ab90fca41e", "upstream_artifact_refs": ["ec-gold"]}
+至少一项 contributing study 仅报告 median/IQR，Review 未披露转换为 Mean/SD 后进入 SMD synthesis 的方法。EC V1 不猜测或重做未声明转换；输入闭包失败时正确动作是 abstain，而不是用 imprecision 或 inconsistency 降级掩盖。
+END V1_FACT fact-balbaa-2025-certainty
+BEGIN V1_FACT fact-balbaa-2025-context {"content_sha256": "e8baaf6081c6273bb6dd481f61a9cacaba2c5de05e390bbef97b737619d3cdaf", "upstream_artifact_refs": ["ec-catalog"]}
+多种 cardiac procedures 与 patient-reported satisfaction scales 共同进入 synthesis。
+END V1_FACT fact-balbaa-2025-context
+BEGIN V1_FACT fact-balbaa-2025-limitation {"content_sha256": "1c754898e7191b8fa3beb08511bb6e6b7ae79e8cbf6027d8ad8b37e4e4689206", "upstream_artifact_refs": ["ec-catalog"]}
+Atkinson 仅报告 median/IQR，Review 未披露其转换为 Mean/SD 的方法；V1 不执行或猜测该转换。
+END V1_FACT fact-balbaa-2025-limitation
+BEGIN DE_CELL atkinson result.composite_satisfaction {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"atkinson","target_id":"result.composite_satisfaction","values":null}
+END DE_CELL atkinson result.composite_satisfaction
+BEGIN DE_CELL atkinson result.hunger {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"atkinson","target_id":"result.hunger","values":null}
+END DE_CELL atkinson result.hunger
+BEGIN DE_CELL atkinson result.thirst {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"atkinson","target_id":"result.thirst","values":null}
+END DE_CELL atkinson result.thirst
+BEGIN DE_CELL atkinson result.anxiety {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"atkinson","target_id":"result.anxiety","values":null}
+END DE_CELL atkinson result.anxiety
+BEGIN DE_CELL atkinson result.tiredness_fatigue {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"atkinson","target_id":"result.tiredness_fatigue","values":null}
+END DE_CELL atkinson result.tiredness_fatigue
+BEGIN DE_EVIDENCE atkinson result.aspiration {"canonical_field": "intervention_events", "document_key": "atkinson.fulltext", "source_path": "originals/atkinson-2023/primary.pdf", "source_sha256": "c851c3b413ed3f3846b147b2a0ba52d375ee1a7b219642bfe4dae3b0996d1455", "view_sha256": "386b74bd2bc743eba6938642be9fd94ed6bd2250ec8f7804998dcc1b8ae483c6"}
+R) | -0.1 | (-0.2, 0.02) | -0.1 | (-0.2, -0.02) | 0.27 | -0.03 | (-0.1, 0.02) |
+| Vasopressor-n (%) | 56 | 62.2% | 55 | 60.4% | 0.81 | 1.8% | (-12.4%, 16.0%) |
+| PONV (rescue medication) | 4 | 4.4% | 4 | 4.4% | 1 | 0.05% | (-5.9%, 6.0%) |
+| PLOS [HRS]-median (IQR) | 21.3 | (7.9, 25.8) | 21.3 | (6.2, 25.2) | 0.5 | 0.6 | (-1.1, 2.6) |
+| Safety Endpoints |  |  |  |  |  |  |  |
+| Intra-op Vomiting/ Regurgitation-n(%) | 0 | 0% | 0 | 0% | N/A | N/A | N/A |
+| Post Op ­O 2 needed at 24 h) - n (%) | 8 | 8.9% | 7 | 7.7% | 0.77 | 1.2% | (-6.4%, 9.2%) |
+| Evidence of Aspiration-n(%) | 0 | 0% | 0 | 0% | N/A | N/A | N/A |
+[/DOCLING_TABLE]
+
+None of the secondary end-points were significantly different between the two fasting protocols. Several studies in cardiac surgery (Breuer et al. 2006; Şavluk et al. 2017; Feguri et al. 2019) have shown a trend towards decreased inotrope or vasopressor use in an oral carbohydrate loaded group. In contrast, studies on healthier patients having less invasive surgery have shown no difference (Asakura et al. 2015; Canbay 2017). In our study, a significant proportion of patients received vasopressors intra-operatively, however, there was no difference in this endpoint between the study groups. Potential explanations for this include the fact that patients received significant fluid intra-operatively, on average 1400 ml of crystalloid solution, which may have quickly restored intravascular volume. In addition, the studied procedures 
+END DE_EVIDENCE atkinson result.aspiration
+BEGIN DE_EVIDENCE atkinson result.aspiration {"canonical_field": "intervention_group_size", "document_key": "atkinson.fulltext", "source_path": "originals/atkinson-2023/primary.pdf", "source_sha256": "c851c3b413ed3f3846b147b2a0ba52d375ee1a7b219642bfe4dae3b0996d1455", "view_sha256": "386b74bd2bc743eba6938642be9fd94ed6bd2250ec8f7804998dcc1b8ae483c6"}
+n et al. Perioperative Medicine (2023) 12:44
+
+Page 5 of 10
+
+[DOCLING_TABLE rows=49 columns=6]
+|  | Ad libitum clears | Ad libitum clears | Usual Care | Usual Care | Difference |
+| Patients in each study arm | 90 | 49.7% | 91 | 50.3% | -0.55% |
+| Planned Procedure-n (%) |  |  |  |  |  |
+| Transcatheter Aortic Valve Replacement | 21 | 23.3% | 24 | 26.4% | -3.0% |
+| Arrhythmia Ablation | 69 | 76.7% | 67 | 73.6% 
+END DE_EVIDENCE atkinson result.aspiration
+BEGIN DE_CELL atkinson result.pneumonia {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"atkinson","target_id":"result.pneumonia","values":null}
+END DE_CELL atkinson result.pneumonia
+BEGIN DE_CELL atkinson result.emergency_intubation {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"atkinson","target_id":"result.emergency_intubation","values":null}
+END DE_CELL atkinson result.emergency_intubation
+BEGIN DE_CELL atkinson result.nausea_vomiting {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"atkinson","target_id":"result.nausea_vomiting","values":null}
+END DE_CELL atkinson result.nausea_vomiting
+BEGIN DE_EVIDENCE atkinson result.antiemetic_use {"canonical_field": "intervention_events", "document_key": "atkinson.fulltext", "source_path": "originals/atkinson-2023/primary.pdf", "source_sha256": "c851c3b413ed3f3846b147b2a0ba52d375ee1a7b219642bfe4dae3b0996d1455", "view_sha256": "386b74bd2bc743eba6938642be9fd94ed6bd2250ec8f7804998dcc1b8ae483c6"}
+ | 0 | (0, 0) |
+| Headache | 0 | (0, 0) | 0 | (0, 0) | 0.46 | 0 | (0, 0) |
+| Nausea | 0 | (0, 0) | 0 | (0, 0) | 0.32 | 0 | (0, 0) |
+| Lightheaded | 0 | (0, 0) | 0 | (0, 0) | 0.84 | 0 | (0, 0) |
+| Anxious | 3.5 | (0, 7) | 3 | (0, 5) | 0.35 | 0 | (0, 1) |
+| Change in Creatinine - n (%) | 59 | 65.6% | 58 | 63.7% | 0.8 | 1.9% | (-12.1%, 15.8%) |
+| Change in Creatinine (POST-PRE)-median (IQR) | -0.1 | (-0.2, 0.02) | -0.1 | (-0.2, -0.02) | 0.27 | -0.03 | (-0.1, 0.02) |
+| Vasopressor-n (%) | 56 | 62.2% | 55 | 60.4% | 0.81 | 1.8% | (-12.4%, 16.0%) |
+| PONV (rescue medication) | 4 | 4.4% | 4 | 4.4% | 1 | 0.05% | (-5.9%, 6.0%) |
+| PLOS [HRS]-median (IQR) | 21.3 | (7.9, 25.8) | 21.3 | (6.2, 25.2) | 0.5 | 0.6 | (-1.1, 2.6) |
+| Safety Endpoints |  |  |  |  |  |  |  |
+| Intra-op Vomiting/ Regurgitation-n(%) | 0 | 0% | 0 | 0% | N/A | N/A | N/A |
+| Post Op ­O 2 needed at 24 h) - n (%) | 8 | 8.9% | 7 | 7.7% | 0.77 | 1.2% | (-6.4%, 9.2%) |
+| Evidence of Aspiration-n(%) | 0 | 0% | 0 | 0% | N/A | N/A | N/A |
+[/DOCLING_TABLE]
+
+None of the secondary end-points were significantly different between the two fasting protocols. Several studies in cardiac surgery (Breuer et al. 2006; Şavluk et al. 2017; Feguri et al. 2019) have shown a trend towards decreased inotrope or vasopressor use in an oral carbohydrate loaded group. In contrast, studies on healthier patients having less invasive surgery have shown no difference (Asakura et al. 2015; Canbay 2017). In our study, a significant proportion of pa
+END DE_EVIDENCE atkinson result.antiemetic_use
+BEGIN DE_EVIDENCE atkinson result.antiemetic_use {"canonical_field": "intervention_group_size", "document_key": "atkinson.fulltext", "source_path": "originals/atkinson-2023/primary.pdf", "source_sha256": "c851c3b413ed3f3846b147b2a0ba52d375ee1a7b219642bfe4dae3b0996d1455", "view_sha256": "386b74bd2bc743eba6938642be9fd94ed6bd2250ec8f7804998dcc1b8ae483c6"}
+n et al. Perioperative Medicine (2023) 12:44
+
+Page 5 of 10
+
+[DOCLING_TABLE rows=49 columns=6]
+|  | Ad libitum clears | Ad libitum clears | Usual Care | Usual Care | Difference |
+| Patients in each study arm | 90 | 49.7% | 91 | 50.3% | -0.55% |
+| Planned Procedure-n (%) |  |  |  |  |  |
+| Transcatheter Aortic Valve Replacement | 21 | 23.3% | 24 | 26.4% | -3.0% |
+| Arrhythmia Ablation | 69 | 76.7% | 67 | 73.6% 
+END DE_EVIDENCE atkinson result.antiemetic_use
+BEGIN DE_CELL atkinson result.hypoglycemia {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"atkinson","target_id":"result.hypoglycemia","values":null}
+END DE_CELL atkinson result.hypoglycemia
+BEGIN DE_CELL atkinson result.intraoperative_fluid {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"atkinson","target_id":"result.intraoperative_fluid","values":null}
+END DE_CELL atkinson result.intraoperative_fluid
+BEGIN DE_CELL atkinson result.contrast_induced_aki {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"atkinson","target_id":"result.contrast_induced_aki","values":null}
+END DE_CELL atkinson result.contrast_induced_aki
+BEGIN DE_EVIDENCE atkinson result.inotrope_vasopressor {"canonical_field": "intervention_events", "document_key": "atkinson.fulltext", "source_path": "originals/atkinson-2023/primary.pdf", "source_sha256": "c851c3b413ed3f3846b147b2a0ba52d375ee1a7b219642bfe4dae3b0996d1455", "view_sha256": "386b74bd2bc743eba6938642be9fd94ed6bd2250ec8f7804998dcc1b8ae483c6"}
+0% |
+| Arrhythmia Ablation | 68 | 75.6% | 67 | 73.6% | 1.9% |
+| Other | 1 | 1.1% | 0 | 0.0% | 1.1% |
+| Type of Anesthesia-n (%) |  |  |  |  |  |
+| General with Endotracheal Tube | 56 | 62.2% | 57 | 62.6% | -0.4% |
+| Monitored Aesthesia Care/Deep Sedation | 33 | 36.7% | 34 | 37.4% | -0.7% |
+| Not applicable (surgery cancelled) | 1 | 1.1% | 0 | 0.0% | 1.10% |
+| Emesis-n (%) | 0 | 0.0% | 0 | 0.0% | 0.0% |
+| Total contrast recorded- n (%) | 19 | 21.1% | 26 | 28.6% | -7.5% |
+| Total contrast-median (IQR) | 60 | (35, 70) | 67.5 | (40, 110) | -11 |
+| Vasopressor-n (%) | 56 | 62.2% | 55 | 60.4% | 1.8% |
+| Phenylephrine | 49 | 54.4% | 46 | 50.5% | 3.9% |
+| Epinephrine | 0 | 0.0% | 1 | 1.1% | -1.1% |
+| Norepinephrine | 7 | 7.8% | 13 | 14.3% | -6.5% |
+| Total Crystalloids-median (IQR) | 1453 | (700, 2000) | 1375 | (625, 2000) | 40 |
+| Any Colloids-n (%) | 1 | 1.1% | 1 | 1.1% | 0% |
+| Estimated Blood Loss- median (IQR) | 0 | (0, 5) | 0 | (0, 20) | 0 |
+| Any allogeneic red blood cells-n (%) | 1 | 1.1% | 1 | 1.1% | 0% |
+| Urine Output- median (IQR) | 370 | (0, 600) | 225 | (0, 510) | 25 |
+| Post-op | Ad libitum clears |  | Usual Care |  | Difference |
+| Heart rate-median (IQR) | 65 | (58, 74) | 64 | (56, 75) | 0 |
+| Blood Pressure Systolic-mean (std) | 118.2 | 21.3 | 123.1 | 22.4 | -4.9 |
+| Blood Pressure Diastolic-mean (std) | 63.3 | 12.1 | 64.7 | 12.6 | -1.4 |
+| SpO 2 -median (IQR) | 98 | (96, 100) | 97 | (95, 99) | 1 a |
+| Rhythm-n (%) |  |  |  |  |  |
+| Not Documented | 10 | 11
+END DE_EVIDENCE atkinson result.inotrope_vasopressor
+BEGIN DE_EVIDENCE atkinson result.inotrope_vasopressor {"canonical_field": "intervention_group_size", "document_key": "atkinson.fulltext", "source_path": "originals/atkinson-2023/primary.pdf", "source_sha256": "c851c3b413ed3f3846b147b2a0ba52d375ee1a7b219642bfe4dae3b0996d1455", "view_sha256": "386b74bd2bc743eba6938642be9fd94ed6bd2250ec8f7804998dcc1b8ae483c6"}
+n et al. Perioperative Medicine (2023) 12:44
+
+Page 5 of 10
+
+[DOCLING_TABLE rows=49 columns=6]
+|  | Ad libitum clears | Ad libitum clears | Usual Care | Usual Care | Difference |
+| Patients in each study arm | 90 | 49.7% | 91 | 50.3% | -0.55% |
+| Planned Procedure-n (%) |  |  |  |  |  |
+| Transcatheter Aortic Valve Replacement | 21 | 23.3% | 24 | 26.4% | -3.0% |
+| Arrhythmia Ablation | 69 | 76.7% | 67 | 73.6% 
+END DE_EVIDENCE atkinson result.inotrope_vasopressor
+BEGIN DE_EVIDENCE atkinson result.ventilation {"canonical_field": "intervention_events", "document_key": "atkinson.fulltext", "source_path": "originals/atkinson-2023/primary.pdf", "source_sha256": "c851c3b413ed3f3846b147b2a0ba52d375ee1a7b219642bfe4dae3b0996d1455", "view_sha256": "386b74bd2bc743eba6938642be9fd94ed6bd2250ec8f7804998dcc1b8ae483c6"}
+
+
+[DOCLING_PAGE 8]
+
+Atkinson et al. Perioperative Medicine (2023) 12:44
+
+Page 8 of 10
+
+[DOCLING_TABLE rows=10 columns=6]
+| Atrial Fibrillation | 4 | 4.4% | 3 | 3.3% | 1.1% |
+| Other/Not Documented | 22 | 24.4% | 23 | 25.3% | -0.8% |
+| Post-Op Labs Recorded-n (%) | 61 | 67.8% | 61 | 67% | 0.7% |
+| Glucose-median (IQR) | 114.5 | (104, 140) | 118 | (105, 132) | 0 |
+| Bun-median (IQR) | 18 | (15, 21) | 17.5 | (14, 21) | 0 |
+| Creatinine-median (IQR) | 1 | (0.7, 1.1) | 1 | (0.7, 1.1) | 0.01 |
+| Supplemental O2-n (%) | 8 | 8.9% | 7 | 7.7% | 1.2% |
+| Ventilated postoperatively-n (%) | 1 | 1.1% | 0 | 0.0% | 1.1% |
+| Post-Op Opioids-n (%) | 28 | 31.1% | 24 | -26.4% | 4.7% |
+| SpO2 = oxygen saturation |  |  |  |  |  |
+[/DOCLING_TABLE]
+
+a Indicates a significant difference between groups ( p < 0.05). Median differences are calculated using the Hodges-Lehmann Estimation location shift. Frequency differences and mean differences are calculated as relative differences
+
+[DOCLING_TABLE rows=17 columns=8]
+| Outcomes | Ad libitum clears | Ad libitum clears | Usual Care | Usual Care | P -Value | Difference | 95% CI for difference |
+| Patient Satisfaction Score-median (IQR) | 12 | (6, 17) | 10 | (5, 15) | 0.18 | 2 | (-1, 4) |
+| Thirst | 5 | (2, 7) | 4 | (2, 5) | 0.17 | 0 | (0, 2) |
+| Hunger | 2.5 | (0, 6) | 2 | (0, 5) | 0.87 | 0 | (0, 0) |
+| Headache | 0 | (0, 0) | 0 | (0, 0) | 0.46 | 0 | (0, 0) |
+| Nausea | 0 | (0, 0) | 0 | (0, 0) | 0.32 | 0 | (0, 0) |
+| Lightheaded | 0 | (0, 0) | 0 | (0, 0) | 0.8
+END DE_EVIDENCE atkinson result.ventilation
+BEGIN DE_EVIDENCE atkinson result.ventilation {"canonical_field": "intervention_group_size", "document_key": "atkinson.fulltext", "source_path": "originals/atkinson-2023/primary.pdf", "source_sha256": "c851c3b413ed3f3846b147b2a0ba52d375ee1a7b219642bfe4dae3b0996d1455", "view_sha256": "386b74bd2bc743eba6938642be9fd94ed6bd2250ec8f7804998dcc1b8ae483c6"}
+n et al. Perioperative Medicine (2023) 12:44
+
+Page 5 of 10
+
+[DOCLING_TABLE rows=49 columns=6]
+|  | Ad libitum clears | Ad libitum clears | Usual Care | Usual Care | Difference |
+| Patients in each study arm | 90 | 49.7% | 91 | 50.3% | -0.55% |
+| Planned Procedure-n (%) |  |  |  |  |  |
+| Transcatheter Aortic Valve Replacement | 21 | 23.3% | 24 | 26.4% | -3.0% |
+| Arrhythmia Ablation | 69 | 76.7% | 67 | 73.6% 
+END DE_EVIDENCE atkinson result.ventilation
+BEGIN DE_EVIDENCE bode result.composite_satisfaction {"canonical_field": "intervention_mean", "document_key": "bode.fulltext", "source_path": "originals/bode-2022/fulltext.pdf", "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929", "view_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13"}
+ 2025
+
+[DOCLING_TABLE rows=15 columns=7]
+| . . . . . . . . . . . . . . . . . . . . . . . Variable | . . . . . . . . . . . . . . . . Non-fasting ( n = 100) | . . . . . . . . . . . . Fasting ( n = 101) | . . . . . . . . . . . . . Mean difference | . . . . . . . . . . . . . . . . 95% CI | . . . . . . . . . . . . . . . . . . . . . P -value based on Mann - Whitney Test | . . . . . . . . . . . P -value based on t -test |
+| Summed well-being score a |  |  |  |  |  |  |
+|  | 13.1 + 9.6 | 16.5 + 11.4 | - 3.40 | ( - 6.35, - 0.46) | 0 . 029 | 0 . 024 |
+| Well-being score b |  |  |  |  |  |  |
+| Tiredness | 1.6 + 2.3 | 2.6 + 2.7 | - 0.99 | ( - 1.68, - 0.29) | 0 . 023 | 0 . 006 |
+| Weakness | 0.8 + 1.6 | 1.0 + 2.0 | - 0.21 | ( - 0.72, - 0.35) | 0.968 | 0.422 |
+| Dizziness | 0.6 + 1.4 | 0.7 + 1.9 | - 0.19 | (0.28, - 0.66) | 0.581 | 0.424 |
+| Anxiety | 2.8 + 2.9 | 2.3 + 2.7 | 0.49 | ( - 0.29, 1.27) | 0.087 | 0.215 |
+| Hunger | 0.9 + 1.9 | 3.1 + 3.2 | - 2.14 | ( - 2.86, - 1.42) | , 0 . 001 | , 0 . 001 |
+| Thirst | 2.1 + 2.5 | 2.7 + 3.1 | - 0.60 | ( - 1.38, 0.18) | 0.999 | 0.131 |
+| Mouth dryness | 2.8 + 2.6 | 2.9 + 2.8 | - 0.06 | (0.69, - 0.81) | 0.771 | 0.874 |
+| Headache | 0.4 + 1.5 | 0.6 + 1.4 | - 0.16 | ( - 0.57, 0.25) | 0.322 | 0.440 |
+| Stomach ache | 0.1 + 0.6 | 0.2 + 0.9 | - 0.05 | ( - 0.26, 0.16) | 0.154 | 0.648 |
+| Other pains | 0.8 + 1.9 | 0.4 + 1.6 | 0.36 | ( - 0.13, 0.85) | 0.766 | 0.150 |
+| Nausea | 0.2 + 0.7 | 0.2 + 0.8 | - 0.06 | ( - 0.27, 0.15
+END DE_EVIDENCE bode result.composite_satisfaction
+BEGIN DE_EVIDENCE bode result.composite_satisfaction {"canonical_field": "intervention_group_size", "document_key": "bode.fulltext", "source_path": "originals/bode-2022/fulltext.pdf", "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929", "view_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13"}
+3 columns=3]
+| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Variable | . . . . . . . . . . . . . . Non-fasting ( n = 100) | . . . . . . . . . . . . . Fasting ( n = 101) |
+| Age (years) | 71.6 + 13.2 | 72.5 + 9.8 |
+| Male | 67.0% | 66.3% |
+| Body mass index (kg/m²) | 28.4 + 4.7 | 27.9 + 3.8 |
+| Left ventricular ejection fraction (%) | 46.1 + 15.1 | 46.8 + 16.1 |
+| Medical history
+END DE_EVIDENCE bode result.composite_satisfaction
+BEGIN DE_EVIDENCE bode result.hunger {"canonical_field": "intervention_mean", "document_key": "bode.fulltext", "source_path": "originals/bode-2022/fulltext.pdf", "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929", "view_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13"}
+ . . . . . . . . . . P -value based on t -test |
+| Summed well-being score a |  |  |  |  |  |  |
+|  | 13.1 + 9.6 | 16.5 + 11.4 | - 3.40 | ( - 6.35, - 0.46) | 0 . 029 | 0 . 024 |
+| Well-being score b |  |  |  |  |  |  |
+| Tiredness | 1.6 + 2.3 | 2.6 + 2.7 | - 0.99 | ( - 1.68, - 0.29) | 0 . 023 | 0 . 006 |
+| Weakness | 0.8 + 1.6 | 1.0 + 2.0 | - 0.21 | ( - 0.72, - 0.35) | 0.968 | 0.422 |
+| Dizziness | 0.6 + 1.4 | 0.7 + 1.9 | - 0.19 | (0.28, - 0.66) | 0.581 | 0.424 |
+| Anxiety | 2.8 + 2.9 | 2.3 + 2.7 | 0.49 | ( - 0.29, 1.27) | 0.087 | 0.215 |
+| Hunger | 0.9 + 1.9 | 3.1 + 3.2 | - 2.14 | ( - 2.86, - 1.42) | , 0 . 001 | , 0 . 001 |
+| Thirst | 2.1 + 2.5 | 2.7 + 3.1 | - 0.60 | ( - 1.38, 0.18) | 0.999 | 0.131 |
+| Mouth dryness | 2.8 + 2.6 | 2.9 + 2.8 | - 0.06 | (0.69, - 0.81) | 0.771 | 0.874 |
+| Headache | 0.4 + 1.5 | 0.6 + 1.4 | - 0.16 | ( - 0.57, 0.25) | 0.322 | 0.440 |
+| Stomach ache | 0.1 + 0.6 | 0.2 + 0.9 | - 0.05 | ( - 0.26, 0.16) | 0.154 | 0.648 |
+| Other pains | 0.8 + 1.9 | 0.4 + 1.6 | 0.36 | ( - 0.13, 0.85) | 0.766 | 0.150 |
+| Nausea | 0.2 + 0.7 | 0.2 + 0.8 | - 0.06 | ( - 0.27, 0.15) | 0.999 | 0.570 |
+[/DOCLING_TABLE]
+
+Data are presented as mean + standard deviation. Outcome parameters with P -value , 0.05 are in bold.
+
+CI, con fi dence interval.
+
+a A higher score shows a lower level of patients ' well-being.
+
+b Based on a numeric rating scale (0 -10); 0: item not existent, 10: most severe expression.
+
+[DOCLING_TABLE rows=13 columns=6]
+| . . . . . . . . . . . . .
+END DE_EVIDENCE bode result.hunger
+BEGIN DE_EVIDENCE bode result.hunger {"canonical_field": "intervention_group_size", "document_key": "bode.fulltext", "source_path": "originals/bode-2022/fulltext.pdf", "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929", "view_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13"}
+3 columns=3]
+| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Variable | . . . . . . . . . . . . . . Non-fasting ( n = 100) | . . . . . . . . . . . . . Fasting ( n = 101) |
+| Age (years) | 71.6 + 13.2 | 72.5 + 9.8 |
+| Male | 67.0% | 66.3% |
+| Body mass index (kg/m²) | 28.4 + 4.7 | 27.9 + 3.8 |
+| Left ventricular ejection fraction (%) | 46.1 + 15.1 | 46.8 + 16.1 |
+| Medical history
+END DE_EVIDENCE bode result.hunger
+BEGIN DE_EVIDENCE bode result.thirst {"canonical_field": "intervention_mean", "document_key": "bode.fulltext", "source_path": "originals/bode-2022/fulltext.pdf", "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929", "view_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13"}
+ |  |  |
+|  | 13.1 + 9.6 | 16.5 + 11.4 | - 3.40 | ( - 6.35, - 0.46) | 0 . 029 | 0 . 024 |
+| Well-being score b |  |  |  |  |  |  |
+| Tiredness | 1.6 + 2.3 | 2.6 + 2.7 | - 0.99 | ( - 1.68, - 0.29) | 0 . 023 | 0 . 006 |
+| Weakness | 0.8 + 1.6 | 1.0 + 2.0 | - 0.21 | ( - 0.72, - 0.35) | 0.968 | 0.422 |
+| Dizziness | 0.6 + 1.4 | 0.7 + 1.9 | - 0.19 | (0.28, - 0.66) | 0.581 | 0.424 |
+| Anxiety | 2.8 + 2.9 | 2.3 + 2.7 | 0.49 | ( - 0.29, 1.27) | 0.087 | 0.215 |
+| Hunger | 0.9 + 1.9 | 3.1 + 3.2 | - 2.14 | ( - 2.86, - 1.42) | , 0 . 001 | , 0 . 001 |
+| Thirst | 2.1 + 2.5 | 2.7 + 3.1 | - 0.60 | ( - 1.38, 0.18) | 0.999 | 0.131 |
+| Mouth dryness | 2.8 + 2.6 | 2.9 + 2.8 | - 0.06 | (0.69, - 0.81) | 0.771 | 0.874 |
+| Headache | 0.4 + 1.5 | 0.6 + 1.4 | - 0.16 | ( - 0.57, 0.25) | 0.322 | 0.440 |
+| Stomach ache | 0.1 + 0.6 | 0.2 + 0.9 | - 0.05 | ( - 0.26, 0.16) | 0.154 | 0.648 |
+| Other pains | 0.8 + 1.9 | 0.4 + 1.6 | 0.36 | ( - 0.13, 0.85) | 0.766 | 0.150 |
+| Nausea | 0.2 + 0.7 | 0.2 + 0.8 | - 0.06 | ( - 0.27, 0.15) | 0.999 | 0.570 |
+[/DOCLING_TABLE]
+
+Data are presented as mean + standard deviation. Outcome parameters with P -value , 0.05 are in bold.
+
+CI, con fi dence interval.
+
+a A higher score shows a lower level of patients ' well-being.
+
+b Based on a numeric rating scale (0 -10); 0: item not existent, 10: most severe expression.
+
+[DOCLING_TABLE rows=13 columns=6]
+| . . . . . . . . . . . . . . Variable | . . . . . . . . . . . . . . . . . . . . . . . . . Non-fasting (n = 100) | 
+END DE_EVIDENCE bode result.thirst
+BEGIN DE_EVIDENCE bode result.thirst {"canonical_field": "intervention_group_size", "document_key": "bode.fulltext", "source_path": "originals/bode-2022/fulltext.pdf", "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929", "view_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13"}
+3 columns=3]
+| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Variable | . . . . . . . . . . . . . . Non-fasting ( n = 100) | . . . . . . . . . . . . . Fasting ( n = 101) |
+| Age (years) | 71.6 + 13.2 | 72.5 + 9.8 |
+| Male | 67.0% | 66.3% |
+| Body mass index (kg/m²) | 28.4 + 4.7 | 27.9 + 3.8 |
+| Left ventricular ejection fraction (%) | 46.1 + 15.1 | 46.8 + 16.1 |
+| Medical history
+END DE_EVIDENCE bode result.thirst
+BEGIN DE_EVIDENCE bode result.anxiety {"canonical_field": "intervention_mean", "document_key": "bode.fulltext", "source_path": "originals/bode-2022/fulltext.pdf", "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929", "view_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13"}
+. . . . . . . . . . . . . . . . . . P -value based on Mann - Whitney Test | . . . . . . . . . . . P -value based on t -test |
+| Summed well-being score a |  |  |  |  |  |  |
+|  | 13.1 + 9.6 | 16.5 + 11.4 | - 3.40 | ( - 6.35, - 0.46) | 0 . 029 | 0 . 024 |
+| Well-being score b |  |  |  |  |  |  |
+| Tiredness | 1.6 + 2.3 | 2.6 + 2.7 | - 0.99 | ( - 1.68, - 0.29) | 0 . 023 | 0 . 006 |
+| Weakness | 0.8 + 1.6 | 1.0 + 2.0 | - 0.21 | ( - 0.72, - 0.35) | 0.968 | 0.422 |
+| Dizziness | 0.6 + 1.4 | 0.7 + 1.9 | - 0.19 | (0.28, - 0.66) | 0.581 | 0.424 |
+| Anxiety | 2.8 + 2.9 | 2.3 + 2.7 | 0.49 | ( - 0.29, 1.27) | 0.087 | 0.215 |
+| Hunger | 0.9 + 1.9 | 3.1 + 3.2 | - 2.14 | ( - 2.86, - 1.42) | , 0 . 001 | , 0 . 001 |
+| Thirst | 2.1 + 2.5 | 2.7 + 3.1 | - 0.60 | ( - 1.38, 0.18) | 0.999 | 0.131 |
+| Mouth dryness | 2.8 + 2.6 | 2.9 + 2.8 | - 0.06 | (0.69, - 0.81) | 0.771 | 0.874 |
+| Headache | 0.4 + 1.5 | 0.6 + 1.4 | - 0.16 | ( - 0.57, 0.25) | 0.322 | 0.440 |
+| Stomach ache | 0.1 + 0.6 | 0.2 + 0.9 | - 0.05 | ( - 0.26, 0.16) | 0.154 | 0.648 |
+| Other pains | 0.8 + 1.9 | 0.4 + 1.6 | 0.36 | ( - 0.13, 0.85) | 0.766 | 0.150 |
+| Nausea | 0.2 + 0.7 | 0.2 + 0.8 | - 0.06 | ( - 0.27, 0.15) | 0.999 | 0.570 |
+[/DOCLING_TABLE]
+
+Data are presented as mean + standard deviation. Outcome parameters with P -value , 0.05 are in bold.
+
+CI, con fi dence interval.
+
+a A higher score shows a lower level of patients ' well-being.
+
+b Based on a numeric rating scale (0 -10); 0: item not existent, 10: most sev
+END DE_EVIDENCE bode result.anxiety
+BEGIN DE_EVIDENCE bode result.anxiety {"canonical_field": "intervention_group_size", "document_key": "bode.fulltext", "source_path": "originals/bode-2022/fulltext.pdf", "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929", "view_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13"}
+3 columns=3]
+| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Variable | . . . . . . . . . . . . . . Non-fasting ( n = 100) | . . . . . . . . . . . . . Fasting ( n = 101) |
+| Age (years) | 71.6 + 13.2 | 72.5 + 9.8 |
+| Male | 67.0% | 66.3% |
+| Body mass index (kg/m²) | 28.4 + 4.7 | 27.9 + 3.8 |
+| Left ventricular ejection fraction (%) | 46.1 + 15.1 | 46.8 + 16.1 |
+| Medical history
+END DE_EVIDENCE bode result.anxiety
+BEGIN DE_EVIDENCE bode result.tiredness_fatigue {"canonical_field": "intervention_mean", "document_key": "bode.fulltext", "source_path": "originals/bode-2022/fulltext.pdf", "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929", "view_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13"}
+ . . . . . . . . . . . . . . . . . . . . . . Variable | . . . . . . . . . . . . . . . . Non-fasting ( n = 100) | . . . . . . . . . . . . Fasting ( n = 101) | . . . . . . . . . . . . . Mean difference | . . . . . . . . . . . . . . . . 95% CI | . . . . . . . . . . . . . . . . . . . . . P -value based on Mann - Whitney Test | . . . . . . . . . . . P -value based on t -test |
+| Summed well-being score a |  |  |  |  |  |  |
+|  | 13.1 + 9.6 | 16.5 + 11.4 | - 3.40 | ( - 6.35, - 0.46) | 0 . 029 | 0 . 024 |
+| Well-being score b |  |  |  |  |  |  |
+| Tiredness | 1.6 + 2.3 | 2.6 + 2.7 | - 0.99 | ( - 1.68, - 0.29) | 0 . 023 | 0 . 006 |
+| Weakness | 0.8 + 1.6 | 1.0 + 2.0 | - 0.21 | ( - 0.72, - 0.35) | 0.968 | 0.422 |
+| Dizziness | 0.6 + 1.4 | 0.7 + 1.9 | - 0.19 | (0.28, - 0.66) | 0.581 | 0.424 |
+| Anxiety | 2.8 + 2.9 | 2.3 + 2.7 | 0.49 | ( - 0.29, 1.27) | 0.087 | 0.215 |
+| Hunger | 0.9 + 1.9 | 3.1 + 3.2 | - 2.14 | ( - 2.86, - 1.42) | , 0 . 001 | , 0 . 001 |
+| Thirst | 2.1 + 2.5 | 2.7 + 3.1 | - 0.60 | ( - 1.38, 0.18) | 0.999 | 0.131 |
+| Mouth dryness | 2.8 + 2.6 | 2.9 + 2.8 | - 0.06 | (0.69, - 0.81) | 0.771 | 0.874 |
+| Headache | 0.4 + 1.5 | 0.6 + 1.4 | - 0.16 | ( - 0.57, 0.25) | 0.322 | 0.440 |
+| Stomach ache | 0.1 + 0.6 | 0.2 + 0.9 | - 0.05 | ( - 0.26, 0.16) | 0.154 | 0.648 |
+| Other pains | 0.8 + 1.9 | 0.4 + 1.6 | 0.36 | ( - 0.13, 0.85) | 0.766 | 0.150 |
+| Nausea | 0.2 + 0.7 | 0.2 + 0.8 | - 0.06 | ( - 0.27, 0.15) | 0.999 | 0.570 |
+[/DOCLING_TABLE]
+
+Data are presented as mean 
+END DE_EVIDENCE bode result.tiredness_fatigue
+BEGIN DE_EVIDENCE bode result.tiredness_fatigue {"canonical_field": "intervention_group_size", "document_key": "bode.fulltext", "source_path": "originals/bode-2022/fulltext.pdf", "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929", "view_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13"}
+3 columns=3]
+| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Variable | . . . . . . . . . . . . . . Non-fasting ( n = 100) | . . . . . . . . . . . . . Fasting ( n = 101) |
+| Age (years) | 71.6 + 13.2 | 72.5 + 9.8 |
+| Male | 67.0% | 66.3% |
+| Body mass index (kg/m²) | 28.4 + 4.7 | 27.9 + 3.8 |
+| Left ventricular ejection fraction (%) | 46.1 + 15.1 | 46.8 + 16.1 |
+| Medical history
+END DE_EVIDENCE bode result.tiredness_fatigue
+BEGIN DE_EVIDENCE bode result.aspiration {"canonical_field": "intervention_events", "document_key": "bode.fulltext", "source_path": "originals/bode-2022/fulltext.pdf", "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929", "view_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13"}
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Keywords Pre-procedural fasting · Implantable cardiac de fi brillator · Pacemaker · Aspiration · Patient-reported outcome measures
+
+What ' s new?
+
+The Fast-CIED Study is the fi rst randomized clinical trial to assess the bene fi ts of a non-fasting compared with a fasting strategy before elective CIED procedures.
+
+Nointra-procedural food-intake-related incidents concerning vomiting, aspiration, or emergency intubation were observed in both groups.
+
+A non-fasting strategy is advantageous compared with a fasting strategy regarding patient ' s well-being and comparable in terms of safety.
+
+Non-fasting before CIED procedures did not in fl uence renal, metabolic, and haematological blood parameters and duration of hospital stay.
+
+Results of the Fast-CIED study can help to facilitate scheduling of CIED procedures and therefore allow ef fi cient patient and work fl ows.
+
+Introduction
+
+Pre-procedural fasting has often been practiced for about 4 -6 h before interventional cardiac procedures, such as percutaneous coronary interventions and implantation of cardiac implantable electronic devices (CIEDs). However, extended fasting may occur when these procedures are delayed or cancelled. 1 Requiring patients to have a strict 6-h fasting window for solid food also hinders scheduling patients for earlier appointments if schedule changes.
+
+Prol
+END DE_EVIDENCE bode result.aspiration
+BEGIN DE_EVIDENCE bode result.aspiration {"canonical_field": "intervention_group_size", "document_key": "bode.fulltext", "source_path": "originals/bode-2022/fulltext.pdf", "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929", "view_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13"}
+3 columns=3]
+| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Variable | . . . . . . . . . . . . . . Non-fasting ( n = 100) | . . . . . . . . . . . . . Fasting ( n = 101) |
+| Age (years) | 71.6 + 13.2 | 72.5 + 9.8 |
+| Male | 67.0% | 66.3% |
+| Body mass index (kg/m²) | 28.4 + 4.7 | 27.9 + 3.8 |
+| Left ventricular ejection fraction (%) | 46.1 + 15.1 | 46.8 + 16.1 |
+| Medical history
+END DE_EVIDENCE bode result.aspiration
+BEGIN DE_EVIDENCE bode result.pneumonia {"canonical_field": "intervention_events", "document_key": "bode.fulltext", "source_path": "originals/bode-2022/fulltext.pdf", "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929", "view_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13"}
+; Figure 3 ).
+
+Length of intensive care unit and hospital stay
+
+Post-operative stay (total and ICU) was comparable in both groups, with no statistically signi fi cant difference (total: non-fasting 1.9 + 2.6 days vs. fasting 1.6 + 1.3 days, P = 0.36; ICU: non-fasting 0.06 + 0.42 days vs. fasting 0.01 + 0.10 days, P = 0.55).
+
+Thirty-day chest infection rate and incidence of procedural-related deaths
+
+Symptoms of respiratory infections were reported in three patients within 30 days post-procedure; one patient in each group had a common cold, and one patient in the fasting group was treated for pneumonia without sequelae ( P = 0.999). No procedural-related death occurred.
+
+Discussion
+
+This study showed that a non-fasting strategy is advantageous compared with a fasting strategy regarding patient ' s well-being and comparable in terms of safety for patients undergoing elective CIED procedures. To our knowledge, this is the fi rst randomized clinical study to assess the bene fi ts of a non-fasting strategy for an interventional cardiac procedure. The summed pre-procedural well-being score was signi fi cantly lower for the non-fasting group, which re fl ects more well-being in this group which was mainly driven by signi fi cantly lower scores for hunger and tiredness in the non-fasting group. Non-fasting before CIED procedures did not in fl uence renal, metabolic, and haematological blood parameters and duration of hospital stay. No intra-procedural foodintake-related incidents concerning vomiting, aspirat
+END DE_EVIDENCE bode result.pneumonia
+BEGIN DE_EVIDENCE bode result.pneumonia {"canonical_field": "intervention_group_size", "document_key": "bode.fulltext", "source_path": "originals/bode-2022/fulltext.pdf", "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929", "view_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13"}
+3 columns=3]
+| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Variable | . . . . . . . . . . . . . . Non-fasting ( n = 100) | . . . . . . . . . . . . . Fasting ( n = 101) |
+| Age (years) | 71.6 + 13.2 | 72.5 + 9.8 |
+| Male | 67.0% | 66.3% |
+| Body mass index (kg/m²) | 28.4 + 4.7 | 27.9 + 3.8 |
+| Left ventricular ejection fraction (%) | 46.1 + 15.1 | 46.8 + 16.1 |
+| Medical history
+END DE_EVIDENCE bode result.pneumonia
+BEGIN DE_EVIDENCE bode result.emergency_intubation {"canonical_field": "intervention_events", "document_key": "bode.fulltext", "source_path": "originals/bode-2022/fulltext.pdf", "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929", "view_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13"}
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Keywords Pre-procedural fasting · Implantable cardiac de fi brillator · Pacemaker · Aspiration · Patient-reported outcome measures
+
+What ' s new?
+
+The Fast-CIED Study is the fi rst randomized clinical trial to assess the bene fi ts of a non-fasting compared with a fasting strategy before elective CIED procedures.
+
+Nointra-procedural food-intake-related incidents concerning vomiting, aspiration, or emergency intubation were observed in both groups.
+
+A non-fasting strategy is advantageous compared with a fasting strategy regarding patient ' s well-being and comparable in terms of safety.
+
+Non-fasting before CIED procedures did not in fl uence renal, metabolic, and haematological blood parameters and duration of hospital stay.
+
+Results of the Fast-CIED study can help to facilitate scheduling of CIED procedures and therefore allow ef fi cient patient and work fl ows.
+
+Introduction
+
+Pre-procedural fasting has often been practiced for about 4 -6 h before interventional cardiac procedures, such as percutaneous coronary interventions and implantation of cardiac implantable electronic devices (CIEDs). However, extended fasting may occur when these procedures are delayed or cancelled. 1 Requiring patients to have a strict 6-h fasting window for solid food also hinders scheduling patients for earlier appointments if schedule changes.
+
+Prol
+END DE_EVIDENCE bode result.emergency_intubation
+BEGIN DE_EVIDENCE bode result.emergency_intubation {"canonical_field": "intervention_group_size", "document_key": "bode.fulltext", "source_path": "originals/bode-2022/fulltext.pdf", "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929", "view_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13"}
+3 columns=3]
+| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Variable | . . . . . . . . . . . . . . Non-fasting ( n = 100) | . . . . . . . . . . . . . Fasting ( n = 101) |
+| Age (years) | 71.6 + 13.2 | 72.5 + 9.8 |
+| Male | 67.0% | 66.3% |
+| Body mass index (kg/m²) | 28.4 + 4.7 | 27.9 + 3.8 |
+| Left ventricular ejection fraction (%) | 46.1 + 15.1 | 46.8 + 16.1 |
+| Medical history
+END DE_EVIDENCE bode result.emergency_intubation
+BEGIN DE_CELL bode result.nausea_vomiting {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"bode","target_id":"result.nausea_vomiting","values":null}
+END DE_CELL bode result.nausea_vomiting
+BEGIN DE_EVIDENCE bode result.antiemetic_use {"canonical_field": "intervention_events", "document_key": "bode.fulltext", "source_path": "originals/bode-2022/fulltext.pdf", "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929", "view_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13"}
+bserved between the groups regarding intra-procedural nausea [non-fasting vs. fasting: 7 (7.4%) vs. 6 (6.2%), relative risk 1.22, 95% CI 0.39 -3.77, P = 0.299].
+
+Secondary outcomes
+
+Usage of intra-procedural medications
+
+During CIED procedures, 104 patients (51.7%) received a mean of 3.1 + 1.4 mg of Midazolam, and 67 patients (33.3%) received a mean of 0.05 + 0.03 mg of Fentanyl ( Table 5 ). Intra-procedural medication for Midazolam, Propofol, and Fentanyl did not show statistically signi fi cant differences between the two groups ( Table 5 ). No patients asked for or needed antiemetic medication during the procedure.
+
+Serum creatinine ( Δ creatinine) and glomerular fi ltration rate changes
+
+No signi fi cant difference was observed between the two groups regarding postvs. pre-procedural serum creatinine changes [nonfasting vs. fasting: -6.2 + 19.6 vs. -5.8 + 16.3, MD -0.36, 95% CI ( -5.67 to 4.95)] and GFR changes [non-fasting vs. fasting: 4.2 + 9.7 vs. 3.5 + 12.4, MD 0.73, 95% CI ( -2.59 to 4.06)].
+
+Patients ' vital signs and blood parameters
+
+Among all the pre-procedural blood tests, signi fi cant differences were found only in the venous blood gas analysis for levels of lactate ( P = 0.027), calcium ( P = 0.018), and glucose ( P , 0.001; see Supplementary material online, Table S1 ), while among the postprocedural blood tests, the thrombocyte level ( P = 0.043) was the only parameter with a signi fi cant difference (see Supplementary material online, Table S2 ). Heart rate, mean blood pressure, a
+END DE_EVIDENCE bode result.antiemetic_use
+BEGIN DE_EVIDENCE bode result.antiemetic_use {"canonical_field": "intervention_group_size", "document_key": "bode.fulltext", "source_path": "originals/bode-2022/fulltext.pdf", "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929", "view_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13"}
+3 columns=3]
+| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Variable | . . . . . . . . . . . . . . Non-fasting ( n = 100) | . . . . . . . . . . . . . Fasting ( n = 101) |
+| Age (years) | 71.6 + 13.2 | 72.5 + 9.8 |
+| Male | 67.0% | 66.3% |
+| Body mass index (kg/m²) | 28.4 + 4.7 | 27.9 + 3.8 |
+| Left ventricular ejection fraction (%) | 46.1 + 15.1 | 46.8 + 16.1 |
+| Medical history
+END DE_EVIDENCE bode result.antiemetic_use
+BEGIN DE_CELL bode result.hypoglycemia {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"bode","target_id":"result.hypoglycemia","values":null}
+END DE_CELL bode result.hypoglycemia
+BEGIN DE_CELL bode result.intraoperative_fluid {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"bode","target_id":"result.intraoperative_fluid","values":null}
+END DE_CELL bode result.intraoperative_fluid
+BEGIN DE_CELL bode result.contrast_induced_aki {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"bode","target_id":"result.contrast_induced_aki","values":null}
+END DE_CELL bode result.contrast_induced_aki
+BEGIN DE_CELL bode result.inotrope_vasopressor {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"bode","target_id":"result.inotrope_vasopressor","values":null}
+END DE_CELL bode result.inotrope_vasopressor
+BEGIN DE_CELL bode result.ventilation {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"bode","target_id":"result.ventilation","values":null}
+END DE_CELL bode result.ventilation
+BEGIN DE_EVIDENCE woods result.composite_satisfaction {"canonical_field": "intervention_mean", "document_key": "woods.fulltext", "source_path": "originals/woods-2024/primary.pdf", "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d", "view_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991"}
+ds up to 2 hours preoperatively. However, implementation of these protocols has been slow. 8 In a No patients in either group died or had pneumonia, aspiration, intubation, or hypoglycemia.
+
+www.ajcconline.org
+
+AMERICAN JOURNAL OF CRITICAL CARE, January 2024, Volume 33, No. 1
+
+31
+
+[DOCLING_PAGE 4]
+
+Downloaded from http://aacnjournals.org/ajcconline/article-pdf/33/1/29/153754/29.pdf by ANZCA/CICM user on 13 May 2024
+
+[DOCLING_TABLE rows=19 columns=5]
+| Variable a | All patients (N = 197) | Heart-healthy diet (n = 100) | Fasting (n = 97) | P |
+| Patient satisfaction with diet, b mean (SD) | 2.1 (1.4) | 1.3 (0.7) | 3.1 (1.5) | <.001 |
+| Thirst, c mean (SD) |  |  |  |  |
+| Before procedure | 38.7 (28.4) | 29.2 (26.4) | 48.7 (27 .2) | <.001 |
+| After procedure | 55.8 (32.3) | 49.8 (31.7) | 62.1 (31.8) | .007 |
+| Hunger, c mean (SD) |  |  |  |  |
+| Before procedure | 42.5 (35.3) | 22.6 (26.2) | 63.2 (31.5) | <.001 |
+| After procedure | 55.7 (32.8) | 40.4 (29.3) | 71.6 (28.5) | <.001 |
+| Fatigue, c mean (SD) |  |  |  |  |
+| Before procedure | 36.6 (31.4) | 33.1 (31.3) | 40.2 (31.3) | .11 |
+| After procedure | 46.8 (32.3) | 44.2 (33.5) | 49.5 (31.0) | .25 |
+| Blood glucose level, d mean (SD), mg/dL |  |  |  |  |
+| Before procedure | 175.3 (55.2) | 177 .8 (53.4) | 172.7 (58.2) | .74 |
+| After procedure | 161.1 (62.3) | 157 .2 (61.1) | 165.3 (64.7) | .65 |
+| Change | -17 .5 (58.7) | -23.5 (63.6) | -11.0 (53.5) | .46 |
+| Gastrointestinal issues, No. (%) of patients |  |  |  |  |
+END DE_EVIDENCE woods result.composite_satisfaction
+BEGIN DE_EVIDENCE woods result.hunger {"canonical_field": "intervention_mean", "document_key": "woods.fulltext", "source_path": "originals/woods-2024/primary.pdf", "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d", "view_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991"}
+, No. 1
+
+31
+
+[DOCLING_PAGE 4]
+
+Downloaded from http://aacnjournals.org/ajcconline/article-pdf/33/1/29/153754/29.pdf by ANZCA/CICM user on 13 May 2024
+
+[DOCLING_TABLE rows=19 columns=5]
+| Variable a | All patients (N = 197) | Heart-healthy diet (n = 100) | Fasting (n = 97) | P |
+| Patient satisfaction with diet, b mean (SD) | 2.1 (1.4) | 1.3 (0.7) | 3.1 (1.5) | <.001 |
+| Thirst, c mean (SD) |  |  |  |  |
+| Before procedure | 38.7 (28.4) | 29.2 (26.4) | 48.7 (27 .2) | <.001 |
+| After procedure | 55.8 (32.3) | 49.8 (31.7) | 62.1 (31.8) | .007 |
+| Hunger, c mean (SD) |  |  |  |  |
+| Before procedure | 42.5 (35.3) | 22.6 (26.2) | 63.2 (31.5) | <.001 |
+| After procedure | 55.7 (32.8) | 40.4 (29.3) | 71.6 (28.5) | <.001 |
+| Fatigue, c mean (SD) |  |  |  |  |
+| Before procedure | 36.6 (31.4) | 33.1 (31.3) | 40.2 (31.3) | .11 |
+| After procedure | 46.8 (32.3) | 44.2 (33.5) | 49.5 (31.0) | .25 |
+| Blood glucose level, d mean (SD), mg/dL |  |  |  |  |
+| Before procedure | 175.3 (55.2) | 177 .8 (53.4) | 172.7 (58.2) | .74 |
+| After procedure | 161.1 (62.3) | 157 .2 (61.1) | 165.3 (64.7) | .65 |
+| Change | -17 .5 (58.7) | -23.5 (63.6) | -11.0 (53.5) | .46 |
+| Gastrointestinal issues, No. (%) of patients |  |  |  |  |
+| Before procedure | 28 (14.2) | 15 (15.0) | 13 (13.4) | .75 |
+| After procedure | 16 (8.1) | 9 (9.0) | 7 (7 .2) | .65 |
+| Loading dose of antiplatelet medication, No. (%) of patients | 74 (37 .6) | 38 (38.0) | 36 (37 .1) | .90 |
+[/DOCLING_TABL
+END DE_EVIDENCE woods result.hunger
+BEGIN DE_EVIDENCE woods result.thirst {"canonical_field": "intervention_mean", "document_key": "woods.fulltext", "source_path": "originals/woods-2024/primary.pdf", "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d", "view_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991"}
+29.pdf by ANZCA/CICM user on 13 May 2024
+
+[DOCLING_TABLE rows=19 columns=5]
+| Variable a | All patients (N = 197) | Heart-healthy diet (n = 100) | Fasting (n = 97) | P |
+| Patient satisfaction with diet, b mean (SD) | 2.1 (1.4) | 1.3 (0.7) | 3.1 (1.5) | <.001 |
+| Thirst, c mean (SD) |  |  |  |  |
+| Before procedure | 38.7 (28.4) | 29.2 (26.4) | 48.7 (27 .2) | <.001 |
+| After procedure | 55.8 (32.3) | 49.8 (31.7) | 62.1 (31.8) | .007 |
+| Hunger, c mean (SD) |  |  |  |  |
+| Before procedure | 42.5 (35.3) | 22.6 (26.2) | 63.2 (31.5) | <.001 |
+| After procedure | 55.7 (32.8) | 40.4 (29.3) | 71.6 (28.5) | <
+END DE_EVIDENCE woods result.thirst
+BEGIN DE_CELL woods result.anxiety {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"woods","target_id":"result.anxiety","values":null}
+END DE_CELL woods result.anxiety
+BEGIN DE_EVIDENCE woods result.tiredness_fatigue {"canonical_field": "intervention_mean", "document_key": "woods.fulltext", "source_path": "originals/woods-2024/primary.pdf", "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d", "view_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991"}
+umns=5]
+| Variable a | All patients (N = 197) | Heart-healthy diet (n = 100) | Fasting (n = 97) | P |
+| Patient satisfaction with diet, b mean (SD) | 2.1 (1.4) | 1.3 (0.7) | 3.1 (1.5) | <.001 |
+| Thirst, c mean (SD) |  |  |  |  |
+| Before procedure | 38.7 (28.4) | 29.2 (26.4) | 48.7 (27 .2) | <.001 |
+| After procedure | 55.8 (32.3) | 49.8 (31.7) | 62.1 (31.8) | .007 |
+| Hunger, c mean (SD) |  |  |  |  |
+| Before procedure | 42.5 (35.3) | 22.6 (26.2) | 63.2 (31.5) | <.001 |
+| After procedure | 55.7 (32.8) | 40.4 (29.3) | 71.6 (28.5) | <.001 |
+| Fatigue, c mean (SD) |  |  |  |  |
+| Before procedure | 36.6 (31.4) | 33.1 (31.3) | 40.2 (31.3) | .11 |
+| After procedure | 46.8 (32.3) | 44.2 (33.5) | 49.5 (31.0) | .25 |
+| Blood glucose level, d mean (SD), mg/dL |  |  |  |  |
+| Before procedure | 175.3 (55.2) | 177 .8 (53.4) | 172.7 (58.2) | .74 |
+| After procedure | 161.1 (62.3) | 157 .2 (61.1) | 165.3 (64.7) | .65 |
+| Change | -17 .5 (58.7) | -23.5 (63.6) | -11.0 (53.5) | .46 |
+| Gastrointestinal issues, No. (%) of patients |  |  |  |  |
+| Before procedure | 28 (14.2) | 15 (15.0) | 13 (13.4) | .75 |
+| After procedure | 16 (8.1) | 9 (9.0) | 7 (7 .2) | .65 |
+| Loading dose of antiplatelet medication, No. (%) of patients | 74 (37 .6) | 38 (38.0) | 36 (37 .1) | .90 |
+[/DOCLING_TABLE]
+
+c Measured on a 100-mm visual analog scale.
+
+b Scored as 1 = strongly agree to 5 = strongly disagree with the statement that they were satisfi ed with the diet.
+
+d Only patie
+END DE_EVIDENCE woods result.tiredness_fatigue
+BEGIN DE_EVIDENCE woods result.aspiration {"canonical_field": "intervention_events", "document_key": "woods.fulltext", "source_path": "originals/woods-2024/primary.pdf", "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d", "view_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991"}
+no specific randomized controlled studies have suggested otherwise. In addition to anesthesia guidelines, enhanced recovery after surgery protocols, which include recommendations for perioperative nutrition and a change in fasting time, have been developed to improve patient outcomes. Enhanced recovery after surgery protocols have decreased the fasting period from the traditional 12 hours to 6 to 8 hours while encouraging consumption of clear liquids up to 2 hours preoperatively. However, implementation of these protocols has been slow. 8 In a No patients in either group died or had pneumonia, aspiration, intubation, or hypoglycemia.
+
+www.ajcconline.org
+
+AMERICAN JOURNAL OF CRITICAL CARE, January 2024, Volume 33, No. 1
+
+31
+
+[DOCLING_PAGE 4]
+
+Downloaded from http://aacnjournals.org/ajcconline/article-pdf/33/1/29/153754/29.pdf by ANZCA/CICM user on 13 May 2024
+
+[DOCLING_TABLE rows=19 columns=5]
+| Variable a | All patients (N = 197) | Heart-healthy diet (n = 100) | Fasting (n = 97) | P |
+| Patient satisfaction with diet, b mean (SD) | 2.1 (1.4) | 1.3 (0.7) | 3.1 (1.5) | <.001 |
+| Thirst, c mean (SD) |  |  |  |  |
+| Before procedure | 38.7 (28.4) | 29.2 (26.4) | 48.7 (27 .2) | <.001 |
+| After procedure | 55.8 (32.3) | 49.8 (31.7) | 62.1 (31.8) | .007 |
+| Hunger, c mean (SD) |  |  |  |  |
+| Before procedure | 42.5 (35.3) | 22.6 (26.2) | 63.2 (31.5) | <.001 |
+| After procedure | 55.7 (32.8) | 40.4 (29.3) | 71.6 (28.5) | <.001 |
+| Fatigue, c mean (SD) |  |  |  |  |
+| Before procedure | 36.6 (31.4) | 33.1 (31.3) | 40.2 (31
+END DE_EVIDENCE woods result.aspiration
+BEGIN DE_EVIDENCE woods result.pneumonia {"canonical_field": "intervention_events", "document_key": "woods.fulltext", "source_path": "originals/woods-2024/primary.pdf", "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d", "view_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991"}
+no specific randomized controlled studies have suggested otherwise. In addition to anesthesia guidelines, enhanced recovery after surgery protocols, which include recommendations for perioperative nutrition and a change in fasting time, have been developed to improve patient outcomes. Enhanced recovery after surgery protocols have decreased the fasting period from the traditional 12 hours to 6 to 8 hours while encouraging consumption of clear liquids up to 2 hours preoperatively. However, implementation of these protocols has been slow. 8 In a No patients in either group died or had pneumonia, aspiration, intubation, or hypoglycemia.
+
+www.ajcconline.org
+
+AMERICAN JOURNAL OF CRITICAL CARE, January 2024, Volume 33, No. 1
+
+31
+
+[DOCLING_PAGE 4]
+
+Downloaded from http://aacnjournals.org/ajcconline/article-pdf/33/1/29/153754/29.pdf by ANZCA/CICM user on 13 May 2024
+
+[DOCLING_TABLE rows=19 columns=5]
+| Variable a | All patients (N = 197) | Heart-healthy diet (n = 100) | Fasting (n = 97) | P |
+| Patient satisfaction with diet, b mean (SD) | 2.1 (1.4) | 1.3 (0.7) | 3.1 (1.5) | <.001 |
+| Thirst, c mean (SD) |  |  |  |  |
+| Before procedure | 38.7 (28.4) | 29.2 (26.4) | 48.7 (27 .2) | <.001 |
+| After procedure | 55.8 (32.3) | 49.8 (31.7) | 62.1 (31.8) | .007 |
+| Hunger, c mean (SD) |  |  |  |  |
+| Before procedure | 42.5 (35.3) | 22.6 (26.2) | 63.2 (31.5) | <.001 |
+| After procedure | 55.7 (32.8) | 40.4 (29.3) | 71.6 (28.5) | <.001 |
+| Fatigue, c mean (SD) |  |  |  |  |
+| Before procedure | 36.6 (31.4) | 33.1 (31.3) | 40.2 (31
+END DE_EVIDENCE woods result.pneumonia
+BEGIN DE_EVIDENCE woods result.emergency_intubation {"canonical_field": "intervention_events", "document_key": "woods.fulltext", "source_path": "originals/woods-2024/primary.pdf", "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d", "view_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991"}
+no specific randomized controlled studies have suggested otherwise. In addition to anesthesia guidelines, enhanced recovery after surgery protocols, which include recommendations for perioperative nutrition and a change in fasting time, have been developed to improve patient outcomes. Enhanced recovery after surgery protocols have decreased the fasting period from the traditional 12 hours to 6 to 8 hours while encouraging consumption of clear liquids up to 2 hours preoperatively. However, implementation of these protocols has been slow. 8 In a No patients in either group died or had pneumonia, aspiration, intubation, or hypoglycemia.
+
+www.ajcconline.org
+
+AMERICAN JOURNAL OF CRITICAL CARE, January 2024, Volume 33, No. 1
+
+31
+
+[DOCLING_PAGE 4]
+
+Downloaded from http://aacnjournals.org/ajcconline/article-pdf/33/1/29/153754/29.pdf by ANZCA/CICM user on 13 May 2024
+
+[DOCLING_TABLE rows=19 columns=5]
+| Variable a | All patients (N = 197) | Heart-healthy diet (n = 100) | Fasting (n = 97) | P |
+| Patient satisfaction with diet, b mean (SD) | 2.1 (1.4) | 1.3 (0.7) | 3.1 (1.5) | <.001 |
+| Thirst, c mean (SD) |  |  |  |  |
+| Before procedure | 38.7 (28.4) | 29.2 (26.4) | 48.7 (27 .2) | <.001 |
+| After procedure | 55.8 (32.3) | 49.8 (31.7) | 62.1 (31.8) | .007 |
+| Hunger, c mean (SD) |  |  |  |  |
+| Before procedure | 42.5 (35.3) | 22.6 (26.2) | 63.2 (31.5) | <.001 |
+| After procedure | 55.7 (32.8) | 40.4 (29.3) | 71.6 (28.5) | <.001 |
+| Fatigue, c mean (SD) |  |  |  |  |
+| Before procedure | 36.6 (31.4) | 33.1 (31.3) | 40.2 (31
+END DE_EVIDENCE woods result.emergency_intubation
+BEGIN DE_CELL woods result.nausea_vomiting {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"woods","target_id":"result.nausea_vomiting","values":null}
+END DE_CELL woods result.nausea_vomiting
+BEGIN DE_CELL woods result.antiemetic_use {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"woods","target_id":"result.antiemetic_use","values":null}
+END DE_CELL woods result.antiemetic_use
+BEGIN DE_EVIDENCE woods result.hypoglycemia {"canonical_field": "intervention_events", "document_key": "woods.fulltext", "source_path": "originals/woods-2024/primary.pdf", "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d", "view_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991"}
+no specific randomized controlled studies have suggested otherwise. In addition to anesthesia guidelines, enhanced recovery after surgery protocols, which include recommendations for perioperative nutrition and a change in fasting time, have been developed to improve patient outcomes. Enhanced recovery after surgery protocols have decreased the fasting period from the traditional 12 hours to 6 to 8 hours while encouraging consumption of clear liquids up to 2 hours preoperatively. However, implementation of these protocols has been slow. 8 In a No patients in either group died or had pneumonia, aspiration, intubation, or hypoglycemia.
+
+www.ajcconline.org
+
+AMERICAN JOURNAL OF CRITICAL CARE, January 2024, Volume 33, No. 1
+
+31
+
+[DOCLING_PAGE 4]
+
+Downloaded from http://aacnjournals.org/ajcconline/article-pdf/33/1/29/153754/29.pdf by ANZCA/CICM user on 13 May 2024
+
+[DOCLING_TABLE rows=19 columns=5]
+| Variable a | All patients (N = 197) | Heart-healthy diet (n = 100) | Fasting (n = 97) | P |
+| Patient satisfaction with diet, b mean (SD) | 2.1 (1.4) | 1.3 (0.7) | 3.1 (1.5) | <.001 |
+| Thirst, c mean (SD) |  |  |  |  |
+| Before procedure | 38.7 (28.4) | 29.2 (26.4) | 48.7 (27 .2) | <.001 |
+| After procedure | 55.8 (32.3) | 49.8 (31.7) | 62.1 (31.8) | .007 |
+| Hunger, c mean (SD) |  |  |  |  |
+| Before procedure | 42.5 (35.3) | 22.6 (26.2) | 63.2 (31.5) | <.001 |
+| After procedure | 55.7 (32.8) | 40.4 (29.3) | 71.6 (28.5) | <.001 |
+| Fatigue, c mean (SD) |  |  |  |  |
+| Before procedure | 36.6 (31.4) | 33.1 (31.3) | 40.2 (31
+END DE_EVIDENCE woods result.hypoglycemia
+BEGIN DE_CELL woods result.intraoperative_fluid {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"woods","target_id":"result.intraoperative_fluid","values":null}
+END DE_CELL woods result.intraoperative_fluid
+BEGIN DE_CELL woods result.contrast_induced_aki {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"woods","target_id":"result.contrast_induced_aki","values":null}
+END DE_CELL woods result.contrast_induced_aki
+BEGIN DE_CELL woods result.inotrope_vasopressor {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"woods","target_id":"result.inotrope_vasopressor","values":null}
+END DE_CELL woods result.inotrope_vasopressor
+BEGIN DE_CELL woods result.ventilation {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"woods","target_id":"result.ventilation","values":null}
+END DE_CELL woods result.ventilation
+BEGIN DE_CELL boukantar result.composite_satisfaction {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"boukantar","target_id":"result.composite_satisfaction","values":null}
+END DE_CELL boukantar result.composite_satisfaction
+BEGIN DE_CELL boukantar result.hunger {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"boukantar","target_id":"result.hunger","values":null}
+END DE_CELL boukantar result.hunger
+BEGIN DE_CELL boukantar result.thirst {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"boukantar","target_id":"result.thirst","values":null}
+END DE_CELL boukantar result.thirst
+BEGIN DE_CELL boukantar result.anxiety {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"boukantar","target_id":"result.anxiety","values":null}
+END DE_CELL boukantar result.anxiety
+BEGIN DE_CELL boukantar result.tiredness_fatigue {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"boukantar","target_id":"result.tiredness_fatigue","values":null}
+END DE_CELL boukantar result.tiredness_fatigue
+BEGIN DE_CELL boukantar result.aspiration {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"boukantar","target_id":"result.aspiration","values":null}
+END DE_CELL boukantar result.aspiration
+BEGIN DE_EVIDENCE boukantar result.pneumonia {"canonical_field": "intervention_events", "document_key": "boukantar.fulltext", "source_path": "originals/boukantar-2024/primary.pdf", "source_sha256": "ed40e773fbdbf0571245eb819a25a8c5341af5e431dda72beab5f74ddcfea4e5", "view_sha256": "97650a3562edf67a2ad103c6f96b01ee23fd69ae4771b125d4a74d4132bccae8"}
+n the nonfasting group were assigned to a speci fi c diet, which could be too restrictive to implement in daily practice.
+
+[DOCLING_TABLE rows=6 columns=4]
+| TABLE 4 Secondary Outcomes Regarding Safety | TABLE 4 Secondary Outcomes Regarding Safety | TABLE 4 Secondary Outcomes Regarding Safety | TABLE 4 Secondary Outcomes Regarding Safety |
+|  | Fasting Group | Nonfasting Group | P Value |
+| Contrast-induced acute kidney injury | 4/249 (2) | 10/235 (4) | 0.08 |
+| Outpatients | 3/178 (2) | 6/173 (3) |  |
+| Inpatients | 1/71 (1) | 4/62 (6) |  |
+| Aspiration pneumonia | 1/337 (0) | 1/331 (0) | 0.99 |
+[/DOCLING_TABLE]
+
+Values are n/N (%). During follow-up, blood at day 3 was retrieved for 484 patients (65%), and 668 patients (90%) answered the phone call at day 7. Contrast-induced acute kidney injury was de fi ned as an increase in serum creatinine > 25% from baseline or > 44 m mol/L. Aspiration pneumonia was de fi ned by respiratory symptoms and fever within 7-day follow-up.
+
+The TONIC trial was, however, designed to assess safety outcomes. Its major strength is that its population truly re fl ects real-life patients and procedures, only excluding emergency procedures (which are not fasting per se): outand inpatients, elective, semiurgent, complex and high-risk procedures (left main artery lesions, chronic total occlusions, high calcium burden requiring rotational atherectomy and bifurcation lesions) were all included. Therefore, our results highlight that a nonfasting str
+END DE_EVIDENCE boukantar result.pneumonia
+BEGIN DE_CELL boukantar result.emergency_intubation {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"boukantar","target_id":"result.emergency_intubation","values":null}
+END DE_CELL boukantar result.emergency_intubation
+BEGIN DE_EVIDENCE boukantar result.nausea_vomiting {"canonical_field": "intervention_events", "document_key": "boukantar.supplement", "source_path": "documents/boukantar-supplement/source.html", "source_sha256": "8c525f832c16c3c7d419f8efd0327ca90a8f826ad4c3b9ebbac36839ff425634", "view_sha256": "cd53b765d989503583c7ff0388890ccb6ce011a923f22c87a7711201e6843b12"}
+tional Flow Reserve; IQR: interquartile range; SD: standard deviation; TIMI: Thrombolysis in myocardial infarction.
+Supplementary table S3 : Outcomes of the composite primary endpoint.
+ | Fasting N=374 | Non-fasting N=365 | Absolute difference | Upper limit of the one-sided 95% CI a
+Primary outcome , n/N (%) |  |  |  |
+Per protocol | 37/360 (10.3) | 30/365 (8.2) | -2.1 | 1.5
+Modified ITT | 37/374 (9.9) | 30/365 (8.2) | -1.7 | 1.8
+Diabetes-adjusted PP |  |  | -2.1 | 1.5
+Diabetes-adjusted mITT |  |  | -1.7 | 1.8
+Vagal reaction , n/N (%) |  |  |  |
+Per protocol | 20/360 (5.6) | 10/365 (2.7) | -2.8 | -0.4
+Modified ITT | 20/374 (5.4) | 10/365 (2.7) | -2.6 | -0.2
+Diabetes-adjusted PP |  |  | -2.8 | -0.4
+Diabetes-adjusted mITT |  |  | -2.6 | -0.2
+Isolated nausea or vomiting , n/N (%) |  |  |  |
+Per protocol | 7/360 (1.9) | 5/365 (1.4) | -0.6 | 1.0
+Modified ITT | 7/374 (1.9) | 5/365 (1.4) | -0.5 | 1.0
+Diabetes-adjusted PP |  |  | -0.6 | 1.0
+Diabetes-adjusted mITT |  |  | -0.5 | 1.0
+Hypoglycemia , n/N (%) |  |  |  |
+Per protocol | 22/360 (6.1) | 19/365 (5.2) | -0.9 | 1.9
+Modified ITT | 22/374 (5.9) | 19/365 (5.2) | -0.7 | 2.1
+Diabetes-adjusted PP |  |  | -0.9 | 1.9
+Diabetes-adjusted mITT |  |  | -0.7 | 2.1
+Symptomatic hypoglycemia , n/N (%) |  |  |  |
+Per protocol | 3/360 (0.8) | 1/365 (0.3) | -0.6 | 0.4
+Modified I
+END DE_EVIDENCE boukantar result.nausea_vomiting
+BEGIN DE_EVIDENCE boukantar result.antiemetic_use {"canonical_field": "intervention_events", "document_key": "boukantar.supplement", "source_path": "documents/boukantar-supplement/source.html", "source_sha256": "8c525f832c16c3c7d419f8efd0327ca90a8f826ad4c3b9ebbac36839ff425634", "view_sha256": "cd53b765d989503583c7ff0388890ccb6ce011a923f22c87a7711201e6843b12"}
+angioplasty | 0/110 (0) | 7/112 (6)
+TIMI flow at the end of the angioplasty |  |
+0 | 5/110 (5) | 1/112 (1)
+1 | 1/110 (1) | 0/112 (0)
+2 | 2/110 (2) | 1/112 (1)
+3 | 102/110 (93) | 110/112 (98)
+Contrast agent volume (ml) | 50 (35 ; 100) | 50 (35 ; 100)
+Medication during the procedure | 294 (79) | 288 (79)
+Neuroleptic | 3 (1) | 1 (0)
+Benzodiazepine | 69 (18) | 82 (22)
+Morphin | 12 (3) | 7 (2)
+Unfractionated heparin (additional) | 276 (73) | 273 (75)
+Anti-emetic | 9 (2) | 3 (1)
+Atropine | 18 (5) | 4 (1)
+Ephedrine | 16 (4) | 16 (4)
+Glucose infusion | 2 (1) | 1 (0)
+Saline infusion | 21 (6) | 13 (4)
+a Data missing for 1 and 2 patients in the fasting and the non-fasting group respectively.
+FFR: Fractional Flow Reserve; IQR: interquartile range; SD: standard deviation; TIMI: Thrombolysis in myocardial infarction.
+Supplementary table S3 : Outcomes of the composite primary endpoint.
+ | Fasting N=374 | Non-fast
+END DE_EVIDENCE boukantar result.antiemetic_use
+BEGIN DE_EVIDENCE boukantar result.antiemetic_use {"canonical_field": "intervention_group_size", "document_key": "boukantar.supplement", "source_path": "documents/boukantar-supplement/source.html", "source_sha256": "8c525f832c16c3c7d419f8efd0327ca90a8f826ad4c3b9ebbac36839ff425634", "view_sha256": "cd53b765d989503583c7ff0388890ccb6ce011a923f22c87a7711201e6843b12"}
+ Association; SD: standard deviation.
+Supplementary table S2 : Other procedural characteristics.
+ | Fasting group N=374 N (%) | Non-fasting group N=365 N (%)
+Vitals at the start of the procedure |  |
+Systolic blood pressure (mmHg), Mean ± SD | 134 (±28) | 134 (±25)
+Diastolic blood pressure (mmHg), Mean ± S
+END DE_EVIDENCE boukantar result.antiemetic_use
+BEGIN DE_EVIDENCE boukantar result.hypoglycemia {"canonical_field": "intervention_events", "document_key": "boukantar.supplement", "source_path": "documents/boukantar-supplement/source.html", "source_sha256": "8c525f832c16c3c7d419f8efd0327ca90a8f826ad4c3b9ebbac36839ff425634", "view_sha256": "cd53b765d989503583c7ff0388890ccb6ce011a923f22c87a7711201e6843b12"}
+2.6 | -0.2
+Isolated nausea or vomiting , n/N (%) |  |  |  |
+Per protocol | 7/360 (1.9) | 5/365 (1.4) | -0.6 | 1.0
+Modified ITT | 7/374 (1.9) | 5/365 (1.4) | -0.5 | 1.0
+Diabetes-adjusted PP |  |  | -0.6 | 1.0
+Diabetes-adjusted mITT |  |  | -0.5 | 1.0
+Hypoglycemia , n/N (%) |  |  |  |
+Per protocol | 22/360 (6.1) | 19/365 (5.2) | -0.9 | 1.9
+Modified ITT | 22/374 (5.9) | 19/365 (5.2) | -0.7 | 2.1
+Diabetes-adjusted PP |  |  | -0.9 | 1.9
+Diabetes-adjusted mITT |  |  | -0.7 | 2.1
+Symptomatic hypoglycemia , n/N (%) |  |  |  |
+Per protocol | 3/360 (0.8) | 1/365 (0.3) | -0.6 | 0.4
+Modified ITT | 3/374 (0.8) | 1/365 (0.3) | -0.5 | 0.4
+Diabetes-adjusted PP |  |  | -0.6 | 0.4
+Diabetes-adjusted mITT |  |  | -0.6 | 0.4
+a Upper limit of the one-sided 95% confidence interval of 
+END DE_EVIDENCE boukantar result.hypoglycemia
+BEGIN DE_EVIDENCE boukantar result.intraoperative_fluid {"canonical_field": "intervention_events", "document_key": "boukantar.supplement", "source_path": "documents/boukantar-supplement/source.html", "source_sha256": "8c525f832c16c3c7d419f8efd0327ca90a8f826ad4c3b9ebbac36839ff425634", "view_sha256": "cd53b765d989503583c7ff0388890ccb6ce011a923f22c87a7711201e6843b12"}
+ngioplasty |  |
+0 | 5/110 (5) | 1/112 (1)
+1 | 1/110 (1) | 0/112 (0)
+2 | 2/110 (2) | 1/112 (1)
+3 | 102/110 (93) | 110/112 (98)
+Contrast agent volume (ml) | 50 (35 ; 100) | 50 (35 ; 100)
+Medication during the procedure | 294 (79) | 288 (79)
+Neuroleptic | 3 (1) | 1 (0)
+Benzodiazepine | 69 (18) | 82 (22)
+Morphin | 12 (3) | 7 (2)
+Unfractionated heparin (additional) | 276 (73) | 273 (75)
+Anti-emetic | 9 (2) | 3 (1)
+Atropine | 18 (5) | 4 (1)
+Ephedrine | 16 (4) | 16 (4)
+Glucose infusion | 2 (1) | 1 (0)
+Saline infusion | 21 (6) | 13 (4)
+a Data missing for 1 and 2 patients in the fasting and the non-fasting group respectively.
+FFR: Fractional Flow Reserve; IQR: interquartile range; SD: standard deviation; TIMI: Thrombolysis in myocardial infarction.
+Supplementary table S3 : Outcomes of the composite primary endpoint.
+ | Fasting N=374 | Non-fasting N=365 | Absolute difference | Upper limit of the one-sided 95% CI a
+Primary outcome , n/N (%) |  |  |  |
+Per protocol | 37/360 (10.3) | 30/365 (8.2) | -2.1 | 1.5
+Mod
+END DE_EVIDENCE boukantar result.intraoperative_fluid
+BEGIN DE_EVIDENCE boukantar result.intraoperative_fluid {"canonical_field": "intervention_group_size", "document_key": "boukantar.supplement", "source_path": "documents/boukantar-supplement/source.html", "source_sha256": "8c525f832c16c3c7d419f8efd0327ca90a8f826ad4c3b9ebbac36839ff425634", "view_sha256": "cd53b765d989503583c7ff0388890ccb6ce011a923f22c87a7711201e6843b12"}
+ Association; SD: standard deviation.
+Supplementary table S2 : Other procedural characteristics.
+ | Fasting group N=374 N (%) | Non-fasting group N=365 N (%)
+Vitals at the start of the procedure |  |
+Systolic blood pressure (mmHg), Mean ± SD | 134 (±28) | 134 (±25)
+Diastolic blood pressure (mmHg), Mean ± S
+END DE_EVIDENCE boukantar result.intraoperative_fluid
+BEGIN DE_EVIDENCE boukantar result.contrast_induced_aki {"canonical_field": "intervention_events", "document_key": "boukantar.fulltext", "source_path": "originals/boukantar-2024/primary.pdf", "source_sha256": "ed40e773fbdbf0571245eb819a25a8c5341af5e431dda72beab5f74ddcfea4e5", "view_sha256": "97650a3562edf67a2ad103c6f96b01ee23fd69ae4771b125d4a74d4132bccae8"}
+ acidity) vs fasting and demonstrated improved patient satisfaction in the nonfasting group, 12 but was underpowered to address safety. Moreover, patients in the nonfasting group were assigned to a speci fi c diet, which could be too restrictive to implement in daily practice.
+
+[DOCLING_TABLE rows=6 columns=4]
+| TABLE 4 Secondary Outcomes Regarding Safety | TABLE 4 Secondary Outcomes Regarding Safety | TABLE 4 Secondary Outcomes Regarding Safety | TABLE 4 Secondary Outcomes Regarding Safety |
+|  | Fasting Group | Nonfasting Group | P Value |
+| Contrast-induced acute kidney injury | 4/249 (2) | 10/235 (4) | 0.08 |
+| Outpatients | 3/178 (2) | 6/173 (3) |  |
+| Inpatients | 1/71 (1) | 4/62 (6) |  |
+| Aspiration pneumonia | 1/337 (0) | 1/331 (0) | 0.99 |
+[/DOCLING_TABLE]
+
+Values are n/N (%). During follow-up, blood at day 3 was retrieved for 484 patients (65%), and 668 patients (90%) answered the phone call at day 7. Contrast-induced acute kidney injury was de fi ned as an increase in serum creatinine > 25% from baseline or > 44 m mol/L. Aspiration pneumonia was de fi ned by respiratory symptoms and fever within 7-day follow-up.
+
+The TONIC trial was, however, designed to assess safety outcomes. Its major strength is that its population truly re fl ects real-life patients and procedures, only excluding emergency procedures (which are not fasting per se): outand inpatients, elective, semiurgent, complex and high-risk procedures (left main artery lesions, chronic total occlusions, high calcium
+END DE_EVIDENCE boukantar result.contrast_induced_aki
+BEGIN DE_CELL boukantar result.inotrope_vasopressor {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"boukantar","target_id":"result.inotrope_vasopressor","values":null}
+END DE_CELL boukantar result.inotrope_vasopressor
+BEGIN DE_CELL boukantar result.ventilation {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"boukantar","target_id":"result.ventilation","values":null}
+END DE_CELL boukantar result.ventilation
+BEGIN DE_EVIDENCE ferreira result.composite_satisfaction {"canonical_field": "intervention_mean", "document_key": "ferreira.fulltext", "source_path": "originals/ferreira-2024/primary.pdf", "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8", "view_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3"}
+ effect size was similar between the coronary and device subgroups (see Supplementary data online, Figure S3 and Table S12 ). Decisive evidence was found for improved patient satis­ faction scores in the no-fasting arm compared with the fasting arm (11 ± 4.0 vs. 15 ± 4.3 points, Bayes factor > 100; see Supplementary data online, Tables S2 and S4 ). There was no difference in length of stay (see Supplementary data online, Tables S10 and S11 ).
+
+Discussion
+
+This multicentre trial, across regional and tertiary hospitals, demon­ strated the superiority of no fasting prior to 
+END DE_EVIDENCE ferreira result.composite_satisfaction
+BEGIN DE_EVIDENCE ferreira result.composite_satisfaction {"canonical_field": "intervention_group_size", "document_key": "ferreira.fulltext", "source_path": "originals/ferreira-2024/primary.pdf", "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8", "view_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3"}
+s=24 columns=3]
+| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Baseline characteristic | . . . . . . . . . . . . . . . . . . . . . . . . Fasting ( N = 358) | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . No fasting ( N = 358) |
+| . . . . . . . . . . . . . . . . . . . . . . . . . . . . Age (years), mean ± SD | 70 ± 11.4 | 69 ± 10.9 |
+| Male sex, n (%) | 231/358 (64.5) | 236/358 (65.9) |
+| Body mass index, a mean ± SD | 29.6 ± 5.9 | 29.6 ± 5.
+END DE_EVIDENCE ferreira result.composite_satisfaction
+BEGIN DE_CELL ferreira result.hunger {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"ferreira","target_id":"result.hunger","values":null}
+END DE_CELL ferreira result.hunger
+BEGIN DE_CELL ferreira result.thirst {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"ferreira","target_id":"result.thirst","values":null}
+END DE_CELL ferreira result.thirst
+BEGIN DE_CELL ferreira result.anxiety {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"ferreira","target_id":"result.anxiety","values":null}
+END DE_CELL ferreira result.anxiety
+BEGIN DE_CELL ferreira result.tiredness_fatigue {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"ferreira","target_id":"result.tiredness_fatigue","values":null}
+END DE_CELL ferreira result.tiredness_fatigue
+BEGIN DE_CELL ferreira result.aspiration {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"ferreira","target_id":"result.aspiration","values":null}
+END DE_CELL ferreira result.aspiration
+BEGIN DE_EVIDENCE ferreira result.pneumonia {"canonical_field": "intervention_events", "document_key": "ferreira.fulltext", "source_path": "originals/ferreira-2024/primary.pdf", "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8", "view_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3"}
+/356 (6.5) |
+| Hypoglycaemia, n /total n (%) | 7/356 (2.0) | 2/356 (.6) |
+| Aspiration pneumonia, n /total n (%) | 0/358 (0) | 0/358 (0) |
+| Secondary outcomes |  |  |
+| Contrast-associated acute kidney injury, n /total n (%) | 3/78 (3.8) | 5/80 (6.3) |
+| New ventilation requirement, n /total n (%) | 0/358 (0) | 0/358 (0) |
+| New intensive care unit admission, n /total n (%) | 0/358 (0) | 0/358 (0) |
+| Readmission within 30 days, n /total n (%) | 28/358 (7.8) | 28/358 (7.8) |
+| Death within 30 days, n /total n (%) | 1/358 (.3) | 1/358 (.3) |
+| Pneumonia within 30 days, n /total n (%) | 2/358 (.6) | 0/358 (0) |
+| Patient satisfaction score, a mean ± SD | 15 ± 4.3 | 11 ± 4.0 |
+| Pre-procedure EQ-VAS, b mean ± SD | 70 ± 19 | 70 ± 20 |
+[/DOCLING_TABLE]
+
+NIM, non-inferiority margin; SD, standard deviation; VAS, visual analogue scale.
+
+a Cumulative score, with higher scores corresponding to decreased patient satisfaction and worse symptoms.
+
+b EQ-5D-5L results can be found in Supplementary data online, Table S3 .
+
+[DOCLING_TABLE rows=0 columns=0]
+[/DOCLING_TABLE]
+
+Sedation for implantable cardiac devices was considered clinically similar to percutaneous coronary interventional procedures. The de­ vice cohort demonstrated a comparable effect size to interventional procedures. The procedural sedation used was similar to the interven­ tional cohort, though a higher midazolam dose was given in those with device-related procedures (see Supplementary data online, Tables S9
+
+and S13 ). A prior randomiz
+END DE_EVIDENCE ferreira result.pneumonia
+BEGIN DE_CELL ferreira result.emergency_intubation {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"ferreira","target_id":"result.emergency_intubation","values":null}
+END DE_CELL ferreira result.emergency_intubation
+BEGIN DE_CELL ferreira result.nausea_vomiting {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"ferreira","target_id":"result.nausea_vomiting","values":null}
+END DE_CELL ferreira result.nausea_vomiting
+BEGIN DE_CELL ferreira result.antiemetic_use {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"ferreira","target_id":"result.antiemetic_use","values":null}
+END DE_CELL ferreira result.antiemetic_use
+BEGIN DE_EVIDENCE ferreira result.hypoglycemia {"canonical_field": "intervention_events", "document_key": "ferreira.fulltext", "source_path": "originals/ferreira-2024/primary.pdf", "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8", "view_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3"}
+. . . . . . . . . . . | . . . |
+| Composite of procedure-related aspiration pneumonia, hypotension, hyperglycaemia, or hypoglycaemia, n /total n (%) | 68/356 (19.1) | 43/356 (12.0) |
+| Components of the primary outcome |  |  |
+| Hypotension (systolic < 90 mm Hg or intervention required), n /total n (%) | 32/358 (8.9) | 22/358 (6.1) |
+| Fluid support for blood pressure, n /total n (%) | 7/32 (21.9) | 1/22 (4.5) |
+| Medication support, n /total n (%) | 7/32 (21.9) | 4/22 (18.2) |
+| Hyperglycaemia, n /total n (%) | 30/356 (8.4) | 23/356 (6.5) |
+| Hypoglycaemia, n /total n (%) | 7/356 (2.0) | 2/356 (.6) |
+| Aspiration pneumonia, n /total n (%) | 0/358 (0) | 0/358 (0) |
+| Secondary outcomes |  |  |
+| Contrast-associated acute kidney injury, n /total n (%) | 3/78 (3.8) | 5/80 (6.3) |
+| New ventilation requirement, n /total n (%) | 0/358 (0) | 0/358 (0) |
+| New intensive care unit admission, n /total n (%) | 0/358 (0) | 0/358 (0) |
+| Readmission within 30 days, n /total n (%) | 28/358 (7.8) | 28/358 (7.8) |
+| Death within 30 days, n /total n (%) | 1/358 (.3) | 1/358 (.3) |
+| Pneumonia within 30 days, n /total n (%) | 2/358 (.6) | 0/358 (0) |
+| Patient satisfaction score, a mean ± SD | 15 ± 4.3 | 11 ± 4.0 |
+| Pre-procedure EQ-VAS, b mean ± SD | 70 ± 19 | 70 ± 20 |
+[/DOCLING_TABLE]
+
+NIM, non-inferiority margin; SD, standard deviation; VAS, visual analogue scale.
+
+a Cumulative score, with higher scores corresponding to decreased patient satisfaction and worse symptoms.
+
+b EQ-5D-5L results c
+END DE_EVIDENCE ferreira result.hypoglycemia
+BEGIN DE_CELL ferreira result.intraoperative_fluid {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"ferreira","target_id":"result.intraoperative_fluid","values":null}
+END DE_CELL ferreira result.intraoperative_fluid
+BEGIN DE_EVIDENCE ferreira result.contrast_induced_aki {"canonical_field": "intervention_events", "document_key": "ferreira.fulltext", "source_path": "originals/ferreira-2024/primary.pdf", "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8", "view_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3"}
+56 (19.1) | 43/356 (12.0) |
+| Components of the primary outcome |  |  |
+| Hypotension (systolic < 90 mm Hg or intervention required), n /total n (%) | 32/358 (8.9) | 22/358 (6.1) |
+| Fluid support for blood pressure, n /total n (%) | 7/32 (21.9) | 1/22 (4.5) |
+| Medication support, n /total n (%) | 7/32 (21.9) | 4/22 (18.2) |
+| Hyperglycaemia, n /total n (%) | 30/356 (8.4) | 23/356 (6.5) |
+| Hypoglycaemia, n /total n (%) | 7/356 (2.0) | 2/356 (.6) |
+| Aspiration pneumonia, n /total n (%) | 0/358 (0) | 0/358 (0) |
+| Secondary outcomes |  |  |
+| Contrast-associated acute kidney injury, n /total n (%) | 3/78 (3.8) | 5/80 (6.3) |
+| New ventilation requirement, n /total n (%) | 0/358 (0) | 0/358 (0) |
+| New intensive care unit admission, n /total n (%) | 0/358 (0) | 0/358 (0) |
+| Readmission within 30 days, n /total n (%) | 28/358 (7.8) | 28/358 (7.8) |
+| Death within 30 days, n /total n (%) | 1/358 (.3) | 1/358 (.3) |
+| Pneumonia within 30 days, n /total n (%) | 2/358 (.6) | 0/358 (0) |
+| Patient satisfaction score, a mean ± SD | 15 ± 4.3 | 11 ± 4.0 |
+| Pre-procedure EQ-VAS, b mean ± SD | 70 ± 19 | 70 ± 20 |
+[/DOCLING_TABLE]
+
+NIM, non-inferiority margin; SD, standard deviation; VAS, visual analogue scale.
+
+a Cumulative score, with higher scores corresponding to decreased patient satisfaction and worse symptoms.
+
+b EQ-5D-5L results can be found in Supplementary data online, Table S3 .
+
+[DOCLING_TABLE rows=0 columns=0]
+[/DOCLING_TABLE]
+
+Sedation for implantable cardiac devices was considered clinically similar 
+END DE_EVIDENCE ferreira result.contrast_induced_aki
+BEGIN DE_CELL ferreira result.inotrope_vasopressor {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary source family does not directly report this Review Target in the required exact four-field or Mean/SD format.","study_key":"ferreira","target_id":"result.inotrope_vasopressor","values":null}
+END DE_CELL ferreira result.inotrope_vasopressor
+BEGIN DE_EVIDENCE ferreira result.ventilation {"canonical_field": "intervention_events", "document_key": "ferreira.fulltext", "source_path": "originals/ferreira-2024/primary.pdf", "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8", "view_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3"}
+(systolic < 90 mm Hg or intervention required), n /total n (%) | 32/358 (8.9) | 22/358 (6.1) |
+| Fluid support for blood pressure, n /total n (%) | 7/32 (21.9) | 1/22 (4.5) |
+| Medication support, n /total n (%) | 7/32 (21.9) | 4/22 (18.2) |
+| Hyperglycaemia, n /total n (%) | 30/356 (8.4) | 23/356 (6.5) |
+| Hypoglycaemia, n /total n (%) | 7/356 (2.0) | 2/356 (.6) |
+| Aspiration pneumonia, n /total n (%) | 0/358 (0) | 0/358 (0) |
+| Secondary outcomes |  |  |
+| Contrast-associated acute kidney injury, n /total n (%) | 3/78 (3.8) | 5/80 (6.3) |
+| New ventilation requirement, n /total n (%) | 0/358 (0) | 0/358 (0) |
+| New intensive care unit admission, n /total n (%) | 0/358 (0) | 0/358 (0) |
+| Readmission within 30 days, n /total n (%) | 28/358 (7.8) | 28/358 (7.8) |
+| Death within 30 days, n /total n (%) | 1/358 (.3) | 1/358 (.3) |
+| Pneumonia within 30 days, n /total n (%) | 2/358 (.6) | 0/358 (0) |
+| Patient satisfaction score, a mean ± SD | 15 ± 4.3 | 11 ± 4.0 |
+| Pre-procedure EQ-VAS, b mean ± SD | 70 ± 19 | 70 ± 20 |
+[/DOCLING_TABLE]
+
+NIM, non-inferiority margin; SD, standard deviation; VAS, visual analogue scale.
+
+a Cumulative score, with higher scores corresponding to decreased patient satisfaction and worse symptoms.
+
+b EQ-5D-5L results can be found in Supplementary data online, Table S3 .
+
+[DOCLING_TABLE rows=0 columns=0]
+[/DOCLING_TABLE]
+
+Sedation for implantable cardiac devices was considered clinically similar to percutaneous coronary interventional procedures. The de­ vice cohort 
+END DE_EVIDENCE ferreira result.ventilation

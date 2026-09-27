@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article article-type="review-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">Front. Pediatr.</journal-id>
+<journal-title>Frontiers in Pediatrics</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Front. Pediatr.</abbrev-journal-title>
+<issn pub-type="epub">2296-2360</issn>
+<publisher>
+<publisher-name>Frontiers Media S.A.</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.3389/fped.2023.1132740</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Pediatrics</subject>
+<subj-group>
+<subject>Systematic Review</subject>
+</subj-group>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>The efficacy and safety of nirsevimab for the prevention of RSV infection among infants: A systematic review and meta-analysis</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Turalde-Mapili</surname><given-names>Maria Wilma R.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="author-notes" rid="an1"><sup>&#x2020;</sup></xref><uri xlink:href="https://loop.frontiersin.org/people/2222516/overview"/></contrib>
+<contrib contrib-type="author"><name><surname>Mapili</surname><given-names>Jerahmeel Aleson L.</given-names></name>
+<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+<xref ref-type="author-notes" rid="an1"><sup>&#x2020;</sup></xref><uri xlink:href="https://loop.frontiersin.org/people/2222512/overview" /></contrib>
+<contrib contrib-type="author" corresp="yes"><name><surname>Turalde</surname><given-names>Christian Wilson R.</given-names></name>
+<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+<xref ref-type="corresp" rid="cor1">&#x002A;</xref><uri xlink:href="https://loop.frontiersin.org/people/1010463/overview" /></contrib>
+<contrib contrib-type="author"><name><surname>Pagcatipunan</surname><given-names>Marimel R.</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref><uri xlink:href="https://loop.frontiersin.org/people/2236864/overview" /></contrib>
+</contrib-group>
+<aff id="aff1"><label><sup>1</sup></label><addr-line>Department of Pediatrics, College of Medicine</addr-line>, <institution>Philippine General Hospital, University of the Philippines Manila</institution>, <addr-line>Manila</addr-line>, <country>Philippines</country></aff>
+<aff id="aff2"><label><sup>2</sup></label><addr-line>Department of Medicine, College of Medicine</addr-line>, <institution>Philippine General Hospital, University of the Philippines Manila</institution>, <addr-line>Manila</addr-line>, <country>Philippines</country></aff>
+<aff id="aff3"><label><sup>3</sup></label><addr-line>Department of Physiology, College of Medicine</addr-line>, <institution>Philippine General Hospital, University of the Philippines Manila</institution>, <addr-line>Manila</addr-line>, <country>Philippines</country></aff>
+<aff id="aff4"><label><sup>4</sup></label><addr-line>National Teacher Training Center for the Health Professions</addr-line>, <institution>University of the Philippines Manila</institution>, <addr-line>Manila</addr-line>, <country>Philippines</country></aff>
+<author-notes>
+<fn fn-type="edited-by"><p><bold>Edited by:</bold> Hans Van Rostenberghe, University of Science Malaysia (USM), Malaysia</p></fn>
+<fn fn-type="edited-by"><p><bold>Reviewed by:</bold> Charl Verwey, University of the Witwatersrand, South Africa Simon Nadel, Imperial College London, United Kingdom</p></fn>
+<corresp id="cor1"><label>&#x002A;</label><bold>Correspondence:</bold> Christian Wilson R. Turalde <email>crturalde@up.edu.ph</email></corresp>
+<fn id="an1"><label><sup>&#x2020;</sup></label><p>These authors have contributed equally to this work and share first authorship</p></fn>
+<fn fn-type="other" id="fn001"><p><bold>Specialty Section:</bold> This article was submitted to Pediatric Infectious Diseases, a section of the journal Frontiers in Pediatrics</p></fn>
+</author-notes>
+<pub-date pub-type="epub"><day>04</day><month>04</month><year>2023</year></pub-date>
+<pub-date pub-type="collection"><year>2023</year></pub-date>
+<volume>11</volume><elocation-id>1132740</elocation-id>
+<history>
+<date date-type="received"><day>27</day><month>12</month><year>2022</year></date>
+<date date-type="accepted"><day>20</day><month>03</month><year>2023</year></date>
+</history>
+<permissions>
+<copyright-statement>&#x00A9; 2023 Turalde-Mapili, Mapili, Turalde and Pagcatipunan.</copyright-statement>
+<copyright-year>2023</copyright-year><copyright-holder>Turalde-Mapili, Mapili, Turalde and Pagcatipunan</copyright-holder><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+<p>This is an open-access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License (CC BY)</ext-link>. The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</p></license>
+</permissions>
+<abstract><sec><title>Background</title>
+<p>Respiratory syncytial virus (RSV) is a leading cause of morbidity and mortality among infants with a global incidence of 9.5&#x0025; and a mortality rate of 2.2&#x0025;. The management of RSV infection is mainly supportive and, aside from emerging monoclonal antibodies, there has been no benefit of most preventive measures. Recent evidence suggests the potential of nirsevimab in preventing RSV infection.</p>
+</sec><sec><title>Objective</title>
+<p>This study aims to determine the efficacy and safety of nirsevimab in preventing RSV infection among infants using a review of relevant clinical trials.</p>
+</sec><sec><title>Methods</title>
+<p>We performed a random-effects meta-analysis among infants comparing nirsevimab injection vs. placebo. MEDLINE, CENTRAL, Scopus, and ClinicalTrials.gov were searched for relevant trials from inception to June 2022. The selected studies were assessed for risk of bias using the Revised Cochrane Risk-of-Bias (RoB2) tool and for quality of evidence using the Grades of Recommendation, Assessment, Development and Evaluation (GRADE) approach.</p>
+</sec><sec><title>Results</title>
+<p>Two studies were included. Data analysis showed that among infants, nirsevimab given before the RSV season significantly reduced the risk of medically attended RSV-related infection (RR: 0.26; 95&#x0025; CI: 0.18&#x2013;0.38) and the risk of hospitalization due to RSV infection (RR: 0.24; 95&#x0025; CI: 0.13&#x2013;0.47). There was no difference in terms of adverse events leading to death (RR: 0.78, 95&#x0025; CI: 0.20&#x2013;2.98) and adverse events of special interest (RR: 0.92, 95&#x0025; CI: 0.25&#x2013;3.38).</p>
+</sec><sec><title>Conclusions</title>
+<p>The use of nirsevimab to prevent RSV infections and hospitalization shows its promising potential, but studies on its cost-effectiveness are lacking. We recommend that further studies be done to look into the applicability and cost-effectiveness of nirsevimab.</p>
+</sec>
+</abstract>
+<kwd-group>
+<kwd>respiratory syncytial virus</kwd>
+<kwd>nirsevimab</kwd>
+<kwd>lower respiratory tract infection</kwd>
+<kwd>infants</kwd>
+<kwd>prevention</kwd>
+</kwd-group><counts>
+<fig-count count="2"/>
+<table-count count="4"/><equation-count count="0"/><ref-count count="17"/><page-count count="0"/><word-count count="0"/></counts>
+</article-meta>
+</front>
+<body><sec id="s1" sec-type="intro"><label>1.</label><title>Introduction</title>
+<p>Respiratory syncytial virus (RSV) is a leading cause of morbidity among infants and young children. The greatest burden of severe disease requiring hospitalization is among infants under one year (<xref ref-type="bibr" rid="B1">1</xref>). The estimated global incidence rate of RSV-associated acute lower respiratory tract infections (LRTI) among infants in a recent systematic review is 94.6 per 1,000 infants per year leading to 15.9 admissions per 1,000 infants per year and a mortality rate of 2.2&#x0025; (<xref ref-type="bibr" rid="B2">2</xref>).</p>
+<p>The treatment of RSV infection remains mainly supportive in most clinical settings with oxygen or ventilatory support and nutritional upbuilding serving as the cornerstone of management. Evidence regarding the medical management of RSV infection is bleak as there have been no proven clinical benefit regarding the use of bronchodilators, corticosteroids, antibiotics, nebulized epinephrine, leukotriene inhibitors, nebulized hypertonic saline or chest physiotherapy to reduce morbidity or mortality (<xref ref-type="bibr" rid="B3">3</xref>). Ribavirin has also been advocated for its use in bronchiolitis, but recent evidence suggests that it has no clinical benefit in bronchiolitis caused specifically by RSV (<xref ref-type="bibr" rid="B4">4</xref>). Intravenous immunoglobulin (IVIG) has also been explored for the treatment of RSV infection but has likewise failed to show significant clinical benefit (<xref ref-type="bibr" rid="B5">5</xref>). Consequently, there is currently no recommendation regarding which drugs can be used for the treatment of RSV associated LRTI.</p>
+<p>Despite the lack of evidence regarding its treatment, there is growing evidence regarding drugs which can be used for its prevention. Currently there are no available maternal or infant RSV vaccines. However, there is a growing body of evidence regarding the efficacy and safety of monoclonal antibodies for the prevention of RSV infection among infants and young children. In one Cochrane review, palivizumab resulted in a significant reduction in overall hospitalizations and respiratory disease-related hospitalizations but failed to show mortality benefit when compared to placebo among patients given the drug before the RSV season (<xref ref-type="bibr" rid="B6">6</xref>). Due to the evidence for reducing hospitalizations, palivizumab has been recommended in the United States of America and the United Kingdom as the only drug which can be used for the prevention of RSV. In another trial by the Motavizumab Study Group, motavizumab, another monoclonal antibody like palivizumab, has also been shown to be non-inferior to palivizumab for the prevention of RSV among high-risk infants (<xref ref-type="bibr" rid="B7">7</xref>). However, motavizumab was associated with an increase in cutaneous hypersensitivity reactions in recipients and this led to the Food and Drug Administration (FDA) not granting licensure.</p>
+<p>Despite the strong evidence regarding the use of these two monoclonal antibodies as immunoprophylactic agents, there have been issues regarding its high cost, selling at around &#x00A3;5,000 for its full course, and consequently raises questions regarding its cost-effectiveness. A systematic review has suggested that palivizumab&#x0027;s cost-effectiveness is restricted only at a willingness-to-pay threshold of &#x00A3;30,000&#x2009;per quality-adjusted life year (<xref ref-type="bibr" rid="B8">8</xref>). Aside from its cost, there have also been questions regarding the adherence to the full regimen as these drugs have been dosed to be given at monthly intervals for five months. Hence, it is imperative to investigate an accessible and cost-effective agent with promising potential for preventing RSV infection among infants.</p>
+<p>Nirsevimab, a recombinant human monoclonal antibody that binds to the F1 and F2 subunits of the F protein of the RSV to prevent viral cellular invasion, is an emerging alternative preventive agent against RSV infection. A recent study involving animal models shows that nirsevimab has higher potency and longer half-life compared to motavizumab and palivizumab (<xref ref-type="bibr" rid="B9">9</xref>).</p>
+<p>Recently, there have been randomized clinical trials regarding the efficacy and safety of nirsevimab, a relatively newer monoclonal antibody targeted against RSV. Nirsevimab, administered as a single intramuscular dose, provides a promising alternative to the previously recommended palivizumab or motavizumab.</p>
+<p>This study aims to determine the efficacy and safety of nirsevimab in preventing RSV infection among infants using a review of relevant clinical trials. Specifically, this study aims to determine the
+<list list-type="simple">
+<list-item><label>1.</label>
+<p>Efficacy of nirsevimab in terms of preventing incidence of the following: RSV illness diagnosis, RSV-related hospitalizations, and any LRTI among infants; and</p></list-item>
+<list-item><label>2.</label>
+<p>Safety of nirsevimab in terms of life threatening or fatal adverse events graded using the National Cancer Institute Common Terminology and Criteria for Adverse Events, and adverse events of special interest.</p></list-item>
+</list></p>
+</sec>
+<sec id="s2" sec-type="methods"><label>2.</label><title>Methods</title>
+<p>This systematic review and meta-analysis adhere to the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) consensus guidelines (<xref ref-type="bibr" rid="B10">10</xref>).</p>
+<sec id="s2a"><label>2.1.</label><title>Criteria for selection of studies</title>
+<p>Studies with the following criteria were included in this systematic review and meta-analysis: (a) study design is a randomized controlled trial, (b) intervention is only nirsevimab, (c) population includes infants aged one year old and below, (d) efficacy outcomes reported should include RSV infection, RSV-related hospitalization, and any respiratory illness, (e) safety outcomes reported should include death, life-threatening adverse events, and adverse events of special interest, and (f) studies should be written in English or with an available English translation. Studies published from the dates of inception of the databases to June 2022 were included in this review. Studies were excluded if: (a) study design is not a randomized controlled trial, (b) comparison is not placebo, (c) outcomes are others not specified in the inclusion criteria.</p>
+</sec>
+<sec id="s2b"><label>2.2.</label><title>Outcome measures considered</title>
+<p>The primary efficacy outcome is the incidence of RSV illness and the secondary efficacy outcomes are incidence of RSV-related hospitalizations and any respiratory illness. The primary safety outcome is the incidence of life-threatening or fatal adverse events and the secondary safety outcomes are the adverse events of special interest (hypersensitivity, immune complex disease, or thrombocytopenia).</p>
+</sec>
+<sec id="s2c"><label>2.3.</label><title>Search methods for the identification and selection of studies</title>
+<p>The following databases were searched: MEDLINE by PubMed, Cochrane Central Register for Controlled Trials (CENTRAL), Scopus, and ClinicalTrials.gov website. The following general and MeSH term-based search strategy was employed: (nirsevimab OR &#x201C;MED18897&#x201D; [MeSH] OR &#x201C;MED-18897&#x201D; [MeSH]) AND (&#x201C;Respiratory Syncytial Virus Infection&#x201D; [MeSH] OR &#x201C;Infections, Respiratory Syncytial Virus&#x201D; [MeSH] OR &#x201C;Human respiratory syncytial virus&#x201D; [MeSH]) AND prevention AND &#x201C;infants, newborn&#x201D; [MeSH].</p>
+<p>After the initial electronic search, the two investigators (MT and JM) independently reviewed for duplicates to complete the identification phase. The abstracts and other details were reviewed during the screening phase. Studies which do not meet the criteria and objectives of this review were excluded during the screening phase. Studies which meet the inclusion criteria but are identified to have at least one exclusion criterion were still included in the eligibility phase and were subjected to full-text review. After screening for titles and abstracts, the remaining studies underwent full-text review. Studies which meet the inclusion and do not meet the exclusion criteria were included in the final meta-analysis. The discrepancies between the independent literature searches were resolved by discussion with the third and fourth investigators (CT and MP).</p>
+</sec>
+<sec id="s2d"><label>2.4.</label><title>Assessment of risk of bias, data collection, and analysis</title>
+<p>The risk of bias in each study was independently assessed by two investigators (MT and JM) using the Revised Cochrane Risk-of-Bias Tool for Randomized Trials (RoB2) and were tabulated accordingly (<xref ref-type="bibr" rid="B11">11</xref>). The risk of bias table is color-coded as follows: green for low risk, orange for unknown risk, and red for high risk; an explanation for the risk of bias is provided in the tabulation.</p>
+<p>Two investigators (MT and JM) independently reviewed the included article for data extraction of all study variables as laid out below. The discrepancies between the independent review were resolved by discussion with the third and fourth investigators to reach a consensus. The following details were extracted from each included study and tabulated: study design, characteristics of the study population, intervention and control in their specified dosing schedules and routes of administration, and the number of events pertaining to each of the selected efficacy and safety outcomes. The data were extracted from the full text articles including their appendices and supplementary files (if applicable).</p>
+<p>Overall confidence in the estimates for each outcome were independently assessed by two investigators (MT and JM) based on the Grades of Recommendation, Assessment, Development and Evaluation (GRADE) Working Group system for limitations in study design, evidence directness, consistency, precision of results and publication bias (<xref ref-type="bibr" rid="B12">12</xref>).</p>
+<p>All statistical analyses were conducted using Review Manager version 5.4 from Cochrane. Relative Risk (RR) was used as a summary statistic for dichotomous outcomes. The results of each study were presented in the Forest plots with summary statistics, 95&#x0025; confidence intervals and relative weights represented by the middle of the square, the horizontal line, and the relative size of the square, respectively.</p>
+<p>For the overall summary statistic, the composite relative risk and 95&#x0025; confidence interval were represented by the middle and width of the diamond, respectively. The <italic>I</italic><sup>2</sup> statistic was used to estimate heterogeneity across studies, with values at 40&#x0025;&#x2013;70&#x0025; with moderate heterogeneity and greater than 70&#x0025; considered as substantial heterogeneity. In this meta-analysis, the investigators used a random-effects model to take into account the methodological variation across studies.</p>
+</sec>
+</sec>
+<sec id="s3" sec-type="results"><label>3.</label><title>Results</title>
+<sec id="s3a"><label>3.1.</label><title>Included studies</title>
+<p>The final selection of studies for inclusion in this meta-analysis is summarized in <xref ref-type="fig" rid="F1">Figure&#x00A0;1</xref>. The two studies were both multicenter with the Nirsevimab Study Group study in 2020 (<xref ref-type="bibr" rid="B13">13</xref>) across 23 countries in Europe, United States, and South Africa and the MELODY Study in 2022 (<xref ref-type="bibr" rid="B14">14</xref>) across 20 countries in Europe, United States, South Africa, and Asia.</p>
+<fig id="F1" position="float"><label>Figure 1</label>
+<caption><p>PRISMA summary of literature search.</p></caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="fped-11-1132740-g001.tif"/>
+</fig>
+</sec>
+<sec id="s3b"><label>3.2.</label><title>Population characteristics in the included studies</title>
+<p>This meta-analysis included a total population of 2,943 infants, 1,963 from the treatment arm and 980 from the placebo arm. The baseline characteristics were similar between each of the included studies and in the overall comparison (refer to <xref ref-type="table" rid="T1">Table&#x00A0;1</xref>).</p>
+<table-wrap id="T1" position="float"><label>Table 1</label>
+<caption><p>Baseline characteristics.</p></caption>
+<table frame="hsides" rules="groups">
+<colgroup>
+<col align="left"/>
+<col align="center"/>
+<col align="center"/>
+<col align="center"/>
+</colgroup>
+<thead>
+<tr>
+<th valign="top" align="left"/>
+<th valign="top" align="center">Age</th>
+<th valign="top" align="center">Female sex (<italic>N</italic>, &#x0025;)</th>
+<th valign="top" align="center">Weight (kg)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" colspan="4"><bold>Nirsevimab Study (<italic>N</italic>&#x2009;&#x003D;&#x2009;1,453)</bold></td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="3">Intervention <italic>N</italic>&#x2009;&#x003D;&#x2009;969</td>
+<td valign="top" align="left">&#x2264;3 months 516 (53.3)</td>
+<td valign="top" align="center">468 (48.3)</td>
+<td valign="top" align="center">4.60&#x2009;&#x00B1;&#x2009;1.92</td>
+</tr>
+<tr>
+<td valign="top" align="left">&#x003E;3 to &#x2264;6 months 320 (33.0)</td>
+<td valign="top" align="center"/>
+<td valign="top" align="center"/>
+</tr>
+<tr>
+<td valign="top" align="left">&#x003E;6 months 133 (13.7)</td>
+<td valign="top" align="center"/>
+<td valign="top" align="center"/>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="3">Control <italic>N</italic>&#x2009;&#x003D;&#x2009;484</td>
+<td valign="top" align="left">&#x2264;3 months 257 (53.1)</td>
+<td valign="top" align="center" rowspan="3">224 (46.3)</td>
+<td valign="top" align="center" rowspan="3">4.51&#x2009;&#x00B1;&#x2009;1.96</td>
+</tr>
+<tr>
+<td valign="top" align="left">&#x003E;3 to &#x2264;6 months 153 (31.6)</td>
+</tr>
+<tr>
+<td valign="top" align="left">&#x003E;6 months 74 (15.3)</td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="4"><bold>MELODY Trial (<italic>N</italic>&#x2009;&#x003D;&#x2009;1,490)</bold></td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="3">Intervention <italic>N</italic>&#x2009;&#x003D;&#x2009;994</td>
+<td valign="top" align="left">&#x2264;3.0 months 577 (58.0)</td>
+<td valign="top" align="center" rowspan="3">464 (46.8)</td>
+<td valign="top" align="center">&#x003C;5&#x2005;kg 403 (40.6)</td>
+</tr>
+<tr>
+<td valign="top" align="left">&#x003E;3.0 to &#x2264;6.0 months 317 (31.9)</td>
+<td valign="top" align="center">&#x2265;5&#x2005;kg 589 (59.4)</td>
+</tr>
+<tr>
+<td valign="top" align="left">&#x003E;6.0 months 100 (10.1)</td>
+<td valign="top" align="center"/>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="3">Control <italic>N</italic>&#x2009;&#x003D;&#x2009;496</td>
+<td valign="top" align="left">&#x2264;3.0 months 285 (57.5)</td>
+<td valign="top" align="center" rowspan="3">257 (51.8)</td>
+<td valign="top" align="center">&#x003C;5&#x2005;kg 192 (38.7)</td>
+</tr>
+<tr>
+<td valign="top" align="left">&#x003E;3.0 to &#x2264;6.0 months 162 (32.7)</td>
+<td valign="top" align="center">&#x2265;5&#x2005;kg 304 (61.3)</td>
+</tr>
+<tr>
+<td valign="top" align="left">&#x003E;6.0 months 49 (9.9)</td>
+<td valign="top" align="center"/>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="4"><bold>Overall (<italic>N</italic>&#x2009;&#x003D;&#x2009;2,943)</bold></td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="3">Intervention <italic>N</italic>&#x2009;&#x003D;&#x2009;1963</td>
+<td valign="top" align="left">&#x2264;3 months 1,093 (55.68)</td>
+<td valign="top" align="center" rowspan="3">721 (47.47)</td>
+<td valign="top" align="center" rowspan="3">N/A</td>
+</tr>
+<tr>
+<td valign="top" align="left">&#x003E;3 to &#x2264;6 months 637 (32.45)</td>
+</tr>
+<tr>
+<td valign="top" align="left">&#x003E;6 months 233 (11.87)</td>
+</tr>
+<tr>
+<td valign="top" align="left" rowspan="3">Control <italic>N</italic>&#x2009;&#x003D;&#x2009;980</td>
+<td valign="top" align="left">&#x2264;3 months 542 (55.31)</td>
+<td valign="top" align="center">481 (49.08)</td>
+<td valign="top" align="center" rowspan="3">N/A</td>
+</tr>
+<tr>
+<td valign="top" align="left">&#x003E;3 to &#x2264;6 months 320 (32.14)</td>
+<td valign="top" align="center"/>
+</tr>
+<tr>
+<td valign="top" align="left">&#x003E;6 months 123 (12.55)</td>
+<td valign="top" align="center"/>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+</sec>
+<sec id="s3c"><label>3.3.</label><title>Characteristics of individual studies</title>
+<p>A summary of the characteristics of the individual studies included in this meta-analysis are summarized in <xref ref-type="table" rid="T2">Table&#x00A0;2</xref>.</p>
+<table-wrap id="T2" position="float"><label>Table 2</label>
+<caption><p>Characteristics of individual studies.</p></caption>
+<table frame="hsides" rules="groups">
+<colgroup>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+</colgroup>
+<thead>
+<tr>
+<th valign="top" align="left">Trial</th>
+<th valign="top" align="center">Study Design</th>
+<th valign="top" align="center">Inclusion Criteria</th>
+<th valign="top" align="center">Exclusion Criteria</th>
+<th valign="top" align="center">Intervention</th>
+<th valign="top" align="center">Control</th>
+<th valign="top" align="center">Efficacy Outcomes</th>
+<th valign="top" align="center">Safety Outcomes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Nirsevimab Study (2020)</td>
+<td valign="top" align="left">Randomized control trial</td>
+<td valign="top" align="left">Participants were healthy infants who had been born preterm (gestational age of 29 weeks 0 days through 34 weeks 6 days) and who were 1 year of age or younger and entering their first full RSV season</td>
+<td valign="top" align="left">Participants were excluded if they met local, national, or AAP recommended guidelines to receive RSV prophylaxis, had an acute illness at the time of randomization, had previously had an RSV infection, or had received palivizumab or any other investigational RSV monoclonal antibody or vaccine, including maternal vaccines</td>
+<td valign="top" align="left">One intramuscular injection of 50&#x2005;mg of nirsevimab</td>
+<td valign="top" align="left">Normal saline placebo</td>
+<td valign="top" align="left">Medically-attended RSV infection RSV-associated hospitalization</td>
+<td valign="top" align="left">Fatal adverse events Special adverse events such as hypersensitivity, immune complex disease, and thrombocytopenia</td>
+</tr>
+<tr>
+<td valign="top" align="left">MELODY (2022)</td>
+<td valign="top" align="left">Randomized control trial</td>
+<td valign="top" align="left">Healthy infants who had been born at a gestational age of at least 35 weeks 0 days, were 1 year of age or younger, and were entering their first RSV season</td>
+<td valign="top" align="left">Participants were excluded if they met national or local criteria to receive commercial palivizumab, had any fever or acute illness within 7 days before randomization, or had RSV infection before or at the time of randomization</td>
+<td valign="top" align="left">One intramuscular injection of nirsevimab with the following dosages:
+<list list-type="simple">
+<list-item><label>&#x2022;</label>
+<p>50&#x2005;mg for &#x003C;5&#x2005;kg</p></list-item>
+<list-item><label>&#x2022;</label>
+<p>100&#x2005;mg for &#x2265;5&#x2005;kg</p></list-item>
+</list></td>
+<td valign="top" align="left">Normal saline placebo</td>
+<td valign="top" align="left">Medically-attended RSV infection RSV-associated hospitalization</td>
+<td valign="top" align="left">Fatal adverse events Special adverse events such as hypersensitivity, immune complex disease, and thrombocytopenia</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+</sec>
+<sec id="s3d"><label>3.4.</label><title>Risk of bias evaluation</title>
+<p>This meta-analysis was analyzed for risk of bias using the Cochrane RoB2 Tool by two investigators as mentioned. A summary of the findings in the risk of bias analysis is tabulated in <xref ref-type="table" rid="T3">Table&#x00A0;3</xref>. Based on the RoB2 Tool, there was low risk of bias in terms of selection, performance, detection, attrition, and reporting bias. Overall, the studies had a low risk of bias.</p>
+<table-wrap id="T3" position="float"><label>Table 3</label>
+<caption><p>Risk of bias using RoB2 tool.</p></caption>
+<table frame="hsides" rules="groups">
+<colgroup>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="center"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+<col align="left"/>
+</colgroup>
+<thead>
+<tr>
+<th valign="top" align="left" rowspan="2">Author/Trial (Year)</th>
+<th valign="top" align="center" colspan="4">Selection bias</th>
+<th valign="top" align="center" colspan="2">Performance bias</th>
+<th valign="top" align="center" colspan="2">Detection bias</th>
+<th valign="top" align="center" colspan="2">Attrition bias</th>
+<th valign="top" align="center" colspan="2">Reporting bias</th>
+<th valign="top" align="center" colspan="2">Other biases</th>
+</tr>
+<tr>
+<th valign="top" align="center" colspan="2">Random sequence generation</th>
+<th valign="top" align="center" colspan="2">Allocation concealment</th>
+<th valign="top" align="center" colspan="2">Blinding of Participants</th>
+<th valign="top" align="center" colspan="2">Blinding of outcome assessment</th>
+<th valign="top" align="center" colspan="2">Loss to follow-up</th>
+<th valign="top" align="center" colspan="2">Selective outcome reporting?</th>
+<th valign="top" align="center" colspan="2">Funding?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Nirsevimab Study (2020)</td>
+<td valign="top" align="left">Low</td>
+<td valign="top" align="left">Central randomization</td>
+<td valign="top" align="left">Low</td>
+<td valign="top" align="left">Central randomization</td>
+<td valign="top" align="left">Low</td>
+<td valign="top" align="left">Placebo-trial</td>
+<td valign="top" align="left">Low</td>
+<td valign="top" align="left">Blinded</td>
+<td valign="top" align="left">Low</td>
+<td valign="top" align="center">&#x003C;10&#x0025;</td>
+<td valign="top" align="left">Low</td>
+<td valign="top" align="left">trial registered</td>
+<td valign="top" align="left">Low</td>
+<td valign="top" align="left">Not for-profit</td>
+</tr>
+<tr>
+<td valign="top" align="left">MELODY (2022)</td>
+<td valign="top" align="left">Low</td>
+<td valign="top" align="left">Central randomization</td>
+<td valign="top" align="left">Low</td>
+<td valign="top" align="left">Central randomization</td>
+<td valign="top" align="left">Low</td>
+<td valign="top" align="left">Placebo-trial</td>
+<td valign="top" align="left">Low</td>
+<td valign="top" align="left">Blinded</td>
+<td valign="top" align="left">Low</td>
+<td valign="top" align="center">&#x003C;10&#x0025;</td>
+<td valign="top" align="left">Low</td>
+<td valign="top" align="left">trial registered</td>
+<td valign="top" align="left">Low</td>
+<td valign="top" align="left">Not for-profit</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+</sec>
+<sec id="s3e"><label>3.5.</label><title>Effects of intervention</title>
+<sec id="s3e1"><label>3.5.1.</label><title>Medically-attended RSV-associated LRTI</title>
+<p>Nirsevimab given before the RSV season significantly reduced the risk of medically-attended RSV-associated LRTI (RR: 0.26; 95&#x0025; CI: 0.18&#x2013;0.38). There was no significant heterogeneity with an <italic>I</italic><sup>2</sup>&#x2009;&#x003D;&#x2009;0&#x0025; (refer to <xref ref-type="fig" rid="F2">Figure&#x00A0;2A</xref>).</p>
+<fig id="F2" position="float"><label>Figure 2</label>
+<caption><p>Forest plots summarizing the effects of intervention: (A) Medically-attended RSV-associated LRTI; (B) Hospitalization for RSV-associated LRTI; (C) Adverse events leading to death; and (D) Adverse events of special interest.</p></caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="fped-11-1132740-g002.tif"/>
+</fig>
+</sec>
+<sec id="s3e2"><label>3.5.2.</label><title>Hospitalization for RSV-associated LRTI</title>
+<p>Nirsevimab given before the RSV season significantly reduced the risk of hospitalization for RSV-associated LRTI (RR: 0.24; 95&#x0025; CI: 0.13&#x2013;0.47). There was no significant heterogeneity with an <italic>I</italic><sup>2</sup>&#x2009;&#x003D;&#x2009;0&#x0025; (refer to <xref ref-type="fig" rid="F2">Figure&#x00A0;2B</xref>).</p>
+</sec>
+<sec id="s3e3"><label>3.5.3.</label><title>Adverse events leading to death</title>
+<p>There is no significant difference between adverse events leading to death between the nirsevimab and placebo arms (RR: 0.78, 95&#x0025; CI: 0.20&#x2013;2.98). There was moderate heterogeneity with an <italic>I</italic><sup>2</sup>&#x2009;&#x003D;&#x2009;47&#x0025; (refer to <xref ref-type="fig" rid="F2">Figure&#x00A0;2C</xref>).</p>
+</sec>
+<sec id="s3e4"><label>3.5.4.</label><title>Adverse events of special interest</title>
+<p>There is no significant difference between adverse events of special interest between the nirsevimab and placebo arms (RR: 0.92, 95&#x0025; CI: 0.25&#x2013;3.38). There was no significant heterogeneity with an <italic>I</italic><sup>2</sup>&#x2009;&#x003D;&#x2009;0&#x0025; (refer to <xref ref-type="fig" rid="F2">Figure&#x00A0;2D</xref>).</p>
+</sec>
+</sec>
+<sec id="s3f"><label>3.6.</label><title>Quality of evidence evaluation</title>
+<p>Based on the researchers&#x2019; assessment of the evidence using the GRADE approach, all outcomes except Adverse Events leading to Death had high quality of evidence. The Adverse Events leading to Death outcome had moderate quality of evidence mainly attributed to inconsistency and moderate heterogeneity. A summary of findings table is seen in <xref ref-type="table" rid="T4">Table&#x00A0;4</xref>.</p>
+<table-wrap id="T4" position="float"><label>Table 4</label>
+<caption><p>Summary of findings and GRADE quality of evidence.</p></caption>
+<table frame="hsides" rules="groups">
+<colgroup>
+<col align="left"/>
+<col align="center"/>
+<col align="center"/>
+<col align="center"/>
+<col align="center"/>
+<col align="center"/>
+</colgroup>
+<thead>
+<tr>
+<th valign="top" align="left" rowspan="2">Outcomes</th>
+<th valign="top" align="center" rowspan="2">No of participants (studies) Follow-up</th>
+<th valign="top" align="center" rowspan="2">Certainty of the evidence (GRADE)</th>
+<th valign="top" align="center" rowspan="2">Relative effect (95&#x0025; CI)</th>
+<th valign="top" align="center" colspan="2">Anticipated absolute effects</th>
+</tr>
+<tr>
+<th valign="top" align="center">Risk with Placebo</th>
+<th valign="top" align="center">Risk difference with Nirsevimab</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Medically-attended RSV-associated LRTI (RSV LRTI)</td>
+<td valign="top" align="center">2,943 (2 RCTs)</td>
+<td valign="top" align="center">&#x2295;&#x2295;&#x2295;&#x2295; High</td>
+<td valign="top" align="center"><bold>RR 0.26</bold> (0.18 to 0.38)</td>
+<td valign="top" align="center">72 per 1,000</td>
+<td valign="top" align="center"><bold>54 fewer per 1,000</bold> (59 fewer to 45 fewer)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Hospitalization for RSV-associated LRTI (RSV Hospitalization)</td>
+<td valign="top" align="center">2,943 (2 RCTs)</td>
+<td valign="top" align="center">&#x2295;&#x2295;&#x2295;&#x2295; High</td>
+<td valign="top" align="center"><bold>RR 0.24</bold> (0.13 to 0.47)</td>
+<td valign="top" align="center">29 per 1,000</td>
+<td valign="top" align="center"><bold>22 fewer per 1,000</bold> (25 fewer to 15 fewer)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Adverse Events leading to Death (Adverse Event Death)</td>
+<td valign="top" align="center">2,925 (2 RCTs)</td>
+<td valign="top" align="center">&#x2295;&#x2295;&#x2295;&#x25CB; Moderate</td>
+<td valign="top" align="center"><bold>RR 0.78</bold> (0.20 to 2.98)</td>
+<td valign="top" align="center">3 per 1,000</td>
+<td valign="top" align="center"><bold>1 fewer per 1,000</bold> (2 fewer to 6 more)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Adverse Events of Special Interest</td>
+<td valign="top" align="center">2,925 (2 RCTs)</td>
+<td valign="top" align="center">&#x2295;&#x2295;&#x2295;&#x2295; High</td>
+<td valign="top" align="center"><bold>RR 0.92</bold> (0.25 to 3.38)</td>
+<td valign="top" align="center">3 per 1,000</td>
+<td valign="top" align="center"><bold>0 fewer per 1,000</bold> (2 fewer to 7 more)</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+</sec>
+</sec>
+<sec id="s4" sec-type="discussion"><label>4.</label><title>Discussion</title>
+<p>This review provides comprehensive evidence on the efficacy of nirsevimab in preventing RSV-associated LRTI and in decreasing hospitalization for RSV-associated LRTI from pooled results of two studies. In terms of safety, there is no significant increase in risk of adverse events leading to death or adverse events of special interest. This meta-analysis has shown a 74&#x0025; reduction in the incidence of medically treated RSV-associated LRTI. It should be noted that the markedly glaring significance in reduction in hospitalization at 76&#x0025; was mostly attributed to the Nirsevimab Study Group trial in 2020 (<xref ref-type="bibr" rid="B13">13</xref>) which showed an 81&#x0025; reduction in RSV-related hospitalizations. Furthermore, it can be noted that the MELODY Trial in 2022 (<xref ref-type="bibr" rid="B14">14</xref>) showed no significant reduction in RSV-associated hospitalizations albeit with a trend towards benefit (RR: 0.37, 95&#x0025; CI: 0.13&#x2013;1.07). As shown in the comparison of the populations of the two studies in this meta-analysis, it should be noted that the patients enrolled in the Nirsevimab Study Group trial were all preterm infants while the MELODY trial enrolled both late preterm and term infants. It is important to note that there is an ongoing clinical trial (National Clinical Trial number NCT05437510) investigating the efficacy and safety of single intramuscular dose of nirsevimab for the prevention of RSV-associated hospitalizations among healthy term and preterm infants.</p>
+<p>The meta-analysis shows that the risk of death and risk of special events of nirsevimab are not statistically significant between the two treatment groups. However, it should be noted that both trials showed differences in the trends of the correlation in this specific outcome with the Nirsevimab Study Group trial showing a trend towards increased risk for nirsevimab. Furthermore, it should be noted that there is moderate heterogeneity (<italic>I</italic><sup>2</sup>&#x2009;&#x003D;&#x2009;47&#x0025;) in terms of the outcomes on adverse events leading to death. These nuances may be explained mainly due to the differences in population of each study as already highlighted above. As previously mentioned, a certain subgroup of the total population in this meta-analysis were preterm infants wherein organ prematurity and rapid development changes affect pharmacokinetics and pharmacodynamics which put neonates at an increased risk of adverse drug reactions compared to term infants (<xref ref-type="bibr" rid="B15">15</xref>).</p>
+<p>In summary, this meta-analysis provides evidence to conclude that nirsevimab reduces the risk of RSV-related disease and hospitalizations across the whole spectrum of infancy regardless of term status at birth. However, the subtle nuances in the benefit between the two trials begs the question if only preterm infants will benefit from nirsevimab injection. On the corollary, preterm infants are also the ones who may potentially be more at risk of adverse events, but this meta-analysis shows no significant difference between the two groups.</p>
+<p>Among infants who were both term and preterm, nirsevimab injection before the RSV season significantly reduces the rates of infection and hospitalization related to RSV. There is no significant effect in terms of adverse events leading to death and special adverse events. Indeed, the use of nirsevimab to prevent RSV infections and hospitalization shows its promising potential but studies on its cost-effectiveness are lacking. In a study by Kieffer and colleagues in 2022, it was estimated using a static model that universal immunization of all infants with nirsevimab is expected to reduce 290,174 RSV-MALRTI, 24,986 hospitalizations, and expenditures of &#x0024;612 million USD (<xref ref-type="bibr" rid="B16">16</xref>). We therefore recommend that further studies be done to look into the applicability and cost-effectiveness of nirsevimab.</p>
+<p>The results of this meta-analysis also have implications on basic and graduate medical education. Treatment recommendations are continuously being updated and revised as pooled evidence from relevant studies are established. A recent analytic survey emphasizes that medical textbooks may contain outdated treatment recommendations as there is significant lag time from publication of evidence to incorporation of such evidence into medical textbooks (<xref ref-type="bibr" rid="B17">17</xref>). Mechanisms that ensure access to recent clinical evidence that may influence treatment recommendations among medical students and graduate medical trainees must be in place.</p>
+<p>This meta-analysis is limited to the time frame from the inception of the databases to June 2022 only; hence, studies done after this period will not be included. Similarly, only studies obtained using the pre-specified search engines are included in the final analysis; hence, studies which are unpublished are not included in the study. Furthermore, it may be possible that the breakdown of specific data points in the studies are not available in the main text or appendices which may obscure any further analysis or subgroup analysis.</p>
+</sec>
+</body>
+<back>
+<sec id="s5" sec-type="data-availability"><title>Data availability statement</title>
+<p>The original contributions presented in the study are included in the article/Supplementary Material, further inquiries can be directed to the corresponding author.</p>
+</sec>
+<sec id="s6"><title>Author contributions</title>
+<p>All authors have been sufficiently involved in this work to take responsibility for its validity and final presentation as an original publication.</p>
+</sec>
+<sec id="s7" sec-type="COI-statement"><title>Conflict of interest</title>
+<p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+</sec>
+<sec id="s8" sec-type="disclaimer"><title>Publisher&#x0027;s note</title>
+<p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p>
+</sec>
+<ref-list><title>References</title>
+<ref id="B1"><label>1.</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Bont</surname><given-names>L</given-names></name><name><surname>Checchia</surname><given-names>PA</given-names></name><name><surname>Fauroux</surname><given-names>B</given-names></name><name><surname>Figueras-Aloy</surname><given-names>J</given-names></name><name><surname>Manzoni</surname><given-names>P</given-names></name><name><surname>Paes</surname><given-names>B</given-names></name><etal/></person-group> <article-title>Defining the epidemiology and burden of severe respiratory syncytial virus infection among infants and children in western countries</article-title>. <source>Infect Dis Ther</source>. (<year>2016</year>) <volume>5</volume>(<issue>3</issue>):<fpage>271</fpage>&#x2013;<lpage>98</lpage>. <pub-id pub-id-type="doi">10.1007/s40121-016-0123-0</pub-id><pub-id pub-id-type="pmid">27480325</pub-id></citation></ref>
+<ref id="B2"><label>2.</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>Y</given-names></name><name><surname>Wang</surname><given-names>X</given-names></name><name><surname>Blau</surname><given-names>DM</given-names></name><name><surname>Caballero</surname><given-names>MT</given-names></name><name><surname>Feikin</surname><given-names>DR</given-names></name><name><surname>Gill</surname><given-names>CJ</given-names></name><etal/></person-group> <article-title>Global, regional, and national disease burden estimates of acute lower respiratory infections due to respiratory syncytial virus in children younger than 5 years in 2019: a systematic analysis</article-title>. <source>Lancet</source>. (<year>2022</year>) <volume>399</volume>(<issue>10340</issue>):<fpage>2047</fpage>&#x2013;<lpage>64</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(22)00478-0</pub-id><pub-id pub-id-type="pmid">35598608</pub-id></citation></ref>
+<ref id="B3"><label>3.</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Barr</surname><given-names>R</given-names></name><name><surname>Green</surname><given-names>CA</given-names></name><name><surname>Sande</surname><given-names>CJ</given-names></name><name><surname>Drysdale</surname><given-names>SB</given-names></name></person-group>. <article-title>Respiratory syncytial virus: diagnosis, prevention and management</article-title>. <source>Ther Adv Infect Dis</source>. (<year>2019</year>) <volume>6</volume>:<fpage>204993611986579</fpage>. <pub-id pub-id-type="doi">10.1177/2049936119865798</pub-id></citation></ref>
+<ref id="B4"><label>4.</label><citation citation-type="book"><person-group person-group-type="author"><name><surname>Ventre</surname><given-names>K</given-names></name><name><surname>Randolph</surname><given-names>A</given-names></name></person-group>. <article-title>Ribavirin for respiratory syncytial virus infection of the lower respiratory tract in infants and young children</article-title>. In: <person-group person-group-type="editor"><name><surname>Ventre</surname><given-names>K</given-names></name></person-group>, editors. <source>Cochrane database of systematic reviews</source>. <publisher-loc>Chichester</publisher-loc>, <publisher-loc>UK</publisher-loc>: <publisher-name>John Wiley &#x0026; Sons, Ltd</publisher-name> (<year>2007</year>):1&#x2013;19. <comment>Available at:</comment> <ext-link ext-link-type="uri" xlink:href="https://doi.wiley.com/10.1002/14651858.CD000181.pub3">https://doi.wiley.com/10.1002/14651858.CD000181.pub3</ext-link>.</citation></ref>
+<ref id="B5"><label>5.</label><citation citation-type="book"><person-group person-group-type="author"><name><surname>Fuller</surname><given-names>HL</given-names></name><name><surname>Del Mar</surname><given-names>C</given-names></name></person-group>. <article-title>Immunoglobulin treatment for respiratory syncytial virus infection</article-title>. In: <person-group person-group-type="editor"><name><surname>Fuller</surname><given-names>HL</given-names></name></person-group>, editors. <source>Cochrane database of systematic reviews</source>. <publisher-loc>Chichester</publisher-loc>, <publisher-loc>UK</publisher-loc>: <publisher-name>John Wiley &#x0026; Sons, Ltd</publisher-name> (<year>2006</year>). <comment>p. 1&#x2013;13. Available at:</comment> <ext-link ext-link-type="uri" xlink:href="https://doi.wiley.com/10.1002/14651858.CD004883.pub2">https://doi.wiley.com/10.1002/14651858.CD004883.pub2</ext-link>.</citation></ref>
+<ref id="B6"><label>6.</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Garegnani</surname><given-names>L</given-names></name><name><surname>Roson Rodriguez</surname><given-names>P</given-names></name><name><surname>Escobar Liquitay</surname><given-names>CM</given-names></name><name><surname>Esteban</surname><given-names>I</given-names></name><name><surname>Franco</surname><given-names>JV</given-names></name></person-group>. <article-title>Palivizumab for preventing respiratory syncytial virus (RSV) infection in children</article-title>. <source>Cochrane Database Syst Rev</source>. (<year>2020</year>). <pub-id pub-id-type="doi">10.1002/14651858.CD013757</pub-id>.<pub-id pub-id-type="pmid">32542676</pub-id></citation></ref>
+<ref id="B7"><label>7.</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>O&#x2019;Brien</surname><given-names>KL</given-names></name><name><surname>Chandran</surname><given-names>A</given-names></name><name><surname>Weatherholtz</surname><given-names>R</given-names></name><name><surname>Jafri</surname><given-names>HS</given-names></name><name><surname>Griffin</surname><given-names>MP</given-names></name><name><surname>Bellamy</surname><given-names>T</given-names></name><etal/></person-group> <article-title>Efficacy of motavizumab for the prevention of respiratory syncytial virus disease in healthy native American infants: a phase 3 randomised double-blind placebo-controlled trial</article-title>. <source>Lancet Infect Dis</source>. (<year>2015</year>) <volume>15</volume>(<issue>12</issue>):<fpage>1398</fpage>&#x2013;<lpage>408</lpage>. <pub-id pub-id-type="doi">10.1016/S1473-3099(15)00247-9</pub-id></citation></ref>
+<ref id="B8"><label>8.</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>D</given-names></name><name><surname>Bayliss</surname><given-names>S</given-names></name><name><surname>Meads</surname><given-names>C</given-names></name></person-group>. <article-title>Palivizumab for immunoprophylaxis of respiratory syncitial virus (RSV) bronchiolitis in high-risk infants and young children: a systematic review and additional economic modelling of subgroup analyses</article-title>. <source>Health Technol Assess (Rockv)</source>. (<year>2011</year>) <volume>15</volume>(<issue>5</issue>):1&#x2013;124. <pub-id pub-id-type="doi">10.3310/hta15050</pub-id></citation></ref>
+<ref id="B9"><label>9.</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Zhu</surname><given-names>Q</given-names></name><name><surname>McLellan</surname><given-names>JS</given-names></name><name><surname>Kallewaard</surname><given-names>NL</given-names></name><name><surname>Ulbrandt</surname><given-names>ND</given-names></name><name><surname>Palaszynski</surname><given-names>S</given-names></name><name><surname>Zhang</surname><given-names>J</given-names></name><etal/></person-group> <article-title>A highly potent extended half-life antibody as a potential RSV vaccine surrogate for all infants</article-title>. <source>Sci Transl Med</source>. (<year>2017</year>) <volume>9</volume>(<issue>388</issue>):1&#x2013;11. <pub-id pub-id-type="doi">10.1126/scitranslmed.aaj1928</pub-id></citation></ref>
+<ref id="B10"><label>10.</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Moher</surname><given-names>D</given-names></name><name><surname>Liberati</surname><given-names>A</given-names></name><name><surname>Tetzlaff</surname><given-names>J</given-names></name><name><surname>Altman</surname><given-names>DG</given-names></name></person-group>. <article-title>Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement</article-title>. <source>PLoS Med</source>. (<year>2009</year>) <volume>6</volume>(<issue>7</issue>):<fpage>e1000097</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pmed.1000097</pub-id><pub-id pub-id-type="pmid">19621072</pub-id></citation></ref>
+<ref id="B11"><label>11.</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Sterne</surname><given-names>JAC</given-names></name><name><surname>Savovi&#x0107;</surname><given-names>J</given-names></name><name><surname>Page</surname><given-names>MJ</given-names></name><name><surname>Elbers</surname><given-names>RG</given-names></name><name><surname>Blencowe</surname><given-names>NS</given-names></name><name><surname>Boutron</surname><given-names>I</given-names></name><etal/></person-group> <article-title>Rob 2: a revised tool for assessing risk of bias in randomised trials</article-title>. <source>BMJ</source>. (<year>2019</year>) 366:<fpage>l4898</fpage>. <pub-id pub-id-type="doi">10.1136/bmj.l4898</pub-id><pub-id pub-id-type="pmid">31462531</pub-id></citation></ref>
+<ref id="B12"><label>12.</label><citation citation-type="book"><person-group person-group-type="author"><name><surname>Sch&#x00FC;nemann</surname><given-names>H</given-names></name><name><surname>Bro&#x017C;ek</surname><given-names>J</given-names></name><name><surname>Guyatt</surname><given-names>G</given-names></name><name><surname>Oxman</surname><given-names>A</given-names></name></person-group>, <collab>(The GRADE Working Group 2013)</collab>. <article-title>GRADE handbook for grading quality of evidence and strength of recommendations</article-title>. In: <person-group person-group-type="editor"><name><surname>Sch&#x00FC;nemann</surname><given-names>H</given-names></name><name><surname>Bro&#x017C;ek</surname><given-names>J</given-names></name><name><surname>Guyatt</surname><given-names>G</given-names></name><name><surname>Oxman</surname><given-names>A</given-names></name></person-group>. (<year>2013</year>). Available at: <ext-link ext-link-type="uri" xlink:href="https://gdt.gradepro.org/app/handbook/handbook.html">https://gdt.gradepro.org/app/handbook/handbook.html</ext-link> OR <ext-link ext-link-type="uri" xlink:href="https://guidelinedevelopment.org/handbook">https://guidelinedevelopment.org/handbook</ext-link></citation></ref>
+<ref id="B13"><label>13.</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Griffin</surname><given-names>MP</given-names></name><name><surname>Yuan</surname><given-names>Y</given-names></name><name><surname>Takas</surname><given-names>T</given-names></name><name><surname>Domachowske</surname><given-names>JB</given-names></name><name><surname>Madhi</surname><given-names>SA</given-names></name><name><surname>Manzoni</surname><given-names>P</given-names></name><etal/></person-group> <article-title>Single-dose nirsevimab for prevention of RSV in preterm infants</article-title>. <source>N Engl J Med</source>. (<year>2020</year>) <volume>383</volume>(<issue>5</issue>):<fpage>415</fpage>&#x2013;<lpage>25</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa1913556</pub-id><pub-id pub-id-type="pmid">32726528</pub-id></citation></ref>
+<ref id="B14"><label>14.</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hammitt</surname><given-names>LL</given-names></name><name><surname>Dagan</surname><given-names>R</given-names></name><name><surname>Yuan</surname><given-names>Y</given-names></name><name><surname>Baca Cots</surname><given-names>M</given-names></name><name><surname>Bosheva</surname><given-names>M</given-names></name><name><surname>Madhi</surname><given-names>SA</given-names></name><etal/></person-group> <article-title>Nirsevimab for prevention of RSV in healthy late-preterm and term infants</article-title>. <source>N Engl J Med</source>. (<year>2022</year>) <volume>386</volume>(<issue>9</issue>):<fpage>837</fpage>&#x2013;<lpage>46</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa2110275</pub-id><pub-id pub-id-type="pmid">35235726</pub-id></citation></ref>
+<ref id="B15"><label>15.</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kaguelidou</surname><given-names>F</given-names></name><name><surname>Beau-Salinas</surname><given-names>F</given-names></name><name><surname>Jonville-Bera</surname><given-names>AP</given-names></name><name><surname>Jacqz-Aigrain</surname><given-names>E</given-names></name></person-group>. <article-title>Neonatal adverse drug reactions: an analysis of reports to the French pharmacovigilance database</article-title>. <source>Br J Clin Pharmacol</source>. (<year>2016</year>) <volume>82</volume>(<issue>4</issue>):<fpage>1058</fpage>&#x2013;<lpage>68</lpage>. <pub-id pub-id-type="doi">10.1111/bcp.13034</pub-id><pub-id pub-id-type="pmid">27276109</pub-id></citation></ref>
+<ref id="B16"><label>16.</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kieffer</surname><given-names>A</given-names></name><name><surname>Beuvelet</surname><given-names>M</given-names></name><name><surname>Sardesai</surname><given-names>A</given-names></name><name><surname>Musci</surname><given-names>R</given-names></name><name><surname>Milev</surname><given-names>S</given-names></name><name><surname>Roiz</surname><given-names>J</given-names></name><etal/></person-group> <article-title>Expected impact of universal immunization with nirsevimab against RSV-related outcomes and costs among all US infants in their first RSV season: a static model</article-title>. <source>J Infect Dis</source>. (<year>2022</year>) <volume>226</volume>(<issue>Supplement_2</issue>):<fpage>S282</fpage>&#x2013;<lpage>92</lpage>. <pub-id pub-id-type="doi">10.1093/infdis/jiac216</pub-id><pub-id pub-id-type="pmid">35968866</pub-id></citation></ref>
+<ref id="B17"><label>17.</label><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Jeffery</surname><given-names>R</given-names></name><name><surname>Navarro</surname><given-names>T</given-names></name><name><surname>Lokker</surname><given-names>C</given-names></name><name><surname>Haynes</surname><given-names>RB</given-names></name><name><surname>Wilczynski</surname><given-names>NL</given-names></name><name><surname>Farjou</surname><given-names>G</given-names></name></person-group>. <article-title>How&#x00A0;current are leading evidence-based medical textbooks? An analytic survey&#x00A0;of&#x00A0;four online textbooks</article-title>. <source>J Med Internet Res</source>. (<year>2012</year>) <volume>14</volume>(<issue>6</issue>):<fpage>e175</fpage>. <pub-id pub-id-type="doi">10.2196/jmir.2105</pub-id><pub-id pub-id-type="pmid">23220465</pub-id></citation></ref></ref-list>
+</back>
+</article>

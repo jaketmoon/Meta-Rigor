@@ -1,0 +1,396 @@
+{
+  "schema_version": "3.0.0",
+  "review_id": "qazi.tenecteplase.extended.review.2026",
+  "protocol_content": {
+    "schema_version": "3.0.0",
+    "protocol_id": "qazi.tenecteplase.extended.protocol.m0",
+    "title": "Tenecteplase for imaging-selected acute ischemic stroke in the 4.5-to-24-hour window",
+    "research_question": "Among adults with imaging-selected acute ischemic stroke presenting 4.5 to 24 hours after last known well, compare intravenous tenecteplase with the randomized control treatment for the efficacy and safety outcomes defined by the Review.",
+    "review_criteria": "Include randomized controlled trials of imaging-selected adults with acute ischemic stroke treated 4.5 to 24 hours after last known well that compare intravenous tenecteplase with placebo or medical control. Collect the functional, imaging, neurological and safety outcomes specified by the Review using outcome-specific participant counts and denominators.",
+    "result_targets": [
+      {
+        "target_id": "result.mrs_0_1.day90",
+        "population": "Adults with imaging-selected acute ischemic stroke presenting 4.5 to 24 hours after last known well in randomized controlled trials.",
+        "intervention": {
+          "label": "intravenous tenecteplase",
+          "aliases": [
+            "intravenous tenecteplase",
+            "tenecteplase",
+            "TNK"
+          ]
+        },
+        "comparator": {
+          "label": "control treatment",
+          "aliases": [
+            "control treatment",
+            "standard medical treatment",
+            "best medical treatment",
+            "placebo"
+          ]
+        },
+        "outcome": "Excellent functional outcome",
+        "outcome_definition": "Modified Rankin Scale score 0 or 1 at 90 days.",
+        "timepoint": "90 days.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract the outcome-specific participant counts and denominators at the Review-defined timepoint using the endpoint definition reported by each trial.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.mrs_0_2.day90",
+        "population": "Adults with imaging-selected acute ischemic stroke presenting 4.5 to 24 hours after last known well in randomized controlled trials.",
+        "intervention": {
+          "label": "intravenous tenecteplase",
+          "aliases": [
+            "intravenous tenecteplase",
+            "tenecteplase",
+            "TNK"
+          ]
+        },
+        "comparator": {
+          "label": "control treatment",
+          "aliases": [
+            "control treatment",
+            "standard medical treatment",
+            "best medical treatment",
+            "placebo"
+          ]
+        },
+        "outcome": "Good functional outcome",
+        "outcome_definition": "Modified Rankin Scale score 0, 1, or 2 at 90 days.",
+        "timepoint": "90 days.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract the outcome-specific participant counts and denominators at the Review-defined timepoint using the endpoint definition reported by each trial.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.recanalization",
+        "population": "Adults with imaging-selected acute ischemic stroke presenting 4.5 to 24 hours after last known well in randomized controlled trials.",
+        "intervention": {
+          "label": "intravenous tenecteplase",
+          "aliases": [
+            "intravenous tenecteplase",
+            "tenecteplase",
+            "TNK"
+          ]
+        },
+        "comparator": {
+          "label": "control treatment",
+          "aliases": [
+            "control treatment",
+            "standard medical treatment",
+            "best medical treatment",
+            "placebo"
+          ]
+        },
+        "outcome": "Successful recanalization or reperfusion",
+        "outcome_definition": "Successful vessel recanalization or reperfusion according to the prespecified trial imaging definition.",
+        "timepoint": "Imaging timepoint defined by each eligible trial.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract the outcome-specific participant counts and denominators at the Review-defined timepoint using the endpoint definition reported by each trial.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.early_neurological_improvement",
+        "population": "Adults with imaging-selected acute ischemic stroke presenting 4.5 to 24 hours after last known well in randomized controlled trials.",
+        "intervention": {
+          "label": "intravenous tenecteplase",
+          "aliases": [
+            "intravenous tenecteplase",
+            "tenecteplase",
+            "TNK"
+          ]
+        },
+        "comparator": {
+          "label": "control treatment",
+          "aliases": [
+            "control treatment",
+            "standard medical treatment",
+            "best medical treatment",
+            "placebo"
+          ]
+        },
+        "outcome": "Early neurological improvement",
+        "outcome_definition": "Early neurological improvement according to the trial NIHSS-based definition within 24 to 72 hours.",
+        "timepoint": "Within 24 to 72 hours after randomization.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract the outcome-specific participant counts and denominators at the Review-defined timepoint using the endpoint definition reported by each trial.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.sich",
+        "population": "Adults with imaging-selected acute ischemic stroke presenting 4.5 to 24 hours after last known well in randomized controlled trials.",
+        "intervention": {
+          "label": "intravenous tenecteplase",
+          "aliases": [
+            "intravenous tenecteplase",
+            "tenecteplase",
+            "TNK"
+          ]
+        },
+        "comparator": {
+          "label": "control treatment",
+          "aliases": [
+            "control treatment",
+            "standard medical treatment",
+            "best medical treatment",
+            "placebo"
+          ]
+        },
+        "outcome": "Symptomatic intracranial hemorrhage",
+        "outcome_definition": "Symptomatic intracranial hemorrhage according to the trial definition.",
+        "timepoint": "Safety window defined by each eligible trial.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract the outcome-specific participant counts and denominators at the Review-defined timepoint using the endpoint definition reported by each trial.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.moderate_severe_systemic_bleeding",
+        "population": "Adults with imaging-selected acute ischemic stroke presenting 4.5 to 24 hours after last known well in randomized controlled trials.",
+        "intervention": {
+          "label": "intravenous tenecteplase",
+          "aliases": [
+            "intravenous tenecteplase",
+            "tenecteplase",
+            "TNK"
+          ]
+        },
+        "comparator": {
+          "label": "control treatment",
+          "aliases": [
+            "control treatment",
+            "standard medical treatment",
+            "best medical treatment",
+            "placebo"
+          ]
+        },
+        "outcome": "Moderate or severe systemic bleeding",
+        "outcome_definition": "Moderate or severe systemic bleeding according to the trial definition.",
+        "timepoint": "Through 90 days when reported.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract the outcome-specific participant counts and denominators at the Review-defined timepoint using the endpoint definition reported by each trial.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.all_cause_mortality.day90",
+        "population": "Adults with imaging-selected acute ischemic stroke presenting 4.5 to 24 hours after last known well in randomized controlled trials.",
+        "intervention": {
+          "label": "intravenous tenecteplase",
+          "aliases": [
+            "intravenous tenecteplase",
+            "tenecteplase",
+            "TNK"
+          ]
+        },
+        "comparator": {
+          "label": "control treatment",
+          "aliases": [
+            "control treatment",
+            "standard medical treatment",
+            "best medical treatment",
+            "placebo"
+          ]
+        },
+        "outcome": "All-cause mortality",
+        "outcome_definition": "Death from any cause by 90 days.",
+        "timepoint": "90 days.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract the outcome-specific participant counts and denominators at the Review-defined timepoint using the endpoint definition reported by each trial.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      }
+    ]
+  },
+  "accepted_protocol_sha256": "66ec4dd39b785c5b15e8fc5afc840abf4ad241d7b49a56de82b97e237d62bdfb",
+  "protocol_acceptance": {
+    "actor": "project-owner",
+    "decided_at": "2026-08-27T01:00:00+08:00",
+    "decision": "ACCEPTED"
+  },
+  "governing_review_inventory_sha256": "0ee9cfdab5c65a387eb3abc4abd453bd34e2ce5c63624ac4207c045c995c8b53",
+  "accepted_study_inventory_sha256": "f8b1285f6de41eed28c94e2b5262a4e073b949eb6b1ea194491da4b488314e02",
+  "studies": [
+    {
+      "study_key": "rose",
+      "display_label": "ROSE-TNK",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "timeless",
+      "display_label": "TIMELESS",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "trace_iii",
+      "display_label": "TRACE-III",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "chablis_t2",
+      "display_label": "CHABLIS-T II",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "option",
+      "display_label": "OPTION",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    }
+  ],
+  "reports": [
+    {
+      "report_key": "rose.primary",
+      "title": "Intravenous Tenecteplase for Acute Ischemic Stroke Within 4.5–24 Hours of Onset",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.5853/jos.2023.00668"
+        },
+        {
+          "scheme": "PMCID",
+          "value": "PMC10574303"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "timeless.primary",
+      "title": "Tenecteplase for Stroke at 4.5 to 24 Hours with Perfusion-Imaging Selection",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1056/NEJMoa2310392"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "trace_iii.primary",
+      "title": "Tenecteplase for Ischemic Stroke at 4.5 to 24 Hours without Thrombectomy",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1056/NEJMoa2402980"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "chablis_t2.primary",
+      "title": "Tenecteplase Thrombolysis for Stroke up to 24 Hours After Onset With Perfusion-Imaging Selection",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1161/STROKEAHA.124.048375"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "option.primary",
+      "title": "Tenecteplase for Acute Non-Large Vessel Occlusion 4.5 to 24 Hours After Ischemic Stroke",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1001/jama.2026.0210"
+        },
+        {
+          "scheme": "PMID",
+          "value": "41642827"
+        }
+      ],
+      "report_role": "PRIMARY"
+    }
+  ],
+  "report_study_bindings": [
+    {
+      "report_key": "rose.primary",
+      "study_key": "rose"
+    },
+    {
+      "report_key": "timeless.primary",
+      "study_key": "timeless"
+    },
+    {
+      "report_key": "trace_iii.primary",
+      "study_key": "trace_iii"
+    },
+    {
+      "report_key": "chablis_t2.primary",
+      "study_key": "chablis_t2"
+    },
+    {
+      "report_key": "option.primary",
+      "study_key": "option"
+    }
+  ],
+  "report_identity_issues": [],
+  "documents": [
+    {
+      "document_key": "rose.fulltext",
+      "report_key": "rose.primary",
+      "input_path": "documents/rose-tnk-primary/source.xml",
+      "expected_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+      "media_type": "application/xml",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10574303/"
+    },
+    {
+      "document_key": "timeless.fulltext",
+      "report_key": "timeless.primary",
+      "input_path": "documents/timeless-primary/source.txt",
+      "expected_sha256": "a4bc1aa813ffaab1081b3c6ede9185abc8144cc097232f4f26440be3be7a3e2f",
+      "media_type": "text/plain",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1056/NEJMoa2310392"
+    },
+    {
+      "document_key": "timeless.supplement",
+      "report_key": "timeless.primary",
+      "input_path": "documents/timeless-supplement/source.txt",
+      "expected_sha256": "c27ee20011a7c2e229026b4a88a6752703c03e63da6ea9fac2d803ef0a9ca34c",
+      "media_type": "text/plain",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1056/NEJMoa2310392"
+    },
+    {
+      "document_key": "trace_iii.fulltext",
+      "report_key": "trace_iii.primary",
+      "input_path": "documents/trace-iii-primary/source.txt",
+      "expected_sha256": "ddb8cc8a67c13515d93b761a87915e4419e001ec49951a1192e2eababc4ea1d5",
+      "media_type": "text/plain",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1056/NEJMoa2402980"
+    },
+    {
+      "document_key": "chablis_t2.fulltext",
+      "report_key": "chablis_t2.primary",
+      "input_path": "documents/chablis-t2-primary/source.txt",
+      "expected_sha256": "64bf34ff22aae5d450c3d2a81e834b3dbe56429104df480ffdb88099d6a359c6",
+      "media_type": "text/plain",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1161/STROKEAHA.124.048375"
+    },
+    {
+      "document_key": "option.abstract",
+      "report_key": "option.primary",
+      "input_path": "documents/option-primary/source.xml",
+      "expected_sha256": "369bd5314205a0fce907822be82e5225c35f846f581ee792c9eba66949404017",
+      "media_type": "application/xml",
+      "representation_scope": "ABSTRACT_AND_RESULTS",
+      "display_url": "https://pubmed.ncbi.nlm.nih.gov/41642827/"
+    }
+  ],
+  "source_dispositions": []
+}

@@ -1,0 +1,70 @@
+[DOCLING_PAGE 1]
+
+Intensive Care Medicine Experimental 2024, 12 (Suppl 1):87
+
+Page 199 of 858
+
+Results: In total, 3641 patients who were on mechanical ventilation in 10 ICUs were screened, and 272 patients were included. 25.4% and 7.7% of the patients who met the diagnostic criteria of ARDS were diagnosed with DPLDs and IPF, respectively, by DPLD specialists. In addition, 13.2% of the patients clinically diagnosed with classic ARDS for whom the possibility of DPLDs was not mentioned were diagnosed with possible DPLDs by the specialists. Diagnoses of classic ARDS and IPF made by DPLD specialists were associated with increased mortality compared with DPLDs, with an unadjusted HR of 1.57 (95% CI 1.06 to 2.31, p = 0.023) for classic ARDS and 1.71 (95% CI 1.06 to 2.75, p = 0.027) for IPF. Corticosteroid use within 72 h after admission to the ICU was associated with higher mortality in patients with classic ARDS than in those with DPLDs (HR 5.19: 95% Cl 1.69 to 15.9, p = 0.004).
+
+Conclusions: This study showed that a substantial number of patients who met the diagnostic criteria of ARDS had possible DPLDs and that individualization of patients based on diagnosis may be important in deciding whether to administer corticosteroids to patients with ARDS.
+
+Reference(s)
+
+2024 Focused Update: Guidelines on Use of Corticosteroids in Sepsis, Acute Respiratory Distress Syndrome, and Community-Acquired Pneumonia, Crit Care Med. 2024 Jan 19.
+
+Topic: Acute respiratory failure and mechanical ventilation.
+
+000400
+
+Dexmedetomidine is not associated with hyperthermia after cardiac surgery: post hoc analysis of a randomized trial
+
+L. M. Müller-Wirtz, S. Ott, W. M. Patterson, K. Mohammad, S. Barband,
+
+A. Reuter, C. Dussan, Y. Li, K. Ruetzler, D. Sessler, A. Turan
+
+Outcomes Research Consortium, Department
+
+of Anesthesiology, Cleveland Clinic, Cleveland, United States of America
+
+Correspondence: L.M. Müller-Wirtz
+
+Intensive Care Medicine Experimental 2024, 12(suppl 1): 000400
+
+Introduction: Postoperative hyperthermia is common and associated with neurocognitive impairment after cardiac surgery. Dexmedetomidine was reported to be associated with hyperthermia and is frequently used during and after cardiac surgery. A potential mechanism by which administration of dexmedetomidine results in hyperthermia is sparing propofol which impairs thermoregulation. We therefore performed a post hoc analysis of the DECADE trial aiming to test the hypothesis that dexmedetomidine administration increases the incidence of postoperative hyperthermia during the initial 24 h after cardiac surgery, and whether this effect is mediated by propofol dose.
+
+Methods: We conducted a post hoc analysis of the DECADE trial in which patients were randomized to placebo or dexmedetomidine. Dexmedetomidine infusion was started before surgery at a rate of 0.1, was increased to 0.2 at the end of bypass, and was increased to 0.4 μg/ kg/h postoperatively which was maintained until 24 h after the infusion started. DECADE tested the primary hypothesis that dexmedetomidine reduces atrial fibrillation and delirium after cardiac surgery (it did neither). For the current analysis, we primarily compared the fraction of patients having a postoperative body temperature ≥ 38 °C during the first 24 h after surgery in patients given dexmedetomidine or placebo using a generalized linear model for binomial distribution to estimate the relative risk (RR). Secondarily, we performed the same analysis restricted to patients with continued propofol administration within the first 24 h after surgery and with a threshold in postoperative body temperature of ≥ 37.5 °C, and planned to test for effect mediation by propofol dose. We adjusted for confounding in all analyses with inverse probability of treatment weighting for age, sex, race, body mass index, ASA status, and type and duration of surgery.
+
+Results: We included 501 patients, 248 of whom were assigned to dexmedetomidine. After inverse propensity weighting, standardized mean differences were < 0.03 for all potential confounders. There was no significant difference in the incidence of postoperative body temperature ≥ 38 °C during the first 24 h after surgery (dexmedetomidine: 27%, placebo: 21%; RR: 1.2 [95%CI 0.9, 1.7], p = 0.25). Similarly, there was no statistically significant difference in the incidence of postoperative body temperature ≥ 37.5 °C during postoperative propofol infusion (dexmedetomidine: 26%, placebo: 21%; RR: 1.2 [95%CI 0.8, 1.8], p = 0.32) which precluded testing for mediation by propofol dose. Exploratory analyses for different thresholds for postoperative hyperthermia did not reveal any statistically significant difference (Table 1). A post hoc power analysis revealed that our sample size would have enabled us to detect a 52% increase in the risk for postoperative hyperthermia with a power of 80% and a type I error of 0.05.
+
+Conclusions: Dexmedetomidine administration in patients having cardiac surgery did not significantly increase the incidence of postoperative hyperthermia. Our study was powered to detect increases in relative risk for postoperative hyperthermia exceeding 52%. Further studies are thus needed to exclude smaller effect sizes.
+
+Table 1 (abstract 000400) Summary of the incidences of postoperative hyperthermia with different thresholds
+
+[DOCLING_TABLE rows=0 columns=0]
+[/DOCLING_TABLE]
+
+Reference(s)
+
+Lukas M. Müller-Wirtz received funding from the German Research Foundation to perform a research fellowship at the Outcomes Research Consortium, Department of Anesthesiology, Cleveland Clinic (reference number: MU4688-1-1).
+
+Topic: Sedation, analgesia, and delirium
+
+000401
+
+Intraoperative mechanical power is associated with impaired postoperative oxygenation: post hoc analysis of a single-center multiple crossover factorial cluster trial
+
+1 1 2 1 1
+
+, M. Gama De
+
+L. M. Müller-Wirtz , C. ­ Dussan , O. ­ Kopac , M. ­ Yazar , A. ­ Gulluoglu , WM. ­ Patterson 1 , K. ­ Mohammad 1 , A. ­ Reuter 1 , S. ­ Ott 1 , L. ­ Wang 1 ­ Abreu 1 , K. ­ Ruetzler 1 , A. ­ Turan 1
+
+1 Outcomes Research Consortium, Department
+
+of Anesthesiology, Cleveland Clinic, Cleveland, United States of America; 2 Department of Anesthesiology and Perioperative Medicine, University of Pittsburgh Medical Center, Pittsburgh, United States of America
+
+Correspondence: L. M. Müller-Wirtz
+
+Intensive Care Medicine Experimental 2024, 12(suppl 1): 000401
+
+Introduction: Mechanical power quantifies the intensity of mechanical ventilation, considering the energy transferred from the ventilator to the respiratory system per time. Mechanical power is associated with lung edema, inflammation, postoperative pulmonary complications, and even with mortality in critically ill patients. However, data on the significance of mechanical power in surgical populations other than abdominal or thoracic surgeries remain sparse. Therefore, we conducted a post hoc analysis of our previous trial in which the effects of tidal volume and positive end expiratory pressure (PEEP) on postoperative oxygenation and pulmonary complications were investigated in patients having orthopedic surgery (1). We tested the hypothesis that the intraoperatively applied mechanical power normalized to predicted body weight (MP-PBW) is associated with impaired postoperative oxygenation in the postoperative anesthesia care unit (PACU).

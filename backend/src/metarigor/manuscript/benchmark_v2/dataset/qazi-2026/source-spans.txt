@@ -1,0 +1,640 @@
+BEGIN V1_FACT fact-qazi-2026-identity {"content_sha256": "c87ef7e61bde1ec8811b0868bdcc0525ad2ef2b09cc76f65b34d01abc4789902", "upstream_artifact_refs": ["source-review-qazi-2026"]}
+This manuscript reports a systematic review with an eligible headline synthesis.
+END V1_FACT fact-qazi-2026-identity
+BEGIN V1_FACT fact-qazi-2026-objective {"content_sha256": "247458cad59d17ac542830df84fb4e33011f8ccc99eed36089183774a670af52", "upstream_artifact_refs": ["accepted-protocol-qazi-2026"]}
+Among adults with imaging-selected acute ischemic stroke presenting 4.5 to 24 hours after last known well, compare intravenous tenecteplase with the randomized control treatment for the efficacy and safety outcomes defined by the Review.
+END V1_FACT fact-qazi-2026-objective
+BEGIN V1_FACT fact-qazi-2026-eligibility {"content_sha256": "73d2e604f96293abeab8aab8fa6aa80905296abb0bfdec9f5e6e475dba967469", "upstream_artifact_refs": ["accepted-protocol-qazi-2026"]}
+Eligibility criteria were prespecified in the accepted Protocol.
+END V1_FACT fact-qazi-2026-eligibility
+BEGIN V1_FACT fact-qazi-2026-search {"content_sha256": "6f82a8f1eddfb3872dfe51b777e776b856bfbf37b144bf21f4a18e68e347a379", "upstream_artifact_refs": ["source-review-qazi-2026"]}
+仅五项 trial，Review 明确 small-study/funnel detection reliability 受限。
+END V1_FACT fact-qazi-2026-search
+BEGIN V1_FACT fact-qazi-2026-method-basis {"content_sha256": "dc02e627ef2a92f8d518db655933009a685f2f377fc50ff31e9bcc8f32257386", "upstream_artifact_refs": ["accepted-protocol-qazi-2026", "ec-catalog"]}
+Review 主 Results 与 Figure 3 给出唯一 five-study RR；OPTION control 92/284 与 primary abstract 97/284 的 discrepancy 保留 Issue。
+END V1_FACT fact-qazi-2026-method-basis
+BEGIN V1_FACT fact-qazi-2026-selection {"content_sha256": "f60c05dcb8ca7ac4c1289fbf3bcd2e451b1eee25fd2c57186ad4767b4505d06a", "upstream_artifact_refs": ["ec-catalog"]}
+The headline synthesis included 5 studies; other selection-flow counts were not exposed in the curated V1 reference.
+END V1_FACT fact-qazi-2026-selection
+BEGIN V1_FACT fact-qazi-2026-studies {"content_sha256": "0e7448520366989b71d641ccdb85d095c83f5902dd772fde757ed3f5298a1169", "upstream_artifact_refs": ["ec-catalog", "de-request-qazi-2026"]}
+五项 imaging-selected extended-window randomized controlled trials 进入 synthesis。
+END V1_FACT fact-qazi-2026-studies
+BEGIN V1_FACT fact-qazi-2026-outcome {"content_sha256": "a16f1219a915988728902d9f3036a44c623c6d1bc2223b839885c29807173eb1", "upstream_artifact_refs": ["ec-catalog", "de-reference-qazi-2026"]}
+Figure 3 的五项 study-specific RR 为 1.05、1.36、1.21、1.09 与 1.35，均在 benefit 侧且 CI 广泛重叠。
+END V1_FACT fact-qazi-2026-outcome
+BEGIN V1_FACT fact-qazi-2026-synthesis {"content_sha256": "93696b4aba974fe2677e970ac3f4c7f31e427bfc25ee8488ce296e732dfe4a07", "upstream_artifact_refs": ["ec-catalog"]}
+五项 trial primary efficacy N=1841；published RR=1.25 [1.10,1.42]、I²=0%，EVT/non-EVT point estimates 1.25/1.26。
+END V1_FACT fact-qazi-2026-synthesis
+BEGIN V1_FACT fact-qazi-2026-risk-of-bias {"content_sha256": "a9e4c8e255cd3952e3956bce6eef3d76f167248d63a9f81a1f178762796b94fb", "upstream_artifact_refs": ["ec-catalog"]}
+五项 contributor 的逐研究 RoB judgment 与 evidence-body concerns。
+END V1_FACT fact-qazi-2026-risk-of-bias
+BEGIN V1_FACT fact-qazi-2026-certainty {"content_sha256": "934ffa9f32b3d0391242da5326675e9d839686ae18611384f2018925586bbf0d", "upstream_artifact_refs": ["ec-gold"]}
+五领域均未达到降级边界，整体保持 High。Review 与 OPTION event count 的冲突另列 Issue，不用 certainty 代替 source audit。
+END V1_FACT fact-qazi-2026-certainty
+BEGIN V1_FACT fact-qazi-2026-context {"content_sha256": "c344846e32af213b25355f6e7d35706d576475859455ffe0fc30783a75dd7010", "upstream_artifact_refs": ["ec-catalog"]}
+五项 trial 的 evidence-side PICO、time horizon、setting 与 design variation。
+END V1_FACT fact-qazi-2026-context
+BEGIN V1_FACT fact-qazi-2026-limitation {"content_sha256": "c72571f2d2b700361981fd8f085401cd0248746cf6140f62512ffea1331f8bb2", "upstream_artifact_refs": ["ec-catalog"]}
+Review 主 Results 与 Figure 3 给出唯一 five-study RR；OPTION control 92/284 与 primary abstract 97/284 的 discrepancy 保留 Issue。
+END V1_FACT fact-qazi-2026-limitation
+BEGIN DE_EVIDENCE rose result.mrs_0_1.day90 {"canonical_field": "intervention_events", "document_key": "rose.fulltext", "source_path": "documents/rose-tnk-primary/source.xml", "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a", "view_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85"}
+c blood pressure; DBP, diastolic blood pressure; ORT, onset to randomization time; ODT, onset to door time; OTT, onset to treatment time; DTT, door to treatment time; LAA, largeartery atherosclerosis; CE, cardioembolic; SAO, small artery occlusion; ODC, other determined cause; UND, undetermined cause; MRI, magnetic resonance imaging.
+
+Table 2.
+Caption: Efficacy and safety outcomes
+ |  | TNK group (n=40) | Control group (n=40) | Unadjusted |  | Adjusted |
+Odds ratio (95% CI) | P | Odds ratio (95% CI) | P *
+Primary outcome |  |  |  |  |  |  |
+ | mRS (0–1) at 90 days | 21 (52.5) | 20 (50.0) | 1.11 (0.46 to 2.66) | 0.82 | 1.10 (0.41 to 2.97) | 0.85
+Secondary outcomes |  |  |  |  |  |  |
+ | mRS (0–2) at 90 days | 26 (65.0) | 24 (60.0) | 1.24 (0.50 to 3.07) | 0.64 | 1.44 (0.49 to 4.22) | 0.50
+ | mRS distribution at 90 days † | NA | NA | 0.91 (0.42 to 1.98) | 0.81 | 0.89 (0.40 to 1.98) | 0.77
+ | Changes in NIHSS at 24 hours | -2.00 (-4.00 to 0.00) | 0.00 (-2.00 to 0.00) | -1.29 (-2.71 to 0.12) | 0.07 | -1.11 (-2.49 to 0.26) | 0.11
+ | Changes in NIHSS at 7 days | -3.00 (-6.00 to 0.00) | -2.00 (-4.00 to -1.00) | -0.47 (-2.00 to 1.05) | 0.31 | -0.21 (-1.67 to 1.26) | 0.78
+ | ENI | 11 (27.5) | 3 (7.5) | 4.68 (1.19 to 18.34) | 0.03 | 5.00 (1.16 to 21.50) | 0.03
+Safety outcome |  |  |  |  |  |  |
+ | sICH | 0 (0.0) | 0 (0.0) | NA | >0.99 | NA | >0.99
+ | HT within 7 days | 3 (7.5) | 0 (0.0) | 0 (0 to –) | >0.99 | 0 (0 to –) | >0.99
+ | HI-1 | 0 (0.0) | 0 (0.0) |
+END DE_EVIDENCE rose result.mrs_0_1.day90
+BEGIN DE_EVIDENCE rose result.mrs_0_2.day90 {"canonical_field": "intervention_events", "document_key": "rose.fulltext", "source_path": "documents/rose-tnk-primary/source.xml", "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a", "view_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85"}
+c blood pressure; DBP, diastolic blood pressure; ORT, onset to randomization time; ODT, onset to door time; OTT, onset to treatment time; DTT, door to treatment time; LAA, largeartery atherosclerosis; CE, cardioembolic; SAO, small artery occlusion; ODC, other determined cause; UND, undetermined cause; MRI, magnetic resonance imaging.
+
+Table 2.
+Caption: Efficacy and safety outcomes
+ |  | TNK group (n=40) | Control group (n=40) | Unadjusted |  | Adjusted |
+Odds ratio (95% CI) | P | Odds ratio (95% CI) | P *
+Primary outcome |  |  |  |  |  |  |
+ | mRS (0–1) at 90 days | 21 (52.5) | 20 (50.0) | 1.11 (0.46 to 2.66) | 0.82 | 1.10 (0.41 to 2.97) | 0.85
+Secondary outcomes |  |  |  |  |  |  |
+ | mRS (0–2) at 90 days | 26 (65.0) | 24 (60.0) | 1.24 (0.50 to 3.07) | 0.64 | 1.44 (0.49 to 4.22) | 0.50
+ | mRS distribution at 90 days † | NA | NA | 0.91 (0.42 to 1.98) | 0.81 | 0.89 (0.40 to 1.98) | 0.77
+ | Changes in NIHSS at 24 hours | -2.00 (-4.00 to 0.00) | 0.00 (-2.00 to 0.00) | -1.29 (-2.71 to 0.12) | 0.07 | -1.11 (-2.49 to 0.26) | 0.11
+ | Changes in NIHSS at 7 days | -3.00 (-6.00 to 0.00) | -2.00 (-4.00 to -1.00) | -0.47 (-2.00 to 1.05) | 0.31 | -0.21 (-1.67 to 1.26) | 0.78
+ | ENI | 11 (27.5) | 3 (7.5) | 4.68 (1.19 to 18.34) | 0.03 | 5.00 (1.16 to 21.50) | 0.03
+Safety outcome |  |  |  |  |  |  |
+ | sICH | 0 (0.0) | 0 (0.0) | NA | >0.99 | NA | >0.99
+ | HT within 7 days | 3 (7.5) | 0 (0.0) | 0 (0 to –) | >0.99 | 0 (0 to –) | >0.99
+ | HI-1 | 0 (0.0) | 0 (0.0) |
+END DE_EVIDENCE rose result.mrs_0_2.day90
+BEGIN DE_CELL rose result.recanalization {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary report does not report a vessel recanalization or reperfusion endpoint matching this Target.","study_key":"rose","target_id":"result.recanalization","values":null}
+END DE_CELL rose result.recanalization
+BEGIN DE_EVIDENCE rose result.early_neurological_improvement {"canonical_field": "intervention_events", "document_key": "rose.fulltext", "source_path": "documents/rose-tnk-primary/source.xml", "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a", "view_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85"}
+c blood pressure; DBP, diastolic blood pressure; ORT, onset to randomization time; ODT, onset to door time; OTT, onset to treatment time; DTT, door to treatment time; LAA, largeartery atherosclerosis; CE, cardioembolic; SAO, small artery occlusion; ODC, other determined cause; UND, undetermined cause; MRI, magnetic resonance imaging.
+
+Table 2.
+Caption: Efficacy and safety outcomes
+ |  | TNK group (n=40) | Control group (n=40) | Unadjusted |  | Adjusted |
+Odds ratio (95% CI) | P | Odds ratio (95% CI) | P *
+Primary outcome |  |  |  |  |  |  |
+ | mRS (0–1) at 90 days | 21 (52.5) | 20 (50.0) | 1.11 (0.46 to 2.66) | 0.82 | 1.10 (0.41 to 2.97) | 0.85
+Secondary outcomes |  |  |  |  |  |  |
+ | mRS (0–2) at 90 days | 26 (65.0) | 24 (60.0) | 1.24 (0.50 to 3.07) | 0.64 | 1.44 (0.49 to 4.22) | 0.50
+ | mRS distribution at 90 days † | NA | NA | 0.91 (0.42 to 1.98) | 0.81 | 0.89 (0.40 to 1.98) | 0.77
+ | Changes in NIHSS at 24 hours | -2.00 (-4.00 to 0.00) | 0.00 (-2.00 to 0.00) | -1.29 (-2.71 to 0.12) | 0.07 | -1.11 (-2.49 to 0.26) | 0.11
+ | Changes in NIHSS at 7 days | -3.00 (-6.00 to 0.00) | -2.00 (-4.00 to -1.00) | -0.47 (-2.00 to 1.05) | 0.31 | -0.21 (-1.67 to 1.26) | 0.78
+ | ENI | 11 (27.5) | 3 (7.5) | 4.68 (1.19 to 18.34) | 0.03 | 5.00 (1.16 to 21.50) | 0.03
+Safety outcome |  |  |  |  |  |  |
+ | sICH | 0 (0.0) | 0 (0.0) | NA | >0.99 | NA | >0.99
+ | HT within 7 days | 3 (7.5) | 0 (0.0) | 0 (0 to –) | >0.99 | 0 (0 to –) | >0.99
+ | HI-1 | 0 (0.0) | 0 (0.0) |
+END DE_EVIDENCE rose result.early_neurological_improvement
+BEGIN DE_EVIDENCE rose result.sich {"canonical_field": "intervention_events", "document_key": "rose.fulltext", "source_path": "documents/rose-tnk-primary/source.xml", "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a", "view_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85"}
+c blood pressure; DBP, diastolic blood pressure; ORT, onset to randomization time; ODT, onset to door time; OTT, onset to treatment time; DTT, door to treatment time; LAA, largeartery atherosclerosis; CE, cardioembolic; SAO, small artery occlusion; ODC, other determined cause; UND, undetermined cause; MRI, magnetic resonance imaging.
+
+Table 2.
+Caption: Efficacy and safety outcomes
+ |  | TNK group (n=40) | Control group (n=40) | Unadjusted |  | Adjusted |
+Odds ratio (95% CI) | P | Odds ratio (95% CI) | P *
+Primary outcome |  |  |  |  |  |  |
+ | mRS (0–1) at 90 days | 21 (52.5) | 20 (50.0) | 1.11 (0.46 to 2.66) | 0.82 | 1.10 (0.41 to 2.97) | 0.85
+Secondary outcomes |  |  |  |  |  |  |
+ | mRS (0–2) at 90 days | 26 (65.0) | 24 (60.0) | 1.24 (0.50 to 3.07) | 0.64 | 1.44 (0.49 to 4.22) | 0.50
+ | mRS distribution at 90 days † | NA | NA | 0.91 (0.42 to 1.98) | 0.81 | 0.89 (0.40 to 1.98) | 0.77
+ | Changes in NIHSS at 24 hours | -2.00 (-4.00 to 0.00) | 0.00 (-2.00 to 0.00) | -1.29 (-2.71 to 0.12) | 0.07 | -1.11 (-2.49 to 0.26) | 0.11
+ | Changes in NIHSS at 7 days | -3.00 (-6.00 to 0.00) | -2.00 (-4.00 to -1.00) | -0.47 (-2.00 to 1.05) | 0.31 | -0.21 (-1.67 to 1.26) | 0.78
+ | ENI | 11 (27.5) | 3 (7.5) | 4.68 (1.19 to 18.34) | 0.03 | 5.00 (1.16 to 21.50) | 0.03
+Safety outcome |  |  |  |  |  |  |
+ | sICH | 0 (0.0) | 0 (0.0) | NA | >0.99 | NA | >0.99
+ | HT within 7 days | 3 (7.5) | 0 (0.0) | 0 (0 to –) | >0.99 | 0 (0 to –) | >0.99
+ | HI-1 | 0 (0.0) | 0 (0.0) |
+END DE_EVIDENCE rose result.sich
+BEGIN DE_CELL rose result.moderate_severe_systemic_bleeding {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"Only other bleeding within seven days is reported; it is not the Review-defined moderate or severe systemic bleeding Target.","study_key":"rose","target_id":"result.moderate_severe_systemic_bleeding","values":null}
+END DE_CELL rose result.moderate_severe_systemic_bleeding
+BEGIN DE_EVIDENCE rose result.all_cause_mortality.day90 {"canonical_field": "intervention_events", "document_key": "rose.fulltext", "source_path": "documents/rose-tnk-primary/source.xml", "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a", "view_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85"}
+c blood pressure; DBP, diastolic blood pressure; ORT, onset to randomization time; ODT, onset to door time; OTT, onset to treatment time; DTT, door to treatment time; LAA, largeartery atherosclerosis; CE, cardioembolic; SAO, small artery occlusion; ODC, other determined cause; UND, undetermined cause; MRI, magnetic resonance imaging.
+
+Table 2.
+Caption: Efficacy and safety outcomes
+ |  | TNK group (n=40) | Control group (n=40) | Unadjusted |  | Adjusted |
+Odds ratio (95% CI) | P | Odds ratio (95% CI) | P *
+Primary outcome |  |  |  |  |  |  |
+ | mRS (0–1) at 90 days | 21 (52.5) | 20 (50.0) | 1.11 (0.46 to 2.66) | 0.82 | 1.10 (0.41 to 2.97) | 0.85
+Secondary outcomes |  |  |  |  |  |  |
+ | mRS (0–2) at 90 days | 26 (65.0) | 24 (60.0) | 1.24 (0.50 to 3.07) | 0.64 | 1.44 (0.49 to 4.22) | 0.50
+ | mRS distribution at 90 days † | NA | NA | 0.91 (0.42 to 1.98) | 0.81 | 0.89 (0.40 to 1.98) | 0.77
+ | Changes in NIHSS at 24 hours | -2.00 (-4.00 to 0.00) | 0.00 (-2.00 to 0.00) | -1.29 (-2.71 to 0.12) | 0.07 | -1.11 (-2.49 to 0.26) | 0.11
+ | Changes in NIHSS at 7 days | -3.00 (-6.00 to 0.00) | -2.00 (-4.00 to -1.00) | -0.47 (-2.00 to 1.05) | 0.31 | -0.21 (-1.67 to 1.26) | 0.78
+ | ENI | 11 (27.5) | 3 (7.5) | 4.68 (1.19 to 18.34) | 0.03 | 5.00 (1.16 to 21.50) | 0.03
+Safety outcome |  |  |  |  |  |  |
+ | sICH | 0 (0.0) | 0 (0.0) | NA | >0.99 | NA | >0.99
+ | HT within 7 days | 3 (7.5) | 0 (0.0) | 0 (0 to –) | >0.99 | 0 (0 to –) | >0.99
+ | HI-1 | 0 (0.0) | 0 (0.0) |
+END DE_EVIDENCE rose result.all_cause_mortality.day90
+BEGIN DE_CELL timeless result.mrs_0_1.day90 {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary report provides mutually exclusive mRS category counts rather than a directly reported mRS 0-1 row, and the V3 reference schema has no explicit derivation provenance field.","study_key":"timeless","target_id":"result.mrs_0_1.day90","values":null}
+END DE_CELL timeless result.mrs_0_1.day90
+BEGIN DE_EVIDENCE timeless result.mrs_0_2.day90 {"canonical_field": "intervention_events", "document_key": "timeless.fulltext", "source_path": "originals/timeless-2024/primary.pdf", "source_sha256": "69a291ac838a2dac42f164dbe6d01e35cf62cd8b3caa1bac5b5c626bd9bde799", "view_sha256": "8fb43cf229a1e0346749093e2bd54a1703b4cba838dc2c084b6547e9e3e78c9a"}
+ 2. Clinical, Imaging, and Safety Outcomes.* | Table 2. Clinical, Imaging, and Safety Outcomes.* | Table 2. Clinical, Imaging, and Safety Outcomes.* | Table 2. Clinical, Imaging, and Safety Outcomes.* | Table 2. Clinical, Imaging, and Safety Outcomes.* |
+| Outcome | Tenecteplase (N = 228) | Placebo (N = 230) | Adjusted Odds Ratio (95% CI) | P Value |
+| Primary efficacy outcome |  |  |  |  |
+| Median score on the modified Rankin scale at 90 days (IQR)† | 3 (1-5) | 3 (1-4) | 1.13 (0.82-1.57) | 0.45 |
+| Secondary efficacy outcomes |  |  |  |  |
+| Functional independence at 90 days - no./total no. (%)‡ | 104/226 (46.0) | 97/229 (42.4) | 1.18 (0.80-1.74) |  |
+| Recanalization at 24 hr - no./total no. (%)§ | 148/193 (76.7) | 124/194 (63.9) | 1.89 (1.21-2.95) |  |
+| Reperfusion at 24 hr - no./total no. (%)¶ | 99/174 (56.9) | 105/182 (57.7) | 1.04 (0.69-1.57) |  |
+| Reperfusion at the conclusion of endovascular thrombectomy - no./total no. (%)‖ | 156/175 (89.1) | 152/178 (85.4) | 1.42 (0.75-2.67) |  |
+| Safety outcomes ** |  |  |  |  |
+| Death - no./total no. (%) |  |  |  |  |
+| Within 30 days | 32/218 (14.7) | 32/214 (15.0) | - | - |
+| Within 90 days | 43/218 (19.7) | 39/214 (18.2)†† | - | - |
+| Symptomatic intracranial hemorrhage within 36 hr - no./total no. (%)‡‡ | 7/218 (3.2) | 5/214 (2.3) | - | - |
+| Parenchymal hematoma within 72 hr - no./total no. (%) |  |  |  |  |
+| Type 1 | 2/218 (0.9) | 1/214 (0.5) | - | - |
+| Type 2 | 8/218 (3.7) | 6/214 (2.8) | - | - |
+[/DOCLING_TABLE
+END DE_EVIDENCE timeless result.mrs_0_2.day90
+BEGIN DE_EVIDENCE timeless result.recanalization {"canonical_field": "intervention_events", "document_key": "timeless.fulltext", "source_path": "originals/timeless-2024/primary.pdf", "source_sha256": "69a291ac838a2dac42f164dbe6d01e35cf62cd8b3caa1bac5b5c626bd9bde799", "view_sha256": "8fb43cf229a1e0346749093e2bd54a1703b4cba838dc2c084b6547e9e3e78c9a"}
+l, Imaging, and Safety Outcomes.* | Table 2. Clinical, Imaging, and Safety Outcomes.* | Table 2. Clinical, Imaging, and Safety Outcomes.* |
+| Outcome | Tenecteplase (N = 228) | Placebo (N = 230) | Adjusted Odds Ratio (95% CI) | P Value |
+| Primary efficacy outcome |  |  |  |  |
+| Median score on the modified Rankin scale at 90 days (IQR)† | 3 (1-5) | 3 (1-4) | 1.13 (0.82-1.57) | 0.45 |
+| Secondary efficacy outcomes |  |  |  |  |
+| Functional independence at 90 days - no./total no. (%)‡ | 104/226 (46.0) | 97/229 (42.4) | 1.18 (0.80-1.74) |  |
+| Recanalization at 24 hr - no./total no. (%)§ | 148/193 (76.7) | 124/194 (63.9) | 1.89 (1.21-2.95) |  |
+| Reperfusion at 24 hr - no./total no. (%)¶ | 99/174 (56.9) | 105/182 (57.7) | 1.04 (0.69-1.57) |  |
+| Reperfusion at the conclusion of endovascular thrombectomy - no./total no. (%)‖ | 156/175 (89.1) | 152/178 (85.4) | 1.42 (0.75-2.67) |  |
+| Safety outcomes ** |  |  |  |  |
+| Death - no./total no. (%) |  |  |  |  |
+| Within 30 days | 32/218 (14.7) | 32/214 (15.0) | - | - |
+| Within 90 days | 43/218 (19.7) | 39/214 (18.2)†† | - | - |
+| Symptomatic intracranial hemorrhage within 36 hr - no./total no. (%)‡‡ | 7/218 (3.2) | 5/214 (2.3) | - | - |
+| Parenchymal hematoma within 72 hr - no./total no. (%) |  |  |  |  |
+| Type 1 | 2/218 (0.9) | 1/214 (0.5) | - | - |
+| Type 2 | 8/218 (3.7) | 6/214 (2.8) | - | - |
+[/DOCLING_TABLE]
+
+ Odds ratios, 95% confidence intervals, and P values are based on Rubin's rules for multiple replicatio
+END DE_EVIDENCE timeless result.recanalization
+BEGIN DE_CELL timeless result.early_neurological_improvement {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary report family does not directly report the Review-defined early neurological improvement count.","study_key":"timeless","target_id":"result.early_neurological_improvement","values":null}
+END DE_CELL timeless result.early_neurological_improvement
+BEGIN DE_EVIDENCE timeless result.sich {"canonical_field": "intervention_events", "document_key": "timeless.fulltext", "source_path": "originals/timeless-2024/primary.pdf", "source_sha256": "69a291ac838a2dac42f164dbe6d01e35cf62cd8b3caa1bac5b5c626bd9bde799", "view_sha256": "8fb43cf229a1e0346749093e2bd54a1703b4cba838dc2c084b6547e9e3e78c9a"}
+|  |
+| Recanalization at 24 hr - no./total no. (%)§ | 148/193 (76.7) | 124/194 (63.9) | 1.89 (1.21-2.95) |  |
+| Reperfusion at 24 hr - no./total no. (%)¶ | 99/174 (56.9) | 105/182 (57.7) | 1.04 (0.69-1.57) |  |
+| Reperfusion at the conclusion of endovascular thrombectomy - no./total no. (%)‖ | 156/175 (89.1) | 152/178 (85.4) | 1.42 (0.75-2.67) |  |
+| Safety outcomes ** |  |  |  |  |
+| Death - no./total no. (%) |  |  |  |  |
+| Within 30 days | 32/218 (14.7) | 32/214 (15.0) | - | - |
+| Within 90 days | 43/218 (19.7) | 39/214 (18.2)†† | - | - |
+| Symptomatic intracranial hemorrhage within 36 hr - no./total no. (%)‡‡ | 7/218 (3.2) | 5/214 (2.3) | - | - |
+| Parenchymal hematoma within 72 hr - no./total no. (%) |  |  |  |  |
+| Type 1 | 2/218 (0.9) | 1/214 (0.5) | - | - |
+| Type 2 | 8/218 (3.7) | 6/214 (2.8) | - | - |
+[/DOCLING_TABLE]
+
+ Odds ratios, 95% confidence intervals, and P values are based on Rubin's rules for multiple replication with 100 replicates. For the primary analysis, the adjusted common odds ratio is reported; the adjusted odds ratio is reported for other analyses. The primary analysis and the first three secondary analyses were adjusted for age (≤70 vs. >70 years), site of occlusion (internal carotid artery or M1 segment vs. M2 segment), and the protocol under which the enrollment occurred (versions 1 to 4 vs. version 5 [which capped the number of patients with carotid occlusion]). The analysis regarding reperfusion at the conclusion of endovascular thrombectom
+END DE_EVIDENCE timeless result.sich
+BEGIN DE_CELL timeless result.moderate_severe_systemic_bleeding {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The primary report family does not directly report moderate or severe systemic bleeding.","study_key":"timeless","target_id":"result.moderate_severe_systemic_bleeding","values":null}
+END DE_CELL timeless result.moderate_severe_systemic_bleeding
+BEGIN DE_EVIDENCE timeless result.all_cause_mortality.day90 {"canonical_field": "intervention_events", "document_key": "timeless.fulltext", "source_path": "originals/timeless-2024/primary.pdf", "source_sha256": "69a291ac838a2dac42f164dbe6d01e35cf62cd8b3caa1bac5b5c626bd9bde799", "view_sha256": "8fb43cf229a1e0346749093e2bd54a1703b4cba838dc2c084b6547e9e3e78c9a"}
+no. (%)‡ | 104/226 (46.0) | 97/229 (42.4) | 1.18 (0.80-1.74) |  |
+| Recanalization at 24 hr - no./total no. (%)§ | 148/193 (76.7) | 124/194 (63.9) | 1.89 (1.21-2.95) |  |
+| Reperfusion at 24 hr - no./total no. (%)¶ | 99/174 (56.9) | 105/182 (57.7) | 1.04 (0.69-1.57) |  |
+| Reperfusion at the conclusion of endovascular thrombectomy - no./total no. (%)‖ | 156/175 (89.1) | 152/178 (85.4) | 1.42 (0.75-2.67) |  |
+| Safety outcomes ** |  |  |  |  |
+| Death - no./total no. (%) |  |  |  |  |
+| Within 30 days | 32/218 (14.7) | 32/214 (15.0) | - | - |
+| Within 90 days | 43/218 (19.7) | 39/214 (18.2)†† | - | - |
+| Symptomatic intracranial hemorrhage within 36 hr - no./total no. (%)‡‡ | 7/218 (3.2) | 5/214 (2.3) | - | - |
+| Parenchymal hematoma within 72 hr - no./total no. (%) |  |  |  |  |
+| Type 1 | 2/218 (0.9) | 1/214 (0.5) | - | - |
+| Type 2 | 8/218 (3.7) | 6/214 (2.8) | - | - |
+[/DOCLING_TABLE]
+
+ Odds ratios, 95% confidence intervals, and P values are based on Rubin's rules for multiple replication with 100 replicates. For the primary analysis, the adjusted common odds ratio is reported; the adjusted odds ratio is reported for other analyses. The primary analysis and the first three secondary analyses were adjusted for age (≤70 vs. >70 years), site of occlusion (internal carotid artery or M1 segment vs. M2 segment), and the protocol under which the enrollment occurred (versions 1 to 4 vs. version 5 [which capped the number of patients with carotid occlusion]). The analysis reg
+END DE_EVIDENCE timeless result.all_cause_mortality.day90
+BEGIN DE_EVIDENCE trace_iii result.mrs_0_1.day90 {"canonical_field": "intervention_events", "document_key": "trace_iii.fulltext", "source_path": "originals/trace-iii-2024/primary.pdf", "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec", "view_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca"}
+e are provided in Table S3. The results of post hoc subgroup analyses of the primary outcome according to age, endovascular thrombectomy, and
+
+n engl j med 391;3 nejm.org July 18, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+207
+
+[DOCLING_PAGE 6]
+
+The new england journal o f medicine
+
+[DOCLING_TABLE rows=22 columns=4]
+| Table 2. Efficacy and Safety Outcomes. |  |  |  |
+| Primary outcome |  |  |  |
+| Score of 0 or 1 on the modified Rankin scale at 90 days - no. (%)† | 87 (33.0) | 61 (24.2) | 1.37 (1.04 to 1.81) |
+| Secondary outcomes |  |  |  |
+| Ordinal distribution of scores on the modified Rankin scale at 90 days - no. (%)† |  |  | 1.33 (0.98 to 1.81) |
+| 0 | 26 (9.8) | 17 (6.7) | - |
+| 1 | 61 (23.1) | 44 (17.5) | - |
+| 2 | 28 (10.6) | 23 (9.1) | - |
+| 3 | 46 (17.4) | 59 (23.4) | - |
+| 4 | 57 (21.6) | 57 (22.6) | - |
+| 5 | 11 (4.2) | 19 (7.5) | - |
+| 6 | 35 (13.3) | 33 (13.1) | - |
+| Score of ≤2 on the modified Rankin scale, indicating functional inde- pendence, at 90 days - no. (%) | 115 (43.6) | 84 (33.3) | 1.31 (1.05 to 1.63) |
+| Major neurologic improvement at 72 hr - no./total no. (%)‡ | 40/250 (16.0) | 15/249 (6.0) | 2.66 (1.51 to 4.69) |
+| Reperfusion at 24 hr - no./total no. (%)§ | 48/239 (20.1) | 27/229 (11.8) | 1.70 (1.10 to 2.64) |
+| Change in the NIHSS score at 7 days | -4 (-6 to -1) | -2 (-5 to 0) | -1.47 (-2.30 to -0.64)
+END DE_EVIDENCE trace_iii result.mrs_0_1.day90
+BEGIN DE_EVIDENCE trace_iii result.mrs_0_1.day90 {"canonical_field": "intervention_group_size", "document_key": "trace_iii.fulltext", "source_path": "originals/trace-iii-2024/primary.pdf", "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec", "view_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca"}
+y safety outcomes were symptomatic intracranial hemorrhage and death.
+
+RESULTS
+
+A total of 516 patients were enrolled; 264 were randomly assigned to receive tenecteplase and 252 to receive standard medical treatment. Less than 2% of the patients (4 in the tenecteplase group and 5 in the standard-treatment group) underwent rescue endovascular thrombectomy. Treatment with tenecteplase resulted in a highe
+END DE_EVIDENCE trace_iii result.mrs_0_1.day90
+BEGIN DE_EVIDENCE trace_iii result.mrs_0_2.day90 {"canonical_field": "intervention_events", "document_key": "trace_iii.fulltext", "source_path": "originals/trace-iii-2024/primary.pdf", "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec", "view_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca"}
+y Outcomes. |  |  |  |
+| Primary outcome |  |  |  |
+| Score of 0 or 1 on the modified Rankin scale at 90 days - no. (%)† | 87 (33.0) | 61 (24.2) | 1.37 (1.04 to 1.81) |
+| Secondary outcomes |  |  |  |
+| Ordinal distribution of scores on the modified Rankin scale at 90 days - no. (%)† |  |  | 1.33 (0.98 to 1.81) |
+| 0 | 26 (9.8) | 17 (6.7) | - |
+| 1 | 61 (23.1) | 44 (17.5) | - |
+| 2 | 28 (10.6) | 23 (9.1) | - |
+| 3 | 46 (17.4) | 59 (23.4) | - |
+| 4 | 57 (21.6) | 57 (22.6) | - |
+| 5 | 11 (4.2) | 19 (7.5) | - |
+| 6 | 35 (13.3) | 33 (13.1) | - |
+| Score of ≤2 on the modified Rankin scale, indicating functional inde- pendence, at 90 days - no. (%) | 115 (43.6) | 84 (33.3) | 1.31 (1.05 to 1.63) |
+| Major neurologic improvement at 72 hr - no./total no. (%)‡ | 40/250 (16.0) | 15/249 (6.0) | 2.66 (1.51 to 4.69) |
+| Reperfusion at 24 hr - no./total no. (%)§ | 48/239 (20.1) | 27/229 (11.8) | 1.70 (1.10 to 2.64) |
+| Change in the NIHSS score at 7 days | -4 (-6 to -1) | -2 (-5 to 0) | -1.47 (-2.30 to -0.64) |
+| Safety outcomes |  |  |  |
+| Symptomatic intracranial hemorrhage within 36 hr after randomization - no. (%)¶ | 8 (3.0) | 2 (0.8) | 3.82 (0.82 to 17.87) |
+| Death within 90 days - no. (%) | 35 (13.3) | 33 (13.1) | 1.01 (0.65 to 1.58) |
+| Moderate or severe systemic bleeding within 90 days - no. (%)‖ | 5 (1.9) | 2 (0.8) | 2.36 (0.46 to 12.09) |
+| Any adverse event - no. (%) | 134 (50.8) | 129 (51.2) | 0.99 (0.84 to 1.17) |
+| Any serious adverse event - no. (%) | 53 (20.1) |
+END DE_EVIDENCE trace_iii result.mrs_0_2.day90
+BEGIN DE_EVIDENCE trace_iii result.mrs_0_2.day90 {"canonical_field": "intervention_group_size", "document_key": "trace_iii.fulltext", "source_path": "originals/trace-iii-2024/primary.pdf", "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec", "view_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca"}
+y safety outcomes were symptomatic intracranial hemorrhage and death.
+
+RESULTS
+
+A total of 516 patients were enrolled; 264 were randomly assigned to receive tenecteplase and 252 to receive standard medical treatment. Less than 2% of the patients (4 in the tenecteplase group and 5 in the standard-treatment group) underwent rescue endovascular thrombectomy. Treatment with tenecteplase resulted in a highe
+END DE_EVIDENCE trace_iii result.mrs_0_2.day90
+BEGIN DE_CELL trace_iii result.recanalization {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The accessible primary report gives numerators and percentages but the exact outcome-specific denominators require the unavailable appendix; do not infer them.","study_key":"trace_iii","target_id":"result.recanalization","values":null}
+END DE_CELL trace_iii result.recanalization
+BEGIN DE_EVIDENCE trace_iii result.early_neurological_improvement {"canonical_field": "intervention_events", "document_key": "trace_iii.fulltext", "source_path": "originals/trace-iii-2024/primary.pdf", "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec", "view_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca"}
+(1.04 to 1.81) |
+| Secondary outcomes |  |  |  |
+| Ordinal distribution of scores on the modified Rankin scale at 90 days - no. (%)† |  |  | 1.33 (0.98 to 1.81) |
+| 0 | 26 (9.8) | 17 (6.7) | - |
+| 1 | 61 (23.1) | 44 (17.5) | - |
+| 2 | 28 (10.6) | 23 (9.1) | - |
+| 3 | 46 (17.4) | 59 (23.4) | - |
+| 4 | 57 (21.6) | 57 (22.6) | - |
+| 5 | 11 (4.2) | 19 (7.5) | - |
+| 6 | 35 (13.3) | 33 (13.1) | - |
+| Score of ≤2 on the modified Rankin scale, indicating functional inde- pendence, at 90 days - no. (%) | 115 (43.6) | 84 (33.3) | 1.31 (1.05 to 1.63) |
+| Major neurologic improvement at 72 hr - no./total no. (%)‡ | 40/250 (16.0) | 15/249 (6.0) | 2.66 (1.51 to 4.69) |
+| Reperfusion at 24 hr - no./total no. (%)§ | 48/239 (20.1) | 27/229 (11.8) | 1.70 (1.10 to 2.64) |
+| Change in the NIHSS score at 7 days | -4 (-6 to -1) | -2 (-5 to 0) | -1.47 (-2.30 to -0.64) |
+| Safety outcomes |  |  |  |
+| Symptomatic intracranial hemorrhage within 36 hr after randomization - no. (%)¶ | 8 (3.0) | 2 (0.8) | 3.82 (0.82 to 17.87) |
+| Death within 90 days - no. (%) | 35 (13.3) | 33 (13.1) | 1.01 (0.65 to 1.58) |
+| Moderate or severe systemic bleeding within 90 days - no. (%)‖ | 5 (1.9) | 2 (0.8) | 2.36 (0.46 to 12.09) |
+| Any adverse event - no. (%) | 134 (50.8) | 129 (51.2) | 0.99 (0.84 to 1.17) |
+| Any serious adverse event - no. (%) | 53 (20.1) | 43 (17.1) | 1.18 (0.82 to 1.69) |
+[/DOCLING_TABLE]
+
+†  For the primary outcome, the P value was 0.03. Scores on the modified Rankin scale range from 0 (no symptoms
+END DE_EVIDENCE trace_iii result.early_neurological_improvement
+BEGIN DE_EVIDENCE trace_iii result.early_neurological_improvement {"canonical_field": "intervention_group_size", "document_key": "trace_iii.fulltext", "source_path": "originals/trace-iii-2024/primary.pdf", "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec", "view_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca"}
+ functional inde- pendence, at 90 days - no. (%) | 115 (43.6) | 84 (33.3) | 1.31 (1.05 to 1.63) |
+| Major neurologic improvement at 72 hr - no./total no. (%)‡ | 40/250 (16.0) | 15/249 (6.0) | 2.66 (1.51 to 4.69) |
+| Reperfusion at 24 hr - no./total no. (%)§ | 48/239 (20.1) | 27/229 (11.8) | 1.70 (1.10 to 2.64) |
+| Change in the NIHSS score at 7 days | -4 (-6 to -1) | -2 (-5 
+END DE_EVIDENCE trace_iii result.early_neurological_improvement
+BEGIN DE_EVIDENCE trace_iii result.sich {"canonical_field": "intervention_events", "document_key": "trace_iii.fulltext", "source_path": "originals/trace-iii-2024/primary.pdf", "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec", "view_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca"}
+.2) | 19 (7.5) | - |
+| 6 | 35 (13.3) | 33 (13.1) | - |
+| Score of ≤2 on the modified Rankin scale, indicating functional inde- pendence, at 90 days - no. (%) | 115 (43.6) | 84 (33.3) | 1.31 (1.05 to 1.63) |
+| Major neurologic improvement at 72 hr - no./total no. (%)‡ | 40/250 (16.0) | 15/249 (6.0) | 2.66 (1.51 to 4.69) |
+| Reperfusion at 24 hr - no./total no. (%)§ | 48/239 (20.1) | 27/229 (11.8) | 1.70 (1.10 to 2.64) |
+| Change in the NIHSS score at 7 days | -4 (-6 to -1) | -2 (-5 to 0) | -1.47 (-2.30 to -0.64) |
+| Safety outcomes |  |  |  |
+| Symptomatic intracranial hemorrhage within 36 hr after randomization - no. (%)¶ | 8 (3.0) | 2 (0.8) | 3.82 (0.82 to 17.87) |
+| Death within 90 days - no. (%) | 35 (13.3) | 33 (13.1) | 1.01 (0.65 to 1.58) |
+| Moderate or severe systemic bleeding within 90 days - no. (%)‖ | 5 (1.9) | 2 (0.8) | 2.36 (0.46 to 12.09) |
+| Any adverse event - no. (%) | 134 (50.8) | 129 (51.2) | 0.99 (0.84 to 1.17) |
+| Any serious adverse event - no. (%) | 53 (20.1) | 43 (17.1) | 1.18 (0.82 to 1.69) |
+[/DOCLING_TABLE]
+
+†  For the primary outcome, the P value was 0.03. Scores on the modified Rankin scale range from 0 (no symptoms) to 6 (death). A score of 1 indicates no clinically meaningful disability (patients are able to perform usual work, leisure, and school activities), 2 slight disability (patients are able to look after their own affairs without assistance but are unable to carry out all previous activities), 3 moderate disability (patients require some help but are able
+END DE_EVIDENCE trace_iii result.sich
+BEGIN DE_EVIDENCE trace_iii result.sich {"canonical_field": "intervention_group_size", "document_key": "trace_iii.fulltext", "source_path": "originals/trace-iii-2024/primary.pdf", "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec", "view_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca"}
+y safety outcomes were symptomatic intracranial hemorrhage and death.
+
+RESULTS
+
+A total of 516 patients were enrolled; 264 were randomly assigned to receive tenecteplase and 252 to receive standard medical treatment. Less than 2% of the patients (4 in the tenecteplase group and 5 in the standard-treatment group) underwent rescue endovascular thrombectomy. Treatment with tenecteplase resulted in a highe
+END DE_EVIDENCE trace_iii result.sich
+BEGIN DE_EVIDENCE trace_iii result.moderate_severe_systemic_bleeding {"canonical_field": "intervention_events", "document_key": "trace_iii.fulltext", "source_path": "originals/trace-iii-2024/primary.pdf", "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec", "view_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca"}
+ Major neurologic improvement at 72 hr - no./total no. (%)‡ | 40/250 (16.0) | 15/249 (6.0) | 2.66 (1.51 to 4.69) |
+| Reperfusion at 24 hr - no./total no. (%)§ | 48/239 (20.1) | 27/229 (11.8) | 1.70 (1.10 to 2.64) |
+| Change in the NIHSS score at 7 days | -4 (-6 to -1) | -2 (-5 to 0) | -1.47 (-2.30 to -0.64) |
+| Safety outcomes |  |  |  |
+| Symptomatic intracranial hemorrhage within 36 hr after randomization - no. (%)¶ | 8 (3.0) | 2 (0.8) | 3.82 (0.82 to 17.87) |
+| Death within 90 days - no. (%) | 35 (13.3) | 33 (13.1) | 1.01 (0.65 to 1.58) |
+| Moderate or severe systemic bleeding within 90 days - no. (%)‖ | 5 (1.9) | 2 (0.8) | 2.36 (0.46 to 12.09) |
+| Any adverse event - no. (%) | 134 (50.8) | 129 (51.2) | 0.99 (0.84 to 1.17) |
+| Any serious adverse event - no. (%) | 53 (20.1) | 43 (17.1) | 1.18 (0.82 to 1.69) |
+[/DOCLING_TABLE]
+
+†  For the primary outcome, the P value was 0.03. Scores on the modified Rankin scale range from 0 (no symptoms) to 6 (death). A score of 1 indicates no clinically meaningful disability (patients are able to perform usual work, leisure, and school activities), 2 slight disability (patients are able to look after their own affairs without assistance but are unable to carry out all previous activities), 3 moderate disability (patients require some help but are able to walk unassisted), 4 moderately severe disability (unable to attend to bodily needs without assistance or unable to walk unassisted), and 5 severe disability (patients are bedridden and re
+END DE_EVIDENCE trace_iii result.moderate_severe_systemic_bleeding
+BEGIN DE_EVIDENCE trace_iii result.moderate_severe_systemic_bleeding {"canonical_field": "intervention_group_size", "document_key": "trace_iii.fulltext", "source_path": "originals/trace-iii-2024/primary.pdf", "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec", "view_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca"}
+y safety outcomes were symptomatic intracranial hemorrhage and death.
+
+RESULTS
+
+A total of 516 patients were enrolled; 264 were randomly assigned to receive tenecteplase and 252 to receive standard medical treatment. Less than 2% of the patients (4 in the tenecteplase group and 5 in the standard-treatment group) underwent rescue endovascular thrombectomy. Treatment with tenecteplase resulted in a highe
+END DE_EVIDENCE trace_iii result.moderate_severe_systemic_bleeding
+BEGIN DE_EVIDENCE trace_iii result.all_cause_mortality.day90 {"canonical_field": "intervention_events", "document_key": "trace_iii.fulltext", "source_path": "originals/trace-iii-2024/primary.pdf", "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec", "view_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca"}
+pendence, at 90 days - no. (%) | 115 (43.6) | 84 (33.3) | 1.31 (1.05 to 1.63) |
+| Major neurologic improvement at 72 hr - no./total no. (%)‡ | 40/250 (16.0) | 15/249 (6.0) | 2.66 (1.51 to 4.69) |
+| Reperfusion at 24 hr - no./total no. (%)§ | 48/239 (20.1) | 27/229 (11.8) | 1.70 (1.10 to 2.64) |
+| Change in the NIHSS score at 7 days | -4 (-6 to -1) | -2 (-5 to 0) | -1.47 (-2.30 to -0.64) |
+| Safety outcomes |  |  |  |
+| Symptomatic intracranial hemorrhage within 36 hr after randomization - no. (%)¶ | 8 (3.0) | 2 (0.8) | 3.82 (0.82 to 17.87) |
+| Death within 90 days - no. (%) | 35 (13.3) | 33 (13.1) | 1.01 (0.65 to 1.58) |
+| Moderate or severe systemic bleeding within 90 days - no. (%)‖ | 5 (1.9) | 2 (0.8) | 2.36 (0.46 to 12.09) |
+| Any adverse event - no. (%) | 134 (50.8) | 129 (51.2) | 0.99 (0.84 to 1.17) |
+| Any serious adverse event - no. (%) | 53 (20.1) | 43 (17.1) | 1.18 (0.82 to 1.69) |
+[/DOCLING_TABLE]
+
+†  For the primary outcome, the P value was 0.03. Scores on the modified Rankin scale range from 0 (no symptoms) to 6 (death). A score of 1 indicates no clinically meaningful disability (patients are able to perform usual work, leisure, and school activities), 2 slight disability (patients are able to look after their own affairs without assistance but are unable to carry out all previous activities), 3 moderate disability (patients require some help but are able to walk unassisted), 4 moderately severe disability (unable to attend to bodily needs wi
+END DE_EVIDENCE trace_iii result.all_cause_mortality.day90
+BEGIN DE_EVIDENCE trace_iii result.all_cause_mortality.day90 {"canonical_field": "intervention_group_size", "document_key": "trace_iii.fulltext", "source_path": "originals/trace-iii-2024/primary.pdf", "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec", "view_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca"}
+y safety outcomes were symptomatic intracranial hemorrhage and death.
+
+RESULTS
+
+A total of 516 patients were enrolled; 264 were randomly assigned to receive tenecteplase and 252 to receive standard medical treatment. Less than 2% of the patients (4 in the tenecteplase group and 5 in the standard-treatment group) underwent rescue endovascular thrombectomy. Treatment with tenecteplase resulted in a highe
+END DE_EVIDENCE trace_iii result.all_cause_mortality.day90
+BEGIN DE_EVIDENCE chablis_t2 result.mrs_0_1.day90 {"canonical_field": "intervention_events", "document_key": "chablis_t2.fulltext", "source_path": "originals/chablis-t2-2025/primary.pdf", "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584", "view_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d"}
+rate clinical efficacy and the sample size was underpowered, one of the major possible reasons for the neutral secondary outcome results may be aRR indicates adjusted relative risk; cOR, common odds ratio; IQR, interquartile range; mRS, modified Rankin Scale; and NIHSS, National Institutes of Health Stroke Scale.
+
+Stroke. 2025;56:344-354. DOI: 10.1161/STROKEAHA.124.048375
+
+February 2025
+
+349
+
+[DOCLING_PAGE 7]
+
+Clinical Trial
+
+Downloaded from http://ahajournals.org by on August 26, 2026
+
+Cheng et al
+
+The CHABLIS-T II Randomized Clinical Trial
+
+[DOCLING_TABLE rows=28 columns=6]
+|  | Randomized treatment group | Randomized treatment group | Effect size | 95% CI | P value |
+|  | Tenecteplase (n=111) | Best medical treatment (n=113) |  |  |  |
+| Primary outcome, n (%) | 37/111 (33.3%) | 12/111 (10.8%) | aRR: 3.0 | 1.6 to 5.7 | 0.001 |
+| Secondary outcome |  |  |  |  |  |
+|  Efficacy |  |  |  |  |  |
+|  Recanalization, n (%) | 39/109 (35.8%) | 16/112 (14.3%) | aRR: 2.5 | 1.4 to 4.4 | 0.002 |
+|  Infarct growth at 3-5 d, mL, median (IQR)* | 18.9 (4.2 to 59.6) | 16.5 (2.6 to 42.3) | Adjusted difference: 5.0 | -2.8 to 12.9 | 0.2 |
+|  Major neurological improvement at 24-48 h, n (%) | 24/110 (21.8%) | 26/112 (23.1%) | aRR: 0.9 | 0.5 to 1.6 | 0.8 |
+|  Change in NIHSS score at 24-48 h ­ compared with baseline, median (IQR)† | -1 (-4 to 0) | -1 (-5 to 0) | Adjusted difference: 0.2 | -1.0 to 1.4 | 0.7 |
+|  mRS score 0-1 at 90 d, n (%) | 44/111 (39.6%) | 41/113 (36.3%
+END DE_EVIDENCE chablis_t2 result.mrs_0_1.day90
+BEGIN DE_EVIDENCE chablis_t2 result.mrs_0_2.day90 {"canonical_field": "intervention_events", "document_key": "chablis_t2.fulltext", "source_path": "originals/chablis-t2-2025/primary.pdf", "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584", "view_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d"}
+-1 (-4 to 0) | -1 (-5 to 0) | Adjusted difference: 0.2 | -1.0 to 1.4 | 0.7 |
+|  mRS score 0-1 at 90 d, n (%) | 44/111 (39.6%) | 41/113 (36.3%) | aRR: 1.1 | 0.7 to 1.6 | 0.8 |
+|  mRS score 0-2 at 90 d, n (%) | 56/111 (50.5%) | 66/113 (58.4%) | aRR: 0.8 | 0.6 to 1.2 | 0.4 |
+|  mRS score at 90 d, n (%) |  |  | Adjusted cOR: 0.8 | 0.5 to 1.3 | 0.3 |
+|  0 | 26 (23.4%) | 23 (20.4%) |  |  |  |
+|  1 | 18 (16.2%) | 18 (15.9%) |  |  |  |
+|  2 | 12 (10.8%) | 25 (
+END DE_EVIDENCE chablis_t2 result.mrs_0_2.day90
+BEGIN DE_EVIDENCE chablis_t2 result.mrs_0_2.day90 {"canonical_field": "intervention_group_size", "document_key": "chablis_t2.fulltext", "source_path": "originals/chablis-t2-2025/primary.pdf", "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584", "view_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d"}
+ndomized Clinical Trial
+
+[DOCLING_TABLE rows=28 columns=6]
+|  | Randomized treatment group | Randomized treatment group | Effect size | 95% CI | P value |
+|  | Tenecteplase (n=111) | Best medical treatment (n=113) |  |  |  |
+| Primary outcome, n (%) | 37/111 (33.3%) | 12/111 (10.8%) | aRR: 3.0 | 1.6 to 5.7 | 0.001 |
+| Secondary outcome |  |  |  |  |  |
+|  Efficacy |  |  |  |  |  |
+|  Recanalization, n (%) | 39/109 (35.8%) | 16/
+END DE_EVIDENCE chablis_t2 result.mrs_0_2.day90
+BEGIN DE_EVIDENCE chablis_t2 result.recanalization {"canonical_field": "intervention_events", "document_key": "chablis_t2.fulltext", "source_path": "originals/chablis-t2-2025/primary.pdf", "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584", "view_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d"}
+rate clinical efficacy and the sample size was underpowered, one of the major possible reasons for the neutral secondary outcome results may be aRR indicates adjusted relative risk; cOR, common odds ratio; IQR, interquartile range; mRS, modified Rankin Scale; and NIHSS, National Institutes of Health Stroke Scale.
+
+Stroke. 2025;56:344-354. DOI: 10.1161/STROKEAHA.124.048375
+
+February 2025
+
+349
+
+[DOCLING_PAGE 7]
+
+Clinical Trial
+
+Downloaded from http://ahajournals.org by on August 26, 2026
+
+Cheng et al
+
+The CHABLIS-T II Randomized Clinical Trial
+
+[DOCLING_TABLE rows=28 columns=6]
+|  | Randomized treatment group | Randomized treatment group | Effect size | 95% CI | P value |
+|  | Tenecteplase (n=111) | Best medical treatment (n=113) |  |  |  |
+| Primary outcome, n (%) | 37/111 (33.3%) | 12/111 (10.8%) | aRR: 3.0 | 1.6 to 5.7 | 0.001 |
+| Secondary outcome |  |  |  |  |  |
+|  Efficacy |  |  |  |  |  |
+|  Recanalization, n (%) | 39/109 (35.8%) | 16/112 (14.3%) | aRR: 2.5 | 1.4 to 4.4 | 0.002 |
+|  Infarct growth at 3-5 d, mL, median (IQR)* | 18.9 (4.2 to 59.6) | 16.5 (2.6 to 42.3) | Adjusted difference: 5.0 | -2.8 to 12.9 | 0.2 |
+|  Major neurological improvement at 24-48 h, n (%) | 24/110 (21.8%) | 26/112 (23.1%) | aRR: 0.9 | 0.5 to 1.6 | 0.8 |
+|  Change in NIHSS score at 24-48 h ­ compared with baseline, median (IQR)† | -1 (-4 to 0) | -1 (-5 to 0) | Adjusted difference: 0.2 | -1.0 to 1.4 | 0.7 |
+|  mRS score 0-1 at 90 d, n (%) | 44/111 (39.6%) | 41/113 (36.3%
+END DE_EVIDENCE chablis_t2 result.recanalization
+BEGIN DE_EVIDENCE chablis_t2 result.early_neurological_improvement {"canonical_field": "intervention_events", "document_key": "chablis_t2.fulltext", "source_path": "originals/chablis-t2-2025/primary.pdf", "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584", "view_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d"}
+rate clinical efficacy and the sample size was underpowered, one of the major possible reasons for the neutral secondary outcome results may be aRR indicates adjusted relative risk; cOR, common odds ratio; IQR, interquartile range; mRS, modified Rankin Scale; and NIHSS, National Institutes of Health Stroke Scale.
+
+Stroke. 2025;56:344-354. DOI: 10.1161/STROKEAHA.124.048375
+
+February 2025
+
+349
+
+[DOCLING_PAGE 7]
+
+Clinical Trial
+
+Downloaded from http://ahajournals.org by on August 26, 2026
+
+Cheng et al
+
+The CHABLIS-T II Randomized Clinical Trial
+
+[DOCLING_TABLE rows=28 columns=6]
+|  | Randomized treatment group | Randomized treatment group | Effect size | 95% CI | P value |
+|  | Tenecteplase (n=111) | Best medical treatment (n=113) |  |  |  |
+| Primary outcome, n (%) | 37/111 (33.3%) | 12/111 (10.8%) | aRR: 3.0 | 1.6 to 5.7 | 0.001 |
+| Secondary outcome |  |  |  |  |  |
+|  Efficacy |  |  |  |  |  |
+|  Recanalization, n (%) | 39/109 (35.8%) | 16/112 (14.3%) | aRR: 2.5 | 1.4 to 4.4 | 0.002 |
+|  Infarct growth at 3-5 d, mL, median (IQR)* | 18.9 (4.2 to 59.6) | 16.5 (2.6 to 42.3) | Adjusted difference: 5.0 | -2.8 to 12.9 | 0.2 |
+|  Major neurological improvement at 24-48 h, n (%) | 24/110 (21.8%) | 26/112 (23.1%) | aRR: 0.9 | 0.5 to 1.6 | 0.8 |
+|  Change in NIHSS score at 24-48 h ­ compared with baseline, median (IQR)† | -1 (-4 to 0) | -1 (-5 to 0) | Adjusted difference: 0.2 | -1.0 to 1.4 | 0.7 |
+|  mRS score 0-1 at 90 d, n (%) | 44/111 (39.6%) | 41/113 (36.3%
+END DE_EVIDENCE chablis_t2 result.early_neurological_improvement
+BEGIN DE_EVIDENCE chablis_t2 result.sich {"canonical_field": "intervention_events", "document_key": "chablis_t2.fulltext", "source_path": "originals/chablis-t2-2025/primary.pdf", "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584", "view_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d"}
+rate clinical efficacy and the sample size was underpowered, one of the major possible reasons for the neutral secondary outcome results may be aRR indicates adjusted relative risk; cOR, common odds ratio; IQR, interquartile range; mRS, modified Rankin Scale; and NIHSS, National Institutes of Health Stroke Scale.
+
+Stroke. 2025;56:344-354. DOI: 10.1161/STROKEAHA.124.048375
+
+February 2025
+
+349
+
+[DOCLING_PAGE 7]
+
+Clinical Trial
+
+Downloaded from http://ahajournals.org by on August 26, 2026
+
+Cheng et al
+
+The CHABLIS-T II Randomized Clinical Trial
+
+[DOCLING_TABLE rows=28 columns=6]
+|  | Randomized treatment group | Randomized treatment group | Effect size | 95% CI | P value |
+|  | Tenecteplase (n=111) | Best medical treatment (n=113) |  |  |  |
+| Primary outcome, n (%) | 37/111 (33.3%) | 12/111 (10.8%) | aRR: 3.0 | 1.6 to 5.7 | 0.001 |
+| Secondary outcome |  |  |  |  |  |
+|  Efficacy |  |  |  |  |  |
+|  Recanalization, n (%) | 39/109 (35.8%) | 16/112 (14.3%) | aRR: 2.5 | 1.4 to 4.4 | 0.002 |
+|  Infarct growth at 3-5 d, mL, median (IQR)* | 18.9 (4.2 to 59.6) | 16.5 (2.6 to 42.3) | Adjusted difference: 5.0 | -2.8 to 12.9 | 0.2 |
+|  Major neurological improvement at 24-48 h, n (%) | 24/110 (21.8%) | 26/112 (23.1%) | aRR: 0.9 | 0.5 to 1.6 | 0.8 |
+|  Change in NIHSS score at 24-48 h ­ compared with baseline, median (IQR)† | -1 (-4 to 0) | -1 (-5 to 0) | Adjusted difference: 0.2 | -1.0 to 1.4 | 0.7 |
+|  mRS score 0-1 at 90 d, n (%) | 44/111 (39.6%) | 41/113 (36.3%
+END DE_EVIDENCE chablis_t2 result.sich
+BEGIN DE_EVIDENCE chablis_t2 result.moderate_severe_systemic_bleeding {"canonical_field": "intervention_events", "document_key": "chablis_t2.fulltext", "source_path": "originals/chablis-t2-2025/primary.pdf", "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584", "view_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d"}
+rate clinical efficacy and the sample size was underpowered, one of the major possible reasons for the neutral secondary outcome results may be aRR indicates adjusted relative risk; cOR, common odds ratio; IQR, interquartile range; mRS, modified Rankin Scale; and NIHSS, National Institutes of Health Stroke Scale.
+
+Stroke. 2025;56:344-354. DOI: 10.1161/STROKEAHA.124.048375
+
+February 2025
+
+349
+
+[DOCLING_PAGE 7]
+
+Clinical Trial
+
+Downloaded from http://ahajournals.org by on August 26, 2026
+
+Cheng et al
+
+The CHABLIS-T II Randomized Clinical Trial
+
+[DOCLING_TABLE rows=28 columns=6]
+|  | Randomized treatment group | Randomized treatment group | Effect size | 95% CI | P value |
+|  | Tenecteplase (n=111) | Best medical treatment (n=113) |  |  |  |
+| Primary outcome, n (%) | 37/111 (33.3%) | 12/111 (10.8%) | aRR: 3.0 | 1.6 to 5.7 | 0.001 |
+| Secondary outcome |  |  |  |  |  |
+|  Efficacy |  |  |  |  |  |
+|  Recanalization, n (%) | 39/109 (35.8%) | 16/112 (14.3%) | aRR: 2.5 | 1.4 to 4.4 | 0.002 |
+|  Infarct growth at 3-5 d, mL, median (IQR)* | 18.9 (4.2 to 59.6) | 16.5 (2.6 to 42.3) | Adjusted difference: 5.0 | -2.8 to 12.9 | 0.2 |
+|  Major neurological improvement at 24-48 h, n (%) | 24/110 (21.8%) | 26/112 (23.1%) | aRR: 0.9 | 0.5 to 1.6 | 0.8 |
+|  Change in NIHSS score at 24-48 h ­ compared with baseline, median (IQR)† | -1 (-4 to 0) | -1 (-5 to 0) | Adjusted difference: 0.2 | -1.0 to 1.4 | 0.7 |
+|  mRS score 0-1 at 90 d, n (%) | 44/111 (39.6%) | 41/113 (36.3%
+END DE_EVIDENCE chablis_t2 result.moderate_severe_systemic_bleeding
+BEGIN DE_EVIDENCE chablis_t2 result.all_cause_mortality.day90 {"canonical_field": "intervention_events", "document_key": "chablis_t2.fulltext", "source_path": "originals/chablis-t2-2025/primary.pdf", "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584", "view_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d"}
+rate clinical efficacy and the sample size was underpowered, one of the major possible reasons for the neutral secondary outcome results may be aRR indicates adjusted relative risk; cOR, common odds ratio; IQR, interquartile range; mRS, modified Rankin Scale; and NIHSS, National Institutes of Health Stroke Scale.
+
+Stroke. 2025;56:344-354. DOI: 10.1161/STROKEAHA.124.048375
+
+February 2025
+
+349
+
+[DOCLING_PAGE 7]
+
+Clinical Trial
+
+Downloaded from http://ahajournals.org by on August 26, 2026
+
+Cheng et al
+
+The CHABLIS-T II Randomized Clinical Trial
+
+[DOCLING_TABLE rows=28 columns=6]
+|  | Randomized treatment group | Randomized treatment group | Effect size | 95% CI | P value |
+|  | Tenecteplase (n=111) | Best medical treatment (n=113) |  |  |  |
+| Primary outcome, n (%) | 37/111 (33.3%) | 12/111 (10.8%) | aRR: 3.0 | 1.6 to 5.7 | 0.001 |
+| Secondary outcome |  |  |  |  |  |
+|  Efficacy |  |  |  |  |  |
+|  Recanalization, n (%) | 39/109 (35.8%) | 16/112 (14.3%) | aRR: 2.5 | 1.4 to 4.4 | 0.002 |
+|  Infarct growth at 3-5 d, mL, median (IQR)* | 18.9 (4.2 to 59.6) | 16.5 (2.6 to 42.3) | Adjusted difference: 5.0 | -2.8 to 12.9 | 0.2 |
+|  Major neurological improvement at 24-48 h, n (%) | 24/110 (21.8%) | 26/112 (23.1%) | aRR: 0.9 | 0.5 to 1.6 | 0.8 |
+|  Change in NIHSS score at 24-48 h ­ compared with baseline, median (IQR)† | -1 (-4 to 0) | -1 (-5 to 0) | Adjusted difference: 0.2 | -1.0 to 1.4 | 0.7 |
+|  mRS score 0-1 at 90 d, n (%) | 44/111 (39.6%) | 41/113 (36.3%
+END DE_EVIDENCE chablis_t2 result.all_cause_mortality.day90
+BEGIN DE_EVIDENCE option result.mrs_0_1.day90 {"canonical_field": "intervention_events", "document_key": "option.abstract", "source_path": "documents/option-primary/source.xml", "source_sha256": "369bd5314205a0fce907822be82e5225c35f846f581ee792c9eba66949404017", "view_sha256": "af4197c8b913716a6a3cca5eafcd8f1a231ccc63f33600a2e171141fd035c508"}
+gorithm to receive intravenous tenecteplase (0.25 mg/kg; maximum dose, 25 mg; n = 282) or standard medical treatment (n = 284).
+
+### MAIN OUTCOMES AND MEASURES
+The primary efficacy outcome was an excellent functional outcome, defined as a score of 0 or 1 on the modified Rankin Scale at 90 days. Safety outcomes included symptomatic intracranial hemorrhage within 36 hours and mortality within 90 days.
+
+### RESULTS
+Among the 570 patients randomized, 566 were included in the primary analysis (median age, 68 [IQR, 59-75] years; 196 female [34.6%]). An excellent functional outcome was observed in 123 of 282 patients (43.6%) in the tenecteplase group and 97 of 284 (34.2%) in the control group (risk ratio, 1.28 [95% CI, 1.04-1.57]; P = .02). The incidence of symptomatic intracranial hemorrhage at 2.8% was higher with tenecteplase than with standard medical treatment at 0% (risk difference, 2.85% [95% CI, 1.16%-5.54%]; P = .004), and the mortality at 90 days was 5.0% and 3.2%, respectively (risk ratio, 1.57 [95% CI, 0.69-3.57]; P = .28).
+
+### CONCLUSIONS AND RELEVANCE
+Among patients with non-large vessel occlusion acute ischemic stroke and salvageable brain tissue, intravenous tenecteplase administered 4.5 to 24 hours after onset resulted in a greater likelihood of an excellent functional outcome at 90 days than standard care but had an increased risk of symptomatic intracranial hemorrhage.
+
+### TRIAL REGISTRATION
+ClinicalTrials.gov Identifier: NCT05752916.
+
+END DE_EVIDENCE option result.mrs_0_1.day90
+BEGIN DE_CELL option result.mrs_0_2.day90 {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The accessible primary abstract does not report the exact mRS 0–2 participant counts.","study_key":"option","target_id":"result.mrs_0_2.day90","values":null}
+END DE_CELL option result.mrs_0_2.day90
+BEGIN DE_CELL option result.recanalization {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The Review row is outcome-misaligned and the accessible primary abstract does not report a recanalization count.","study_key":"option","target_id":"result.recanalization","values":null}
+END DE_CELL option result.recanalization
+BEGIN DE_CELL option result.early_neurological_improvement {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The accessible primary abstract does not report an exact early neurological improvement count.","study_key":"option","target_id":"result.early_neurological_improvement","values":null}
+END DE_CELL option result.early_neurological_improvement
+BEGIN DE_CELL option result.sich {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The accessible primary abstract reports rounded percentages but not the outcome-specific exact denominator; do not combine it with a Review-derived denominator.","study_key":"option","target_id":"result.sich","values":null}
+END DE_CELL option result.sich
+BEGIN DE_CELL option result.moderate_severe_systemic_bleeding {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The accessible primary abstract does not report an exact moderate or severe systemic bleeding count.","study_key":"option","target_id":"result.moderate_severe_systemic_bleeding","values":null}
+END DE_CELL option result.moderate_severe_systemic_bleeding
+BEGIN DE_CELL option result.all_cause_mortality.day90 {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The accessible primary abstract reports rounded percentages but not the outcome-specific exact denominator; do not combine it with a Review-derived denominator.","study_key":"option","target_id":"result.all_cause_mortality.day90","values":null}
+END DE_CELL option result.all_cause_mortality.day90

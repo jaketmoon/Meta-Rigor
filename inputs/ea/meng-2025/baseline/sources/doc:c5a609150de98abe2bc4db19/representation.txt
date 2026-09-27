@@ -1,0 +1,57 @@
+[DOCLING_PAGE 1]
+
+Journal of Cardiothoracic and Vascular Anesthesia 36 (2022) 1810 [UNMAPPED_GLYPH U+0000] 1813
+
+Dexmedetomidine Versus Propofol for Sedation After Adult Cardiac Surgery: A Trial Sequential Analysis
+
+To the Editor:
+
+In a recent issue of the Journal of Cardiothoracic and Vascular Anesthesia , Abowali et al. 1 published a metaanalysis of 11 randomized controlled trials comparing dexmedetomidine and propofol for postoperative sedation in adult patients after cardiac surgery. Six hundred sixteen trial participants were included for analysis for the primary outcome of postoperative delirium. A random-effects model was used for the study. Their results suggested that dexmedetomidine was not associated with a decreased incidence of postoperative delirium compared to propofol (odds ratio, 0.68; 95% confidence interval, 0.44-1.07; p = 0.095).
+
+When performing metaanalyses, it is essential to consider type 1 and type 2 error risks. The trial sequential analysis considered the cumulative effect of alpha and beta errors and derived an optimal information size. 2-4 The optimal information size is a sample size calculation to help determine if the metaanalysis contained enough information for the results to be conclusive. This is analogous to the sample size calculation commonly derived for randomized controlled trials using the accepted risk of type 1 error and the desired statistical power. Monitoring thresholds also are determined to represent the strength of evidence. The amount of evidence should continue to accumulate with additional trials until the optimal information size has been reached or a monitoring boundary is surpassed. This allows trial sequential analysis to account for the heterogeneities of multiple studies when adjusting the threshold for efficacy.
+
+We performed a trial sequential analysis from the data derived from Abowali et al., using Trial Sequential Analysis Viewer software (Copenhagen Trial Unit, Copenhagen). We assumed an alpha of 0.05 and a power of 80%. We used a relative risk reduction of 25% and a heterogeneity correction of 30%. These parameters produced an optimal information size of 1,904 patients.
+
+The analysis demonstrated that the information gathered by Abowali et al. did not cross the calculated information size.
+
+: DOI of original article: http://dx.doi.org/10.1053/j.jvca.2020.10.022.
+
+Contents lists available at ScienceDirect
+
+Journal of Cardiothoracic and Vascular Anesthesia
+
+journal homepage: www.jcvaonline.com
+
+Letters to the Editor
+
+Sequential testing on accumulated participants did not surpass trial sequential monitoring boundaries. As such, we believe that the effect of using dexmedetomidine versus propofol for sedation on postoperative delirium remains inconclusive. Based on this analysis, we feel more studies are required to definitively determine whether the use of dexmedetomidine versus propofol for postoperative sedation results in a decreased incidence of postoperative delirium in adult patients after cardiac surgery.
+
+Limitations to the trial sequential analysis mainly pertain to assumptions based on heterogeneity, effect size, and incidence in the control group. The information size needed may be higher if there is significant heterogeneity. For control group incidence, we assumed that the metaanalysis was representative of the true population. We also assumed that no additional randomized controlled trials are available other than the ones included in this meta-analysis.
+
+Conflict of Interest
+
+None.
+
+References
+
+1 Abowali HA, Paganini M, Enten G, et al. Critical review and meta-analysis of postoperative sedation after adult cardiac surgery: Dexmedetomidine versus propofol. J Cardiothorac Vasc Anesth 2021;35:1134-42.
+
+2 Manogaran M, Yang SS. Data for beta-blockade in ACLS - A trial sequential analysis. Resuscitation 2020;150:191-2.
+
+3 Shah A, Smith AF. Trial sequential analysis: Adding a new dimension to meta-analysis. Anaesthesia 2020;75:15-20.
+
+4 Yang SS, Ramdoyal N. Do erythropoietin and iron really decrease blood transfusion in surgical patients? A trial sequential analysis. Can J Anaesth 2020;67:777-8.
+
+Ryan Antel*
+
+Stephen Yang, MDCM, MSc y , z , x
+
+Matthew Cameron, MDCM, MPH y , z , x , 1
+
+* Faculty of Medicine and Health Sciences, McGill University, Montreal, Quebec, Canada
+
+y Department of Anesthesia, McGill University, Montreal, Quebec, Canada z Department of Anesthesia, Jewish General Hospital, Montreal, Quebec, Canada
+
+x Lady Davis Institute for Medical Research, Jewish General Hospital, Montreal, Quebec, Canada
+
+https://doi.org/10.1053/j.jvca.2022.01.037

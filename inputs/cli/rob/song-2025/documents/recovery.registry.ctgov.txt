@@ -1,0 +1,284 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT01161732",
+      "orgStudyIdInfo": {
+        "id": "2010-0065"
+      },
+      "organization": {
+        "fullName": "Asan Medical Center",
+        "class": "OTHER"
+      },
+      "briefTitle": "Early Surgery Versus Conventional Treatment in Very Severe Aortic Stenosis",
+      "officialTitle": "Randomized Comparison of Early Surgery Versus Conventional Treatment in Very Severe Aortic Stenosis",
+      "acronym": "RECOVERY"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-06",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2010-07",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2025-05-30",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-05-30",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2010-07-12",
+      "studyFirstSubmitQcDate": "2010-07-13",
+      "studyFirstPostDateStruct": {
+        "date": "2010-07-14",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2025-06-22",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-06-26",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Duk-Hyun Kang",
+        "investigatorTitle": "Professor",
+        "investigatorAffiliation": "Asan Medical Center"
+      },
+      "leadSponsor": {
+        "name": "Asan Medical Center",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Korean Institute of Medicine",
+          "class": "UNKNOWN"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The optimal timing of surgical intervention remains controversial in asymptomatic patients with very severe aortic stenosis. The investigators therefore try to compare long-term clinical outcomes of early surgery with those of conventional treatment strategy in a prospective randomized trial.",
+      "detailedDescription": "Management of asymptomatic patients with severe aortic stenosis (AS) remains controversial, and the combined risks of aortic valve surgery and late complications of aortic valve prosthesis need to be balanced against the possibility of preventing sudden death and lowering cardiac mortality. Considering that sudden cardiac death occurs at a rate of approximately 1% per year and that the average postoperative mortality of isolated AV replacement is 3.0-4.0%, the 2007 European Society of Cardiology guidelines do not recommend aortic valve surgery for asymptomatic patients with severe AS and the 2006 American College of Cardiology/American Heart Association guidelines recommend surgery as a class IIb indication only in patients with extremely severe AS and who are at low operative risk. Clinical outcomes vary widely according to the severity of stenosis in asymptomatic AS, and asymptomatic patients with very severe AS are often referred for aortic valve replacement in clinical practice despite the lack of data supporting early surgery. Rosenhek et al recently reported a worse prognosis with a higher event rate and a risk of rapid deterioration in very severe AS, and the investigators also recently reported that compared with the conventional treatment strategy, early surgery in patients with very severe AS is associated with an improved long-term survival in a prospective, observational study. However, there have been no prospective,randomized studies comparing early surgery with a watchful waiting strategy in very severe AS. We sought to compare long-term clinical outcomes of early surgery with those of conventional management based on current guidelines."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Aortic Stenosis"
+      ],
+      "keywords": [
+        "aortic stenosis",
+        "surgery, survival"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "early aortic valve replacement",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 145,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Conventional treatment",
+          "type": "NO_INTERVENTION",
+          "description": "In the conventional treatment group, indications for aortic valve replacement surgery are development of symptoms, reduced left ventricular systolic function and an increase in aortic jet velocity \\> 0.5 m/sec during follow-up."
+        },
+        {
+          "label": "Early Surgery",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Early surgery is performed within 2 months of randomization.",
+          "interventionNames": [
+            "Procedure: Early surgery"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Early surgery",
+          "description": "Early surgery is performed within 2 months of randomization.",
+          "armGroupLabels": [
+            "Early Surgery"
+          ],
+          "otherNames": [
+            "Early aortic valve replacement surgery"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Cardiac mortality",
+          "description": "defined as death from complications of myocardial infarction, heart failure, shock, complications of cardiac surgery or intervention, other cardiovascular diseases including sudden cardiac death",
+          "timeFrame": "Entire follow-up ( a minimum of 10 years)"
+        },
+        {
+          "measure": "Operative mortality",
+          "description": "Operative mortality is defined as death within 30 days of surgery.",
+          "timeFrame": "up to 30 days after surgery"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "All-cause death",
+          "timeFrame": "Entire follow-up (a minimum of 10 years)"
+        },
+        {
+          "measure": "Repeat aortic valve surgery",
+          "timeFrame": "Entire follow-up (a minimum of 10 years)"
+        },
+        {
+          "measure": "Clinical thromboembolic events",
+          "description": "Diagnosis of thromboembolic events is based on clinical symptoms, signs and imaging studies.",
+          "timeFrame": "Entire follow-up (a minimum of 10 years)"
+        },
+        {
+          "measure": "Hospitalization due to congestive heart failure",
+          "description": "A hospitalization due to congestive heart failure is defined as an unplanned, urgent admission for the management of congestive heart failure.",
+          "timeFrame": "Entire follow-up (a minimum of 10 years)"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* asymptomatic patients with very severe aortic stenosis who are potential candidates for early surgery. Very severe aortic stenosis are defined as a critical stenosis in the AV area ≤ 0.75 square centimeter fulfilling one of the following criteria; a peak aortic velocity ≥ 4.5 m/sec or a mean transaortic pressure gradient ≥ 50 mmHg on Doppler echocardiography.\n\nAccording to the revised 2014 AHA/ACC Valvular Heart Disease Guideline that recommends exercise testing to confirm the absence of symptoms in asymptomatic patients with severe AS (Class IIa), eligible patients with a positive exercise test will be excluded from the entry after May, 2014.\n\nExclusion Criteria:\n\n* Exertional dyspnea\n* Angina\n* Syncope\n* Left ventricular ejection fraction \\< 50%\n* Significant aortic regurgitation\n* Significant mitral valve disease\n* Pregnancy\n* Age \\< 20 years or \\> 80 years\n* Coexisting malignancies\n* Positive exercise test",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "20 Years",
+      "maximumAge": "80 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Duk-Hyun Kang, M.D.",
+          "affiliation": "Division of Cardiology, Asan Medical Center, University of Ulsan, College of Medicine",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Samsung Medical Center",
+          "city": "Seoul",
+          "zip": "135-710",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Asan Medical Center",
+          "city": "Seoul",
+          "zip": "138-736",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Seoul National University Hospital",
+          "city": "Seoul",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Yonsei University Medical Center",
+          "city": "Seoul",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "20308614",
+          "type": "BACKGROUND",
+          "citation": "Kang DH, Park SJ, Rim JH, Yun SC, Kim DH, Song JM, Choo SJ, Park SW, Song JK, Lee JW, Park PW. Early surgery versus conventional treatment in asymptomatic very severe aortic stenosis. Circulation. 2010 Apr 6;121(13):1502-9. doi: 10.1161/CIRCULATIONAHA.109.909903. Epub 2010 Mar 22."
+        },
+        {
+          "pmid": "41880613",
+          "type": "DERIVED",
+          "citation": "Kang DH, Park SJ, Kim GY, Lee S, Sun BJ, Kim JB, Jung SH, Kim HK, Yun SC, Hong GR, Song JM, Chung CH. Early Surgery or Conservative Care for Asymptomatic Aortic Stenosis at 10 Years. N Engl J Med. 2026 Mar 26;394(12):1167-1174. doi: 10.1056/NEJMoa2511920."
+        },
+        {
+          "pmid": "33509403",
+          "type": "DERIVED",
+          "citation": "Park SJ, Lee S, Lee SA, Kim DH, Kim HK, Hong GR, Song JM, Chung CH, Park SW, Kang DH. Impact of Early Surgery and Staging Classification on Survival in Asymptomatic Very Severe Aortic Stenosis. J Am Coll Cardiol. 2021 Feb 2;77(4):506-508. doi: 10.1016/j.jacc.2020.11.045. No abstract available."
+        },
+        {
+          "pmid": "31733181",
+          "type": "DERIVED",
+          "citation": "Kang DH, Park SJ, Lee SA, Lee S, Kim DH, Kim HK, Yun SC, Hong GR, Song JM, Chung CH, Song JK, Lee JW, Park SW. Early Surgery or Conservative Care for Asymptomatic Aortic Stenosis. N Engl J Med. 2020 Jan 9;382(2):111-119. doi: 10.1056/NEJMoa1912846. Epub 2019 Nov 16."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-08-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001024",
+          "term": "Aortic Valve Stenosis"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000082862",
+          "term": "Aortic Valve Disease"
+        },
+        {
+          "id": "D006349",
+          "term": "Heart Valve Diseases"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D014694",
+          "term": "Ventricular Outflow Obstruction"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

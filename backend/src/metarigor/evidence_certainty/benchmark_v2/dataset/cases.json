@@ -1,0 +1,1758 @@
+{
+  "schema_version": "2.1.0",
+  "benchmark_id": "metarigor-evidence-certainty-benchmark-v2-review",
+  "grade_rule_version": "CORE_GRADE_2025_V1",
+  "scope": "REVIEW_LEVEL_DIRECT_TWO_GROUP_BINARY_RCT",
+  "inherited_v1_catalog_sha256": "19b22ce0aac3f1fd9c7e68f4de5e32d71127889122a07c9a338585066d59ef97",
+  "inherited_v1_scored_case_ids": [
+    "meng-2025",
+    "wang-2025",
+    "turalde-mapili-2023",
+    "zhong-2022",
+    "lin-2025",
+    "sun-2024",
+    "qazi-2026"
+  ],
+  "retained_v1_abstention_case_ids": [
+    "song-2025",
+    "malhotra-2025",
+    "balbaa-2025"
+  ],
+  "review_cases": [
+    {
+      "case_id": "pmc-13290216-pancreatoduodenectomy-mortality",
+      "selected_analysis_id": "mortality-day90",
+      "review_role": "HEADLINE",
+      "selection_reason": "Review 预设的 binary primary perioperative outcome；在 comparator 解封前固定。",
+      "population": "接受择期胰十二指肠切除术的成人",
+      "intervention": "微创胰十二指肠切除术（机器人或腹腔镜）",
+      "comparator": "开放胰十二指肠切除术",
+      "outcome": "90 日全因死亡",
+      "timepoint": "术后 90 日",
+      "effect": {
+        "measure": "OR",
+        "estimate": 1.03,
+        "ci_lower": 0.4,
+        "ci_upper": 2.65,
+        "study_count": 10,
+        "participant_count": 1794,
+        "event_count": null,
+        "i2_percent": 3.0
+      },
+      "source": {
+        "pmcid": "PMC13290216",
+        "manifest_path": "backend/src/metarigor/evidence_certainty/benchmark_v2/dataset/frozen/PMC13290216/manifest.json",
+        "manifest_sha256": "e0a9068f3466054ddc469516f3456a52baad6eb0c0d0c606319d5faf1c0b7518"
+      },
+      "anchors": [
+        {
+          "anchor_id": "analysis-size",
+          "line_number": 5,
+          "line_sha256": "cafd79254111e2e251dca6a1883a9d9a93661220cdc4131641d5317659c64648",
+          "domain_relevance": [
+            "IMPRECISION"
+          ]
+        },
+        {
+          "anchor_id": "scope",
+          "line_number": 44,
+          "line_sha256": "57a1f1489fee9634506dd78716be7f4bace489ad43af20d5c143b4c644c6920f",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "risk-of-bias",
+          "line_number": 48,
+          "line_sha256": "e29a6c6a6d8c97c64a4dc26b150eac275635b168551bf65907835c8deaea7924",
+          "domain_relevance": [
+            "RISK_OF_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "publication",
+          "line_number": 35,
+          "line_sha256": "362e8811ede97ced18bcdb21258dc8f8785d2969ba20d60cd6d434dbe8cb9f31",
+          "domain_relevance": [
+            "PUBLICATION_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "heterogeneity",
+          "line_number": 85,
+          "line_sha256": "90fc96f760f8528b4829a5169852974f442e6e235279b266f70c0015bfae8ba3",
+          "domain_relevance": [
+            "INCONSISTENCY",
+            "INDIRECTNESS",
+            "IMPRECISION"
+          ]
+        },
+        {
+          "anchor_id": "effect",
+          "line_number": 53,
+          "line_sha256": "ba9bdc5a28e7545477905ec280865e0e5d69474e3ca19fd33f807defa49a4953",
+          "domain_relevance": [
+            "INCONSISTENCY",
+            "IMPRECISION"
+          ]
+        },
+        {
+          "anchor_id": "target",
+          "line_number": 33,
+          "line_sha256": "d92c67b3bef852558c10aa274f145d3deea86953df9ea3563c2723d09e16d57f",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        }
+      ],
+      "evidence_design": "REVIEW_REPORTED_RCT_EVIDENCE",
+      "comparison_kind": "DIRECT_TWO_GROUP",
+      "synthesis_kind": "PAIRWISE_META_ANALYSIS",
+      "outcome_kind": "BINARY",
+      "source_bindings": {
+        "selected_analysis": [
+          "target",
+          "effect"
+        ],
+        "population": [
+          "scope"
+        ],
+        "intervention": [
+          "scope"
+        ],
+        "comparator": [
+          "scope"
+        ],
+        "outcome": [
+          "target",
+          "effect"
+        ],
+        "timepoint": [
+          "target"
+        ],
+        "evidence_design": [
+          "scope"
+        ],
+        "comparison_kind": [
+          "scope"
+        ],
+        "synthesis_kind": [
+          "effect"
+        ],
+        "outcome_kind": [
+          "effect"
+        ],
+        "effect": [
+          "analysis-size",
+          "effect"
+        ],
+        "effect_tuple_anchor_id": "effect",
+        "effect_tuple_ordinal": 0
+      }
+    },
+    {
+      "case_id": "pmc-13337450-stroke-short-rehospitalization",
+      "selected_analysis_id": "rehospitalization-up-to-3-months",
+      "review_role": "SUBGROUP",
+      "selection_reason": "Review 摘要和结果预设的短期 binary rehospitalization 分层；不使用 published certainty 选择。",
+      "population": "出院后进入家庭或社区照护的成人卒中幸存者",
+      "intervention": "结构化 transitional care",
+      "comparator": "usual discharge care 或 standard rehabilitation",
+      "outcome": "再住院",
+      "timepoint": "出院后不超过 3 个月",
+      "effect": {
+        "measure": "RR",
+        "estimate": 0.49,
+        "ci_lower": 0.29,
+        "ci_upper": 0.82,
+        "study_count": 4,
+        "participant_count": 507,
+        "event_count": null,
+        "i2_percent": 0.0
+      },
+      "source": {
+        "pmcid": "PMC13337450",
+        "manifest_path": "backend/src/metarigor/evidence_certainty/benchmark_v2/dataset/frozen/PMC13337450/manifest.json",
+        "manifest_sha256": "4a9812f917b593381f87299925578f7ab83785d11bb53c37c4e7e65eeca91481"
+      },
+      "anchors": [
+        {
+          "anchor_id": "search",
+          "line_number": 15,
+          "line_sha256": "a2e5cf24233e2056988d1215564b5a3a00037402dc5db87ab9ee56c682d7623b",
+          "domain_relevance": [
+            "PUBLICATION_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "scope",
+          "line_number": 28,
+          "line_sha256": "cdc3f4db8e0f0e8e9b897ce851e4e342af61032aa75e23b3cadc37edd883b3ae",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "risk-of-bias",
+          "line_number": 57,
+          "line_sha256": "bedd5685be46f395ed5c11cd65bd07075daab90ab71958b067a046913ce61fae",
+          "domain_relevance": [
+            "RISK_OF_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "effect",
+          "line_number": 62,
+          "line_sha256": "9490ac158879e0d00a0293de949ff7aa84628b02f3a1dcec54aab59da674e70d",
+          "domain_relevance": [
+            "INCONSISTENCY",
+            "IMPRECISION"
+          ]
+        },
+        {
+          "anchor_id": "small-study",
+          "line_number": 83,
+          "line_sha256": "4ce5d39d18ec0a728e52e5f70387e5ea44f75de7776ce4f7e5e937ee42bc69e4",
+          "domain_relevance": [
+            "PUBLICATION_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "population",
+          "line_number": 20,
+          "line_sha256": "122604ed4d3610a39992037e1f5d03bc648edd8c1c34585f8fbd536ac01d49a0",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "intervention",
+          "line_number": 22,
+          "line_sha256": "34b8c7aa3cd395bfc5c3d7b4bb12942fd0d8a43103113a56c0796c0c9bdbab23",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "comparator",
+          "line_number": 24,
+          "line_sha256": "fef70afe9cd8fa71c854fc81bbfcc5c7729bd955d5fa5309169346d0af2f7825",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        }
+      ],
+      "evidence_design": "REVIEW_REPORTED_RCT_EVIDENCE",
+      "comparison_kind": "DIRECT_TWO_GROUP",
+      "synthesis_kind": "PAIRWISE_META_ANALYSIS",
+      "outcome_kind": "BINARY",
+      "source_bindings": {
+        "selected_analysis": [
+          "effect"
+        ],
+        "population": [
+          "population"
+        ],
+        "intervention": [
+          "intervention"
+        ],
+        "comparator": [
+          "comparator"
+        ],
+        "outcome": [
+          "scope",
+          "effect"
+        ],
+        "timepoint": [
+          "effect"
+        ],
+        "evidence_design": [
+          "scope"
+        ],
+        "comparison_kind": [
+          "intervention",
+          "comparator",
+          "effect"
+        ],
+        "synthesis_kind": [
+          "effect"
+        ],
+        "outcome_kind": [
+          "effect"
+        ],
+        "effect": [
+          "effect"
+        ],
+        "effect_tuple_anchor_id": "effect",
+        "effect_tuple_ordinal": 0
+      }
+    },
+    {
+      "case_id": "pmc-13348439-minocycline-functional-independence",
+      "selected_analysis_id": "mrs-0-2-month3",
+      "review_role": "HEADLINE",
+      "selection_reason": "Review 预设的 primary binary functional outcome。",
+      "population": "成人急性缺血性卒中患者",
+      "intervention": "minocycline 加 standard stroke management",
+      "comparator": "placebo 或 standard care",
+      "outcome": "功能独立（mRS 0–2）",
+      "timepoint": "3 个月",
+      "effect": {
+        "measure": "RR",
+        "estimate": 1.28,
+        "ci_lower": 0.97,
+        "ci_upper": 1.69,
+        "study_count": 5,
+        "participant_count": 2082,
+        "event_count": null,
+        "i2_percent": 84.9
+      },
+      "source": {
+        "pmcid": "PMC13348439",
+        "manifest_path": "backend/src/metarigor/evidence_certainty/benchmark_v2/dataset/frozen/PMC13348439/manifest.json",
+        "manifest_sha256": "bc57de9dee57bbd2541ba94f88a928d74e130b73772205cd69e924b8f1745a73"
+      },
+      "anchors": [
+        {
+          "anchor_id": "eligibility",
+          "line_number": 19,
+          "line_sha256": "9cceee89740657cffbfa33ddda50641d3c48cc1d4b64c535c7c720c05b36d48f",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "comparison",
+          "line_number": 36,
+          "line_sha256": "22183643f49f7321b40200351f5065b6455494ae48f8c41c3f1515f30b52fde3",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "search",
+          "line_number": 17,
+          "line_sha256": "287e1e03000271a565e2468e91f4a374a9872adfb2e7f89aad28d0e8cbf59f9e",
+          "domain_relevance": [
+            "PUBLICATION_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "scope",
+          "line_number": 27,
+          "line_sha256": "53dbc9c012445a198597d6b06dbdbf26dfd814c344d3be7260d1e4abe0aaeed6",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "publication",
+          "line_number": 31,
+          "line_sha256": "c445daba122223f12048ee76dd747a13fda1fe5bbec1ccec34b0995baaaca03c",
+          "domain_relevance": [
+            "PUBLICATION_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "risk-of-bias",
+          "line_number": 40,
+          "line_sha256": "7464e5b11729c196cc1fd7807b2585ba72fb08d2c92842047cd6e1cf0ec7baa2",
+          "domain_relevance": [
+            "RISK_OF_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "effect",
+          "line_number": 43,
+          "line_sha256": "86b22d9a8c199d08d3a585b90122079c7e28ee953c2a33045603781e768c7a3d",
+          "domain_relevance": [
+            "INCONSISTENCY",
+            "IMPRECISION"
+          ]
+        }
+      ],
+      "evidence_design": "REVIEW_REPORTED_RCT_EVIDENCE",
+      "comparison_kind": "DIRECT_TWO_GROUP",
+      "synthesis_kind": "PAIRWISE_META_ANALYSIS",
+      "outcome_kind": "BINARY",
+      "source_bindings": {
+        "selected_analysis": [
+          "effect"
+        ],
+        "population": [
+          "eligibility"
+        ],
+        "intervention": [
+          "eligibility",
+          "comparison"
+        ],
+        "comparator": [
+          "comparison"
+        ],
+        "outcome": [
+          "scope",
+          "effect"
+        ],
+        "timepoint": [
+          "effect"
+        ],
+        "evidence_design": [
+          "eligibility"
+        ],
+        "comparison_kind": [
+          "comparison"
+        ],
+        "synthesis_kind": [
+          "effect"
+        ],
+        "outcome_kind": [
+          "effect"
+        ],
+        "effect": [
+          "effect"
+        ],
+        "effect_tuple_anchor_id": "effect",
+        "effect_tuple_ordinal": 0
+      }
+    },
+    {
+      "case_id": "pmc-13380479-heart-failure-readmission",
+      "selected_analysis_id": "heart-failure-readmission",
+      "review_role": "HEADLINE",
+      "selection_reason": "Protocol 预设的 binary primary outcome。",
+      "population": "急性或慢性心力衰竭成人",
+      "intervention": "肺和/或下腔静脉超声指导的利尿管理",
+      "comparator": "standard clinical care",
+      "outcome": "心力衰竭再入院",
+      "timepoint": "60–180 日（各 trial 报告时点）",
+      "effect": {
+        "measure": "RR",
+        "estimate": 0.61,
+        "ci_lower": 0.38,
+        "ci_upper": 0.96,
+        "study_count": 7,
+        "participant_count": 824,
+        "event_count": null,
+        "i2_percent": 52.0
+      },
+      "source": {
+        "pmcid": "PMC13380479",
+        "manifest_path": "backend/src/metarigor/evidence_certainty/benchmark_v2/dataset/frozen/PMC13380479/manifest.json",
+        "manifest_sha256": "32ecda66c63c3f909466773530e8a842ea99fc99ecd837a19a70f73ea468ed5b"
+      },
+      "anchors": [
+        {
+          "anchor_id": "search",
+          "line_number": 22,
+          "line_sha256": "44e809f0a85db0b96d0a65ef44f8fd20212ff7692af08eaa933d56cff5990362",
+          "domain_relevance": [
+            "PUBLICATION_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "risk-of-bias",
+          "line_number": 39,
+          "line_sha256": "16affed63fe43411331d7c713b65072bb766f05167d347b74d7bf920b264dbc5",
+          "domain_relevance": [
+            "RISK_OF_BIAS",
+            "IMPRECISION"
+          ]
+        },
+        {
+          "anchor_id": "effect",
+          "line_number": 42,
+          "line_sha256": "d33002d496d81a2be919f221b1a863adceee35f87a578a268878b5b574863b66",
+          "domain_relevance": [
+            "INCONSISTENCY",
+            "IMPRECISION"
+          ]
+        },
+        {
+          "anchor_id": "sensitivity",
+          "line_number": 52,
+          "line_sha256": "6c14d02efe2397bd1b2c8d429d0544114b2ed31d9b3059e2d2236436386d094a",
+          "domain_relevance": [
+            "RISK_OF_BIAS",
+            "INCONSISTENCY",
+            "IMPRECISION"
+          ]
+        },
+        {
+          "anchor_id": "clinical-variation",
+          "line_number": 68,
+          "line_sha256": "741ac48eddcb27445cd8fe2b5b5d6bc331ac32985be45594b665c0feab3fa9dc",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "scope",
+          "line_number": 24,
+          "line_sha256": "4b5ccc6565c8b38edce7df55553b0939f545d194f628c43cb211b0ee6a00afe0",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "follow-up",
+          "line_number": 37,
+          "line_sha256": "7962a7238f7a93b405c7eb1772ddf59daadc9cf2611e123fb5c4630cc0306113",
+          "domain_relevance": [
+            "INDIRECTNESS",
+            "IMPRECISION"
+          ]
+        }
+      ],
+      "evidence_design": "REVIEW_REPORTED_RCT_EVIDENCE",
+      "comparison_kind": "DIRECT_TWO_GROUP",
+      "synthesis_kind": "PAIRWISE_META_ANALYSIS",
+      "outcome_kind": "BINARY",
+      "source_bindings": {
+        "selected_analysis": [
+          "effect"
+        ],
+        "population": [
+          "scope"
+        ],
+        "intervention": [
+          "scope"
+        ],
+        "comparator": [
+          "scope"
+        ],
+        "outcome": [
+          "scope",
+          "effect"
+        ],
+        "timepoint": [
+          "follow-up"
+        ],
+        "evidence_design": [
+          "scope"
+        ],
+        "comparison_kind": [
+          "scope"
+        ],
+        "synthesis_kind": [
+          "effect"
+        ],
+        "outcome_kind": [
+          "effect"
+        ],
+        "effect": [
+          "risk-of-bias",
+          "effect",
+          "clinical-variation"
+        ],
+        "effect_tuple_anchor_id": "effect",
+        "effect_tuple_ordinal": 0
+      }
+    },
+    {
+      "case_id": "pmc-13391209-laac-ischaemic-stroke",
+      "selected_analysis_id": "ischaemic-stroke-or-systemic-embolism",
+      "review_role": "NON_HEADLINE",
+      "selection_reason": "Review 预设的 binary efficacy outcome；在读取 comparator 前固定。",
+      "population": "适合接受口服抗凝的成人房颤患者",
+      "intervention": "经皮左心耳封堵",
+      "comparator": "口服抗凝（VKA 或 DOAC-based strategy）",
+      "outcome": "缺血性卒中或全身性栓塞",
+      "timepoint": "最长随访 36–49.6 个月",
+      "effect": {
+        "measure": "RR",
+        "estimate": 1.41,
+        "ci_lower": 1.07,
+        "ci_upper": 1.86,
+        "study_count": 6,
+        "participant_count": 7004,
+        "event_count": 214,
+        "i2_percent": 0.0
+      },
+      "source": {
+        "pmcid": "PMC13391209",
+        "manifest_path": "backend/src/metarigor/evidence_certainty/benchmark_v2/dataset/frozen/PMC13391209/manifest.json",
+        "manifest_sha256": "758d1b3c0669b8d3ab7b427d9b1234aa739bf72c554e41cb72735afb8b258cf1"
+      },
+      "anchors": [
+        {
+          "anchor_id": "eligibility",
+          "line_number": 16,
+          "line_sha256": "f19d0bb73414167ad04e7beafdd1ce865ce68291b8364dec577a8fe85cc81d14",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "search",
+          "line_number": 13,
+          "line_sha256": "3b9a2d4bc14cc8aa844a81810b791cfcb886a4c39c613d0fcb9f4324e7e55575",
+          "domain_relevance": [
+            "PUBLICATION_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "scope",
+          "line_number": 20,
+          "line_sha256": "0309ba87c15c832cab9331e82a2af2edad2917b6774483692ae17d86a92301bd",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "follow-up",
+          "line_number": 37,
+          "line_sha256": "b41a945e975836188737cc5f8052ae6837ddf2edf00aff4564ba5852bb7c3f41",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "risk-of-bias",
+          "line_number": 39,
+          "line_sha256": "5a331e3f394f280283359ab6013b28ffb04d8179a1b6bb9d55c8fcbc88ef4b77",
+          "domain_relevance": [
+            "RISK_OF_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "effect",
+          "line_number": 44,
+          "line_sha256": "d242bca371da805bf499324ad9fe847d0ebea2edbb17a24c7418a817ed0b9ec3",
+          "domain_relevance": [
+            "INCONSISTENCY",
+            "IMPRECISION"
+          ]
+        },
+        {
+          "anchor_id": "publication",
+          "line_number": 59,
+          "line_sha256": "3eae29bd0662f7ac67ab4a4bc55fed2c5e3c79a1b78a43ed59a3ebffd0f262e0",
+          "domain_relevance": [
+            "PUBLICATION_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "effect-count",
+          "line_number": 41,
+          "line_sha256": "03af2a963cbd4c6ec82261e1792f01e5ef3ac7eb5499d082b661b9c3cb7928b7",
+          "domain_relevance": [
+            "IMPRECISION"
+          ]
+        }
+      ],
+      "evidence_design": "REVIEW_REPORTED_RCT_EVIDENCE",
+      "comparison_kind": "DIRECT_TWO_GROUP",
+      "synthesis_kind": "PAIRWISE_META_ANALYSIS",
+      "outcome_kind": "BINARY",
+      "source_bindings": {
+        "selected_analysis": [
+          "effect"
+        ],
+        "population": [
+          "eligibility"
+        ],
+        "intervention": [
+          "eligibility"
+        ],
+        "comparator": [
+          "eligibility"
+        ],
+        "outcome": [
+          "scope",
+          "effect"
+        ],
+        "timepoint": [
+          "follow-up"
+        ],
+        "evidence_design": [
+          "eligibility"
+        ],
+        "comparison_kind": [
+          "eligibility"
+        ],
+        "synthesis_kind": [
+          "effect"
+        ],
+        "outcome_kind": [
+          "effect"
+        ],
+        "effect": [
+          "effect-count",
+          "effect"
+        ],
+        "effect_tuple_anchor_id": "effect",
+        "effect_tuple_ordinal": 0
+      }
+    },
+    {
+      "case_id": "pmc-13506725-lung-cancer-ppc",
+      "selected_analysis_id": "overall-ppc-30-day-or-index-admission",
+      "review_role": "HEADLINE",
+      "selection_reason": "Review 预设的 primary binary outcome；采用主文 overall PPC pairwise estimate。",
+      "population": "接受肺癌解剖性肺切除的成人。",
+      "intervention": "术前以运动为核心的单模态或多模态 prehabilitation。",
+      "comparator": "usual care 或 standard perioperative care。",
+      "outcome": "overall postoperative pulmonary complications。",
+      "timepoint": "术后 30 日内；无 30 日数据时采用 index hospitalization。",
+      "evidence_design": "REVIEW_REPORTED_RCT_EVIDENCE",
+      "comparison_kind": "DIRECT_TWO_GROUP",
+      "synthesis_kind": "PAIRWISE_META_ANALYSIS",
+      "outcome_kind": "BINARY",
+      "effect": {
+        "measure": "RR",
+        "estimate": 0.42,
+        "ci_lower": 0.33,
+        "ci_upper": 0.53,
+        "study_count": 13,
+        "participant_count": 1419,
+        "event_count": 258,
+        "i2_percent": 0.0
+      },
+      "source": {
+        "pmcid": "PMC13506725",
+        "manifest_path": "backend/src/metarigor/evidence_certainty/benchmark_v2/dataset/frozen/PMC13506725/manifest.json",
+        "manifest_sha256": "a811c9f66cba386b7673dbb148ea888335539ecae1aaee8924d9f1691b9eee57"
+      },
+      "anchors": [
+        {
+          "anchor_id": "scope",
+          "line_number": 16,
+          "line_sha256": "48302f83103f95dadbbc9b66de5f3f43645f39bf24840329174ecc0922fc5cfb",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "search",
+          "line_number": 19,
+          "line_sha256": "27d2c80b354f351a833918f32f98ea1fdeb4e308436961cc3337a987bc469a87",
+          "domain_relevance": [
+            "PUBLICATION_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "risk-of-bias",
+          "line_number": 41,
+          "line_sha256": "5404dcb6b7f19587fc150838aca730f4a836d1dbdb711399088ed9d5e773a88f",
+          "domain_relevance": [
+            "RISK_OF_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "effect",
+          "line_number": 46,
+          "line_sha256": "843b8abf98846c4131f990c8c71bc2dbfeadb167b476bf1e8b70619bb4766ab9",
+          "domain_relevance": [
+            "INCONSISTENCY",
+            "IMPRECISION"
+          ]
+        },
+        {
+          "anchor_id": "publication",
+          "line_number": 66,
+          "line_sha256": "fafb6524da3cbc6217e4506ef45115502c3ededaac9b0825e249c936ecf94903",
+          "domain_relevance": [
+            "PUBLICATION_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "limitations",
+          "line_number": 85,
+          "line_sha256": "24c1e01c77b16822a4f045271ac48523421cc54a768885edbc34577a0d66d468",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        }
+      ],
+      "source_bindings": {
+        "selected_analysis": [
+          "scope",
+          "effect"
+        ],
+        "population": [
+          "scope"
+        ],
+        "intervention": [
+          "scope"
+        ],
+        "comparator": [
+          "scope"
+        ],
+        "outcome": [
+          "scope",
+          "effect"
+        ],
+        "timepoint": [
+          "scope"
+        ],
+        "evidence_design": [
+          "scope"
+        ],
+        "comparison_kind": [
+          "scope",
+          "effect"
+        ],
+        "synthesis_kind": [
+          "effect"
+        ],
+        "outcome_kind": [
+          "scope",
+          "effect"
+        ],
+        "effect": [
+          "effect"
+        ],
+        "effect_tuple_anchor_id": "effect",
+        "effect_tuple_ordinal": 0
+      }
+    },
+    {
+      "case_id": "pmc-13446969-postextubation-reintubation",
+      "selected_analysis_id": "reintubation-within-72-hours",
+      "review_role": "HEADLINE",
+      "selection_reason": "Review 预设的 binary primary outcome。",
+      "population": "拔管失败高风险的 ICU 成人",
+      "intervention": "单独使用 high-flow nasal cannula",
+      "comparator": "noninvasive ventilation",
+      "outcome": "再插管",
+      "timepoint": "拔管后 72 小时内",
+      "effect": {
+        "measure": "OR",
+        "estimate": 1.22,
+        "ci_lower": 0.9,
+        "ci_upper": 1.65,
+        "study_count": 15,
+        "participant_count": 2073,
+        "event_count": 373,
+        "i2_percent": 22.0
+      },
+      "source": {
+        "pmcid": "PMC13446969",
+        "manifest_path": "backend/src/metarigor/evidence_certainty/benchmark_v2/dataset/frozen/PMC13446969/manifest.json",
+        "manifest_sha256": "d0ae0cbe48ba387fb907ca4cfab36a2cc9224a9c942c86d0432ee4721ad1864e"
+      },
+      "anchors": [
+        {
+          "anchor_id": "scope",
+          "line_number": 19,
+          "line_sha256": "5147056a0a675062bced4a49877e1af9a20766aa11b8812c6055304183c9febb",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "timepoint",
+          "line_number": 20,
+          "line_sha256": "8420810aa9b8e647b5549db558e16fd98e19ce71cc7a80203dcb507453ae66de",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "search",
+          "line_number": 23,
+          "line_sha256": "6aade39f8572f120c27dd851de34333bd4e1f64d2929c94b29aabad4677a7c2d",
+          "domain_relevance": [
+            "PUBLICATION_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "risk-of-bias",
+          "line_number": 52,
+          "line_sha256": "8b8b93dd9af9ae93b98ba4fc3c7cf30c4889d5929a6a00b38119d77440947575",
+          "domain_relevance": [
+            "RISK_OF_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "heterogeneity",
+          "line_number": 57,
+          "line_sha256": "2994057e6a2a00de700f29481ef713f27c4b2d5b6156523949a4c0f49c6d002c",
+          "domain_relevance": [
+            "INCONSISTENCY",
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "effect",
+          "line_number": 61,
+          "line_sha256": "ec204d1e0a541927c946d09d6ff75f9bfff9fcb8e2301aa059e00cae868fbe0b",
+          "domain_relevance": [
+            "IMPRECISION"
+          ]
+        },
+        {
+          "anchor_id": "effect-count",
+          "line_number": 72,
+          "line_sha256": "7b8649c43b444489d5cf4f7261360b3f97a8b66ddef3f7c442903438909bc8ff",
+          "domain_relevance": [
+            "IMPRECISION"
+          ]
+        }
+      ],
+      "evidence_design": "REVIEW_REPORTED_RCT_EVIDENCE",
+      "comparison_kind": "DIRECT_TWO_GROUP",
+      "synthesis_kind": "PAIRWISE_META_ANALYSIS",
+      "outcome_kind": "BINARY",
+      "source_bindings": {
+        "selected_analysis": [
+          "effect"
+        ],
+        "population": [
+          "scope"
+        ],
+        "intervention": [
+          "scope"
+        ],
+        "comparator": [
+          "scope"
+        ],
+        "outcome": [
+          "scope",
+          "effect"
+        ],
+        "timepoint": [
+          "timepoint"
+        ],
+        "evidence_design": [
+          "scope"
+        ],
+        "comparison_kind": [
+          "scope"
+        ],
+        "synthesis_kind": [
+          "effect"
+        ],
+        "outcome_kind": [
+          "effect"
+        ],
+        "effect": [
+          "effect-count",
+          "effect"
+        ],
+        "effect_tuple_anchor_id": "effect",
+        "effect_tuple_ordinal": 0
+      }
+    },
+    {
+      "case_id": "pmc-13472815-high-protein-mortality",
+      "selected_analysis_id": "mortality-day28-30",
+      "review_role": "HEADLINE",
+      "selection_reason": "预设 primary mortality outcome 的最早统一时点。",
+      "population": "ICU 或同等 critical-care setting 的成人",
+      "intervention": "较高蛋白供给（组间差至少 0.3 g/kg/day）",
+      "comparator": "较低或 standard protein provision",
+      "outcome": "全因死亡",
+      "timepoint": "28 或 30 日",
+      "effect": {
+        "measure": "RR",
+        "estimate": 0.82,
+        "ci_lower": 0.58,
+        "ci_upper": 1.17,
+        "study_count": 6,
+        "participant_count": null,
+        "event_count": null,
+        "i2_percent": 0.0
+      },
+      "source": {
+        "pmcid": "PMC13472815",
+        "manifest_path": "backend/src/metarigor/evidence_certainty/benchmark_v2/dataset/frozen/PMC13472815/manifest.json",
+        "manifest_sha256": "3f64004e00564acd514a2b5dfebcc4321a9370b2bb660c39f0dc4c229b2a3662"
+      },
+      "anchors": [
+        {
+          "anchor_id": "scope",
+          "line_number": 16,
+          "line_sha256": "7c0626b15c1591a0206ba1a5fc4056e1c82b6690260c7375ec901c9009043526",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "search",
+          "line_number": 18,
+          "line_sha256": "151a3d2bb86434d43dff75a8b9124692d3fe791711715be352ac263ec7ea744b",
+          "domain_relevance": [
+            "PUBLICATION_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "risk-of-bias",
+          "line_number": 55,
+          "line_sha256": "f4c6db8e4e915474dcbf0da004c9cf83c15e9ded7537fc7b7b483c347d9bf6ed",
+          "domain_relevance": [
+            "RISK_OF_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "effect",
+          "line_number": 58,
+          "line_sha256": "0f9b4b6932438e0f8e12731e83b225174c74f191035a5f2bcd549007060f2afd",
+          "domain_relevance": [
+            "INCONSISTENCY",
+            "IMPRECISION"
+          ]
+        },
+        {
+          "anchor_id": "publication",
+          "line_number": 87,
+          "line_sha256": "254c278d8e8e1664e9fbfe900f5aed0e59b6de4aec06cb52f752b6cd5dc86853",
+          "domain_relevance": [
+            "PUBLICATION_BIAS"
+          ]
+        }
+      ],
+      "evidence_design": "REVIEW_REPORTED_RCT_EVIDENCE",
+      "comparison_kind": "DIRECT_TWO_GROUP",
+      "synthesis_kind": "PAIRWISE_META_ANALYSIS",
+      "outcome_kind": "BINARY",
+      "source_bindings": {
+        "selected_analysis": [
+          "effect"
+        ],
+        "population": [
+          "scope"
+        ],
+        "intervention": [
+          "scope"
+        ],
+        "comparator": [
+          "scope"
+        ],
+        "outcome": [
+          "scope",
+          "effect"
+        ],
+        "timepoint": [
+          "effect"
+        ],
+        "evidence_design": [
+          "scope"
+        ],
+        "comparison_kind": [
+          "scope"
+        ],
+        "synthesis_kind": [
+          "effect"
+        ],
+        "outcome_kind": [
+          "effect"
+        ],
+        "effect": [
+          "effect"
+        ],
+        "effect_tuple_anchor_id": "effect",
+        "effect_tuple_ordinal": 0
+      }
+    },
+    {
+      "case_id": "pmc-13473429-txa-short-mortality",
+      "selected_analysis_id": "short-term-mortality",
+      "review_role": "HEADLINE",
+      "selection_reason": "Review 预设的 binary primary outcome。",
+      "population": "急性出血性颅脑损伤成人（TBI、ICH 或 SAH）",
+      "intervention": "tranexamic acid",
+      "comparator": "placebo、normal saline 或无 TXA standard care",
+      "outcome": "全因死亡",
+      "timepoint": "不超过 30 日（或最近的 28 日）",
+      "effect": {
+        "measure": "RR",
+        "estimate": 0.93,
+        "ci_lower": 0.86,
+        "ci_upper": 1.0,
+        "study_count": 4,
+        "participant_count": 12605,
+        "event_count": null,
+        "i2_percent": 0.0
+      },
+      "source": {
+        "pmcid": "PMC13473429",
+        "manifest_path": "backend/src/metarigor/evidence_certainty/benchmark_v2/dataset/frozen/PMC13473429/manifest.json",
+        "manifest_sha256": "4d3fad06001c1210b51d785d090022b31572e94f4ceb8becea134c7037a61a66"
+      },
+      "anchors": [
+        {
+          "anchor_id": "search",
+          "line_number": 17,
+          "line_sha256": "6d48918825387c5d98f5b3355184fce48a21a6aa6aaf2fd095e4d87c9f7ae930",
+          "domain_relevance": [
+            "PUBLICATION_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "scope",
+          "line_number": 24,
+          "line_sha256": "ceb824cc7a1d60dacdaa2ca51e393010334040dd2c61164be3d337a9f359e646",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "comparator-detail",
+          "line_number": 22,
+          "line_sha256": "e7c8faa45dad329ad5a7926bd5b6573032a48d0d934b0028b96d914b7389e4ee",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "risk-of-bias",
+          "line_number": 37,
+          "line_sha256": "4b44ba30e965bbfbdd7feb45277fcaba8978ffebf60a34fc22ee7c049b78eb49",
+          "domain_relevance": [
+            "RISK_OF_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "effect",
+          "line_number": 40,
+          "line_sha256": "d02ead40366c3b70628e08b1c8565c6bfd2e9b9f6b3e2cfb6f4397f17fad3ff9",
+          "domain_relevance": [
+            "INCONSISTENCY",
+            "IMPRECISION",
+            "PUBLICATION_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "clinical-heterogeneity",
+          "line_number": 62,
+          "line_sha256": "406fcdada8aefacc4e4d9f802b044520e0fcff3cb7d819d909f25198c49a7031",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "pico",
+          "line_number": 4,
+          "line_sha256": "8eaab22a0d72595799c057ed4a06e9c6dd34f2deea67f5aca23196824cb57ee0",
+          "domain_relevance": [
+            "RISK_OF_BIAS",
+            "INDIRECTNESS"
+          ]
+        }
+      ],
+      "evidence_design": "REVIEW_REPORTED_RCT_EVIDENCE",
+      "comparison_kind": "DIRECT_TWO_GROUP",
+      "synthesis_kind": "PAIRWISE_META_ANALYSIS",
+      "outcome_kind": "BINARY",
+      "source_bindings": {
+        "selected_analysis": [
+          "effect"
+        ],
+        "population": [
+          "pico"
+        ],
+        "intervention": [
+          "pico"
+        ],
+        "comparator": [
+          "pico",
+          "comparator-detail"
+        ],
+        "outcome": [
+          "pico",
+          "effect"
+        ],
+        "timepoint": [
+          "scope"
+        ],
+        "evidence_design": [
+          "pico"
+        ],
+        "comparison_kind": [
+          "pico",
+          "comparator-detail"
+        ],
+        "synthesis_kind": [
+          "effect"
+        ],
+        "outcome_kind": [
+          "effect"
+        ],
+        "effect": [
+          "effect"
+        ],
+        "effect_tuple_anchor_id": "effect",
+        "effect_tuple_ordinal": 0
+      }
+    },
+    {
+      "case_id": "pmc-13486297-bronchiolitis-treatment-failure",
+      "selected_analysis_id": "treatment-failure",
+      "review_role": "HEADLINE",
+      "selection_reason": "Review 预设的 binary primary outcome。",
+      "population": "需要无创呼吸支持的中重度细支气管炎儿童",
+      "intervention": "high-flow nasal cannula",
+      "comparator": "continuous positive airway pressure",
+      "outcome": "trial-defined treatment failure",
+      "timepoint": "按各 trial 定义（来源未报告统一时间窗）",
+      "effect": {
+        "measure": "RR",
+        "estimate": 0.8,
+        "ci_lower": 0.5,
+        "ci_upper": 1.29,
+        "study_count": 10,
+        "participant_count": 965,
+        "event_count": null,
+        "i2_percent": 67.0
+      },
+      "source": {
+        "pmcid": "PMC13486297",
+        "manifest_path": "backend/src/metarigor/evidence_certainty/benchmark_v2/dataset/frozen/PMC13486297/manifest.json",
+        "manifest_sha256": "fb3d91caebe14724f360f2521654b84f7f2dd9cb6788de22375f02f17b9db641"
+      },
+      "anchors": [
+        {
+          "anchor_id": "scope",
+          "line_number": 18,
+          "line_sha256": "ee98fef8e35d5d4206eae63150df9b6c959143bd6a651196d953c334aae2c192",
+          "domain_relevance": [
+            "RISK_OF_BIAS",
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "search",
+          "line_number": 22,
+          "line_sha256": "a8a77fd051f82b836142ebbb0fc0415b7f4e2a0e4dadf7f8f616f37971404b2a",
+          "domain_relevance": [
+            "PUBLICATION_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "analysis-size",
+          "line_number": 34,
+          "line_sha256": "80823ee19d3b105e883f6d2b016b904e6ffd2d353b9a4d414703e63411447b9e",
+          "domain_relevance": [
+            "RISK_OF_BIAS",
+            "IMPRECISION"
+          ]
+        },
+        {
+          "anchor_id": "risk-of-bias",
+          "line_number": 36,
+          "line_sha256": "e349d2aab47da3aac1451a85a352405957f186a89f9806f3f03e04f88d0e46d4",
+          "domain_relevance": [
+            "RISK_OF_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "effect",
+          "line_number": 39,
+          "line_sha256": "1c9757621c2a2896dc09983741999a7a54c78484061f8fd2841903b991f32495",
+          "domain_relevance": [
+            "INCONSISTENCY",
+            "IMPRECISION"
+          ]
+        },
+        {
+          "anchor_id": "publication",
+          "line_number": 49,
+          "line_sha256": "5d61a1bbe10c76d5f77b41338931169968f66cf5a16df488f6e138d28320411b",
+          "domain_relevance": [
+            "PUBLICATION_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "population",
+          "line_number": 15,
+          "line_sha256": "741759e180159b11bb0f9b9d1e71f1d2bbf57647bafc7122a8c4771d826b6537",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "intervention",
+          "line_number": 16,
+          "line_sha256": "27562b8f71eef56e0be27965c070a8a8bb4a22589d067302fcb44408ea5a8c34",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "comparator",
+          "line_number": 17,
+          "line_sha256": "e37967677ec879806eb90c3c2bbae077fc92e25668d587c113c3dcb7921cb931",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "design",
+          "line_number": 19,
+          "line_sha256": "afd79162da9315423980a524483696d0961f28914b6881c02ad4860efd9479af",
+          "domain_relevance": [
+            "RISK_OF_BIAS"
+          ]
+        }
+      ],
+      "evidence_design": "REVIEW_REPORTED_RCT_EVIDENCE",
+      "comparison_kind": "DIRECT_TWO_GROUP",
+      "synthesis_kind": "PAIRWISE_META_ANALYSIS",
+      "outcome_kind": "BINARY",
+      "source_bindings": {
+        "selected_analysis": [
+          "effect"
+        ],
+        "population": [
+          "population"
+        ],
+        "intervention": [
+          "intervention"
+        ],
+        "comparator": [
+          "comparator"
+        ],
+        "outcome": [
+          "scope",
+          "effect"
+        ],
+        "timepoint": [
+          "scope"
+        ],
+        "evidence_design": [
+          "design"
+        ],
+        "comparison_kind": [
+          "intervention",
+          "comparator",
+          "design"
+        ],
+        "synthesis_kind": [
+          "effect"
+        ],
+        "outcome_kind": [
+          "effect"
+        ],
+        "effect": [
+          "analysis-size",
+          "effect"
+        ],
+        "effect_tuple_anchor_id": "effect",
+        "effect_tuple_ordinal": 0
+      }
+    },
+    {
+      "case_id": "pmc-13495394-imaging-pci-mace",
+      "selected_analysis_id": "major-adverse-cardiovascular-events",
+      "review_role": "HEADLINE",
+      "selection_reason": "Review 的唯一预设 binary clinical outcome；只使用 pairwise estimate，不使用 NMA ranking。",
+      "population": "接受 PCI 的 multivessel coronary artery disease 患者",
+      "intervention": "IVUS 或 OCT 引导 PCI",
+      "comparator": "angiography-guided PCI",
+      "outcome": "major adverse cardiovascular events（含 trial-defined TVF surrogate）",
+      "timepoint": "各 trial 随访 12–60 个月（不统一）",
+      "effect": {
+        "measure": "RR",
+        "estimate": 0.58,
+        "ci_lower": 0.46,
+        "ci_upper": 0.74,
+        "study_count": 5,
+        "participant_count": 3023,
+        "event_count": null,
+        "i2_percent": 9.8
+      },
+      "source": {
+        "pmcid": "PMC13495394",
+        "manifest_path": "backend/src/metarigor/evidence_certainty/benchmark_v2/dataset/frozen/PMC13495394/manifest.json",
+        "manifest_sha256": "e2568967d48dee4a8ae3b22aec14799f644205448660448a716db5864011d94f"
+      },
+      "anchors": [
+        {
+          "anchor_id": "scope",
+          "line_number": 18,
+          "line_sha256": "78b6bab3442dc5fd327d5ef2f33f76d8e795381ac2dcd6b44324401a008f8214",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "surrogate",
+          "line_number": 27,
+          "line_sha256": "e9d28e198338d8963910949efcaf23685a48428898e968e8a5aa833babd0b228",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "risk-of-bias",
+          "line_number": 30,
+          "line_sha256": "e4f81462d0061ae5a33f7d89857edcfc5c63667f710aca14ef24ea62702866c3",
+          "domain_relevance": [
+            "RISK_OF_BIAS",
+            "IMPRECISION"
+          ]
+        },
+        {
+          "anchor_id": "publication",
+          "line_number": 33,
+          "line_sha256": "41533f87c231e6cf0df1c39f2a24e8f73c1ac561b019f16f085bdba6feef60a3",
+          "domain_relevance": [
+            "PUBLICATION_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "effect",
+          "line_number": 40,
+          "line_sha256": "3a0457bdae554b9bb7264e237a5d30ae82c913781fe8d5026ec7b6074cfc90a4",
+          "domain_relevance": [
+            "INCONSISTENCY",
+            "IMPRECISION"
+          ]
+        },
+        {
+          "anchor_id": "search",
+          "line_number": 20,
+          "line_sha256": "c515e41214608384a78db91ecf22349a4e9c31cd8ffcfc4f5b99b08c951efb4b",
+          "domain_relevance": [
+            "PUBLICATION_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "follow-up",
+          "line_number": 24,
+          "line_sha256": "e1478c71b4d7913edaae41d5ef9dfacb1c12dd7cdd7b25c316f0e91df295e6e4",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "effect-count",
+          "line_number": 38,
+          "line_sha256": "dd80941a728d38bcaf9a91618d5ceaa5de5e8ba60ec5228c5cb9c7a046ada4fc",
+          "domain_relevance": [
+            "IMPRECISION"
+          ]
+        }
+      ],
+      "evidence_design": "REVIEW_REPORTED_RCT_EVIDENCE",
+      "comparison_kind": "DIRECT_TWO_GROUP",
+      "synthesis_kind": "PAIRWISE_META_ANALYSIS",
+      "outcome_kind": "BINARY",
+      "source_bindings": {
+        "selected_analysis": [
+          "effect"
+        ],
+        "population": [
+          "scope"
+        ],
+        "intervention": [
+          "scope"
+        ],
+        "comparator": [
+          "scope"
+        ],
+        "outcome": [
+          "scope",
+          "surrogate",
+          "effect"
+        ],
+        "timepoint": [
+          "follow-up"
+        ],
+        "evidence_design": [
+          "scope"
+        ],
+        "comparison_kind": [
+          "scope"
+        ],
+        "synthesis_kind": [
+          "effect"
+        ],
+        "outcome_kind": [
+          "effect"
+        ],
+        "effect": [
+          "effect-count",
+          "effect"
+        ],
+        "effect_tuple_anchor_id": "effect",
+        "effect_tuple_ordinal": 0
+      }
+    },
+    {
+      "case_id": "pmc-13507955-ultrasound-atelectasis",
+      "selected_analysis_id": "postoperative-atelectasis",
+      "review_role": "HEADLINE",
+      "selection_reason": "Review 预设的 binary primary outcome。",
+      "population": "接受择期全身麻醉手术的成人",
+      "intervention": "术中超声指导 lung recruitment maneuver",
+      "comparator": "非超声指导 recruitment 或 standard protective ventilation",
+      "outcome": "术后肺不张（lung ultrasound 诊断）",
+      "timepoint": "拔管后或术后 1 日（trial-defined）",
+      "effect": {
+        "measure": "RR",
+        "estimate": 0.64,
+        "ci_lower": 0.52,
+        "ci_upper": 0.77,
+        "study_count": 10,
+        "participant_count": 1076,
+        "event_count": null,
+        "i2_percent": 50.8
+      },
+      "source": {
+        "pmcid": "PMC13507955",
+        "manifest_path": "backend/src/metarigor/evidence_certainty/benchmark_v2/dataset/frozen/PMC13507955/manifest.json",
+        "manifest_sha256": "fb08fe19dda3973a2c51806378898a9298b8ef29e3ff428015aa6171122ebafe"
+      },
+      "anchors": [
+        {
+          "anchor_id": "analysis-size",
+          "line_number": 4,
+          "line_sha256": "e585eaf8fd653216d560edf35102a336681223c3abbf72474e5b0103f67e50a9",
+          "domain_relevance": [
+            "INCONSISTENCY",
+            "IMPRECISION"
+          ]
+        },
+        {
+          "anchor_id": "search",
+          "line_number": 14,
+          "line_sha256": "1040e7592b1227663d58183c792236a4a3bef7f05d191cb6e0e30fe934a46f30",
+          "domain_relevance": [
+            "PUBLICATION_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "scope",
+          "line_number": 16,
+          "line_sha256": "a3412bf3dadd81752e77eecd7fa51b5576d4815bff38a7132a1b7f10706954ae",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "risk-of-bias",
+          "line_number": 36,
+          "line_sha256": "b62ab3e53551988bc282973abe8f63330b737924e387142a0c328853fa35ab1e",
+          "domain_relevance": [
+            "RISK_OF_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "timepoint",
+          "line_number": 34,
+          "line_sha256": "1d32711191ed7679bddb2993c059fe24d9773806ea15ae8e1aa81eeeb279f1ef",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "publication",
+          "line_number": 38,
+          "line_sha256": "b10d422074a58ffa9110bbbc1fc939220de44b264b8db0b6a3610320835d25da",
+          "domain_relevance": [
+            "PUBLICATION_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "effect",
+          "line_number": 40,
+          "line_sha256": "398cef0e16b79dc21438814130e94e1eb96def109d311614754f5937fd58e172",
+          "domain_relevance": [
+            "INCONSISTENCY",
+            "IMPRECISION"
+          ]
+        },
+        {
+          "anchor_id": "clinical-heterogeneity",
+          "line_number": 55,
+          "line_sha256": "d0141ba039a1b1b64ab96ac9e42309d5142593b1d63a461444db46c25b129141",
+          "domain_relevance": [
+            "INCONSISTENCY",
+            "INDIRECTNESS"
+          ]
+        }
+      ],
+      "evidence_design": "REVIEW_REPORTED_RCT_EVIDENCE",
+      "comparison_kind": "DIRECT_TWO_GROUP",
+      "synthesis_kind": "PAIRWISE_META_ANALYSIS",
+      "outcome_kind": "BINARY",
+      "source_bindings": {
+        "selected_analysis": [
+          "effect"
+        ],
+        "population": [
+          "scope"
+        ],
+        "intervention": [
+          "scope"
+        ],
+        "comparator": [
+          "scope"
+        ],
+        "outcome": [
+          "scope",
+          "effect"
+        ],
+        "timepoint": [
+          "timepoint"
+        ],
+        "evidence_design": [
+          "scope"
+        ],
+        "comparison_kind": [
+          "scope"
+        ],
+        "synthesis_kind": [
+          "effect"
+        ],
+        "outcome_kind": [
+          "effect"
+        ],
+        "effect": [
+          "analysis-size",
+          "effect"
+        ],
+        "effect_tuple_anchor_id": "effect",
+        "effect_tuple_ordinal": 0
+      }
+    },
+    {
+      "case_id": "pmc-13522188-ohca-mortality",
+      "selected_analysis_id": "all-cause-mortality-longest-follow-up",
+      "review_role": "HEADLINE",
+      "selection_reason": "Review 预设的 binary primary outcome。",
+      "population": "成人 out-of-hospital cardiac arrest",
+      "intervention": "expedited transfer pathway",
+      "comparator": "continued on-scene resuscitation 或 standard EMS transfer",
+      "outcome": "全因死亡",
+      "timepoint": "各 trial 最长报告随访",
+      "effect": {
+        "measure": "RR",
+        "estimate": 0.97,
+        "ci_lower": 0.9,
+        "ci_upper": 1.04,
+        "study_count": 4,
+        "participant_count": 1303,
+        "event_count": 877,
+        "i2_percent": null
+      },
+      "source": {
+        "pmcid": "PMC13522188",
+        "manifest_path": "backend/src/metarigor/evidence_certainty/benchmark_v2/dataset/frozen/PMC13522188/manifest.json",
+        "manifest_sha256": "4d209fa701a75e4464cc9a346e2c74b4f7b3adbb81e8c85b805ae357a3fd5eb0"
+      },
+      "anchors": [
+        {
+          "anchor_id": "search",
+          "line_number": 15,
+          "line_sha256": "fc3df63c2afc6ab236eac536a1c202780f0c5a8ec95bedf98a6609605f9d5770",
+          "domain_relevance": [
+            "PUBLICATION_BIAS"
+          ]
+        },
+        {
+          "anchor_id": "scope",
+          "line_number": 21,
+          "line_sha256": "617f6cd195be08b59b59583c32e1e229537d27193f2d162885da79aa407319e7",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "clinical-heterogeneity",
+          "line_number": 48,
+          "line_sha256": "81ae0df3647b297fa0605a8edfa267ae6c926524554260698fdf196f6446f893",
+          "domain_relevance": [
+            "INCONSISTENCY",
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "effect",
+          "line_number": 50,
+          "line_sha256": "a1d3d11a4c162d4a8bedfddbf635578e29842de2863f768acacfdc95efc497fd",
+          "domain_relevance": [
+            "IMPRECISION"
+          ]
+        },
+        {
+          "anchor_id": "risk-of-bias",
+          "line_number": 70,
+          "line_sha256": "eecc8b8d0ea89bab2eb80817af69a05bb13a79e5c90323f8854b32ea492c9b16",
+          "domain_relevance": [
+            "RISK_OF_BIAS",
+            "INCONSISTENCY"
+          ]
+        },
+        {
+          "anchor_id": "population",
+          "line_number": 18,
+          "line_sha256": "0848a031dc79ad0551cfee8dbe8d773f8842003486b28f8c210e23fb9ee75adc",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "intervention",
+          "line_number": 19,
+          "line_sha256": "2477a57a053d696dc2b7a65c1fa1f00d5d5cfe0a388522483c6b1577714391e1",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "comparator",
+          "line_number": 20,
+          "line_sha256": "d8a5df7430f7c1e0c9c0839f18a2cb6899ab7c695203435e89e7e07d241e5988",
+          "domain_relevance": [
+            "INDIRECTNESS"
+          ]
+        },
+        {
+          "anchor_id": "design",
+          "line_number": 22,
+          "line_sha256": "5ba9827bd8349123111a64277e31aa3c778a7434b67decb04e2300d2f870265a",
+          "domain_relevance": [
+            "RISK_OF_BIAS"
+          ]
+        }
+      ],
+      "evidence_design": "REVIEW_REPORTED_RCT_EVIDENCE",
+      "comparison_kind": "DIRECT_TWO_GROUP",
+      "synthesis_kind": "PAIRWISE_META_ANALYSIS",
+      "outcome_kind": "BINARY",
+      "source_bindings": {
+        "selected_analysis": [
+          "effect"
+        ],
+        "population": [
+          "population"
+        ],
+        "intervention": [
+          "intervention"
+        ],
+        "comparator": [
+          "comparator"
+        ],
+        "outcome": [
+          "scope",
+          "effect"
+        ],
+        "timepoint": [
+          "effect"
+        ],
+        "evidence_design": [
+          "design"
+        ],
+        "comparison_kind": [
+          "intervention",
+          "comparator",
+          "design"
+        ],
+        "synthesis_kind": [
+          "effect"
+        ],
+        "outcome_kind": [
+          "effect"
+        ],
+        "effect": [
+          "effect"
+        ],
+        "effect_tuple_anchor_id": "effect",
+        "effect_tuple_ordinal": 0
+      }
+    }
+  ]
+}

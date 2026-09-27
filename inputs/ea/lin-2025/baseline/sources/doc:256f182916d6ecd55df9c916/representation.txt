@@ -1,0 +1,438 @@
+[DOCLING_PAGE 1]
+
+Downloaded from http://ahajournals.org by on September 5, 2026
+
+Stroke
+
+CLINICAL TRIAL
+
+Expanding the Treatable Imaging Profile in Patients With Large Ischemic Stroke: Subanalysis From a Randomized Clinical Trial
+
+Manabu Inoue , MD, PhD; Takeshi Yoshimoto , MD, PhD; Hiroshi Yamagami , MD, PhD; Kazunori Toyoda , MD, PhD; Nobuyuki Sakai , MD, PhD; Yuji Matsumaru , MD, PhD; Yasushi Matsumoto , MD, PhD; Kazumi Kimura , MD; Reiichi Ishikura , MD; Kazutaka Uchida , MD, PhD; Mikiya Beppu , MD, PhD; Fumihiro Sakakibara , MD, PhD; Takeshi Morimoto , MD, MPH; Shinichi Yoshimura , MD, PhD, for the RESCUE-Japan LIMIT Investigators
+
+BACKGROUND: We aimed to examine the boundary of the ischemic core volume in patients undergoing endovascular thrombectomy (EVT) versus those receiving medical management to determine the minimum optimal size for favorable treatment outcomes.
+
+METHODS: This is a prespecified substudy of the RESCUE-Japan LIMIT (Recovery by Endovascular Salvage for Cerebral UltraAcute Embolism-Japan Large Ischemic Core Trial). Patients with large vessel occlusion were enrolled between November 2018 and September 2021 with a National Institutes of Health Stroke Scale score of at least 6 on admission and an Alberta Stroke Program Early Computed Tomography Score value of 3 to 5. We investigated the correlation between optimal quantified ischemic core volume, assessed solely using magnetic resonance diffusion-weighted imaging, and functional outcomes (modified Rankin Scale score, 0-3) at 90 days by predictive marginal plots. Final infarct volume and safety outcomes (symptomatic intracerebral hemorrhage and mortality) were also assessed.
+
+RESULTS: Of the 203 cases, 168 patients (85 in the EVT group versus 83 in the medical management group) were included. The median (interquartile range) core volume was 94 (65-160) mL in patients with EVT and 115 (71-141) mL in the medical management group ( P =0.72). The predictive marginal probabilities of the 2 groups intersected at 128 mL for estimating functional outcomes. Symptomatic intracerebral hemorrhage and mortality within 90 days had overlay margins through all core volumes in both groups. The median final infarct volume (interquartile range) was smaller in the EVT group (142 [80-223] mL versus 211 [123-289] mL in the medical management group; P <0.001).
+
+CONCLUSIONS: In this prespecified analysis of a randomized clinical trial involving patients with large ischemic strokes, patients with an estimated core volume of up to 128 mL on diffusion-weighted imaging benefit from EVT.
+
+REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT03702413.
+
+GRAPHIC ABSTRACT: A graphic abstract is available for this article.
+
+Key Words: diffusion magnetic resonance imaging ◼ ischemic stroke ◼ magnetic resonance imaging ◼ thrombectomy
+
+E ndovascular thrombectomy (EVT) in patients with large acute ischemic stroke for large vessel occlusion has been established. 1-4 A malignant imaging profile is typically associated with a core volume of up to 70 mL 5 ; however, current practice frequently exceeds this threshold with EVT. Despite its widespread use for patient selection, the Alberta Stroke Program Early Computed Tomography Score (ASPECTS) lacks accuracy in assessing ischemic core volume yet remains the standard in numerous studies. 6-8 A SELECT study
+
+Correspondence to: Manabu Inoue, MD, PhD, Division of Stroke Care Unit/Department of Cerebrovascular Medicine, National Cerebral and Cardiovascular Center, 6-1 Kishibe-shimmachi, Suita, 564-8565, Japan. Email gakinoue@ncvc.go.jp
+
+Supplemental Material is available at https://www.ahajournals.org/doi/suppl/10.1161/STROKEAHA.124.046828.
+
+For Sources of Funding and Disclosures, see page 1737.
+
+© 2024 American Heart Association, Inc.
+
+Stroke is available at www.ahajournals.org/journal/str
+
+1730
+
+July 2024
+
+Stroke. 2024;55:1730-1738. DOI: 10.1161/STROKEAHA.124.046828
+
+[DOCLING_PAGE 2]
+
+Downloaded from http://ahajournals.org by on September 5, 2026
+
+Inoue et al
+
+Treatable Large Core for Endovascular Therapy
+
+Clinical Trial
+
+Nonstandard Abbreviations and Acronyms
+
+[DOCLING_TABLE rows=10 columns=2]
+| ASPECTS |  Alberta Stroke Program Early ­ Computed Tomography Score |
+| CTP | computed tomography perfusion |
+| DWI | diffusion-weighted imaging |
+| EVT | endovascular thrombectomy |
+| FLAIR | fluid-attenuated inversion recovery |
+| LASTE MM | Large Stroke Therapy Evaluation medical management |
+| MRA MRI | magnetic resonance angiography magnetic resonance imaging |
+| NIHSS |  National Institutes of Health Stroke |
+| RESCUE- Japan LIMIT | Scale Recovery by Endovascular Salvage  for Cerebral Ultra-Acute Embolism- |
+| SELECT | Japan Large Ischemic Core Trial  Secondary Analysis of the Optimizing Patient's Selection for Endovascular Treatment in Acute Stroke |
+[/DOCLING_TABLE]
+
+(Secondary Analysis of the Optimizing Patient's Selection for Endovascular Treatment in Acute Stroke) 9 revealed that EVT yielded superior functional outcomes compared with medical intervention when the ischemic core volume measured ≥ 50 mL on computed tomography perfusion (CTP). In this study, patients with core volumes within the range of 50 to 100 mL had reasonable rates of achieving functional independence post-EVT, whereas those with volumes over 100 mL generally did not achieve independence. Thus, a malignant imaging profile was defined as a volume that led to a modified Rankin Scale (mRS) score of 5 to 6 at 90 days after reperfusion therapy, which was currently thought to be the upper treatable limit. More recently, the ANGEL-ASPECT study (Endovascular Therapy in Acute Anterior Circulation Large Vessel Occlusive Patients with a Large Infarct Core) reported that the odds ratio for a favorable mRS shift was 1.40 (1.06-1.85); P =0.01 in patients with ASPECTS of 3 to 5 and core volumes of <70 mL, but only 1.22 (0.81-1.83); P =0.23 in patients with ASPECTS of 3 to 5 and core volumes of ≥ 70 mL. These findings underline the potential benefit of considering the ischemic core volume when selecting candidates for EVT. Another pooled analysis using diffusion-weighted magnetic resonance imaging (DWI-MRI) demonstrated that ischemic core volumes between 70 and 100 mL may benefit from EVT. 10
+
+In the RESCUE-Japan LIMIT (Recovery by Endovascular Salvage for Cerebral Ultra-Acute Embolism-Japan Large Ischemic Core Trial), DWI core volumes were also collected in available cases since most of the cases were MRI-based in this trial. This substudy aimed to evaluate the effective boundary of core volume that benefits from EVT.
+
+METHODS
+
+Participants and Study Design
+
+This is a prespecified subanalysis of the RESCUE-Japan LIMIT, which was conducted in 45 Japanese hospitals from November 2018 to December 2021. The study enrolled patients with large vessel occlusion who were treated with EVT and medical management (MM; EVT group), as compared with MM alone (MM group), both having a National Institutes of Health Stroke Scale (NIHSS) score of >6 at the onset. All patients received either noncontrast computed tomography (CT) and CT angiography or DWI-MRI and magnetic resonance angiography (MRA) for evaluating the ASPECTS scoring valued in the range of 3 to 5 as the imaging inclusion criteria. T o analyze the quantitative core volume, RAPID software (iSchemaView, Menlo Park, CA) was used for automated determination. DWI cases with calculable core volumes were included in this analysis from both groups. We had 17 4 DWI cases, of which 6 were not automatically assessable because their b0 did not align with b1000. The data that support the findings of this study are available from the corresponding author upon reasonable request. This study followed the CONSORT (Consolidated Standards of Reporting Trials) reporting guidelines. The study is registered with ClinicalTrials.gov (NCT03702413).
+
+Study Treatments and Interventions
+
+The main study enrolled patients of any sex, including (1) acute ischemic stroke; (2) age ≥ 18 years; (3) NIHSS score ≥ 6 on admission; (4) premorbid mRS score of 0 to 1; (5) vessel occlusion at the internal carotid artery or proximal middle cerebral artery segment by CT angiography or MRA; (6) randomization completed within 6 hours from the time when the patient was last known well or up to 24 hours with no ischemic change on fluid-attenuated inversion recovery (FLAIR) imaging known as the DWI-FLAIR mismatch 11 ; (7) EVT initiated within 60 minutes of randomization; and (8) patient or a legally authorized representative signed the informed consent form. Patients were excluded if they had (1) a significant brain mass effect with midline shift in CT or MRI scans; (2) acute intracranial hemorrhage (ICH) in CT or MRI; (3) a high risk of having hemorrhage; or (4) other conditions for which enrollment would not be adequate.
+
+All endovascular procedures were performed by the Japanese Society for Neuroendovascular Therapy-certified neurointerventionalists, basically according to the American Heart Association/ American Stroke Association Guideline 12 and the Japanese Guidelines for Neuroendovascular Mechanical Thrombectomy. 13 All devices used for EVT were approved by Pharmaceuticals and Medical Devices in this study. Recanalization status was classified by the modified Thrombolysis in Cerebral Infarction scale, with successful/complete recanalization defined as modified Thrombolysis in Cerebral Infarction scale score of 2b/3. MM included intravenous thrombolysis with the standard Japanese intravenous thrombolysis protocol. 14 The protocol and consent forms were approved by the institutional review boards of Hyogo College of Medicine (No. 3015) and each participating center. All patients or their legally authorized representatives provided written informed consent before randomization.
+
+Imaging Analysis
+
+MRI scans were conducted using conventional 1.5T or 3.0T systems. The MRI protocol comprised baseline DWI and MRA, followed by FLAIR and gradient-echo T2* scans at 48 hours, and FLAIR and MRA on day 7. MRA was performed using the 3-dimensional time-of-flight method to encompass the territory of the Willis artery ring centrally. All DWI images underwent retrospective postprocessing using an automated system (RAPID). The ischemic core lesion was automatically quantified on b0/b1000 MR images, with an apparent diffusion coefficient threshold set at <620×10 -6 mm 2 /s. Final infarct volume was assessed using FLAIR images on day 7, by which time they were attainable. Manual measurements were conducted using MIPAV software (https://mipav.cit.nih.gov/), with absolute infarct growth (mL) also calculated.
+
+Stroke. 2024;55:1730-1738. DOI: 10.1161/STROKEAHA.124.046828
+
+July 2024 1731
+
+[DOCLING_PAGE 3]
+
+Clinical Trial
+
+Downloaded from http://ahajournals.org by on September 5, 2026
+
+Inoue et al
+
+Treatable Large Core for Endovascular Therapy
+
+Outcomes
+
+The primary outcome was to evaluate the quantitatively measured core volume, which identified functional clinical outcomes (mRS score, 0-3 at 90 days) by the predictive marginal probabilities among both the EVT and MM groups. The intersected values of 95% CI in the marginal plot were estimated as the limit of the boundary volume. Clinical characteristics and radiological values were compared between the groups, considering favorable outcomes (mRS score, 0-2 at 90 days), functional outcomes (mRS score, 0-3 at 90 days), the occurrence of symptomatic intracranial hemorrhages, and mortality within 90 days as safety outcomes. Symptomatic intracranial hemorrhage was defined according to the European Cooperative Acute Stroke Study II criteria (any intracranial hemorrhage with a ≥ 4-point increase in the NIHSS score from baseline). 15
+
+Optimal Thresholds for Outcomes
+
+In addition to estimating the maximum volume for benefit based on the predictive marginal probabilities, we also assessed 3 prespecified thresholds that have been evaluated in prior studies: 70, 100, and 150 mL. 2 Because of the exploratory nature of the subanalysis, we aimed to adjust odd ratios by age and sex (a known covariate) if there were significant differences in the demographics. NIHSS was not considered a covariate as it is known to correlate with core volumes. The subgroup analyses assessed the odds of whether the EVT group would have better functional recovery at 90 days in mRS score of 0 to 3 than patients assigned to the MM group.
+
+Dichotomized Thresholds for Outcomes
+
+Patient characteristics and odds ratio for mRS score of 0 to 3 at 90 days were assessed between groups dichotomized by the achieved boundary volume from the predictive marginal probabilities. The correlation test was also performed between core volumes and ASPECTS.
+
+Comparison of the Final Infarct Volume
+
+We also assessed the differences between 2 groups that underwent 7-day follow-up imaging with FLAIR to estimate the final infarct volume and the absolute volume growth.
+
+Statistical Analyses
+
+For describing the study population and comparing 2 groups, we reported percentages for categorical, means and SDs for parametric, and medians and interquartile ranges for nonparametric variables. The χ 2 , Student t test, and Mann-Whitney U test were used for comparison. The rationale for using predictive marginal probabilities for estimation in our data set stems from the limited population size of patients with large cores, combined with the fact that multivariable logistic regression methods often yield imprecise estimates for small target populations. Marginal probabilities are preferred for inference with categorical confounders and common outcomes. 16 The Breslow-Day test of homogeneity was used to compare the odd ratios. All reported P values were 2-tailed, and P <0.05 were considered statistically significant. All analyses were performed using statistical analysis performed with SPSS (IBM SPSS v27; Chicago, IL) and Stata (Stata Corp LP, v15.1, TX). All authors have full access to all the data in the study and take responsibility for its integrity and the data analysis.
+
+RESULTS
+
+Patient Characteristics
+
+Of the 203 cases enrolled, 1 patient withdrew consent, and 202 were included in the original study. Among these patients, 174 (86%) were evaluated for ASPECTS on DWI (DWI-ASPECTS) and 28 on noncontrast CT. Of these, 6 DWI cases were not enrolled because adequate images were missing for automated calculation (no b=0 images). In total, 168 patients (85 in the EVT group versus 83 in the MM group) had a measurable DWI core volume using the RAPID software (Figure 1). The demographic and clinical characteristics of the patients at baseline are shown in Table 1.
+
+Figure 1. Study flow chart. DWI indicates diffusion-weighted imaging; EVT, endovascular therapy; MM, medical management; and NCCT, noncontrast computed tomography.
+
+1732 July 2024
+
+Stroke. 2024;55:1730-1738. DOI: 10.1161/STROKEAHA.124.046828
+
+[DOCLING_PAGE 4]
+
+Downloaded from http://ahajournals.org by on September 5, 2026
+
+Inoue et al
+
+Treatable Large Core for Endovascular Therapy
+
+Clinical Trial
+
+Primary Outcome
+
+Predictive marginal probabilities indicated 128 mL as the intersection of the 95% CI of the 2 groups for achieving a favorable outcome, meaning that volumes up to this value are likely to benefit. Additionally, 250 mL represents the intersection of the upper 95% CI for both groups, which
+
+[DOCLING_TABLE rows=39 columns=5]
+|  | Total (168 cases) | EVT (85 cases) | Medical management (83 cases) | P value |
+| Demographics |  |  |  |  |
+|  Female, n (%) | 77 (46) | 40 (47) | 37 (45) | 0.76 |
+|  Age, y, ±SD | 77±10 | 77±10 | 76±10 | 0.38 |
+|  Prestroke mRS score, median (IQR) | 0 (0-1) | 0 (0-1) | 0 (0-1) | 0.92 |
+|  Hypertension, n (%) | 120 (71) | 62 (73) | 58 (70) | 0.73 |
+|  Diabetes, n (%) | 36 (21) | 20 (24) | 16 (19) | 0.57 |
+|  Dyslipidemia, n (%) | 42 (25) | 23 (27) | 19 (23) | 0.59 |
+|  Ischemic heart disease, n (%) | 19 (11) | 13 (15) | 6 (7) | 0.14 |
+|  Previous stroke, n (%) | 41 (24) | 21 (25) | 20 (24) | 0.72 |
+|  Current smoker, n (%) | 31 (18) | 14 (16) | 17 (20) | 0.55 |
+|  Atrial fibrillation, n (%) | 106 (63) | 53 (62) | 53 (64) | 0.87 |
+|  Median baseline NIHSS score, (IQR) | 22 (18-26) | 22 (18-26) | 22 (17-26) | 0.60 |
+| Pathogenic subtype of ischemic stroke |  |  |  |  |
+|  Cardioembolic, n (%) | 139 (83) | 73 (86) | 66 (80) | 0.78 |
+|  Atherothrombosis, n (%) | 9 (5) | 3 (4) | 6 (7) | 0.52 |
+|  Others, n (%) | 20 (12) | 9 (11) | 11 (13) | 0.77 |
+|  Use of anticoagulant therapy, n (%) | 36 (21) | 16 (19) | 20 (24) | 0.41 |
+|  Use of antiplatelet therapy, n (%) | 24 (14) | 13 (15) | 11 (13) | 0.83 |
+| Vessel occlusion |  |  |  |  |
+|  ICA, n (%) | 80 (48) | 40 (47) | 40 (48) | 1.00 |
+|  M1, n (%) | 118 (70) | 60 (71) | 58 (70) | 1.00 |
+|  Tandem lesions, n (%) | 31 (19) | 15 (18) | 16 (19) | 0.84 |
+| Time logistics |  |  |  |  |
+|  Median time from onset to imaging, min (IQR) | 181 (101-391) | 209 (105-469) | 178 (105-420) | 0.67 |
+|  Median time from onset to recanalization, min (IQR) |  | 307 (207-503) |  |  |
+| Radiological characteristic |  |  |  |  |
+|  Median core volume, mL (IQR) | 105 (66-146) | 94 (65-160) | 115 (71-141) | 0.72 |
+|  Median ASPECTS, (IQR) | 3 (3-4) | 3 (3-4) | 3 (3-4) | 0.48 |
+| Treatment |  |  |  |  |
+|  Intravenous thrombolysis, n (%) | 48 (29) | 25 (29) | 23 (28) | 0.87 |
+| Clinical outcomes |  |  |  |  |
+|  Functional outcome (mRS, 0-3), n (%) | 40 (24) | 30 (35) | 10 (12) | <0.01 |
+|  Favorable outcome (mRS, 0-2), n (%) | 19 (11) | 14 (16) | 5 (6) | 0.49 |
+|  Symptomatic ICH, n (%) | 14 (8) | 9 (11) | 5 (6) | 0.40 |
+|  Death, n (%) | 36 (21) | 16 (19) | 20 (24) | 0.45 |
+|  | 137 cases† | 72 cases | 65 cases |  |
+| Final infarct volume within 14 d, median mL (IQR) | 162 (96-258) | 142 (80-223) | 211 (123-289) | <0.001 |
+| Absolute infarct growth from initial core volume, median mL (IQR) | 84 (8-130) | 40 (4-109) | 104 (49-148) | <0.001 |
+[/DOCLING_TABLE]
+
+ASPECTS indicates Alberta Stroke Program Early Computed Tomography Score; EVT, endovascular thrombectomy; ICA, internal carotid artery; ICH, intracranial hemorrhage; IQR, interquartile range; M1, proximal middle cerebral artery; mRS, modified Rankin Scale; and NIHSS, National Institutes of Health Stroke Scale.
+
+*Values are mean (±SD) or median (IQR). Frequencies are numbers (%). †Out of 168 cases, 137 cases only remained to have the final images.
+
+Stroke. 2024;55:1730-1738. DOI: 10.1161/STROKEAHA.124.046828
+
+July 2024 1733
+
+[DOCLING_PAGE 5]
+
+Clinical Trial
+
+Downloaded from http://ahajournals.org by on September 5, 2026
+
+Inoue et al
+
+Treatable Large Core for Endovascular Therapy
+
+may indicate the point at which the estimates converge, suggesting no chance of benefit from EVT in the group (Figure 2). We also analyzed the 90-day outcomes for mRS score of 0 to 2 and found that the data revealed intersections across all core ranges, indicating no significant differences between the 2 therapies (Figure S1). Because we have fewer patients over 128 mL (61 cases, 36%) and 250 mL (5 cases, 3%), the 95% CI was wide, exceeding 1.0. When we dichotomized the population using the 128 mL threshold, a significant difference was observed in clinical outcomes, including mRS score of 0 to 2 as a favorable outcome and 0 to 3 as a functional outcome (Table 2).
+
+Clinical and Safety Outcomes
+
+A significant difference was seen in the EVT group for achieving mRS score of 0 to 3 at 90 days (EVT 35% versus MM 12%; P <0.01) but not in mRS score of 0 to 2 (EVT 16% versus MM 6%; P =0.49). Symptomatic intracranial hemorrhage (EVT 11% versus MM 6%; P =0.40) and death at 90 days (EVT 19% versus MM 24%; P =0.45) had no significant differences (Table 1).
+
+Efficacy of EVT According to Prespecified Core Thresholds
+
+under this volume had an odds ratio of 5.44 (95% CI, 2.08-14.23) versus 2.08 (95% CI, 0.47-9.19) for the group; however, there were no significant differences ( P =0.253; Breslow-Day test of homogeneity for odds ratios; Figure 4). No adjustments were made since no significant difference between the dichotomized groups (by 128 mL) in the baseline characteristics was seen (Table 2).
+
+Final Infarct Volume in Available Patients
+
+Of the 168 cases, 137 had a 7-day follow-up imaging. The 31 cases that could not have a 7-day followup imaging were compared and summarized (Table S1), with the most common reason being death before day 7. A final infarct volume was available for 72 patients with EVT and 65 patients with MM. Significant differences were observed in the median (interquartile range) volume (142 [80-223] mL in the EVT group versus 211 [123-289] mL in the MM group; P <0.001). Absolute median (interquartile range) infarct growth also differed between the groups (40 [4-109] mL in the EVT group versus 104 [49-148] mL in the MM group; P <0.001; Figure S2).
+
+DISCUSSION
+
+The results among the subgroups with prespecified core thresholds (70, 100, and 150 mL) are shown in Figure 3. The results of the Wilcoxon-Mann-Whitney U test generalized odds ratio for the whole population dichotomized with prespecified core thresholds indicated that the odds of achieving mRS score of 0 to 3 at 90 days were higher for patients with EVT than for patients with MM. When we dichotomized with the volume achieved from the predictive marginal probability (which was 128 mL), patients This analysis emphasizes the impact of ischemic core volumes on both prognosis and the effectiveness of EVT treatment. Patients with ischemic core volumes up to 128 mL showed statistically better outcomes (mRS score, 0-3) with EVT. While previous studies have suggested a treatable range of 70 to 100 mL, our findings indicate that patients with core volumes up to 128 mL, or possibly higher, may still derive significant benefits from EVT, particularly when DWI is used for selection.
+
+Figure 2. Predictive marginal probabilities.
+
+Predictive margins of EVT with a 95% CI indicated 128 mL as an intersection of the 2 groups (EVT and MM) for achieving the functional outcome (mRS, 0-3 at 90 days). CIs should be interpreted cautiously because of the small number of populations toward larger core volumes that may exceed 1.0. EVT indicates endovascular therapy; MM, medical management; and mRS, modified Rankin Scale.
+
+1734 July 2024
+
+Stroke. 2024;55:1730-1738. DOI: 10.1161/STROKEAHA.124.046828
+
+[DOCLING_PAGE 6]
+
+Downloaded from http://ahajournals.org by on September 5, 2026
+
+Inoue et al
+
+Treatable Large Core for Endovascular Therapy
+
+Clinical Trial
+
+[DOCLING_TABLE rows=26 columns=5]
+|  | Total (168 cases) | <128 mL (108 cases) | ≥ 128 mL (60 cases) | P value |
+| Demographics |  |  |  |  |
+|  Female, n (%) | 77 (46) | 40 (37) | 31 (52) | 0.34 |
+|  Age, y, ±SD | 77±10 | 77±10 | 76±9 | 0.35 |
+|  Prestroke mRS score, median (IQR) | 0 (0-1) | 0 (0-1) | 0 (0-1) | 0.92 |
+|  Hypertension, n (%) | 120 (71) | 80 (74) | 40 (67) | 0.38 |
+|  Diabetes, n (%) | 36 (21) | 22 (20) | 14 (23) | 0.70 |
+|  Dyslipidemia, n (%) | 42 (25) | 30 (28) | 12 (20) | 0.31 |
+|  Ischemic heart disease, n (%) | 19 (11) | 12 (11) | 7 (12) | 0.96 |
+|  Previous stroke, n (%) | 41 (24) | 28 (26) | 13 (22) | 0.45 |
+|  Current smoker, n (%) | 31 (18) | 16 (15) | 15 (25) | 0.25 |
+|  Atrial fibrillation, n (%) | 106 (63) | 73 (68) | 33 (55) | 0.10 |
+|  Median baseline NIHSS score, (IQR) | 22 (18-26) | 22 (18-26) | 24 (18-28) | 0.60 |
+| Vessel occlusion |  |  |  |  |
+|  ICA, n (%) | 80 (48) | 47 (44) | 33 (55) | 0.15 |
+|  M1, n (%) | 118 (70) | 82 (76) | 36 (60) | 0.07 |
+| Time logistics |  |  |  |  |
+|  Median time from onset to imaging, minutes (IQR) | 181 (101-391) | 165 (105-405) | 205 (105-625) | 0.37 |
+|  Median ASPECTS, (IQR) | 3 (3-4) | 3 (3-4) | 3 (3-4) | 0.48 |
+| Treatment |  |  |  |  |
+|  Intravenous thrombolysis, n (%) | 48 (29) | 38 (35) | 10 (17) | 0.01 |
+| Clinical outcomes |  |  |  |  |
+|  mRS 0-2 at 90 d, n (%) | 19 (11) | 18 (17) | 1 (2) | <0.01 |
+|  mRS 0-3 at 90 d, n (%) | 40 (24) | 31 (29) | 9 (15) | 0.02 |
+|  Symptomatic ICH, n (%) | 14 (8) | 4 (4) | 10 (17) | <0.01 |
+|  Death, n (%) | 37 (22) | 17 (16) | 20 (33) | <0.01 |
+[/DOCLING_TABLE]
+
+ASPECTS indicates Alberta Stroke Program Early Computed Tomography Score; ICA, internal carotid artery; ICH, intracranial hemorrhage; IQR, interquartile range; M1, proximal middle cerebral artery; mRS, modified Rankin Scale; and NIHSS, National Institutes of Health Stroke Scale. *Values are mean (±SD) or median (IQR). Frequencies are numbers (%).
+
+The original SELECT2 publication suggested no relationship between core volume and treatment response; however, the core volumes reported represented a combination of hypodensity volumes and CTP core volumes, which differed from the statistical analysis plan (see published correction in NEJM). When the SELECT2 were published based on the actual CTP core volumes, patients with core volumes of 100 mL or larger had a numerically lower odds ratio than those with volumes <100 mL. 2 The number of patients achieving functional independence with ischemic core volumes exceeding 100 or 150 mL was small, with no clearly defined upper threshold. 17
+
+Core Thresholds
+
+The inclusion and exclusion criteria of a trial will determine the enrolled population. Many prior studies have restricted the maximal core volume that can be enrolled and therefore limited the assessment of treatment benefit for large core volumes. For example, several retrospective studies have the suggested benefit of EVT in patients with larger core volumes than 70 mL. 18-21 Our study did not have an upper core volume limit; however, patients with DWI ASPECT score of <3 were excluded, which prevented many patients with large core volumes from enrolling. We had a limited number of cases with core volumes above 130 mL and therefore had limited power to determine treatment efficacy or safety for patients with core volumes above 130 mL. Our results indicate that EVT is probably beneficial up to a volume of 128 mL and potentially even higher (refer to Figure 4). In our study, core volume quantification was solely conducted using DWI, while widely used CTP imaging assesses blood flow in injured tissues, and MRI detects restricted diffusion of water molecules due to cytotoxic edema. Consequently, DWI may offer greater accuracy in representing ischemic injury compared with CBF-based CTP assessment, which may underestimate or overestimate the core under certain conditions, particularly in early time windows, among rapid progressors or patients who have early reperfusion. 22,23
+
+Stroke. 2024;55:1730-1738. DOI: 10.1161/STROKEAHA.124.046828
+
+July 2024 1735
+
+[DOCLING_PAGE 7]
+
+Clinical Trial
+
+Downloaded from http://ahajournals.org by on September 5, 2026
+
+Inoue et al
+
+Treatable Large Core for Endovascular Therapy
+
+[DOCLING_TABLE rows=0 columns=0]
+[/DOCLING_TABLE]
+
+Odds ratio for the whole population of patients dichotomized with prespecified volumes such as 70, 100, and 150 mL are shown. Patients with EVT had better outcomes, achieving mRS score of 0 to 3 at 90 days, than patients with MM in all thresholds. The sizes of the boxes in the plot correspond to the number of patients in each subgroup. EVT indicates endovascular therapy; MM, medical management; and mRS, modified Rankin Scale.
+
+Core Volumes and ASPECTS Ratings
+
+We have previously reported that among ASPECTS 3 to 5, EVT was not shown to improve the functional outcome at 90 days in patients with ASPECTS 3 compared with ASPECTS 4 and 5. 24 When comparing these 2 groups with core volumes (ASPECTS 3 versus 4-5), there was a significant difference (109 mL versus 87 mL; P <0.001), and overall, only moderate correlations were observed between ASPECTS and core volume ( ρ =0.467; P <0.001). Looking at ASPECTS, some studies report discrepancies between ASPECTS and core volumes, 8 and a recently reported LASTE trial (Large Stroke Therapy Evaluation) 25 showed the benefit of EVT in ASPECTS 0 to 5. This study has encouraged treating the extra-low ASPECTS population with EVT, but still, DWI-ASPECTS should be more accurate than ASPECTS ratings to evaluate brain tissue damage by interrater reliability. 26
+
+Final Infarct Volume and Infarct Growth Rate Between Treatments
+
+The final infarct volume and absolute infarct growth were significantly smaller in the EVT group (Table 1). This indicates that successful recanalization in EVT can result
+
+Figure 4. Analyses according to prespecified subgroups (dichotomized by 128 mL).
+
+Dichotomized threshold was achieved from the predictive marginal probabilities of 128 mL. Patients with EVT with less than core volumes of 128 mL had a better odds ratio for mRS score of 0 to 3 at 90 days than patients with MM (Wilcoxon-Mann-Whitney U test probability of superiority, 5.44 [95% CI, 2.08-14.23]). Although the effect was less significant, patients with EVT with more than core volumes of 128 mL were still favored than patients with MM (odds ratio 2.08 [95% CI, 0·47-9.19]). EVT indicates endovascular therapy; MM, medical management; and mRS, modified Rankin Scale.
+
+1736 July 2024
+
+Stroke. 2024;55:1730-1738. DOI: 10.1161/STROKEAHA.124.046828
+
+[DOCLING_PAGE 8]
+
+Downloaded from http://ahajournals.org by on September 5, 2026
+
+Inoue et al
+
+Treatable Large Core for Endovascular Therapy
+
+Clinical Trial
+
+in minimizing the final core volume and infarct growth. Both final infarct volume and infarct growth are important measurements in assessing the effectiveness of reperfusion therapies. In this regard, we suggest that EVT should be performed in patients with ischemic cores of up to 130 mL to maximize treatment response and minimize the final infarct volume.
+
+Limitations
+
+This study has several limitations. Firstly, the generalization of results is to the East Asian race only. Secondly, the utilization of MRI is relatively rare worldwide. Thirdly, as core volumes increase, the models become less precise and are underpowered, leading to uncertainty in outcomes beyond 128 mL due to limited data availability above this threshold. Predicted marginal probabilities from models may lack independent validation and calibration, as evidenced by our 95% CI exceeding 1.0. Fourthly, although our focus was on the primary outcome of mRS score of 0 to 3, we acknowledge the potential benefit of conducting an mRS shift analysis. However, attempts to perform ordinal regression mRS shift analysis with thresholds of 100 and 150 mL were hindered by insufficient sample sizes for reliable calculation. Fifthly, while this study succeeded in pushing the safely treatable core volume to some extent, it is important to note that patients with large ischemic regions represent high-risk cases, indicating that this is just the beginning of the challenge. An additional limitation is that we did not assess the eloquence of the affected brain areas. Another limitation is the relatively low utilization of intravenous recombinant tissue-type plasminogen activator among the patients enrolled with large ischemic strokes, which may have led to less favorable outcomes in both treatment groups, especially in the medical group. It is imperative to conduct a meta-analysis involving similar large core trials to assess differences in outcomes and modalities such as CT, CTP, and MRI to address these limitations comprehensively.
+
+Conclusions
+
+In this examination of a randomized clinical trial involving patients afflicted with significant ischemic strokes, patients with estimated core volumes up to 128 mL, and potentially larger, may benefit from EVT. As disparities among modalities continue to emerge, there is a growing necessity for a meta-analysis to comprehensively evaluate the advantages of volume assessment.
+
+ARTICLE INFORMATION
+
+Received February 14, 2024; final revision received April 18, 2024; accepted April 24, 2024.
+
+The podcast and transcript are available at https://www.ahajournals.org/str/ podcast.
+
+Presented in part at the International Stroke Conference, Dallas, TX, February 8-10, 2023.
+
+Affiliations
+
+Division of Stroke Care Unit (M.I.), Department of Cerebrovascular Medicine (M.I., K.T.), and Department of Neurology (T.Y.), National Cerebral and Cardiovascular Center, Suita, Japan. Division of Stroke Prevention and Treatment, Institute of Medicine (H.Y.) and Department of Neurosurgery, Faculty of Medicine (Y. Matsumaru), University of Tsukuba, Japan. Neurovascular Research and Neuroendovascular Therapy (N.S.) and Department of Diagnostic Radiology (R.I.), Kobe City Medical Center General Hospital, Kobe, Japan. Division of Development and Discovery of Interventional Therapy, Tohoku University Hospital, Japan (Y. Matsumoto). Department of Neurology, Graduate School of Medicine, Nippon Medical School, Tokyo, Japan (K.K.). Department of Neurosurgery (K.U., M.B., F.S., S.Y.) and Department of Clinical Epidemiology (K.U., F.S., T.M.), Hyogo Medical University, Nishinomiya, Japan.
+
+Acknowledgments
+
+The authors would like to express their deepest appreciation to Drs Gregory W. Albers and Michael Mlynash from Stanford University for their support in revising the manuscript and providing statistical advice.
+
+Sources of Funding
+
+This study was supported in part by the Mihara Cerebrovascular Disorder Research Promotion fund of the Japanese Society for Neuroendovascular Therapy. The funding sources did not participate in any part of the study, from conception to article preparation.
+
+Disclosures
+
+Dr Inoue reports the lecturer's fees from Bayer, Bristol-Myers Squibb, and Nippon Boehringer Ingelheim. Dr Yoshimoto reports lecture fees from Takeda Pharmaceutical and Nippon Boehringer Ingelheim. Dr Toyoda reports lecture fees from Bayer, Daiichi Sankyo, Takeda, and Bristol-Myers Squibb. Dr Yamagami discloses research grants from Bristol-Myers Squibb; lecturer's fees from Stryker, Medtronic, T erumo, Johnson & Johnson, Biomedical Solutions, and Medico's Hirata; and membership of the advisory boards for Daiichi Sankyo. Dr Sakai reports research grants from Biomedical Solutions, Daiichi Sankyo, and Terumo; lecturer's fees from Asahi-Intec, Biomedical Solutions, Daiichi Sankyo, and Medtronic; and membership on the advisory boards for Johnson & Johnson, Medtronic, and Terumo. Dr Matsumaru reports lecturer fees from Medtronic, Stryker, Terumo, Johnson & Johnson, Kaneka, and Jimro. Dr Matsumoto reports the lecturer's fees from Kaneka, Medico's Hirata, Fuji systems, GE Healthcare, Otsuka, Takeda, Century Medical, Terumo, Medtronic, and Stryker. Dr Kimura reports research grants from CSL Behring, Eisai, Kyowa Kirin, Daiichi Sankyo, Teijin, Medtronic, Bristol-Myers Squibb, Bayer, Boehringer Ingelheim, Helios; and lecturer's fees from Daiichi Sankyo, Boehringer Ingelheim, Bristol-Myers Squibb, Bayer, Takeda, Medtronic, Otsuka, FP, Alexion, Sanofi, CSL Behring, Novartis, Toa Eiyo, Medico's Hirata, and Helios. Dr Uchida reports lecturer's fees from Daiichi Sankyo, Bristol-Myers Squibb, Stryker, and Medtronic. Dr Beppu reports manuscript fees from Medicus Shuppan. Dr Sakakibara reports manuscript fees from Medicus Shuppan. Dr Morimoto reports lecturer's fees from AstraZeneca, Bristol-Myers Squibb, Daiichi Sankyo, Japan Lifeline, Kowa, Pfizer, and Tsumura; manuscript fees from BristolMyers Squibb and Pfizer; advisory board for Novartis and Teijin. Dr Yoshimura reports research grants from Medico's Hirata, Medtronic, and Terumo; and lecturer fees from Medtronic, Kaneka, Stryker, Daiichi Sankyo, Bristol-Meyers Squibb, and Johnson & Johnson. The other author reports no conflicts.
+
+Supplemental Material
+
+Figures S1-S2 Table S1
+
+REFERENCES
+
+Yoshimura S, Sakai N, Yamagami H, Uchida K, Beppu M, Toyoda K, Matsumaru Y, Matsumoto Y, Kimura K, Takeuchi M, et al. Endovascular therapy for acute stroke with a large ischemic region. N Engl J Med . 2022;386:1303-1313. doi: 10.1056/NEJMoa2118191
+
+Sarraj A, Hassan AE, Abraham MG, Ortega-Gutierrez S, Kasner SE, Hussain MS, Chen M, Blackburn S, Sitton CW, Churilov L, et al; SELECT2 Investigators. Trial of endovascular thrombectomy for large ischemic strokes. N Engl J Med . 2023;388:1259-1271. doi: 10.1056/NEJMoa2214403
+
+Huo X, Ma G, Tong X, Zhang X, Pan Y, Nguyen TN, Yuan G, Han H, Chen W, Wei M, et al; ANGEL-ASPECT Investigators. Trial of endovascular therapy for acute ischemic stroke with large infarct. N Engl J Med . 2023;388:12721283. doi: 10.1056/NEJMoa2213379
+
+Stroke. 2024;55:1730-1738. DOI: 10.1161/STROKEAHA.124.046828
+
+July 2024 1737
+
+[DOCLING_PAGE 9]
+
+Clinical Trial
+
+Downloaded from http://ahajournals.org by on September 5, 2026
+
+Inoue et al
+
+Treatable Large Core for Endovascular Therapy
+
+Bendszus M, Fiehler J, Subtil F, Bonekamp S, Aamodt AH, Fuentes B, Gizewski ER, Hill MD, Krajina A, Pierot L, et al; TENSION Investigators. Endovascular thrombectomy for acute ischaemic stroke with established large infarct: multicentre, open-label, randomised trial. Lancet . 2023;402:17531763. doi: 10.1016/S0140-6736(23)02032-9
+
+Mlynash M, Lansberg MG, De Silva DA, Lee J, Christensen S, Straka M, Campbell BC, Bammer R, Olivot JM, Desmond P, et al; DEFUSE-EPITHET Investigators. Refining the definition of the malignant profile: insights from the DEFUSE-EPITHET pooled data set. Stroke . 2011;42:1270-1275. doi: 10.1161/STROKEAHA.110.601609
+
+Patel SC, Levine SR, Tilley BC, Grotta JC, Lu M, Frankel M, Haley EC Jr, Brott TG, Broderick JP, Horowitz S, et al; National Institute of Neurological Disorders and Stroke rt-PA Stroke Study Group. Lack of clinical significance of early ischemic changes on computed tomography in acute stroke. JAMA . 2001;286:2830-2838. doi: 10.1001/jama.286.22.2830
+
+Menon BK, Puetz V, Kochar P, Demchuk AM. ASPECTS and other neuroimaging scores in the triage and prediction of outcome in acute stroke patients. Neuroimaging Clin N Am . 2011;21:407-423, xii. doi: 10.1016/j.nic.2011.01.007
+
+Bivard A, Parsons M. ASPECTaSaurus (a dinosaur)? Int J Stroke . 2012;7:564. doi: 10.1111/j.1747-4949.2012.00854.x
+
+Sarraj A, Hassan AE, Savitz S, Sitton C, Grotta J, Chen P, Cai C, Cutter G, Imam B, Reddy S, et al. Outcomes of endovascular thrombectomy vs medical management alone in patients with large ischemic cores. JAMA Neurol . 2019;76:1147-1156. doi: 10.1001/jamaneurol.2019.2109
+
+Yoshimoto T, Inoue M, Yamagami H, Fujita K, Tanaka K, Ando D, Sonoda K, Kamogawa N, Koga M, Ihara M, et al. Use of diffusion-weighted imagingalberta stroke program early computed tomography score (DWI-ASPECTS) and ischemic core volume to determine the malignant profile in acute stroke. J Am Heart Assoc . 2019;8:e012558. doi: 10.1161/JAHA.119.012558
+
+Thomalla G, Rossbach P, Rosenkranz M, Siemonsen S, Krützelmann A, Fiehler J, Gerloff C. Negative fluid-attenuated inversion recovery imaging identifies acute ischemic stroke at 3 hours or less. Ann Neurol . 2009;65:724732. doi: 10.1002/ana.21651
+
+Powers WJ, Rabinstein AA, Ackerson T, Adeoye OM, Bambakidis NC, Becker K, Biller J, Brown M, Demaerschalk BM, Hoh B, et al. Guidelines for the early management of patients with acute ischemic stroke: 2019 update to the 2018 guidelines for the early management of acute ischemic stroke: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke . 2019;50:e344-e418. doi: 10.1161/STR.0000000000000211
+
+Yamagami H, Hayakawa M, Inoue M, Iihara K, Ogasawara K, Toyoda K, Hasegawa Y, Ohata K, Shiokawa Y, Nozaki K, et al; JSS/JNS/JSNET Joint Guideline Authoring Committee. Guidelines for Mechanical Thrombectomy in Japan, the Fourth Edition, March 2020: a guideline from the Japan Stroke Society, the Japan Neurosurgical Society, and the Japanese Society for Neuroendovascular Therapy. Neurol Med Chir (Tokyo) . 2021;61:163-192. doi: 10.2176/nmc.nmc.st.2020-0357
+
+Toyoda K, Koga M, Iguchi Y, Itabashi R, Inoue M, Okada Y, Ogasawara K, Tsujino A, Hasegawa Y, Hatano T, et al. Guidelines for Intravenous Thrombolysis (Recombinant Tissue-type Plasminogen Activator), the Third Edition, March 2019: a guideline from the Japan Stroke Society. Neurol Med Chir (Tokyo) . 2019;59:449-491. doi: 10.2176/nmc.st.2019-0177
+
+Hacke W, Kaste M, Fieschi C, von Kummer R, Davalos A, Meier D, Larrue V, Bluhmki E, Davis S, Donnan G, et al. Randomised double-blind placebo-controlled trial of thrombolytic therapy with intravenous alteplase in acute ischaemic stroke (ECASS II). Lancet . 1998;352:1245-1251. doi: 10.1016/s0140-6736(98)08020-9
+
+Muller CJ, MacLehose RF. Estimating predicted probabilities from logistic regression: different methods correspond to different target populations. Int J Epidemiol . 2014;43:962-970. doi: 10.1093/ije/dyu029
+
+17 . Sarraj A, Hassan AE, Abraham MG, Ortega-Gutierrez S, Kasner SE, Hussain MS, Chen M, Churilov L, Johns H, Sitton CW, et al. Endovascular thrombectomy for large ischemic stroke across ischemic injury and penumbra profiles. JAMA . 2024;331:750-763. doi: 10.1001/jama.2024.0572
+
+Nogueira RG, Haussen DC, Dehkharghani S, Rebello LC, Lima A, Bowen M, Belagaje S, Anderson A, Frankel M. Large volumes of critically hypoperfused penumbral tissue do not preclude good outcomes after complete endovascular reperfusion. Stroke . 2016;47:94-98. doi: 10.1161/STROKEAHA.115.011360
+
+Rebello LC, Bouslama M, Haussen DC, Dehkharghani S, Grossberg JA, Belagaje S, Frankel MR, Nogueira RG. Endovascular treatment for patients with acute stroke who have a large ischemic core and large mismatch imaging profile. JAMA Neurol . 2017;74:34-40. doi: 10.1001/jamaneurol.2016.3954
+
+Campbell BCV, Majoie CBLM, Albers GW, Menon BK, Yassi N, Sharma G, van Zwam WH, van Oostenbrugge RJ, Demchuk AM, Guillemin F, et al; HERMES collaborators. Penumbral imaging and functional outcome in patients with anterior circulation ischaemic stroke treated with endovascular thrombectomy versus medical therapy. Lancet Neurol . 2019;18:46-55. doi: 10.1016/S1474-4422(18)30314-4
+
+Ng FC, Yassi N, Sharma G, Brown SB, Goyal M, Majoie CBLM, Jovin TG, Hill MD, Muir KW, Saver JL, et al; HERMES Collaborators. Cerebral edema in patients with large hemispheric infarct undergoing reperfusion treatment. Stroke . 2021;52:3450-3458. doi: 10.1161/STROKEAHA.120.033246
+
+Bouslama M, Ravindran K, Rodrigues GM, Pisani L, Haussen DC, Frankel MR, Nogueira RG. Falsely normal CT perfusion ischemic core readings are common and often associated with deep infarcts. J Neurointerv Surg . 2023;15:183-187. doi: 10.1136/neurintsurg-2021-018490
+
+Boned S, Padroni M, Rubiera M, Tomasello A, Coscojuela P, Romero N, Muchada M, Rodríguez-Luna D, Flores A, Rodríguez N, et al. Admission CT perfusion may overestimate initial infarct core: the ghost infarct core concept. J Neurointerv Surg . 2017;9:66-69. doi: 10.1136/neurintsurg-2016-012494
+
+Uchida K, Shindo S, Yoshimura S, Toyoda K, Sakai N, Yamagami H, Matsumaru Y, Matsumoto Y, Kimura K, Ishikura R, et al; RESCUE-Japan LIMIT Investigators. Association between alberta stroke program early computed tomography score and efficacy and safety outcomes with endovascular therapy in patients with stroke from large-vessel occlusion. JAMA Neurol . 2022;79:1260-1266. doi: 10.1001/jamaneurol.2022.3285
+
+Costalat V, Lapergue B, Albucher JF, Labreuche J, Henon H, Gory B, Sibon I, Boulouis G, Cognard C, Nouri N, et al; LASTE Trial Investigators. Evaluation of acute mechanical revascularization in large stroke (ASPECTS ≤ 5) and large vessel occlusion within 7 h of last-seen-well. Int J Stroke . 2024;19:114-119. doi: 10.1177/17474930231191033
+
+Mitomi M, Kimura K, Aoki J, Iguchi Y. Comparison of CT and DWI findings in ischemic stroke patients within 3 hours of onset. J Stroke Cerebrovasc Dis . 2014;23:37-42. doi: 10.1016/j.jstrokecerebrovasdis.2012.08.014
+
+1738
+
+July 2024
+
+Stroke. 2024;55:1730-1738. DOI: 10.1161/STROKEAHA.124.046828

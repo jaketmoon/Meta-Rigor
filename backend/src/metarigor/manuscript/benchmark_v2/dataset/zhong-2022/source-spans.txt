@@ -1,0 +1,108 @@
+BEGIN V1_FACT fact-zhong-2022-identity {"content_sha256": "eb56bb581332c8d9a1fcfba3d4cf83b30f872368332df8b14400c4730e39a1aa", "upstream_artifact_refs": ["source-review-zhong-2022"]}
+This manuscript reports a systematic review with an eligible headline synthesis.
+END V1_FACT fact-zhong-2022-identity
+BEGIN V1_FACT fact-zhong-2022-objective {"content_sha256": "c0086e62913c4e7ecfce4287caf79e1a45284b8dc9b892367530f17aa641c4ea", "upstream_artifact_refs": ["accepted-protocol-zhong-2022"]}
+Among children with bronchiolitis, compare high-flow nasal cannula with non-invasive positive-pressure ventilation, including CPAP and NPPV, for treatment failure, need for intubation and PICU length of stay.
+END V1_FACT fact-zhong-2022-objective
+BEGIN V1_FACT fact-zhong-2022-eligibility {"content_sha256": "4912dab2009c22ee42669be208837c2d31479c7bfc85183ea8be33f6cacb9ca9", "upstream_artifact_refs": ["accepted-protocol-zhong-2022"]}
+Eligibility criteria were prespecified in the accepted Protocol.
+END V1_FACT fact-zhong-2022-eligibility
+BEGIN V1_FACT fact-zhong-2022-search {"content_sha256": "5b5595d42e3f8454b78d15dafe053840553778d61f5628c16877282e6751b636", "upstream_artifact_refs": ["source-review-zhong-2022"]}
+只含五项 trial；Review 明确 funnel asymmetry assessment 的 power 受限。
+END V1_FACT fact-zhong-2022-search
+BEGIN V1_FACT fact-zhong-2022-method-basis {"content_sha256": "b44c2ad0225a3477000907d9f47af309effdc88cd6a34f890fa15705bcdc5fb6", "upstream_artifact_refs": ["accepted-protocol-zhong-2022", "ec-catalog"]}
+No method deviation was established.
+END V1_FACT fact-zhong-2022-method-basis
+BEGIN V1_FACT fact-zhong-2022-selection {"content_sha256": "1da49f029ecee3f1cc71f643c45bf87e1876ca860a8fb755f15aaf97fad32361", "upstream_artifact_refs": ["ec-catalog"]}
+The headline synthesis included 5 studies; other selection-flow counts were not exposed in the curated V1 reference.
+END V1_FACT fact-zhong-2022-selection
+BEGIN V1_FACT fact-zhong-2022-studies {"content_sha256": "ae7663edd3350e4852836e9b5d240e6af4a261dd474c227a9d1bdd024ceab889", "upstream_artifact_refs": ["ec-catalog", "de-request-zhong-2022"]}
+五项 RCT、541 名小于 24 月龄儿童进入 meta-analysis。
+END V1_FACT fact-zhong-2022-studies
+BEGIN V1_FACT fact-zhong-2022-outcome {"content_sha256": "d4b388bdde82b1a34e54a094e093c90bfe218080afeaf3c306584596c159b15a", "upstream_artifact_refs": ["ec-catalog", "de-reference-zhong-2022"]}
+五项 effect/CI rows 中 Borgi 与 Milesi 较大，Cesar 与 Sarkar 接近 null；Vahlkvist 小型 trial 方向相反且 CI 极宽。
+END V1_FACT fact-zhong-2022-outcome
+BEGIN V1_FACT fact-zhong-2022-synthesis {"content_sha256": "58e0f2291b950553f2eb4f4ebf912597704f3da964fe528e29f81a88c449ec26", "upstream_artifact_refs": ["ec-catalog"]}
+五项 trial 的 published RR=1.523 [1.205,1.924]、I²=0%，N=541，control risk=74/268。
+END V1_FACT fact-zhong-2022-synthesis
+BEGIN V1_FACT fact-zhong-2022-risk-of-bias {"content_sha256": "f2b7eeff860441a8270f29103d78fc5db5477328048078bac90e12e7846b9600", "upstream_artifact_refs": ["ec-catalog"]}
+五项 contributor 的逐研究 RoB profile 与 evidence-body concerns。
+END V1_FACT fact-zhong-2022-risk-of-bias
+BEGIN V1_FACT fact-zhong-2022-certainty {"content_sha256": "8bb9431ad9075f72ed953d66637baa628eb4bd694f84939b2360e88178ad7c5d", "upstream_artifact_refs": ["ec-gold"]}
+RoB 与 imprecision 各明确降一级；其余领域不降级，整体合计降两级。
+END V1_FACT fact-zhong-2022-certainty
+BEGIN V1_FACT fact-zhong-2022-context {"content_sha256": "2ed61b12c1bdaecc597532263a1c3ff9a2a94311570ec9294efc902c10b99191", "upstream_artifact_refs": ["ec-catalog"]}
+五项 trial 的 evidence-side PICO、time horizon、setting 与已报告 variation。
+END V1_FACT fact-zhong-2022-context
+BEGIN V1_FACT fact-zhong-2022-limitation {"content_sha256": "9e9711ece68ef552dbc47c64763a4a4a39504e671c00242c1ee3e5b5f24631a2", "upstream_artifact_refs": ["ec-catalog"]}
+五项两臂 RCT 的 treatment-failure rows、RR、CI 与方法均闭合。
+END V1_FACT fact-zhong-2022-limitation
+BEGIN DE_CELL borgi.severe_bronchiolitis result.treatment_failure {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"HFNC failures are direct, but the comparator failure count would require reversing a rounded success percentage.","study_key":"borgi.severe_bronchiolitis","target_id":"result.treatment_failure","values":null}
+END DE_CELL borgi.severe_bronchiolitis result.treatment_failure
+BEGIN DE_CELL vahlkvist.viral_bronchiolitis result.treatment_failure {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The abstract says failures were scarce but provides no exact arm-level events.","study_key":"vahlkvist.viral_bronchiolitis","target_id":"result.treatment_failure","values":null}
+END DE_CELL vahlkvist.viral_bronchiolitis result.treatment_failure
+BEGIN DE_EVIDENCE cesar.critical_bronchiolitis result.treatment_failure {"canonical_field": "intervention_events", "document_key": "cesar.pubmed", "source_path": "originals/cesar-primary/publisher.pdf", "source_sha256": "ab0bbcf8e667b26f8b80433bb0d6c2290505fb58d3e8946b4dcc43c449bcb8cf", "view_sha256": "ce813fd17576e5da180827ac356bdc714b66dee567b1f6526edcd60985fae3a3"}
+| Primary treatment failure, n (%) | 23 (36.5%) | 10 (35.7%) | 13 (37.1%) | 0.88 |
+END DE_EVIDENCE cesar.critical_bronchiolitis result.treatment_failure
+BEGIN DE_EVIDENCE cesar.critical_bronchiolitis result.treatment_failure {"canonical_field": "intervention_group_size", "document_key": "cesar.pubmed", "source_path": "originals/cesar-primary/publisher.pdf", "source_sha256": "ab0bbcf8e667b26f8b80433bb0d6c2290505fb58d3e8946b4dcc43c449bcb8cf", "view_sha256": "ce813fd17576e5da180827ac356bdc714b66dee567b1f6526edcd60985fae3a3"}
+|  | All ( n ¼ 63) | CPAP ( n ¼ 28) | HFNC ( n ¼ 35) | p- Value |
+END DE_EVIDENCE cesar.critical_bronchiolitis result.treatment_failure
+BEGIN DE_EVIDENCE sarkar.acute_bronchiolitis result.treatment_failure {"canonical_field": "intervention_events", "document_key": "sarkar.pmc", "source_path": "documents/sarkar/source.xml", "source_sha256": "7aee79bb3c99ac942604750be7b08caa0a61162cb476ea0035c3c5d8821d8130", "view_sha256": "7ef2d37992474c07e12dce5913986c4bad78e9fc44ad863897573b1b5d7c037d"}
+One patient in each group had NIV failure and had to be intubated; hence, intubation rates were similar in both groups ( P = 0.29).
+END DE_EVIDENCE sarkar.acute_bronchiolitis result.treatment_failure
+BEGIN DE_EVIDENCE sarkar.acute_bronchiolitis result.treatment_failure {"canonical_field": "intervention_group_size", "document_key": "sarkar.pmc", "source_path": "documents/sarkar/source.xml", "source_sha256": "7aee79bb3c99ac942604750be7b08caa0a61162cb476ea0035c3c5d8821d8130", "view_sha256": "7ef2d37992474c07e12dce5913986c4bad78e9fc44ad863897573b1b5d7c037d"}
+The flow chart of study progress has been reported in Figure 1 . From September 2016 to February 2017, 62 patients were admitted with the clinical diagnosis of bronchiolitis in our hospital. Thirty-five patients met the inclusion criteria. A total of 31 patients were randomized, 16 were allocated in nCPAP group and 15 in HHHFNC Group. Two patients were excluded for the need of immediate intubation, and two patients were excluded for hemodynamic instability. Mean age was 3.41 ± 1.11 months. There were no differences in baseline respiratory support parameters between groups [ Table 1 ].
+END DE_EVIDENCE sarkar.acute_bronchiolitis result.treatment_failure
+BEGIN DE_EVIDENCE milesi.tramontane result.treatment_failure {"canonical_field": "intervention_events", "document_key": "milesi.pubmed", "source_path": "originals/milesi-primary/publisher.pdf", "source_sha256": "1c489aa6e9950fbcaa56510127a294871c8ec6ef0f7e5a23b18a952e8b0e3477", "view_sha256": "dab5dbed64557a43f4a9af437972aeca2510e2d9fd4548808420e133ee346633"}
+| Patients with at least one failure, n (%) | 22 (31.0) | 36 (50.7) | 0.001 |
+END DE_EVIDENCE milesi.tramontane result.treatment_failure
+BEGIN DE_EVIDENCE milesi.tramontane result.treatment_failure {"canonical_field": "intervention_group_size", "document_key": "milesi.pubmed", "source_path": "originals/milesi-primary/publisher.pdf", "source_sha256": "1c489aa6e9950fbcaa56510127a294871c8ec6ef0f7e5a23b18a952e8b0e3477", "view_sha256": "dab5dbed64557a43f4a9af437972aeca2510e2d9fd4548808420e133ee346633"}
+|  | nCPAP ( n = 71) | HFNC ( n = 71) | p |
+END DE_EVIDENCE milesi.tramontane result.treatment_failure
+BEGIN DE_CELL borgi.severe_bronchiolitis result.intubation {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The primary table reports rounded percentages rather than exact arm-level intubation events.","study_key":"borgi.severe_bronchiolitis","target_id":"result.intubation","values":null}
+END DE_CELL borgi.severe_bronchiolitis result.intubation
+BEGIN DE_CELL vahlkvist.viral_bronchiolitis result.intubation {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The available abstract does not report intubation counts and the full report is unavailable.","study_key":"vahlkvist.viral_bronchiolitis","target_id":"result.intubation","values":null}
+END DE_CELL vahlkvist.viral_bronchiolitis result.intubation
+BEGIN DE_EVIDENCE cesar.critical_bronchiolitis result.intubation {"canonical_field": "intervention_events", "document_key": "cesar.pubmed", "source_path": "originals/cesar-primary/publisher.pdf", "source_sha256": "ab0bbcf8e667b26f8b80433bb0d6c2290505fb58d3e8946b4dcc43c449bcb8cf", "view_sha256": "ce813fd17576e5da180827ac356bdc714b66dee567b1f6526edcd60985fae3a3"}
+| Intubation, n (%) | 10 (15.9%) | 3 (10.7%) | 7 (20%) | 0.49 |
+END DE_EVIDENCE cesar.critical_bronchiolitis result.intubation
+BEGIN DE_EVIDENCE cesar.critical_bronchiolitis result.intubation {"canonical_field": "intervention_group_size", "document_key": "cesar.pubmed", "source_path": "originals/cesar-primary/publisher.pdf", "source_sha256": "ab0bbcf8e667b26f8b80433bb0d6c2290505fb58d3e8946b4dcc43c449bcb8cf", "view_sha256": "ce813fd17576e5da180827ac356bdc714b66dee567b1f6526edcd60985fae3a3"}
+|  | All ( n ¼ 63) | CPAP ( n ¼ 28) | HFNC ( n ¼ 35) | p- Value |
+END DE_EVIDENCE cesar.critical_bronchiolitis result.intubation
+BEGIN DE_EVIDENCE sarkar.acute_bronchiolitis result.intubation {"canonical_field": "intervention_events", "document_key": "sarkar.pmc", "source_path": "documents/sarkar/source.xml", "source_sha256": "7aee79bb3c99ac942604750be7b08caa0a61162cb476ea0035c3c5d8821d8130", "view_sha256": "7ef2d37992474c07e12dce5913986c4bad78e9fc44ad863897573b1b5d7c037d"}
+One patient in each group had NIV failure and had to be intubated; hence, intubation rates were similar in both groups ( P = 0.29).
+END DE_EVIDENCE sarkar.acute_bronchiolitis result.intubation
+BEGIN DE_EVIDENCE sarkar.acute_bronchiolitis result.intubation {"canonical_field": "intervention_group_size", "document_key": "sarkar.pmc", "source_path": "documents/sarkar/source.xml", "source_sha256": "7aee79bb3c99ac942604750be7b08caa0a61162cb476ea0035c3c5d8821d8130", "view_sha256": "7ef2d37992474c07e12dce5913986c4bad78e9fc44ad863897573b1b5d7c037d"}
+A total of 31 patients were randomized, 16 were allocated in nCPAP group and 15 in HHHFNC Group.
+END DE_EVIDENCE sarkar.acute_bronchiolitis result.intubation
+BEGIN DE_EVIDENCE milesi.tramontane result.intubation {"canonical_field": "intervention_events", "document_key": "milesi.pubmed", "source_path": "originals/milesi-primary/publisher.pdf", "source_sha256": "1c489aa6e9950fbcaa56510127a294871c8ec6ef0f7e5a23b18a952e8b0e3477", "view_sha256": "dab5dbed64557a43f4a9af437972aeca2510e2d9fd4548808420e133ee346633"}
+| Intubation, n (%) | 3 (4.2) | 5 (6.9) | 0.72 |
+END DE_EVIDENCE milesi.tramontane result.intubation
+BEGIN DE_EVIDENCE milesi.tramontane result.intubation {"canonical_field": "intervention_group_size", "document_key": "milesi.pubmed", "source_path": "originals/milesi-primary/publisher.pdf", "source_sha256": "1c489aa6e9950fbcaa56510127a294871c8ec6ef0f7e5a23b18a952e8b0e3477", "view_sha256": "dab5dbed64557a43f4a9af437972aeca2510e2d9fd4548808420e133ee346633"}
+|  | nCPAP ( n = 71) | HFNC ( n = 71) | p |
+END DE_EVIDENCE milesi.tramontane result.intubation
+BEGIN DE_CELL borgi.severe_bronchiolitis result.picu_length_of_stay {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The primary table labels 5.9/4.1 versus 6.7/5.6 as length of hospitalization, not PICU length of stay; the Review mapping is retained only as a review-reported assertion.","study_key":"borgi.severe_bronchiolitis","target_id":"result.picu_length_of_stay","values":null}
+END DE_CELL borgi.severe_bronchiolitis result.picu_length_of_stay
+BEGIN DE_CELL vahlkvist.viral_bronchiolitis result.picu_length_of_stay {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The abstract reports no exact PICU mean/SD/N row and the full report is unavailable.","study_key":"vahlkvist.viral_bronchiolitis","target_id":"result.picu_length_of_stay","values":null}
+END DE_CELL vahlkvist.viral_bronchiolitis result.picu_length_of_stay
+BEGIN DE_CELL cesar.critical_bronchiolitis result.picu_length_of_stay {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"PICU length of stay is reported as median and range/IQR; M0 does not convert it to mean/SD.","study_key":"cesar.critical_bronchiolitis","target_id":"result.picu_length_of_stay","values":null}
+END DE_CELL cesar.critical_bronchiolitis result.picu_length_of_stay
+BEGIN DE_EVIDENCE sarkar.acute_bronchiolitis result.picu_length_of_stay {"canonical_field": "intervention_mean", "document_key": "sarkar.pmc", "source_path": "documents/sarkar/source.xml", "source_sha256": "7aee79bb3c99ac942604750be7b08caa0a61162cb476ea0035c3c5d8821d8130", "view_sha256": "7ef2d37992474c07e12dce5913986c4bad78e9fc44ad863897573b1b5d7c037d"}
+Average PICU LOS on nCPAP (5 ± 1.788 days) and HHHFNC (5 ± 1.6 days) were also comparable ( P = 0.105).
+END DE_EVIDENCE sarkar.acute_bronchiolitis result.picu_length_of_stay
+BEGIN DE_EVIDENCE sarkar.acute_bronchiolitis result.picu_length_of_stay {"canonical_field": "intervention_group_size", "document_key": "sarkar.pmc", "source_path": "documents/sarkar/source.xml", "source_sha256": "7aee79bb3c99ac942604750be7b08caa0a61162cb476ea0035c3c5d8821d8130", "view_sha256": "7ef2d37992474c07e12dce5913986c4bad78e9fc44ad863897573b1b5d7c037d"}
+A total of 31 patients were randomized, 16 were allocated in nCPAP group and 15 in HHHFNC Group.
+END DE_EVIDENCE sarkar.acute_bronchiolitis result.picu_length_of_stay
+BEGIN DE_EVIDENCE milesi.tramontane result.picu_length_of_stay {"canonical_field": "intervention_mean", "document_key": "milesi.pubmed", "source_path": "originals/milesi-primary/publisher.pdf", "source_sha256": "1c489aa6e9950fbcaa56510127a294871c8ec6ef0f7e5a23b18a952e8b0e3477", "view_sha256": "dab5dbed64557a43f4a9af437972aeca2510e2d9fd4548808420e133ee346633"}
+| PICU LOS (days) | 7.5 (13) | 6.2 (6) | 0.44 |
+END DE_EVIDENCE milesi.tramontane result.picu_length_of_stay
+BEGIN DE_EVIDENCE milesi.tramontane result.picu_length_of_stay {"canonical_field": "intervention_group_size", "document_key": "milesi.pubmed", "source_path": "originals/milesi-primary/publisher.pdf", "source_sha256": "1c489aa6e9950fbcaa56510127a294871c8ec6ef0f7e5a23b18a952e8b0e3477", "view_sha256": "dab5dbed64557a43f4a9af437972aeca2510e2d9fd4548808420e133ee346633"}
+|  | nCPAP ( n = 71) | HFNC ( n = 71) | p |
+END DE_EVIDENCE milesi.tramontane result.picu_length_of_stay

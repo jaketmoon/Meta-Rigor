@@ -1,0 +1,613 @@
+[DOCLING_PAGE 1]
+
+INFECTIOUS DISEASE/ORIGINAL RESEARCH
+
+Emergency Department Management of Sepsis Patients: A Randomized, Goal-Oriented, Noninvasive Sepsis Trial
+
+Win Sen Kuan, MBBS, MRCSEd(A&E)*; Irwani Ibrahim, MBBS, FRCSEd(A&E); Benjamin S. H. Leong, MBBS, MRCSEd(A&E); Swati Jain, MD; Qingshu Lu, PhD; Yin Bun Cheung, PhD; Malcolm Mahadevan, MBBS, FRCSEd(A&E)
+
+*Corresponding Author. E-mail: win_sen_kuan@nuhs.edu.sg.
+
+Study objective: The noninvasive cardiac output monitor and passive leg-raising maneuver has been shown to be reasonably accurate in predicting fl uid responsiveness in critically ill patients. We examine whether using a noninvasive protocol would result in more rapid lactate clearance after 3 hours in patients with severe sepsis and septic shock in the emergency department.
+
+Methods: In this open-label randomized controlled trial, 122 adult patients with sepsis and serum lactate concentration of greater than or equal to 3.0 mmol/L were randomized to receive usual care or intravenous fl uid bolus administration guided by measurements of change of stroke volume index, using the noninvasive cardiac output monitor after passive leg-raising maneuver. The primary outcome was lactate clearance of more than 20% at 3 hours. Secondary outcomes included mortality, length of hospital and ICU stay, and total hospital cost. Analysis was intention to treat.
+
+Results: Similar proportions of patients in the randomized intervention group (70.5%; N ¼ 61) versus control group (73.8%; N ¼ 61) achieved the primary outcome, with a relative risk of 0.96 (95% con fi dence interval [CI] 0.77 to 1.19). Secondary outcomes were similar in both groups ( P > .05 for all comparisons). Hospital mortality occurred in 6 patients (9.8%) each in the intervention and control groups on or before 28 days (relative risk ¼ 1.00; 95% CI 0.34 to 2.93). Among a subgroup of patients with underlying fl uid overload states, those in the intervention group tended to receive clinically signi fi cantly more intravenous fl uids at 3 hours (difference ¼ 975 mL; 95% CI -450 to 1,725 mL) and attained better lactate clearance (difference ¼ 19.7%; 95% CI -34.6% to 60.2%) compared with the control group, with shorter hospital lengths of stay (difference ¼ -4.5 days; 95% CI -9.5 to 2.5 days).
+
+Conclusion: Protocol-based fl uid resuscitation of patients with severe sepsis and septic shock with the noninvasive cardiac output monitor and passive leg-raising maneuver did not result in better outcomes compared with usual care. Future studies to demonstrate the use of the noninvasive protocol-based care in patients with preexisting fl uid overload states may be warranted. [Ann Emerg Med. 2016;67:367-378.]
+
+Please see page 368 for the Editor ' s Capsule Summary of this article.
+
+A feedback survey is available with each research article published on the Web at www.annemergmed.com.
+
+A podcast for this article is available at www.annemergmed.com.
+
+0196-0644/$-see front matter
+
+Copyright © 2015 by the American College of Emergency Physicians. http://dx.doi.org/10.1016/j.annemergmed.2015.09.010
+
+INTRODUCTION
+
+Background
+
+The global incidence and mortality from severe sepsis and septic shock remain high. 1-3 The Surviving Sepsis Campaign 4 is an initiative to improve mortality from sepsis, incorporating some principles from the landmark article on early goal-directed therapy. 5 Various resuscitation bundles have since been formulated and practiced to treat severe sepsis. 6 However, the exact targets of early, quantitative resuscitation of severe sepsis and septic shock of the landmark study have been challenged, particularly by 3
+
+recent large multicenter trials. 7-9 The generalizability of early goal-directed therapy is also questioned. 10 The necessity of central venous pressure monitoring to assess fl uid status and blood transfusion also lacks evidence. 11-13 Drawbacks include the invasive nature and complications of central catheter insertion, and the signi fi cant amount of physician and nursing time required to set up the equipment in the emergency department (ED). 14
+
+Lactate levels in the blood have been shown to be a key indicator of global organ hypoperfusion and shock. 15 It has also been well documented to be a good marker for the
+
+Volume 67, no. 3 : March 2016
+
+Annals of Emergency Medicine 367
+
+[DOCLING_PAGE 2]
+
+Emergency Department Management of Sepsis Patients
+
+Kuan et al
+
+Editor ' s Capsule Summary
+
+What is already known on this topic
+
+Structured quantitative resuscitation has been associated with improved outcomes in patients with severe sepsis and septic shock. However, structured noninvasive measurements as goals of resuscitation have not been studied extensively.
+
+What question this study addressed
+
+Whether a noninvasive measurement of change stroke volume using a noninvasive cardiac output monitor and passive leg raise would lead to more rapid clearance of lactate compared with usual care.
+
+What this study adds to our knowledge
+
+Noninvasive cardiac output monitoring led to no improvement in lactate clearance compared with usual care; however, clinically important differences in amount of fl uid administered and lactate clearance percentage were observed in patients with underlying volume overload.
+
+How this is relevant to clinical practice
+
+This study informs clinical practice that clinician judgment and usual care in guiding resuscitation is equivalent to quantitative noninvasive physiologic measurements. Future studies of resuscitation should focus on dif fi cult clinical scenarios such as volume overload.
+
+severity and outcome of sepsis; likewise, for the success of resuscitation. 16,17 In addition, if there is a failure of lactate clearance in the process of resuscitation, a much worse outcome ensues. 18 Studies have shown that the speed with which lactate is cleared is an independent prognostic factor for improved mortality. 19-21 As such, targeting lactate clearance as a surrogate outcome in clinical studies is a valid endpoint.
+
+Improving cardiac output and end-organ perfusion by increasing preload through the administration of fl uid boluses remains a cornerstone for resuscitation of patients with sepsis. However, ascertaining the volume status and fl uid responsiveness of critically ill patients remains a challenge for physicians practicing in the ED, especially in patients with impaired cardiac function. There are few data to show the incidence of preload responsiveness in patients presenting to the ED. Excessive fl uid administration could have deleterious effects on the individual, such as interstitial edema and organ dysfunction. 22 Hence, there is a need for noninvasive and uncomplicated alternatives to advanced hemodynamic assessment in the ED. 23
+
+The noninvasive cardiac output monitor (Cheetah Medical, Tel Aviv, Israel) is capable of providing continuous dynamic measurement of hemodynamic parameters by using bioreactance technology (Appendix E1, available online at www.annemergmed.com). Clinical validation studies have shown that the noninvasive cardiac output monitor has acceptable accuracy. 24,25 Noninvasive monitoring of hemodynamic parameters can be coupled with the passive leg-raising maneuver, which results in mobilization of fl uid from the venous capacitance system of the lower extremities to the core, resulting in an effective volume challenge of 250 to 300 mL (Appendix E2, available online at www. annemergmed.com). The ability of passive leg raising to assess fl uid responsiveness has been well demonstrated. 26-30
+
+Importance
+
+To our knowledge, no randomized trials have reported a resuscitation protocol that examines the use of a noninvasive hemodynamic monitoring device such as the noninvasive cardiac output monitor in sepsis resuscitation particularly relating to the outcome of such a strategy. The use of noninvasive hemodynamic protocols may allow treating physicians in the ED to be able to quickly attain hemodynamic optimization andresultant faster lactate clearance, which could translate into better outcomes for patients. 18,19
+
+Goal of This Investigation
+
+Our goal in this study was to determine whether the use of noninvasive hemodynamic optimization combined with passive leg-raising maneuver resulted in early clearance of lactate in patients with severe sepsis and septic shock in the ED.
+
+MATERIALS AND METHODS
+
+Study Design and Setting
+
+This was a randomized, open-label, single-center study enrolling patients with severe sepsis or septic shock from the ED of National University Hospital, a tertiary university-af fi liated hospital in Singapore. The study period was during 22 months, from February 2012 to November 2013. Patients or their legally acceptable representatives provided written informed consent, and all protocols were approved by the Domain Speci fi c Review Board, National Healthcare Group, Singapore (DSRB 2011/00286).
+
+Selection of Participants
+
+Eligible patients were those who had serum lactate level greater than or equal to 3 mmol/L with suspected infection and ful fi lled at least 2 systemic in fl ammatory response syndrome criteria: (1) body temperature greater than 38.3  C (100.9  F) or less than 36.0  C (96.8  F); (2) pulse rate greater than 90 beats/min; (3) respiratory rate greater than 20 breaths/min or PaCO2 less than 32 mm Hg; and (4) WBC count greater than 12.0 -10 9 /L or less than 4.0 -10 9 /L. Three of the 4 systemic in fl ammatory response syndrome criteria (ie, temperature, respiratory rate, and pulse rate) were obtained as part of triage. In general, if any patient ful fi lled the temperature criterion and at least 1 other criterion with suspected infection, he or she would have had blood drawn for lactate. Some patients who did not ful fi ll the abovementioned criteria may have been included according to the WBC count of the systemic in fl ammatory response syndrome criteria.
+
+368 Annals of Emergency Medicine
+
+Volume 67, no. 3 : March 2016
+
+[DOCLING_PAGE 3]
+
+Kuan et al
+
+Emergency Department Management of Sepsis Patients
+
+Exclusion criteria were known pregnancy, younger than 21 years, prisoners, do-not-attempt resuscitation status, known severe aortic insuf fi ciency or severe anatomic abnormalities of the thoracic aorta, requirement for immediate surgery, previous above- or below-knee amputation, inability to do passive leg raising (eg, ankylosis of hip joint, severe sciatica), and treating physician deemed aggressive care unsuitable. Additional exclusion criteria were individuals who received or were receiving b -agonist therapy (intravenous, oral, nebulized, or inhaled) within the last 4 hours, those who received 200 mL of crystalloids out-of-hospital, those unable to provide informed consent, and a primary diagnosis of trauma, burns, active seizures, acute cerebral vascular accident, acute coronary syndrome, status asthmaticus, major cardiac arrhythmias, active gastrointestinal hemorrhage, seizure, or drug overdose.
+
+All eligible patients were randomized 1:1 to the control or the intervention group. Blocked randomization, with randomly permutated block sizes of 4 and 6, was performed by investigators or research coordinators at the site through a Web randomization system at the Singapore Clinical Research Institute, which was not involved in patient enrollment and assessment. Before patient enrollment, a randomization list was generated with a validated SAS program (SAS Institute, Inc., Cary, NC) and then uploaded to the randomization system. After hospital admission, all patients continued to have standard care in the ward or ICU. Clinicians in the ward and ICU were blinded to the patients ' enrollment in either group. Data were collected until hospital discharge or death, which-ever occurred earlier.
+
+Two to 3 research coordinators were available on weekdays from 8 AM to 10 PM and occasionally on weekends and night shifts. They screened patients for eligibility, assessed for inclusion and exclusion criteria, obtained informed consent from the patients or legally acceptable representatives, and randomized the patients into the study.
+
+They advised the managing team of physicians and nurses in setting up the noninvasive cardiac output monitor and performing the passive leg-raising maneuver according to the protocol. Patients were enrolled and randomized as soon as informed consent was obtained. The protocol was continued in the ED for up to 3 hours or until patients were transferred to the ward or ICU, whichever occurred sooner.
+
+Interventions
+
+The management entailed a systematic approach in a stepwise manner optimizing cardiac preload, afterload, and contractility, with the aim of improving cardiac pump function and oxygen delivery to the tissues. This included assessment of fl uid responsiveness with the noninvasive cardiac output monitor and passive leg-raising maneuver before administration of fl uid boluses (Appendices E1 and E2, available online at www.annemergmed.com). The passive leg-raising maneuver was performed by fi rst placing a patient with noninvasive cardiac output monitoring in a semirecumbent position and obtaining hemodynamic parameters averaged during 3 minutes. Subsequently, both lower limbs were raised passively at least 45 degrees from the horizontal, with the torso supine. The hemodynamic parameters obtained in this position were also averaged during the next 3 minutes.
+
+Fluid responsiveness was de fi ned as a stroke volume index increase of more than 10%. A stroke volume index increase of more than 20% mandated the administration of a 1,000-mL intravenous crystalloid bolus to the patient, whereas an increase greater than 10% but less than or equal to 20% triggered the administration of a 500-mL intravenous crystalloid bolus. A change in stroke volume index less than or equal to 10% and a mean arterial pressure (MAP) target of greater than or equal to 65 mm Hg and less than 90 mm Hg were used as hemodynamic goals. In patients for whom stroke volume index less than or equal to 10% was achieved, but not the MAP values, vasoactive agent treatment ( fi rst dopamine and then norepinephrine if required) was initiated to achieve the MAP targets. Assessment of fl uid responsiveness with passive leg-raising maneuver was performed 10 minutes after completion of each fl uid bolus and every 30 minutes for patients who were deemed not fl uid responsive initially.
+
+The control group was managed under usual care at the clinician ' s discretion in accordance with current best practice that involved the administration of intravenous fl uids, vasopressors, and inotropes according to the clinical judgment of the attending physicians managing the patient to attain a hemodynamic goal of MAP greater than or equal to 65 mm Hg. Patients in the control group did not undergo the passive leg-raising maneuver. Research coordinators charted relevant clinical information for the study and did not participate in the treatment of patients in the control group.
+
+Volume 67, no. 3 : March 2016
+
+Annals of Emergency Medicine 369
+
+[DOCLING_PAGE 4]
+
+Emergency Department Management of Sepsis Patients
+
+Kuan et al
+
+In both groups, a central venous catheter could be inserted should the need for norepinephrine arise.
+
+Outcome Measures
+
+The primary endpoint was lactate clearance greater than 20% at 3 hours after the commencement of resuscitation. Secondary endpoints included hospital, ICU, and 28-day mortality, proportion of patients requiring vasoactive agents, length of hospital and ICU stay, and total hospital cost. Hospital mortality was de fi ned as death that occurred inhospital, including ED, ICU, and wards, whereas 28-day mortality was death that occurred fewer than or equal to 28 days from admission in the hospital. Hemodynamic goals were considered achieved at 3 hours in the intervention group if the change in stroke volume index was less than or equal to 10% and the MAP was greater than or equal to 65 mm Hg and less than 90 mm Hg. The hemodynamic goal in the control group was MAP greater than or equal to 65 mm Hg. Length of hospital stay was de fi ned as time from admission to discharge from the hospital or to death if the patient died before discharge.
+
+We had decided a priori to compare patients with preexisting fl uid overload conditions such as congestive heart failure and renal failure in a subgroup analysis. This subgroup was determined from the patient ' s history of congestive cardiac failure (based on previous admission records or echocardiographic evaluation for heart failure with reduced ejection fraction of  50%) or end-stage renal failure requiring hemodialysis or peritoneal dialysis. They were not randomized separately.
+
+Primary Data Analysis
+
+Proportion of patients achieving the primary endpoint was tabulated by treatment group as randomized and compared with Fisher ' s exact test. Relative risk (RR) of achieving the primary endpoint was reported together with its 95% con fi dence interval (CI). Log-binomial regression was performed to adjust for prespeci fi ed covariates: age, sex, disease severity, Charlson comorbidity index, and physiologic scores. 31,32 Continuous outcomes, unless otherwise stated, were compared between treatment groups with 2-sample t test. Highly skewed continuous outcomes, such as length of hospital stay and cost, were compared with the Mann-Whitney U test. Data analysis was performed with SAS (version 9.3; SAS Institute, Inc.) and was made according to the intention-to-treat principle. Categorical variables are reported in frequency and percentages and continuous variables in mean (SD). For continuous variables that were highly skewed, median (interquartile range [IQR]) is reported instead. As-treated analysis was conducted for safety data.
+
+According to our previous prospective 18 months of data in the study of patients with severe sepsis and septic shock at our hospital between July 2008 and December 2009, 45% of patients had lactate clearance greater than 20% between 2 and 6 hours. 33 We assumed this proportion (45%) of patients had lactate clearance greater than 20% at 3 hours after commencement of fl uid resuscitation. One hundred forty patients (70 in each group) were required to detect an increase of 25% (intervention 70% versus control 45%) in proportion of patients with lactate clearance greater than 20% with a power of 80% at a type I error of 5%.
+
+RESULTS
+
+Characteristics of Study Subjects
+
+A total of 122 patients were enrolled from the ED of National University Hospital, Singapore. Patients were randomized to either control (N ¼ 61) or intervention group (N ¼ 61) (Figure 1). All patients who were assigned to the intervention group adhered strictly to the protocol (Figure 2), apart from 3 patients (4.9%) assigned to the intervention group who switched to the control group at the decision of treating physicians. All ef fi cacy analyses, however, were performed on an intention-to-treat basis.
+
+Baseline characteristics were similar between the 2 groups (Table 1). There were slight imbalances in age, sex, and physiologic scores, with patients in the intervention group tending to be older, to be women, and to have increased severity of illness. However, these differences did not reach statistical signi fi cance. The baseline vital signs and laboratory parameters were similar between the 2 groups, except for a higher baseline MAP in the intervention group compared with the control group ( P ¼ .04) (Table 1).
+
+Compliance with the protocol in the intervention group was high (95.1%). The following are the descriptions of the 3 patients who switched from the intervention to the control group: (1) 1 patient with pneumonia had fl uid boluses administered despite not being fl uid responsive on the noninvasive cardiac output monitor and passive legraising maneuver, later developed pulmonary edema, and subsequently died from severe pneumonia and septic shock after 3 days; (2) 1 patient with pneumonia was deemed fl uid responsive according to the protocol but had fl uid boluses withheld in the ED because of underlying congestive heart failure and renal failure, was admitted to the hospital for 20 days, and subsequently was discharged;
+
+370 Annals of Emergency Medicine
+
+Volume 67, no. 3 : March 2016
+
+[DOCLING_PAGE 5]
+
+Kuan et al
+
+Emergency Department Management of Sepsis Patients
+
+Figure 1. Enrollment fl owchart indicating numbers of patients screened for eligibility, enrolled, allocated to each group, switched over, and analyzed in the study. SIRS , Systemic In fl ammatory Response Syndrome.
+
+(3) 1 patient was considered fl uid responsive but also had fl uid boluses ceased and stayed in the ICU for 13 days before dying of pneumonia.
+
+Main Results
+
+In this time-sensitive trial, the median time from measurement of fi rst lactate level to randomization (ie, time taken to obtain informed consent) was 9 minutes (IQR 4 to 18 minutes) in the intervention group and 11 minutes (IQR 5 to 19 minutes) in the control group (difference ¼ -2.0; 95% CI -5.0 to 2.0 minutes). The majority of patients (88.5%) had the passive leg-raising maneuver performed 2 to 4 times (range 1 to 6) within the 3 hours. The median time for the performance of the fi rst passive leg-raising maneuver from randomization was 25 minutes (IQR 15 to 32 minutes). There were 48 patients (78.7%) who were fl uid responsive (52.5% with change in stroke volume index > 20% and 26.2%
+
+with change > 10% and  20%) on the initial passive leg-raising maneuver in the intervention group. Fewer patients (60.6%) remained fl uid responsive by the time the second passive leg-raising maneuver was performed at a median time of 76.5 minutes (IQR 54.5 to 93.0 minutes) after randomization.
+
+For the primary outcome, a total of 43 patients (70.5%) in the intervention group and 45 (73.8%) in the control group achieved a lactate clearance of greater than 20% at 3 hours, with an RR of 0.96 (95% CI 0.77 to 1.19) (Table 2). The RR did not materially change after adjustment for prespeci fi ed covariates. The mean lactate clearance (ie, percentage of lactate reduction) was 32.1% in the intervention group and 39.9% in the control group (difference ¼ -7.9%; 95% CI -21.1% to 5.3%).
+
+A total of 19 patients (15.6%; 9 intervention, 10 control) had a serum lactate level increase at 3 hours from the initial level. Of these patients, 6 (31.6%) died on or before day 28 compared with 6 (5.8%) deaths in 103 patients who had lactate clearance (RR ¼ 5.42; 95% CI 1.95 to 15.04). Similarly, of 34 patients who had a lactate clearance of less than 20% at 3 hours, 8 (23.5%) died on or before day 28 compared with 4 (4.5%) deaths in 88 patients who achieved a lactate clearance of greater than 20% at 3 hours (RR ¼ 5.18; 95% CI 1.67 to 16.07).
+
+Volume 67, no. 3 : March 2016
+
+Annals of Emergency Medicine 371
+
+[DOCLING_PAGE 6]
+
+Emergency Department Management of Sepsis Patients
+
+Kuan et al
+
+Figure 2. Protocol in the intervention group. D SVI , Change in stroke volume index; IV , intravenous; PLR , passive leg raising.
+
+Hospital mortality occurred in 8 patients (13.1%) in the intervention group, 6 deaths (9.8%) of which happened on or before 28 days, whereas in the control group the number was 6 patients (9.8%), all of whom died on or before 28 days of enrollment (RR of 28-day mortality ¼ 1.00; 95% CI 0.34 to 2.93) (Table 3). The median length of stay in the hospital was 7.0 days in both groups (difference ¼ 0 days; 95% CI -3.0 to 3.0 days). The lengths of stay in the ED and ICU were comparable between groups (Table 3). The median total hospital cost was Singapore $7,597 in the intervention group and Singapore $9,298 in the control group (difference ¼ Singapore − $1,701; 95% CI Singapore − $8,306 to Singapore $3,197). Analysis of safety data indicated comparable results in nosocomial infection, pulmonary edema, and acute kidney injury ( P > .60 for all indicators) (Table E1, available online at www.annemergmed.com).
+
+The cumulative volume of crystalloids administered was larger, although not statistically signi fi cant, in the intervention than in the control group at 1, 2, and 3 hours after commencement of treatment (Table 4). The mean cumulative volume increased by approximately
+
+700 mL/hour for the fi rst 3 hours in each group, attaining values of approximately 2,000, 4,000, and 5,500 mL at 3, 24, and 72 hours, respectively. Central venous catheters were inserted in only 4 patients (3.3%), and 18 patients (14.8%) required intubation in the ED.
+
+We performed a planned subgroup analysis to test our original hypothesis in patients with preexisting fl uid overload states such as congestive heart failure and renal failure (Table 5). There were a total of 17 patients (13.9%) with congestive cardiac failure or renal failure, 9 in the intervention group and 8 in the control group. A larger volume of cumulative fl uid was administered at 3 hours in the intervention group (median ¼ 1,250 mL) than in the control group (median ¼ 275 mL) (difference ¼ 975 mL; 95% CI -450 to 1,725 mL). The median lactate clearance was higher at 3 hours in the intervention group (31.2% versus 11.5%; difference ¼ 19.7%; 95% CI -34.6% to 60.2%), which corresponded to a larger proportion of patients achieving lactate clearance of greater than 20% at 3 hours (66.7% versus 50.0%; RR ¼ 1.3; 95% CI 0.6 to 3.1). One death occurred in the control group and none in the intervention group. The hospital length of stay was shorter in the intervention group (median ¼ 8 days) than in the control group (median ¼ 12.5 days) (difference ¼ -4.5 days; 95% CI -9.5 to 2.5 days).
+
+LIMITATIONS
+
+There are several limitations to our study. First, the target sample size of 140 patients was not achieved because MPM0 , Mortality probability model on admission; SOFA , Sequential Organ Failure Assessment; MEDS , Mortality in Emergency Department Sepsis.
+
+372 Annals of Emergency Medicine
+
+Volume 67, no. 3 : March 2016
+
+[DOCLING_PAGE 7]
+
+Kuan et al
+
+Emergency Department Management of Sepsis Patients
+
+[DOCLING_TABLE rows=32 columns=3]
+| Variable | Intervention (N [ 61) | Control (N [ 61) |
+| Age, y | 66.6 (14.9) | 64.3 (14.6) |
+| Female sex, No. (%) | 30 (49.2) | 21 (34.4) |
+| Ethnicity, No. (%) |  |  |
+| Chinese | 41 (67.2) | 42 (68.9) |
+| Malay | 13 (21.3) | 11 (18.0) |
+| Indian | 4 (6.6) | 6 (9.8) |
+| Other | 3 (4.9) | 2 (3.3) |
+| Disease severity, No. (%) |  |  |
+| Severe sepsis | 49 (80.3) | 50 (82.0) |
+| Septic shock | 12 (19.7) | 11 (18.0) |
+| Charlson comorbidity index* | 1.7 (2.0) | 1.8 (2.3) |
+| Congestive heart failure, No. (%) | 8 (13.1) †‡ | 6 (9.8) § |
+| End-stage renal failure, No. (%) | 2 (3.3) † | 2 (3.3) |
+| Liver cirrhosis, No. (%) | 3 (4.9) ‡ | 3 (4.9) § |
+| Immunosuppressive state, No. (%) jj | 5 (8.2) ‡ | 4 (6.6) |
+| Chronic obstructive lung disease/bronchiectasis, | 0 | 2 (3.3) |
+| MPM0, % { | 32.9 (19.0) | 28.6 (15.5) |
+| SOFA # | 3.6 (3.0) | 3.2 (2.1) |
+| MEDS** | 6.2 (3.2) | 5.5 (3.3) |
+| Arterial lactate, mmol/L | 4.8 (2.0) | 4.8 (2.0) |
+| Temperature,  C | 38.0 (1.3) | 38.1 (1.1) |
+| Respiratory rate, breaths/ min | 24.2 (6.4) | 23.8 (6.8) |
+| Pulse rate, beats/min | 106.7 (19.5) | 110.4 (20.7) |
+| Systolic arterial pressure, mm Hg | 128.8 (28.7) | 120.9 (25.9) |
+| MAP, mm Hg | 91.3 (19.2) | 84.5 (16.7) |
+| pH | 7.42 (0.09) | 7.44 (0.09) |
+| PaCO 2 , mm Hg | 28.4 (7.3) | 28.7 (9.9) |
+| WBC count, 10 9 /L | 12.2 (6.8) | 12.6 (7.2) |
+| Hemoglobin, g/dL | 13.0 (2.5) | 13.2 (2.3) |
+| Platelets, 10 9 /L | 211.0 (97.0) | 226.8 (94.5) |
+| Creatinine, m mol/L | 131.5 (103.1) | 156.2 (129.0) |
+[/DOCLING_TABLE]
+
+*Charlson comorbidity index, a prediction of 10-year mortality with a range of comorbid conditions, with higher scores corresponding to higher risk.
+
+† One patient in the intervention group had congestive heart failure and end-stage renal failure.
+
+‡ One patient in the intervention group had congestive heart failure, liver cirrhosis, and an immunosuppressive state.
+
+§
+
+One patient in the control group had congestive heart failure and liver cirrhosis. jj Immunosuppressive state includes patients receiving long-term steroids,
+
+immunosuppressive agents for autoimmune diseases, or active chemotherapy, or those with advanced HIV infection.
+
+{ MPM0, an ICU severity-of-illness scoring system, with higher scores on admission corresponding to higher prediction for mortality. Components of the score are age, pulse rate, systolic blood pressure, Glasgow Coma Scale score, emergency admission, cardiopulmonary resuscitation before admission, cancer, chronic renal failure,
+
+possibility of infection, previous ICU admission within 6 months, and surgical service at ICU admission.
+
+# SOFA, an ICU severity-of-illness scoring system, with higher scores corresponding to higher prediction for mortality.
+
+**MEDS, an emergency clinical prediction rule, with higher scores corresponding to higher predicted 28-day mortality rate.
+
+[DOCLING_TABLE rows=11 columns=4]
+| Variable | Intervention (N [ 61) | Control (N [ 61) | Effect Size (95% CI) |
+| Arterial lactate, mean (SD), mmol/L |  |  | Mean difference* |
+| 0 h | 4.8 (2.0) | 4.8 (2.0) | - 0.1 ( - 0.8 to 0.7) |
+| 3 h | 3.2 (2.3) | 2.8 (1.8) | 0.4 ( - 0.4 to 1.1) |
+| After 3 h † | 3.0 (2.4) | 2.9 (1.8) | 0.1 ( - 0.7 to 0.9) |
+| Lactate clearance at 3 h, mean (SD), % | 32.1 (40.3) | 39.9 (33.1) | - 7.9 ( - 21.1 to 5.3) |
+|  |  |  | RR ‡ |
+| Lactate clearance at 3 h > 20%, No. (%) | 43 (70.5) | 45 (73.8) | 0.96 (0.77 to 1.19) |
+| Hemodynamic goals achieved within 3 h, No. (%) | 41 (67.2) | 50 (82.0) | 0.82 (0.66 to 1.01) |
+| *Mean difference was calculated as intervention group - control group. | *Mean difference was calculated as intervention group - control group. | *Mean difference was calculated as intervention group - control group. | *Mean difference was calculated as intervention group - control group. |
+| † Assessment of arterial lactate after 3 hours was conducted for 48 and 49 patients in the intervention and control groups, respectively. ‡ RR was calculated for intervention group versus control group. | † Assessment of arterial lactate after 3 hours was conducted for 48 and 49 patients in the intervention and control groups, respectively. ‡ RR was calculated for intervention group versus control group. | † Assessment of arterial lactate after 3 hours was conducted for 48 and 49 patients in the intervention and control groups, respectively. ‡ RR was calculated for intervention group versus control group. | † Assessment of arterial lactate after 3 hours was conducted for 48 and 49 patients in the intervention and control groups, respectively. ‡ RR was calculated for intervention group versus control group. |
+[/DOCLING_TABLE]
+
+of manpower constraints that prohibited continual recruitment beyond 122 patients. Although the study did not achieve the calculated target sample size, the 95% CI (0.77 to 1.19) of the RR obtained for the primary outcome is relatively narrow, depicting adequate precision and power of the study. 34 We also analyzed the results of the primary endpoint under the most extreme scenario. We assumed that 9 of 18 patients who were to be recruited were randomized to the intervention group and the rest to the control group. Under the most extreme scenario in favor of the intervention group, all 9 patients in the intervention group would have achieved the primary endpoint and all 9 patients in the control group would not have. Combining with the data from our 122 recruited patients gives a proportion of patients achieving the primary endpoint of 74% (52/70) and 64% (45/70) in the intervention and control groups, respectively ( P ¼ .27). The converse is also true if we assumed the extreme scenario to be in favor of the control group ( P ¼ .07). The implication is that our study conclusion would not have changed even if we had met the original enrollment goal. Therefore, we maintain con fi dence in the conclusion that there was no difference in lactate clearance between the 2 groups.
+
+Second, blinding of study personnel and patients was not possible. However, care was taken to minimize bias by complying with the study protocol systematically in the intervention group, and fl uid administration occurred through the largest-bore intravenous cannulae available for both groups of patients. We also ensured that all included patients did not receive more than 200 mL of crystalloids out-of-hospital through veri fi cation with the paramedics if the patient was transported to the ED by ambulance.
+
+Volume 67, no. 3 : March 2016
+
+Annals of Emergency Medicine 373
+
+[DOCLING_PAGE 8]
+
+Emergency Department Management of Sepsis Patients
+
+Kuan et al
+
+[DOCLING_TABLE rows=10 columns=4]
+| Variable | Intervention (N [ 61) | Control (N [ 61) | Effect Size (95% CI) |
+| Mortality |  |  | RR* |
+| Hospital mortality, No. (%) | 8 (13.1) | 6 (9.8) | 1.33 (0.49 to 3.61) |
+| ICU mortality, No. (%) † | 6 (27.3) | 4 (17.4) | 1.57 (0.51 to 4.82) |
+| 28-day mortality, No. (%) | 6 (9.8) | 6 (9.8) | 1.00 (0.34 to 2.93) |
+| Length of stay, median (IQR) |  |  | Median difference ‡ |
+| ED, h | 4.0 (3.5 to 5.0) | 4.0 (3.5 to 5.0) | 0 ( - 0.5 to 0.5) |
+| ICU, h † § | 96.0 (72.0 to 120.0) | 96.0 (60.0 to 144.0) | 0 ( - 35.0 to 42.0) |
+| Hospital, days | 7.0 (3.0 to 12.0) | 7.0 (4.0 to 14.0) | 0 ( - 3.0 to 3.0) |
+| Total hospital charge, median (IQR), | 7,597 (2,588 to 14,989) | 9,298 (4,686 to 14,981) | - 1,701 ( - 8,306 to 3,197) |
+[/DOCLING_TABLE]
+
+Third, given the relatively high number of excluded patients (Figure 1) and lack of 24-hour recruitment, the sample may not be representative of all the eligible patients at the study site. There was relatively low mortality and a smaller proportion of patients who were admitted to the ICU or who received vasopressors in this study compared with other sepsis studies. We postulate that the lack of 24-hour recruitment and our stringent inclusion and exclusion criteria that precluded participation of many severely ill patients and those with signi fi cant vasculopathy from this study may limit the generalizability of the results. That we included patients with a serum lactate level of at least 3.0 mmol/L compared with 4.0 mmol/L may re fl ect the lower baseline risk and better prognosis of patients included in this study, thereby contributing to a lower mortality. Notwithstanding, the included population of patients represents the typical case mix of patients with sepsis in the ED who could bene fi t from early interventions and possible avoidance of ICU admission.
+
+[DOCLING_TABLE rows=18 columns=4]
+| Variable | Intervention (N [ 61) | Control (N [ 61) | Effect Size (95% CI) |
+| Cumulative volume of crystalloids, median (IQR), mL |  |  | Median diff * |
+| 1 h | 1,000 (500 to 1,000) | 500 (250 to 1,000) | 500 ( - 100 to 500) |
+| 2 h | 1,500 (1,100 to 2,000) | 1,100 (600 to 2,100) | 400 ( - 100 to 600) |
+| 3 h | 2,100 (1,600 to 2,550) | 1,600 (1,000 to 2,700) | 500 ( - 100 to 1,000) |
+| 24 h | 3,550 (2,850 to 4,800) | 3,400 (2,100 to 5,600) | 150 ( - 1,300 to 900) |
+| 72 h | 5,100 (3,500 to 6,800) | 5,400 (3,250 to 8,200) | - 300 ( - 1,600 to 1,350) |
+| Other treatments, No. (%) |  |  | RR † |
+| Dopamine | 10 (16.4) | 6 (9.8) | 1.7 (0.7 to 4.3) |
+| Norepinephrine | 3 (4.9) | 3 (4.9) | 1.0 (0.2 to 4.8) |
+| Dobutamine | 2 (3.3) | 2 (3.3) | 1.0 (0.2 to 6.9) |
+| Glyceryl trinitrate | 3 (4.9) | 0 | NA |
+| Steroids | 1 (1.6) | 3 (4.9) | 0.3 (0.1 to 3.1) |
+| Blood transfusion | 0 | 0 | NA |
+| Antibiotics use | 55 (90.2) | 51 (83.6) | 1.1 (0.9 to 1.2) |
+| Central venous catheter insertion in ED | 3 (4.9) | 1 (1.6) | 3.0 (0.3 to 28.0) |
+| Intubation | 10 (16.4) | 8 (13.1) | 1.3 (0.5 to 3.0) |
+| Time from fi rst lactate measured to antibiotics use, ‡ median (IQR), min | 57.0 (41.0 to 109.0) | 61.0 (33.0 to 93.0) | Median diff * - 4.0 ( - 24.0 to 29.5) |
+[/DOCLING_TABLE]
+
+Fourth, reassessment of patients 3 hours into the resuscitation is brief compared with 6-hour protocols published previously. The shorter protocol was selected in accordance with the knowledge of the mean ED length of stay of approximately 4 hours in critically ill patients in our ED, thus allowing the entire protocol to be completed within the ED. This approach has been supported by experimental evidence that suggested lactate clearance of at least 10% at a minimum of 2 hours after initiation
+
+374 Annals of Emergency Medicine
+
+Volume 67, no. 3 : March 2016
+
+[DOCLING_PAGE 9]
+
+Kuan et al
+
+Emergency Department Management of Sepsis Patients
+
+[DOCLING_TABLE rows=29 columns=4]
+| Variable | Intervention (N [ 9) | Control (N [ 8) | Effect Size (95% CI) |
+| Cumulative volume of crystalloids, mL |  |  | Median diff* |
+| 1 h | 500 (450 to 1,000) | 0 (0 to 300) | 500 (0 to 1,050) |
+| 2 h | 1,000 (650 to 1,500) | 150 (0 to 600) | 850 ( - 50 to 1,500) |
+| 3 h | 1,250 (1,100 to 1,500) | 275 (50 to 1,050) | 975 ( - 450 to 1,725) |
+| 24 h | 1,700 (1,200 to 2,800) | 900 (350 to 2,625) | 800 ( - 2,000 to 2,300) |
+| 72 h | 2,300 (2,000 to 3,050) | 2,475 (600 to 6,150) | - 175 ( - 5,400 to 2,350) |
+| Other treatments, No. (%) |  |  | Risk diff* |
+| Dopamine | 2 (22.2) | 0 | 22.2 ( - 13.9 to 54.7) |
+| Norepinephrine | 2 (22.2) | 0 | 22.2 ( - 13.9 to 54.7) |
+| Dobutamine | 2 (22.2) | 0 | 22.2 ( - 13.9 to 54.7) |
+| Glyceryl trinitrate | 1 (11.1) | 0 | 11.1 ( - 22.6 to 43.5) |
+| Steroids | 0 | 0 | NA |
+| Blood transfusion | 0 | 0 | NA |
+| Antibiotics use | 9 (100.0) | 7 (87.5) | 12.5 ( - 19.1 to 47.1) |
+| Central venous catheter insertion in ED | 2 (22.2) | 0 | 22.2 ( - 13.9 to 54.7) |
+| Intubation | 2 (22.2) | 0 | 22.2 ( - 13.9 to 54.7) |
+|  |  |  | Median diff* |
+| Time from fi rst lactate measured to antibiotics use, min | 81.0 (42.0 to 126.0) | 73.0 (31.0 to 137.0) | 8.0 ( - 81.0 to 95.0) |
+| Arterial lactate, mmol/L |  |  |  |
+| 0 h | 3.8 (3.2 to 5.1) | 4.1 (3.4 to 6.0) | - 0.3 ( - 2.8 to 1.6) |
+| 3 h | 3.4 (1.9 to 3.6) | 3.8 (2.9 to 4.5) | - 0.4 ( - 1.9 to 1.5) |
+| After 3 h † | 2.5 (1.6 to 3.1) | 3.2 (2.2 to 3.9) | - 0.7 ( - 2.1 to 0.9) |
+| Lactate clearance at 3 h, % | 31.2 (7.8 to 50.1) | 11.5 ( - 12.5 to 48.7) | 19.7 ( - 34.6 to 60.2) RR ‡ |
+| Lactate clearance at 3 h > 20%, No. (%) | 6 (66.7) | 4 (50.0) | 1.3 (0.6 to 3.1) |
+| Hemodynamic goals achieved within 3 h, No. (%) | 6 (66.7) | 8 (100.0) | 0.7 (0.4 to 1.1) |
+|  |  |  | Median diff* |
+| Length of hospital stay, days | 8.0 (4.0 to 12.0) | 12.5 (9.5 to 14.5) | - 4.5 ( - 9.5 to 2.5) |
+| Total hospital charge, Singapore $ | 11,398 (3,867 to 13,456) | 13,290 (8,338 to 17,828) | - 1,892 ( - 12,323 to 5,119) |
+[/DOCLING_TABLE]
+
+*Median and risk differences were calculated as intervention group -control group.
+
+† Assessment of arterial lactate level after 3 hours was conducted for 6 and 7 patients in the intervention and control groups, respectively.
+
+‡ RR was calculated for intervention group versus control group.
+
+of resuscitation as a method to assess initial response to resuscitation in severe sepsis. 35 We recognize that some patients may require more than 3 hours of initial ED management before improvements can be appreciated.
+
+DISCUSSION
+
+In this open-label randomized controlled study, we report similar outcomes between the intervention group comprising a noninvasive fl uid resuscitation protocol using the noninvasive cardiac output monitor and passive legraising maneuver compared with the control group of usual care according to best practice. This conclusion is in line with those of 3 large multicenter trials that have been published recently concluding that usual care did not perform worse than early goal-directed therapy or protocolbased resuscitation. 7-9 However, we believe usual care in the current era, in which early recognition of a septic patient is coupled with early fl uid resuscitation and antibiotics, has led to signi fi cantly better outcomes, differing greatly from more than a decade ago. 6,36 There is a suggestion that the temporal trend resulting from learning effect and familiarity in managing patients with severe sepsis was re fl ected in more than 70% of the control group ' s achieving greater than 20% lactate clearance at 3 hours compared with local data obtained in 2009 and used for the sample size calculation of this study. This effect likely resulted in no differences in fl uid administration observed between the 2 groups. Therefore, no conclusions about the ef fi cacy or lack of ef fi cacy of using fl uid resuscitation to drive lactate clearance can be made in this study. Nevertheless, the ability to obtain reasonably accurate and, more important, informative trends of hemodynamic parameters within 10 minutes noninvasively appeals to the fast-paced environment of critical care in the ED.
+
+The response to passive leg raising using stroke volume variation and pulse pressure variation has been described in intubated ICU patients. 37-39 However, in our study we chose changes in stroke volume index and cardiac index, measured noninvasively in spontaneously breathing patients because this was more representative of a typical septic ED patient and avoided the well-known complication of invasive monitoring such as infection and limb ischemia. 40 Various studies on the accuracy of the noninvasive cardiac output monitor to detect fl uid responsiveness using passive leg raising have shown positive outcomes. 41-43
+
+Volume 67, no. 3 : March 2016
+
+Annals of Emergency Medicine 375
+
+[DOCLING_PAGE 10]
+
+Emergency Department Management of Sepsis Patients
+
+Kuan et al
+
+Elevation of lactate concentrations in patients recruited may not have been entirely due to the lack of delivery of oxygen to the tissues and organs (type A lactic acidosis). Numerous causes of type B lactic acidosis by underlying diseases (eg, liver cirrhosis), drugs (eg, metformin, b -agonists, salicylates, acetaminophen), and toxins (eg, alcohol) may have led to elevation of lactate concentrations in our study population. 44 In this study, there were 7 patients with liver cirrhosis; 4 (2 in Child-Pugh class A and 2 in class B) in the intervention group and 3 (2 in class A and 1 in class B) in the control group. Aerobic glycolysis to rapidly generate adenosine triphosphate in the hyperdynamic stage of sepsis, stimulation of Na þ -K þ -ATPase activity, and inhibition of mitochondrial activity can also lead to hyperlactatemia. 35,44 Drawbacks in using lactate clearance as a target for resuscitation have been debated, including that as many as 30% of patients with septic shock do not manifest hyperlactatemia, where results of this study would have been irrelevant. 45 Despite this, there is evidence to suggest that lactate clearance and normalization of lactate in the fi rst 6 hours of resuscitation is a good predictor of mortality, although the optimal margin and timing of clearance remain to be elucidated. 46 In this study with a threshold lactate clearance of 20% at 3 hours, mortality was 4.5% compared with 23.5% for patients who did not achieve this threshold.
+
+We sought to answer the question of whether greater precision in optimizing fl uid resuscitation with the use of noninvasive hemodynamic monitors such as the noninvasive cardiac output monitor would result in faster lactate clearance. Apart from MAP, the use of passive leg raising coupled with cardiac output measurements such as stroke volume index in ED resuscitation has yet to be established as ef fi cacious. Our study did not show any bene fi t in terms of our primary or secondary endpoints. Previous and ongoing educational efforts by sepsis champions in the ED to improve sepsis care have likely led to heightened awareness and lower threshold for administering initial fl uid boluses to a septic patient compared with that in the past. 33 One of the measurable key performance indices of our ED is to administer fl uid boluses to patients with severe pneumonia, an effect that may have cascaded to other septic patients. 47 For the broad population of patients with sepsis in the ED, clinical acumen of physicians and adherence to strong, pragmatic, evidence-based practices are suf fi cient in optimization of fl uid resuscitation in the ED. In light of our results, a simpli fi ed protocol incorporating the severe sepsis care bundle can be implemented to include the use of passive leg raising and a noninvasive cardiac output monitor in selected circumstances. Our results on cumulative volume of crystalloids administered (Table 4) have demonstrated greater precision through smaller IQRs in the intervention group. The purpose of a simpli fi ed protocol would be to reduce the heterogeneity in practice among emergency physicians with various levels of experience.
+
+However, the application of the noninvasive cardiac output monitor was particularly useful in the fl uid resuscitation of patients with underlying fl uid overload states such as congestive heart failure and renal failure. Results from this group of patients were consistent with our initial hypothesis that using a noninvasive hemodynamic optimization strategy would result in early lactate clearance, with consequent lower morbidity and mortality. The median lactate clearance and volume of fl uid administered was higher, albeit without any statistical signi fi cance, probably because of the small number of patients, and should be the focus of a larger study. The differences in the amount of fl uid administered and outcomes between these 2 groups in the subgroup analysis likely arose not from the more aggressive fl uid resuscitation in the intervention group but rather the fear of causing overt fl uid overload in the control group, as evidenced by comparing the volume of fl uid administered at 3 hours with that used for the entire cohort. We postulate that the noninvasive cardiac output monitor helped guide the emergency physicians and instill con fi dence in them to be more aggressive with fl uid resuscitation for these patients with congestive heart failure and renal failure. This observation is hypothesis-generating and merits further research for this subgroup.
+
+In conclusion, our main fi ndings were that protocolbased care using a noninvasive cardiac output monitor and passive leg-raising maneuver did not result in any signi fi cant differences in lactate clearance at 3 hours, fl uid administration, mortality, hospital length of stay, and total hospital cost compared with usual care. Future studies involving the subgroup of patients with congestive cardiac failure and renal failure may yield more promising use of the noninvasive cardiac output monitor according to our preliminary results for this subgroup.
+
+376 Annals of Emergency Medicine
+
+Volume 67, no. 3 : March 2016
+
+[DOCLING_PAGE 11]
+
+Kuan et al
+
+Emergency Department Management of Sepsis Patients
+
+Supervising editor: Alan E. Jones, MD
+
+Author af fi liations: From the Emergency Medicine Department, National University Hospital, National University Health System, Singapore and the Department of Surgery, Yong Loo Lin School of Medicine, National University of Singapore, Singapore (Kuan, Ibrahim, Leong, Mahadevan); the Centre for Quantitative Medicine, Duke -NUS Graduate Medicine School, Singapore (Kuan, Jain, Lu, Cheung); the Singapore Clinical Research Institute, Singapore (Lu); and the Department of International Health, University of Tampere, Tampere, Finland (Cheung).
+
+Author contributions: WSK, II, BSHL, YBC, and MM conceived the study, designed the trial, and obtained research funding. WSK, SJ, and QL supervised the conduct of the trial and data collection and managed the data, including quality control. QL and YBC provided statistical advice on study design and analyzed the data. WSK, QL, and MM drafted the article, and all authors contributed substantially to its revision. WSK takes responsibility for the paper as a whole.
+
+Funding and support: By Annals policy, all authors are required to disclose any and all commercial, fi nancial, and other relationships in any way related to the subject of this article as per ICMJE con fl ict of interest guidelines (see www.icmje.org). The authors have stated that no such relationships exist and provided the following details: This work was supported by the National University Health System Clinician Research Grant (FY2011) and the National Medical Research Council New Investigator Grant (NIG11may049) to Dr. Kuan. Dr. Kuan reports receiving grant support from the National Medical Research Council Transition Award. Dr. Lu ' s institution (Singapore Clinical Research Institute) received funding from the National University Health System Clinician Research Grant (FY2011) in statistical analysis and preparation of the article.
+
+Publication dates: Received for publication April 12, 2015. Revisions received June 26, 2015, and August 31, 2015. Accepted for publication September 2, 2015. Available online October 24, 2015.
+
+Clinical trial registration number: NCT01453270
+
+Cheetah Medical did not participate in the design of the study or the decision to submit this article for publication.
+
+REFERENCES
+
+Angus DC, van der Poll T. Severe sepsis and septic shock. N Engl J Med . 2013;369:840-851.
+
+Martin GS. Sepsis, severe sepsis and septic shock: changes in incidence, pathogens and outcomes. Expert Rev Anti Infect Ther . 2012;10:701-706.
+
+Adhikari NK, Fowler RA, Bhagwanjee S, et al. Critical care and the global burden of critical illness in adults. Lancet . 2010;376:1339-1346.
+
+Levy MM, Dellinger RP, Townsend SR, et al. The Surviving Sepsis Campaign: results of an international guideline-based performance improvement program targeting severe sepsis. Crit Care Med . 2010;38:367-374.
+
+Rivers E, Nguyen B, Havstad S, et al. Early goal-directed therapy in the treatment of severe sepsis and septic shock. N Engl J Med . 2001;345: 1368-1377.
+
+Dellinger RP, Levy MM, Rhodes A, et al. Surviving Sepsis Campaign: international guidelines for management of severe sepsis and septic shock: 2012. Crit Care Med . 2013;41:580-637.
+
+Yealy DM, Kellum JA, Huang DT, et al. A randomized trial of protocolbased care for early septic shock. N Engl J Med . 2014;370: 1683-1693.
+
+Peake SL, Delaney A, Bailey M, et al. Goal-directed resuscitation for patients with early septic shock. N Engl J Med . 2014;371:1496-1506.
+
+Mouncey PR, Osborn TM, Power GS, et al. Trial of early, goal-directed resuscitation for septic shock. N Engl J Med . 2015;372:1301-1311.
+
+Jones A, Kline J. Use of goal-directed therapy for severe sepsis shock in academic emergency departments. Crit Care Med . 2005;33: 1888-1889.
+
+Marik PE, Varon J. Early goal-directed therapy: on terminal life support? Am J Emerg Med . 2010;28:243-245.
+
+Marik PE, Baram M, Vahid B. Does central venous pressure predict fl uid responsiveness? a systematic review of the literature and the tale of seven mares. Chest . 2008;134:172-178.
+
+Marik PE, Cavallazzi R. Does the central venous pressure predict fl uid responsiveness? an updated meta-analysis and a plea for some common sense. Crit Care Med . 2013;41:1774-1781.
+
+Ballard DW, Reed ME, Rauchwerger AS, et al. Emergency physician perspectives on central venous catheterization in the emergency department: a survey-based study. Acad Emerg Med . 2014;21: 623-630.
+
+Howell MD, Donnino M, Clardy P, et al. Occult hypoperfusion and mortality in patients with suspected infection. Intensive Care Med . 2007;33:1892-1899.
+
+Mikkelsen ME, Miltiades AN, Gaieski DF, et al. Serum lactate is associated with mortality in severe sepsis independent of organ failure and shock. Crit Care Med . 2009;37:1670-1677.
+
+Zhang Z, Xu X. Lactate clearance is a useful biomarker for the prediction of all-cause mortality in critically ill patients: a systematic review and meta-analysis. Crit Care Med . 2014;42:2118-2125.
+
+Nguyen HB, Kuan WS, Batech M, et al. Outcome effectiveness of the severe sepsis resuscitation bundle with addition of lactate clearance as a bundle item: a multi-national evaluation. Crit Care . 2011;15: R229.
+
+Bakker J, Gris P, Coffernils M, et al. Serial blood lactate levels can predict the development of multiple organ failure following septic shock. Am J Surg . 1996;171:221-226.
+
+Nguyen HB, Rivers EP, Knoblich BP, et al. Early lactate clearance is associated with improved outcome in severe sepsis and septic shock. Crit Care Med . 2004;32:1637-1642.
+
+Arnold RC, Shapiro NI, Jones AE, et al. Multicenter study of early lactate clearance as a determinant of survival in patients with presumed sepsis. Shock . 2009;32:35-39.
+
+Wiedemann HP, Wheeler AP, Bernard GR, et al. Comparison of two fl uid-management strategies in acute lung injury. N Engl J Med . 2006;354:2564-2575.
+
+Melot J, Sebbane M, Dingemans G, et al. Use of indicators of fl uid responsiveness in septic shock: a survey in public emergency departments. Ann Fr Anesth Reanim . 2012;31:583-590.
+
+Squara P, Denjean D, Estagnasie P, et al. Noninvasive cardiac output monitoring (NICOM): a clinical validation. Intensive Care Med . 2007;33:1191-1194.
+
+Raval NY, Squara P, Cleman M, et al. Multicenter evaluation of noninvasive cardiac output measurement by bioreactance technique. J Clin Monit Comput . 2008;22:113-119.
+
+Monnet X, Rienzo M, Osman D, et al. Passive leg raising predicts fl uid responsiveness in the critically ill. Crit Care Med . 2006;34: 1402-1407.
+
+Monnet X, Teboul JL. Passive leg raising. Intensive Care Med . 2008;34:659-663.
+
+Teboul JL, Monnet X. Prediction of volume responsiveness in critically ill patients with spontaneous breathing activity. Curr Opin Crit Care . 2008;14:334-339.
+
+Thiel SW, Kollef MH, Isakow W. Non-invasive stroke volume measurement and passive leg raising predict volume responsiveness
+
+Volume 67, no. 3 : March 2016
+
+Annals of Emergency Medicine 377
+
+[DOCLING_PAGE 12]
+
+Emergency Department Management of Sepsis Patients
+
+Kuan et al
+
+in medical ICU patients: an observational cohort study. Crit Care . 2009;13:R111.
+
+Boulain T, Achard JM, Teboul JL, et al. Changes in BP induced by passive leg raising predict response to fl uid loading in critically ill patients. Chest . 2002;121:1245-1252.
+
+Montiel-Jarquín A, Láscarez-Lagunas I, Sánchez-Gasca C, et al. Lactate clearance is a prognostic factor in patients on shock state. Eur J Gen Med . 2012;9:98-103.
+
+Liu V, Morehouse JW, Soule J, et al. Fluid volume, lactate values, and mortality in sepsis patients with intermediate lactate values. Ann Am Thorac Soc . 2013;10:466-473.
+
+Kuan WS, Mahadevan M, Tan JH, et al. Feasibility of introduction and implementation of the Surviving Sepsis Campaign bundle in a Singapore emergency department. Eur J Emerg Med . 2013;20: 344-349.
+
+Schulz KF, Grimes DA. Sample size calculations in randomised trials: mandatory and mystical. Lancet . 2005;365:1348-1353.
+
+Kraut JA, Madias NE. Lactic acidosis. N Engl J Med . 2014;371: 2309-2319.
+
+Coz Yataco A. Protocol-based care for early septic shock. N Engl J Med . 2014;371:384-385.
+
+Geerts B, de Wilde R, Aarts L, et al. Pulse contour analysis to assess hemodynamic response to passive leg raising. J Cardiothorac Vasc Anesth . 2011;25:48-52.
+
+Préau S, Saulnier F, Dewavrin F, et al. Passive leg raising is predictive of fl uid responsiveness in spontaneously breathing patients with severe sepsis or acute pancreatitis. Crit Care Med . 2010;38:819-825.
+
+Cavallaro F, Sandroni C, Marano C, et al. Diagnostic accuracy of passive leg raising for prediction of fl uid responsiveness in adults: systematic review and meta-analysis of clinical studies. Intensive Care Med . 2010;36:1475-1483.
+
+Belda FJ, Aguilar G, Teboul JL, et al. Complications related to lessinvasive haemodynamic monitoring. Br J Anaesth . 2011;106: 482-486.
+
+Benomar B, Ouattara A, Estagnasie P, et al. Fluid responsiveness predicted by noninvasive bioreactance-based passive leg raise test. Intensive Care Med . 2010;36:1875-1881.
+
+Lamia B, Molano L, Declercq P, et al. Non invasive prediction of volume responsiveness using bioreactance in hemodynamically unstable patients with spontaneously breathing activity. Am J Respir Crit Care Med . 2010;181:A4540.
+
+Duus N, Shogilev DJ, Skibsted S, et al. The reliability and validity of passive leg raise and fl uid bolus to assess fl uid responsiveness in spontaneously breathing emergency department patients. J Crit Care . 2015;30: 217.e1-5.
+
+Vernon C, Letourneau JL. Lactic acidosis: recognition, kinetics, and associated prognosis. Crit Care Clin . 2010;26:255-283.
+
+Jones AE. Lactate clearance for assessing response to resuscitation in severe sepsis. Acad Emerg Med . 2013;20:844-847.
+
+Puskarich MA, Trzeciak S, Shapiro NI, et al. Whole blood lactate kinetics in patients undergoing quantitative resuscitation for severe sepsis and septic shock. Chest . 2013;143:1548-1553.
+
+Lim HF, Phua J, Mukhopadhyay A, et al. IDSA/ATS minor criteria aid preintensive care unit resuscitation in severe community-acquired pneumonia. Eur Respir J . 2014;43:852-862.
+
+eTable of Contents Alerts
+
+Receive the latest developments in emergency medicine via the monthly eTOC.
+
+Request delivery of Annals of Emergency Medicine ' s e-Alerts directly to your e-mail address. This is a fast, easy, and free service to all subscribers. You will receive:
+
+ E-mail noti fi cation of each new issue of Annals of Emergency Medicine , including the posting of each issue on the Annals Web site
+
+ Complete Table of Contents for all new issues, hyperlinked to the Web site.
+
+378 Annals of Emergency Medicine
+
+Volume 67, no. 3 : March 2016
+
+[DOCLING_PAGE 13]
+
+Kuan et al
+
+Emergency Department Management of Sepsis Patients
+
+APPENDIX E1*
+
+*Pictures courtesy of Cheetah Medical.
+
+Figure E1. The Cheetah noninvasive cardiac output monitor.
+
+Figure E2. Placement of noninvasive cardiac output monitor electrodes on the torso.
+
+Volume 67, no. 3 : March 2016
+
+Annals of Emergency Medicine 378.e1
+
+[DOCLING_PAGE 14]
+
+Emergency Department Management of Sepsis Patients
+
+Kuan et al
+
+Figure E3. Hemodynamic parameters obtained before and after the PLR challenge.
+
+378.e2 Annals of Emergency Medicine
+
+Volume 67, no. 3 : March 2016
+
+[DOCLING_PAGE 15]
+
+Kuan et al
+
+Emergency Department Management of Sepsis Patients
+
+APPENDIX E2
+
+Passive leg-raising maneuver
+
+PLR was performed by fi rst placing a patient with noninvasive cardiac output monitoring in a semirecumbent position and obtaining hemodynamic parameters averaged during 3 minutes. Subsequently, the patient was placed with both lower limbs raised passively at least 45 degrees from the horizontal and the torso supine. The hemodynamic parameters obtained in this position were also averaged during the next 3 minutes.
+
+[DOCLING_TABLE rows=12 columns=4]
+| Variable | Intervention (N [ 58) | Control* (N [ 64) | RR (95% CI) † |
+| Pulmonary edema, No. (%) ‡ |  |  |  |
+| Yes | 4 (6.9) | 4 (6.3) | 1.10 (0.29 - 4.21) |
+| No | 54 (93.1) | 60 (93.8) |  |
+| Acute kidney injury, No. (%) § |  |  |  |
+| Yes | 18 (31.0) | 18 (28.1) | 1.10 (0.64 - 1.91) |
+| No | 40 (69.0) | 46 (71.9) |  |
+| Nosocomial infection, No. (%) jj |  |  |  |
+| Yes | 2 (3.4) | 1 (1.6) | 2.21 (0.21 - 23.70) |
+| No | 56 (96.6) | 63 (98.4) |  |
+| Line complications, No. (%) { |  |  |  |
+| No | 58 (100.0) | 64 (100.0) | NA |
+[/DOCLING_TABLE]
+
+REFERENCE
+
+Kidney Disease: Improving Global Outcomes (KDIGO) Acute Kidney Injury Work Group. KDIGO clinical practice guideline for acute kidney injury. Kidney Int Suppl . 2012;2:1-138.
+
+Volume 67, no. 3 : March 2016
+
+Annals of Emergency Medicine 378.e3

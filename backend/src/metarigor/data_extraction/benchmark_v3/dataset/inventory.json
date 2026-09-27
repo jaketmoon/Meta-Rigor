@@ -1,0 +1,1088 @@
+{
+  "schema_version": "3.0.0",
+  "benchmark_id": "metarigor-data-extraction-benchmark-v3",
+  "cases": [
+    {
+      "case_id": "meng-2025",
+      "legacy_case_id": "cardiac-surgery-dexmedetomidine-postoperative-delirium",
+      "legacy_split": "DEVELOPMENT",
+      "wave": "WAVE_0",
+      "disposition": "REVIEW_CASE_CURATED",
+      "review_source_path": "curation-support/review-jats/source.xml",
+      "review_source_sha256": "7dd2f48c60ef11cbda421a4575f707514a8a34f6f74d941103dc2c94e15463a8",
+      "review_source_anchor": "Data from seven clinical trials evaluating the effectiveness and safety of dexmedetomidine in preventing delirium after cardiac surgery in adults.",
+      "analyses": [
+        {
+          "analysis_id": "postoperative-delirium",
+          "label": "Postoperative delirium",
+          "result_type": "BINARY",
+          "support": "REFERENCE_CONFLICT",
+          "blocker": "DECADE primary Table 2 reports 67 vs 46 delirium events under analysis-population headers 398 vs 396 with 9 missing in each arm, while Review Figure 2 reports 9/389 vs 9/387; the frozen benchmark retains this primary-vs-Review conflict.",
+          "target_id": "result.postoperative_delirium",
+          "source_path": "curation-support/review-reference-transcription/source.txt",
+          "source_sha256": "ba26c7394bb6b3b5bd23b74527eef6005dd79ae82705163c51ecac9e27a94205",
+          "source_anchor": "analysis={\"analysis_id\":\"review.postoperative_delirium\",\"source_path\":\"curation-support/review-forest/source.jpg\",\"source_sha256\":\"0fd465bf77283c2ba506eb7511e70cde75d669bb56d76bd3551b3274964b34c0\"}"
+        },
+        {
+          "analysis_id": "icu-length-of-stay",
+          "label": "ICU length of stay",
+          "result_type": "CONTINUOUS",
+          "support": "UNSUPPORTED_METHOD",
+          "blocker": "Primary reports provide median/IQR or median/95% CI, while Review Figure 3 publishes transformed Mean/SD rows; M0 intentionally has no median-to-mean conversion mechanism.",
+          "target_id": "result.icu_length_of_stay",
+          "source_path": "curation-support/review-reference-transcription/source.txt",
+          "source_sha256": "ba26c7394bb6b3b5bd23b74527eef6005dd79ae82705163c51ecac9e27a94205",
+          "source_anchor": "analysis={\"analysis_id\":\"review.icu_length_of_stay\",\"source_path\":\"curation-support/review-forest-icu-stay/source.jpg\",\"source_sha256\":\"baf2b7ddd0b713a7136bc530cb519fa496303036ad3cafefc3cfb97fead3827f\"}"
+        },
+        {
+          "analysis_id": "mortality",
+          "label": "Mortality",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.mortality",
+          "source_path": "curation-support/review-reference-transcription/source.txt",
+          "source_sha256": "ba26c7394bb6b3b5bd23b74527eef6005dd79ae82705163c51ecac9e27a94205",
+          "source_anchor": "analysis={\"analysis_id\":\"review.mortality\",\"source_path\":\"curation-support/review-forest-mortality/source.jpg\",\"source_sha256\":\"3866c742c2755de54171bb058117b0c8a081f947e853967fffde9db2dca31a5c\"}"
+        },
+        {
+          "analysis_id": "bradycardia",
+          "label": "Bradycardia",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.bradycardia",
+          "source_path": "curation-support/review-reference-transcription/source.txt",
+          "source_sha256": "ba26c7394bb6b3b5bd23b74527eef6005dd79ae82705163c51ecac9e27a94205",
+          "source_anchor": "analysis={\"analysis_id\":\"review.bradycardia\",\"source_path\":\"curation-support/review-forest-bradycardia/source.jpg\",\"source_sha256\":\"4595ad68141f931ea3372b905bf4775e30384a5681c7c20b215042d23d0fe9ec\"}"
+        },
+        {
+          "analysis_id": "hypotension",
+          "label": "Hypotension",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.hypotension",
+          "source_path": "curation-support/review-reference-transcription/source.txt",
+          "source_sha256": "ba26c7394bb6b3b5bd23b74527eef6005dd79ae82705163c51ecac9e27a94205",
+          "source_anchor": "analysis={\"analysis_id\":\"review.hypotension\",\"source_path\":\"curation-support/review-forest-hypotension/source.jpg\",\"source_sha256\":\"d0409b00fb0a1cd9ce82d2f48d5d00553624a202a74e7ef79296278ab684ca56\"}"
+        }
+      ],
+      "disposition_reason": "7 Study、5-analysis Review connected component 已完整策展并进入 V3。Likhvantsev、DECADE 与 Wang 全文已进入 candidate inventory；18 个 Binary direct rows、全文 negative evidence、DECADE primary-vs-Review conflict 和 ICU median/interval-to-Mean/SD unsupported method 均作为独立事实保留。",
+      "candidate_request_path": "request.json",
+      "reference_package_path": "reference.json",
+      "checkpoint_path": "checkpoint.json",
+      "review_inventory_sha256": "e263cc1d97cdc544319e23a23d0d52b28f44616d8323da3f8f9317f716606f6e"
+    },
+    {
+      "case_id": "wang-2025",
+      "legacy_case_id": "sepsis-dynamic-fluid-responsiveness-mortality",
+      "legacy_split": "DEVELOPMENT",
+      "wave": "WAVE_1",
+      "disposition": "REVIEW_CASE_CURATED",
+      "review_source_path": "curation-support/review-jats/source.xml",
+      "review_source_sha256": "2d23ec0c1151a62a44633bf51be69356c6e892c5710bcdd56232cd34aad26139",
+      "review_source_anchor": "We included nine eligible RCTs ( n = 698 patients).",
+      "analyses": [
+        {
+          "analysis_id": "mortality-day28-closest",
+          "label": "28-day mortality or closest reported all-cause mortality timepoint",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.mortality.day28_closest",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2d23ec0c1151a62a44633bf51be69356c6e892c5710bcdd56232cd34aad26139",
+          "source_anchor": "We assessed both patient-important and clinical outcomes, including 28-day mortality, ICU mortality, ICU and hospital length of stay, the use and duration of invasive mechanical ventilation (MV) and renal replacement therapy (RRT), as well as the occurence of acute kidney injury (AKI) as defined by each individual study. In addition, we evaluated whether using dynamic measures of fluid responsiveness influenced resuscitative interventions—specifically, the use of vasopressors (e.g., norepinephrine), inotropes (e.g., dobutamine), fluid administration on day 1, and cumulative fluid balance on day 3 following randomization."
+        },
+        {
+          "analysis_id": "icu-mortality",
+          "label": "ICU mortality",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.mortality.icu",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2d23ec0c1151a62a44633bf51be69356c6e892c5710bcdd56232cd34aad26139",
+          "source_anchor": "We assessed both patient-important and clinical outcomes, including 28-day mortality, ICU mortality, ICU and hospital length of stay, the use and duration of invasive mechanical ventilation (MV) and renal replacement therapy (RRT), as well as the occurence of acute kidney injury (AKI) as defined by each individual study. In addition, we evaluated whether using dynamic measures of fluid responsiveness influenced resuscitative interventions—specifically, the use of vasopressors (e.g., norepinephrine), inotropes (e.g., dobutamine), fluid administration on day 1, and cumulative fluid balance on day 3 following randomization."
+        },
+        {
+          "analysis_id": "icu-length-of-stay",
+          "label": "ICU length of stay",
+          "result_type": "CONTINUOUS",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.length_of_stay.icu",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2d23ec0c1151a62a44633bf51be69356c6e892c5710bcdd56232cd34aad26139",
+          "source_anchor": "We assessed both patient-important and clinical outcomes, including 28-day mortality, ICU mortality, ICU and hospital length of stay, the use and duration of invasive mechanical ventilation (MV) and renal replacement therapy (RRT), as well as the occurence of acute kidney injury (AKI) as defined by each individual study. In addition, we evaluated whether using dynamic measures of fluid responsiveness influenced resuscitative interventions—specifically, the use of vasopressors (e.g., norepinephrine), inotropes (e.g., dobutamine), fluid administration on day 1, and cumulative fluid balance on day 3 following randomization."
+        },
+        {
+          "analysis_id": "hospital-length-of-stay",
+          "label": "Hospital length of stay",
+          "result_type": "CONTINUOUS",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.length_of_stay.hospital",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2d23ec0c1151a62a44633bf51be69356c6e892c5710bcdd56232cd34aad26139",
+          "source_anchor": "We assessed both patient-important and clinical outcomes, including 28-day mortality, ICU mortality, ICU and hospital length of stay, the use and duration of invasive mechanical ventilation (MV) and renal replacement therapy (RRT), as well as the occurence of acute kidney injury (AKI) as defined by each individual study. In addition, we evaluated whether using dynamic measures of fluid responsiveness influenced resuscitative interventions—specifically, the use of vasopressors (e.g., norepinephrine), inotropes (e.g., dobutamine), fluid administration on day 1, and cumulative fluid balance on day 3 following randomization."
+        },
+        {
+          "analysis_id": "mechanical-ventilation",
+          "label": "Need for mechanical ventilation",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.mechanical_ventilation.need",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2d23ec0c1151a62a44633bf51be69356c6e892c5710bcdd56232cd34aad26139",
+          "source_anchor": "We assessed both patient-important and clinical outcomes, including 28-day mortality, ICU mortality, ICU and hospital length of stay, the use and duration of invasive mechanical ventilation (MV) and renal replacement therapy (RRT), as well as the occurence of acute kidney injury (AKI) as defined by each individual study. In addition, we evaluated whether using dynamic measures of fluid responsiveness influenced resuscitative interventions—specifically, the use of vasopressors (e.g., norepinephrine), inotropes (e.g., dobutamine), fluid administration on day 1, and cumulative fluid balance on day 3 following randomization."
+        },
+        {
+          "analysis_id": "mechanical-ventilation-duration",
+          "label": "Duration of mechanical ventilation",
+          "result_type": "CONTINUOUS",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.mechanical_ventilation.duration",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2d23ec0c1151a62a44633bf51be69356c6e892c5710bcdd56232cd34aad26139",
+          "source_anchor": "We assessed both patient-important and clinical outcomes, including 28-day mortality, ICU mortality, ICU and hospital length of stay, the use and duration of invasive mechanical ventilation (MV) and renal replacement therapy (RRT), as well as the occurence of acute kidney injury (AKI) as defined by each individual study. In addition, we evaluated whether using dynamic measures of fluid responsiveness influenced resuscitative interventions—specifically, the use of vasopressors (e.g., norepinephrine), inotropes (e.g., dobutamine), fluid administration on day 1, and cumulative fluid balance on day 3 following randomization."
+        },
+        {
+          "analysis_id": "renal-replacement-therapy",
+          "label": "Need for renal replacement therapy",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.renal_replacement_therapy.need",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2d23ec0c1151a62a44633bf51be69356c6e892c5710bcdd56232cd34aad26139",
+          "source_anchor": "We assessed both patient-important and clinical outcomes, including 28-day mortality, ICU mortality, ICU and hospital length of stay, the use and duration of invasive mechanical ventilation (MV) and renal replacement therapy (RRT), as well as the occurence of acute kidney injury (AKI) as defined by each individual study. In addition, we evaluated whether using dynamic measures of fluid responsiveness influenced resuscitative interventions—specifically, the use of vasopressors (e.g., norepinephrine), inotropes (e.g., dobutamine), fluid administration on day 1, and cumulative fluid balance on day 3 following randomization."
+        },
+        {
+          "analysis_id": "renal-replacement-therapy-duration",
+          "label": "Duration of renal replacement therapy",
+          "result_type": "CONTINUOUS",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.renal_replacement_therapy.duration",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2d23ec0c1151a62a44633bf51be69356c6e892c5710bcdd56232cd34aad26139",
+          "source_anchor": "We assessed both patient-important and clinical outcomes, including 28-day mortality, ICU mortality, ICU and hospital length of stay, the use and duration of invasive mechanical ventilation (MV) and renal replacement therapy (RRT), as well as the occurence of acute kidney injury (AKI) as defined by each individual study. In addition, we evaluated whether using dynamic measures of fluid responsiveness influenced resuscitative interventions—specifically, the use of vasopressors (e.g., norepinephrine), inotropes (e.g., dobutamine), fluid administration on day 1, and cumulative fluid balance on day 3 following randomization."
+        },
+        {
+          "analysis_id": "acute-kidney-injury",
+          "label": "Acute kidney injury",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.acute_kidney_injury",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2d23ec0c1151a62a44633bf51be69356c6e892c5710bcdd56232cd34aad26139",
+          "source_anchor": "We assessed both patient-important and clinical outcomes, including 28-day mortality, ICU mortality, ICU and hospital length of stay, the use and duration of invasive mechanical ventilation (MV) and renal replacement therapy (RRT), as well as the occurence of acute kidney injury (AKI) as defined by each individual study. In addition, we evaluated whether using dynamic measures of fluid responsiveness influenced resuscitative interventions—specifically, the use of vasopressors (e.g., norepinephrine), inotropes (e.g., dobutamine), fluid administration on day 1, and cumulative fluid balance on day 3 following randomization."
+        },
+        {
+          "analysis_id": "fluid-volume-day1",
+          "label": "Fluid administered on day 1",
+          "result_type": "CONTINUOUS",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.fluid_volume.day1",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2d23ec0c1151a62a44633bf51be69356c6e892c5710bcdd56232cd34aad26139",
+          "source_anchor": "We assessed both patient-important and clinical outcomes, including 28-day mortality, ICU mortality, ICU and hospital length of stay, the use and duration of invasive mechanical ventilation (MV) and renal replacement therapy (RRT), as well as the occurence of acute kidney injury (AKI) as defined by each individual study. In addition, we evaluated whether using dynamic measures of fluid responsiveness influenced resuscitative interventions—specifically, the use of vasopressors (e.g., norepinephrine), inotropes (e.g., dobutamine), fluid administration on day 1, and cumulative fluid balance on day 3 following randomization."
+        },
+        {
+          "analysis_id": "fluid-balance-day3",
+          "label": "Cumulative fluid balance on day 3",
+          "result_type": "CONTINUOUS",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.fluid_balance.day3",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2d23ec0c1151a62a44633bf51be69356c6e892c5710bcdd56232cd34aad26139",
+          "source_anchor": "We assessed both patient-important and clinical outcomes, including 28-day mortality, ICU mortality, ICU and hospital length of stay, the use and duration of invasive mechanical ventilation (MV) and renal replacement therapy (RRT), as well as the occurence of acute kidney injury (AKI) as defined by each individual study. In addition, we evaluated whether using dynamic measures of fluid responsiveness influenced resuscitative interventions—specifically, the use of vasopressors (e.g., norepinephrine), inotropes (e.g., dobutamine), fluid administration on day 1, and cumulative fluid balance on day 3 following randomization."
+        },
+        {
+          "analysis_id": "vasopressor-use",
+          "label": "Vasopressor administration",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.vasopressor.use",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2d23ec0c1151a62a44633bf51be69356c6e892c5710bcdd56232cd34aad26139",
+          "source_anchor": "We assessed both patient-important and clinical outcomes, including 28-day mortality, ICU mortality, ICU and hospital length of stay, the use and duration of invasive mechanical ventilation (MV) and renal replacement therapy (RRT), as well as the occurence of acute kidney injury (AKI) as defined by each individual study. In addition, we evaluated whether using dynamic measures of fluid responsiveness influenced resuscitative interventions—specifically, the use of vasopressors (e.g., norepinephrine), inotropes (e.g., dobutamine), fluid administration on day 1, and cumulative fluid balance on day 3 following randomization."
+        },
+        {
+          "analysis_id": "inotrope-use",
+          "label": "Inotrope administration",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.inotrope.use",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2d23ec0c1151a62a44633bf51be69356c6e892c5710bcdd56232cd34aad26139",
+          "source_anchor": "We assessed both patient-important and clinical outcomes, including 28-day mortality, ICU mortality, ICU and hospital length of stay, the use and duration of invasive mechanical ventilation (MV) and renal replacement therapy (RRT), as well as the occurence of acute kidney injury (AKI) as defined by each individual study. In addition, we evaluated whether using dynamic measures of fluid responsiveness influenced resuscitative interventions—specifically, the use of vasopressors (e.g., norepinephrine), inotropes (e.g., dobutamine), fluid administration on day 1, and cumulative fluid balance on day 3 following randomization."
+        },
+        {
+          "analysis_id": "vasopressor-duration",
+          "label": "Duration of vasopressor use",
+          "result_type": "CONTINUOUS",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.vasopressor.duration",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2d23ec0c1151a62a44633bf51be69356c6e892c5710bcdd56232cd34aad26139",
+          "source_anchor": "We assessed both patient-important and clinical outcomes, including 28-day mortality, ICU mortality, ICU and hospital length of stay, the use and duration of invasive mechanical ventilation (MV) and renal replacement therapy (RRT), as well as the occurence of acute kidney injury (AKI) as defined by each individual study. In addition, we evaluated whether using dynamic measures of fluid responsiveness influenced resuscitative interventions—specifically, the use of vasopressors (e.g., norepinephrine), inotropes (e.g., dobutamine), fluid administration on day 1, and cumulative fluid balance on day 3 following randomization."
+        },
+        {
+          "analysis_id": "mortality-day90-protocol",
+          "label": "90-day mortality (registered Protocol outcome)",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.mortality.day90",
+          "source_path": "curation-support/prospero-protocol/source.txt",
+          "source_sha256": "b8054183d80d5db3338eae1e642e7ecea572988c79b6128028c4ef76aa065267",
+          "source_anchor": "90 day mortality"
+        },
+        {
+          "analysis_id": "sample-size-conflict",
+          "label": "Review/primary sample-size assertions",
+          "result_type": "OTHER",
+          "support": "REFERENCE_CONFLICT",
+          "blocker": "Review reports nine included RCTs but elsewhere refers to physician-discretion control in 5 of 10 studies; the inconsistency remains visible and is not used as extraction guidance.",
+          "target_id": null,
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2d23ec0c1151a62a44633bf51be69356c6e892c5710bcdd56232cd34aad26139",
+          "source_anchor": "In the control group, patients were most commonly managed using usual care as per the physician’s discretion (5 of 10 studies)."
+        }
+      ],
+      "disposition_reason": "9 Study、10 Report、15 Target 与 135 个 Study×Target cells 已闭合。14 个 Target 来自 published Review Methods，90-day mortality 来自注册 Protocol；Lin 与 MORESS 摘要按用户裁决作为充分来源，Juneja 与 Li 补充材料已纳入。这里的 complete 表示 DE inventory/cell/source closure；median/IQR→mean/SD 的 Review 统计转换仍是当前 DE schema 外的确定性转换层限制。",
+      "candidate_request_path": "request.json",
+      "reference_package_path": "reference.json",
+      "checkpoint_path": "checkpoint.json",
+      "review_inventory_sha256": "eb09d732888232a603a79f16b9b15b991abf812d68d5245fd46456b3c49e5ea5"
+    },
+    {
+      "case_id": "turalde-mapili-2023",
+      "legacy_case_id": "nirsevimab-infant-rsv-lrti-150d",
+      "legacy_split": "REGRESSION",
+      "wave": "WAVE_1",
+      "disposition": "REVIEW_CASE_CURATED",
+      "review_source_path": "curation-support/review-frontiers/source.xml",
+      "review_source_sha256": "b648d80007dae6928bc0fedcdb4273314cb871938e073dc3ebd77eddad95dc7f",
+      "review_source_anchor": "medically attended RSV-related infection (RR: 0.26; 95% CI: 0.18–0.38)",
+      "analyses": [
+        {
+          "analysis_id": "rsv-lrti",
+          "label": "Medically attended RSV-associated LRTI",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.ma_rsv_lrti",
+          "source_path": "curation-support/review-reference-transcription/source.txt",
+          "source_sha256": "cb32bf936c7f13b6284a155e323e3b8293c33707021fc5891e12fb8e121c52dd",
+          "source_anchor": "analysis={\"analysis_id\":\"review.ma_rsv_lrti.day150\",\"source_path\":\"curation-support/review-forest/source.webp\",\"source_sha256\":\"cb81b6414e494d3194c62c704f1563c7a3f8a657e838c7f607cee94ac36db4ce\"}"
+        },
+        {
+          "analysis_id": "hospitalization",
+          "label": "Hospitalization for RSV-associated LRTI",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.rsv_hospitalization",
+          "source_path": "curation-support/review-reference-transcription/source.txt",
+          "source_sha256": "cb32bf936c7f13b6284a155e323e3b8293c33707021fc5891e12fb8e121c52dd",
+          "source_anchor": "analysis={\"analysis_id\":\"review.rsv_hospitalization.day150\",\"source_path\":\"curation-support/review-forest/source.webp\",\"source_sha256\":\"cb81b6414e494d3194c62c704f1563c7a3f8a657e838c7f607cee94ac36db4ce\"}"
+        },
+        {
+          "analysis_id": "adverse-events-leading-to-death",
+          "label": "Adverse events leading to death",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.adverse_events_leading_to_death",
+          "source_path": "curation-support/review-reference-transcription/source.txt",
+          "source_sha256": "cb32bf936c7f13b6284a155e323e3b8293c33707021fc5891e12fb8e121c52dd",
+          "source_anchor": "analysis={\"analysis_id\":\"review.adverse_events_leading_to_death\",\"source_path\":\"curation-support/review-forest/source.webp\",\"source_sha256\":\"cb81b6414e494d3194c62c704f1563c7a3f8a657e838c7f607cee94ac36db4ce\"}"
+        },
+        {
+          "analysis_id": "adverse-events-special-interest",
+          "label": "Adverse events of special interest",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.adverse_events_special_interest",
+          "source_path": "curation-support/review-reference-transcription/source.txt",
+          "source_sha256": "cb32bf936c7f13b6284a155e323e3b8293c33707021fc5891e12fb8e121c52dd",
+          "source_anchor": "analysis={\"analysis_id\":\"review.adverse_events_special_interest\",\"source_path\":\"curation-support/review-forest/source.webp\",\"source_sha256\":\"cb81b6414e494d3194c62c704f1563c7a3f8a657e838c7f607cee94ac36db4ce\"}"
+        }
+      ],
+      "disposition_reason": "2 Study、4-analysis Figure 2 connected component 已完整策展并进入 V3。两篇 publisher full text 直接闭合 8 条 Binary rows；Trial 03/MELODY safety denominators、AESI definition、Review 的 OR/fixed 与 protocol RR/random deviations均作为来源绑定事实保留。",
+      "candidate_request_path": "request.json",
+      "reference_package_path": "reference.json",
+      "checkpoint_path": "checkpoint.json",
+      "review_inventory_sha256": "10f450034c9c05d2e8ddf50d72a2da2ddfcbbf4588b2bd2d2c2fb931476d640c"
+    },
+    {
+      "case_id": "zhong-2022",
+      "legacy_case_id": "bronchiolitis-hfnc-nippv-treatment-failure",
+      "legacy_split": "DEVELOPMENT",
+      "wave": "WAVE_0",
+      "disposition": "REVIEW_CASE_CURATED",
+      "review_source_path": "curation-support/bronchiolitis-review/source.xml",
+      "review_source_sha256": "7eb623961c92595f8df8f9486155a1ea9f825b40714cd385712bdae2e189814d",
+      "review_source_anchor": "Primary endpoints include the rate of treatment failure, the rate of need for intubation, and the pediatric intensive care unit (PICU) length of stay.",
+      "analyses": [
+        {
+          "analysis_id": "treatment-failure",
+          "label": "Treatment failure",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.treatment_failure",
+          "source_path": "curation-support/bronchiolitis-review/source.xml",
+          "source_sha256": "7eb623961c92595f8df8f9486155a1ea9f825b40714cd385712bdae2e189814d",
+          "source_anchor": "All five studies ( 23 – 27 ) involving 541 cases reported the rate of treatment failure. Compared to the NIPPV group, the rate of treatment failure was significantly higher in the HFNC treatment group ( I 2 = 0.0%, P = 0.574; RR 1.523, 95% CI 1.205 to 1.924, P < 0.001) ( Figure 3 )."
+        },
+        {
+          "analysis_id": "intubation",
+          "label": "Intubation",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.intubation",
+          "source_path": "curation-support/bronchiolitis-review/source.xml",
+          "source_sha256": "7eb623961c92595f8df8f9486155a1ea9f825b40714cd385712bdae2e189814d",
+          "source_anchor": "Four trials ( 23 , 25 – 27 ) reported the intubation rate, including 491 cases. Compared to the NIPPV group, the HFNC therapy showed no benefits on the incidence of intubation ( I 2 = 0.0%, P = 0.431; RR 0.874, 95% CI 0.598 to 1.276, P = 0.485) ( Figure 4 )."
+        },
+        {
+          "analysis_id": "picu-length-of-stay",
+          "label": "PICU length of stay",
+          "result_type": "CONTINUOUS",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.picu_length_of_stay",
+          "source_path": "curation-support/bronchiolitis-review/source.xml",
+          "source_sha256": "7eb623961c92595f8df8f9486155a1ea9f825b40714cd385712bdae2e189814d",
+          "source_anchor": "Four RCTs ( 23 , 25 – 27 ) presented the outcome of PICU stay length. The results demonstrated no significant difference between the HFNC group and the NIPPV approach ( I 2 = 0.0%, P = 0.568; WMD = –0.097, 95% CI = –0.480 to 0.285, P = 0.618) ( Figure 5 )."
+        }
+      ],
+      "disposition_reason": "Cardiac Wave 0 的 Continuous rows 需要 M0 禁止的 median-to-mean conversion；按计划 fallback 条款改用本 case 完成首个 Binary+Continuous contract validation，并保留 primary-source 与 Review forest conflict。",
+      "candidate_request_path": "request.json",
+      "reference_package_path": "reference.json",
+      "checkpoint_path": "checkpoint.json",
+      "review_inventory_sha256": "f68857f5446f8dcfc6f9d836ba81c91dd033eeb46d2246a838fb4c5cbfebb736"
+    },
+    {
+      "case_id": "song-2025",
+      "legacy_case_id": "song-2025-early-avr-mortality",
+      "legacy_split": "DEVELOPMENT",
+      "wave": "WAVE_2",
+      "disposition": "REVIEW_CASE_CURATED",
+      "review_source_path": "curation-support/review-xml/source.xml",
+      "review_source_sha256": "f91b272fdf3bb15738c34079b479a30195721817334b1c24aa3dba347602b3c9",
+      "review_source_anchor": "Early Aortic Valve Replacement of Asymptomatic Severe Aortic Stenosis",
+      "analyses": [
+        {
+          "analysis_id": "primary-composite",
+          "label": "Primary composite cardiovascular outcome",
+          "result_type": "BINARY",
+          "support": "REFERENCE_CONFLICT",
+          "blocker": "Review Figure 2 sums component event counts rather than using trial-reported time-to-first-event participant counts；四个 primary-composite cell 继续保留为可读 reference conflict，但移出 Binary exact-match 与 field-accuracy 分母。",
+          "target_id": "result.primary_composite.longest_followup",
+          "source_path": "curation-support/review-xml/source.xml",
+          "source_sha256": "f91b272fdf3bb15738c34079b479a30195721817334b1c24aa3dba347602b3c9",
+          "source_anchor": "primary composite outcome of all‐cause mortality"
+        },
+        {
+          "analysis_id": "all-cause-mortality",
+          "label": "All-cause mortality",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.all_cause_mortality.longest_followup",
+          "source_path": "curation-support/review-xml/source.xml",
+          "source_sha256": "f91b272fdf3bb15738c34079b479a30195721817334b1c24aa3dba347602b3c9",
+          "source_anchor": "All included trials reported data on"
+        },
+        {
+          "analysis_id": "cardiovascular-hospitalization",
+          "label": "Cardiovascular hospitalization",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.cardiovascular_hospitalization.longest_followup",
+          "source_path": "curation-support/review-xml/source.xml",
+          "source_sha256": "f91b272fdf3bb15738c34079b479a30195721817334b1c24aa3dba347602b3c9",
+          "source_anchor": "cardiovascular hospitalization, and stroke"
+        },
+        {
+          "analysis_id": "stroke",
+          "label": "Stroke",
+          "result_type": "BINARY",
+          "support": "SOURCE_GATED",
+          "blocker": "RECOVERY、AVATAR long-term 与 EARLY TAVR 有 direct rows；EVOLVED supplement 只有 30 日围术期 stroke 1/113 vs 4/111，仍不能证明 Review 长期随访 8/113 vs 14/111。",
+          "target_id": "result.stroke.longest_followup",
+          "source_path": "curation-support/review-xml/source.xml",
+          "source_sha256": "f91b272fdf3bb15738c34079b479a30195721817334b1c24aa3dba347602b3c9",
+          "source_anchor": "cardiovascular hospitalization, and stroke"
+        },
+        {
+          "analysis_id": "cardiac-mortality",
+          "label": "Cardiac-specific mortality",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.cardiac_specific_mortality.longest_followup",
+          "source_path": "curation-support/review-xml/source.xml",
+          "source_sha256": "f91b272fdf3bb15738c34079b479a30195721817334b1c24aa3dba347602b3c9",
+          "source_anchor": "cardiac‐specific mortality (8.3% versus 16%"
+        },
+        {
+          "analysis_id": "myocardial-infarction",
+          "label": "Myocardial infarction",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.myocardial_infarction.longest_followup",
+          "source_path": "curation-support/review-xml/source.xml",
+          "source_sha256": "f91b272fdf3bb15738c34079b479a30195721817334b1c24aa3dba347602b3c9",
+          "source_anchor": "and myocardial infarction. We expressed outcome data"
+        }
+      ],
+      "disposition_reason": "六项 Review analysis 均已进入获批 Protocol、reference 与 V3 checkpoint；最长 eligible follow-up 是预先固定的跨 Report 选择规则。16 个无 reference conflict 的 Binary cell 进入 exact-match 分母；四个 primary-composite cell 保持可读但不计 exact-match，EVOLVED 长期 stroke/MI 缺口继续保留。",
+      "candidate_request_path": "request.json",
+      "reference_package_path": "reference.json",
+      "checkpoint_path": "checkpoint.json",
+      "review_inventory_sha256": "c4fc01a7daadbfbdb05da66c706bca91cd31cc897a2049dbf738c78f7baeb41b"
+    },
+    {
+      "case_id": "lin-2025",
+      "legacy_case_id": "lin-2025-tesla-functional-independence",
+      "legacy_split": "DEVELOPMENT",
+      "wave": "CHALLENGE",
+      "disposition": "CURATION_IN_PROGRESS",
+      "review_source_path": "curation-support/review-jats/source.xml",
+      "review_source_sha256": "997817882180246fae4522e30c6364c93b621803310b9be8b8d9d702a4562cb5",
+      "review_source_anchor": "For the primary outcome of functional independence (mRS score of 0 to 2) at 90 days post-stroke, pooled results from the random-effects model showed that EVT plus medical care, compared with medical care alone, was associated with a higher proportion of patients achieving functional independence",
+      "analyses": [
+        {
+          "analysis_id": "functional-independence",
+          "label": "Functional independence (mRS 0–2) at 90 days",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.functional_independence.mrs_0_2.day90",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "997817882180246fae4522e30c6364c93b621803310b9be8b8d9d702a4562cb5",
+          "source_anchor": "For the primary outcome of functional independence (mRS score of 0 to 2) at 90 days post-stroke, pooled results from the random-effects model showed that EVT plus medical care, compared with medical care alone, was associated with a higher proportion of patients achieving functional independence"
+        },
+        {
+          "analysis_id": "ambulation",
+          "label": "Ambulation (mRS 0–3) at 90 days",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.ambulation.mrs_0_3.day90",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "997817882180246fae4522e30c6364c93b621803310b9be8b8d9d702a4562cb5",
+          "source_anchor": "For the secondary outcome of ambulation (mRS score of 0 to 3) at 90 days post-stroke"
+        },
+        {
+          "analysis_id": "nondisabled",
+          "label": "Nondisabled (mRS 0–1) at 90 days",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.nondisabled.mrs_0_1.day90",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "997817882180246fae4522e30c6364c93b621803310b9be8b8d9d702a4562cb5",
+          "source_anchor": "For the secondary outcome of being nondisabled (mRS score of 0–1) at 90 days post-stroke"
+        },
+        {
+          "analysis_id": "early-neurologic-improvement",
+          "label": "Early neurologic improvement",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.early_neurologic_improvement",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "997817882180246fae4522e30c6364c93b621803310b9be8b8d9d702a4562cb5",
+          "source_anchor": "For the secondary outcome of early neurologic improvement, the definition varied across the included trials."
+        },
+        {
+          "analysis_id": "constant-care-or-death",
+          "label": "Requiring constant care or death (mRS 5–6) at 90 days",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.constant_care_or_death.mrs_5_6.day90",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "997817882180246fae4522e30c6364c93b621803310b9be8b8d9d702a4562cb5",
+          "source_anchor": "For the first safety outcome of requiring constant care or death at 90 days post-stroke (mRS score of 5 to 6)"
+        },
+        {
+          "analysis_id": "death",
+          "label": "Death within 90 days",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.death.day90",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "997817882180246fae4522e30c6364c93b621803310b9be8b8d9d702a4562cb5",
+          "source_anchor": "For the second safety outcome of death within 90 days post-stroke"
+        },
+        {
+          "analysis_id": "early-sich",
+          "label": "Early symptomatic intracranial hemorrhage",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.early_symptomatic_intracranial_hemorrhage",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "997817882180246fae4522e30c6364c93b621803310b9be8b8d9d702a4562cb5",
+          "source_anchor": "For the third safety outcome, early symptomatic intracranial hemorrhage, the definition varied across the included trials."
+        },
+        {
+          "analysis_id": "imaging-modality-subgroup",
+          "label": "Functional independence by imaging-selection modality",
+          "result_type": "BINARY",
+          "support": "SOURCE_GATED",
+          "blocker": "Supplemental Figure 2 是 Statistical Synthesis 的 subgroup 分组事实，不是新的 Data Extraction Result Target。"
+        },
+        {
+          "analysis_id": "functional-independence-leave-one-out",
+          "label": "Functional independence leave-one-trial-out sensitivity",
+          "result_type": "OTHER",
+          "support": "SOURCE_GATED",
+          "blocker": "Review Table 3 publishes a Statistical Synthesis leave-one-out result; it is not a Data Extraction Result Target."
+        },
+        {
+          "analysis_id": "ambulation-leave-one-out",
+          "label": "Ambulation leave-one-trial-out sensitivity",
+          "result_type": "OTHER",
+          "support": "SOURCE_GATED",
+          "blocker": "Review Table 3 publishes a Statistical Synthesis leave-one-out result; it is not a Data Extraction Result Target."
+        },
+        {
+          "analysis_id": "nondisabled-leave-one-out",
+          "label": "Nondisabled outcome leave-one-trial-out sensitivity",
+          "result_type": "OTHER",
+          "support": "SOURCE_GATED",
+          "blocker": "Review Table 3 publishes a Statistical Synthesis leave-one-out result; it is not a Data Extraction Result Target."
+        },
+        {
+          "analysis_id": "early-neurologic-improvement-leave-one-out",
+          "label": "Early neurologic improvement leave-one-trial-out sensitivity",
+          "result_type": "OTHER",
+          "support": "SOURCE_GATED",
+          "blocker": "Review Table 3 publishes a Statistical Synthesis leave-one-out result; it is not a Data Extraction Result Target."
+        },
+        {
+          "analysis_id": "constant-care-death-leave-one-out",
+          "label": "Constant care or death leave-one-trial-out sensitivity",
+          "result_type": "OTHER",
+          "support": "SOURCE_GATED",
+          "blocker": "Review Table 4 publishes a Statistical Synthesis leave-one-out result; it is not a Data Extraction Result Target."
+        },
+        {
+          "analysis_id": "death-leave-one-out",
+          "label": "Death leave-one-trial-out sensitivity",
+          "result_type": "OTHER",
+          "support": "SOURCE_GATED",
+          "blocker": "Review Table 4 publishes a Statistical Synthesis leave-one-out result; it is not a Data Extraction Result Target."
+        },
+        {
+          "analysis_id": "early-sich-leave-one-out",
+          "label": "Early symptomatic intracranial hemorrhage leave-one-trial-out sensitivity",
+          "result_type": "OTHER",
+          "support": "SOURCE_GATED",
+          "blocker": "Review Table 4 publishes a Statistical Synthesis leave-one-out result; it is not a Data Extraction Result Target."
+        },
+        {
+          "analysis_id": "ordinal-mrs",
+          "label": "Reduced disability by ordinal mRS shift",
+          "result_type": "ORDINAL_GIV",
+          "support": "UNSUPPORTED_METHOD",
+          "blocker": "Figure 4 使用 common OR over full mRS distribution；M0 无 ordinal/GIV result schema。"
+        }
+      ],
+      "disposition_reason": "Review Methods 的 7 个 Binary outcome 已闭合为 7 Targets 与 42 Study×Target cells；TENSION 公开 supplementary appendix 已绑定，early neurologic improvement 为可核验 NOT_REPORTED。Imaging subgroup 与 leave-one-out 属 Statistical Synthesis，不扩展为 DE Target。整篇仍为 CURATION_IN_PROGRESS，因 ordinal mRS common-OR 尚无 M0 ordinal/GIV result schema。Primary report 与 Review supplement 的数值差异仅记录在 curation log，不写入 Protocol。",
+      "candidate_request_path": "request.json",
+      "reference_package_path": "reference.json",
+      "checkpoint_path": "checkpoint.json",
+      "review_inventory_sha256": "d2e2ac16e4d8bec8f676ea08f43967503aabf80fc9b9c881dd0a2180014f90e3"
+    },
+    {
+      "case_id": "malhotra-2025",
+      "legacy_case_id": "malhotra-2025-apixaban-reduced-dose-extended-vte",
+      "legacy_split": "DEVELOPMENT",
+      "wave": "WAVE_2",
+      "disposition": "REVIEW_CASE_CURATED",
+      "review_source_path": "curation-support/review-jats/source.xml",
+      "review_source_sha256": "2bd1cb3d58fbbb3a50af4eb8f8cf346f531c8dfee21e114af4e398f39b1942fe",
+      "review_source_anchor": "Two randomized trials comprising 2,126 patients",
+      "analyses": [
+        {
+          "analysis_id": "recurrent-vte-or-bleeding.month12",
+          "label": "Recurrent venous thromboembolism or bleeding composite",
+          "result_type": "BINARY",
+          "support": "REFERENCE_CONFLICT",
+          "blocker": "Review Table 3 sums component event counts rather than reporting a participant-level composite in either trial.",
+          "target_id": "result.recurrent_vte_or_bleeding.month12",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2bd1cb3d58fbbb3a50af4eb8f8cf346f531c8dfee21e114af4e398f39b1942fe",
+          "source_anchor": "Clinical outcomes included the composite of recurrent VTE and major bleeding, the composite of major and clinically relevant non-major bleeding (CRNMB), and each outcome individually (DVT, PE, and all-cause mortality)."
+        },
+        {
+          "analysis_id": "major-or-crnmb.month12",
+          "label": "Major or clinically relevant nonmajor bleeding",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.major_or_crnmb.month12",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2bd1cb3d58fbbb3a50af4eb8f8cf346f531c8dfee21e114af4e398f39b1942fe",
+          "source_anchor": "Clinical outcomes included the composite of recurrent VTE and major bleeding, the composite of major and clinically relevant non-major bleeding (CRNMB), and each outcome individually (DVT, PE, and all-cause mortality)."
+        },
+        {
+          "analysis_id": "recurrent-vte.month12",
+          "label": "Recurrent venous thromboembolism",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.recurrent_vte.month12",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2bd1cb3d58fbbb3a50af4eb8f8cf346f531c8dfee21e114af4e398f39b1942fe",
+          "source_anchor": "Clinical outcomes included the composite of recurrent VTE and major bleeding, the composite of major and clinically relevant non-major bleeding (CRNMB), and each outcome individually (DVT, PE, and all-cause mortality)."
+        },
+        {
+          "analysis_id": "deep-vein-thrombosis.month12",
+          "label": "Deep-vein thrombosis",
+          "result_type": "BINARY",
+          "support": "REFERENCE_CONFLICT",
+          "blocker": "The Review mixes lower-extremity-only and lower-plus-upper-extremity DVT components across trials.",
+          "target_id": "result.deep_vein_thrombosis.month12",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2bd1cb3d58fbbb3a50af4eb8f8cf346f531c8dfee21e114af4e398f39b1942fe",
+          "source_anchor": "Clinical outcomes included the composite of recurrent VTE and major bleeding, the composite of major and clinically relevant non-major bleeding (CRNMB), and each outcome individually (DVT, PE, and all-cause mortality)."
+        },
+        {
+          "analysis_id": "pulmonary-embolism.month12",
+          "label": "Pulmonary embolism",
+          "result_type": "BINARY",
+          "support": "REFERENCE_CONFLICT",
+          "blocker": "The Review labels a generic PE target but uses symptomatic-only events for API-CAT while the primary report separately reports incidental PE.",
+          "target_id": "result.pulmonary_embolism.month12",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2bd1cb3d58fbbb3a50af4eb8f8cf346f531c8dfee21e114af4e398f39b1942fe",
+          "source_anchor": "Clinical outcomes included the composite of recurrent VTE and major bleeding, the composite of major and clinically relevant non-major bleeding (CRNMB), and each outcome individually (DVT, PE, and all-cause mortality)."
+        },
+        {
+          "analysis_id": "major-bleeding.month12",
+          "label": "Major bleeding",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.major_bleeding.month12",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2bd1cb3d58fbbb3a50af4eb8f8cf346f531c8dfee21e114af4e398f39b1942fe",
+          "source_anchor": "Clinical outcomes included the composite of recurrent VTE and major bleeding, the composite of major and clinically relevant non-major bleeding (CRNMB), and each outcome individually (DVT, PE, and all-cause mortality)."
+        },
+        {
+          "analysis_id": "crnmb.month12",
+          "label": "Clinically relevant nonmajor bleeding",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.crnmb.month12",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2bd1cb3d58fbbb3a50af4eb8f8cf346f531c8dfee21e114af4e398f39b1942fe",
+          "source_anchor": "Clinical outcomes included the composite of recurrent VTE and major bleeding, the composite of major and clinically relevant non-major bleeding (CRNMB), and each outcome individually (DVT, PE, and all-cause mortality)."
+        },
+        {
+          "analysis_id": "all-cause-mortality.month12",
+          "label": "All-cause mortality",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.all_cause_mortality.month12",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "2bd1cb3d58fbbb3a50af4eb8f8cf346f531c8dfee21e114af4e398f39b1942fe",
+          "source_anchor": "Clinical outcomes included the composite of recurrent VTE and major bleeding, the composite of major and clinically relevant non-major bleeding (CRNMB), and each outcome individually (DVT, PE, and all-cause mortality)."
+        }
+      ],
+      "disposition_reason": "Two-study connected component is source-closed. Direct primary rows are scoreable; the arithmetic composite and inconsistent DVT mapping are retained as explicit reference conflicts.",
+      "candidate_request_path": "request.json",
+      "reference_package_path": "reference.json",
+      "checkpoint_path": "checkpoint.json",
+      "review_inventory_sha256": "2171b65d2d23d170eb8ac2f27ff5978b54030a754941fc86b2004df1e6e5ae61"
+    },
+    {
+      "case_id": "balbaa-2025",
+      "legacy_case_id": "balbaa-2025-nonfasting-cardiac-procedures",
+      "legacy_split": "DEVELOPMENT",
+      "wave": "CHALLENGE",
+      "disposition": "REFERENCE_CONFLICT",
+      "review_source_path": "curation-support/review-jats/source.xml",
+      "review_source_sha256": "52720af599d41e71bebe448c7b34322c926e6ee057a2728846175cd16bb9cb2c",
+      "review_source_anchor": "Five RCTs with 2034 patients were included",
+      "analyses": [
+        {
+          "analysis_id": "composite-satisfaction",
+          "label": "Composite satisfaction score",
+          "result_type": "CONTINUOUS",
+          "support": "UNSUPPORTED_METHOD",
+          "blocker": "Atkinson reports median/IQR and the Review does not disclose its conversion to Mean/SD.",
+          "target_id": "result.composite_satisfaction",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "52720af599d41e71bebe448c7b34322c926e6ee057a2728846175cd16bb9cb2c",
+          "source_anchor": "the primary outcome was the composite satisfaction score"
+        },
+        {
+          "analysis_id": "hunger",
+          "label": "Hunger score",
+          "result_type": "CONTINUOUS",
+          "support": "UNSUPPORTED_METHOD",
+          "blocker": "Atkinson reports median/IQR and the Review does not disclose its conversion to Mean/SD.",
+          "target_id": "result.hunger",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "52720af599d41e71bebe448c7b34322c926e6ee057a2728846175cd16bb9cb2c",
+          "source_anchor": "secondary outcomes included hunger, thirst, anxiety, tiredness/fatigue"
+        },
+        {
+          "analysis_id": "thirst",
+          "label": "Thirst score",
+          "result_type": "CONTINUOUS",
+          "support": "UNSUPPORTED_METHOD",
+          "blocker": "Atkinson reports median/IQR and the Review does not disclose its conversion to Mean/SD.",
+          "target_id": "result.thirst",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "52720af599d41e71bebe448c7b34322c926e6ee057a2728846175cd16bb9cb2c",
+          "source_anchor": "secondary outcomes included hunger, thirst, anxiety, tiredness/fatigue"
+        },
+        {
+          "analysis_id": "anxiety",
+          "label": "Anxiety score",
+          "result_type": "CONTINUOUS",
+          "support": "UNSUPPORTED_METHOD",
+          "blocker": "Atkinson reports median/IQR and the Review does not disclose its conversion to Mean/SD.",
+          "target_id": "result.anxiety",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "52720af599d41e71bebe448c7b34322c926e6ee057a2728846175cd16bb9cb2c",
+          "source_anchor": "secondary outcomes included hunger, thirst, anxiety, tiredness/fatigue"
+        },
+        {
+          "analysis_id": "tiredness-fatigue",
+          "label": "Tiredness or fatigue score",
+          "result_type": "CONTINUOUS",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.tiredness_fatigue",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "52720af599d41e71bebe448c7b34322c926e6ee057a2728846175cd16bb9cb2c",
+          "source_anchor": "secondary outcomes included hunger, thirst, anxiety, tiredness/fatigue"
+        },
+        {
+          "analysis_id": "aspiration",
+          "label": "Intraoperative or postoperative aspiration",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.aspiration",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "52720af599d41e71bebe448c7b34322c926e6ee057a2728846175cd16bb9cb2c",
+          "source_anchor": "intra/postop aspiration, postprocedural pneumonia, emergency endotracheal intubation, nausea/vomiting, anti-emetic use, hypoglycemia"
+        },
+        {
+          "analysis_id": "pneumonia",
+          "label": "Postprocedural pneumonia",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.pneumonia",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "52720af599d41e71bebe448c7b34322c926e6ee057a2728846175cd16bb9cb2c",
+          "source_anchor": "intra/postop aspiration, postprocedural pneumonia, emergency endotracheal intubation, nausea/vomiting, anti-emetic use, hypoglycemia"
+        },
+        {
+          "analysis_id": "emergency-intubation",
+          "label": "Emergency endotracheal intubation",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.emergency_intubation",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "52720af599d41e71bebe448c7b34322c926e6ee057a2728846175cd16bb9cb2c",
+          "source_anchor": "intra/postop aspiration, postprocedural pneumonia, emergency endotracheal intubation, nausea/vomiting, anti-emetic use, hypoglycemia"
+        },
+        {
+          "analysis_id": "nausea-vomiting",
+          "label": "Nausea or vomiting",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.nausea_vomiting",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "52720af599d41e71bebe448c7b34322c926e6ee057a2728846175cd16bb9cb2c",
+          "source_anchor": "intra/postop aspiration, postprocedural pneumonia, emergency endotracheal intubation, nausea/vomiting, anti-emetic use, hypoglycemia"
+        },
+        {
+          "analysis_id": "antiemetic-use",
+          "label": "Anti-emetic use",
+          "result_type": "BINARY",
+          "support": "REFERENCE_CONFLICT",
+          "blocker": "TONIC supplement reports 3/365 vs 9/374 whereas the Review reports 2/365 vs 9/374.",
+          "target_id": "result.antiemetic_use",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "52720af599d41e71bebe448c7b34322c926e6ee057a2728846175cd16bb9cb2c",
+          "source_anchor": "intra/postop aspiration, postprocedural pneumonia, emergency endotracheal intubation, nausea/vomiting, anti-emetic use, hypoglycemia"
+        },
+        {
+          "analysis_id": "hypoglycemia",
+          "label": "Hypoglycemia",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.hypoglycemia",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "52720af599d41e71bebe448c7b34322c926e6ee057a2728846175cd16bb9cb2c",
+          "source_anchor": "intra/postop aspiration, postprocedural pneumonia, emergency endotracheal intubation, nausea/vomiting, anti-emetic use, hypoglycemia"
+        },
+        {
+          "analysis_id": "intraoperative-fluid",
+          "label": "Intraoperative fluid provision",
+          "result_type": "BINARY",
+          "support": "REFERENCE_CONFLICT",
+          "blocker": "Review forest values and denominators conflict with TONIC supplement and a SCOFF post-randomization subgroup.",
+          "target_id": "result.intraoperative_fluid",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "52720af599d41e71bebe448c7b34322c926e6ee057a2728846175cd16bb9cb2c",
+          "source_anchor": "intraoperative fluid provision, contrast-induced acute kidney injury (AKI), need for inotrope/vasopressor therapy, and need for ventilation"
+        },
+        {
+          "analysis_id": "contrast-induced-aki",
+          "label": "Contrast-induced acute kidney injury",
+          "result_type": "BINARY",
+          "support": "REFERENCE_CONFLICT",
+          "blocker": "The Review mislabels Atkinson total-contrast records as AKI.",
+          "target_id": "result.contrast_induced_aki",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "52720af599d41e71bebe448c7b34322c926e6ee057a2728846175cd16bb9cb2c",
+          "source_anchor": "intraoperative fluid provision, contrast-induced acute kidney injury (AKI), need for inotrope/vasopressor therapy, and need for ventilation"
+        },
+        {
+          "analysis_id": "inotrope-vasopressor",
+          "label": "Inotrope or vasopressor therapy",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.inotrope_vasopressor",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "52720af599d41e71bebe448c7b34322c926e6ee057a2728846175cd16bb9cb2c",
+          "source_anchor": "intraoperative fluid provision, contrast-induced acute kidney injury (AKI), need for inotrope/vasopressor therapy, and need for ventilation"
+        },
+        {
+          "analysis_id": "ventilation",
+          "label": "Ventilation requirement",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.ventilation",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "52720af599d41e71bebe448c7b34322c926e6ee057a2728846175cd16bb9cb2c",
+          "source_anchor": "intraoperative fluid provision, contrast-induced acute kidney injury (AKI), need for inotrope/vasopressor therapy, and need for ventilation"
+        }
+      ],
+      "disposition_reason": "All five Study identities are closed and primary-source rows are rebuilt where directly supported. The Review contains undisclosed continuous transformations and several semantic/numeric row conflicts, so this is retained as a conflict/abstention challenge rather than ordinary high-quality gold.",
+      "candidate_request_path": "request.json",
+      "reference_package_path": "reference.json",
+      "checkpoint_path": "checkpoint.json",
+      "review_inventory_sha256": "c39c040f1ebee5edcf232b293c92f9e71a3592c7c679540e08abbd762941b63c"
+    },
+    {
+      "case_id": "sun-2024",
+      "legacy_case_id": "sun-2024-nirs-cardiac-surgery-delirium",
+      "legacy_split": "DEVELOPMENT",
+      "wave": "WAVE_2",
+      "disposition": "REVIEW_CASE_CURATED",
+      "review_source_path": "curation-support/review-jats/source.xml",
+      "review_source_sha256": "ef48b8b934d7a86041216334eb1d494fabfabdd63827d45a221f78b3f8b8bf0c",
+      "review_source_anchor": "The primary outcome was postoperative delirium",
+      "analyses": [
+        {
+          "analysis_id": "postoperative-delirium",
+          "label": "Postoperative delirium",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.postoperative_delirium",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "ef48b8b934d7a86041216334eb1d494fabfabdd63827d45a221f78b3f8b8bf0c",
+          "source_anchor": "The primary outcome was postoperative delirium"
+        },
+        {
+          "analysis_id": "icu-length-of-stay",
+          "label": "Intensive care unit length of stay",
+          "result_type": "CONTINUOUS",
+          "support": "UNSUPPORTED_METHOD",
+          "blocker": "Three trials report only median/interval summaries and the Review does not disclose a reproducible conversion to Mean/SD.",
+          "target_id": "result.icu_length_of_stay",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "ef48b8b934d7a86041216334eb1d494fabfabdd63827d45a221f78b3f8b8bf0c",
+          "source_anchor": "the second outcomes included the length of ICU stay"
+        },
+        {
+          "analysis_id": "kidney-related-adverse-outcome",
+          "label": "Kidney-related adverse outcome",
+          "result_type": "BINARY",
+          "support": "REFERENCE_CONFLICT",
+          "blocker": "The Review mixes haemodialysis, renal failure and acute kidney injury and selectively omits a reported dialysis outcome.",
+          "target_id": "result.kidney_related_adverse_outcome",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "ef48b8b934d7a86041216334eb1d494fabfabdd63827d45a221f78b3f8b8bf0c",
+          "source_anchor": "the incidence of kidney-related adverse outcomes"
+        },
+        {
+          "analysis_id": "cardiac-related-adverse-outcome",
+          "label": "Cardiac-related adverse outcome",
+          "result_type": "BINARY",
+          "support": "REFERENCE_CONFLICT",
+          "blocker": "The accessible Methods do not operationally define the cardiac endpoint and the Colak forest row conflicts with exact registry results.",
+          "target_id": "result.cardiac_related_adverse_outcome",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "ef48b8b934d7a86041216334eb1d494fabfabdd63827d45a221f78b3f8b8bf0c",
+          "source_anchor": "the incidence of cardiac-related adverse outcomes"
+        }
+      ],
+      "disposition_reason": "All five Study identities and candidate primary documents are closed. POD and two direct ICU Mean/SD rows are scoreable; unsupported transformations and ambiguous organ endpoints require abstention.",
+      "candidate_request_path": "request.json",
+      "reference_package_path": "reference.json",
+      "checkpoint_path": "checkpoint.json",
+      "review_inventory_sha256": "ea131dcd0f48452bf5e8afa85296e966e8d32cf646b8d7e317ca06a9b5e70541"
+    },
+    {
+      "case_id": "qazi-2026",
+      "legacy_case_id": "qazi-2026-extended-window-tenecteplase",
+      "legacy_split": "DEVELOPMENT",
+      "wave": "CHALLENGE",
+      "disposition": "REFERENCE_CONFLICT",
+      "review_source_path": "curation-support/review-jats/source.xml",
+      "review_source_sha256": "422882262a40f09f6010d37258adc1bb7ba7ab25ed417740f7b5b06dd80798f6",
+      "review_source_anchor": "Five trials including 1844 patients were analyzed",
+      "analyses": [
+        {
+          "analysis_id": "mrs-0-1.day90",
+          "label": "Excellent functional outcome",
+          "result_type": "BINARY",
+          "support": "REFERENCE_CONFLICT",
+          "blocker": "The Review reports OPTION control 92/284, whereas the primary abstract reports 97/284.",
+          "target_id": "result.mrs_0_1.day90",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "422882262a40f09f6010d37258adc1bb7ba7ab25ed417740f7b5b06dd80798f6",
+          "source_anchor": "The primary outcome was excellent functional outcome (mRS 0–1) at 90 days."
+        },
+        {
+          "analysis_id": "mrs-0-2.day90",
+          "label": "Good functional outcome",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.mrs_0_2.day90",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "422882262a40f09f6010d37258adc1bb7ba7ab25ed417740f7b5b06dd80798f6",
+          "source_anchor": "Secondary outcomes were good functional outcome (mRS 0–2), recanalization, early neurological improvement, symptomatic intracranial hemorrhage, and 90-day mortality."
+        },
+        {
+          "analysis_id": "recanalization",
+          "label": "Successful recanalization or reperfusion",
+          "result_type": "BINARY",
+          "support": "REFERENCE_CONFLICT",
+          "blocker": "Review Figure 5 duplicates ENI/MNI rows under a recanalization label and omits directly reported TIMELESS recanalization.",
+          "target_id": "result.recanalization",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "422882262a40f09f6010d37258adc1bb7ba7ab25ed417740f7b5b06dd80798f6",
+          "source_anchor": "recanalization or reperfusion, as defined by the individual trials"
+        },
+        {
+          "analysis_id": "early-neurological-improvement",
+          "label": "Early neurological improvement",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.early_neurological_improvement",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "422882262a40f09f6010d37258adc1bb7ba7ab25ed417740f7b5b06dd80798f6",
+          "source_anchor": "early neurological improvement, generally assessed by NIHSS change within 24–72 h"
+        },
+        {
+          "analysis_id": "sich",
+          "label": "Symptomatic intracranial hemorrhage",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.sich",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "422882262a40f09f6010d37258adc1bb7ba7ab25ed417740f7b5b06dd80798f6",
+          "source_anchor": "Safety outcomes included symptomatic intracranial hemorrhage, 90-day mortality, and moderate or severe systemic bleeding."
+        },
+        {
+          "analysis_id": "moderate-severe-systemic-bleeding",
+          "label": "Moderate or severe systemic bleeding",
+          "result_type": "BINARY",
+          "support": "REFERENCE_CONFLICT",
+          "blocker": "The Review figure caption is mislabeled and OPTION exact values are not closed by the accessible primary abstract.",
+          "target_id": "result.moderate_severe_systemic_bleeding",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "422882262a40f09f6010d37258adc1bb7ba7ab25ed417740f7b5b06dd80798f6",
+          "source_anchor": "Safety outcomes included symptomatic intracranial hemorrhage, 90-day mortality, and moderate or severe systemic bleeding."
+        },
+        {
+          "analysis_id": "all-cause-mortality.day90",
+          "label": "All-cause mortality",
+          "result_type": "BINARY",
+          "support": "M0_CORE",
+          "blocker": null,
+          "target_id": "result.all_cause_mortality.day90",
+          "source_path": "curation-support/review-jats/source.xml",
+          "source_sha256": "422882262a40f09f6010d37258adc1bb7ba7ab25ed417740f7b5b06dd80798f6",
+          "source_anchor": "Safety outcomes included symptomatic intracranial hemorrhage, 90-day mortality, and moderate or severe systemic bleeding."
+        }
+      ],
+      "disposition_reason": "Study identities and primary sources are closed enough for a known-corrupt-review challenge, but the Review misbinds ENI as recanalization and conflicts with OPTION primary results. Primary-source DE cells remain explicit; ambiguous rows require abstention.",
+      "candidate_request_path": "request.json",
+      "reference_package_path": "reference.json",
+      "checkpoint_path": "checkpoint.json",
+      "review_inventory_sha256": "0ee9cfdab5c65a387eb3abc4abd453bd34e2ce5c63624ac4207c045c995c8b53"
+    },
+    {
+      "case_id": "wang-2023",
+      "legacy_case_id": "bimekizumab-plaque-psoriasis-pasi90-week16",
+      "legacy_split": "DEVELOPMENT",
+      "wave": "WAVE_2",
+      "disposition": "CURATION_IN_PROGRESS",
+      "review_source_path": "curation-support/review/source.xml",
+      "review_source_sha256": "f1aad2538d49ba2845e1bb1d97b24df9ffbb77cfcde8e33a881303dedcd99e9d",
+      "review_source_anchor": null,
+      "analyses": [
+        {
+          "analysis_id": "review-analysis-inventory",
+          "label": "Bimekizumab PASI90 week-16 Review analysis inventory",
+          "result_type": "OTHER",
+          "support": "SOURCE_GATED",
+          "blocker": "Review source 已取得，但逐行 forest/补充数据尚未固定；BE READY、BE VIVID、BE ABLE 1 仍只有摘要，无法形成完整 primary-source 与 Review analysis 闭包。"
+        }
+      ],
+      "disposition_reason": "已纳入 V3 candidate inventory。当前保留 5 个 Study 与既有 V2 source component，但尚未生成可运行的 V3 request/reference/checkpoint；待补齐 primary full text 与 Review analysis transcription 后再进入默认 live 集合。",
+      "candidate_request_path": null,
+      "reference_package_path": null,
+      "checkpoint_path": null,
+      "review_inventory_sha256": "d495a0400bc35e3ae5cddfb9066012c548f2948b9d5f05398edda1ca788dcc10"
+    }
+  ]
+}

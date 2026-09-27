@@ -1,0 +1,1 @@
+{"case_id":"qazi-2026","files":[{"path":"task.md","sha256":"e54de06a4b4a0a431faa278a89bc842eae20be09a052a59f423fcbdbe43667b6"},{"path":"writer-input.json","sha256":"731d5a91d0fc8cfda270bc3d791c727e343f921a17e6a31ffca0c55307ca48d8"}],"input_scope":"CLEAN_ABLATION_WRITER_INPUT","schema_version":"ms-clean-cli-input.v1"}

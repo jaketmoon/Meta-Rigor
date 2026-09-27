@@ -1,0 +1,522 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04516993",
+      "orgStudyIdInfo": {
+        "id": "SHDC2020CR1041B"
+      },
+      "organization": {
+        "fullName": "Huashan Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "CHinese Acute Tissue-Based Imaging Selection for Lysis In Stroke -Tenecteplase II",
+      "officialTitle": "Prospective, Multicenter, Open, End-point Blinded, Stratified Block Randomized, Parallel Positive Controlled Clinical Trial of Tenecteplase in Acute Ischemic Stroke With Large Vessel Occlusion Over Time Window",
+      "acronym": "CHABLIS-T II"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2023-11",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-09-28",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-09-30",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2023-09-30",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-08-14",
+      "studyFirstSubmitQcDate": "2020-08-17",
+      "studyFirstPostDateStruct": {
+        "date": "2020-08-18",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2023-11-24",
+      "lastUpdatePostDateStruct": {
+        "date": "2023-11-29",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Qiang Dong",
+        "investigatorTitle": "Director of Neurology Department",
+        "investigatorAffiliation": "Huashan Hospital"
+      },
+      "leadSponsor": {
+        "name": "Huashan Hospital",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Puer People's Hospital",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "Shanghai 6th People's Hospital",
+          "class": "OTHER"
+        },
+        {
+          "name": "Hexigten Traditional Chinese and Mongolian Medicine Hospital",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "Yangpu Hospital, School of Medicine, Tongji University",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "The First Affiliated Hospital of Shanxi Medical University",
+          "class": "OTHER"
+        },
+        {
+          "name": "Seventh People's Hospital of Shanghai University of Traditional Chinese Medicine",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "Linyi People's Hospital",
+          "class": "OTHER"
+        },
+        {
+          "name": "Shanghai 10th People's Hospital",
+          "class": "OTHER"
+        },
+        {
+          "name": "Nanyang Nanshi Hospital",
+          "class": "OTHER"
+        },
+        {
+          "name": "Fudan University",
+          "class": "OTHER"
+        },
+        {
+          "name": "Xuzhou Medical University Affiliated Hospital of Huaian",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "Shuguang Hospital Affiliated to Shanghai University of Traditional Chinese Medicine",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "The First Affiliated Hospital of Soochow University",
+          "class": "OTHER"
+        },
+        {
+          "name": "Affiliated Haian People's Hospital of Nantong University",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "First Affiliated Hospital of Harbin Medical University",
+          "class": "OTHER"
+        },
+        {
+          "name": "the Third Hospital of Mianyang",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "Zhejiang Province People's Hospital",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "Shanghai East Hospital",
+          "class": "OTHER"
+        },
+        {
+          "name": "The Central Hospital of Jiaozuo Coal Group",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "Huizhou Municipal Central Hospital",
+          "class": "OTHER"
+        },
+        {
+          "name": "Zhejiang University",
+          "class": "OTHER"
+        },
+        {
+          "name": "The Second Affiliated Hospital of Chongqing Medical University",
+          "class": "OTHER"
+        },
+        {
+          "name": "Ningbo No. 1 Hospital",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "To explore the efficacy and safety of tenecteplase for acute ischemic stroke patients (onset time 4.5-24h) of large vessel occlusion using early combined CT/MR imaging outcomes"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Stroke"
+      ],
+      "keywords": [
+        "acute ischemic stroke",
+        "large vessel occlusion",
+        "thrombolysis",
+        "tenecteplase",
+        "dosage",
+        "computed tomography",
+        "magnetic resonance imaging",
+        "diffusion weighted imaging",
+        "early combined imaging outcomes",
+        "modified Rankin scale",
+        "time window beyond 4.5 hours"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 224,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Tenecteplase arm",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: Tenecteplase"
+          ]
+        },
+        {
+          "label": "Best treatment arm (e.g. Aspirin, Recombinant Tissue Plasminogen Activator, Urokinase, Thrombectomy)",
+          "type": "OTHER",
+          "description": "The best treatment selected by local doctors",
+          "interventionNames": [
+            "Drug: The best treatment selected by local doctors(Aspirin, Recombinant Tissue Plasminogen Activator, Urokinase, Thrombectomy)"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Tenecteplase",
+          "description": "Intravenous (IV) tenecteplase 0.25 mg/kg (single bolus; maximum dose 25 mg)",
+          "armGroupLabels": [
+            "Tenecteplase arm"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "The best treatment selected by local doctors(Aspirin, Recombinant Tissue Plasminogen Activator, Urokinase, Thrombectomy)",
+          "description": "Best treatment arm",
+          "armGroupLabels": [
+            "Best treatment arm (e.g. Aspirin, Recombinant Tissue Plasminogen Activator, Urokinase, Thrombectomy)"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "patients without endovascular therapy obtained >50% reperfusion at 4-6 hours",
+          "description": "Without endovascular therapy: \\>50% reperfusion on computed tomography perfusion (CTP) at 4-6 hours",
+          "timeFrame": "4-6 hours"
+        },
+        {
+          "measure": "patients with endovascular therapy: mTICI score 2b or better at initial angiogram",
+          "description": "With endovascular therapy: mTICI score 2b or better at initial angiogram after thrombolysis before endovascular therapy",
+          "timeFrame": "Before endovascular therapy"
+        },
+        {
+          "measure": "no symptomatic intracranial hemorrhage at 24-36 hours",
+          "description": "No symptomatic intracranial hemorrhage at 24-36 hours",
+          "timeFrame": "24-36 hours"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Imaging efficacy outcome: recanalization rate on CT/magnetic resonance angiography",
+          "description": "Recanalization rate on CTA/MRA at 4-6 hours",
+          "timeFrame": "4-6 hours"
+        },
+        {
+          "measure": "Imaging efficacy outcome: Infarct volume growth (ml) at 3-5 days on MRI or CT perfusion",
+          "description": "Infarct volume growth (ml) at 3-5 days on MRI or CT perfusion",
+          "timeFrame": "3-5 days"
+        },
+        {
+          "measure": "Clinical efficacy outcome: NIHSS change",
+          "description": "NIHSS change at 24 hours (plus or minus 2 hours)",
+          "timeFrame": "24 hours (plus or minus 2 hours)"
+        },
+        {
+          "measure": "Clinical efficacy outcome: percent of excellent functional outcome (modified Rankin scale 0-1) at 90 days (plus or minus 7 days)",
+          "description": "percent of excellent functional outcome (modified Rankin scale 0-1) at 90 days (plus or minus 7 days)",
+          "timeFrame": "90 days (plus or minus 7 days)"
+        },
+        {
+          "measure": "Clinical efficacy outcome: percent of good functional outcome (modified Rankin scale 0-2) at 90 days (plus or minus 7 days)",
+          "description": "percent of good functional outcome (modified Rankin scale 0-2) at 90 days (plus or minus 7 days)",
+          "timeFrame": "90 days (plus or minus 7 days)"
+        },
+        {
+          "measure": "Clinical efficacy outcome: incident event",
+          "description": "Incident vascular event within 90 days (ischemic stroke/ hemorrhagic stroke/ cardiac infarct/ cardiac or brain revascularization (including Carotid Endarterectomy, Intracranial and Extracranial Artery Intervention, Intracranial and extracranial artery bypass, and Coronary artery intervention or bypass graft))",
+          "timeFrame": "90 days (plus or minus 7 days)"
+        },
+        {
+          "measure": "Imaging safety outcome: Intracranial hemorrhage of any volume at 24-36 hours",
+          "description": "Intracranial hemorrhage of any volume at 24-36 hours",
+          "timeFrame": "24-36 hours"
+        },
+        {
+          "measure": "Imaging safety outcome: parenchymal hematoma 2 at 24-36 hours",
+          "description": "Parenchymal hematoma 2 at 24-36 hours",
+          "timeFrame": "24-36 hours"
+        },
+        {
+          "measure": "Imaging safety outcome: Symptomatic intracranial hemorrhage at 24-36 hours",
+          "description": "Symptomatic intracranial hemorrhage at 24-36 hours",
+          "timeFrame": "24-36 hours"
+        },
+        {
+          "measure": "Clinical safety outcome: death within 90 days",
+          "description": "Death within 90 days (plus or minus 7 days)",
+          "timeFrame": "90 days (plus or minus 7 days)"
+        },
+        {
+          "measure": "Clinical safety outcome: Rate of systemic bleeding",
+          "description": "Rate of systemic bleeding within 90 days (plus or minus 7 days)",
+          "timeFrame": "90 days (plus or minus 7 days)"
+        },
+        {
+          "measure": "Barthel index",
+          "description": "Barthel index at 90 days (plus or minus 7 days). The Barthel Index is a scale that indicates the ability to perform a selection of activities of daily living. It comprises 10 items (tasks), with total scores ranging from 0 (worst mobility in activities of daily living) to 100 (full mobility in activities of daily living) and it has adequate clinimetric (quality of clinical measurements) properties in stroke rehabilitation. In the index, the 10 items have these scoring combinations: a) 0 and 5, b) 0, 5 and 10, or c) 0, 5, 10 and 15. These items in the Barthel Index address a patient's ability in feeding, bathing, grooming, dressing, bowel and bladder control, toileting, chair transfer, ambulation and stair climbing.",
+          "timeFrame": "90 days (plus or minus 7 days)"
+        },
+        {
+          "measure": "Imaging efficacy outcome: patients without endovascular therapy obtained >50% reperfusion at 4-6 hours",
+          "description": "Without endovascular therapy: \\>50% reperfusion on computed tomography perfusion (CTP) at 4-6 hours without Parenchymal hematoma 2",
+          "timeFrame": "4-6 hours"
+        },
+        {
+          "measure": "Imaging efficacy outcome: patients with endovascular therapy: mTICI score 2b or better at initial angiogram",
+          "description": "With endovascular therapy: mTICI score 2b or better at initial angiogram after thrombolysis before endovascular therapy Parenchymal hematoma 2",
+          "timeFrame": "Before endovascular therapy"
+        },
+        {
+          "measure": "Imaging efficacy outcome: recanalization rate on CT/magnetic resonance angiography at 3-5 days",
+          "description": "Recanalization rate on CTA/MRA at 3-5 days",
+          "timeFrame": "3-5 days"
+        },
+        {
+          "measure": "Clinical efficacy outcome: NIHSS change at 7 days",
+          "description": "NIHSS change at 7 days (plus or minus 2 days)",
+          "timeFrame": "7 days (plus or minus 2 days)"
+        },
+        {
+          "measure": "Clinical efficacy outcome: vascular death within 90 days",
+          "description": "Vascular death within 90 days (plus or minus 7 days) (stroke, cardiac infarct, pulmonary embolism)",
+          "timeFrame": "90 days (plus or minus 7 days)"
+        },
+        {
+          "measure": "Clinical efficacy outcome: major neurological improvement at 24-36 hours ( NIHSS reduction ≥8 or return to 0-1)major neurological improvement at 24-36 hours ( NIHSS reduction ≥8 or return to 0-1)",
+          "description": "Major neurological improvement at 24-36 hours ( NIHSS reduction \\>8 or return to 0-1)",
+          "timeFrame": "24-36 hours"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patients presenting with anterior circulation acute ischaemic stroke\n2. Time from onset to treatment 4.5h-24h\n3. Patient's age is \\>= 18 years，\\<= 80\n4. Pre-stroke mRS score of \\<= 2\n5. Clinically significant acute neurologic deficit\n6. Baseline National Institute of Health stroke scale \\>= 6\n7. Vessel occlusion or severe stenosis ( ICA, MCA-M1/M2, ACA) on computed tomography angiography (CTA)/MRA\n8. Multimodal CT/magnetic resonance imaging: perfusion lesion volume (DT \\> 3 s) to infarct core volume ratio (rCBF\\<30% or diffusion-weighted imaging lesion) \\>1.2, absolute difference \\>10 ml, and ischemic core volume \\<70ml\n9. Informed consent was obtained from patients.\n\nExclusion Criteria:\n\n1. Intracranial hemorrhage or subarachnoid hemorrhage identified by CT or MRI\n2. Rapidly improving symptoms (patient with an NIHSS score decrease to \\< 4 at randomization)\n3. Pre-stroke mRS score of \\> 2\n4. Contraindication to imaging with CT/magnetic resonance imaging with contrast agents\n5. Infarct core \\>1/3 middle cerebral artery (MCA) territory\n6. Platelet count \\< 100x10\\^9/L\n7. Symptoms were caused by low blood glucose \\< 2.7 mmol/l\n8. Severe uncontrolled hypertension, i.e. systolic blood pressure \\>= 180 mmHg or diastolic blood pressure \\>=100 mmHg\n9. Current use of warfarin with a prolonged prothrombin time (INR \\> 1.7 or prothrombin time \\> 15s)\n10. Use of low molecular weight heparin within 24 hours\n11. Use of non-vitamin K antagonist oral anticoagulants (NOACs) within 48 hours\n12. Use of glycoprotein IIb - IIIa inhibitors within 72 hours.\n13. Arterial puncture at noncompressible site in previous 7 days\n14. Major surgery in previous 14 days which poses risk in the opinion of the investigator\n15. Recent gastrointestinal or urinary tract hemorrhage (within previous 21 days)\n16. Significant head trauma or prior stroke in previous 3 months\n17. History of previous intracranial hemorrhage, intracranial neoplasm, arteriovenous malformation, or aneurysm. Risks were considered by the investigator\n18. Hereditary or acquired haemorrhagic diathesis\n19. Active internal bleeding\n20. Symptoms suggestive or recent acute pancreatitis, active gastrointestinal ulcer\n21. Severe liver disease, including liver failure, cirrhosis, portal hypertension and active hepatitis\n22. Pregnancy or lactation\n23. Various dying diseases with life expectancy ≤3 months\n24. Other conditions in which doctors believe that participating in this study may be harmful to the patient\n25. Patients participated in any trial in 30 days\n26. Allergic to the test drug and its ingredients",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "80 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Huashan Hospital",
+          "city": "Shanghai",
+          "state": "Shanghai Municipality",
+          "zip": "200040",
+          "country": "China",
+          "geoPoint": {
+            "lat": 31.22222,
+            "lon": 121.45806
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "41446320",
+          "type": "DERIVED",
+          "citation": "Liu X, Hong L, Zhao G, He Z, Wang X, Zhu J, Li S, Zhang A, Cao N, Ling Y, Chen X, Guo Y, Fang Q, Wang Z, Dong Q, Cheng X. Regional perfusion parameters as potential indicators of parenchymal hematoma risk following reperfusion therapy for acute ischemic stroke in the extended time window. Ther Adv Neurol Disord. 2025 Dec 21;18:17562864251406032. doi: 10.1177/17562864251406032. eCollection 2025."
+        },
+        {
+          "pmid": "40497495",
+          "type": "DERIVED",
+          "citation": "Hong L, Zhu J, He Z, Wang X, Li S, Liu X, Ling Y, Yang L, Fang Q, Dong Q, Cheng X; CHABLIS-T Investigators. Effect of Time Delay on Reperfusion After Tenecteplase in an Extended Time Window: Analysis From the CHABLIS-T Trials. J Am Heart Assoc. 2025 Jun 17;14(12):e040994. doi: 10.1161/JAHA.124.040994. Epub 2025 Jun 11."
+        },
+        {
+          "pmid": "39744861",
+          "type": "DERIVED",
+          "citation": "Cheng X, Hong L, Lin L, Churilov L, Ling Y, Yang N, Fu J, Lu G, Yue Y, Zhang J, Wang F, Wang Z, Zhao Y, Zhou X, Peng Z, Wu D, Zhao L, Zhai Q, Yu X, Fang Q, Shao X, Tang Y, Zhang D, Geng Y, Zhang Y, Fan B, Zhang B, Yin C, Chen Y, Zhang Y, Liu X, Li S, Yang L, Parsons M, Dong Q; CHABLIS-T II Collaborators. Tenecteplase Thrombolysis for Stroke up to 24 Hours After Onset With Perfusion Imaging Selection: The CHABLIS-T II Randomized Clinical Trial. Stroke. 2025 Feb;56(2):344-354. doi: 10.1161/STROKEAHA.124.048375. Epub 2025 Jan 2."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-08-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D020521",
+          "term": "Stroke"
+        },
+        {
+          "id": "D000083242",
+          "term": "Ischemic Stroke"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000077785",
+          "term": "Tenecteplase"
+        },
+        {
+          "id": "D010959",
+          "term": "Tissue Plasminogen Activator"
+        },
+        {
+          "id": "D014568",
+          "term": "Urokinase-Type Plasminogen Activator"
+        },
+        {
+          "id": "D017131",
+          "term": "Thrombectomy"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D012697",
+          "term": "Serine Endopeptidases"
+        },
+        {
+          "id": "D010450",
+          "term": "Endopeptidases"
+        },
+        {
+          "id": "D010447",
+          "term": "Peptide Hydrolases"
+        },
+        {
+          "id": "D006867",
+          "term": "Hydrolases"
+        },
+        {
+          "id": "D004798",
+          "term": "Enzymes"
+        },
+        {
+          "id": "D045762",
+          "term": "Enzymes and Coenzymes"
+        },
+        {
+          "id": "D057057",
+          "term": "Serine Proteases"
+        },
+        {
+          "id": "D010960",
+          "term": "Plasminogen Activators"
+        },
+        {
+          "id": "D001779",
+          "term": "Blood Coagulation Factors"
+        },
+        {
+          "id": "D001798",
+          "term": "Blood Proteins"
+        },
+        {
+          "id": "D011506",
+          "term": "Proteins"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D001685",
+          "term": "Biological Factors"
+        },
+        {
+          "id": "D014656",
+          "term": "Vascular Surgical Procedures"
+        },
+        {
+          "id": "D013504",
+          "term": "Cardiovascular Surgical Procedures"
+        },
+        {
+          "id": "D013514",
+          "term": "Surgical Procedures, Operative"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

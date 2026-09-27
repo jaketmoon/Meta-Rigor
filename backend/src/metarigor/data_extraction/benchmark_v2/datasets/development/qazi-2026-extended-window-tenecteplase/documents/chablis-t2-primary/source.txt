@@ -1,0 +1,728 @@
+[[PAGE 1]]
+Stroke
+CLINICAL TRIAL
+Tenecteplase Thrombolysis for Stroke up to
+24 Hours After Onset With Perfusion Imaging
+Selection: The CHABLIS-T II Randomized
+Clinical Trial
+Xin Cheng , MD, PhD; Lan Hong , MD, PhD; Longting Lin , PhD; Leonid Churilov , PhD; Yifeng Ling , MD; Nan Yang, BS;
+Jianliang Fu , MD, PhD; Guozhi Lu, MD; Yunhua Yue, MD; Jin Zhang , MD; Feng Wang , MD; Ziran Wang, MD;
+Yanxin Zhao, MD, PhD; Xiaoyu Zhou , MD; Zhaolong Peng, MD; Danhong Wu , MD, PhD; Liandong Zhao , MD;
+Qijin Zhai , MD; Xiaofei Yu , MD, PhD; Qi Fang , MD; Xiangzhong Shao, MD; Ying Tang, MD, PhD; Diwen Zhang , MD;
+Yu Geng , MD, PhD; Yue Zhang, MD; Bosheng Fan, MD; Bing Zhang, MD; Congguo Yin, MD; Yangmei Chen , MD, PhD;
+Yiran Zhang , MD, MPhil; Xinyu Liu, MD; Siyuan Li , MD; Lumeng Yang, MD; Mark Parsons , MD, PhD;
+Qiang Dong , MD, PhD; on behalf of the CHABLIS-T II Collaborators*
+BACKGROUND: Whether it is effective and safe to extend the time window of intravenous thrombolysis up to 24 hours after the
+last known well is unknown. We aimed to determine the efficacy and safety of tenecteplase in Chinese patients with acute
+ischemic stroke due to large/medium vessel occlusion within an extended time window.
+METHODS: Patients with ischemic stroke presenting 4.5 to 24 hours from the last known well, with a favorable penumbral
+profile and an associated large/medium vessel occlusion, were randomized 1:1 to either 0.25 mg/kg tenecteplase or the
+best medical treatment. A favorable penumbral profile was defined as a hypoperfusion lesion volume to infarct core volume
+ratio >1.2, with an absolute volume difference >10 mL, and an ischemic core volume <70 mL. The primary outcome was the
+achievement of major reperfusion without symptomatic intracranial hemorrhage within 24 to 48 hours post-randomization.
+Major reperfusion was defined as the restoration of blood flow of >50% of the involved ischemic territory. Secondary
+outcomes included recanalization, infarct growth, major neurological improvements, change in the National Institutes of
+Health Stroke Scale score, hemorrhagic transformation within 24 to 48 hours, systemic bleeding at discharge, and modified
+Rankin Scale (score 0–1, score 0–2, score 5–6, and modified Rankin Scale distribution) at 90 days. The comparison of the
+primary outcome between groups was conducted using modified Poisson regression with a log-link function and robust error
+variance, adjusted for time from the last known well to randomization, the site of vessel occlusion, and planned endovascular
+treatment.
+RESULTS: Among 224 enrolled patients, 111 were assigned to receive tenecteplase and 113 to receive the best medical
+treatment (including 23% [n=26] of participants who received intravenous tissue-type plasminogen activator). The mean
+(SD) age of the tenecteplase group and the best medical treatment group was 64.2 (10.4) and 63.6 (11.0) years old, with
+72.1% (n=80) and 70.8% (n=80) male enrolled, respectively. A proportion of 54.9% (n=123) of patients were transferred
+to the catheter room for preplanned endovascular treatment. The primary outcome occurred in 33.3% (n=37) of the
+tenecteplase group versus 10.8% (n=12) in the best medical treatment group (adjusted relative risk, 3.0 [95% CI, 1.6–5.7];
+P=0.001). Tenecteplase significantly increased the recanalization rate compared with the best medical treatment (35.8%
+[n=39] versus 14.3% [n=16], adjusted relative risk, 2.5 [95% CI, 1.4–4.4]; P=0.002). There were no significant differences
+in clinical efficacy outcomes or rates of hemorrhagic transformation between the groups.
+Correspondence to: Qiang Dong, MD, PhD, Department of Neurology, Huashan Hospital Fudan University, 12 Wulumuqi Zhong Rd, Shanghai 200040, China. Email
+qiang_dong163@163.com
+*A list of all CHABLIS-T II Collaborators is given in the Supplemental Material.
+Supplemental Material is available at https://www.ahajournals.org/doi/suppl/10.1161/STROKEAHA.124.048375.
+For Sources of Funding and Disclosures, see page 353.
+© 2025 American Heart Association, Inc.
+Stroke is available at www.ahajournals.org/journal/str
+344 February 2025 Stroke. 2025;56:344–354. DOI: 10.1161/STROKEAHA.124.048375
+Downloaded
+from
+http://ahajournals.org
+by
+on
+August
+26,
+2026
+
+[[PAGE 2]]
+CLINICAL
+TRIAL
+Cheng et al The CHABLIS-T II Randomized Clinical Trial
+CONCLUSIONS: Administered at a dose of 0.25 mg/kg intravenously, tenecteplase increased reperfusion without symptomatic
+intracranial hemorrhage in patients with ischemic stroke selected by imaging in late-time window treatment but did not
+change clinical outcomes at 90 days.
+REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT04516993.
+GRAPHIC ABSTRACT: A graphic abstract is available for this article.
+Key Words: intracranial hemorrhages ◼ ischemic stroke ◼ reperfusion ◼ tenecteplase ◼ thrombolytic therapy
+hours of symptom onset.6–10 Yet data on the effi-
+Nonstandard Abbreviations and Acronyms cacy of tenecteplase in the late window are limited.
+The recently published TRACE-III trial (Tenecteplase
+AIS acute ischemic stroke Reperfusion Therapy in Acute Ischemic Cerebrovas-
+CHABLIS-T Chinese Acute Tissue-Based cular Events–III) has managed to demonstrate the
+Imaging Selection for Lysis in benefit of tenecteplase treatment in Chinese patients
+Stroke–Tenecteplase without preplanned EVT.11 As for patients accessible
+CTA computed tomography angiography to EVT treatment, the TIMELESS trial (Tenecteplase
+CTP computed tomography perfusion in Stroke Patients Between 4.5 and 24 Hours) did
+DT delay time not show a significant benefit of tenecteplase treat-
+EVT endovascular treatment ment, with reperfusion rates not significantly differing
+between tenecteplase and placebo groups post-EVT.12
+IQR interquartile range
+Our prior phase IIa trial indicated that tenecteplase at
+LAA large artery atherosclerosis
+a dose of 0.25 mg/kg holds promise for achieving sig-
+mRS modified Rankin Scale
+nificant reperfusion without symptomatic intracranial
+NIHSS National Institutes of Health Stroke
+hemorrhage (sICH) in late-window patients, selected
+Scale
+based on vessel occlusion and perfusion imaging
+sICH symptomatic intracranial
+showing salvageable tissue.13 Based on the previ-
+hemorrhage
+ous findings of the CHABLIS-T trial (Chinese Acute
+TIMELESS Tenecteplase in Stroke Patients
+Tissue-Based Imaging Selection for Lysis in Stroke–
+Between 4.5 and 24 Hours
+Tenecteplase), the CHABLIS-T II trial aimed to assess
+TRACE-III Tenecteplase Reperfusion Therapy
+whether tenecteplase could improve reperfusion with-
+in Acute Ischemic Cerebrovascular
+out sICH in late-window patients presenting with large
+Events–III
+or medium vessel occlusion and a favorable penumbral
+profile as compared with the best medical treatment, in
+a patient population with optional EVT.
+Reperfusion therapy, including intravenous thromboly-
+sis and endovascular treatment (EVT), is the most
+effective treatment for patients with acute ischemic METHODS
+stroke (AIS). Extending the time window for reperfusion
+Data Availability
+therapy and thus making more patients with AIS eligible
+Data from the CHABLIS-T II study will be made available at the
+for reperfusion therapy has been one of the research pri-
+request of qualified investigators whose proposal of data use
+orities in stroke for decades. Through advanced imaging
+has been approved by an independent review committee.
+selection, the time window for EVT has been extended
+to 24 hours after the last known well.1–4 However, com-
+Study Design
+pared with EVT trials using advanced imaging in the early
+window, outcomes in the late window for patients with The CHABLIS-T II was a multicenter, prospective, block-
+randomized, open-label, blinded-end point, phase IIb study
+AIS seem less favorable. This discrepancy could be due
+conducted at 23 stroke centers across mainland China. The
+to the lower percentage (<10%) of late-window patients
+detailed trial protocol has been published14 and is accessible
+with AIS receiving alteplase treatment compared with
+in the Supplemental Material. This study was approved by the
+nearly 100% in the early window.3–5 This disparity under-
+ethics committees of the leading site, Huashan Hospital, Fudan
+scores the potential for intravenous thrombolysis to
+University, and all other participating sites. This study was
+improve outcomes for late-window patients. supervised by an independent data safety monitoring board.
+Tenecteplase has been shown to be noninferior The study followed the Consolidated Standards of Reporting
+to alteplase in treating patients with AIS within 4.5 Trials reporting guideline.
+Stroke. 2025;56:344–354. DOI: 10.1161/STROKEAHA.124.048375 February 2025 345
+Downloaded
+from
+http://ahajournals.org
+by
+on
+August
+26,
+2026
+
+[[PAGE 3]]
+LAIRT
+LACINILC
+Cheng et al The CHABLIS-T II Randomized Clinical Trial
+Participants Outcomes
+Eligible patients ranged from 18 to 80, with a premorbid modi- The primary outcome combined efficacy and safety, defined as
+fied Rankin Scale (mRS) of 0 to 2. They presented with AIS major reperfusion at initial catheter angiography or on a 4- to
+within 4.5 to 24 hours after last known well and showed a 6-hour repeat CTP, without sICH occurred 24 to 48 hours after
+clinically significant acute neurological deficit, as judged by the randomization. Major reperfusion was defined as the restora-
+investigators and quantified by a National Institutes of Health tion of blood flow of >50% of the involved ischemic territory.
+Stroke Scale (NIHSS) score. Eligibility was also required to For patients without preplanned emergent EVT, major reperfu-
+meet the dual-target criteria on baseline multimodal imaging. sion was defined as the hypoperfusion lesion volume (DT >3
+The dual-target criteria were defined as large or medium ves- seconds) of the 4- to 6-hour repeat CTP decreased to <50%
+sel occlusion in the anterior circulation on baseline computed of the hypoperfusion lesion volume of the baseline CTP. For
+tomography angiography (CTA), and a favorable penumbral patients with preplanned emergent EVT, major reperfusion was
+mismatch profile on baseline computed tomography perfusion assessed as a modified Treatment In Cerebral Ischemia score
+(CTP). Large or medium vessel occlusion encompassed occlu- 2b to 3 at the initial catheter angiography.18 sICH was defined
+sions in the extracranial or intracranial segments of the inter- as any intracranial hemorrhage causing a≥4-point increase in
+nal carotid artery, the first or second segments of the middle the NIHSS score from baseline.
+cerebral artery, and the first or second segments of the anterior The secondary radiological efficacy outcomes consisted of
+cerebral artery on CTA. In cases of tandem occlusions, the dis- recanalization at the initial catheter angiography or 4- to 6-hour
+tal occlusion site was considered the culprit for assessing the CTA reconstructed from CTP and infarct growth at 3 to 5 days.
+efficacy of tenecteplase. A favorable penumbral mismatch pro- The secondary clinical efficacy outcomes were excellent func-
+file on CTP was determined by a hypoperfusion lesion volume tional outcome (mRS score 0–1), good functional outcome
+(delay time [DT] >3 seconds) to infarct core volume (relative (mRS score 0–2), and mRS distribution at 90 days; major neu-
+cerebral blood flow <30%)15,16 ratio >1.2, with an absolute vol- rological improvement (defined as a ≥8-point reduction in the
+ume difference >10 mL, and an ischemic core volume under NIHSS or an NIHSS score of 0–1) and change in the NIHSS
+70 mL, which was generated by an automated real-time perfu- score at 24 to 48 hours. The secondary radiological safety
+sion volumetric software, AutoMIStar (Apollo Medical Imaging outcomes were parenchymal hematoma type 2, sICH, and any
+Technology, Melbourne, Victoria, Australia). intracranial hemorrhage at 24 to 48 hours post-randomization.
+Comprehensive inclusion and exclusion criteria are detailed The secondary clinical safety outcomes were poor functional
+in the Supplemental Material. Written informed consent was outcome (mRS score 5–6) at 90 days and systemic bleeding
+obtained from all eligible patients or their legal proxies before before discharge.
+randomization. All of the source imaging underwent centralized analysis in
+a core laboratory. Baseline multimodal computed tomography
+imaging was reanalyzed to confirm that all the inclusion criteria
+Randomization and Masking
+were met. The radiological outcome was assessed by 2 inde-
+Eligible patients, after meeting all inclusion and exclusion crite- pendent neuroradiologists, and a third independent rater was
+ria, were randomized in a 1:1 ratio to either receive intravenous consulted in cases of disagreement.
+tenecteplase (CSPC Recomgen Pharmaceutical Co, Ltd) or the
+best medical treatment. This randomization process was con-
+Statistical Analysis
+ducted via a centralized website, Easy Random Trial, developed
+by Trial Data Pharmaceutical Technology (Shanghai) Co, Ltd, Sample size calculation was primarily based on the EXTEND-IA
+using permuted blocks. Stratification was based on the interval TNK trial (Tenecteplase Versus Alteplase Before Endovascular
+from the last known well to randomization (4.5–9 hours versus Therapy for Ischemic Stroke) results,19 where 22% of patients
+9–24 hours). Treatment allocation was open-label, with subse- receiving intravenous tenecteplase and 10% of those treated
+quent radiological and clinical evaluations performed by raters with intravenous alteplase reached major reperfusion. In addition,
+blinded to the allocation. The data safety monitoring board had in both groups, 1% of patients developed sICH. Therefore, we
+access to unblinded grouped data for monitoring purposes. hypothesized that 21% of patients in the tenecteplase group and
+7% in the best medical treatment group would attain the primary
+outcome of major reperfusion without sICH. This trial design aimed
+Procedures
+for an 85% power to detect between-group differences with a
+Patients in the tenecteplase group were administered a 0.25 2-sided type I error of 0.05, accounting for a 5% dropout rate,
+mg/kg dose (up to a maximum of 25 mg) as a bolus over 5 to resulting in a total of 224 patients (112 patients in each group).
+10 seconds, followed by a 2 mL saline flush. The control group The comprehensive statistical analysis plan is specified in
+received the best medical treatment, excluding tenecteplase the Supplemental Material and has been ratified and completed
+thrombolysis. Alteplase treatment within the time window before the database lock. Analyses were executed using SAS
+of the Extending the Time for Thrombolysis in Emergency version 9.4, with a 2-sided significance level set at 0.05. The
+Neurological Deficits study was permitted.17 Emergent EVT primary analysis was conducted based on the intention-to-
+was optional for all randomized patients based on the judgment treat population, and the missing data remained missing. The
+of local neurointerventionalists. EVT could be averted when the comparison of the primary outcome proportions between the
+initial catheter angiography showed a modified Treatment In tenecteplase group and the best medical treatment group used
+Cerebral Ischemia score of 2b to 3. All patients were provided modified Poisson regression with a log-link function and robust
+guideline-based intensive care for AIS, including intravenous error variance. This was adjusted for prespecified covariates,
+thrombolysis and EVT.1 including the interval from the last known well to randomization
+346 February 2025 Stroke. 2025;56:344–354. DOI: 10.1161/STROKEAHA.124.048375
+Downloaded
+from
+http://ahajournals.org
+by
+on
+August
+26,
+2026
+
+[[PAGE 4]]
+CLINICAL
+TRIAL
+Cheng et al The CHABLIS-T II Randomized Clinical Trial
+(4.5–9 versus 9–24 hours), the site of vessel occlusion (inter- 3-month follow-up was completed by the end of October
+nal carotid artery versus other vessels), and whether EVT was 2023. Of these, 111 patients were assigned to receive
+preplanned (yes versus no), with the presentation of adjusted intravenous tenecteplase at a dose of 0.25 mg/kg,
+relative risks alongside 95% CIs.
+whereas 113 patients were allocated to the best medical
+For the analysis of secondary radiological efficacy outcomes,
+treatment. The tenecteplase group had a median (SD)
+the difference in recanalization rates was analyzed using modi- age of 64.2 (10.4) years, and the baseline median (inter-
+fied Poisson regression with a log-link function and robust error
+quartile range [IQR]) NIHSS score was 9.0 (5.0–14.0).
+estimation. This analysis was adjusted for prespecified factors:
+A proportion of 53.2% (59) of patients were transferred
+the interval from the last known well to randomization (4.5–9
+versus 9–24 hours), the site of vessel occlusion (internal carotid to the catheter room for preplanned EVT, whose primary
+artery versus other vessels), and whether EVT was preplanned outcome was assessed through catheter angiography.
+(yes versus no). Differences in infarct growth volume between Among them, EVT was averted in 1 patient due to early
+groups were evaluated using a median regression model with reperfusion (modified Treatment in Cerebral Ischemia
+the adjustment of the interval from the last known well to ran- ≥2b) at the initial angiographic run. In the best medical
+domization (4.5–9 versus 9–24 hours), baseline core volume, treatment group, the median (SD) age was 63.6 (11.0)
+and preplanned EVT (yes versus no).
+years, and the baseline median (IQR) NIHSS was 9.0
+In assessing secondary clinical efficacy and safety out-
+(6.0–16.0). In the best medical treatment group, 23.1%
+comes, variables such as age, the interval from the last known
+(26 patients) received intravenous alteplase, and 1.8%
+well to randomization, baseline NIHSS, and preplanned EVT
+(2 patients) were treated with urokinase, including 1
+were entered as covariates. The differences in the proportions
+case of intra-arterial thrombolysis. A proportion of 56.6%
+of patients achieving mRS scores of 0 to 1, 0 to 2, and 5 to 6 at
+90 days, as well as major neurological improvement at 24 to 48 (64) of patients proceeded to the catheter room for pre-
+hours, were evaluated using modified Poisson regression with planned EVT (Table 1). The reasons why participants did
+a log-link function and robust error estimation. For the ordinal not transfer to the catheter room are listed in Table S1.
+analysis of the mRS distribution at 90 days, a Brant test con- Of the 123 patients transferred for preplanned EVT, 44
+firmed the appropriateness of the proportional-odds assump- received adjuvant tirofiban, and 12 received heparin. The
+tion. Subsequently, an ordinal regression model was applied to primary outcome could not be evaluated for 2 patients
+compare the outcomes across the entire range of mRS, report-
+in the best medical treatment group due to the absence
+ing a common odds ratio as an effect estimate for improve-
+of follow-up perfusion imaging, allowing for primary out-
+ment for at least 1 point in the score. The analysis of change
+come analysis in 111 patients per group.
+in NIHSS at 24 to 48 hours was conducted using a median
+The primary outcome, major reperfusion without the
+regression model. Secondary radiological safety outcomes
+occurrence of sICH, was achieved in 37 (33.3%) patients
+analysis used Poisson regression with a log-link function and
+robust error estimation, adjusted solely for preplanned EVT due in the tenecteplase group and 12 (10.8%) patients in the
+to the low occurrence of rates of these outcomes, which limited best medical treatment group (adjusted relative risk, 3.0
+the feasibility of multiple multivariable adjustments. [95% CI, 1.6–5.7]; P=0.001). Sensitivity analysis con-
+Subgroup analyses were conducted to investigate the cerning the missing data drew similar results (Figure S1).
+impacts of various factors on the primary and preselected In the analysis of efficacy outcomes, recanalization
+secondary outcomes. These factors included the site of occlu- was achieved in 39 (35.8%) patients in the tenecteplase
+sion (internal carotid artery versus others), the interval from the
+group and 16 (14.3%) patients in the best medical treat-
+last known well to randomization (4.5–9 hours versus 9–24
+ment group (adjusted relative risk, 2.5 [95% CI, 1.4–4.4];
+hours), the type of stroke onset (witnessed versus unwitnessed
+P=0.002) at the initial catheter angiography or 4- to
+stroke), and preplanned EVT (yes versus no). Specific out-
+6-hour CTA reconstructed from CTP. However, no sta-
+comes of interest for these analyses encompassed recanali-
+tistically significant difference was found between treat-
+zation rates observed in initial catheter angiography or 4- to
+6-hour CTA reconstructed from CTP, infarct growth measured ment groups concerning other radiological and clinical
+at 3 to 5 days, mRS score 0 to 1, mRS score 0 to 2, and mRS efficacy outcomes, including infarct growth at 3 to 5
+distribution at 90 days. days, change in NIHSS at 24 to 48 hours, proportions
+Sensitivity analysis was conducted for the primary outcome of major neurological improvement at 24 to 48 hours, as
+under a range of assumptions about missing data. The missing well as proportions of mRS score 0 to 1, mRS score 0 to
+data on the primary outcome in the primary analysis were under 2 and mRS distribution (Table 2; Figure S2).
+the assumption of being missing at random. The results of plau-
+In the analysis of safety outcomes, parenchymal
+sible departures from missing at random were explored in the
+hematoma type 2 at 24 to 48 hours occurred in 10
+intention-to-treat population with a pattern-mixture model.
+(9.0%) patients in the tenecteplase group and 4 (3.5%)
+patients in the best medical treatment group (adjusted
+relative risk, 2.7 [95% CI, 0.8–8.5]; P=0.1). No statisti-
+RESULTS
+cally significant difference was found between treatment
+A total of 6205 patients were screened from October groups concerning proportions of sICH, any intracranial
+21, 2021 to June 13, 2023, with 224 patients finally hemorrhage at 24 to 48 hours, systemic bleeding at dis-
+enrolled and randomized in this trial (Figure 1). The charge, and mRS score 5 to 6 at 90 days (Table 2).
+Stroke. 2025;56:344–354. DOI: 10.1161/STROKEAHA.124.048375 February 2025 347
+Downloaded
+from
+http://ahajournals.org
+by
+on
+August
+26,
+2026
+
+[[PAGE 5]]
+LAIRT
+LACINILC
+Cheng et al The CHABLIS-T II Randomized Clinical Trial
+Figure 1. Trial profile.
+CTP indicates computed tomography perfusion; and mRS modified Rankin Scale.
+In the preplanned subgroup analysis, significant and 23% of patients treated with intravenous alteplase.
+interactions were observed in subgroups of preplanned No difference was shown concerning clinical and func-
+EVT regarding the primary outcome and recanalization. tional improvement after treatment.
+Tenecteplase significantly favors the achievement of the The higher reperfusion efficacy has already been
+primary outcome and recanalization for patients undergo- acknowledged in patients with acute stroke with large
+ing preplanned EVT, compared with patients without EVT. vessel occlusion(s) presented within the 4.5-hour time
+In addition, there was a notable trend toward significance window in randomized clinical trials and real-world
+in the interactions between tenecteplase treatment and practice.19–23 For patients in the extended time window,
+preplanned EVT in terms of infarct growth and mRS dis- the performance of intravenous tenecteplase has been
+tribution. Interestingly, although tenecteplase positively explored by our previous CHABLIS-T trial, the TIME-
+influenced the primary outcome, it showed a tendency LESS trial, and the TRACE-III trial.11–13 However, TIME-
+to increase the risk of larger infarct volumes and a shift LESS did not observe a higher incidence of reperfusion
+in mRS distribution towards worse clinical outcomes in the tenecteplase group after EVT, which might be
+among patients with preplanned EVT (Figure 2). explained by its short dwell time from thrombolysis to
+groin puncture (15 minutes). The proportion of primary
+outcome (major reperfusion without the occurrence of
+DISCUSSION
+sICH) in the tenecteplase group of the CHABLIS-T II
+The CHABLIS-T II trial demonstrated that among trial (33.3%) was very close to that of the 0.25 mg/
+patients with acute stroke with large or medium vessel kg tenecteplase group in our previous CHABLIS-T
+occlusion(s) and favorable penumbral profile presented trial (32.6%), implicating a comparatively stable patient
+within 4.5 to 24 hours from the last known well, intra- population during enrollment. Also same as the results
+venous thrombolysis with tenecteplase at the dose of of the CHABLIS-T trial, the proportion of reperfu-
+0.25 mg/kg resulted in a higher incidence of reperfu- sion/recanalization was comparatively higher in the
+sion, compared with the best medical treatment without CHABLIS-T II trial than that in the EXTEND-IA TNK
+tenecteplase thrombolysis but that included planned EVT trials (33% versus 20%).19,24 Possible explanations
+348 February 2025 Stroke. 2025;56:344–354. DOI: 10.1161/STROKEAHA.124.048375
+Downloaded
+from
+http://ahajournals.org
+by
+on
+August
+26,
+2026
+
+[[PAGE 6]]
+CLINICAL
+TRIAL
+Cheng et al The CHABLIS-T II Randomized Clinical Trial
+Table 1. Baseline Characteristics of the Patients Randomized
+Tenecteplase Best medical
+(n=111) treatment (n=113)
+Age, y, mean (SD) 64.2 (10.4) 63.6 (11.0)
+Male sex, n (%) 80 (72.1%) 80 (70.8%)
+NIHSS score at randomization, median (IQR) 9 (5–14) 9 (6–16)
+Stroke cause, n (%)
+Cardioembolism 11 (9.9%) 20 (17.7%)
+Large artery atherosclerosis 88 (79.3%) 83 (73.5%)
+Undetermined cause 12 (10.8%) 10 (8.9%)
+Medical history, n (%)
+Atrial fibrillation 9 (8.1%) 20 (17.7%)
+Hypertension 71 (64.0%) 79 (69.9%)
+Diabetes 32 (28.8%) 26 (23.0%)
+Ischemic stroke or transient ischemic attack 15 (13.5%) 19 (16.8%)
+TLKW to randomization, h, n (%)
+4.5–9 34 (30.6%) 37 (32.7%)
+9–24 77 (69.4%) 76 (67.3%)
+Witnessed stroke, n (%) 43 (38.7%) 43 (38.1%)
+Transferred for preplanned endovascular treatment, n (%) 59 (53.2%) 64 (56.6%)
+TLKW to hospital arrival, min, median (IQR) 595.0 (398.0–818.0) 525.0 (368.5–778.5)
+TLKW to initiation of intravenous therapy, min, median (IQR)* 740.0 (524.0–954.0) 660.0 (470.0–817.5)
+Time from hospital arrival to initiation of intravenous therapy, min, median (IQR)* 114.0 (79.0–160.0) 96.0 (78.5–113.0)
+Time from hospital arrival to initial angiographic assessment, min, median (IQR)† 170.0 (122.0–232.0) 177.5 (119.3–230.0)
+Time from initiation of intravenous thrombolysis to initial angiographic assessment, min, median (IQR)‡ 40.0 (24.0–78.0) 60.5 (44.0–159.5)
+Site of artery occlusion, n (%)
+Extracranial segment of internal carotid artery 16 (14.4%) 21 (18.6%)
+Intracranial segment of internal carotid artery 9 (9.9%) 7 (6.2%)
+First segment of middle cerebral artery 53 (47.8%) 55 (48.7%)
+Second segment of middle cerebral artery 21 (18.9%) 24 (21.2%)
+Anterior cerebral artery 10 (9.0%) 6 (5.3%)
+Ischemic core volume at baseline, mL, median (IQR) 6.0 (2.0–25.0) 9.0 (3.0–22.0)
+Hypoperfusion volume at baseline, mL, median (IQR) 87.0 (54.0–136.0) 90.0 (60.5–114.0)
+IQR indicates interquartile range; NIHSS, National Institutes of Health Stroke Scale; and TLKW, time from the last known well.
+*For patients in the best medical treatment group, n=29, including 2 patients crossed over to tenecteplase treatment.
+†For patients in the tenecteplase group, n=59; for patients in the best medical treatment group, n=64, including 1 patient crossed over to tenecteplase treatment.
+‡For patients in the tenecteplase group, n=59; for patients in the best medical treatment group, n=6, including 1 patient crossed over to tenecteplase treatment.
+include a longer time from treatment to reperfusion or stent implantation were performed. As for the dis-
+assessment in CHABLIS-T trials, especially for patients crepancy with TRACE-III, which was also conducted in
+without preplanned EVT assessed through 4-to-6-hour the Chinese population who were dominated by LAA-
+perfusion imaging, as well as the difference between related stroke, optional EVT might contributed to the
+imaging modalities applied for reperfusion assessment higher bleeding rate in our trial, which needs further
+(digital subtracted angiography versus CTP), which has investigation.
+been thoroughly discussed in the previously published No significant difference was shown between treat-
+CHABLIS-T trial.13 Notably, the incidence of hemor- ment groups in secondary outcomes, including NIHSS at
+rhagic transformation in both groups of CHABLIS-T 24 to 48 hours, infarct growth at 3 to 5 days, or mRS score
+II was numerically higher compared with that of the at 90 days. Therefore, it seems that the improved reperfu-
+TIMELESS and TRACE-III trials.11,12 The difference sion did not transform into radiological and clinical ben-
+between the TIMELESS and the CHABLIS-T II trials efits in the tenecteplase group. Although CHALBIS-T II
+might be explained by our higher proportion of large was not designed to demonstrate clinical efficacy and the
+artery atherosclerotic (LAA) stroke because early sample size was underpowered, one of the major possible
+antiplatelet therapy would be needed if angioplasty reasons for the neutral secondary outcome results may be
+Stroke. 2025;56:344–354. DOI: 10.1161/STROKEAHA.124.048375 February 2025 349
+Downloaded
+from
+http://ahajournals.org
+by
+on
+August
+26,
+2026
+
+[[PAGE 7]]
+LAIRT
+LACINILC
+Cheng et al The CHABLIS-T II Randomized Clinical Trial
+Table 2. Outcomes
+Randomized treatment group Effect size 95% CI P value
+Tenecteplase (n=111) Best medical treatment (n=113)
+Primary outcome, n (%) 37/111 (33.3%) 12/111 (10.8%) aRR: 3.0 1.6 to 5.7 0.001
+Secondary outcome
+Efficacy
+Recanalization, n (%) 39/109 (35.8%) 16/112 (14.3%) aRR: 2.5 1.4 to 4.4 0.002
+Infarct growth at 3–5 d, mL, median (IQR)* 18.9 (4.2 to 59.6) 16.5 (2.6 to 42.3) Adjusted difference: 5.0 −2.8 to 12.9 0.2
+Major neurological improvement at 24–48 24/110 (21.8%) 26/112 (23.1%) aRR: 0.9 0.5 to 1.6 0.8
+h, n (%)
+Change in NIHSS score at 24–48 h −1 (−4 to 0) −1 (−5 to 0) Adjusted difference: 0.2 −1.0 to 1.4 0.7
+compared with baseline, median (IQR)†
+mRS score 0–1 at 90 d, n (%) 44/111 (39.6%) 41/113 (36.3%) aRR: 1.1 0.7 to 1.6 0.8
+mRS score 0–2 at 90 d, n (%) 56/111 (50.5%) 66/113 (58.4%) aRR: 0.8 0.6 to 1.2 0.4
+mRS score at 90 d, n (%) Adjusted cOR: 0.8 0.5 to 1.3 0.3
+0 26 (23.4%) 23 (20.4%)
+1 18 (16.2%) 18 (15.9%)
+2 12 (10.8%) 25 (22.1%)
+3 17 (15.2%) 14 (12.4%)
+4 16 (14.4%) 13 (11.5%)
+5 10 (9.0%) 8 (7.1%)
+6 12 (10.6%) 12 (10.6%)
+Safety
+Symptomatic intracranial hemorrhage, 6/111 (5.4%) 5/113 (4.4%) aRR: 1.3 0.4 to 4.2 0.7
+n (%)
+Any intracranial hemorrhage, n (%) 27/111 (24.3%) 21/113 (18.6%) aRR: 1.4 0.8 to 2.4 0.3
+Parenchymal hemorrhage type 2, n (%) 10/111 (9.0%) 4/113 (3.5%) aRR: 2.7 0.8 to 8.5 0.1
+mRS score 5–6 at 90 d, n (%) 22 (19.8%) 20 (17.7%) aRR: 1.1 0.6 to 2.1 0.7
+Systemic hemorrhage, n (%) 5/111 (4.5%) 7/113 (6.2%) aRR: 0.8 0.2 to 2.4 0.6
+Severe or life-threatening 0 (0.0%) 0 (0.0%)
+Moderate 0 (0.0%) 0 (0.0%)
+Mild 5 (4.5%) 7 (6.2%)
+aRR indicates adjusted relative risk; cOR, common odds ratio; IQR, interquartile range; mRS, modified Rankin Scale; and NIHSS, National Institutes of Health Stroke
+Scale.
+*n=102 for the tenecteplase group and n=109 for the best medical treatment group.
+†n=110 for the tenecteplase group and n=112 for the best medical treatment group.
+the characteristics of our patient population, which con- patients with proximal artery occlusion included (internal
+sists of around 76% of patients with LAA-related stroke, carotid artery CHABLIS 24% versus TIMELESS 8%),12
+much higher than the EXTEND-IA TNK and TIMELESS a naturally benign collateral flow pattern in atheroscle-
+trials.12,19,24 Only 56.6% of patients in the best medical rotic patients compared with cardioembolic patients
+treatment group underwent preplanned EVT but the pro- partly contributed to the lower baseline NIHSS score in
+portion of functional independency (3-month mRS score, CHABLIS-T II.26 In addition, although with a much lower
+0–2) was as high as 58.4%, higher than the tenecteplase rate of EVT, the infarct growth in CHABLIS-T II was only
+and placebo group of TIMELESS trial, where around slightly larger than the infarct growth volume in the TIME-
+77% patients underwent EVT. Despite that, the baseline LESS trial (CHABLIS-T II: tenecteplase 18.9 mL, control
+NIHSS in CHABLIS-T II (median, 9) was lower than that 16.5 mL; TIMELESS: tenecteplase 12 mL, placebo 16
+in TIMELESS (median, 12),12 the discrepancy between mL).12 Therefore, it is appropriate to deduce that there
+functional outcome might also be attributed to the differ- were part of patients with acute stroke, especially the
+ent hemodynamic patterns of patients recruited. The pen- ones with LAA-related stroke, with very robust and stable
+umbral mismatch criteria of this trial enabled the selection hemodynamic support whose penumbra barely grew into
+of the slow progressors with very robust collateral supply, infarction even without reperfusion, namely the ultra-slow
+which were mostly patients with LAA under the setting progressors, which needs further investigation. TRACE-
+of the East Asian population.25 Therefore, although more III, however, managed to demonstrate the superiority of
+350 February 2025 Stroke. 2025;56:344–354. DOI: 10.1161/STROKEAHA.124.048375
+Downloaded
+from
+http://ahajournals.org
+by
+on
+August
+26,
+2026
+
+[[PAGE 8]]
+CLINICAL
+TRIAL
+Cheng et al The CHABLIS-T II Randomized Clinical Trial
+tenecteplase over the best medical treatment in Chinese microcirculation blood flow was generally demonstrated
+patients with a sample size double of CHABLIS-T II. Nota- as a decrease in cerebral blood flow.27 Therefore, the
+bly, the proportion of patients achieving a 3-month mRS decrease of DT >3 seconds volume might not guarantee
+score of 0 to 1 or 0 to 2 in the best medical treatment a recovery from microcirculation ischemia. Second, vari-
+group was significantly lower in TRACE-III compared with ous factors, such as stroke severity and hyperglycemia,
+CHABLIS-T II.11 This disparity might be explained by the were associated with increased odds of futile reperfu-
+use of different perfusion imaging postprocessing soft- sion,28 which also needs further validation in our study.
+ware (MIStar and iStroke) and the allowance of endovas- Preplanned subgroup analysis revealed that intra-
+cular therapy in CHABLIS-T II. venous tenecteplase significantly favors patients with
+Futile reperfusion, an intensely studied phenomenon, planned EVT in primary outcome and recanalization,
+was also unneglectable when interpreting the results of which was rational because more patients with proxi-
+CHABLIS-T II. First, the major reperfusion in this trial mal large artery occlusion were prone to EVT. However,
+was defined as the decrease in volume of the hypoperfu- patients who had undergone preplanned EVT showed
+sion lesion (DT >3 seconds). However, the restoration of a trend towards a larger infarct growth and a worse
+Figure 2. Subgroup analysis.
+For proportion of each subgroup, please refer to Table S2. ICA indicates internal carotid artery; and RR, relative risk.
+Stroke. 2025;56:344–354. DOI: 10.1161/STROKEAHA.124.048375 February 2025 351
+Downloaded
+from
+http://ahajournals.org
+by
+on
+August
+26,
+2026
+
+[[PAGE 9]]
+LAIRT
+LACINILC
+Cheng et al The CHABLIS-T II Randomized Clinical Trial
+Figure 2 Continued.
+functional outcome at 90 days (higher mRS score) when This possible higher bleeding risk partly contributed to
+treated with intravenous tenecteplase, contrary to its the larger volume of infarct growth, since the calculation
+performance on reperfusion and recanalization. The pro- of infarct volume at 3 to 5 days harbored the volume of
+portion of patients achieving functional independence hematoma. Because this study was also underpowered to
+with EVT treatment in the tenecteplase group was much draw any conclusion from the subgroup analysis, the role
+lower than that in the TIMELESS trial (CHABLIS-T II of EVT and why tenecteplase treatment played a prob-
+34.5% versus TIMELESS 46.0%).12 One explanation to ably negative role in the functional outcomes in patients
+decipher these confusing results was that bridging ther- who had undergone EVT need further investigation.
+apy might increase the risk of hemorrhagic transforma- CHABLIS-T II has the following limitations. First, the
+tion in a patient population dominated by LAA because sample size was limited, so a composite safety and effi-
+early antiplatelet therapy would be occasionally needed. cacy primary end point was set instead of long-term
+In addition, occlusion due to intracranial or extracranial functional outcomes (mRS at 90 days). In addition, we
+atherosclerosis is refractory to current stent retriev- expected the effect on the functional outcome of EVT to
+ers or aspiration systems, therefore, a longer time-to- obscure any potential difference between tenecteplase
+reperfusion might be needed to achieve recanalization, and the best medical treatment including alteplase,
+which was also associated with increased bleeding risk.29 which was shown in TIMELESS.12 Second, the patients
+352 February 2025 Stroke. 2025;56:344–354. DOI: 10.1161/STROKEAHA.124.048375
+Downloaded
+from
+http://ahajournals.org
+by
+on
+August
+26,
+2026
+
+[[PAGE 10]]
+CLINICAL
+TRIAL
+Cheng et al The CHABLIS-T II Randomized Clinical Trial
+enrolled were highly selected, only accounting for 3.6% Affiliations
+of the candidates screened. Third, the criteria of hypo- Department of Neurology, National Center for Neurological Disorders, National
+perfusion lesion in CHABLIS-T II was defined using DT Clinical Research Centre for Aging and Medicine, Huashan Hospital, Fudan Uni-
+versity, Shanghai, China (X.C., L.H., Y.L., Yiran Zhang, X.L., S.L., L.Y., Q.D.). Depart-
+>3 seconds rather than the widely applied time to maxi-
+ment of Neurology, Ingham Institute for Applied Medical Research, University of
+mum >6 seconds. Though previous studies have proven New South Wales South Western Sydney Clinical School, Australia (L.L., M.P.).
+that the threshold of DT >3 seconds is as accurate Department of Medicine, The Royal Melbourne Hospital, University of Melbourne,
+Parkville, Australia (L.C.). Department of Neurology, Puer People’s Hospital, China
+as time to maximum >6 seconds when defining acute
+(N.Y.). Department of Neurology, Shanghai Jiao Tong University Affiliated Sixth
+hypoperfused lesion,15,16 a post hoc analysis using time People’s Hospital, China (J.F.). Department of Neurology, Hexigten Traditional
+to maximum >6 seconds may be helpful to the gener- Chinese and Mongolian Medicine Hospital, Chifeng, China (G.L.). Department
+of Neurology, Yangpu Hospital, School of Medicine, Tongji University, Shanghai,
+alizability of this study. Furthermore, this trial adopted a
+China (Y.Y.). Department of Neurology, The First Hospital of Shanxi Medical Uni-
+mismatch volume threshold of 10 mL and a ratio of 1.2, versity, Taiyuan, China (J.Z.). Department of Neurology, Seventh People’s Hospital
+which allowed for the inclusion of a larger patient popu- of Shanghai University of Traditional Chinese Medicine, China (F.W.). Department
+of Emergency, Linyi People’s Hospital, China (Z.W.). Department of Neurology,
+lation compared with the more stringent criteria (mis-
+Shanghai Tenth People’s Hospital, Tongji University School of Medicine, China
+match volume of 15 mL and ratio of 1.8). As a result, (Yanxin Zhao, X.Z.). Department of Neurology, Nanshi Hospital of Nanyang, China
+the findings of the trial were more broadly generalizable. (Z.P.). Department of Neurology, Shanghai Fifth People’s Hospital, Fudan Univer-
+sity, China (D.W.). Department of Neurology, Xuzhou Medical University Affiliated
+Fourth, reperfusion status was assessed through 2 imag-
+Hospital of Huaian, China (L.Z., Q.Z.). Department of Neurology, Shuguang Hos-
+ing modalities, CTP or digital subtracted angiography, for pital Affiliated to Shanghai University of Traditional Chinese Medicine, Shanghai,
+patients with or without preplanned EVT. However, our China (X.Y.). Department of Neurology, First Affiliated Hospital of Soochow Uni-
+versity, Suzhou, China (Q.F.). Department of Neurology, Affiliated Haian People’s
+previous study has proven that both imaging modalities
+Hospital of Nantong University, China (X.S.). Department of Neurology, The First
+could reliably assess the reperfusion status of patients Affiliated Hospital of Harbin Medical University, China (Y.T.). Department of Neu-
+with large vessel occlusion(s).30 Fifth, only 54.9% of rology, Mianyang Third People’s Hospital, China (D.Z.). Center for Rehabilita-
+tion Medicine, Department of Neurology, Zhejiang Provincial People’s Hospital
+patients underwent preplanned EVT treatment. Major
+Affiliated Hangzhou Medical College, China (Y.G.). Department of Neurology,
+reasons for this low EVT rate included the inability to Shanghai East Hospital, School of Medicine, Tongji University, China (Yue Zhang).
+obtain informed consent and bleeding concerns from the Department of Neurology, The Central Hospital of Jiaozuo Coal Group, China
+(B.F.). Department of Neurology, Huzhou Central Hospital, China (B.Z.). Depart-
+neurointerventionalists. Sixth, contradiction remained to ment of Neurology, Affiliated Hangzhou First People’s Hospital, Zhejiang Uni-
+be explained concerning the analysis of outcomes, espe- versity School of Medicine, China (C.Y.). Department of Neurology, The Second
+cially for the result that no difference in infarct growth Affiliated Hospital of Chongqing Medical University, China (Y.C.).
+was demonstrated between treatment groups, although Acknowledgments
+tenecteplase induced a higher possibility of reperfusion. The authors thank data safety monitoring board (Professors Christopher Levi and
+Seventh, time delay existed from thrombolysis adminis- David Wang and Assistant Professor Elizabeth Holliday), all the collaborators, pa-
+tients, and their relatives.
+tration to EVT, which might significantly impact the func-
+tional outcome of patients. Therefore, an improvement in Sources of Funding
+the treatment workflow is needed. This work was supported by the Clinical Research Plan of Shanghai Hospital
+In conclusion, administered at a dose of 0.25 mg/kg Development Center (SHDC2020CR1041B). CSPC Recomgen Pharmaceutical
+Co, Ltd, supplied the investigational product for this trial. intravenously, tenecteplase increased reperfusion with-
+out sICH in patients with ischemic stroke selected by Disclosures
+imaging in late-time window treatment but did not change Dr Fu reports employment by the School of Medicine, Shanghai Jiao Tong Uni-
+clinical outcomes at 90 days. To translate sufficient and versity. Dr Jin Zhang reports compensation from Boehringer Ingelheim (China)
+Investment Co, Ltd, for other services. Dr Dong reports grants from the Clinical
+safe reperfusion into an improvement in functional out-
+Research Plan of Shanghai Hospital Development Center (SHDC). The other
+come, other medical scenarios may be considered, such authors report no conflicts.
+as using tenecteplase for thrombolysis at primary stroke
+Supplemental Material
+centers followed by transporting patients to comprehen-
+Tables S1–S6
+sive stroke centers for EVT. Together with TRACE-III,11
+Figures S1–S2
+TIMELESS,12 and the ETERNAL-LVO trial (Extending Enrolling Sites and Collaborators
+the Time Window for Tenecteplase by Effective Reperfu- Protocol v1.0, v2.0, v3.0
+Summary of Protocol Amendments
+sion in Patients With Large Vessel Occlusion; https://
+Statistical Analysis Plan
+www.clinicaltrials.gov; Unique identifier: NCT04454788), DSMB Charter
+CHABLIS-T II provides new evidence of intravenous 1st and 2nd DSMB Meeting Report
+tenecteplase treatment in patients with acute stroke in
+an extended time window.
+REFERENCES
+1. Powers WJ, Rabinstein AA, Ackerson T, Adeoye OM, Bambakidis NC,
+ARTICLE INFORMATION Becker K, Biller J, Brown M, Demaerschalk BM, Hoh B, et al. Guidelines
+for the early management of patients with acute ischemic stroke: 2019
+Received July 11, 2024; final revision received November 8, 2024; accepted update to the 2018 guidelines for the early management of acute ischemic
+November 22, 2024. stroke: a guideline for healthcare professionals from the American Heart
+Presented in part at the International Stroke Conference, Phoenix, AZ, Association/American Stroke Association. Stroke. 2019;50:e344–e418.
+February 7–9, 2024. doi: 10.1161/STR.0000000000000211
+Stroke. 2025;56:344–354. DOI: 10.1161/STROKEAHA.124.048375 February 2025 353
+Downloaded
+from
+http://ahajournals.org
+by
+on
+August
+26,
+2026
+
+[[PAGE 11]]
+LAIRT
+LACINILC
+Cheng et al The CHABLIS-T II Randomized Clinical Trial
+2. Turc G, Bhogal P, Fischer U, Khatri P, Lobotesis K, Mazighi M, Schellinger PD, 16. Lin L, Bivard A, Kleinig T, Spratt NJ, Levi CR, Yang Q, Parsons MW. Correc-
+Toni D, de Vries J, White P, et al. European Stroke Organisation (ESO)– tion for delay and dispersion results in more accurate cerebral blood flow
+European Society for Minimally Invasive Neurological Therapy (ESMINT) ischemic core measurement in acute stroke. Stroke. 2018;49:924–930.
+guidelines on mechanical thrombectomy in acute ischaemic stroke doi: 10.1161/STROKEAHA.117.019562
+endorsed by Stroke Alliance for Europe (SAFE). Eur Stroke J. 2019;4:6–12. 17. Ma H, Campbell BCV, Parsons MW, Churilov L, Levi CR, Hsu C, Kleinig TJ,
+doi: 10.1177/2396987319832140 Wijeratne T, Curtze S, Dewey HM, et al; EXTEND Investigators. Thromboly-
+3. Albers GW, Marks MP, Kemp S, Christensen S, Tsai JP, Ortega-Gutierrez S, sis guided by perfusion imaging up to 9 hours after onset of stroke. N Engl
+McTaggart RA, Torbey MT, Kim-Tenser M, Leslie-Mazwi T, et al; DEFUSE J Med. 2019;380:1795–1803. doi: 10.1056/NEJMoa1813046
+3 Investigators. Thrombectomy for stroke at 6 to 16 hours with selec- 18. Zaidat OO, Yoo AJ, Khatri P, Tomsick TA, von Kummer R, Saver JL,
+tion by perfusion imaging. N Engl J Med. 2018;378:708–718. doi: Marks MP, Prabhakaran S, Kallmes DF, Fitzsimmons BF, et al; Cerebral
+10.1056/NEJMoa1713973 Angiographic Revascularization Grading (CARG) Collaborators. Recom-
+4. Nogueira RG, Jadhav AP, Haussen DC, Bonafe A, Budzik RF, Bhuva P, mendations on angiographic revascularization grading standards for acute
+Yavagal DR, Ribo M, Cognard C, Hanel RA, et al; DAWN Trial Investigators. ischemic stroke: a consensus statement. Stroke. 2013;44:2650–2663. doi:
+Thrombectomy 6 to 24 hours after stroke with a mismatch between deficit and 10.1161/STROKEAHA.113.001972
+infarct. N Engl J Med. 2018;378:11–21. doi: 10.1056/NEJMoa1706442 19. Campbell BCV, Mitchell PJ, Churilov L, Yassi N, Kleinig TJ, Dowling RJ,
+5. Goyal M, Menon BK, van Zwam WH, Dippel DW, Mitchell PJ, Demchuk AM, Yan B, Bush SJ, Dewey HM, Thijs V, et al; EXTEND-IA TNK Investigators.
+Davalos A, Majoie CB, van der Lugt A, de Miquel MA, et al; HERMES Col- Tenecteplase versus alteplase before thrombectomy for ischemic stroke. N
+laborators. Endovascular thrombectomy after large-vessel ischaemic stroke: Engl J Med. 2018;378:1573–1582. doi: 10.1056/NEJMoa1716405
+a meta-analysis of individual patient data from five randomised trials. Lancet. 20. Parsons M, Spratt N, Bivard A, Campbell B, Chung K, Miteff F, O’Brien B,
+2016;387:1723–1731. doi: 10.1016/S0140-6736(16)00163-X Bladin C, McElduff P, Allen C, et al. A randomized trial of tenecteplase ver-
+6. Menon BK, Buck BH, Singh N, Deschaintre Y, Almekhlafi MA, Coutts SB, sus alteplase for acute ischemic stroke. N Engl J Med. 2012;366:1099–
+Thirunavukkarasu S, Khosravani H, Appireddy R, Moreau F, et al; AcT 1107. doi: 10.1056/NEJMoa1109842
+Trial Investigators. Intravenous tenecteplase compared with alteplase for 21. Bivard A, Huang X, Levi CR, Spratt N, Campbell BCV, Cheripelli BK,
+acute ischaemic stroke in Canada (AcT): a pragmatic, multicentre, open- Kalladka D, Moreton FC, Ford I, Bladin CF, et al. Tenecteplase in isch-
+label, registry-linked, randomised, controlled, non-inferiority trial. Lancet. emic stroke offers improved recanalization: analysis of 2 trials. Neurology.
+2022;400:161–169. doi: 10.1016/S0140-6736(22)01054-6 2017;89:62–67. doi: 10.1212/WNL.0000000000004062
+7. Wang Y, Li S, Pan Y, Li H, Parsons MW, Campbell BCV, Schwamm LH, 22. Gerschenfeld G, Smadja D, Turc G, Olindo S, Laborne FX, Yger M, Caroff J,
+Fisher M, Che F, Dai H, et al; TRACE-2 Investigators. Tenecteplase Versus Goncalves B, Seners P, Cantier M, et al; TETRIS Study Group. Functional
+Alteplase in Acute Ischaemic Cerebrovascular Events (TRACE-2): a phase outcome, recanalization, and hemorrhage rates after large vessel occlu-
+3, multicentre, open-label, randomised controlled, non-inferiority trial. Lan- sion stroke treated with tenecteplase before thrombectomy. Neurology.
+cet. 2023;401:645–654. doi: 10.1016/S0140-6736(22)02600-9 2021;97:e2173–e2184. doi: 10.1212/WNL.0000000000012915
+8. Alamowitch S, Turc G, Palaiodimou L, Bivard A, Cameron A, De Marchis GM, 23. Yogendrakumar V, Beharry J, Churilov L, Alidin K, Ugalde M, Pesavento L,
+Fromm A, Korv J, Roaldsen MB, Katsanos AH, et al. European Stroke Organisa- Weir L, Mitchell PJ, Kleinig TJ, Yassi N, et al; Royal Melbourne Stroke Reg-
+tion (ESO) expedited recommendation on tenecteplase for acute ischaemic istry and EXTEND-IA TNK Collaborators. Tenecteplase improves reperfu-
+stroke. Eur Stroke J. 2023;8:8–54. doi: 10.1177/23969873221150022 sion across time in large vessel stroke. Ann Neurol. 2023;93:489–499. doi:
+9. Parsons MW, Yogendrakumar V, Churilov L, Garcia-Esperon C, Campbell BCV, 10.1002/ana.26547
+Russell ML, Sharma G, Chen C, Lin L, Chew BL, et al; TASTE Investigators. 24. Campbell BCV, Mitchell PJ, Churilov L, Yassi N, Kleinig TJ, Dowling RJ,
+Tenecteplase Versus Alteplase for Thrombolysis in Patients Selected by Use Yan B, Bush SJ, Thijs V, Scroop R, et al; EXTEND-IA TNK Part 2 Investiga-
+of Perfusion Imaging Within 4.5 h of Onset of Ischaemic Stroke (TASTE): tors. Effect of intravenous tenecteplase dose on cerebral reperfusion before
+a multicentre, randomised, controlled, phase 3 non-inferiority trial. Lancet thrombectomy in patients with large vessel occlusion ischemic stroke: the
+Neurol. 2024;23:775–786. doi: 10.1016/S1474-4422(24)00206-0 EXTEND-IA TNK part 2 randomized clinical trial. JAMA. 2020;323:1257–
+10. Meng X, Li S, Dai H, Lu G, Wang W, Che F, Geng Y, Sun M, Li X, Li H, 1265. doi: 10.1001/jama.2020.1511
+et al. Tenecteplase vs alteplase for patients with acute ischemic stroke: 25. Wong LK. Global burden of intracranial atherosclerosis. Int J Stroke.
+the original randomized clinical trial. JAMA. 2024;332:1437. doi: 2006;1:158–159. doi: 10.1111/j.1747-4949.2006.00045.x
+10.1001/jama.2024.14721 26. Guglielmi V, LeCouffe NE, Zinkstok SM, Compagne KCJ, Eker R, Treurniet KM,
+11. Xiong Y, Campbell BCV, Schwamm LH, Meng X, Jin A, Parsons MW, Tolhuisen ML, van der Worp HB, Jansen IGH, van Oostenbrugge RJ, et al;
+Fisher M, Jiang Y, Che F, Wang L, et al. Tenecteplase for ischemic stroke at MR-CLEAN Registry Investigators. Collateral circulation and outcome in
+4.5 to 24 hours without thrombectomy. N Engl J Med. 2024;391:203–212. atherosclerotic versus cardioembolic cerebral large vessel occlusion. Stroke.
+doi: 10.1056/NEJMoa2402980 2019;50:3360–3368. doi: 10.1161/STROKEAHA.119.026299
+12. Albers GW, Jumaa M, Purdon B, Zaidi SF, Streib C, Shuaib A, Sangha N, Kim M, 27. Ng FC, Churilov L, Yassi N, Kleinig TJ, Thijs V, Wu T, Shah D,
+Froehler MT, Schwartz NE, et al; TIMELESS Investigators. Tenecteplase for Dewey H, Sharma G, Desmond P, et al. Prevalence and significance of
+stroke at 4.5 to 24 hours with perfusion-imaging selection. N Engl J Med. impaired microvascular tissue reperfusion despite macrovascular angio-
+2024;390:701–711. doi: 10.1056/NEJMoa2310392 graphic reperfusion (no-reflow). Neurology. 2022;98:e790–e801. doi:
+13. Cheng X, Hong L, Churilov L, Lin L, Ling Y, Zhang J, Yang J, Geng Y, Wu D, 10.1212/WNL.0000000000013210
+Liu X, et al. Tenecteplase thrombolysis for stroke up to 24 hours after onset 28. Meinel TR, Lerch C, Fischer U, Beyeler M, Mujanovic A, Kurmann C, Siepen B,
+with perfusion imaging selection: the umbrella phase IIa CHABLIS-T Scutelnic A, Muller M, Goeldlin M, et al. Multivariable prediction model for
+randomised clinical trial. Stroke Vasc Neurol. 2024;9:551–559. doi: futile recanalization therapies in patients with acute ischemic stroke. Neurol-
+10.1136/svn-2023-002820 ogy. 2022;99:e1009–e1018. doi: 10.1212/WNL.0000000000200815
+14. Cheng X, Hong L, Lin L, Churilov L, Ling Y, Zhang Y, Yang L, 29. Lee JS, Lee SJ, Yoo JS, Hong JH, Kim CH, Kim YW, Kang DH, Kim YS,
+Parsons M, Dong Q. Chinese Acute Tissue-Based Imaging Selection for Hong JM, Choi JW, et al. Prognosis of acute intracranial atherosclerosis-
+Lysis in Stroke Tenecteplase II (CHABLIS-T II): rationale and design related occlusion after endovascular treatment. J Stroke. 2018;20:394–
+[published online February 1, 2024]. Stroke Vasc Neurol. 2024. doi: 403. doi: 10.5853/jos.2018.01627
+10.1136/svn-2023-002890 30. Hong L, Ling Y, Zhang Y, Yang L, Li S, Liu X, Dong Q, Cheng X. Reperfusion
+15. Lin L, Bivard A, Krishnamurthy V, Levi CR, Parsons MW. Whole-brain CT measurements, treatment time, and outcomes in patients receiving endo-
+perfusion to quantify acute ischemic penumbra and core. Radiology. vascular treatment within 24 hours of last known well. CNS Neurosci Ther.
+2016;279:876–887. doi: 10.1148/radiol.2015150319 2023;29:1067–1074. doi: 10.1111/cns.14080
+354 February 2025 Stroke. 2025;56:344–354. DOI: 10.1161/STROKEAHA.124.048375
+Downloaded
+from
+http://ahajournals.org
+by
+on
+August
+26,
+2026

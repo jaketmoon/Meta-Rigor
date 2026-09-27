@@ -1,0 +1,62 @@
+{
+  "files": [
+    {
+      "bytes": 2883,
+      "path": "screening-protocol.json",
+      "sha256": "19df676e023631d7c5e8d897e77a3767714f3604a0e6cbc8e5bc8918f4f9c60b"
+    },
+    {
+      "bytes": 3280087,
+      "path": "records.jsonl",
+      "sha256": "f105d77f5d75240061205cc533c14bf305531220cf1ec5304cd58329175d194c"
+    }
+  ],
+  "record_count": 40,
+  "record_ids": [
+    "balbaa-2025:central:record:089",
+    "balbaa-2025:central:record:090",
+    "balbaa-2025:central:record:092",
+    "balbaa-2025:central:record:093",
+    "balbaa-2025:central:record:094",
+    "balbaa-2025:central:record:095",
+    "balbaa-2025:central:record:096",
+    "balbaa-2025:central:record:100",
+    "balbaa-2025:central:record:105",
+    "balbaa-2025:central:record:106",
+    "balbaa-2025:central:record:108",
+    "balbaa-2025:central:record:110",
+    "balbaa-2025:central:record:111",
+    "balbaa-2025:central:record:112",
+    "balbaa-2025:central:record:114",
+    "balbaa-2025:embase:record:046",
+    "balbaa-2025:embase:record:049",
+    "balbaa-2025:embase:record:062",
+    "balbaa-2025:embase:record:067",
+    "balbaa-2025:embase:record:073",
+    "balbaa-2025:embase:record:079",
+    "balbaa-2025:pubmed:record:002",
+    "balbaa-2025:pubmed:record:003",
+    "balbaa-2025:pubmed:record:007",
+    "balbaa-2025:pubmed:record:010",
+    "balbaa-2025:pubmed:record:013",
+    "balbaa-2025:pubmed:record:026",
+    "balbaa-2025:pubmed:record:029",
+    "balbaa-2025:pubmed:record:031",
+    "balbaa-2025:pubmed:record:033",
+    "balbaa-2025:pubmed:record:037",
+    "balbaa-2025:pubmed:record:038",
+    "balbaa-2025:scopus-extra:record:175",
+    "balbaa-2025:scopus:record:142",
+    "balbaa-2025:scopus:record:155",
+    "balbaa-2025:scopus:record:171",
+    "balbaa-2025:wos:record:129",
+    "balbaa-2025:wos:record:130",
+    "balbaa-2025:wos:record:133",
+    "balbaa-2025:wos:record:134"
+  ],
+  "schema_version": "1.0.0",
+  "semantic_input_sha256": "9130ece7dc77d3712be160985c4ef74c0a2ae64ecd3680b507c6d6e823588734",
+  "source_scope": "EXACT_MR_FULLTEXT_RECORDS_AND_SELECTED_DOCUMENTS",
+  "task": "FULL_TEXT_EVIDENCE_ACQUISITION",
+  "case_id": "balbaa-2025"
+}

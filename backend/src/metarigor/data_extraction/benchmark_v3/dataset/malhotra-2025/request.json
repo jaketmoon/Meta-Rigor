@@ -1,0 +1,330 @@
+{
+  "schema_version": "3.0.0",
+  "review_id": "malhotra.apixaban.extended.review.2025",
+  "protocol_content": {
+    "schema_version": "3.0.0",
+    "protocol_id": "malhotra.apixaban.extended.protocol.m0",
+    "title": "Reduced-dose versus full-dose apixaban for extended treatment of cancer-associated venous thromboembolism",
+    "research_question": "Among adults with active cancer receiving extended anticoagulation after at least six months of treatment for venous thromboembolism, compare reduced-dose with full-dose apixaban for the efficacy and safety outcomes specified by the Review.",
+    "review_criteria": "Include randomized controlled trials comparing apixaban 2.5 mg twice daily with apixaban 5 mg twice daily for extended treatment after at least six months of anticoagulation in adults with active cancer and venous thromboembolism. Extract directly reported participant counts and outcome-specific denominators through 12 months.",
+    "result_targets": [
+      {
+        "target_id": "result.recurrent_vte_or_bleeding.month12",
+        "population": "Adults with active cancer and venous thromboembolism who completed at least six months of anticoagulation and entered randomized extended treatment.",
+        "intervention": {
+          "label": "reduced-dose apixaban",
+          "aliases": [
+            "reduced-dose apixaban",
+            "apixaban 2.5 mg twice daily",
+            "2.5 mg twice daily"
+          ]
+        },
+        "comparator": {
+          "label": "full-dose apixaban",
+          "aliases": [
+            "full-dose apixaban",
+            "standard-dose apixaban",
+            "apixaban 5 mg twice daily",
+            "5 mg twice daily"
+          ]
+        },
+        "outcome": "Recurrent venous thromboembolism or bleeding composite",
+        "outcome_definition": "Composite of recurrent venous thromboembolism and bleeding as defined for the Review analysis.",
+        "timepoint": "12 months after randomization to extended treatment.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized extended-treatment comparison and extract the participant event count and outcome-specific arm denominator reported through 12 months.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.major_or_crnmb.month12",
+        "population": "Adults with active cancer and venous thromboembolism who completed at least six months of anticoagulation and entered randomized extended treatment.",
+        "intervention": {
+          "label": "reduced-dose apixaban",
+          "aliases": [
+            "reduced-dose apixaban",
+            "apixaban 2.5 mg twice daily",
+            "2.5 mg twice daily"
+          ]
+        },
+        "comparator": {
+          "label": "full-dose apixaban",
+          "aliases": [
+            "full-dose apixaban",
+            "standard-dose apixaban",
+            "apixaban 5 mg twice daily",
+            "5 mg twice daily"
+          ]
+        },
+        "outcome": "Major or clinically relevant nonmajor bleeding",
+        "outcome_definition": "First adjudicated major bleeding or clinically relevant nonmajor bleeding event.",
+        "timepoint": "12 months after randomization to extended treatment.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized extended-treatment comparison and extract the participant event count and outcome-specific arm denominator reported through 12 months.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.recurrent_vte.month12",
+        "population": "Adults with active cancer and venous thromboembolism who completed at least six months of anticoagulation and entered randomized extended treatment.",
+        "intervention": {
+          "label": "reduced-dose apixaban",
+          "aliases": [
+            "reduced-dose apixaban",
+            "apixaban 2.5 mg twice daily",
+            "2.5 mg twice daily"
+          ]
+        },
+        "comparator": {
+          "label": "full-dose apixaban",
+          "aliases": [
+            "full-dose apixaban",
+            "standard-dose apixaban",
+            "apixaban 5 mg twice daily",
+            "5 mg twice daily"
+          ]
+        },
+        "outcome": "Recurrent venous thromboembolism",
+        "outcome_definition": "Adjudicated fatal or nonfatal recurrent venous thromboembolism as defined by each trial.",
+        "timepoint": "12 months after randomization to extended treatment.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized extended-treatment comparison and extract the participant event count and outcome-specific arm denominator reported through 12 months.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.deep_vein_thrombosis.month12",
+        "population": "Adults with active cancer and venous thromboembolism who completed at least six months of anticoagulation and entered randomized extended treatment.",
+        "intervention": {
+          "label": "reduced-dose apixaban",
+          "aliases": [
+            "reduced-dose apixaban",
+            "apixaban 2.5 mg twice daily",
+            "2.5 mg twice daily"
+          ]
+        },
+        "comparator": {
+          "label": "full-dose apixaban",
+          "aliases": [
+            "full-dose apixaban",
+            "standard-dose apixaban",
+            "apixaban 5 mg twice daily",
+            "5 mg twice daily"
+          ]
+        },
+        "outcome": "Deep-vein thrombosis",
+        "outcome_definition": "Trial-reported recurrent deep-vein thrombosis component used by the Review.",
+        "timepoint": "12 months after randomization to extended treatment.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized extended-treatment comparison and extract the participant event count and outcome-specific arm denominator reported through 12 months.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.pulmonary_embolism.month12",
+        "population": "Adults with active cancer and venous thromboembolism who completed at least six months of anticoagulation and entered randomized extended treatment.",
+        "intervention": {
+          "label": "reduced-dose apixaban",
+          "aliases": [
+            "reduced-dose apixaban",
+            "apixaban 2.5 mg twice daily",
+            "2.5 mg twice daily"
+          ]
+        },
+        "comparator": {
+          "label": "full-dose apixaban",
+          "aliases": [
+            "full-dose apixaban",
+            "standard-dose apixaban",
+            "apixaban 5 mg twice daily",
+            "5 mg twice daily"
+          ]
+        },
+        "outcome": "Pulmonary embolism",
+        "outcome_definition": "Trial-reported recurrent pulmonary embolism component.",
+        "timepoint": "12 months after randomization to extended treatment.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized extended-treatment comparison and extract the participant event count and outcome-specific arm denominator reported through 12 months.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.major_bleeding.month12",
+        "population": "Adults with active cancer and venous thromboembolism who completed at least six months of anticoagulation and entered randomized extended treatment.",
+        "intervention": {
+          "label": "reduced-dose apixaban",
+          "aliases": [
+            "reduced-dose apixaban",
+            "apixaban 2.5 mg twice daily",
+            "2.5 mg twice daily"
+          ]
+        },
+        "comparator": {
+          "label": "full-dose apixaban",
+          "aliases": [
+            "full-dose apixaban",
+            "standard-dose apixaban",
+            "apixaban 5 mg twice daily",
+            "5 mg twice daily"
+          ]
+        },
+        "outcome": "Major bleeding",
+        "outcome_definition": "Adjudicated major bleeding according to the trial definition.",
+        "timepoint": "12 months after randomization to extended treatment.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized extended-treatment comparison and extract the participant event count and outcome-specific arm denominator reported through 12 months.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.crnmb.month12",
+        "population": "Adults with active cancer and venous thromboembolism who completed at least six months of anticoagulation and entered randomized extended treatment.",
+        "intervention": {
+          "label": "reduced-dose apixaban",
+          "aliases": [
+            "reduced-dose apixaban",
+            "apixaban 2.5 mg twice daily",
+            "2.5 mg twice daily"
+          ]
+        },
+        "comparator": {
+          "label": "full-dose apixaban",
+          "aliases": [
+            "full-dose apixaban",
+            "standard-dose apixaban",
+            "apixaban 5 mg twice daily",
+            "5 mg twice daily"
+          ]
+        },
+        "outcome": "Clinically relevant nonmajor bleeding",
+        "outcome_definition": "Adjudicated clinically relevant nonmajor bleeding according to the trial definition.",
+        "timepoint": "12 months after randomization to extended treatment.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized extended-treatment comparison and extract the participant event count and outcome-specific arm denominator reported through 12 months.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.all_cause_mortality.month12",
+        "population": "Adults with active cancer and venous thromboembolism who completed at least six months of anticoagulation and entered randomized extended treatment.",
+        "intervention": {
+          "label": "reduced-dose apixaban",
+          "aliases": [
+            "reduced-dose apixaban",
+            "apixaban 2.5 mg twice daily",
+            "2.5 mg twice daily"
+          ]
+        },
+        "comparator": {
+          "label": "full-dose apixaban",
+          "aliases": [
+            "full-dose apixaban",
+            "standard-dose apixaban",
+            "apixaban 5 mg twice daily",
+            "5 mg twice daily"
+          ]
+        },
+        "outcome": "All-cause mortality",
+        "outcome_definition": "Death from any cause.",
+        "timepoint": "12 months after randomization to extended treatment.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized extended-treatment comparison and extract the participant event count and outcome-specific arm denominator reported through 12 months.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      }
+    ]
+  },
+  "accepted_protocol_sha256": "f3c29cca14633db62e792e25a85f0b71606872fa0a065b8a163cae5b8a48c24b",
+  "protocol_acceptance": {
+    "actor": "project-owner",
+    "decided_at": "2026-08-27T01:00:00+08:00",
+    "decision": "ACCEPTED"
+  },
+  "governing_review_inventory_sha256": "2171b65d2d23d170eb8ac2f27ff5978b54030a754941fc86b2004df1e6e5ae61",
+  "accepted_study_inventory_sha256": "9733910c837352d423335be7e99c202a0cc327593ccf07efcaba6340ede06150",
+  "studies": [
+    {
+      "study_key": "eve",
+      "display_label": "EVE",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "api_cat",
+      "display_label": "API-CAT",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    }
+  ],
+  "reports": [
+    {
+      "report_key": "eve.primary",
+      "title": "Extending venous thromboembolism secondary prevention with apixaban in cancer patients: The EVE trial",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1016/j.jtha.2024.03.011"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "api_cat.primary",
+      "title": "Extended Reduced-Dose Apixaban for Cancer-Associated Venous Thromboembolism",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1056/NEJMoa2416112"
+        }
+      ],
+      "report_role": "PRIMARY"
+    }
+  ],
+  "report_study_bindings": [
+    {
+      "report_key": "eve.primary",
+      "study_key": "eve"
+    },
+    {
+      "report_key": "api_cat.primary",
+      "study_key": "api_cat"
+    }
+  ],
+  "report_identity_issues": [],
+  "documents": [
+    {
+      "document_key": "eve.fulltext",
+      "report_key": "eve.primary",
+      "input_path": "documents/eve-primary/source.txt",
+      "expected_sha256": "7c3dc87fffb2cced17aa76a30a1f103e43761d6057d2e47c16e61c638a8c6198",
+      "media_type": "text/plain",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1016/j.jtha.2024.03.011"
+    },
+    {
+      "document_key": "api_cat.fulltext",
+      "report_key": "api_cat.primary",
+      "input_path": "documents/api-cat-primary/source.txt",
+      "expected_sha256": "263cfb94aa2824475a5ec2e1bdb59af0a81cb63fbad886321058ca838173ac98",
+      "media_type": "text/plain",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1056/NEJMoa2416112"
+    },
+    {
+      "document_key": "api_cat.supplement",
+      "report_key": "api_cat.primary",
+      "input_path": "documents/api-cat-supplement/source.txt",
+      "expected_sha256": "609a84e7fcd55f7bdd44fbfbfcf0d763cd9830ad6fd3877d30de32b26c04c9b6",
+      "media_type": "text/plain",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1056/NEJMoa2416112"
+    }
+  ],
+  "source_dispositions": []
+}

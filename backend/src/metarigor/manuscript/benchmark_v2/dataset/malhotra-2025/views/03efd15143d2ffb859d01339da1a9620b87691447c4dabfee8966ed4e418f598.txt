@@ -1,0 +1,765 @@
+[DOCLING_PAGE 1]
+
+BACKGROUND
+
+In patients with active cancer and venous thromboembolism, whether extended treatment with a reduced dose of an oral anticoagulant is effective in preventing recurrent thromboembolic events and decreasing bleeding is unclear.
+
+METHODS
+
+We conducted a randomized, double-blind, noninferiority trial with blinded central outcome adjudication. Consecutive patients with active cancer and proximal deepvein thrombosis or pulmonary embolism who had completed at least 6 months of anticoagulant therapy were randomly assigned in a 1:1 ratio to receive oral apixaban at a reduced (2.5 mg) or full (5.0 mg) dose twice daily for 12 months. The primary outcome was centrally adjudicated fatal or nonfatal recurrent venous thromboembolism, assessed in a noninferiority analysis (margin of 2.00 for the upper boundary of the 95% confidence interval of the subhazard ratio). The key secondary outcome was clinically relevant bleeding, assessed in a superiority analysis.
+
+RESULTS
+
+A total of 1766 patients underwent randomization at a median time since the index event of 8.0 months (interquartile range, 6.5 to 12.6); 866 patients were assigned to the reduced-dose group, and 900 to the full-dose group. The median treatment duration was 11.8 months (interquartile range, 8.3 to 12.1). Recurrent venous thromboembolism occurred in 18 patients (cumulative incidence, 2.1%) in the reduced-dose group and in 24 (cumulative incidence, 2.8%) in the full-dose group (adjusted subhazard ratio, 0.76; 95% confidence interval [CI], 0.41 to 1.41; P = 0.001 for noninferiority). Clinically relevant bleeding occurred in 102 patients (cumulative incidence, 12.1%) in the reduced-dose group and in 136 (cumulative incidence, 15.6%) in the full-dose group (adjusted subhazard ratio, 0.75; 95% CI, 0.58 to 0.97; P = 0.03). Mortality was 17.7% in the reduced-dose group and 19.6% in the full-dose group (adjusted hazard ratio, 0.96; 95% CI, 0.86 to 1.06).
+
+CONCLUSIONS
+
+Extended anticoagulation with reduced-dose apixaban was noninferior to full-dose apixaban for the prevention of recurrent venous thromboembolism in patients with active cancer. The reduced dose led to a lower incidence of clinically relevant bleeding complications than the full dose. (Funded by the Bristol-Myers Squibb-Pfizer Alliance; API-CAT ClinicalTrials.gov number, NCT03692065.)
+
+The new england journal of medicine
+
+established in 1812
+
+April 10, 2025
+
+vol. 392 no. 14
+
+Extended Reduced-Dose Apixaban for Cancer-Associated Venous Thromboembolism
+
+I. Mahé, 1-4 M. Carrier, 5 D. Mayeur, 6,7 J. Chidiac, 1 E. Vicaut, 2,8 N. Falvo, 4,9 O. Sanchez, 2-4,10 C. Grange, 4,11 M. Monreal, 12-14 J.J. López-Núñez, 12,13,15 R. Otero-Candelera, 15,16 G. Le Gal, 5 E. Yeo, 17 M. Righini, 18 H. Robert-Ebadi, 18 M.V. Huisman, 19 F.A. Klok, 19 P. Westerweel, 20 G. Agnelli, 21 C. Becattini, 21 A. Bamias, 22 K. Syrigos, 23 S. Szmit, 24,25 A. Torbicki, 24 P. Verhamme, 26 A. Maraveyas, 27 A.T. Cohen, 28 C. Ay, 29 C. Chapelle, 30,31 G. Meyer, 2,4 * F. Couturaud, 4,32,33 P. Mismetti, 4,31,34,35 P. Girard, 4,36 L. Bertoletti, 4,31,34,35 and S. Laporte, 4,30,31 for the API-CAT Investigators†
+
+abstract
+
+The authors' full names, academic degrees, and affiliations are listed at the end of the article. Dr. Mahé can be contacted at ­ isabelle .­ mahe@ ­ aphp .­ fr or at Hôpital Louis Mourier, Service de Médecine Interne, Assistance Publique-Hôpitaux de Paris, Université Paris Cité, 178 Rue des Renouillers, 92700 Colombes, France.
+
+*Deceased.
+
+†A list of the API-CAT investigators is provided in the Supplementary Appendix, available at NEJM.org.
+
+This article was published on March 29, 2025, at NEJM.org.
+
+N Engl J Med 2025;392:1363-73. DOI: 10.1056/NEJMoa2416112
+
+Copyright © 2025 Massachusetts Medical Society.
+
+CME
+
+n engl j med 392;14 nejm.org April 10, 2025
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+1363
+
+[DOCLING_PAGE 2]
+
+The new england journal o f medicine
+
+A Quick Take is available at NEJM.org P atients with cancer are at higher risk for venous thromboembolism than the general population. Patients with cancer-associated venous thromboembolism are at greater risk for recurrent events despite anticoagulant therapy and for bleeding complications than patients with venous thromboembolism who do not have cancer. 1,2 Anticoagulation with a direct oral anticoagulant or low-molecular-weight heparin is recommended for an initial period of 6 months. 3-9
+
+Patients with active cancer remain at risk for recurrent venous thromboembolism 3-9 if anticoagulant therapy is stopped after the initial treatment. 10,11 Clinical practice guidelines suggest that anticoagulant therapy be continued for as long as the cancer remains active or cancer treatment is ongoing, 10,12-15 but clinicians need to balance the benefits of anticoagulant therapy with the risk of bleeding complications, which persist over time. 7,8,16,17
+
+Owing to limited data from randomized trials, appropriate and effective regimens of anticoagulant therapy beyond the initial 6 months have been unclear. The use of a reduced dose of an oral anticoagulant, which has been suggested for extended treatment in patients without cancer, 18 appears to be an attractive treatment option in the population of patients with cancer but requires specific prospective assessment of its efficacy and safety as compared with a full dose.
+
+We conducted the Apixaban Cancer Associated Thrombosis (API-CAT) trial to assess whether a reduced-dose regimen of apixaban (2.5 mg twice daily) would be noninferior to a full-dose regimen (5.0 mg twice daily) for the prevention of recurrent venous thromboembolism in patients with active cancer who had completed at least 6 months of anticoagulant therapy for proximal deep-vein thrombosis or pulmonary embolism. Our key secondary objective was to investigate whether the reduced dose would be safer than the full dose with respect to clinically relevant bleeding.
+
+Methods
+
+Trial Design and Oversight
+
+We conducted this international, prospective, double-blind, noninferiority trial with blinded adjudication of outcome events, comparing apixaban at a dose of 2.5 mg twice daily with apixaban at a dose of 5.0 mg twice daily. The steering com- mittee was responsible for the design and oversight of the trial, the development of the protocol (available with the full text of this article at NEJM.org), the analysis of the data, the writing of the manuscript, and the decision to submit the manuscript for publication. The investigators gathered the data. The first author wrote the first draft of the manuscript. The authors vouch for the completeness and accuracy of the data and for the adherence of the trial to the protocol. The trial was conducted according to the Good Clinical Practice guidelines of the International Council for Harmonisation, the principles of the Declaration of Helsinki, and local regulations. The protocol, which has been published previously, 19 was approved by the institutional review board, independent ethics committee, or research ethics board at each trial site. All the patients provided written informed consent.
+
+The trial was managed by Assistance Publique-Hôpitaux de Paris (AP-HP) and was funded by the Bristol-Myers Squibb-Pfizer Alliance. The trial was coordinated by the Clinical Research and Innovation Unit of AP-HP and the steering committee. Data were collected and maintained with the use of the CleanWeb electronic datacapture system and analyzed by the Clinical Research Unit of the University Hospital of Saint-Étienne (France) under the supervision of the steering committee. A central adjudication committee whose members were unaware of the treatment assignments reviewed all suspected outcome events and causes of death. An independent data and safety monitoring board periodically reviewed trial safety. The trial investigators and committees are listed in the Supplementary Appendix (available at NEJM.org). The funder had no role in the trial design or conduct of the trial; in the collection, analysis, or interpretation of the data; or in the review or editing of the manuscript. The funder provided apixaban in bulk, free of charge; packaging of the drug and placebo tablets was the responsibility of AP-HP.
+
+Randomization and Trial Intervention
+
+Patients with active cancer 20 (see the Supplementary Appendix for definitions) and venous thromboembolism (defined as proximal deep-vein thrombosis of the lower limb [popliteal or more proximal vein of the lower limb or inferior vena cava] or symptomatic or incidental pulmonary embolism in a segmental or larger pulmonary artery) who had completed at least 6 months of treatment with a low-molecular-weight heparin, direct oral anticoagulant, or vitamin K antagonist and were without objectively documented symptomatic recurrent events during this treatment period were eligible to participate. Patients were randomly assigned in a 1:1 ratio to a reduced-dose regimen of apixaban (2.5 mg twice daily) or a full-dose regimen (5.0 mg twice daily), with treatment administered for 12 months. Randomization was conducted centrally with the use of an interactive Web-response system with stratification according to trial center, index event (pulmonary embolism with or without deep-vein thrombosis vs. isolated proximal deep-vein thrombosis), and site of cancer (breast, prostate, colon or rectum, lung, or other).
+
+1364
+
+n engl j med 392;14 nejm.org April 10, 2025
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+[DOCLING_PAGE 3]
+
+Apixaban for Cancer-Associated Venous Thromboembolism
+
+Patients who had been randomly assigned to the reduced-dose group received both a 2.5-mg tablet of apixaban and a placebo tablet matching the 5.0-mg dose twice daily; those who had been randomly assigned to the full-dose group received both a 5.0-mg tablet of apixaban and a placebo tablet matching the 2.5-mg dose twice daily. Patients who were being treated with a vitamin K antagonist at inclusion had to have a documented international normalized ratio of 2 or below before starting treatment. Patients, investigators, and the adjudication committee were unaware of the treatment assignments.
+
+Trial visits were scheduled at enrollment and at 1, 3, 6, 9, 12, and 13 months after randomization. Additional visits were scheduled in the event of suspected recurrent venous thromboembolism.
+
+Outcome Measures
+
+The primary efficacy outcome was centrally adjudicated fatal or nonfatal recurrent venous thromboembolism over the 12-month follow-up period. Recurrent venous thromboembolism was defined, according to the International Society on Thrombosis and Haemostasis guidance criteria, 21 as objectively confirmed new symptomatic distal or proximal deep-vein thrombosis in a lower limb, pulmonary embolism or upper-limb or central venous catheter-related thrombosis, incidental proximal deep-vein thrombosis, or incidental pulmonary embolism. Venous thromboembolism-related death (included in the primary outcome) was defined as objectively confirmed pulmonary embolism (confirmed on autopsy or with the availability of recent positive imaging tests)
+
+or sudden death for which pulmonary embolism could not be ruled out, with alternative diagnoses less likely than pulmonary embolism.
+
+The key secondary outcome was clinically relevant bleeding, which was defined as a composite of adjudicated major or clinically relevant nonmajor bleeding during the 12-month followup period. Other efficacy outcomes included the components of the primary outcome and a composite of major recurrent venous thromboembolism (pulmonary embolism or proximal deep-vein thrombosis). Other safety outcomes included the components of the key secondary outcome, major bleeding, death from any cause, and adverse events. A composite of recurrent symptomatic venous thromboembolism, major bleeding, or death from any cause (net clinical benefit analysis) was also evaluated. Detailed outcome definitions are provided in the Supplementary Appendix.
+
+Statistical Analysis
+
+The trial hypothesis was that a 2.5-mg, twicedaily regimen of apixaban would be noninferior to a 5.0-mg, twice-daily regimen with respect to the primary outcome (recurrent venous thromboembolism) with a prespecified noninferiority margin of 2.00 for the upper boundary of the two-sided 95% confidence interval of the subdistribution hazard ratio (subhazard ratio). The noninferiority margin was based on the Apixaban after the Initial Management of Pulmonary Embolism and Deep Vein Thrombosis with FirstLine Therapy-Extended Treatment (AMPLIFY-EXT) trial, 18 and we estimated that the risk of recurrent venous thromboembolism would be 7.4 percentage points lower with the 5.0-mg dose of apixaban than with placebo. Preserving 50% of this effect (3.7 percentage points) led to an upper boundary of 1.92 for the 95% confidence interval of the hazard ratio. A rounded margin of 2.00 was justified to ensure a safer treatment without compromising putative superiority over placebo. 22 This margin aligns with the margins used in previous trials of apixaban, including the Caravaggio trial. 23
+
+We estimated that 1722 patients (861 patients per group, with a total of 65 events) would need to be enrolled for the trial to have 80% power to show noninferiority of the reduced apixaban dose to the full dose, at a one-sided type I error of 2.5%, assuming an estimated annual incidence of recurrent venous thromboembolism of 4%
+
+n engl j med 392;14 nejm.org April 10, 2025
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+1365
+
+[DOCLING_PAGE 4]
+
+The new england journal o f medicine
+
+with the full apixaban dose 7,9,18 and accounting for a maximum of 10% of the patients withdrawing or being lost to follow-up. The sample size would also provide sufficient power to show a 50% lower risk of the key secondary outcome in the reduced-dose group than in the full-dose group. 19 The sample-size estimation was performed with the use of nQuery software, version 7 (Statistical Solutions).
+
+To evaluate whether the reduced-dose apixaban regimen would be noninferior to the fulldose regimen, we performed a time-to-event analysis using the Fine and Gray regression model with the randomization strata as covariates to account for the competing risk of death. 24,25 If noninferiority was shown for the primary outcome in the intention-to-treat and per-protocol populations, the superiority of the reduced dose to the full dose with respect to the key secondary outcome would then be tested by means of the prespecified hierarchical strategy. This analysis would be conducted in the intention-to-treat population with the use of the Fine and Gray regression model. The intention-to-treat population included all the patients who had undergone randomization. The per-protocol population included all the patients who had undergone randomization, had received at least one dose of apixaban, and had not had any major protocol violations or deviations (see the protocol).
+
+For the primary outcome and the key secondary outcome, the treatment effect was estimated as the subhazard ratio, with adjustment for the randomization strata, and the 95% two-sided confidence interval. Overall significance was set at the twosided type I error of 0.05. Analysis of outcomes was done by considering the time from randomization to the first event, with accounting for the competing risk of death or the last known follow-up date if neither the outcome nor a competing event occurred during the 12-month follow-up period (censored time). Prespecified subgroup analyses to assess homogeneity of the treatment effect were conducted for both the primary efficacy outcome and the key secondary safety outcome.
+
+For other efficacy and safety outcomes (except in the analysis of death from any cause and in the net clinical benefit analysis), the statistical analysis was conducted in the intention-totreat population, and time-to-event analyses were also performed with the use of the Fine and Gray regression model. The treatment effect was estimated by the subhazard ratio, with a two-sided 95% confidence interval. In the analysis of death from any cause and the net clinical benefit analysis, the time-to-event analysis was conducted with the use of the Kaplan-Meier method. The treatment effect was estimated as the hazard ratio, with a two-sided 95% confidence interval.
+
+No imputation for missing data was performed. Patients had their data censored at the date of their last encounter. Because the statistical analysis plan (available with the protocol) did not include a provision for correction for multiplicity when tests were conducted for additional secondary outcomes or according to subgroup, results are reported as point estimates with 95% confidence intervals. The widths of the confidence intervals for all the secondary outcomes have not been adjusted for multiplicity and should not be used to infer definitive treatment effects.
+
+Results
+
+Patients and Treatments
+
+From October 11, 2018, to September 6, 2023, a total of 1766 patients underwent randomization at 121 centers in 11 countries and were included in the intention-to-treat population (Fig. 1, and see the Supplementary Appendix). A total of 866 patients were assigned to the reduced-dose group and 900 to the full-dose group.
+
+The baseline demographic and clinical characteristics of the patients appeared to be similar in the two groups (Table 1). The median age of the patients was 69 years (interquartile range, 61 to 75), and 766 patients (43.4%) were men. Among patients with active cancer, the most frequent sites of the primary cancer were the breast (in 22.7% of the patients), colon or rectum (in 15.2%), gynecologic system (in 12.1%), and lung (in 11.3%) (Table S1 in the Supplementary Appendix). Anticancer treatments are reported in Table S2. A total of 1631 of 1761 patients (92.6%) had an Eastern Cooperative Oncology Group performance-status score of 0 or 1 (scale, 0 to 5, with higher scores indicating greater disability). The index event was a lower-limb proximal deep-vein thrombosis without pulmonary embolism in 432 patients (24.5%) and pulmonary embolism in 1334 patients (75.5%). The median time since the diagnosis of the index venous thromboembolism was 8.0 months (inter- quartile range, 6.5 to 12.6). During the 30 days before inclusion, 770 patients (43.6%) received anticoagulant treatment with a direct oral anticoagulant, 967 (54.8%) received low-molecularweight heparin, 22 (1.2%) received a vitamin K antagonist, and 7 (0.4%) received fondaparinux.
+
+1366
+
+n engl j med 392;14 nejm.org April 10, 2025
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+[DOCLING_PAGE 5]
+
+Apixaban for Cancer-Associated Venous Thromboembolism
+
+The median duration of treatment in the over- all trial population was 11.8 months (interquartile range, 8.3 to 12.1), with a median of 11.9 months (interquartile range, 9.0 to 12.1) in the reduceddose group and 11.8 months (interquartile range, 7.6 to 12.1) in the full-dose group. The reasons for the permanent discontinuation of apixaban are shown in Table S3.
+
+Figure 1. Randomization, Treatment, and Follow-up of the Patients.
+
+1766 Patients underwent randomization
+
+866 Were assigned to reduced-dose
+
+apixaban (2.5 mg, twice daily)
+
+900 Were assigned to full-dose apixaban
+
+(5.0 mg, twice daily)
+
+184 Did not complete the overall trial
+
+period
+
+148 Died
+
+7 Withdrew consent
+
+3 Were lost to follow-up
+
+26 Had other reason
+
+189 Discontinued trial treatment
+
+21 Had primary or key secondary
+
+outcome event
+
+7 Had treatment-related adverse
+
+event
+
+37 Had major adverse event
+
+4 Withdrew consent
+
+38 Stopped treatment owing
+
+to patient decision
+
+51 Stopped treatment owing
+
+to physician decision
+
+31 Had other reason
+
+220 Did not complete the overall trial
+
+period
+
+168 Died
+
+17 Withdrew consent
+
+35 Had other reason
+
+224 Discontinued trial treatment
+
+37 Had primary or key secondary
+
+outcome event
+
+5 Had treatment-related adverse
+
+event
+
+50 Had major adverse event
+
+12 Withdrew consent
+
+30 Stopped treatment owing
+
+to patient decision
+
+64 Stopped treatment owing
+
+to physician decision
+
+26 Had other reason
+
+866 Were included in the intention-to-
+
+treat population
+
+900 Were included in the intention-to-
+
+treat population
+
+765 Were included in the per-protocol
+
+population
+
+755 Were included in the per-protocol
+
+population
+
+890 Received full-dose apixaban
+
+10 Did not receive trial treatment
+
+4 Did not start treatment owing
+
+to patient decision
+
+2 Withdrew consent
+
+1 Participated in another trial
+
+3 Did not start treatment owing
+
+to physician decision
+
+861 Received reduced-dose apixaban
+
+5 Did not receive trial treatment
+
+3 Did not start treatment owing
+
+to patient decision
+
+1 Withdrew consent
+
+1 Met an exclusion criterion
+
+111 Were excluded from per-protocol
+
+population
+
+5 Did not receive trial treatment
+
+21 Did not meet inclusion criteria
+
+85 Discontinued trial treatment for
+
+>30 consecutive days
+
+135 Were excluded from per-protocol
+
+population
+
+10 Did not receive trial treatment
+
+24 Did not meet inclusion criteria
+
+101 Discontinued trial treatment for
+
+>30 consecutive days
+
+n engl j med 392;14 nejm.org April 10, 2025
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+1367
+
+[DOCLING_PAGE 6]
+
+The new england journal o f medicine
+
+[DOCLING_TABLE rows=34 columns=3]
+| Table 1. Demographic and Clinical Characteristics of the Patients at Baseline (Intention-to-Treat Population).* | Table 1. Demographic and Clinical Characteristics of the Patients at Baseline (Intention-to-Treat Population).* | Table 1. Demographic and Clinical Characteristics of the Patients at Baseline (Intention-to-Treat Population).* |
+| Characteristic | Reduced-Dose Apixaban (N = 866) | Full-Dose Apixaban (N = 900) |
+| Age - yr | 67.2±11.0 | 67.7±11.4 |
+| Male sex - no. (%) | 375 (43.3) | 391 (43.4) |
+| Body weight - kg | 75.7±16.3 | 75.7±16.4 |
+| Body-mass index† | 27.0±5.3 | 27.0±5.4 |
+| Platelet count <100,000/mm 3 - no./total no. (%) | 18/863 (2.1) | 15/899 (1.7) |
+| Creatinine clearance <50 ml/min - no./total no. (%) | 115/864 (13.3) | 127/900 (14.1) |
+| Qualifying diagnosis of venous thromboembolism - no. (%) |  |  |
+| Pulmonary embolism with or without lower-limb proximal deep-vein thrombosis | 669 (77.3) | 665 (73.9) |
+| Lower-limb proximal deep-vein thrombosis only | 197 (22.7) | 235 (26.1) |
+| Clinical manifestation of index venous thromboembolism - no./total no. (%) |  |  |
+| Symptomatic deep-vein thrombosis or pulmonary embolism | 528/856 (61.7) | 580/888 (65.3) |
+| Incidental pulmonary embolism | 290/856 (33.9) | 275/888 (31.0) |
+| Incidental deep-vein thrombosis only | 38/856 (4.4) | 33/888 (3.7) |
+| History of venous thromboembolism - no. (%) | 157 (18.1) | 170 (18.9) |
+| Active cancer - no. (%)‡ | 864 (99.8) | 897 (99.7) |
+| Stage of cancer - no. (%) |  |  |
+| Localized | 111 (12.8) | 117 (13.0) |
+| Locally advanced | 115 (13.3) | 113 (12.6) |
+| Metastatic | 574 (66.3) | 584 (64.9) |
+| Other | 64 (7.4) | 83 (9.2) |
+| Unknown | 2 (0.2) | 3 (0.3) |
+| Site of cancer - no. (%) |  |  |
+| Breast | 199 (23.0) | 202 (22.4) |
+| Prostate | 77 (8.9) | 87 (9.7) |
+| Colon or rectum | 123 (14.2) | 148 (16.4) |
+| Lung | 99 (11.4) | 100 (11.1) |
+| Other | 368 (42.5) | 363 (40.3) |
+| ECOG performance-status score - no. (%)§ |  |  |
+| 0 | 456 (52.7) | 504 (56.0) |
+| 1 | 342 (39.5) | 329 (36.6) |
+| 2 | 67 (7.7) | 63 (7.0) |
+| Unknown | 1 (0.1) | 4 (0.4) |
+[/DOCLING_TABLE]
+
+1368
+
+n engl j med 392;14 nejm.org April 10, 2025
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+[DOCLING_PAGE 7]
+
+Apixaban for Cancer-Associated Venous Thromboembolism
+
+Primary Efficacy Outcome and Key Secondary Safety Outcome
+
+In the intention-to-treat analysis, recurrent venous thromboembolism (the primary outcome) occurred in 18 patients (cumulative incidence, 2.1%) in the reduced-dose group and in 24 patients (cumulative incidence, 2.8%) in the full-dose group (adjusted subhazard ratio, 0.76; 95% confidence interval [CI], 0.41 to 1.41; P = 0.001 for noninferiority; prespecified noninferiority margin, 2.00) (Table 2 and Fig. 2A). Results of the per-protocol analyses are shown in Table S4 and Figure S1.
+
+Clinically relevant bleeding (the key secondary outcome) occurred in 102 patients (cumulative incidence, 12.1%) in the reduced-dose group and in 136 patients (cumulative incidence, 15.6%) in the full-dose group (adjusted subhazard ratio, 0.75; 95% CI, 0.58 to 0.97; P = 0.03 for superiority) (Table 2 and Fig. 2B). Major bleeding occurred in 24 patients (cumulative incidence, 2.9%) in the reduced-dose group and in 37 patients (cumulative incidence, 4.3%) in the full-dose group (adjusted subhazard ratio, 0.66; 95% CI, 0.40 to 1.10). The time to a major bleeding event is shown in Figure S2. Sites of bleeding are reported in Table S5. Major gastrointestinal bleeding occurred in 37 patients (upper gastrointestinal bleeding in 6 patients in the reduced-dose group and in 13 in the full-dose group; lower gastrointestinal bleeding in 7 and 13 patients, respectively; 2 patients [1 in each group] had both upper and lower gastrointestinal bleeding). Two bleeding episodes in each group were fatal. Clinically relevant nonmajor bleeding occurred in 84 patients (cumulative incidence, 10.0%) in the reduced-dose group and in 107 patients (cumulative incidence, 12.3%) in the full-dose group (adjusted subhazard ratio, 0.79; 95% CI, 0.59 to 1.05). Subgroup analyses of recurrent venous thromboembolism and clinically relevant bleeding are shown in Figures S4, S5, and S6.
+
+Secondary Outcomes
+
+The cumulative incidence of recurrent major venous thromboembolism was 2.0% in the reduceddose group and 2.4% in the full-dose group (subhazard ratio, 0.83; 95% CI, 0.44 to 1.57) (Table 2). Overall, the 12-month mortality was 18.7%. Death from any cause occurred in 148 patients (cumulative incidence, 17.7%) in the reduced-dose group and in 168 patients (cumulative incidence, 19.6%)
+
+in the full-dose group (Table 2 and Fig. S3). Most deaths were related to cancer (in 82.4% of the patients in the reduced-dose group and in 84.5% of those in the full-dose group) (Table S6). Five unexplained sudden deaths (in 3 patients in the reduced-dose group and in 2 in the full-dose group) occurred for which pulmonary embolism could not be ruled out. No objectively confirmed cases of fatal pulmonary embolism occurred.
+
+The combined cumulative incidence of recurrent symptomatic venous thromboembolism, major bleeding, or death from any cause (net clinical benefit analysis) was 19.9% in the reduced-dose group and 22.1% in the full-dose group (hazard ratio, 0.96; 95% CI, 0.87 to 1.07) (Table 2). At least one serious adverse event occurred in 345 patients (39.8%) in the reduced-dose group and in 394 patients (43.8%) in the full-dose group (Table S7).
+
+Discussion
+
+The API-CAT trial investigated the efficacy and safety of two different regimens of extended anticoagulant therapy in patients with cancerassociated venous thromboembolism. The trial showed that a reduced-dose regimen of apixaban (2.5 mg twice daily) was noninferior to a full-dose regimen (5.0 mg twice daily) with regard to the prevention of recurrent venous thromboembolism in patients with active cancer who had completed at least 6 months of anticoagulant treatment for proximal deep-vein thrombosis or pulmonary embolism. In addition, the incidence of clinically relevant bleeding was lower with the reduced-dose regimen than with the full-dose regimen.
+
+Treatment guidelines recommend the continuation of anticoagulant therapy for as long as the cancer is active, given that discontinuation is associated with a high risk of recurrent venous thromboembolism. 10,11 However, the avoidance of bleeding complications during extended anticoagulant therapy is a key issue that also requires consideration. In the present trial, the incidence of recurrent venous thromboembolism during the 12 months of extended treatment was low in each group, and the reduced dose was not associated with an excess incidence of recurrent events. The trial also showed that the risk of clinically relevant bleeding was significantly lower with the reduced dose than with the full dose.
+
+n engl j med 392;14 nejm.org April 10, 2025
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+1369
+
+[DOCLING_PAGE 8]
+
+The new england journal o f medicine
+
+[DOCLING_TABLE rows=24 columns=5]
+| Table 2. Clinical Outcomes during the Trial Period.* | Table 2. Clinical Outcomes during the Trial Period.* | Table 2. Clinical Outcomes during the Trial Period.* | Table 2. Clinical Outcomes during the Trial Period.* | Table 2. Clinical Outcomes during the Trial Period.* |
+| Outcome | Reduced-Dose Apixaban (N = 866) | Full-Dose Apixaban (N = 900) | Treatment Effect (95% CI) | P Value |
+|  | number (percent) | number (percent) |  |  |
+| Primary efficacy outcome: recurrent venous thromboembolism† | 18 (2.1) | 24 (2.8) | 0.76 (0.41-1.41) | 0.001 |
+| Recurrent symptomatic venous thromboembolism | 17 (2.0) | 18 (2.1) | 0.97 (0.50-1.88) | - |
+| Lower-limb deep-vein thrombosis‡ | 8 (0.9) | 6 (0.7) | - |  |
+| Pulmonary embolism | 9 (1.1) | 10 (1.2) | - |  |
+| Fatal pulmonary embolism | 0 | 0 | - |  |
+| Unexplained sudden death§ | 3 (0.4) | 2 (0.3) | - |  |
+| Upper-limb deep-vein thrombosis | 1 (0.1) | 3 (0.4) | - |  |
+| Central venous catheter-related thrombosis | 1 (0.1) | 2 (0.2) | - |  |
+| Incidental venous thromboembolism¶ | 1 (0.1) | 6 (0.7) | - |  |
+| Recurrent major venous thromboembolism‖ | 17 (2.0) | 21 (2.4) | 0.83 (0.44-1.57) | - |
+| Key secondary safety outcome: major or clinically relevant non- major bleeding** | 102 (12.1) | 136 (15.6) | 0.75 (0.58-0.97) | 0.03 |
+| Major bleeding | 24 (2.9) | 37 (4.3) | 0.66 (0.40-1.10) | - |
+| Fatal bleeding | 2 (0.2) | 2 (0.2) | - |  |
+| Major gastrointestinal bleeding | 12 (1.4) | 25 (2.9) | - |  |
+| Upper gastrointestinal bleeding | 6 (0.7) | 13 (1.5) | - |  |
+| Lower gastrointestinal bleeding | 7 (0.8) | 13 (1.5) | - |  |
+| Clinically relevant nonmajor bleeding | 84 (10.0) | 107 (12.3) | 0.79 (0.59-1.05) |  |
+| Other secondary outcomes |  |  |  |  |
+| Death from any cause | 148 (17.7) | 168 (19.6) | 0.96 (0.86-1.06) | - |
+| Recurrent symptomatic venous thromboembolism, major bleeding, or death from any cause†† | 167 (19.9) | 191 (22.1) | 0.96 (0.87-1.07) | - |
+| Major venous thromboembolism or major bleeding‡‡ | 41 (5.2) | 55 (6.8) | 0.96 (0.87-1.06) | - |
+[/DOCLING_TABLE]
+
+ Percentages are the cumulative incidence and thus may not calculate as expected. The treatment effect was estimated as the subdistribution hazard ratio (subhazard ratio) with adjustment for the randomization strata, except for the analyses of death from any cause and the composite of recurrent symptomatic venous thromboembolism, major bleeding, or death from any cause, for which a hazard ratio is reported. The widths of confidence intervals for all the secondary outcomes have not been adjusted for multiplicity and cannot be used to infer treatment effects.
+
+†  The primary efficacy outcome (recurrent venous thromboembolism) was a composite of recurrent symptomatic venous thromboembolism or incidental venous thromboembolism. The P value is for noninferiority (margin for the upper boundary of the 95% confidence interval, 2.00).
+
+‡  Two events of distal deep-vein thrombosis occurred in each group.
+
+§  Data are for unexplained sudden deaths for which pulmonary embolism could not be ruled out.
+
+¶  All events were pulmonary embolisms. No incidental proximal deep-vein thrombosis was observed.
+
+‖  Major venous thromboembolism was defined as pulmonary embolism or proximal deep-vein thrombosis.
+
+**  Six patients in the reduced-dose group and eight in the full-dose group had both a major bleeding event and a clinically relevant nonmajor bleeding event during the 12-month follow-up period. The P value for the key secondary outcome is for superiority.
+
+††  The composite of recurrent symptomatic venous thromboembolism, major bleeding, or death from any cause was assessed as a net clinical benefit analysis.
+
+‡‡  The composite of major venous thromboembolism or major bleeding was assessed in a post hoc analysis; no statistical test was performed, although a subhazard ratio is provided.
+
+The incidence of major bleeding, including major gastrointestinal bleeding, appeared to be lower among patients receiving the reduced dose of apixaban than among those receiving the full dose. Results were similar across the subgroups.
+
+The incidence of recurrent venous thrombo- embolism in this high-risk population receiving contemporary anticancer treatments was lower than anticipated; recurrent venous thromboembolism occurred in 2.1% of the patients receiving 2.5 mg of apixaban twice daily and in 2.8% of those receiving 5.0 mg of apixaban twice daily - a finding that could be related to the inclusion of patients with incidental venous thromboembolic events and different tumor primary sites (e.g., breast cancer). However, these results are consistent with previously published data. 26,27 The risk of bleeding was high during the 12 months after the completion of at least 6 months of treatment in this trial and remains a matter of concern. 23,26 The 12-month mortality of 18.7% was lower than that observed over the first 6 months of treatment in other cancer-associated thrombosis trials, which probably reflects the lower risk of death among patients surviving for 6 months after the index venous thromboembolism. 23,26-28
+
+1370
+
+n engl j med 392;14 nejm.org April 10, 2025
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+[DOCLING_PAGE 9]
+
+Apixaban for Cancer-Associated Venous Thromboembolism
+
+Our trial has limitations. We have no data on treatment effects according to ethnic group; owing to legal constraints in France, no data were collected on race and ethnic group in this trial. Furthermore, the trial provides data over a period of 12 months of extended anticoagulant therapy, and the potential efficacy and safety of a longer duration of treatment therefore remain uncertain. Regarding strengths, API-CAT was a randomized, double-blind trial with independent central adjudication of outcomes that included patients with a wide spectrum of cancers representative of current clinical practice. Our trial population is reflective of patients undergoing extended treatment in routine clinical practice in terms of their age, cancer site, and extent of cancer (Table S8). The baseline characteristics of the patients in our trial were similar to those in observational studies and randomized trials, which suggests that our results may be generalizable to patients with active cancer receiving extended-duration anticoagulant therapy. 3,16,26
+
+Extended anticoagulant therapy with reduceddose apixaban was noninferior to full-dose apixa­ ban with regard to the prevention of recurrent venous thromboembolism in patients with active cancer. Moreover, the reduced dose resulted in a lower incidence of clinically relevant bleeding than the full dose.
+
+Figure 2. Recurrent Venous Thromboembolism and Clinically Relevant Bleeding (Intention-to-Treat Population).
+
+A Recurrent Venous Thromboembolism
+
+Adjusted subhazard ratio
+
+with reduced vs. full dose,
+
+0.76 (95% CI, 0.41-1.41)
+
+P=0.001 for noninferiority
+
+Full-dose apixaban
+
+Reduced-dose
+
+apixaban
+
+2.5
+
+3.0
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+0
+
+3
+
+6
+
+9
+
+12
+
+3
+
+6
+
+9
+
+12
+
+Months since Index Event
+
+Full-dose apixaban
+
+Reduced-dose
+
+apixaban
+
+900
+
+866
+
+834
+
+820
+
+771
+
+769
+
+722
+
+722
+
+659
+
+660
+
+Estimated Cumulative Incidence (%)
+
+100
+
+80
+
+90
+
+70
+
+60
+
+40
+
+30
+
+10
+
+50
+
+20
+
+0
+
+0
+
+No. at Risk
+
+B Clinically Relevant Bleeding
+
+Adjusted subhazard ratio
+
+with reduced vs. full dose,
+
+0.75 (95% CI, 0.58-0.97)
+
+P=0.03
+
+Full-dose apixaban
+
+Reduced-dose
+
+apixaban
+
+20
+
+0
+
+5
+
+10
+
+15
+
+0
+
+3
+
+6
+
+9
+
+12
+
+3
+
+6
+
+9
+
+12
+
+Months since Index Event
+
+Full-dose apixaban
+
+Reduced-dose
+
+apixaban
+
+900
+
+866
+
+796
+
+795
+
+725
+
+736
+
+682
+
+662
+
+593
+
+619
+
+Estimated Cumulative Incidence (%)
+
+100
+
+80
+
+90
+
+70
+
+60
+
+40
+
+30
+
+10
+
+50
+
+20
+
+0
+
+0
+
+No. at Risk
+
+Shown is the cumulative incidence of recurrent venous thromboembolism (primary efficacy outcome) (Panel A) and of clinically relevant bleeding (key secondary safety outcome) (Panel B) among patients who received apixaban at a reduced (2.5 mg) or full (5.0 mg) dose twice daily for 12 months. The P value for the primary efficacy outcome was for noninferiority (margin for the upper boundary of the 95% confidence interval of the subdistribution hazard ratio [subhazard ratio], 2.00), and the P value for the key secondary safety outcome was for superiority. In both panels, the inset shows the same data on an expanded y axis.
+
+Supported by the Bristol-Myers Squibb-Pfizer Alliance.
+
+Disclosure forms provided by the authors are available with the full text of this article at NEJM.org.
+
+A data sharing statement provided by the authors is available with the full text of this article at NEJM.org.
+
+n engl j med 392;14 nejm.org April 10, 2025
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+1371
+
+[DOCLING_PAGE 10]
+
+The new england journal o f medicine
+
+Author Information
+
+Isabelle Mahé, M.D., Ph.D., 1-4 Marc Carrier, M.D., 5 Didier Mayeur, M.D., 6,7 Jean Chidiac, M.D., 1 Eric Vicaut, M.D., 2,8 Nicolas Falvo, M.D., 4,9 Olivier Sanchez, M.D., Ph.D., 2-4,10 Claire Grange, M.D., 4,11 Manuel Monreal, M.D., Ph.D., 12-14 Juan J. López-Núñez, M.D., Ph.D., 12,13,15 Remedios Otero-Candelera, M.D., Ph.D., 15,16 Grégoire Le Gal, M.D., Ph.D., 5 Erik Yeo, M.D., 17 Marc Righini, M.D., 18 Helia Robert-Ebadi, M.D., 18 Menno V. Huisman, M.D., Ph.D., 19 Frederikus A. Klok, M.D., Ph.D., 19 Peter Westerweel, M.D., Ph.D., 20 Giancarlo Agnelli, M.D., 21 Cecilia Becattini, Ph.D., 21 Aristotelis Bamias, M.D., Ph.D., 22 Kostas Syrigos, M.D., Ph.D., 23 Sebastian Szmit, M.D., Ph.D., 24,25 Adam Torbicki, M.D., Ph.D., 24 Peter Verhamme, M.D., Ph.D., 26 Anthony Maraveyas, F.R.C.P., Ph.D., 27 Alexander T. Cohen, M.D., 28 Cihan Ay, M.D., 29 Céline Chapelle, Ph.D., 30,31 Guy Meyer, M.D., 2,4 * Francis Couturaud, M.D., Ph.D., 4,32,33 Patrick Mismetti, M.D., Ph.D., 4,31,34,35 Philippe Girard, M.D., 4,36 Laurent Bertoletti, M.D., Ph.D., 4,31,34,35 and Silvy Laporte, Ph.D. 4,30,31
+
+1 Assistance Publique-Hôpitaux de Paris (AP-HP), Hôpital Louis Mourier, Service de Médecine Interne, Colombes, France; 2 Université Paris Cité, Paris; 3 INSERM Unité Mixte de Recherche S970, Paris Cardiovascular Research Center, Team 'Endotheliopathy and Hemostasis Disorders,' Paris; 4 Investigation Network on Venous Thrombo-Embolism-French Clinical Research Infrastructure Network, Saint-Étienne, France; 5 Department of Medicine, Ottawa Hospital Research Institute, University of Ottawa, Ottawa; 6 Centre Georges-François Leclerc, Dijon, France; 7 Unicancer-AFSOS Supportive Care Research Group, Bègles, France; 8 AP-HP, Unité de Recherche Clinique Lariboisière Saint-Louis, Paris; 9 Department of Vascular Pathology, Centre Hospitalier Universitaire (CHU) Dijon-Bourgogne, Dijon, France; 10 AP-HP, Hôpital Européen Georges Pompidou, Service de Pneumologie et de Soins Intensifs, Paris; 11 Service de Médecine Interne et Médecine Vasculaire, Hospices Civils de Lyon, Lyon, France; 12 Department of Internal Medicine, Institut de Recerca Germans Trias i Pujol, Hospital Universitari Germans Trias i Pujol, Badalona, Spain; 13 Department of Medicine, Universitat Autònoma de Barcelona, Barcelona; 14 Universidad Católica San Antonio de Murcia, Murcia,
+
+References
+
+Grilz E, Posch F, Nopp S, et al. Relative risk of arterial and venous thromboembolism in persons with cancer vs. persons without cancer - a nationwide analysis. Eur Heart J 2021; 42: 2299-307.
+
+Girardi L, Wang T-F, Ageno W, Carrier M. Updates in the incidence, pathogenesis, and management of cancer and venous thromboembolism. Arterioscler Thromb Vasc Biol 2023; 43: 824-31.
+
+Cohen AT, Katholing A, Rietbrock S, Bamber L, Martinez C. Epidemiology of first and recurrent venous thromboembolism in patients with active cancer: a population-based cohort study. Thromb Haemost 2017; 117: 57-65.
+
+van der Hulle T, den Exter PL, van den Hoven P, et al. Cohort study on the management of cancer-associated venous thromboembolism aimed at the safety of stopping anticoagulant therapy in patients cured of cancer. Chest 2016; 149: 1245-51.
+
+Weitz JI, Haas S, Ageno W, et al. Cancer associated thrombosis in everyday practice: perspectives from GARFIELD-
+
+Spain; 15 Centro de Investigación Biomédica en Red de Enfermedades Respiratorias, Madrid; 16 Instituto de Biomedicina, Hospital Universitario Virgen del Rocío, Universidad de Sevilla, Seville, Spain; 17 University Health Network, Toronto General Hospital, Toronto; 18 Division of Angiology and Hemostasis, Faculty of Medicine, Geneva University Hospitals, Geneva; 19 Division of Thrombosis and Hemostasis, Department of Medicine, Leiden University Medical Center, Leiden, the Netherlands; 20 Department of Internal Medicine, Albert Schweitzer Hospital Dordrecht, Dordrecht, the Netherlands; 21 Internal Vascular and Emergency Medicine Stroke Unit, University of Perugia, Perugia, Italy; 22 Second Propaedeutic Department of Medicine, Attikon University Hospital, National and Kapodistrian University of Athens, Athens; 23 Department of Internal Medicine, Sotiria General Hospital for Chest Diseases, National and Kapodistrian University, Athens; 24 Department of Pulmonary Circulation, Thromboembolic Diseases, and Cardiology, Center of Postgraduate Medical Education, European Health Center, Otwock, Poland; 25 Department of Cardio-Oncology, Center of Postgraduate Medical Education, Warsaw, Poland; 26 Vascular Medicine and Hemostasis, University Hospitals Leuven, Leuven, Belgium; 27 Hull University Teaching Hospitals NHS Trust, Hull York Medical School, Hull, United Kingdom; 28 Guy's and St. Thomas' NHS Foundation Trust Hospital, King's College London, London; 29 Division of Hematology and Hemostaseology, Department of Medicine I, Comprehensive Cancer Center Vienna, Medical University of Vienna, Vienna; 30 Service de Pharmacologie Clinique, CHU de SaintÉtienne, Saint-Étienne, France; 31 Université Jean Monnet, Mines Saint-Étienne, INSERM Unité 1059, Santé Ingéniérie Biologie Saint-Étienne (SAINBIOSE), Saint-Étienne, France; 32 INSERM Unité 1304-Groupe d'Étude de la Thrombose de Bretagne Occidentale, Centre d'Investigation Clinique (CIC) INSERM Unité 1412, Universitaire Brest, Brest, France; 33 Département de Médecine Interne et Pneumologie, CHU Brest, Brest, France; 34 Service de Médecine Vasculaire et Thérapeutique, CHU de Saint-Étienne, Saint-Étienne, France; 35 INSERM CIC 1408, CHU de Saint-Étienne, Saint-Priest-en-Jarez, France; 36 Département Thoracique, Institut Mutualiste Montsouris, Paris.
+
+VTE. J Thromb Thrombolysis 2020; 50: 267-77.
+
+Raskob GE, Wendelboe AM, Campbell J, et al. Cancer-associated venous thromboembolism: incidence and features in a racially diverse population. J Thromb Haemost 2022; 20: 2366-78.
+
+tients with cancer-associated thrombosis: a systematic review and meta-analysis. EClinicalMedicine 2023; 64: 102194.
+
+Francis CW, Kessler CM, Goldhaber SZ, et al. Treatment of venous thromboembolism in cancer patients with dalteparin for up to 12 months: the DALTECAN study. J Thromb Haemost 2015; 13: 1028-35.
+
+Jara-Palomares L, Solier-Lopez A, Elias-Hernandez T, et al. Tinzaparin in cancer associated thrombosis beyond 6 months: TiCAT study. Thromb Res 2017; 157: 90-6.
+
+Mahé I, Chidiac J, Bertoletti L, et al. The clinical course of venous thromboembolism may differ according to cancer site. Am J Med 2017; 130: 337-47.
+
+van Hylckama Vlieg MAM, Nasserinejad K, Visser C, et al. The risk of recurrent venous thromboembolism after discontinuation of anticoagulant therapy in pa-
+
+Yamashita Y, Morimoto T, Muraoka N, et al. Rivaroxaban for 18 months versus 6 months in patients with cancer and acute low-risk pulmonary embolism: an open-label, multicenter, randomized clinical trial (ONCO PE Trial). Circulation 2025; 151: 589-600.
+
+Key NS, Khorana AA, Kuderer NM, et al. Venous thromboembolism prophylaxis and treatment in patients with cancer: ASCO clinical practice guideline update. J Clin Oncol 2020; 38: 496-520.
+
+Farge D, Frere C, Connors JM, et al. 2019 international clinical practice guidelines for the treatment and prophylaxis of venous thromboembolism in patients with cancer. Lancet Oncol 2019; 20(10): e566-e581.
+
+Kearon C, Akl EA, Ornelas J, et al. Antithrombotic therapy for VTE disease: CHEST guideline and expert panel report. Chest 2016; 149: 315-52.
+
+1372
+
+n engl j med 392;14 nejm.org April 10, 2025
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+[DOCLING_PAGE 11]
+
+Apixaban for Cancer-Associated Venous Thromboembolism
+
+Lyman GH, Carrier M, Ay C, et al. American Society of Hematology 2021 guidelines for management of venous thromboembolism: prevention and treatment in patients with cancer. Blood Adv 2021; 5: 927-74.
+
+Mahé I, Plaisance L, Chapelle C, et al. Long-term treatment of cancer-associated thrombosis (CAT) beyond 6 months in the medical practice: USCAT, a 432-patient retrospective non-interventional study. Cancers (Basel) 2020; 12: 2256.
+
+Moik F, Colling M, Mahé I, Jara-Palomares L, Pabinger I, Ay C. Extended anticobleeding beyond 6 months: a systematic review. J Thromb Haemost 2022; 20: 619-34.
+
+2013; 368: 699-708.
+
+agulation treatment for cancer-associated thrombosis - rates of recurrence and Agnelli G, Buller HR, Cohen A, et al. Apixaban for extended treatment of venous thromboembolism. N Engl J Med
+
+Mahé I, Agnelli G, Ay C, et al. Extended anticoagulant treatment with full- or reduced-dose apixaban in patients with
+
+cancer-associated venous thromboembolism: rationale and design of the API-CAT study. Thromb Haemost 2022; 122: 646-56. 20. Kearon C, Ageno W, Cannegieter SC, Cosmi B, Geersing G-J, Kyrle PA. Categorization of patients as having provoked or unprovoked venous thromboembolism: guidance from the SSC of ISTH. J Thromb Haemost 2016; 14: 1480-3.
+
+Ageno W, Squizzato A, Wells PS, Büller HR, Johnson G. The diagnosis of symptomatic recurrent pulmonary embolism and deep vein thrombosis: guidance from the SSC of the ISTH. J Thromb Haemost 2013; 11: 1597-602.
+
+European Medicines Agency. Guide-
+
+line on the choice of the non-inferiority margin. July 27, 2005 (https://www .­ ema .­ europa .­ eu/ ­ en/ ­ documents/ ­ scientific -­ guideline/ ­ guideline -­ choice -­ non
+
+-­ inferiority -­ margin _­ en .­ pdf).
+
+Agnelli G, Becattini C, Meyer G, et al. Apixaban for the treatment of venous thromboembolism associated with cancer. N Engl J Med 2020; 382: 1599-607.
+
+Campigotto F, Neuberg D, Zwicker JI. Biased estimation of thrombosis rates in cancer studies using the method of Kaplan and Meier. J Thromb Haemost 2012; 10: 1449-51.
+
+Fine JP, Gray RJ. A proportional hazards model for the subdistribution of a competing risk. J Am Stat Assoc 1999; 94: 496-509.
+
+McBane RD II, Loprinzi CL, Zemla T, et al. Extending venous thromboembolism secondary prevention with apixaban in cancer patients: the EVE trial. J Thromb Haemost 2024; 22: 1704-14.
+
+Di Nisio M, van Es N, Carrier M, et al. Extended treatment with edoxaban in cancer patients with venous thromboembolism: a post-hoc analysis of the Hokusai-VTE Cancer study. J Thromb Haemost 2019; 17: 1866-74.
+
+Raskob GE, van Es N, Verhamme P, et al. Edoxaban for the treatment of cancer-associated venous thromboembolism. N Engl J Med 2018; 378: 615-24.
+
+Copyright © 2025 Massachusetts Medical Society.
+
+images in clinical medicine
+
+The Journal welcomes consideration of new submissions for Images in Clinical Medicine. Instructions for authors and procedures for submissions can be found on the Journal 's website at NEJM.org. At the discretion of the editor, images that are accepted for publication may appear in the print version of the Journal , the electronic version, or both.
+
+n engl j med 392;14 nejm.org April 10, 2025
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+1373

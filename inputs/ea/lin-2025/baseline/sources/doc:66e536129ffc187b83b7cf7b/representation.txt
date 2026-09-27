@@ -1,0 +1,699 @@
+[DOCLING_PAGE 1]
+
+Original Article
+
+Journal of Stroke 2023;25(3):388-398 https://doi.org/10.5853/jos.2023.01641
+
+Mode of Imaging Study and Endovascular Therapy for a Large Ischemic Core: Insights From the RESCUE-Japan LIMIT
+
+Fumihiro Sakakibara, 1,2 Kazutaka Uchida, 1,2 Shinichi Yoshimura, 1 Nobuyuki Sakai, 3 Hiroshi Yamagami, 4 Kazunori Toyoda, 5 Yuji Matsumaru, 6 Yasushi Matsumoto, 7 Kazumi Kimura, 8 Reiichi Ishikura, 9 Manabu Inoue, 5 Kumiko Ando, 9 Atsushi Yoshida, 9 Kanta Tanaka, 5 Takeshi Yoshimoto, 5 Junpei Koge, 5 Mikiya Beppu, 1 Manabu Shirakawa, 1 Takeshi Morimoto, 2 for the RESCUE-Japan LIMIT Investigators
+
+1 Department of Neurosurgery, Hyogo Medical University, Nishinomiya, Japan
+
+2 Department of Clinical Epidemiology, Hyogo Medical University, Nishinomiya, Japan
+
+3 Neurovascular Research & Neuroendovascular Therapy, Kobe City Medical Center General Hospital, Kobe, Japan
+
+4 Department of Stroke Neurology, National Hospital Organization Osaka National Hospital, Osaka, Japan
+
+5 Department of Cerebrovascular Medicine, National Cerebral and Cardiovascular Center, Suita, Japan
+
+6 Division of Stroke Prevention and Treatment, Department of Neurosurgery, Faculty of Medicine, University of Tsukuba, Ibaraki, Japan
+
+7 Division of Development and Discovery of Interventional Therapy, Tohoku University Hospital, Sendai, Japan
+
+8 Department of Neurology, Graduate School of Medicine, Nippon Medical School, Tokyo, Japan
+
+9 Department of Diagnostic Radiology, Kobe City Medical Center General Hospital, Kobe, Japan
+
+Background and Purpose Differences in measurement of the extent of acute ischemic stroke using the Alberta Stroke Program Early Computed Tomographic Score (ASPECTS) by non-contrast computed tomography (CT-ASPECTS stratum) and diffusion-weighted imaging (DWI-ASPECTS stratum) may impact the efficacy of endovascular therapy (EVT) in patients with a large ischemic core.
+
+Methods The RESCUE-Japan LIMIT (Recovery by Endovascular Salvage for Cerebral Ultra-acute Embolism Japan-Large IscheMIc core Trial) was a multicenter, open-label, randomized clinical trial that evaluated the efficacy and safety of EVT in patients with ASPECTS of 3-5. CT-ASPECTS was prioritized when both CT-ASPECTS and DWI-ASPECTS were measured. The effects of EVT on the modified Rankin Scale (mRS) score at 90 days were assessed separately for each stratum.
+
+Results Among 183 patients, 112 (EVT group, 53; No-EVT group, 59) were in the CT-ASPECTS stratum and 71 (EVT group, 40; No-EVT group, 31) in the DWI-ASPECTS stratum. The common odds ratio (OR) (95% confidence interval) of the EVT group for one scale shift of the mRS score toward 0 was 1.29 (0.65-2.54) compared to the No-EVT group in CT-ASPECTS stratum, and 6.15 (2.4616.3) in DWI-ASPECTS stratum with significant interaction between treatment assignment and mode of imaging study ( P =0.002). There were significant interactions in the improvement of the National Institutes of Health Stroke Scale score at 48 hours (CT-ASPECTS stratum: OR, 1.95; DWIASPECTS stratum: OR, 14.5; interaction P =0.035) and mortality at 90 days (CT-ASPECTS stratum: OR, 2.07; DWI-ASPECTS stratum: OR, 0.23; interaction P =0.008).
+
+Conclusion Patients with ASPECTS of 3-5 on MRI benefitted more from EVT than those with ASPECTS of 3-5 on CT.
+
+Acute ischemic stroke; Neuroimaging; Endovascular therapy; Large ischemic core;
+
+Keywords Large vessel occlusion
+
+Copyright © 2023 Korean Stroke Society
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+Correspondence: Takeshi Morimoto Department of Clinical Epidemiology, Hyogo Medical University, 1-1 Mukogawa, Nishinomiya, Hyogo 663-8501, Japan Tel: +81-798-45-6879 E-mail: t-morimoto@umin.net https://orcid.org/0000-0002-6844-739X
+
+Received: May 18, 2023
+
+Revised: July 17, 2023
+
+Accepted: August 21, 2023
+
+388 https://j-stroke.org
+
+pISSN: 2287-6391 · eISSN: 2287-6405
+
+[DOCLING_PAGE 2]
+
+Vol. 25 / No. 3 / September 2023
+
+Introduction
+
+Alberta Stroke Program Early Computed Tomographic Score (ASPECTS) on non-contrast computed tomography (NCCT) (CTASPECTS) is widely used to assess the extent of early ischemic changes for acute ischemic stroke. 1 ASPECTS was also applied to diffusion-weighted magnetic resonance imaging (DWI-MRI), known as DWI-ASPECTS, which had higher sensitivity than CTASPECTS for the detection of early ischemic changes. 2 A previous study reported a discrepancy of one point between CT-ASPECTS and DWI-ASPECTS in acute ischemic stroke, 3 but it was uncertain whether such discrepancy was observed in patients with a large ischemic core.
+
+In acute ischemic stroke with large vessel occlusion (LVO), it is important to identify patients who can benefit from endovascular therapy (EVT), especially those with a large ischemic core, because of concerns regarding potential bleeding risks of EVT. 4 Therefore, advanced imaging studies, like MRI or computed tomography perfusion (CTP), are beneficial for patient selection in EVT; however, they are not widely available. 5 In a recent study of patients in the extended time window, no significant differences were observed in the clinical outcomes of patients selected by NCCT compared with those selected by MRI or CTP. 6 However, the relationship between the mode of imaging study and the efficacy of EVT among patients with a large ischemic core was not well understood. 7
+
+The Recovery by Endovascular Salvage for Cerebral Ultra-acute Embolism Japan-Large IscheMIc core Trial (RESCUE-Japan LIMIT) first reported that EVT was effective in patients with a large ischemic core with ASPECTS of 3-5 on either NCCT or DWI-MRI, in which 86% of enrolled patients were selected by DWI-MRI, 8-10 followed by two randomized clinical trials, which confirmed better functional outcomes with EVT in the setting where NCCT was dominant. 11,12 Although DWI-ASPECTS was reported to have higher sensitivity than CT-ASPECTS, 2 CT-ASPECTS is widely used for imaging study of acute ischemic stroke in many stroke centers worldwide. If the selection of imaging modalities affects the efficacy and safety of EVT in patients with a large ischemic core, these differences should be clarified. As the RESCUE-Japan LIMIT collected imaging studies of NCCT in patients primarily evaluated by DWI-MRI, we explored the differences in the efficacy of EVT in patients with a large ischemic core, which was assessed by CT-ASPECTS or DWI-ASPECTS as a pre-defined subanalysis.
+
+Methods
+
+Study design
+
+This study explored whether the efficacy of EVT with medical care
+
+(EVT group) compared to medical care alone (No-EVT group) in patients with acute LVO with ASPECTS of 3-5 differed between ASPECTS measurements by NCCT (CT-ASPECTS stratum) and DWI-MRI (DWI-ASPECTS stratum). This predefined subanalysis is described in the protocol. 13 The data that support the findings of this study are available from the corresponding author upon reasonable request.
+
+The RESCUE-Japan LIMIT was a multicenter, open-label, randomized clinical trial conducted in 45 hospitals in Japan that evaluated the efficacy and safety of EVT in patients with acute LVO with a large ischemic core. RESCUE-Japan LIMIT enrolled 203 patients from November 2018 to September 2021, with follow-up ending in December 2021. 8,13 This trial exclusively enrolled patients with CT-ASPECTS of 3-5 or DWI-ASPECTS of 3-5. Additional eligibility criteria were: (1) acute ischemic stroke; (2) age ≥18 years; (3) National Institutes of Health Stroke Scale (NIHSS) score of 6 or higher on admission; 14 (4) modified Rankin Scale (mRS) score of 0-1 before onset; 15 (5) occlusion site at the internal carotid artery (ICA) or M1 segment of the middle cerebral artery (M1) on computed tomography angiography (CTA) or magnetic resonance angiography (MRA); (6) randomization could be completed within 6 hours from the time the patient was last known to be well, or 6-24 hours from the time the patient was last known to be well if there were no ischemic changes on fluidattenuated inversion recovery imaging; 16 and (7) EVT could be initiated within 60 minutes from randomization. Exclusion criteria included: (1) a significant mass effect with a midline shift on NCCT or MRI, (2) evidence of acute intracranial hemorrhage (ICH) on NCCT or MRI, and (3) a high risk of hemorrhage or other conditions. 13
+
+Ethics approval and consent to participate
+
+This study was conducted in accordance with the principles of the Declaration of Helsinki and the Ethical Guidelines for Medical and Health Research Involving Human Subjects in Japan. The protocol and consent forms were approved by the Institutional Review Boards of the Hyogo College of Medicine (approval number: 3015) and all participating hospitals. All patients or their legally authorized representatives provided written informed consent before randomization. This trial was registered at ClinicalTrials.gov (NCT03702413).
+
+Measurements and interventions
+
+Baseline characteristics and treatment details were obtained from neurologists at the study hospitals. The baseline characteristics included premorbid mRS score, NIHSS score, occlusion sites, ASPECTS, and laboratory tests. Stroke classification was determined at 7 (±2) days after randomization or at discharge and catego- rized as cardioembolic, atherothrombotic, cryptogenic, or others according to the Trial of Org 10172 in Acute Stroke Treatment classification. 17
+
+https://doi.org/10.5853/jos.2023.01641
+
+https://j-stroke.org 389
+
+[DOCLING_PAGE 3]
+
+Sakakibara et al. NCCT vs. DWI Before EVT for Large Ischemic Core
+
+Imaging studies were conducted using NCCT or DWI-MRI. The imaging mode was selected by the treating neurologists who were trained and certified in advance to assess ASPECTS using both NCCT and DWI-MRI. 1,18 The imaging studies were sent to a core laboratory and independently evaluated by an imaging evaluation committee. 13 The eligibility was based on the initial evaluation by the treating neurologists, but the event adjudication committee and imaging evaluation committee made the final judgments including the assessment of ASPECTS using both NCCT and DWI-MRI. In this subanalysis, we selected patients from the per-protocol population. When both NCCT and DWIMRI were performed, the ASPECTS using NCCT was prioritized. CTA or MRA was simultaneously performed to determine the occlusion site when acute LVO was suspected on NCCT or DWIMRI. The infarction volume on admission was retrospectively calculated on DWI-MRI or CTP using RAPID software (iSchemaView, Menlo Park, CA, USA). 19
+
+The EVT method was selected by the treating neurologists for patients in the EVT group. The approved devices for EVT included a stent retriever, aspiration catheter, balloon angioplasty, intracranial stent, and carotid artery stent in Japan. 20 The degree of reperfusion was measured using the Thrombolysis in the Cerebral Infarction grading system. 21 Intravenous thrombolysis (IVT) was administered to selected patients by treating neurologists. The standard dose of alteplase was 0.6 mg per kilogram of body weight according to the Japanese guidelines. 22 Other standard treatments were administered to both treatment groups based on the current guidelines. 23
+
+Outcomes
+
+The primary outcome of this subanalysis was an ordinal shift across the range of mRS scores toward a better outcome at 90 days (shift analysis). The secondary outcomes included an mRS score of 0-3, 0-2, and 0-1 at 90 days after onset, and an improvement of 8 points or more on the NIHSS score at 48 hours after randomization. 8,13 The safety outcomes included symptomatic ICH, defined as parenchymal hematoma type 2 (hematoma in >30% of the infarcted area with a substantial space-occupying effect) with a worsening NIHSS score by 4 points or more within 48 hours, 24 any ICH within 48 hours, death (mRS score of 6) within 90 days, recurrence of ischemic stroke within 90 days, and decompressive craniectomy within 7 days after onset. The mRS score at 90 days was assessed by a neurologist or physical therapist who was blinded to the treatment assignment.
+
+Statistical analysis
+
+We described the characteristics of the patients according to the CT-ASPECTS and DWI-ASPECTS strata. Continuous variables are expressed as either means and standard deviations or medians and interquartile ranges, and were compared using the Student's t-test or Wilcoxon rank-sum test based on their distributions. Categorical variables are presented as numbers and percentages, and were compared using the chi-square test or Fisher's exact test, as appropriate.
+
+The distributions of ordinal mRS scores were presented in the CT-ASPECTS and DWI-ASPECTS strata, and the differences in distribution between the EVT and No-EVT groups were assessed using the chi-square test. We calculated the proportion of primary and secondary outcomes in the CT-ASPECTS and DWI-ASPECTS strata and separately compared the effects of the EVT and No-EVT groups on the outcomes. We constructed an ordinal logistic regression model for the primary outcome to estimate the common odds ratios (ORs) with 95% confidence intervals (CIs) for one scale lower of the mRS score at 90 days after assessment of the proportional odds assumption. The effects of the EVT group compared with the No-EVT group on secondary outcomes are presented as ORs with 95% CIs calculated from binary logistic regression models. We constructed the same ordinal and binary logistic regression models with an interaction term between the treatment assignment and mode of imaging study to estimate the interaction P -values for the entire cohort.
+
+All statistical analyses were performed using JMP 16.0 (SAS Institute Inc., Cary, NC, USA). Missing baseline characteristic data were not imputed and were eliminated from the corresponding analyses. All reported P -values were two-tailed, and P -values <0.05 were considered statistically significant. Because of the exploratory nature of this study, we did not adjust the P -values by considering multiplicity.
+
+Results
+
+Patient characteristics
+
+Of the 203 enrolled patients, after excluding one patient who withdrew consent and 19 patients out of the per-protocol population (one patient randomized after 6 hours without MRI, two patients who had an mRS score besides 0-1 before onset, three patients who had an occlusion site besides the ICA or M1, and 13 patients who had an ASPECTS besides 3-5), 183 patients were included in this analysis (Figure 1). Among them, CT-ASPECTS was measured in 112 patients; the remaining 71 patients did not undergo NCCT. There were 88 patients who underwent both NCCT and DWI-MRI in the CT-ASPECTS stratum, and no patients with CT-ASPECTS of 3-5 and DWI-ASPECTS besides 3-5.
+
+390 https://j-stroke.org
+
+https://doi.org/10.5853/jos.2023.01641
+
+[DOCLING_PAGE 4]
+
+Vol. 25 / No. 3 / September 2023
+
+Figure 1. Study flowchart. RESCUE-Japan LIMIT, Recovery by Endovascular Salvage for Cerebral Ultra-acute Embolism Japan-Large IscheMIc core Trial; MRI, magnetic resonance imaging; mRS, modified Rankin Scale; ICA, internal carotid artery; M1, M1 segment of the middle cerebral artery; ASPECTS, Alberta Stroke Program Early Computed Tomographic Score; NCCT, non-contrast computed tomography; DWI-MRI, diffusion-weighted magnetic resonance imaging; EVT, endovascular therapy.
+
+Enrolled in RESCUE-Japan LIMIT
+
+(n=203)
+
+Exclusion (n=19)
+
+Randomized after 6 hours without MRI (n=1)
+
+Pre-stroke mRS besides 0 to 1 (n=2)
+
+No ICA or M1 occlusion (n=3)
+
+ASPECTS other than 3 to 5 (n=13)
+
+Per-protocol population
+
+(n=183)
+
+Baseline NCCT images
+
+(ASPECTS based on NCCT)
+
+(n=112)
+
+No baseline NCCT images
+
+(ASPECTS based on DWI-MRI)
+
+(n=71)
+
+Consent withdrawal (n=1)
+
+EVT (n=53)
+
+EVT (n=40)
+
+No-EVT (n=59)
+
+No-EVT (n=31)
+
+Baseline characteristics were generally similar between the CT-ASPECTS and DWI-ASPECTS strata, except for medical history of atrial fibrillation, ASPECTS, and occlusion site (Table 1). Atrial fibrillation on admission was significantly more dominant in the DWI-ASPECTS stratum, but the stroke classification was not significantly different between the strata when assessed after 7 days of admission. An ASPECTS score of 4 was dominant (40.2%) in the CT-ASPECTS stratum, while a score of 3 was dominant (60.6%) in the DWI-ASPECTS stratum. The infarction volumes on admission were comparable between the CT-ASPECTS and DWI-ASPECTS strata (Table 1). Randomization was well-maintained in both the CT-ASPECTS and DWI-ASPECTS strata (Table 2). The diastolic blood pressure in the No-EVT group was significantly higher than in the EVT group in the CT-ASPECTS stratum (Table 2); however, the other variables were well balanced.
+
+Primary and secondary outcomes
+
+In the CT-ASPECTS stratum, the distributions of the mRS scores at 90 days were similar between the EVT and No-EVT groups ( P = 0.11) (Figure 2A), whereas in the DWI-ASPECTS stratum, they significantly shifted to a lower disability in the EVT group than in the No-EVT group ( P =0.004) (Figure 2B). The common OR (95% CIs) of the EVT group for one scale shift of the mRS score toward 0 was 1.29 (0.65-2.54) compared to the No-EVT group in the CT-ASPECTS stratum, while it was 6.15 (2.46-16.3) in the DWIASPECTS stratum with significant interaction between treatment assignment and mode of imaging study ( P =0.002) (Table 3). In the CT-ASPECTS stratum, 18.9% and 13.6% of patients in the EVT and No-EVT groups, respectively achieved an mRS score of 0-3 at 90 days; the OR (95% CI) of the EVT group compared to the No-EVT group was 1.48 (0.54-4.09), while in the DWIASPECTS stratum, the proportion of patients with an mRS score of 0-3 at 90 days was significantly higher in the EVT group than in the No-EVT group (50.0% vs. 12.9%; OR, 6.75; 95% CI, 1.9922.8) without significant interaction ( P =0.06). There were no significant differences in the mRS scores of 0-2 and 0-1 at 90 days between the EVT and No-EVT groups in either the CT-ASPECTS or DWI-ASPECTS strata (Table 3).
+
+In the CT-ASPECTS stratum, the proportion of patients with an improvement of 8 points or more on the NIHSS score at 48 hours was not significantly different between the EVT and NoEVT groups (20.8% vs. 1 1.9%; OR, 1.95; 95% CI, 0.69-5.46), while it was higher in the EVT group than in the No-EVT group (50.0% vs. 6.5%; OR, 14.5; 95% CI, 3.04-69.1) in the DWI-ASPECTS stratum, and the interaction was significant ( P =0.035) (Table 3).
+
+The incidence of symptomatic ICH within 48 hours was small, and there was no significant difference between the EVT and No-EVT groups in both the CT-ASPECTS and DWI-ASPECTS strata. The incidence of any ICH within 48 hours was significantly higher in the EVT group than in the No-EVT group in both the CT-ASPECTS and DWI-ASPECTS strata (CT-ASPECTS stratum: OR, 2.75; 95% CI, 1.27-5.93, DWI-ASPECTS stratum: OR, 3.15; 95% CI, 1.18-8.42; interaction P =0.83) (Table 3). The beneficial effect of EVT on mortality at 90 days was not apparent in the CT-ASPECTS stratum (24.5% vs. 13.6%; OR, 2.07; 95% CI, 0.78-5.48), while EVT was significantly associated with lower mortality in Values are presented as mean±SD, number (%), or median [IQR].
+
+https://doi.org/10.5853/jos.2023.01641
+
+https://j-stroke.org
+
+391
+
+[DOCLING_PAGE 5]
+
+Sakakibara et al. NCCT vs. DWI Before EVT for Large Ischemic Core
+
+Table 1. Patient characteristics by CT-ASPECTS and DWI-ASPECTS strata
+
+[DOCLING_TABLE rows=44 columns=4]
+|  | CT-ASPECTS (n=112) | DWI-ASPECTS (n=71) | P |
+| Age (yr) | 76.1±10.4 | 76.1±10.0 | 0.99 |
+| Male sex | 65 (58.0) | 39 (54.9) | 0.68 |
+| mRS score before onset | 0 [0-1] | 0 [0-1] | 0.63 |
+| Baseline NIHSS score | 20 [16-26] | 22 [18-25] | 0.08 |
+| Medical history |  |  |  |
+| Hypertension | 75 (67.0) | 53 (74.7) | 0.27 |
+| Diabetes mellitus | 22 (19.6) | 18 (25.4) | 0.36 |
+| Hyperlipidemia | 23 (20.5) | 22 (31.0) | 0.11 |
+| Atrial fibrillation | 59 (52.7) | 51 (71.8) | 0.01 |
+| Ischemic heart disease | 11 (9.8) | 9 (12.7) | 0.55 |
+| Ischemic stroke | 30 (26.8) | 17 (23.9) | 0.67 |
+| Current smoker | 20 (17.9) | 18 (25.4) | 0.22 |
+| Systolic blood pressure (mm Hg)* | 156±30 | 164±26 | 0.06 |
+| Diastolic blood pressure (mm Hg)* | 87±20 | 89±19 | 0.61 |
+| Laboratories |  |  |  |
+| LDL cholesterol (mg/dL)* | 109±34 | 111±31 | 0.63 |
+| HDL cholesterol (mg/dL)* | 57±17 | 56±17 | 0.76 |
+| Blood glucose (mg/dL)* | 130 [116-162] | 130 [112-157] | 0.70 |
+| Creatinine (mg/dL) | 0.85 [0.70-1.04] | 0.80 [0.66-1.05] | 0.48 |
+| CRP (mg/dL) | 0.18 [0.07-0.64] | 0.18 [0.07-0.78] | 0.94 |
+| Occlusion site |  |  |  |
+| Internal carotid artery | 43 (38.4) | 39 (54.9) | 0.03 |
+| M1 segment of middle cerebral artery | 86 (76.8) | 49 (69.0) | 0.24 |
+| Tandem lesion | 17 (15.2) | 17 (23.9) | 0.14 |
+| ASPECTS | 4 [4-5] | 3 [3-4] | <0.0001 |
+| ASPECTS distribution |  |  | <0.0001 |
+| 3 | 26 (23.2) | 43 (60.6) |  |
+| 4 | 45 (40.2) | 12 (16.9) |  |
+| 5 | 41 (36.6) | 16 (22.5) |  |
+| Infarction volume (mL)* | 105 [75-140] | 95 [65-141] | 0.41 |
+| Intravenous rt-PA use | 32 (28.6) | 20 (28.2) | 0.95 |
+| EVT | 53 (47.3) | 40 (56.3) | 0.23 |
+| Onset to door time (min) | 180 [81-441] | 173 [85-320] | 0.74 |
+| Onset to picture time (min) | 184 [85-452] | 180 [99-340] | 0.97 |
+| Onset to randomization time (min) | 225 [144-517] | 214 [126-368] | 0.34 |
+| Onset to puncture time (min) | 260 [175-508] | 219 [135-446] | 0.19 |
+| Onset to reperfusion time (min) | 325 [229-536] | 248 [164-466] | 0.07 |
+| Reperfusion degree with TICI ≥2b | 47/53 (88.7) | 32/40 (80.0) | 0.25 |
+| Stroke classification |  |  | 0.24 |
+| Cardioembolic | 84 (75.0) | 62 (87.3) |  |
+| Atherothrombotic | 8 (7.1) | 2 (2.8) |  |
+| Cryptogenic | 17 (15.2) | 6 (8.5) |  |
+| Others | 3 (2.7) | 1 (1.4) |  |
+[/DOCLING_TABLE]
+
+ASPECTS, Alberta Stroke Program Early Computed Tomographic Score; CT-ASPECTS, ASPECTS based on non-contrast computed tomography; DWI-ASPECTS, ASPECTS based on diffusion-weighted magnetic resonance imaging; mRS, modified Rankin Scale; NIHSS, National Institutes of Health Stroke Scale; LDL, lowdensity lipoprotein; HDL, high-density lipoprotein; CRP, C-reactive protein; M1, M1 segment of the middle cerebral artery; rt-PA, recombinant tissue plasminogen activator; EVT, endovascular therapy; TICI, thrombolysis in the cerebral infarction; SD, standard deviation; IQR, interquartile range.
+
+*Missing data (n): systolic blood pressure (2), diastolic blood pressure (2), LDL cholesterol (31), HDL cholesterol (30), blood glucose (2), and infarction volume (17).
+
+392 https://j-stroke.org
+
+https://doi.org/10.5853/jos.2023.01641
+
+[DOCLING_PAGE 6]
+
+Vol. 25 / No. 3 / September 2023
+
+[DOCLING_TABLE rows=44 columns=7]
+|  | CT-ASPECTS | CT-ASPECTS | CT-ASPECTS | DWI-ASPECTS | DWI-ASPECTS | DWI-ASPECTS |
+|  | EVT (n=53) | No-EVT (n=59) | P | EVT (n=40) | No-EVT (n=31) | P |
+| Age (yr) | 76.5±10.2 | 75.7±10.7 | 0.68 | 77.3±10.0 | 74.5±10.0 | 0.26 |
+| Male sex | 28 (52.8) | 37 (62.7) | 0.29 | 23 (57.5) | 16 (51.6) | 0.62 |
+| mRS score before onset | 0 [0-1] | 0 [0-1] | 0.44 | 0 [0-1] | 0 [0-1] | 0.81 |
+| Baseline NIHSS score | 22 [17-26] | 19 [15-26] | 0.33 | 22 [18-26] | 24 [19-25] | 0.53 |
+| Medical history |  |  |  |  |  |  |
+| Hypertension | 38 (71.7) | 37 (62.7) | 0.31 | 30 (75.0) | 23 (74.2) | 0.94 |
+| Diabetes mellitus | 14 (26.4) | 8 (13.6) | 0.09 | 8 (20.0) | 10 (32.3) | 0.24 |
+| Hyperlipidemia | 14 (26.4) | 9 (15.3) | 0.14 | 11 (27.5) | 11 (35.5) | 0.47 |
+| Atrial fibrillation | 27 (50.9) | 32 (54.2) | 0.73 | 28 (70.0) | 23 (74.2) | 0.70 |
+| Ischemic heart disease | 8 (15.1) | 3 (5.1) | 0.08 | 5 (12.5) | 4 (12.9) | 0.99 |
+| Ischemic stroke | 16 (30.2) | 14 (23.7) | 0.44 | 9 (22.5) | 8 (25.8) | 0.75 |
+| Current smoker | 8 (15.1) | 12 (20.3) | 0.47 | 10 (25.0) | 8 (25.8) | 0.94 |
+| Systolic blood pressure (mm Hg)* | 151±29 | 161±30 | 0.07 | 161±27 | 169±24 | 0.19 |
+| Diastolic blood pressure (mm Hg)* | 82±19 | 92±21 | 0.007 | 89±17 | 89±21 | 0.88 |
+| Laboratories |  |  |  |  |  |  |
+| LDL cholesterol (mg/dL)* | 109±34 | 108±34 | 0.91 | 107±26 | 117±36 | 0.18 |
+| HDL cholesterol (mg/dL)* | 56±16 | 59±17 | 0.41 | 55±16 | 58±18 | 0.52 |
+| Blood glucose (mg/dL)* | 128 [116-185] | 130 [118-152] | 0.80 | 126 [110-154] | 137 [112-163] | 0.22 |
+| Creatinine (mg/dL) | 0.80 [0.68-1.08] | 0.86 [0.70-1.02] | 0.41 | 0.79 [0.65-1.08] | 0.82 [0.70-0.97] | 0.97 |
+| CRP (mg/dL) | 0.20 [0.08-1.24] | 0.14 [0.07-0.37] | 0.18 | 0.18 [0.09-0.49] | 0.23 [0.07-1.08] | 0.69 |
+| Occlusion site |  |  |  |  |  |  |
+| Internal carotid artery | 23 (43.4) | 20 (33.9) | 0.30 | 18 (45.0) | 21 (67.7) | 0.06 |
+| M1 segment of middle cerebral artery | 38 (71.7) | 48 (81.4) | 0.23 | 31 (77.5) | 18 (58.1) | 0.08 |
+| Tandem lesion | 8 (15.1) | 9 (15.3) | 0.98 | 9 (22.5) | 8 (25.8) | 0.74 |
+| ASPECTS | 4 [4-5] | 4 [4-5] | 0.29 | 3 [3-5] | 3 [3-4] | 0.17 |
+| ASPECTS distribution |  |  | 0.39 |  |  | 0.36 |
+| 3 | 13 (24.5) | 13 (22.0) |  | 24 (60.0) | 19 (61.3) |  |
+| 4 | 24 (45.3) | 21 (35.6) |  | 5 (12.0) | 7 (22.6) |  |
+| 5 | 16 (30.2) | 25 (42.4) |  | 11 (27.5) | 5 (16.1) |  |
+| Infarction volume (mL)* | 107 [68-143] | 104 [77-130] | 0.75 | 85 [53-142] | 117 [73-141] | 0.29 |
+| Intravenous rt-PA use | 16 (30.2) | 16 (27.1) | 0.72 | 9 (22.5) | 11 (35.5) | 0.25 |
+| Onset to door time (min) | 197 [83-413] | 170 [71-540] | 0.86 | 166 [85-360] | 180 [95-300] | 0.92 |
+| Onset to picture time (min) | 198 [88-431] | 177 [78-555] | 0.86 | 175 [85-379] | 188 [105-330] | 0.83 |
+| Onset to randomization time (min) | 241 [145-485] | 214 [142-592] | 0.64 | 199 [114-434] | 216 [140-362] | 0.99 |
+| Onset to puncture time (min) | 260 [175-508] | NA | NA | 219 [135-446] | NA | NA |
+| Onset to reperfusion time (min) | 325 [229-536] | NA | NA | 248 [164-466] | NA | NA |
+| Reperfusion degree with TICI ≥2b | 47 (88.7) | NA | NA | 32 (80.0) | NA | NA |
+| Stroke classification |  |  | 0.57 |  |  | 0.66 |
+| Cardioembolic | 43 (81.1) | 41 (69.5) |  | 35 (87.5) | 27 (87.1) |  |
+| Atherothrombotic | 3 (5.7) | 5 (8.5) |  | 1 (2.5) | 1 (3.2) |  |
+| Cryptogenic | 6 (1 1.3) | 11 (18.6) |  | 4 (10.0) | 2 (6.5) |  |
+| Others | 1 (1.9) | 2 (3.4) |  | 0 | 1 (3.2) |  |
+[/DOCLING_TABLE]
+
+Values are presented as mean±SD, number (%), or median [IQR].
+
+ASPECTS, Alberta Stroke Program Early Computed Tomographic Score; CT-ASPECTS, ASPECTS based on non-contrast computed tomography; DWI-ASPECTS, ASPECTS based on diffusion-weighted magnetic resonance imaging; mRS, modified Rankin Scale; NA, not applicable; NIHSS, National Institutes of Health Stroke Scale; LDL, low-density lipoprotein; HDL, high-density lipoprotein; CRP, C-reactive protein; M1, M1 segment of the middle cerebral artery; rt-PA, recombinant tissue plasminogen activator; EVT, endovascular therapy; TICI, thrombolysis in the cerebral infarction; SD, standard deviation; IQR, interquartile range.
+
+*Missing data (n): systolic blood pressure (CT-ASPECTS: 2), diastolic blood pressure (CT-ASPECTS: 2), LDL cholesterol (CT-ASPECTS: 24, DWI-ASPECTS: 7), HDL cholesterol (CT-ASPECTS: 24, DWI-ASPECTS: 6), blood glucose (CT-ASPECTS: 2), and infarction volume (CT-ASPECTS: 14, DWI- ASPECTS: 3).
+
+https://doi.org/10.5853/jos.2023.01641
+
+https://j-stroke.org 393
+
+[DOCLING_PAGE 7]
+
+Sakakibara et al. NCCT vs. DWI Before EVT for Large Ischemic Core
+
+Figure 2. Distribution of mRS score at 90 days. (A) ASPECTS based on NCCT. (B) ASPECTS based on DWI-MRI. mRS, modified Rankin Scale; ASPECTS, Alberta Stroke Program Early Computed Tomographic Score; NCCT, non-contrast computed tomography; DWI-MRI, diffusion-weighted magnetic resonance imaging; EVT, endovascular therapy.
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100 (%)
+
+P
+
+=0.11
+
+EVT
+
+(n=53)
+
+No-EVT
+
+(n=59)
+
+mRS at 90 days
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+EVT (n=53)
+
+n (%)
+
+1 (1.9)
+
+2 (3.8)
+
+3 (5.7)
+
+4 (7.6)
+
+20 (37.7)
+
+10 (18.9)
+
+13 (24.5)
+
+No-EVT (n=59)
+
+n (%)
+
+0 (0.0)
+
+2 (3.4)
+
+2 (3.4)
+
+4 (6.8)
+
+16 (27.1)
+
+27 (45.8)
+
+8 (13.6)
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100 (%)
+
+P
+
+=0.004
+
+EVT
+
+(n=40)
+
+No-EVT
+
+(n=31)
+
+mRS at 90 days
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+EVT (n=40)
+
+n (%)
+
+1 (2.5)
+
+1 (2.5)
+
+6 (15.0)
+
+12 (30.0)
+
+12 (30.0)
+
+4 (10.0)
+
+4 (10.0)
+
+No-EVT (n=31)
+
+n (%)
+
+0 (0.0)
+
+1 (3.2)
+
+2 (6.5)
+
+1 (3.2)
+
+6 (19.4)
+
+11 (35.5)
+
+10 (32.3)
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+A
+
+B
+
+[DOCLING_TABLE rows=3 columns=9]
+|  | mRS at 90 days | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
+| EVT (n=53) | n (%) | 1 (1.9) | 2 (3.8) | 3 (5.7) | 4 (7.6) | 20 (37.7) | 10 (18.9) | 13 (24.5) |
+| No-EVT (n=59) | n (%) | 0 (0.0) | 2 (3.4) | 2 (3.4) | 4 (6.8) | 16 (27.1) | 27 (45.8) | 8 (13.6) |
+[/DOCLING_TABLE]
+
+[DOCLING_TABLE rows=3 columns=9]
+|  | mRS at 90 days | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
+| EVT (n=40) | n (%) | 1 (2.5) | 1 (2.5) | 6 (15.0) | 12 (30.0) | 12 (30.0) | 4 (10.0) | 4 (10.0) |
+| No-EVT (n=31) | n (%) | 0 (0.0) | 1 (3.2) | 2 (6.5) | 1 (3.2) | 6 (19.4) | 11 (35.5) | 10 (32.3) |
+[/DOCLING_TABLE]
+
+the EVT group than in the No-EVT group in the DWI-ASPECTS stratum (10.0% vs. 32.3%; OR, 0.23; 95% CI, 0.06-0.84), and the interaction was statistically significant ( P =0.008). Ischemic stroke recurrence within 90 days and decompressive craniectomy within 7 days were similar between the EVT and No-EVT groups in both the CT-ASPECTS and DWI-ASPECTS strata.
+
+Discussion
+
+This predefined subanalysis of the RESCUE-Japan LIMIT explored the relationship between the mode of imaging study and the efficacy of EVT in patients with a large ischemic core, which revealed that the efficacy of EVT differed between those who evaluated with NCCT and DWI-MRI. There were significant interactions between the mode of imaging study and the efficacy of EVT in terms of a one-scale lower mRS score at 90 days, improvement in the NIHSS score at 48 hours, and mortality at 90 days.
+
+Several factors should be considered when interpreting these findings. Differences in imaging characteristics between NCCT and DWI-MRI are essential for evaluating the extent and time course of ischemic regions. The first step toward irreversible ischemia is hypoxia, which leads to electrical failure, followed by the disruption of Na/K-ATPase (sodium-potassium adenosine triphosphatase) activity in the cell membrane, making it visible on DWI-MRI within minutes after onset. The second step is the influx of water into the cells and the resultant cytotoxic edema, which is visible on NCCT as a loss of gray-white matter differentiation several hours after onset. The third step is disruption of the blood-brain barrier leading to vasogenic edema, which results in a more pronounced gray-white matter differentiation. 25,26 Accordingly, DWI-MRI can visualize ischemic changes earlier than NCCT, and DWI-ASPECTS was reported to be lower than CT-ASPECTS in patients with acute ischemic stroke. A previous study reported that DWI-ASPECTS was one point lower than CT-ASPECTS in patients with acute ischemic stroke with relatively smaller ischemic regions. 3
+
+In addition, differences in the time-to-treatment intervals between the CT-ASPECTS and DWI-ASPECTS strata should be considered. Compared to the DWI-ASPECTS stratum, the median time from onset to hospital arrival in the EVT group was 30 minutes longer, and the median time from onset to puncture was 40 minutes longer in the CT-ASPECTS stratum. All patients who underwent both NCCT and DWI-MRI were categorized into the CT-ASPECTS stratum and required a longer time for imaging studies than those who underwent DWI-MRI only. In addition, some of them were transferred from hospitals where one imag- Values are presented number (%) unless otherwise indicated.
+
+394 https://j-stroke.org
+
+https://doi.org/10.5853/jos.2023.01641
+
+[DOCLING_PAGE 8]
+
+Vol. 25 / No. 3 / September 2023
+
+[DOCLING_TABLE rows=15 columns=8]
+|  | CT-ASPECTS | CT-ASPECTS | CT-ASPECTS | DWI-ASPECTS | DWI-ASPECTS | DWI-ASPECTS | Interaction |
+| Outcomes | EVT (n=53) | No-EVT (n=59) | OR (95% CI) | EVT (n=40) | No-EVT (n=31) | OR (95% CI) | P |
+| Primary outcome |  |  |  |  |  |  |  |
+| One scale shift of mRS score toward 0 | NA | NA | Common OR 1.29 (0.65-2.54) | NA | NA | Common OR 6.15 (2.46-16.3) | 0.002 |
+| Secondary outcomes |  |  |  |  |  |  |  |
+| mRS score of 0-3 at 90 days | 10 (18.9) | 8 (13.6) | 1.48 (0.54-4.09) | 20 (50.0) | 4 (12.9) | 6.75 (1.99-22.8) | 0.06 |
+| mRS score of 0-2 at 90 days | 6 (1 1.3) | 4 (6.8) | 1.76 (0.47-6.60) | 8 (20.0) | 3 (9.7) | 2.33 (0.56-9.66) | 0.77 |
+| mRS score of 0-1 at 90 days | 3 (5.7) | 2 (3.4) | 1.71 (0.27-10.6) | 2 (5.0) | 1 (3.2) | 1.58 (0.14-18.3) | 0.96 |
+| NIHSS improvement of 8 points or more at 48 hours | 11 (20.8) | 7 (1 1.9) | 1.95 (0.69-5.46) | 20 (50.0) | 2 (6.5) | 14.5 (3.04-69.1) | 0.035 |
+| Safety outcomes |  |  |  |  |  |  |  |
+| Symptomatic intracranial hemorrhage within 48 hours | 6 (1 1.3) | 2 (3.4) | 3.64 (0.70-18.9) | 2 (5.0) | 1 (3.2) | 1.58 (0.14-18.3) | 0.58 |
+| Any intracranial hemorrhage within 48 hours | 30 (56.6) | 19 (32.2) | 2.75 (1.27-5.93) | 24 (60.0) | 10 (32.3) | 3.15 (1.18-8.42) | 0.83 |
+| Death within 90 days | 13 (24.5) | 8 (13.6) | 2.07 (0.78-5.48) | 4 (10.0) | 10 (32.3) | 0.23 (0.06-0.84) | 0.008 |
+| Recurrence of cerebral infarction within 90 days | 2 (3.8) | 5 (8.5) | 0.42 (0.08-2.28) | 2 (5.0) | 0 (0.0) | NA | NA |
+| Decompressive craniectomy within 7 days | 6 (1 1.3) | 6 (10.2) | 1.13 (0.34-3.74) | 1 (2.5) | 5 (16.1) | 0.13 (0.01-1.21) | 0.10 |
+[/DOCLING_TABLE]
+
+EVT, endovascular therapy; OR, odds ratio; CI, confidence interval; ASPECTS, Alberta Stroke Program Early Computed Tomographic Score; CT-ASPECTS, ASPECTS based on non-contrast computed tomography; mRS, modified Rankin Scale; NIHSS, National Institutes of Health Stroke Scale; DWI-ASPECTS, ASPECTS based on diffusion-weighted magnetic resonance imaging; IQR, interquartile range; NA, not applicable.
+
+ing study was conducted to the hospitals participating in this study for the enrolment. As a result, the longer onset-to-reperfusion time of patients who received EVT in the CT-ASPECTS stratum might have less chance of returning to better functional outcomes. 4
+
+Previous registry-based studies have shown similar clinical outcomes between patients with LVO evaluated by DWI-MRI and those evaluated by NCCT. A Japanese registry study reported an adjusted OR of evaluation by DWI-MRI as 1.12 for an mRS score of 0-2 at 90 days, 27 while a Korean registry study reported an adjusted OR of 1.01 for the same, 28 and an Austrian registry study also reported an adjusted OR of 0.87. 29 In a recent cohort study of patients with an extended time window for EVT, there were no significant differences in the clinical outcomes of patients selected by NCCT compared with those selected by MRI or CTP. 6 Our subanalysis of the randomized clinical trial suggested the efficacy of EVT was superior in patients evaluated by DWI-MRI than in those evaluated by NCCT. Considering the potential delay in EVT in the CT-ASPECTS stratum, future research is needed to elucidate the relationship between the mode of imaging and the efficacy of EVT in patients with a large ischemic core.
+
+The imaging study for the potential candidates of EVT for acute LVO should provide accurate diagnosis of how much irreversibly injured brain tissue is present, and this requirement is especially crucial for patients with a large ischemic core because of concern for higher bleeding risks of EVT in such patients. 4 Our pre- vious subanalysis of the RESCUE-Japan LIMIT indicated that EVT was not associated with improved functional outcomes at 90 days and was associated with higher incidence of symptomatic ICH in patients with ASPECTS of 3 or less. 30 Collaterally, retrospective cohort studies also reported that DWI-ASPECTS of 3 or less reliably predicted those with infarction volumes more than 100 mL, 31 and a 100-mL infarction volumes was the discrimination point of poor functional outcome. 32 In fact, a previous cohort study which observed patients with acute LVO who were evaluated with both DWI-ASPECTS and CT-ASPECTS reported that DWI-ASPECTS offered better prediction of a large ischemic core and functional outcomes than CT-ASPECTS. 33 Our findings were consistent to these reports and explicated them to those with a large ischemic core. Furthermore, a previous registry study showed that both asymptomatic and symptomatic ICH after EVT in patients with acute LVO were associated with worse functional outcomes. 34 The meta-analysis from HERMES (the Highly Effective Reperfusion evaluated in Multiple Endovascular Stroke Trials) showed a higher rate of symptomatic ICH after EVT in patients with low ASPECTS, but it did not report the association between symptomatic ICH and functional outcomes. 35 MRI with susceptibility-weighted imaging or T2* weighted imaging could provide more accurate qualitative information of cerebral microbleeds, which were reported to increase ICH after EVT. 36 However, the need to withhold EVT in patients with a large ischemic core who were detected to have such cerebral microbleeds should be investigated. Therefore, the selection of imaging modalities is another important factor in EVT for acute LVO with a large ischemic core.
+
+https://doi.org/10.5853/jos.2023.01641
+
+https://j-stroke.org 395
+
+[DOCLING_PAGE 9]
+
+Sakakibara et al. NCCT vs. DWI Before EVT for Large Ischemic Core
+
+Our study has several limitations. First, the treating neurologists selected imaging studies to assess ASPECTS using NCCT, DWI-MRI, or both. The selection of imaging studies was affected by several factors such as patient conditions, participating hospitals, and admission status (direct admission or transfer from primary stroke centers). Therefore, such selection bias might have affected the differences in the cohorts between the CT-ASPECTS and DWI-ASPECTS strata, although random allocation of EVT provided fair comparisons within the cohort. Second, sample size estimation was not performed for the subgroup analyses in this randomized clinical trial. Therefore, the power to detect clinically relevant findings within the CT-ASPECTS and DWI-ASPECTS strata was not sufficiently large. Finally, this study was conducted in Japan, where IVT is less utilized and other management strategies, such as rehabilitation or medication use, are different from those in Western countries. Therefore, the effects of differences in imaging studies on functional outcomes in patients with acute LVO and a large ischemic core should be evaluated in other settings.
+
+Conclusions
+
+The efficacy and safety of EVT in patients with acute LVO with an ASPECTS score of 3-5 differed between those evaluated using NCCT and DWI-MRI. In addition to the advancement of EVT, the selection of imaging modalities should be supplementary aspects to improve functional outcomes in patients with a low ASPECTS. Future large-scale observations should provide reliable information regarding this issue.
+
+Funding statement
+
+This study was supported in part by the Mihara Cerebrovascular Disorder Research Promotion Fund and the Japanese Society for Neuroendovascular Therapy (JSNET). The funding sources did not participate in any part of the study from conception to article preparation.
+
+Conflicts of interest
+
+Dr. Sakakibara reports a manuscript fee from Medicus Shuppan. Dr. Uchida reports lecturer fees from Daiichi Sankyo, Bristol-Myers Squibb, Stryker, and Medtronic. Dr. Yoshimura reports research grants from Stryker, Siemens Healthineers, BristolMyers Squibb, Sanofi, Eisai, Daiichi Sankyo, Teijin Pharma, Chugai Pharmaceutical, HEALIOS, Asahi Kasei Medical, Kowa, and CSL Behring, and lecturer fees from Stryker, Medtronic, Johnson & Johnson, Kaneka, Terumo, Biomedical Solutions, Boehringer-Ingelheim, Daiichi Sankyo, Bayer, and Bristol-Meyers Squibb. Dr. Sakai reports research grants from Biomedical Solutions, Medtronic, and Terumo; lecturer fees from Asahi-Intec, Biomedical Solutions, Medtronic, and Terumo; and membership in the advisory boards of Johnson & Johnson, Medtronic, and Terumo. Dr. Yamagami reports a research grant from BristolMyers Squibb; lecturer fees from Stryker, Medtronic, Terumo, Johnson & Johnson, Biomedical Solutions, and Medico's Hirata; and membership of the advisory board for Daiichi Sankyo. Dr. Toyoda reports lecturer fees from Otsuka, Novartis, Bayer, Daiichi Sankyo, Bristol Myers Squibb, and Abbott Medical. Dr. Matsumaru reports lecturer fees from Medtronic, Stryker, Terumo, Johnson & Johnson, Kaneka, and Jimro. Dr. Matsumoto reports lecturer fees from Kaneka, Medico's Hirata, Fuji Systems, GE Healthcare, Otsuka, Takeda, Century Medical, Terumo, Medtronic, and Stryker. Dr. Kimura reports research grants from CSL Behring, EP-CRSU, Amgen Astellas BioPharma, Alexion, Eisai, Kyowa Kirin, Daiichi Sankyo, Teijin, Medtronic, Bristol-Myers Squibb, Bayer, Boehringer-Ingelheim and Helios; and lecturer's fees from Daiichi Sankyo, Boehringer Ingelheim, Bristol-Myers Squibb, Bayer, Takeda, Medtronic, Otsuka, FP, Alexion, Nippon, Chugai, Kyowa Kirin, Abbott, Shire PLC, Sanofi, CSL Behring, Novartis, Toa Eiyo, Medico's Hirata and Helios. Dr. Inoue reports lecturer fees from Bayer, Bristol-Myers Squibb, and Medico's Hirata, and manuscript fees from Gakken and Hokuryukan. Dr. Tanaka reports lecturer fees from Johnson & Johnson and Stryker. Dr. Yoshimoto reports lecturer fees from Takeda Pharmaceuticals and Nippon Boehringer Ingelheim. Dr. Koge reports lecturer fees from Medtronic. Dr. Beppu reports a manuscript fee from Medicus Shuppan. Dr. Shirakawa reports lecturer fees from Stryker, Terumo, Johnson & Johnson, and Medtronic. Dr. Morimoto reports lecturer fees from AstraZeneca, Bristol-Myers Squibb, Daiichi Sankyo, Japan Lifeline, Kowa, Pfizer, and Tsumura; manuscript fees from Bristol-Myers Squibb and Pfizer; and the Advisory Boards for Novartis and Teijin. Drs. Ishikura, Ando, and Yoshida declare no conflicts of interest.
+
+Author contribution
+
+Conceptualization: FS, KU, SY, NS, HY, TM. Study design: FS, KU, SY, NS, HY, KT (Kazunori Toyoda), YM (Yuji Matsumaru), YM (Matsumoto Yasushi), KK, TM. Methodology: FS, KU, RI, MI, KA, AY, KT (Kanta Tanaka), TY, JK, TM. Data collection: FS, KU, SY, HY, YM (Yuji Matsumaru), YM (Yasushi Matsumoto), KK, MB, MS. Investigation: FS, KU, SY, NS, HY, KT (Kazunori Toyoda), YM
+
+396 https://j-stroke.org
+
+https://doi.org/10.5853/jos.2023.01641
+
+[DOCLING_PAGE 10]
+
+Vol. 25 / No. 3 / September 2023
+
+(Yuji Matsumaru), YM (Matsumoto Yasushi), KK, RI, MI, KA, AY, KT (Kanta Tanaka), TY, JK, MB, MS, TM. Statistical analysis: FS, KU, TM. Writing-original draft: FS, KU, TM. Writing-review & editing: SY, NS, HY, KT (Kazunori Toyota), YM (Yuji Matsumaru), YM (Matsumoto Yasushi), KK, RI, MI, KA, AY, KT (Kanta Tanaka), TY, JK, MB, MS. Funding acquisition: SY. Approval of final manuscript: all authors.
+
+Acknowledgments
+
+We thank all the investigators for their efforts in conducting the RESCUE-Japan LIMIT.
+
+References
+
+Barber PA, Demchuk AM, Zhang J, Buchan AM. Validity and reliability of a quantitative computed tomography score in predicting outcome of hyperacute stroke before thrombolytic therapy. Lancet 2000;355:1670-1674.
+
+Chalela JA, Kidwell CS, Nentwich LM, Luby M, Butman JA, Demchuk AM, et al. Magnetic resonance imaging and computed tomography in emergency assessment of patients with suspected acute stroke: a prospective comparison. Lancet 2007;369:293-298.
+
+Nezu T, Koga M, Nakagawara J, Shiokawa Y, Yamagami H, Furui E, et al. Early ischemic change on CT versus diffusionweighted imaging for patients with stroke receiving intravenous recombinant tissue-type plasminogen activator therapy: stroke acute management with urgent risk-factor assessment and improvement (SAMURAI) rt-PA registry. Stroke 2011;42: 2196-2200.
+
+Goyal M, Menon BK, van Zwam WH, Dippel DW, Mitchell PJ, Demchuk AM, et al. Endovascular thrombectomy after largevessel ischaemic stroke: a meta-analysis of individual patient data from five randomised trials. Lancet 2016;387:1723-1731.
+
+Kim Y, Lee S, Abdelkhaleq R, Lopez-Rivera V, Navi B, Kamel H, et al. Utilization and availability of advanced imaging in patients with acute ischemic stroke. Circ Cardiovasc Qual Outcomes 2021;14:e006989.
+
+Nguyen TN, Abdalkader M, Nagel S, Qureshi MM, Ribo M, Caparros F, et al. Noncontrast computed tomography vs computed tomography perfusion or magnetic resonance imaging selection in late presentation of stroke with large-vessel occlusion. JAMA Neurol 2022;79:22-31.
+
+Sarraj A, Grotta JC, Pujara DK, Shaker F, Tsivgoulis G. Triage imaging and outcome measures for large core stroke thrombectomy - a systematic review and meta-analysis. J Neurointerv Surg 2020;12:1172-1179.
+
+Yoshimura S, Sakai N, Yamagami H, Uchida K, Beppu M, Toyoda K, et al. Endovascular therapy for acute stroke with a large ischemic region. N Engl J Med 2022;386:1303-1313.
+
+Meyer L, Broocks G. Endovascular therapy for large acute strokes. N Engl J Med 2022;386:2440.
+
+Yoshimura S, Uchida K, Morimoto T. Endovascular therapy for large acute strokes. Reply. N Engl J Med 2022;386:2440-2441.
+
+Sarraj A, Hassan AE, Abraham MG, Ortega-Gutierrez S, Kasner SE, Hussain MS, et al. Trial of endovascular thrombectomy for large ischemic strokes. N Engl J Med 2023;388:1259-1271.
+
+Huo X, Ma G, Tong X, Zhang X, Pan Y, Nguyen TN, et al. Trial of endovascular therapy for acute ischemic stroke with large infarct. N Engl J Med 2023;388:1272-1283.
+
+Yoshimura S, Uchida K, Sakai N, Yamagami H, Inoue M, Toyoda K, et al. Randomized clinical trial of endovascular therapy for acute large vessel occlusion with large ischemic core (RESCUE-Japan LIMIT): rationale and study protocol. Neurol Med Chir (Tokyo) 2022;62:156-164.
+
+Lyden P, Brott T, Tilley B, Welch KM, Mascha EJ, Levine S, et al. Improved reliability of the NIH stroke scale using video training. NINDS TPA Stroke Study Group. Stroke 1994;25:22202226.
+
+van Swieten JC, Koudstaal PJ, Visser MC, Schouten HJ, van Gijn J. Interobserver agreement for the assessment of handicap in stroke patients. Stroke 1988;19:604-607.
+
+Sakakibara F, Yoshimura S, Numa S, Uchida K, Kinjo N, Morimoto T. Diffusion-weighted imaging-fluid-attenuated inversion recovery mismatch is associated with 90-day functional outcomes in patients undergoing mechanical thrombectomy. Cerebrovasc Dis 2020;49:292-300.
+
+Adams HP Jr, Bendixen BH, Kappelle LJ, Biller J, Love BB, Gordon DL, et al. Classification of subtype of acute ischemic stroke. Definitions for use in a multicenter clinical trial. TOAST. Trial of Org 10172 in Acute Stroke Treatment. Stroke 1993;24:35-41.
+
+Singer OC, Kurre W, Humpich MC, Lorenz MW, Kastrup A, Liebeskind DS, et al. Risk assessment of symptomatic intracerebral hemorrhage after thrombolysis using DWI-ASPECTS. Stroke 2009;40:2743-2748.
+
+Campbell BCV, Majoie CBLM, Albers GW, Menon BK, Yassi N, Sharma G, et al. Penumbral imaging and functional outcome in patients with anterior circulation ischaemic stroke treated with endovascular thrombectomy versus medical therapy: a meta-analysis of individual patient-level data. Lancet Neurol 2019;18:46-55.
+
+Yamagami H, Hayakawa M, Inoue M, Iihara K, Ogasawara K, Toyoda K, et al. Guidelines for mechanical thrombectomy in Japan, the fourth edition, March 2020: a guideline from the Japan Stroke Society, the Japan Neurosurgical Society, and the
+
+https://doi.org/10.5853/jos.2023.01641
+
+https://j-stroke.org 397
+
+[DOCLING_PAGE 11]
+
+Sakakibara et al. NCCT vs. DWI Before EVT for Large Ischemic Core
+
+Japanese Society for Neuroendovascular Therapy. Neurol Med Chir (Tokyo) 2021;61:163-192.
+
+Almekhlafi MA, Mishra S, Desai JA, Nambiar V, Volny O, Goel A, et al. Not all 'successful' angiographic reperfusion patients are an equal validation of a modified TICI scoring system. Interv Neuroradiol 2014;20:21-27.
+
+Toyoda K, Koga M, Iguchi Y, Itabashi R, Inoue M, Okada Y, et al. Guidelines for intravenous thrombolysis (recombinant tissue-type plasminogen activator), the third edition, March 2019: a guideline from the Japan Stroke Society. Neurol Med Chir (Tokyo) 2019;59:449-491.
+
+Powers WJ, Rabinstein AA, Ackerson T, Adeoye OM, Bambakidis NC, Becker K, et al. Guidelines for the early management of patients with acute ischemic stroke: 2019 update to the 2018 guidelines for the early management of acute ischemic stroke: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke 2019;50:e344-e418.
+
+Wahlgren N, Ahmed N, Dávalos A, Ford GA, Grond M, Hacke W, et al. Thrombolysis with alteplase for acute ischaemic stroke in the Safe Implementation of Thrombolysis in Stroke-Monitoring Study (SITS-MOST): an observational study. Lancet 2007;369:275-282.
+
+Moseley ME, Kucharczyk J, Mintorovitch J, Cohen Y, Kurhanewicz J, Derugin N, et al. Diffusion-weighted MR imaging of acute stroke: correlation with T2-weighted and magnetic susceptibility-enhanced MR imaging in cats. AJNR Am J Neuroradiol 1990;11:423-429.
+
+Hong JM, Kim DS, Kim M. Hemorrhagic transformation after ischemic stroke: mechanisms and management. Front Neurol 2021;12:703258.
+
+Kamogawa N, Tanaka K, Yamagami H, Yoshimoto T, Uchida K, Morimoto T, et al. Outcomes of symptomatic anterior large vessel occlusion by initial imaging assessment using diffusionweighted imaging versus noncontrast computed tomography. Stroke Vasc Interv Neurol 2022;2:e000170.
+
+Kim JT, Cho BH, Choi KH, Park MS, Kim BJ, Park JM, et al. Magnetic resonance imaging versus computed tomography
+
+angiography based selection for endovascular therapy in patients with acute ischemic stroke. Stroke 2019;50:365-372.
+
+Krebs S, Posekany A, Pilz A, Ferrari J, Bernegger A, Neumann C, et al. CT- versus MRI-based imaging for thrombolysis and mechanical thrombectomy in ischemic stroke: analysis from the Austrian stroke registry. J Stroke 2022;24:383-389.
+
+Uchida K, Shindo S, Yoshimura S, Toyoda K, Sakai N, Yamagami H, et al. Association between Alberta stroke program early computed tomography score and efficacy and safety outcomes with endovascular therapy in patients with stroke from large-vessel occlusion: a secondary analysis of the recovery by endovascular salvage for cerebral ultra-acute embolism-Japan large ischemic core trial (RESCUE-Japan LIMIT). JAMA Neurol 2022;79:1260-1266.
+
+de Margerie-Mellon C, Turc G, Tisserand M, Naggara O, Calvet D, Legrand L, et al. Can DWI-ASPECTS substitute for lesion volume in acute stroke? Stroke 2013;44:3565-3567.
+
+Lansberg MG, Straka M, Kemp S, Mlynash M, Wechsler LR, Jovin TG, et al. MRI profile and response to endovascular reperfusion after stroke (DEFUSE 2): a prospective cohort study. Lancet Neurol 2012;11:860-867.
+
+McTaggart RA, Jovin TG, Lansberg MG, Mlynash M, Jayaraman MV, Choudhri OA, et al. Alberta stroke program early computed tomographic scoring performance in a series of patients undergoing computed tomography and MRI: reader agreement, modality agreement, and outcome prediction. Stroke 2015;46:407-412.
+
+Kinjo N, Yoshimura S, Uchida K, Sakai N, Yamagami H, Morimoto T. Incidence and prognostic impact of intracranial hemorrhage after endovascular treatment for acute large vessel occlusion. Cerebrovasc Dis 2020;49:540-549.
+
+Román LS, Menon BK, Blasco J, Hernández-Pérez M, Dávalos A, Majoie CBLM, et al. Imaging features and safety and efficacy of endovascular stroke treatment: a meta-analysis of individual patient-level data. Lancet Neurol 2018;17:895-904.
+
+Lee SJ, Hwang YH, Hong JM, Choi JW, Park JH, Park B, et al. Influence of cerebral microbleeds on mechanical thrombectomy outcomes. Sci Rep 2022;12:3637.
+
+398 https://j-stroke.org
+
+https://doi.org/10.5853/jos.2023.01641

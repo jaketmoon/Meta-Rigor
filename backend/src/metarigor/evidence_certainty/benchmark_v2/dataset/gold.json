@@ -1,0 +1,684 @@
+{
+  "schema_version": "2.1.0",
+  "benchmark_id": "metarigor-evidence-certainty-benchmark-v2-review",
+  "candidate_catalog_sha256": "021b4128b042c485ddf853ee9610ce18afaa2b3b8b83d59eb3f436791af29ae8",
+  "grade_rule_version": "CORE_GRADE_2025_V1",
+  "reference_maturity": "CURATOR_ADJUDICATED_NOT_CLINICAL_EXPERT_VALIDATED",
+  "external_comparator_blinded_during_adjudication": true,
+  "inherited_v1_gold_sha256": "f513e9ca8ac9464b34e6e3e7c1c5eb1b4b4aabcf653d2fb3b36c89b45e38bdc5",
+  "cases": [
+    {
+      "case_id": "pmc-13290216-pancreatoduodenectomy-mortality",
+      "selected_analysis_id": "mortality-day90",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "judgment": "SERIOUS",
+          "rationale": "十项手术 RCT 中两项被作者明确判为 overall high risk，早期试验的术者经验又是可影响围术期结局的额外偏倚来源；在缺少 outcome-specific 权重时按严重处理。",
+          "evidence_anchor_ids": [
+            "risk-of-bias"
+          ]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "90 日死亡的汇总未显示可核验的方向冲突；方法学异质性和小样本主要进入 RoB、indirectness 与 imprecision，不能仅因试验设计有差异重复降级。",
+          "evidence_anchor_ids": [
+            "heterogeneity"
+          ]
+        },
+        {
+          "domain": "INDIRECTNESS",
+          "judgment": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+          "rationale": "证据均直接比较微创与开放胰十二指肠切除，但混合 robotic、laparoscopic 与 MIPD，且术者学习曲线和中心经验可能改变效应，因此是 directness close call。",
+          "evidence_anchor_ids": [
+            "scope",
+            "heterogeneity"
+          ]
+        },
+        {
+          "domain": "IMPRECISION",
+          "judgment": "SERIOUS",
+          "rationale": "OR 1.03 的 95% CI 0.40–2.65 同时容纳大幅获益与显著伤害；死亡事件稀少且多数试验未为死亡结局充分把握，按 V1 可执行 imprecision 边界降一级。",
+          "evidence_anchor_ids": [
+            "effect",
+            "heterogeneity"
+          ]
+        },
+        {
+          "domain": "PUBLICATION_BIAS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "作者预设漏斗图/Egger 检查但也说明试验数少；候选材料没有已知未发表研究或方向性 small-study pattern 足以达到 strongly suspected。",
+          "evidence_anchor_ids": [
+            "publication"
+          ]
+        }
+      ],
+      "overall_downgrade_levels": 3,
+      "final_certainty": "VERY_LOW",
+      "overall_rationale": "RoB 与 imprecision 各自达到 serious，术式和经验差异另形成 indirectness close call；整体视角选择三档降级，并在 VERY_LOW 下限停止。",
+      "curator_confidence": "MODERATE"
+    },
+    {
+      "case_id": "pmc-13337450-stroke-short-rehospitalization",
+      "selected_analysis_id": "rehospitalization-up-to-3-months",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "judgment": "SERIOUS",
+          "rationale": "纳入试验存在较多缺失结局数据和选择性报告问题，且所选再住院亚组没有贡献权重映射，无法排除问题试验支配估计，降一级。",
+          "evidence_anchor_ids": [
+            "risk-of-bias"
+          ]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "四项试验的短期再住院汇总 I²=0%，候选材料未显示重要方向冲突。",
+          "evidence_anchor_ids": [
+            "effect"
+          ]
+        },
+        {
+          "domain": "INDIRECTNESS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "RCT population、过渡期照护与 usual care、三个月内再住院直接匹配选定问题；干预组件差异尚不足以证明重要间接性。",
+          "evidence_anchor_ids": [
+            "scope"
+          ]
+        },
+        {
+          "domain": "IMPRECISION",
+          "judgment": "SERIOUS",
+          "rationale": "仅 507 人、四项试验；RR 0.49 虽未跨 null，但 CI 0.29–0.82 对获益幅度仍宽，且未提供满足 large-effect OIS 的证据，降一级。",
+          "evidence_anchor_ids": [
+            "effect"
+          ]
+        },
+        {
+          "domain": "PUBLICATION_BIAS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "检索覆盖主要数据库、注册平台和灰色文献；该结局 k=4 不适合漏斗图检验，但没有可核验线索达到 strongly suspected。",
+          "evidence_anchor_ids": [
+            "search",
+            "small-study"
+          ]
+        }
+      ],
+      "overall_downgrade_levels": 2,
+      "final_certainty": "LOW",
+      "overall_rationale": "RoB 与 imprecision 各降一级；I²=0、直接 PICO 和广泛检索不支持其他明确降级。",
+      "curator_confidence": "MODERATE"
+    },
+    {
+      "case_id": "pmc-13348439-minocycline-functional-independence",
+      "selected_analysis_id": "mrs-0-2-month3",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "judgment": "SERIOUS",
+          "rationale": "七项纳入试验中两项 high risk、三项 some concerns，主要涉及偏离预期干预和结局测量；所选 mRS 结局没有低风险敏感性闭包，降一级。",
+          "evidence_anchor_ids": [
+            "risk-of-bias"
+          ]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "judgment": "SERIOUS",
+          "rationale": "五项 RCT 的 I²=84.9%，删去一项后仍为 65.4%，存在未解释的重要异质性，降一级。",
+          "evidence_anchor_ids": [
+            "effect"
+          ]
+        },
+        {
+          "domain": "INDIRECTNESS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "急性缺血性卒中、minocycline comparison 与三个月 mRS 0–2 均直接匹配预设 outcome。",
+          "evidence_anchor_ids": [
+            "scope"
+          ]
+        },
+        {
+          "domain": "IMPRECISION",
+          "judgment": "SERIOUS",
+          "rationale": "RR 1.28 的 95% CI 0.97–1.69 跨 null，并同时容纳无重要效应和临床上较大获益，降一级。",
+          "evidence_anchor_ids": [
+            "effect"
+          ]
+        },
+        {
+          "domain": "PUBLICATION_BIAS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "检索覆盖六个来源；因每个 outcome 少于十项研究未正式检验 publication bias，但没有已知缺失研究或方向性 pattern 支持 strongly suspected。",
+          "evidence_anchor_ids": [
+            "search",
+            "publication"
+          ]
+        }
+      ],
+      "overall_downgrade_levels": 3,
+      "final_certainty": "VERY_LOW",
+      "overall_rationale": "RoB、未解释的高异质性和跨 null 的宽 CI 是三个独立降级理由。",
+      "curator_confidence": "HIGH"
+    },
+    {
+      "case_id": "pmc-13380479-heart-failure-readmission",
+      "selected_analysis_id": "heart-failure-readmission",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "judgment": "SERIOUS",
+          "rationale": "开放标签、早停和 pilot 设计可影响再住院与共同干预；删除特定试验后显著性消失，提示 pooled estimate 对方法学选择敏感，降一级。",
+          "evidence_anchor_ids": [
+            "risk-of-bias",
+            "sensitivity"
+          ]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "judgment": "SERIOUS",
+          "rationale": "I²=52%，且敏感性分析显示 comparator 定义和 inpatient pilot 会改变结论，存在重要未解释异质性，降一级。",
+          "evidence_anchor_ids": [
+            "effect",
+            "sensitivity"
+          ]
+        },
+        {
+          "domain": "INDIRECTNESS",
+          "judgment": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+          "rationale": "超声模态、门诊/住院 setting 与 control disease-management 强度不同，均仍属于直接 HF 管理比较，但可合理形成 effect modification，保留 close call。",
+          "evidence_anchor_ids": [
+            "clinical-variation"
+          ]
+        },
+        {
+          "domain": "IMPRECISION",
+          "judgment": "SERIOUS",
+          "rationale": "七项试验共 824 人，RR 0.61 的上界 0.96 贴近 null，且删除关键 pilot 后 CI 跨 null，估计脆弱，降一级。",
+          "evidence_anchor_ids": [
+            "effect",
+            "sensitivity"
+          ]
+        },
+        {
+          "domain": "PUBLICATION_BIAS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "检索四个数据库且没有绑定的未发表研究或 small-study asymmetry 证据，不能仅因 k=7 自动降级。",
+          "evidence_anchor_ids": [
+            "search"
+          ]
+        }
+      ],
+      "overall_downgrade_levels": 3,
+      "final_certainty": "VERY_LOW",
+      "overall_rationale": "RoB、inconsistency 与 imprecision 已各降一级；setting/comparator 差异作为 close call 记录但总降级封顶三档。",
+      "curator_confidence": "MODERATE"
+    },
+    {
+      "case_id": "pmc-13391209-laac-ischaemic-stroke",
+      "selected_analysis_id": "ischaemic-stroke-or-systemic-embolism",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "judgment": "SERIOUS",
+          "rationale": "所有纳入随机试验的 overall RoB 均为 some concerns，所选结局没有贡献权重或仅低风险研究敏感性结果，降一级。",
+          "evidence_anchor_ids": [
+            "risk-of-bias"
+          ]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "214 个事件的 pairwise synthesis 为 I²=0%，候选材料未显示重要方向冲突。",
+          "evidence_anchor_ids": [
+            "effect"
+          ]
+        },
+        {
+          "domain": "INDIRECTNESS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "AF 人群、LAAC 对 OAC 与缺血性卒中/系统性栓塞直接匹配目标；不同 OAC 类型仍属于预设 comparator 范围。",
+          "evidence_anchor_ids": [
+            "scope"
+          ]
+        },
+        {
+          "domain": "IMPRECISION",
+          "judgment": "SERIOUS",
+          "rationale": "RR 1.41 的下界 1.07 接近 null，只有 214 个事件；CI 对伤害幅度仍宽且未闭合 modest-effect OIS，降一级。",
+          "evidence_anchor_ids": [
+            "effect"
+          ]
+        },
+        {
+          "domain": "PUBLICATION_BIAS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "无限制检索结合 contour funnel 与 Egger 均未见一致 asymmetry；这不能证明无偏，但不足以 strongly suspect。",
+          "evidence_anchor_ids": [
+            "search",
+            "publication"
+          ]
+        }
+      ],
+      "overall_downgrade_levels": 2,
+      "final_certainty": "LOW",
+      "overall_rationale": "RoB 与 imprecision 各降一级；统计一致、直接比较且未见 small-study signal。",
+      "curator_confidence": "MODERATE"
+    },
+    {
+      "case_id": "pmc-13506725-lung-cancer-ppc",
+      "selected_analysis_id": "overall-ppc-30-day-or-index-admission",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "judgment": "SERIOUS",
+          "rationale": "29 项 RCT 中仅 4 项 overall low risk、24 项 some concerns、1 项 high risk；常见问题为随机过程、选择性报告和结局评估，且所选 PPC 没有 outcome-specific contribution 权重，降一级。",
+          "evidence_anchor_ids": [
+            "risk-of-bias"
+          ]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "13 项研究的 overall PPC 汇总 I²=0%，固定/随机模型和 leave-one-out 的方向及显著性保持稳定，未见重要 unexplained inconsistency。",
+          "evidence_anchor_ids": [
+            "effect"
+          ]
+        },
+        {
+          "domain": "INDIRECTNESS",
+          "judgment": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+          "rationale": "人群、术前 prehabilitation 和 PPC 直接匹配问题，但训练组件、强度、setting 以及 PPC 的 30 日或住院期定义并不统一，可能改变 effect，保留 close call。",
+          "evidence_anchor_ids": [
+            "scope",
+            "limitations"
+          ]
+        },
+        {
+          "domain": "IMPRECISION",
+          "judgment": "SERIOUS",
+          "rationale": "RR 0.42 属于 large-effect path，95% CI 未跨 null；观察 N=1419 仍未证明达到按 modest relative effect 计算的固定 OIS，因此按 CORE_GRADE_2025_V1 降一级。",
+          "evidence_anchor_ids": [
+            "effect"
+          ]
+        },
+        {
+          "domain": "PUBLICATION_BIAS",
+          "judgment": "SERIOUS",
+          "rationale": "检索覆盖八个数据库且不限语言，但 overall PPC 的漏斗图可能不对称、Egger P=0.016，形成来源支持的 small-study effect 强疑点，降一级。",
+          "evidence_anchor_ids": [
+            "search",
+            "publication"
+          ]
+        }
+      ],
+      "overall_downgrade_levels": 3,
+      "final_certainty": "VERY_LOW",
+      "overall_rationale": "RoB、large-effect OIS 不足与 small-study effects 是三个独立降级理由；干预和 outcome 定义差异另保留 indirectness close call。",
+      "curator_confidence": "HIGH"
+    },
+    {
+      "case_id": "pmc-13446969-postextubation-reintubation",
+      "selected_analysis_id": "reintubation-within-72-hours",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "judgment": "SERIOUS",
+          "rationale": "多数 trial 为 some concerns，三项为 high risk；开放标签造成 intended-intervention deviations，且高质量限制分析的信号不同，降一级。",
+          "evidence_anchor_ids": [
+            "risk-of-bias"
+          ]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "judgment": "SERIOUS",
+          "rationale": "Figure 2 的十五个 study effect 跨越明显获益、无效与明显伤害方向，多个区间很宽；I² 22% 未消除 phenotype subgroup 的不同方向信号，存在重要未解释 inconsistency，降一级。",
+          "evidence_anchor_ids": [
+            "heterogeneity"
+          ]
+        },
+        {
+          "domain": "INDIRECTNESS",
+          "judgment": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+          "rationale": "均为高风险成人拔管后 HFNC vs NIV，但 risk phenotype、手术状态和肥胖构成可能的 effect modifiers；保留直接性 close call。",
+          "evidence_anchor_ids": [
+            "scope",
+            "heterogeneity"
+          ]
+        },
+        {
+          "domain": "IMPRECISION",
+          "judgment": "SERIOUS",
+          "rationale": "Figure 2 的 Wald OR 1.22、95% CI 0.90–1.65 跨 null，同时容纳具有临床意义的获益和伤害；2073 participants 仍不足以排除重要效应，降一级。",
+          "evidence_anchor_ids": [
+            "effect"
+          ]
+        },
+        {
+          "domain": "PUBLICATION_BIAS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "主要数据库与参考文献检索未提供已知未发表研究或可核验 asymmetry，不能按研究数机械降级。",
+          "evidence_anchor_ids": [
+            "search"
+          ]
+        }
+      ],
+      "overall_downgrade_levels": 3,
+      "final_certainty": "VERY_LOW",
+      "overall_rationale": "RoB、inconsistency 和 imprecision 各降一级；indirectness close call 不改变封顶结果。",
+      "curator_confidence": "MODERATE"
+    },
+    {
+      "case_id": "pmc-13472815-high-protein-mortality",
+      "selected_analysis_id": "mortality-day28-30",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "judgment": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+          "rationale": "候选仅提供图形化 RoB 分布而缺少所选死亡结局的 contribution mapping；无法确认 concern-bearing trials 是否支配，也不能断言整体严重，保留 close call。",
+          "evidence_anchor_ids": [
+            "risk-of-bias"
+          ]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "六项 RCT 的 28/30 日死亡汇总 I²=0%，没有可核验的重要方向冲突。",
+          "evidence_anchor_ids": [
+            "effect"
+          ]
+        },
+        {
+          "domain": "INDIRECTNESS",
+          "judgment": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+          "rationale": "均为 ICU 成人 higher vs lower protein，但实际蛋白差异、能量共干预和 critical-care population 有临床差异，可能影响效果，保留 close call。",
+          "evidence_anchor_ids": [
+            "scope"
+          ]
+        },
+        {
+          "domain": "IMPRECISION",
+          "judgment": "SERIOUS",
+          "rationale": "RR 0.82 的 95% CI 0.58–1.17 跨 null，容纳有意义获益与伤害，降一级。",
+          "evidence_anchor_ids": [
+            "effect"
+          ]
+        },
+        {
+          "domain": "PUBLICATION_BIAS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "检索覆盖主要英文与中文数据库；多数 outcome 少于十项研究，无法可靠检验 funnel asymmetry，但没有已知未发表研究、选择性可得性或方向性 small-study pattern 达到 strongly suspected，故不降级。",
+          "evidence_anchor_ids": [
+            "search",
+            "publication"
+          ]
+        }
+      ],
+      "overall_downgrade_levels": 2,
+      "final_certainty": "LOW",
+      "overall_rationale": "imprecision 明确降一级；RoB 与 indirectness 两个独立 close call 中取一个保守端，使 overall 再降一级。由于缺少 outcome-specific RoB，置信度较低。",
+      "curator_confidence": "LOW"
+    },
+    {
+      "case_id": "pmc-13473429-txa-short-mortality",
+      "selected_analysis_id": "short-term-mortality",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "七项 RCT 中六项 overall low risk、仅一项 some concerns，未见足以影响短期死亡 estimate 的具体偏倚模式。",
+          "evidence_anchor_ids": [
+            "risk-of-bias"
+          ]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "四项短期死亡试验的 I²=0%，候选材料未显示重要方向冲突。",
+          "evidence_anchor_ids": [
+            "effect"
+          ]
+        },
+        {
+          "domain": "INDIRECTNESS",
+          "judgment": "SERIOUS",
+          "rationale": "同一汇总混合 traumatic brain injury、intracerebral hemorrhage 与 subarachnoid hemorrhage；病因、治疗窗口和标准照护显著不同，属于重要 clinical indirectness，降一级。",
+          "evidence_anchor_ids": [
+            "scope",
+            "clinical-heterogeneity"
+          ]
+        },
+        {
+          "domain": "IMPRECISION",
+          "judgment": "SERIOUS",
+          "rationale": "RR 0.93 的 95% CI 0.86–1.00 触及 null；尽管样本较大，仍不能排除无效且获益幅度有限，降一级。",
+          "evidence_anchor_ids": [
+            "effect"
+          ]
+        },
+        {
+          "domain": "PUBLICATION_BIAS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "五数据库检索虽限 English，但没有已知未发表研究或小样本效应 pattern 足以 strongly suspect；语言限制单独不足以机械降级。",
+          "evidence_anchor_ids": [
+            "search",
+            "effect"
+          ]
+        }
+      ],
+      "overall_downgrade_levels": 2,
+      "final_certainty": "LOW",
+      "overall_rationale": "重要 population heterogeneity 与 CI 触及 null 各降一级；RoB 与统计一致性不支持额外降级。",
+      "curator_confidence": "MODERATE"
+    },
+    {
+      "case_id": "pmc-13486297-bronchiolitis-treatment-failure",
+      "selected_analysis_id": "treatment-failure",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "judgment": "SERIOUS",
+          "rationale": "虽无 trial 被判 high risk，但开放式呼吸支持和 trial-defined、可受 clinician 决策影响的 treatment failure 容易受偏离干预及 outcome measurement 影响，降一级。",
+          "evidence_anchor_ids": [
+            "risk-of-bias",
+            "scope"
+          ]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "judgment": "SERIOUS",
+          "rationale": "十项 RCT 的 I²=67%，且 failure criteria 与 setting 不同，存在重要未解释 heterogeneity，降一级。",
+          "evidence_anchor_ids": [
+            "effect"
+          ]
+        },
+        {
+          "domain": "INDIRECTNESS",
+          "judgment": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+          "rationale": "均为 bronchiolitis 中 HFNC vs CPAP，但疾病严重度、照护 setting 与 failure 定义跨 trial 变化，构成 close call。",
+          "evidence_anchor_ids": [
+            "scope"
+          ]
+        },
+        {
+          "domain": "IMPRECISION",
+          "judgment": "SERIOUS",
+          "rationale": "RR 0.80 的 95% CI 0.50–1.29 跨 null，同时容纳明显获益与伤害，降一级。",
+          "evidence_anchor_ids": [
+            "effect"
+          ]
+        },
+        {
+          "domain": "PUBLICATION_BIAS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "漏斗图近似对称、Egger p=0.18；k=10 的检验仍有限，但没有证据达到 strongly suspected。",
+          "evidence_anchor_ids": [
+            "search",
+            "publication"
+          ]
+        }
+      ],
+      "overall_downgrade_levels": 3,
+      "final_certainty": "VERY_LOW",
+      "overall_rationale": "RoB、inconsistency 与 imprecision 是三个明确且不同的降级理由；定义/setting 差异另作 close call。",
+      "curator_confidence": "MODERATE"
+    },
+    {
+      "case_id": "pmc-13495394-imaging-pci-mace",
+      "selected_analysis_id": "major-adverse-cardiovascular-events",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "judgment": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+          "rationale": "Review candidate 未报告结构化 RoB 结果，只在 TSA 方法中提到 low-bias primary studies，无法形成 outcome-specific contribution closure；因此在不降级与降一级之间。",
+          "evidence_anchor_ids": [
+            "risk-of-bias"
+          ]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "五项 pairwise RCT 的 I²=9.8%，影响分析后方向保持一致，现有材料不支持重要 inconsistency。",
+          "evidence_anchor_ids": [
+            "effect"
+          ]
+        },
+        {
+          "domain": "INDIRECTNESS",
+          "judgment": "SERIOUS",
+          "rationale": "MACE 定义跨试验变化，部分试验未报告 MACE 而以 target-vessel failure 作 surrogate；这改变 outcome construct，降一级。",
+          "evidence_anchor_ids": [
+            "scope",
+            "surrogate"
+          ]
+        },
+        {
+          "domain": "IMPRECISION",
+          "judgment": "SERIOUS",
+          "rationale": "RR 0.58 的普通 CI 未跨 null，但 TSA 所需信息量 5880，观察 N=3023 尚未达到；在预设 modest-effect 信息量下不充分，降一级。",
+          "evidence_anchor_ids": [
+            "risk-of-bias",
+            "effect"
+          ]
+        },
+        {
+          "domain": "PUBLICATION_BIAS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "检索无语言/日期限制，k=5 未做 publication-bias 检验；没有已知缺失 trial 或方向性 small-study pattern 达到 strongly suspected。",
+          "evidence_anchor_ids": [
+            "search",
+            "publication"
+          ]
+        }
+      ],
+      "overall_downgrade_levels": 3,
+      "final_certainty": "VERY_LOW",
+      "overall_rationale": "outcome indirectness 与信息量不足各降一级；RoB 缺少结构化结果这一 close call 取保守端，总计三档。该 case 因 RoB source closure 较弱而标为低置信。",
+      "curator_confidence": "LOW"
+    },
+    {
+      "case_id": "pmc-13507955-ultrasound-atelectasis",
+      "selected_analysis_id": "postoperative-atelectasis",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "judgment": "SERIOUS",
+          "rationale": "十项试验中六项 some concerns；麻醉师无法盲法，超声采集/解释依赖操作者且训练与一致性报告不完整，可能影响 atelectasis ascertainment，降一级。",
+          "evidence_anchor_ids": [
+            "risk-of-bias"
+          ]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "judgment": "SERIOUS",
+          "rationale": "I²=50.8%，且 recruitment protocol、PEEP、手术类型与 outcome timing 不同，残余异质性具有临床解释但未被闭合，降一级。",
+          "evidence_anchor_ids": [
+            "effect",
+            "clinical-heterogeneity"
+          ]
+        },
+        {
+          "domain": "INDIRECTNESS",
+          "judgment": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+          "rationale": "所有研究直接比较超声指导 recruitment，但手术 population、诊断阈值、时点和 maintenance strategy 不同，可能限制可迁移性，保留 close call。",
+          "evidence_anchor_ids": [
+            "scope",
+            "clinical-heterogeneity"
+          ]
+        },
+        {
+          "domain": "IMPRECISION",
+          "judgment": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+          "rationale": "RR 0.64 的 95% CI 0.52–0.77 未跨 null，但只有 1076 人且 outcome 定义/时点不统一；在不降级与降一级之间。",
+          "evidence_anchor_ids": [
+            "effect"
+          ]
+        },
+        {
+          "domain": "PUBLICATION_BIAS",
+          "judgment": "SERIOUS",
+          "rationale": "漏斗图与 Egger 明确提示可能 small-study effects，trim-and-fill 也不能消除 concern，达到 strongly suspected，降一级。",
+          "evidence_anchor_ids": [
+            "publication"
+          ]
+        }
+      ],
+      "overall_downgrade_levels": 3,
+      "final_certainty": "VERY_LOW",
+      "overall_rationale": "RoB、inconsistency 和 publication bias 已各降一级；indirectness 与 imprecision close calls 不再改变三档封顶。",
+      "curator_confidence": "MODERATE"
+    },
+    {
+      "case_id": "pmc-13522188-ohca-mortality",
+      "selected_analysis_id": "all-cause-mortality-longest-follow-up",
+      "domains": [
+        {
+          "domain": "RISK_OF_BIAS",
+          "judgment": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+          "rationale": "低风险限制分析只保留四项中的两项且结论相近，说明严重偏倚未被证实；但复杂 pathway 无法盲法且共同干预可能受 allocation 影响，保留 close call。",
+          "evidence_anchor_ids": [
+            "risk-of-bias"
+          ]
+        },
+        {
+          "domain": "INCONSISTENCY",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "总体与 subgroup 的统计异质性未显示重要冲突，固定效应、leave-one-out 和低风险限制分析方向一致。",
+          "evidence_anchor_ids": [
+            "clinical-heterogeneity",
+            "risk-of-bias"
+          ]
+        },
+        {
+          "domain": "INDIRECTNESS",
+          "judgment": "SERIOUS",
+          "rationale": "汇总混合 ongoing-CPR intra-arrest transfer 与 post-ROSC transfer 两种生理状态和 bundle，且均来自高资源系统；平均效应不能直接代表单一 pathway，降一级。",
+          "evidence_anchor_ids": [
+            "scope",
+            "clinical-heterogeneity"
+          ]
+        },
+        {
+          "domain": "IMPRECISION",
+          "judgment": "SERIOUS",
+          "rationale": "RR 0.97 的 95% CI 0.90–1.04 跨 null，四项试验共 1303 人；对小到中等获益/伤害仍不充分，降一级。",
+          "evidence_anchor_ids": [
+            "effect"
+          ]
+        },
+        {
+          "domain": "PUBLICATION_BIAS",
+          "judgment": "NOT_SERIOUS",
+          "rationale": "检索无语言限制；k=4 无法正式检验 publication bias，但没有已知缺失试验或方向性 pattern 支持 strongly suspected。",
+          "evidence_anchor_ids": [
+            "search"
+          ]
+        }
+      ],
+      "overall_downgrade_levels": 2,
+      "final_certainty": "LOW",
+      "overall_rationale": "indirectness 与 imprecision 各降一级；RoB close call 取下界，因为低风险限制分析与主分析一致。",
+      "curator_confidence": "MODERATE"
+    }
+  ]
+}

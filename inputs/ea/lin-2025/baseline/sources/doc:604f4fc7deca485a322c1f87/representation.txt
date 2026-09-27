@@ -1,0 +1,522 @@
+[DOCLING_PAGE 1]
+
+Stroke: Vascular and Interventional Neurology
+
+ORIGINAL RESEARCH
+
+TESLA Trial: Rationale, Protocol, and Design
+
+Osama O. Zaidat, MD, MS † ; Sami Al Kasab, MD; Sunil Sheth, MD; Santiago Ortega-Gutierrez, MD, MSc; Ansaar T. Rai, MD; Curtis A. Given II; Ramesh Grandhi, MD; Maxim Mokin, MD, PhD; Jeffrey M. Katz, MD; Alberto Maud, MD; Rishi Gupta, MD; Wade S. Smith, MD,PhD; Diederik W. Dippel, MD, PhD; Daryl Gress, MD; Thanh N. Nguyen, MD; Scott Brown; Ashutosh P. Jadhav, MD, PhD; Lucas Eljovich, MD; Charles Majoie, MD; Mary S. Patterson; Hannah Slight; Kristine Below; Albert J. Yoo, MD, PhD †
+
+BACKGROUND: Mechanical thrombectomy has been shown to be effective in patients with acute ischemic stroke secondary to large-vessel occlusion and small to moderate infarct volume. However, there are no randomized clinical trials for large-core infarct volume comparing mechanical thrombectomy to medical therapy in the population selected based solely on noncontrast computed tomography brain scan. The TESLA (Thrombectomy for Emergent Salvage of Large Anterior Circulation Ischemic Stroke) randomized clinical trial is designed to address this clinical question.
+
+METHODS: The TESLA trial aim is to demonstrate the efficacy (3-month and 1-year disability following stroke) and safety of intraarterial mechanical thrombectomy in patients with large-volume infarction assessed with a noncontrast computed tomography scan. The TESLA trial design is a prospective, randomized controlled, multicenter, open-label, assessor-blinded anterior circulation acute ischemic stroke trial with adaptive enrichment design, enrolling up to 300 patients. Patients with anterior circulation large-vessel occlusion who meet the imaging and clinical eligibility criteria with a large-core infarction on the basis of noncontrast computed tomography Alberta Stroke Program Early CT Score (2-5) adjudicated by a site investigator will be randomized in a 1:1 ratio to undergo intraarterial thrombectomy or best medical management up to 24 hours from last known well.
+
+RESULTS: The primary efficacy outcome is utility-weighted modified Rankin Scale (mRS) score distribution at 90 days between the groups. The results will be based on an intention-to-treat analysis that will examine the Bayesian posterior probability that, adjusted for Alberta Stroke Program Early CT Score, patients with large-core infarct volume treated with intra-arterial thrombectomy have higher expected utility-weighted mRS than those treated with best medical management alone. The primary safety outcome is the 90-day death rate. Key secondary outcomes are dichotomized mRS 0 to 2 and 0 to 3 outcomes, ordinal mRS scores, and quality of life (EuroQol 5 Dimension 5 Level survey) at 90 days and 1 year, utility-weighted mRS at 1 year, hemicraniectomy rate, and rate of 24-hour symptomatic intracranial hemorrhage in both groups.
+
+CONCLUSION: TESLA is a pragmatic trial, designed to address the unanswered question of the efficacy and safety of intra-arterial thrombectomy in patients with large infarcts diagnosed by the site investigator only on noncontrast computed tomography scan secondary to anterior circulation large-vessel occlusion up to 24 hours from stroke symptoms onset.
+
+Key Words: clinical trial ■ design ■ large-core infarct ■ large-vessel occlusion ■ stroke ■ TESLA trial ■ thrombectomy R ecent randomized intraarterial treatment trials demonstrated that intra-arterial thrombectomy (IAT) improves clinical outcome in selected patients with acute ischemic stroke (AIS) who present with emergent large-vessel occlusions within 0 to 24 hours from stroke onset. 1-6 The MR CLEAN (Multicenter Randomized Clinical Trial of Endovascular Treatment for Acute Ischemic Stroke in the Netherlands) trialists reported that this benefit was maintained at 2 years. 7
+
+Correspondences to: Albert J. Yoo, MD, PhD, Texas Stroke Institute, Dallas, TX 75075. E-mail: ajyoo74@gmail.com
+
+This manuscript was sent to Dr. Andrei V. Alexandrov, Guest Editor, for review by expert referees, editorial decision, and final disposition.
+
+† O.O. Zaidat and A.J. Yoo are co-first authors and contributed equally to the design and conduct of the study, Registration: ClinicalTrials.gov Identifier: NCT03805308, FDA Investigational Device Exemption: G190006
+
+© 2023 The Authors. Published on behalf of the American Heart Association, Inc., and the Society of Vascular and Interventional Neurology by Wiley Periodicals LLC. This is an open access article under the terms of the Creative Commons Attribution-NonCommercial License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.
+
+Stroke: Vascular and Interventional Neurology is available at: www.ahajournals.org/journal/svin
+
+Stroke Vasc Interv Neurol. 2023;3:e000787. DOI: 10.1161/SVIN.122.000787
+
+1
+
+[DOCLING_PAGE 2]
+
+Zaidat et al
+
+The TESLA Trial
+
+Although these randomized controlled trials (RCTs) used varying selection criteria, a meta-analysis of these RCTs showed that the treatment benefit extended broadly to the majority of patient subgroups. 8 Subsequently, 2 RCTs established the benefit of IAT in carefully selected patients beyond 6 hours, with an upper limit of 16 hours in 1 trial and 24 hours in the other. 9,10 However, guidelines acknowledge that numerous questions remain regarding how best to deliver this treatment, including whether patients with Alberta Stroke Program Early CT Score (ASPECTS) < 6 would benefit from IAT. Specifically, these earlyand late-timewindow RCTs avoided patients with large-core infarct (LCI) volume, by excluding patients with ASPECTS < 6, or computed tomography (CT) perfusion-estimated core infarct > 50 to 70 cc. As a result, these trials did not answer the question: What is the baseline infarct volumeabove which the clinical benefit of IAT is lost or cost ineffective? 6 Moreover, the very low numbers needed to treat for benefit (2.8-3.6 for 90-day modified Rankin Scale [mRS] score 0-2) attest to the likelihood that there are more patients outside of the current guidelinerecommended treatment population who might benefit by identifying the core infarct volume beyond which IAT is not beneficial. 11 This is confirmed by a single-center cohort study that reported that a very low percentage (1.7%) of patients with stroke satisfy currently published RCT criteria. 12 The TESLA (Thrombectomy for Emergent Salvage of Large Anterior Circulation Ischemic Stroke) randomized clinical trial is designed to address this clinical question. For TESLA, the primary imaging modality for patient selection is noncontrast CT (NCCT) brain scan, using ASPECTS for determination of infarct volume. This choice is intended to enhance the pragmatic design and generalizability of the TESLA trial worldwide.
+
+TRIAL DESIGN AND METHODS
+
+Trial Objectives
+
+The trial primary objective is to establish the effectiveness and safety of IAT (versus best medical management [BMM] alone) in patients with large baseline
+
+Nonstandard Abbreviations and Acronyms
+
+AIS ASPECTS
+
+acute ischemic stroke Alberta Stroke Program Early CT Score
+
+BMM
+
+best medical manage- ment
+
+DSMB
+
+Data Safety Monitoring Board
+
+FDA
+
+Food and Drug Admin- istration
+
+IAT
+
+intra-arterial thrombec- tomy
+
+IV-rtPA
+
+intravenous
+
+recom-
+
+binant
+
+tissue-type
+
+plasminogen activator
+
+LCI MR CLEAN
+
+large-core infarct
+
+Multicenter
+
+Random-
+
+ized
+
+Clinical
+
+Trial
+
+of
+
+Endovascular
+
+Treatment
+
+for
+
+Acute
+
+Ischemic
+
+Stroke
+
+in
+
+the
+
+Netherlands
+
+mRS mTICI
+
+modified Rankin Scale
+
+modified
+
+Thrombolysis
+
+in Cerebral Infarction
+
+NCCT
+
+noncontrast
+
+computed
+
+tomography
+
+NIHSS
+
+National Institutes of Health Stroke Severity Scale
+
+RESCUE-JapanLIMIT
+
+Recovery by Endovas- cular Salvage for Cerebral Ultra-Acute Embolism-Japan Large Ischemic Core Trial Efficacy and Safety of Thrombectomy in Stroke With Extended Lesion and Extended Time Window Thrombectomy for Emergent Salvage of Large Anterior Cir- culation Ischemic
+
+TENSION
+
+TESLA
+
+Stroke
+
+infarcts (defined by NCCT ASPECTS 2-5), with adaptive enrichment to better define the upper limit of infarct volume for treatment benefit in anterior circulation AIS within 24 hours of symptoms onset and with National Institutes of Health Stroke Scale (NIHSS) score of ≥ 6.
+
+Stroke Vasc Interv Neurol. 2023;3:e000787. DOI: 10.1161/SVIN.122.000787
+
+2
+
+[DOCLING_PAGE 3]
+
+Zaidat et al
+
+The TESLA Trial
+
+CLINICAL PERSPECTIVE
+
+TESLA (Thrombectomy for Emergent Salvage of Large Anterior Circulation Ischemic Stroke) large core infarct randomized clinical trial protocol and design is unique; being the only large core infarct randomized clinical trial that enrolled subjects based on non-contrast head computed tomography scan with Alberta Stroke Program Early CT Score (ASPECTS) as low as 2 up to 24 hours from symptoms onset.
+
+Study Design
+
+TESLA is an investigator-designed and -initiated, pragmatic, phase III, prospective, randomized, open-label, blinded end point, multicenter trial. Patients with large infarcts will be assigned to either BMM alone (including intravenous recombinant tissue-type plasminogen activator [IV-rtPA]) or IAT added to BMM. Mechanical thrombectomy will be performed with Food and Drug Administration (FDA)-approved thrombectomy devices in accordance with the instructions for use and under FDA Investigational Device Exemption G190006. The first patient was enrolled in July 2019 and the last patient was enrolled in October 2022 with pending 90day and 1-year clinical follow-ups. Data are available at the cenral coordinator center for the study prinicipal investigators (Yoo A, Zaidat OO).
+
+Primary Trial End Points
+
+Primary efficacy end point: comparing utilityweighted 90-day mRS between BMM versus IAT + BMM
+
+Primary safety end point: comparing 90-day death rate between BMM versus IAT + BMM
+
+Prespecified Secondary End Points in BMM and IAT + BMM Groups
+
+1-year utility-weighted mRS
+
+1-year mRS ordinal shift (mRS 5 and 6 combined)
+
+1-year dichotomized mRS 0 to 2 outcome
+
+1-year dichotomized mRS 0 to 3 outcome
+
+90-day mRS ordinal shift (mRS 5 and 6 combined)
+
+90-day dichotomized mRS 0 to 2 outcome
+
+90-day dichotomized mRS 0 to 3 outcome
+
+NIHSS at 24 hours (16-36 hours) from randomization
+
+NIHSS at 6 ± 1 days or discharge (whichever is earlier)
+
+NIHSS of 0 to 2 or improvement of ≥ 8 points at 6 ± 1 day or discharge (whichever is earlier)
+
+Length of hospital stay
+
+Discharge disposition
+
+Quality of life (EuroQol 5 Dimension 5 Level survey) at 90 days
+
+Quality of life (EuroQol 5 Dimension 5 Level survey) at 1 year
+
+24-hour (16-36 hours) NCCT or diffusion-weighted imaging ASPECTS
+
+24-hour (16-36 hours) NCCT or diffusion-weighted imaging infarct volume
+
+Procedural/time metrics: door to qualifying image, door to needle (for IV-rtPA), door to puncture (for IAT), image to puncture, puncture to modified Thrombolysis in Cerebral Infarction (mTICI) 2b to 3, puncture to end of the procedure (for subjects who achieve final mTICI 0 to 2a, and defined as the final cerebral angiogram on the affected hemisphere)
+
+Comparison of site, core lab, software ASPECTS estimation (e-ASPECTS13-14; Brainomix, Oxford, England, for sites that installed the software)
+
+Correlation of baseline CT perfusion results with 90day and 1-year outcomes
+
+Prespecified Secondary End Points in IAT Group
+
+Rate of first-pass effect to TICI 2c or 3 (ie, from first treatment attempt)
+
+Rate of substantial reperfusion (mTICI 2b-3), excellent reperfusion (TICI 2c-3), and complete reperfusion (TICI 3), in the intra-arterial treatment arm
+
+Prespecified Secondary Safety End Points in BMM and IAT + BMM Groups
+
+Rate of symptomatic intracranial hemorrhage: parenchymal hematoma type 2 with ≥ 4 points NIHSS worsening (from immediate predeterioration NIHSS) at 24 hours (16-36 hours) from randomization
+
+Any neurological deterioration of ≥ 4 points on NIHSS (from immediate predeterioration NIHSS) before day 6 ± 1 or discharge (whichever is earlier) and unrelated to symptomatic intracranial hemorrhage or sedation (In addition to the routine 24-hour CT scan, repeat neuroimaging is mandatory for any subsequent neurological deterioration at any time during hospitalization.)
+
+Stroke Vasc Interv Neurol. 2023;3:e000787. DOI: 10.1161/SVIN.122.000787
+
+3
+
+[DOCLING_PAGE 4]
+
+Zaidat et al
+
+The TESLA Trial
+
+Rate of decompressive hemicraniectomy
+
+All serious adverse events, including serious adverse device events, serious adverse procedural events, and unanticipated serious adverse events
+
+Prespecified Secondary Safety End Points in IAT Group
+
+Emboli to new territory, in the intra-arterial treatment arm
+
+Major vessel injury (perforation, dissection), in the intraarterial treatment arm
+
+Participating Centers and Center Selection
+
+Up to 65 centers in the United States and 15 centers in Europe may be invited to participate in the trial. Center selection is determined by the following factors using site qualification questionnaires: AIS clinical trial experience, endovascular case volume, stroke center accreditation, operator experience with neurointerventional procedures and mechanical thrombectomy, and stroke triage imaging availability. Participating members of the neurointerventional team must perform at least 20 intracranial mechanical thrombectomy cases annually. The neurointerventional credentialing committee will review and approve the neurointerventionalist on the basis of their training and experience via the neurointerventionalist-completed TESLA clinical trial credentialing form. At least 1 investigator per site should be trained and certified by the TENSION (Efficacy and Safety of Thrombectomy in Stroke With Extended Lesion and Extended Time Window () trial web-based ASPECTS training module; only ASPECTScertified investigators may assess ASPECTS on the baseline NCCT for trial eligibility. All sites must obtain approval from the institutional review board.
+
+Study Population
+
+Inclusion and Exclusion Criteria
+
+A complete screening form with inclusion and exclusion criteria is provided in Table 1. Patients must be 18 to 85 years of age, presenting with AIS within 24 hours of symptoms onset, with NIHSS score ≥ 6, and prestroke mRS score 0 to 1. Eligible occlusions involve the internal carotid artery terminus or middle cerebral artery M1 segment. Patients must have evidence of a large baseline infarct defined as NCCT ASPECTS 2 to 5. Key exclusion criteria are similar to IV-rtPA criteria except for time window. Additionally, patients cannot have imaging evidence of midline shift or herniation, intracranial hemorrhage, and mass effect with ASPECTS indicates Alberta Stroke Program Early CT Score; ICA, internal carotid artery; IV-rtPA, intravenous recombinant tissue-type plasminogen activator; MCA, middle cerebral artery; mRS, modified Rankin Scale; NCCT, noncontrast computed tomography; NIHSS, National Institute of Health Stroke Scale; and TESLA, Thrombectomy for Emergent Salvage of Large Anterior Circulation Ischemic Stroke.
+
+[DOCLING_TABLE rows=25 columns=2]
+| Inclusion criteria | Inclusion criteria |
+| 1 | 18-85 years of age |
+| 2 | Presenting with symptoms consistent with an acute ischemic stroke |
+| 3 | Imaging evidence of an anterior circulation occlusion of the ICA terminus or MCA M1 segment |
+| 4 | NIHSS score ≥ 6 at the time of randomization |
+| 5 | Ability to randomize within 24 hours of stroke onset (stroke onset is defined as the time the patient was last known to be at his/her neurologic baseline. Wake-up strokes are eligible if they meet the above time limits.) |
+| 6 | Prestroke mRS score 0-1 |
+| 7 | Ability to obtain signed informed consent |
+| 8 | If indicated, IV-rtPA should be administered as soon as possible and no later than 3 hours from symptom onset |
+| Imaging inclusion criterion of moderate-large infarct defined as: NCCT ASPECTS | Imaging inclusion criterion of moderate-large infarct defined as: NCCT ASPECTS |
+| Exclusion criteria |  |
+| 1 | Women who are pregnant, or those of childbearing potential with positive urine or serum beta human chorionic gonadotropin test |
+| 2 | Known severe allergy (more than a rash) to contrast media uncontrolled by medications |
+| 3 | Refractory hypertension (defined as persistent systolic blood pressure > 185 mm Hg or diastolic blood pressure > 110 mm Hg) |
+| 4 | CT evidence of the following conditions: Midline shift or herniation Evidence of intracranial hemorrhage Mass effect with effacement of the ventricles |
+| 5 | CT angiography evidence suggestive of difficult endovascular access per the treating interventionalist |
+| 6 | Presence of cervical ICA complete occlusion (eg, related to atherosclerotic disease or dissection) |
+| 7 | Rapidly improving neurological status prior to randomization to NIHSS < 6 |
+| 8 | Bilateral strokes or multiple intracranial occlusions in multiple territories |
+| 9 | Intracranial tumors (except small meningiomas [ ≤ 3 cm]) |
+| 10 | Known hemorrhagic diathesis or coagulation factor deficiency or on anticoagulant therapy with an international normalized ratio of > 3.0 or partial thromboplastin time > 3 times of normal |
+| 11 | Baseline platelet count < 30 000/ μ L |
+| 12 | Life expectancy < 1 year before stroke onset |
+| 13 | Participation in another randomized clinical trial that could confound the evaluation of the study |
+| 14 | Any other condition (in the opinion of the site investigator) that precludes an endovascular procedure or poses a significant hazard to the patient if an endovascular procedure was performed |
+[/DOCLING_TABLE]
+
+Stroke Vasc Interv Neurol. 2023;3:e000787. DOI: 10.1161/SVIN.122.000787
+
+4
+
+[DOCLING_PAGE 5]
+
+Zaidat et al
+
+The TESLA Trial
+
+effacement of the ventricles, cervical internal carotid artery complete occlusion, and bilateral strokes.
+
+STUDY PROCEDURES
+
+Patient Screening and Enrollment
+
+A signed informed consent form will be obtained for those who meet inclusion criteria and none of the exclusion criteria, and the patient will be randomized using the RedCap Cloud web-based randomization module. Patients with a signed informed consent form but who are not randomized will undergo routine imaging evaluation and receive standard therapy according to local guidelines. The reason for no randomization will be recorded. Patients with a signed informed consent form who are randomized will be followed for the entire 1-year study duration, regardless of whether they received the assigned study intervention (ie, crossover). Only patients who are randomized will be included in the primary analysis. Up to 500 patients will be consented during the screening process to identify 300 eligible patients to undergo randomization. For patients who undergo multiple imaging studies, the most recent imaging study will be used for trial eligibility. Similarly, for patients with multiple NIHSS scores, the one before randomization will be used for trial eligibility (Figure, Trial Consort Chart).
+
+Imaging Evaluation for Study Eligibility NCCT ASPECTS Determination
+
+Study eligibility will be based on the site investigator's determination of ASPECTS on the baseline NCCT scan. e-ASPECTS is an automated artificial intelligence software that estimates the ASPECTS score in real time. 13-15 e-ASPECTS will be provided to the participating centers. Data output from the software will not be used for patient selection and will be collected only for secondary analyses. Feedback on ASPECTS reads will be provided to the site investigators, when their ASPECTS scores differ from the core lab by ≥ 2 points.
+
+CT Angiography Evaluation for Vessel Occlusion
+
+Baseline CT angiography of the head and neck vessels must be performed to determine whether there is an eligible large-vessel occlusion, the presence of extracranial internal carotid artery complete occlusion, or presence of occlusions in multiple vascular territories.
+
+Additional Baseline Imaging
+
+Additional neuroimaging studies (such as CT perfusion) are not required but may be performed as standard of
+
+Figure. TESLA trial consortium chart: randomization will be stratified for the following factors :
+
+(1) age ( ≤ 70 or > 70), 2) baseline ASPECTS (2-3 vs 4-5), 3) baseline NIHSS ( ≤ 16 or > 16), and 4) time from onset to imaging (0-6 vs > 6-24 hours). ASPECTS indicates Alberta Stroke Program Early CT Score; CTA, computed tomography angiography; ICA, internal carotid artery; ICA-T, internal carotid artery terminus; MCA/M1, middle cerebral artery/M1 segment; NIHSS, National Institutes of Health Stroke Scale; and TESLA, Thrombectomy for Emergent Salvage of Large Anterior Circulation Ischemic Stroke.
+
+care. However, they should not delay patient consent and randomization.
+
+Randomization and Stratification
+
+Stratified randomization with permuted blocks will be used. Randomization will be stratified by (1) age ( ≤ 70 or > 70), (2) baseline ASPECTS (2-3 versus 4-5), (3) baseline NIHSS ( ≤ 16 or > 16), and (4) time from onset to imaging (0-6 hours versus > 6-24 hours). Patients will be assigned (1:1 randomization) to either the BMM arm or the IAT arm. Crossover from medical to endovascular therapy is not allowed; however, crossover from endovascular to medical therapy is allowed only if an endovascular contraindication arises after randomization has occurred.
+
+TREATMENT ARMS
+
+IAT Arm
+
+Sites will use local protocols for arterial access, sedation, heparin infusion, monitoring, and the like. The recommended time metrics for arterial puncture are within 45 minutes of randomization, and within 60 minutes of qualifying imaging. IAT will be performed with FDA-approved devices under Investigational Device Exemption G190006. Residual middle cerebral artery second-order branch (M2) occlusions may be treated using FDA-approved devices. Use of adjunctive techniques such as balloon guide catheters or local aspiration catheters will be at the discretion of the site interventionalist. The use of adjuvant intra-arterial thrombolytic medication is not approved by the FDA and considered a protocol violation. Following IAT, it is recommended that blood pressure be maintained at 110 to 140/60 to 90 mmHg in subjects reperfused to mTICI 2b to 3, and the same as the control subjects, when no to minimal reperfusion (mTICI 0-2a) is achieved.
+
+Stroke Vasc Interv Neurol. 2023;3:e000787. DOI: 10.1161/SVIN.122.000787
+
+5
+
+[DOCLING_PAGE 6]
+
+Zaidat et al
+
+The TESLA Trial
+
+BMM Arm
+
+The BMM group will receive standard medical therapy based on institutional standard protocols and pathways. The enrolling site's post-IV-rtPA protocol will be followed. Patients who do not receive IV-rtPA will be treated with aspirin unless anticoagulation is indicated (investigator's preference). Dual antiplatelet therapy is prohibited unless carotid stenting is performed. In subjects who received IV-rtPA, blood pressure should be managed according to the post-IV-rtPA protocol of < 185/105 mm Hg within the first 24 hours.
+
+SCHEDULED ASSESSMENTS AND FOLLOW-UP VISIT S
+
+Timing of assessments is outlined in Table 2.
+
+Blinding of Assessments and Statistical Analysis for Safety Board Reporting
+
+Assessment of outcome on NIHSS and mRS will be performed by a certified rater blinded to the treatment allocation and not involved in the procedure. Neuroimaging core lab evaluation will also be assessed in a blinded manner, except for angiographic revascularization grading. An unblinded independent statistician will combine treatment allocation data with the clinical data to report to the Data Safety Monitoring Board (DSMB). A second blinded statistician will be part of the steering committee.
+
+Neurological Deterioration
+
+Neurological deterioration is defined as ≥ 4-point worsening of the immediate predeterioration NIHSS. NCCT scan or magnetic resonance imaging (MRI) of the brain should be obtained to adjudicate the underlying deterioration cause.
+
+DATA SAFETY AND MONITORING BOARD
+
+An independent and unblinded DSMB was appointed to oversee study safety (5 members, including 1 statistician). An unblinded independent statistician will produce the reports on a regular basis, and at the request of the DSMB along with the help of the coordinating center. Another study statistician will remain blinded throughout the study and serve on the steering committee. The DSMB will meet following each interim analysis and on an as-needed basis but at a minimum of every 12 months.
+
+TRIAL MONITORING
+
+Trial site monitoring will be performed by the coordinating center in person or via virtual visits. The trial monitors will review the source documents for accuracy and for any protocol violation and will meet with the site principal investigator following the monitoring visit for reporting and whether a corrective action plan is necessary with 100% confirmation of key study values (all outcomes and adverse events). The coordinating center will provide a semiannual report to the FDA on the trial progress as per the FDA regulations.
+
+STATISTICAL ANALYSIS
+
+TESLA employs an intention-to-treat principle with an adaptive enrichment design with a planned sample size of 300 randomized patients (90% power). With 150 patients in each group, and an assumed odds ratio of 2.0 for improvement in 90-day mRS score with intraarterial treatment, the power is 90% with 1-sided alpha of 0.025. The mRS distributions in the IAT and control groups that are used for the sample-size calculation are derived from the EVT and medical management groups with ASPECTS 0 to 5 patients in the MR CLEAN RCT of IAT and in the prospective MR CLEAN registry. 1 Interim analyses are to be performed with 150 and 225 subjects to allow for enrichment and potential removal of ASPECTS 2 to 3 subjects, as well as early stopping for efficacy or futility, or continuation of the trial design as is.
+
+The primary analysis will be based on the Bayesian posterior probability that, adjusted for ASPECTS score, subjects in the IAT group have higher expected utilityweighted mRS than subjects in the BMM-alone group. A sensitivity analysis will be performed to examine the results after subjects are allocated using core labadjudicated ASPECTS. The secondary analysis will determine whether there is modification of IAT effect on the primary outcome by prespecified subgroups. All Time points are from randomization. All assessments should be performed for both arms unless otherwise indicated. ASPECTS indicates Alberta Stroke Program Early CT Score; CTA, computed tomography angiography; ‡ CTP, computed tomography perfusion; # DC, discharge; || EQ-5D-5L, EuroQol 5 Dimension 5 Level survey; IAT, intraarterial thrombectomy; § ICH, intracranial hemorrhage; INR, international normalized ratio; ‡ MRA, magnetic resonance angiography; † MRI, magnetic resonance imaging; ‡ MRP, magnetic resonance perfusion; NCCT, noncontrast computed tomography; NIHSS, National Institute of Health Stroke Scale; PTT, partial thromboplastin time; and TESLA, Thrombectomy for Emergent Salvage of Large Anterior Circulation Ischemic Stroke.
+
+Stroke Vasc Interv Neurol. 2023;3:e000787. DOI: 10.1161/SVIN.122.000787
+
+6
+
+[DOCLING_PAGE 7]
+
+Zaidat et al
+
+The TESLA Trial
+
+[DOCLING_TABLE rows=20 columns=8]
+| Assessment/action | Baseline | Procedure/ postprocedure | 24 hours (16-36 hours) | Day 6 ( ± 1 day) or DC # | 30 days ( ± 7 days) | 90 days ( ± 30 days) | 1 year ( ± 60 days) |
+| Medical history | X |  |  |  |  |  |  |
+| Blood labs ∗ | X ∗ |  |  |  |  |  |  |
+| Inclusion/exclusion | X |  |  |  |  |  |  |
+| Informed consent | X |  |  |  |  |  |  |
+| NCCT † | X † |  | X † |  |  |  |  |
+| CTA † | X † |  | X ‡ |  |  |  |  |
+| MRI † /MRA ‡ |  |  | X † |  |  |  |  |
+| CTP ‡ /MRP ‡ | X ‡ |  | X ‡ |  |  |  |  |
+| Randomization | X |  |  |  |  |  |  |
+| Vital signs | X | X ¶ | X |  |  |  |  |
+| NIHSS | X |  | X | X |  |  |  |
+| Modified Rankin scale | X |  |  | X | X | X | X |
+| Discharge disposition |  |  |  | X |  |  |  |
+| ASPECTS score | X |  |  |  |  |  |  |
+| Angiogram |  | X ¶ |  |  |  |  |  |
+| Procedure details |  | X ¶ |  |  |  |  |  |
+| ICH classification § |  |  | X § |  |  |  |  |
+| Adverse events |  | X ¶ | X | X | X | X | X |
+| EQ-5D-5L \|\| |  |  |  |  |  | X \|\| | X \|\| |
+[/DOCLING_TABLE]
+
+∗ Platelets, INR (for patient on warfarin) and activated PTT (for patient on heparin or novel anticoagulants), and pregnancy test (if applicable).
+
+† NCCT/CTA must be performed at baseline according to a site's standard of care. NCCT or MRI is mandatory at 24 hours and with any neurological serious adverse event reporting.
+
+¶ For IAT arm only.
+
+analyses will be performed on the intention-to-treat and per-protocol populations.
+
+TRIAL ORGANIZATION AND FUNDING
+
+TESLA is an industry-funded, investigator-initiated trial. The overall principal investigators for the trial are Dr Albert J. Yoo (Texas Stroke Institute, Dallas, TX) and Dr Osama O. Zaidat (Mercy Health St. Vincent Medical Center, Toledo, Ohio). The Central Coordinating Center is Mercy Health St. Vincent Medical Center. The trial is advised by an executive committee, steering committee, neurointerventionalist credentialing committee, independent medical monitors, and an independent DSMB. Data will be managed using an electronic data capture system and housed at the coordinating center (St. Vincent Medical Center). Statistical analyses will be performed by an independent statistical group (Berry Consultants).
+
+Imaging Core Lab
+
+The independent core lab includes 7 neuroradiologists who are divided into 2 groups: angiographic read- ers and noninvasive imaging readers for NCCT, CT angiography, and MRI assessments, led by Dr Charles Majoie.
+
+Clinical Event Monitoring Committee
+
+Two vascular and interventional neurologists formed the independent clinical event monitoring committee to review, in a timely manner, serious adverse events and major protocol violations.
+
+DISCUSSION
+
+The IAT trials during the early time window of patients with ASPECTS ≥ 6, and during the late time window of estimated infarct size < 70 mL with mismatch, demonstrated more favorable outcomes in the IAT group over the control group. 1-5,9,10 This established IAT as the standard of care in these small core populations. 6 The upcoming wave of clinical trials in European, North American, and Asian Pacific populations are focused on patients with AIS with LCI that were not addressed by the above RCTs to expand the indication for IAT.
+
+Stroke Vasc Interv Neurol. 2023;3:e000787. DOI: 10.1161/SVIN.122.000787
+
+7
+
+[DOCLING_PAGE 8]
+
+Zaidat et al
+
+The TESLA Trial
+
+Importantly, these LCI trials use different imaging modalities and definitions for large core infarction. Because a large-core population identified using NCCT is distinct from 1 defined using MRI or CT perfusion, each LCI trial is unique and complementary to each other. In a secondary analysis of the SAMURAI (stroke acute management with urgent risk-factor assessment and improvement) registry, 43% of patients with diffusion-weighted imaging ASPECTS 3-5 had corresponding NCCT ASPECTS 8-10 (ie, very small infarct on NCCT). 15 Similarly, because CT perfusion only provides a measure of collateral blood flow, it must forecast tissue viability, thus explaining the well-described phenomenon of ghost core (ie, CT perfusion-predicted core that is spared from infarction). 16
+
+The first LCI clinical trial published was RESCUEJapan LIMIT (Recovery by Endovascular Salvage for Cerebral Ultra-Acute Embolism-Japan Large Ischemic Core Trial). 17 The trial showed superior outcomes of IAT versus BMM (31% versus 12.7%, respectively) in patients with ASPECTS 3 to 5. However, the LCI was defined mainly using MRI (87%), with 70% enrolled within 6 hours of symptoms onset. Furthermore, dichotomized mRS 0 to 3 was chosen as the primary efficacy end point. Based on the SAMURAI data cited above, these results do not apply to an ASPECTS 3 to 5 population determined using NCCT.
+
+Unlike the other LCI trials, TESLA defines LCI exclusively using NCCT, which is the predominant imaging modality for stroke evaluation in developed and lowand middle-income countries. Furthermore, TESLA is a pragmatic trial, meaning that patient allocation for the primary analysis will be based on site ASPECTS readings of the baseline NCCT. This will enhance the generalizability of the trial results worldwide. Site investigators were trained and certified for performing ASPECTS within the trial. Agreement between the site and core lab reads will be reported as part of the statistical analysis plan.
+
+In keeping with the pragmatic design, TESLA evaluates a broader ASPECTS range than most of the other LCI trials by including scores of 2. An adaptive enrichment design was incorporated for potential removal of ASPECTS 2 to 3 patients if they demonstrate futility. TESLA also evaluates a broad time window up to 24 hours. The utility-weighted mRS was chosen as the primary efficacy end point to convey patient-centered outcomes, particularly at higher mRS scores. Finally, to evaluate longer-term recovery, TESLA will report 1-year clinical outcomes as secondary efficacy and safety end points.
+
+The heterogeneity in the triage imaging modalities used within and between the LCI trials will render interpretation of the results complex and clinical application difficult. It will be important for all trials to report clini- cal results by imaging modality (ie, NCCT versus MRI versus CT perfusion). An individual patient data, pooled analysis will be critical to provide firmer conclusions regarding treatment effects and potential ASPECTS thresholds for each imaging modality used to triage patients with LCI for IAT.
+
+CONCLUSION
+
+The ongoing LCI trials will provide critical evidence to guide the selection of patients with anterior circulation large-vessel occlusion for IAT. These trials are diverse in their inclusion criteria, most importantly with regard to the imaging modality used for determining the presence of LCI. Together, they will enhance our understanding of the influence of the imaging triage method on the optimal infarct volume threshold for IAT. TESLA uses solely NCCT imaging to evaluate the large ischemic core population and will be highly generalizable.
+
+ARTICLE INFORMATION
+
+Received December 19, 2022; Accepted February 21, 2023
+
+Affiliations
+
+Neuroscience Institute, Bon Secours Mercy Health St. Vincent Hospital, Toledo, OH (O.O.Z., M.S.P ., H.S., K.B.); Medical University of South Carolina, Charleston, IA (S.A.K.); UT Health McGovern Medical School, Houston, TX (S.S.); University of Iowa Hospitals and Clinics, Iowa, IA (S.O.-G.); Rockefeller Neuroscience Institute, West Virginia University, Morgantown, WV (A.T.R.); Baptist Healthy System, Lexington, KY (C.A.G.); University of Utah Medical School, Salt Lake City, UT (R.G.); University of South Florida Medical School, Tampa, FL (M.M.); Northwell Medical Center, Manhasset, NY (J.M.K.); Texas Tech University Health Science Center at El Paso, El Paso, TX (A.M.); Well Star Health, Atlanta, GA (R.G.); University of California San Francisco, San Francisco, CA (W.S.S.); Erasmus University Medical Center, The Randstad, Rotterdam, NA, Netherlands (D.W.D.); Nebraska Medical Center, Omaha, NE (D.G.); Boston Medical Center, Boston, MA (T.N.N.); Altair Biostatistics, St. Louis Park, MN (S.B.); Barrow Neurological Institute, Phoenix, AZ (A.P .J.); University of Tennessee, Memphis, TN (L.E.); Amsterdam University Medical Center, Amsterdam, Netherlands (C.M.); Texas Stroke Institute, Dallas, TX (A.J.Y.)
+
+Acknowledgments
+
+The authors thank all TESLA site clinical research coordinators and site investigators.
+
+Sources of Funding
+
+The TESLA Trial was conducted by an independent Clinical Trial Management and Coordinating Center at St. Vincent Medical Center, Bon Secours Mercy Health System, with multiindustry investigator research grants and support (Stryker Neurovascular, Medtronic, Penumbra, Cerenovus, Genentech, and Bon Secours Mercy Health Care System). The trial administration, design, conduct, data collection, monitoring, auditing, FDA communication/reporting, and analysis were completely and solely performed by the CCC team at St. Vincent Hospital, Toledo, Ohio, with no relation to any of the funding sources. The investigational device exemption (IDE) approved application and responsibility is under Dr Osama O. Zaidat.
+
+Disclosures
+
+Please see the completed disclosure forms by all authors.
+
+Stroke Vasc Interv Neurol. 2023;3:e000787. DOI: 10.1161/SVIN.122.000787
+
+8
+
+[DOCLING_PAGE 9]
+
+Zaidat et al
+
+The TESLA Trial
+
+REFERENCES
+
+Berkhemer OA, Fransen PS, Beumer D, van den Berg LA, Lingsma HF, Yoo AJ, Schonewille WJ, Vos JA, Nederkoorn PJ, Wermer MJ, et al. A randomized trial of intraarterial treatment for acute ischemic stroke. NEngl J Med . 2015;372:11-20.
+
+Jovin TG, Chamorro A, Cobo E, de Miquel MA, Molina CA, Rovira A, San Román L, Serena J, Abilleira S, Ribó M, et al. Thrombectomy within 8 hours after symptom onset in ischemic stroke. N Engl J Med . 2015;372:2296-2306.
+
+Saver JL, Goyal M, Bonafe A, Diener HC, Levy EI, Pereira VM, Albers GW, Cognard C, Cohen DJ, Hacke W, et al. Stent-retriever thrombectomy after intravenous t-pa vs. T-pa alone in stroke. N Engl J Med . 2015;372:22852295.
+
+Goyal M, Demchuk AM, Menon BK, Eesa M, Rempel JL, Thornton J, Roy D, Jovin TG, Willinsky RA, Sapkota BL, et al. Randomized assessment of rapid endovascular treatment of ischemic stroke. N Engl J Med . 2015;372:1019-1030.
+
+Campbell BC, Mitchell PJ, Kleinig TJ, Dewey HM, Churilov L, Yassi N, Yan B, Dowling RJ, Parsons MW, Oxley TJ, et al. Endovascular therapy for ischemic stroke with perfusion-imaging selection. N Engl J Med . 2015;372:1009-1018.
+
+Powers WJ, Rabinstein AA, Ackerson T, Adeoye OM, Bambakidis NC, Becker K, Biller J, Brown M, Demaerschalk BM, Hoh B, et al. 2018 guidelines for the early management of patients with acute ischemic stroke: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke . 2018;49:e46-e110.
+
+van den Berg LA, Dijkgraaf MG, Berkhemer OA, Fransen PS, Beumer D, Lingsma HF, Majoie CB, Dippel DW, van der Lugt A, van Oostenbrugge RJ, et al. Two-year outcome after endovascular treatment for acute ischemic stroke. N Engl J Med . 2017;376:1341-1349.
+
+Goyal M, Menon BK, van Zwam WH, Dippel DW, Mitchell PJ, Demchuk AM, Dávalos A, Majoie CB, van der Lugt A, de Miquel MA, et al. Endovascular thrombectomy after large-vessel ischaemic stroke: a metaanalysis of individual patient data from five randomised trials. Lancet . 2016;387:1723-1731.
+
+Nogueira RG, Jadhav AP, Haussen DC, Bonafe A, Budzik RF, Bhuva P, Yavagal DR, Ribo M, Cognard C, Hanel RA, et al. Thrombectomy 6 to 24
+
+hours after stroke with a mismatch between deficit and infarct. N Engl J Med . 2018;378:11-21.
+
+Albers GW, Marks MP, Kemp S, Christensen S, Tsai JP, Ortega-Gutierrez S, McTaggart RA, Torbey MT, Kim-Tenser M, Leslie-Mazwi T, et al. Thrombectomy for stroke at 6 to 16 hours with selection by perfusion imaging. N Engl J Med . 2018;378:708-718.
+
+Yoo AJ, Pulli B, Gonzalez RG. Imaging-based treatment selection for intravenous and intra-arterial stroke therapies: a comprehensive review. Expert Rev Cardiovasc Ther . 2011;9:857-876.
+
+Jadhav AP, Desai SM, Kenmuir CL, Rocha M, Starr MT, Molyneaux BJ. Eligibility for endovascular trial enrollment in the 6to 24-hour time window: analysis of a single comprehensive stroke center. Stroke . 2018;49:1015-1017.
+
+Herweh C, Ringleb PA, Rauch G, Gerry S, Behrens L, Mohlenbruch M, Gottorf R, Richter D, Schieber S, Nagel S, et al. Performance of e-aspects software in comparison to that of stroke physicians on assessing ct scans of acute ischemic stroke patients. Int J Stroke . 2016;11:438-445.
+
+Nagel S, Sinha D, Day D, Reith W, Chapot R, Papanagiotou P, Warburton EA, Guyler P, Tysoe S, Fassbender K, et al. E-aspects software is non-inferior to neuroradiologists in applying the aspect score to computed tomography scans of acute ischemic stroke patients. Int J Stroke . 2017;12:615-622.
+
+Nezu T, Koga M, Nakagawara J, Shiokawa Y, Yamagami H, Furui E, Kimura K, Hasegawa Y, Okada Y, Okuda S, et al. Early ischemic change on CT versus diffusion-weighted imaging for patients with stroke receiving intravenous recombinant tissue-type plasminogen activator therapy: stroke acute management with urgent risk-factor assessment and improvement (SAMURAI) rt-PA registry. Stroke . 2011;42:2196-2200. https://doi.org/10.1161/STROKEAHA.111.614404
+
+Martins N, Aires A, Mendez B, Boned S, Rubiera M, Tomasello A, Coscojuela P, Hernandez D, Muchada M, Rodríguez-Luna D, et al. Ghost infarct core and admission computed tomography perfusion: redefining the role of neuroimaging in acute ischemic stroke. Interv Neurol . 2018;7:513-521. https://doi.org/10.1159/000490117
+
+Yoshimura S, Sakai N, Yamagami H, Uchida K, Beppu M, Toyoda K, Matsumaru Y, Matsumoto Y, Kimura K, Takeuchi M, et al. Endovascular therapy for acute stroke with a large ischemic region. N Engl J Med . 2022;386:1303-1313. https://doi.org/10.1056/NEJMoa2118191
+
+Stroke Vasc Interv Neurol. 2023;3:e000787. DOI: 10.1161/SVIN.122.000787
+
+9

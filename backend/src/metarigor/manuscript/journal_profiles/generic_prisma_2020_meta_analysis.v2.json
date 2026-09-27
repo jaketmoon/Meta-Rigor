@@ -1,0 +1,60 @@
+{
+  "schema_version": "manuscript-journal-profile.v1",
+  "profile_id": "generic_prisma_2020_meta_analysis_v2",
+  "profile_version": "2.0.0",
+  "journal_name": "Generic PRISMA 2020",
+  "article_type": "Systematic Review and Meta-analysis",
+  "submission_fit": "STYLE_ONLY",
+  "source_bindings": [
+    {
+      "source_id": "prisma-2020",
+      "official_url": "https://www.bmj.com/content/372/bmj.n71.long",
+      "retrieved_at": "2026-08-31",
+      "applicable_from": "2021-03-29",
+      "snapshot_path": "sources/prisma-2020.json",
+      "snapshot_sha256": "797bbdb182678494fbea77e9e68149afc6c044a3e598a81aa886f83dcfc99385",
+      "supports": ["ARTICLE_TYPE", "PRISMA_2020"]
+    },
+    {
+      "source_id": "prisma-s-2021",
+      "official_url": "https://www.prisma-statement.org/prisma-search",
+      "retrieved_at": "2026-09-01",
+      "applicable_from": "2021-01-01",
+      "snapshot_path": "sources/prisma-s-2021.json",
+      "snapshot_sha256": "ab0a6551c8eee82dd51b35143bfaaf740ea9edd880ba86809bd567098164b952",
+      "supports": ["PRISMA_S"]
+    }
+  ],
+  "reporting_guidelines": ["PRISMA_2020", "PRISMA_S"],
+  "title_contract": {"suffix": "A Systematic Review and Meta-analysis"},
+  "word_budget": {
+    "maximum": null,
+    "excludes": ["ABSTRACT", "REFERENCES", "TABLES", "FIGURES", "SUPPLEMENT"]
+  },
+  "abstract_contract": {
+    "structured": true,
+    "headings": ["BACKGROUND", "OBJECTIVE", "METHODS", "RESULTS", "LIMITATIONS", "CONCLUSIONS"],
+    "minimum_words": null,
+    "maximum_words": null
+  },
+  "front_matter_modules": [],
+  "section_contract": [
+    {"section_id": "INTRODUCTION", "heading": "Introduction", "order": 1},
+    {"section_id": "METHODS", "heading": "Methods", "order": 2},
+    {"section_id": "RESULTS", "heading": "Results", "order": 3},
+    {"section_id": "DISCUSSION", "heading": "Discussion", "order": 4}
+  ],
+  "required_statements": [],
+  "main_figure_table_budget": {
+    "maximum_total": null,
+    "required_objects": ["PRISMA_FLOW", "STUDY_CHARACTERISTICS", "RISK_OF_BIAS", "FOREST_PLOT", "SUMMARY_OF_FINDINGS"]
+  },
+  "supplement_contract": {
+    "required_modules": ["SEARCH_STRATEGIES", "STUDY_OUTCOME_INVENTORY", "ADDITIONAL_ANALYSIS_DISPOSITIONS", "AUTHOR_INPUT_DISPOSITIONS"],
+    "prisma_flow_placement": "MAIN"
+  },
+  "citation_style": "SOURCE_BOUND_KEYED",
+  "reference_minimum": null,
+  "reference_maximum": null,
+  "forbidden_claims": ["submission ready", "statistically no effect", "conflict resolved by the writer"]
+}

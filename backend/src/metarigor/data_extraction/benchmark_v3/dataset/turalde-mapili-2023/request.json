@@ -1,0 +1,281 @@
+{
+  "schema_version": "3.0.0",
+  "review_id": "nirsevimab.review.2023",
+  "protocol_content": {
+    "schema_version": "3.0.0",
+    "protocol_id": "nirsevimab.protocol.m0",
+    "title": "Nirsevimab versus placebo for infant RSV prevention",
+    "research_question": "Among infants no older than one year, compare a single intramuscular dose of nirsevimab with placebo for Review-defined RSV efficacy and safety outcomes.",
+    "review_criteria": "Include randomized controlled trials of nirsevimab versus placebo in infants no older than one year that report the Review's eligible RSV infection, RSV-related hospitalization, fatal adverse-event or adverse-event-of-special-interest outcomes. Extract participant event counts and arm denominators from eligible full-text reports, appendices or supplementary files.",
+    "result_targets": [
+      {
+        "target_kind": "RESULT",
+        "result_type": "BINARY",
+        "target_id": "result.ma_rsv_lrti",
+        "population": "Infants no older than one year enrolled in randomized placebo-controlled trials of nirsevimab.",
+        "intervention": {
+          "label": "nirsevimab",
+          "aliases": [
+            "nirsevimab",
+            "MEDI8897"
+          ]
+        },
+        "comparator": {
+          "label": "placebo",
+          "aliases": [
+            "placebo",
+            "saline placebo"
+          ]
+        },
+        "outcome": "Medically attended RSV-associated lower respiratory tract infection",
+        "outcome_definition": "Participants with at least one medically attended RSV-associated lower respiratory tract infection.",
+        "timepoint": "Follow-up reported for the selected Review efficacy outcome.",
+        "analysis_population": "Randomized participants included in the efficacy analysis for the selected outcome.",
+        "selection_rule": "Use directly reported participant event counts and arm denominators for the selected outcome and follow-up.",
+        "other_limitations": []
+      },
+      {
+        "target_kind": "RESULT",
+        "result_type": "BINARY",
+        "target_id": "result.rsv_hospitalization",
+        "population": "Infants no older than one year enrolled in randomized placebo-controlled trials of nirsevimab.",
+        "intervention": {
+          "label": "nirsevimab",
+          "aliases": [
+            "nirsevimab",
+            "MEDI8897"
+          ]
+        },
+        "comparator": {
+          "label": "placebo",
+          "aliases": [
+            "placebo",
+            "saline placebo"
+          ]
+        },
+        "outcome": "Hospitalization for RSV-associated lower respiratory tract infection",
+        "outcome_definition": "Participants hospitalized for an RSV-associated lower respiratory tract infection.",
+        "timepoint": "Follow-up reported for the selected Review efficacy outcome.",
+        "analysis_population": "Randomized participants included in the efficacy analysis for the selected outcome.",
+        "selection_rule": "Use directly reported participant event counts and arm denominators for the selected outcome and follow-up.",
+        "other_limitations": []
+      },
+      {
+        "target_kind": "RESULT",
+        "result_type": "BINARY",
+        "target_id": "result.adverse_events_leading_to_death",
+        "population": "Infants no older than one year included in a randomized placebo-controlled trial safety analysis.",
+        "intervention": {
+          "label": "nirsevimab",
+          "aliases": [
+            "nirsevimab",
+            "MEDI8897"
+          ]
+        },
+        "comparator": {
+          "label": "placebo",
+          "aliases": [
+            "placebo",
+            "saline placebo"
+          ]
+        },
+        "outcome": "Adverse events leading to death",
+        "outcome_definition": "Participants with one or more adverse events resulting in death during trial safety follow-up.",
+        "timepoint": "Study-reported safety follow-up corresponding to the Review analysis.",
+        "analysis_population": "Participants included in the study-reported safety analysis for the selected outcome.",
+        "selection_rule": "Use directly reported participant counts for adverse events leading to death and the corresponding arm denominators.",
+        "other_limitations": []
+      },
+      {
+        "target_kind": "RESULT",
+        "result_type": "BINARY",
+        "target_id": "result.adverse_events_special_interest",
+        "population": "Infants no older than one year included in a randomized placebo-controlled trial safety analysis.",
+        "intervention": {
+          "label": "nirsevimab",
+          "aliases": [
+            "nirsevimab",
+            "MEDI8897"
+          ]
+        },
+        "comparator": {
+          "label": "placebo",
+          "aliases": [
+            "placebo",
+            "saline placebo"
+          ]
+        },
+        "outcome": "Adverse events of special interest",
+        "outcome_definition": "Participants with hypersensitivity, immune complex disease, or thrombocytopenia, as defined in the Review methods.",
+        "timepoint": "Study-reported safety follow-up corresponding to the Review analysis.",
+        "analysis_population": "Participants included in the study-reported safety analysis for the selected outcome.",
+        "selection_rule": "Use directly reported participant counts for the Review-defined adverse events of special interest and the corresponding arm denominators.",
+        "other_limitations": []
+      }
+    ]
+  },
+  "accepted_protocol_sha256": "f9b2817de0c7919078a4bbf5ce0119b1d5f3367204db2ec561bd391f76f01409",
+  "protocol_acceptance": {
+    "actor": "project-owner",
+    "decided_at": "2026-08-25T23:41:20+08:00",
+    "decision": "ACCEPTED"
+  },
+  "studies": [
+    {
+      "study_key": "trial03",
+      "display_label": "Griffin 2020 / D5290C00003",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "trial04.melody",
+      "display_label": "Hammitt 2022 / MELODY",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    }
+  ],
+  "reports": [
+    {
+      "report_key": "trial03.primary",
+      "title": "Single-Dose Nirsevimab for Prevention of RSV in Preterm Infants",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1056/NEJMoa1913556"
+        },
+        {
+          "scheme": "PMID",
+          "value": "32726528"
+        },
+        {
+          "scheme": "NCT",
+          "value": "NCT02878330"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "trial03.registry",
+      "title": "ClinicalTrials.gov results record for NCT02878330",
+      "identifiers": [
+        {
+          "scheme": "NCT",
+          "value": "NCT02878330"
+        }
+      ],
+      "report_role": "REGISTRY"
+    },
+    {
+      "report_key": "trial04.primary",
+      "title": "Nirsevimab for Prevention of RSV in Healthy Late-Preterm and Term Infants",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1056/NEJMoa2110275"
+        },
+        {
+          "scheme": "PMID",
+          "value": "35235726"
+        },
+        {
+          "scheme": "NCT",
+          "value": "NCT03979313"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "trial04.registry",
+      "title": "ClinicalTrials.gov results record for NCT03979313",
+      "identifiers": [
+        {
+          "scheme": "NCT",
+          "value": "NCT03979313"
+        }
+      ],
+      "report_role": "REGISTRY"
+    },
+    {
+      "report_key": "pooled.companion",
+      "title": "Efficacy of nirsevimab against respiratory syncytial virus lower respiratory tract infections in preterm and term infants: a pooled analysis of randomised controlled trials and pharmacokinetic extrapolation",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1016/S2352-4642(22)00321-2"
+        },
+        {
+          "scheme": "PMID",
+          "value": "36634694"
+        },
+        {
+          "scheme": "PMCID",
+          "value": "PMC9940918"
+        }
+      ],
+      "report_role": "COMPANION"
+    }
+  ],
+  "report_study_bindings": [
+    {
+      "report_key": "trial03.primary",
+      "study_key": "trial03"
+    },
+    {
+      "report_key": "trial03.registry",
+      "study_key": "trial03"
+    },
+    {
+      "report_key": "trial04.primary",
+      "study_key": "trial04.melody"
+    },
+    {
+      "report_key": "trial04.registry",
+      "study_key": "trial04.melody"
+    },
+    {
+      "report_key": "pooled.companion",
+      "study_key": "trial03"
+    },
+    {
+      "report_key": "pooled.companion",
+      "study_key": "trial04.melody"
+    }
+  ],
+  "documents": [
+    {
+      "document_key": "trial03.fulltext",
+      "report_key": "trial03.primary",
+      "input_path": "documents/trial03-primary-full/source.html",
+      "expected_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+      "media_type": "text/html",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1056/NEJMoa1913556"
+    },
+    {
+      "document_key": "trial04.fulltext",
+      "report_key": "trial04.primary",
+      "input_path": "documents/trial04-primary-full/source.html",
+      "expected_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+      "media_type": "text/html",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1056/NEJMoa2110275"
+    }
+  ],
+  "source_dispositions": [
+    {
+      "report_key": "trial03.registry",
+      "reason": "OTHER",
+      "detail": "The registry remains in the connected Report inventory; the publisher full text supplies the narrower Review-defined safety rows and is the frozen candidate source."
+    },
+    {
+      "report_key": "trial04.registry",
+      "reason": "OTHER",
+      "detail": "The current registry represents a later All Subjects safety cohort; the publisher full text supplies the Review Primary Cohort safety rows."
+    },
+    {
+      "report_key": "pooled.companion",
+      "reason": "OTHER",
+      "detail": "The acquired pooled companion is retained for identity and Review cross-checking, but the two primary full texts independently close all four approved targets."
+    }
+  ],
+  "governing_review_inventory_sha256": "10f450034c9c05d2e8ddf50d72a2da2ddfcbbf4588b2bd2d2c2fb931476d640c",
+  "accepted_study_inventory_sha256": "f4253b8fc6b82f9ee6c621512098da663b7c1e8ec38da67f9b0687728ae14a17"
+}

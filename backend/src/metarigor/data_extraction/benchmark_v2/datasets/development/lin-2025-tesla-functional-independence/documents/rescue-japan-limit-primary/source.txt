@@ -1,0 +1,689 @@
+                 T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+
+
+
+                              Original Article
+
+
+     Endovascular Therapy for Acute Stroke
+        with a Large Ischemic Region
+     S. Yoshimura, N. Sakai, H. Yamagami, K. Uchida, M. Beppu, K. Toyoda,
+  Y. Matsumaru, Y. Matsumoto, K. Kimura, M. Takeuchi, Y. Yazawa, N. Kimura,
+     K. Shigeta, H. Imamura, I. Suzuki, Y. Enomoto, S. Tokunaga, K. Morita,
+     F. Sakakibara, N. Kinjo, T. Saito, R. Ishikura, M. Inoue, and T. Morimoto​​
+
+                                     A BS T R AC T
+
+BACKGROUND
+Endovascular therapy for acute ischemic stroke is generally avoided when the in-         The authors’ full names, academic de-
+farction is large, but the effect of endovascular therapy with medical care as com-      grees, and affiliations are listed in the Ap-
+                                                                                         pendix. Dr. Morimoto can be contacted
+pared with medical care alone for large strokes has not been well studied.               at ­t-morimoto@​­umin​.­net or at the De-
+                                                                                         partment of Clinical Epidemiology, Hyogo
+METHODS                                                                                  College of Medicine, 1-1 Mukogawa,
+We conducted a multicenter, open-label, randomized clinical trial in Japan involv-       Nishinomiya, Hyogo 663-8501, Japan.
+ing patients with occlusion of large cerebral vessels and sizable strokes on imaging,    This article was published on February 9,
+as indicated by an Alberta Stroke Program Early Computed Tomographic Score               2022, and updated on February 17, 2022,
+(ASPECTS) value of 3 to 5 (on a scale from 0 to 10, with lower values indicating         at NEJM.org.
+larger infarction). Patients were randomly assigned in a 1:1 ratio to receive endo-      DOI: 10.1056/NEJMoa2118191
+vascular therapy with medical care or medical care alone within 6 hours after they       Copyright © 2022 Massachusetts Medical Society.
+
+were last known to be well or within 24 hours if there was no early change on
+fluid-attenuated inversion recovery images. Alteplase (0.6 mg per kilogram of body
+weight) was used when appropriate in both groups. The primary outcome was a
+modified Rankin scale score of 0 to 3 (on a scale from 0 to 6, with higher scores
+indicating greater disability) at 90 days. Secondary outcomes included a shift
+across the range of modified Rankin scale scores toward a better outcome at 90
+days and an improvement of at least 8 points in the National Institutes of Health
+Stroke Scale (NIHSS) score (range, 0 to 42, with higher scores indicating greater
+deficit) at 48 hours.
+RESULTS
+A total of 203 patients underwent randomization; 101 patients were assigned to
+the endovascular-therapy group and 102 to the medical-care group. Approximate-
+ly 27% of patients in each group received alteplase. The percentage of patients with
+a modified Rankin scale score of 0 to 3 at 90 days was 31.0% in the endovascular-
+therapy group and 12.7% in the medical-care group (relative risk, 2.43; 95% con-
+fidence interval [CI], 1.35 to 4.37; P = 0.002). The ordinal shift across the range of
+modified Rankin scale scores generally favored endovascular therapy. An improve-
+ment of at least 8 points on the NIHSS score at 48 hours was observed in 31.0%
+of the patients in the endovascular-therapy group and 8.8% of those in the medi-
+cal-care group (relative risk, 3.51; 95% CI, 1.76 to 7.00), and any intracranial hem-
+orrhage occurred in 58.0% and 31.4%, respectively (P<0.001).
+CONCLUSIONS
+In a trial conducted in Japan, patients with large cerebral infarctions had better
+functional outcomes with endovascular therapy than with medical care alone but
+had more intracranial hemorrhages. (Funded by Mihara Cerebrovascular Disorder
+Research Promotion Fund and the Japanese Society for Neuroendovascular Therapy;
+RESCUE-Japan LIMIT ClinicalTrials.gov number, NCT03702413.)
+                                          n engl j med﻿﻿  nejm.org﻿                                                                        1
+                              T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+
+
+
+    E
+           ndovascular therapy has become                  The protocol and consent forms were approved
+           one of the standard treatments for acute        by the institutional review boards at Hyogo Col-
+           stroke caused by large-vessel occlusion.        lege of Medicine and all participating hospitals.
+    Guidelines recommend consideration of endo-            Patients or their legally authorized representa-
+    vascular therapy when there is occlusion of the        tives provided written informed consent before
+    M1 segment (main trunk) of the middle cerebral         enrollment. There was no industry involvement
+    artery or internal carotid artery1,2 and when imag-    in the trial. The funding sources were nonprofit
+    ing findings indicate that the size of the infarct     organizations that did not participate in any part
+    area (also called the ischemic core) is not large,     of the trial, from conception through manu-
+    as defined by an Alberta Stroke Program Early          script preparation. The trial protocol and statis-
+    Computed Tomographic Score (ASPECTS) value             tical analysis plan are available at NEJM.org.
+    of at least 6 (range from 0 to 10, with lower
+    values indicating greater infarct burden), or when     Patients
+    there is a mismatch between the ischemic core          Patients were eligible for enrollment if they had
+    volume and the volume of perfusion delay area.3-5      acute ischemic stroke, were 18 years of age or
+       Patients with large infarctions (e.g., those        older, had a score of at least 6 on the National
+    with an ASPECTS value of ≤5) have been gener-          Institutes of Health Stroke Scale (NIHSS) at ad-
+    ally excluded from clinical trials of endovascular     mission (scores range from 0 to 42, with higher
+    therapy or represented in small numbers, part-         scores indicating greater neurologic deficit),12 had
+    ly owing to concerns that bleeding will occur in       a score of 0 or 1 on the modified Rankin scale
+    the area of infarction after reperfusion.6-8 A         before the onset of stroke (scores range from 0 to
+    meta-analysis that included observational studies      6, with 0 indicating no disability, 1 no clinically
+    has suggested that endovascular therapy may be         significant disability, 2 slight disability, 3 moder-
+    associated with better functional outcomes and         ate disability but able to walk unassisted, 4 mod-
+    lower mortality at 90 days than medical care alone     erately severe disability, 5 severe disability, and
+    in patients with an ASPECTS value of 5 or less.9       6 death),15 had an occlusion of the internal carotid
+       We aimed to evaluate the effect of endovascu-       artery or M1 segment of the middle cerebral ar-
+    lar therapy with medical care, as compared with        tery on computed tomographic angiography (CTA)
+    medical care alone, in patients with acute ische­      or magnetic resonance angiography (MRA), and
+    mic stroke caused by large-vessel occlusion and        had an ASPECTS value of 3 to 5, as determined
+    a large ischemic region, defined as an ASPECTS         with the use of computed tomography (CT) or
+    value of 3 to 5. We did not evaluate patients with     diffusion-weighted magnetic resonance imaging
+    an ASPECTS value of 2 or lower because they            (MRI); if they underwent randomization within
+    have extensive infarction and are unlikely to re-      6 hours after the time the patient was last known
+    gain functional independence.10                        to be well or within 6 to 24 hours after the time
+                                                           the patient was last known to be well and there
+                                                           was no signal change in the initial image on
+                      Me thods
+                                                           fluid-attenuated inversion recovery (FLAIR) indi-
+    Trial Design and Oversight                             cating that the infarction was recent13; and if
+    The Recovery by Endovascular Salvage for Cere-         endovascular therapy could be initiated within
+    bral Ultra-Acute Embolism–Japan Large Ische­           60 minutes after randomization. Patients were
+    mic Core Trial (RESCUE-Japan LIMIT) was an             excluded if they had a clinically significant cere-
+    open-label, parallel-group, randomized clinical        bral mass effect with midline shift or an acute
+    trial conducted in 45 hospitals in Japan (Table S1     intracranial hemorrhage on CT or MRI or if site
+    in the Supplementary Appendix, available with          investigators considered that there was a high
+    the full text of this article at NEJM.org).11 The      risk of hemorrhage. A full list of exclusion crite-
+    steering committee designed and supervised the         ria is provided in the protocol.11
+    trial with the support from other committees,
+    including an independent monitoring commit-            Randomization and Intervention
+    tee, in accordance with the ethical guidelines for     Enrollment, randomization, and data collection
+    medical and health research involving humans in        were performed with the use of an electronic data-
+    Japan (committee members are listed in Table S2).      capture system. Randomization was performed
+
+
+2                                             n engl j med﻿﻿  nejm.org﻿
+                            Endovascular Ther apy for Acute Stroke
+
+
+centrally with the use of a stochastic minimiza-      to obtain this score and were unaware of the
+tion algorithm to balance trial-group assign-         trial-group assignments.
+ments within hospitals on the basis of age (<75          We added the utility-weighted modified
+or ≥75 years), interval between the time that a       Rankin scale as a post hoc outcome because this
+patient was last known to be well and the time of     score has been used in other stroke trials.4,17 On
+hospital arrival (<120 or ≥120 minutes), NIHSS        the utility-weighted modified Rankin scale,
+score at admission (<21 or ≥21), and use of re-       weights are assigned to the scores of 0 through
+combinant tissue plasminogen activator (rt-PA).       6 according to the patients’ assessment of the
+Patients were randomly assigned in a 1:1 ratio to     value of quality of life at that level of function;
+receive endovascular therapy with medical care        scores range from 0.00 to 1.00, with higher
+(endovascular-therapy group) or medical care          scores indicating better quality of life.18
+alone (medical-care group). Trial-group assign-
+ments were not concealed from patients or treat-      Clinical and Imaging Assessments
+ing physicians. Patients with indications for rt-PA   Clinical assessments were performed at baseline,
+(alteplase at a dose of 0.6 mg per kilogram of        12 hours after randomization, 24 to 72 hours
+body weight [a lower dose than that recom-            after randomization, 5 to 9 days after random-
+mended in some other guidelines]) were treated        ization or at discharge, and 60 to 120 days after
+according to Japanese guidelines at the discre-       randomization. Clinical assessments included
+tion of the treating physician.14                     patient characteristics, medical history, vital
+    The method of endovascular therapy was se-        signs and laboratory data, medication use, mod-
+lected by the treating physicians and could in-       ified Rankin scale score, and NIHSS score.
+clude stent retriever, aspiration catheter, balloon       Before randomization, the treating neurolo-
+angioplasty, intracranial stent, and carotid-artery   gist evaluated the ASPECTS value using diffusion-
+stent. Other aspects of medical care in both          weighted MRI or noncontrast CT and determined
+groups were in line with the guidelines from the      the site of occlusion using MRA or CTA19,20
+American Heart Association and the American           Perfusion imaging was not available in most hos-
+Stroke Association.1                                  pitals in Japan during the conduct of the trial. All
+                                                      site investigators were certified assessors of the
+Outcomes                                              ASPECTS. In the patients assigned to the endo-
+The primary outcome was a score of 0 to 3 on          vascular-therapy group, the degree of vessel re-
+the modified Rankin scale at 90 days after the        canalization after the procedure was measured
+onset of stroke.1 Secondary outcomes were a           with the use of the Thrombolysis in the Cerebral
+modified Rankin scale score of 0 to 2, a modi-        Infarction (TICI) grading system; TICI grade 2b
+fied Rankin scale score of 0 or 1, and an ordinal     (antegrade reperfusion of more than half the
+shift across the range of modified Rankin scale       previously occluded target artery ischemic terri-
+scores toward a better outcome at 90 days and an      tory) was used as a threshold for successful re-
+improvement of at least 8 points on the NIHSS         canalization.21 Follow-up imaging was performed
+at 48 hours after randomization. Safety out-          24 to 72 hours and 5 to 9 days after randomiza-
+comes were symptomatic intracranial hemor-            tion or at discharge. Imaging data were submitted
+rhage (parenchymal hematoma type 2, defined           to the central core laboratory and independently
+as clots in at least 30% of the infarcted area with   evaluated by an imaging-evaluation committee.
+space-occupying effect) in combination with
+worsening of NIHSS score by at least 4 points         Statistical Analysis
+within 48 hours after randomization, any intra-       Our previous registry study showed that 55 of
+cranial hemorrhage within 48 hours after ran-         146 patients (37.7%) with acute large-vessel oc-
+domization,16 death within 90 days after the onset    clusion and an ASPECTS value of 3 to 5 had a
+of stroke, recurrence of ischemic stroke within       modified Rankin scale score of 0 to 3 at 90 days
+90 days after randomization, and need for de-         among those who received endovascular therapy,
+compressive craniectomy within 7 days after           as compared with 24 of 192 patients (12.5%) who
+randomization. The scores on the modified             did not receive endovascular therapy.22 In our
+Rankin scale at 90 days were determined by            registry study, an adjusted odds ratio for a modi-
+physicians or physical therapists who were trained    fied Rankin scale score of 0 to 3 was 3.42 in
+
+
+                                         n engl j med﻿﻿  nejm.org﻿                                           3
+                              T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+
+
+    favor of the group that received endovascular          group analysis of the interval between the time
+    therapy over the group that did not. Because the       that a patient was last known to be well and the
+    registry study was observational and the treat-        time of randomization (<6 or ≥6 hours) was
+    ment effect could be larger than that in a clini-      added as a post hoc analysis. The results of the
+    cal trial, we deducted 20% of the effect and           subgroup and post hoc analyses are reported
+    assumed an odds ratio in the trial of 2.7              descriptively. Statistical analyses were performed
+    (3.42 × 0.8 = 2.7) for the effect of endovascular      with the use of JMP software, version 15.1, and
+    therapy as compared with medical care. On the          SAS software, version 9.4 (SAS Institute).
+    basis of these assumptions, we estimated that 81
+    patients would need to be assigned to each trial                            R e sult s
+    group, and assuming a possible dropout rate of
+    15%, we calculated that the required sample size       Patient Characteristics
+    was 191 patients in total. Considering potential       From November 2018 through September 2021,
+    withdrawal of consent, we set the final sample         a total of 203 patients were enrolled (Fig. S1);
+    size at 200 patients to provide the trial with 90%     101 were assigned to endovascular-therapy group
+    power to show superiority of endovascular ther-        and 102 to the medical-care group. Of the 203
+    apy over medical care at a two-sided alpha level       patients, 202 completed follow-up in December
+    of 0.05.11                                             2021 and were included in the primary analyses
+       The primary analysis was performed in the           (Fig. 1). One patient in the endovascular-therapy
+    full analysis population, which included all the       group withdrew consent; otherwise, no patient
+    patients who underwent randomization and had           had missing data regarding the primary outcome
+    assessable outcome data. Patients who underwent        in the full analysis population. The event-adjudi-
+    randomization and had available baseline data          cation committee and imaging-evaluation com-
+    were included in the safety analysis. After evalu-     mittees excluded 14 patients from the per-proto-
+    ations by the event-adjudication committee and         col analysis (6 in the endovascular-therapy group
+    imaging-evaluation committee, patients who did         and 8 in the medical-care group) because they
+    not meet the inclusion criteria were excluded          had a modified Rankin scale score other than
+    from the per-protocol population. The analyses         0 or 1 before the onset of stroke, had undergone
+    in the per-protocol population were performed          randomization more than 6 hours after the time
+    as secondary analyses.                                 the patient was last known to be well without
+       We compared the results for the primary,            MRI information being obtained, had an occlu-
+    secondary, and safety outcomes between the             sion site other than the internal carotid artery or
+    trial groups without adjustment for stratification     M1 segment of the middle cerebral artery, or had
+    variables. The effects of endovascular therapy, as     an ASPECTS value other than 3 to 5.
+    compared with medical care alone, are present-            The demographic and clinical characteristics
+    ed as relative risks with 95% confidence inter-        of the patients at baseline were similar in the
+    vals. The shift of modified Rankin scale toward        trial groups (Table 1 and Table S3). The repre-
+    a better functional outcome was estimated with         sentativeness of enrolled patients is summarized
+    the use of an ordinal logistic model, and a com-       in Table S4, and the details of the endovascular-
+    mon odds ratio with 95% confidence intervals           therapy devices are provided in Table S5. The
+    was derived after verification of the proportional     mean age of the patients was 76 years, and
+    odds assumption. Because there was no plan for         44.3% of the patients were women. The median
+    adjustment of the widths of 95% confidence in-         NIHSS score at trial entry was 22, and the me-
+    tervals for multiple comparisons, no definite con-     dian ASPECTS value was 3 at admission. Occlu-
+    clusions can be drawn from these data. There           sions of the internal carotid artery occurred in
+    was no plan for imputation of the missing data.        47.3% of the patients, and occlusions of the M1
+       We performed subgroup analyses of the pri-          segment of the middle cerebral artery occurred
+    mary outcome on the basis of age (<75 or ≥75           in 70.9%; tandem lesions occurred in approxi-
+    years), interval between the time that a patient       mately 20% of the patients in each trial group.
+    was last known to be well to the time of hospital      Atrial fibrillation was present in 59% of the pa-
+    arrival (<120 or ≥120 minutes), NIHSS score at         tients, and rt-PA was administered in approxi-
+    admission (<21 or ≥21), and rt-PA use. A sub-          mately 27% of the patients in each group. A total
+
+
+4                                             n engl j med﻿﻿  nejm.org﻿
+                                    Endovascular Ther apy for Acute Stroke
+
+
+
+
+                                               235 Patients were assessed for eligibility
+
+
+                                                                                               32 Were excluded
+                                                                                                 22 Did not meet inclusion criteria
+                                                                                                  5 Met exclusion criteria
+                                                                                                  5 Had erroneous registration
+
+
+                                                    203 Underwent randomization
+
+
+
+
+                                101 Were assigned to the                       102 Were assigned to the
+                               endovascular-therapy group                         medical-care group
+
+
+
+                               101 Were included in the                        102 Were included in the
+                               safety analysis population                      safety analysis population
+
+
+
+          1 Withdrew consent
+
+
+                                100 Were included in the                       102 Were included in the
+                                 full analysis population                       full analysis population
+
+
+                                                                                                  8 Were excluded after adjudication
+                                                                                                    1 Underwent randomization after
+   6 Were excluded after adjudication                                                                 6 hr without MRI
+     1 Had modified Rankin scale                                                                    1 Had modified Rankin scale
+       score other than 0 or 1 before                                                                 score other than 0 or 1 before
+       stroke                                                                                         stroke
+     5 Had an ASPECTS value other                                                                   3 Did not have ICA or M1
+       than 3 to 5                                                                                     segment occlusion
+                                                                                                    3 Had an ASPECTS value other
+                                                                                                      than 3 to 5
+
+
+                          94 Were included in the per-protocol           94 Were included in the per-protocol
+                                      population                                     population
+
+
+ Figure 1. Screening, Randomization, and Analyses.
+ The endovascular-therapy group received endovascular therapy with medical care, and the medical-care group re-
+ ceived medical care alone. The safety analysis population included all the patients who underwent randomization
+ and had available baseline data. The full analysis population included all the patients who underwent randomization
+ and had assessable outcome data. Patients were included in the per-protocol population after evaluation by the
+ event-adjudication committee and the imaging-evaluation committee. Scores on the modified Rankin scale range
+ from 0 to 6, with higher scores indicating greater disability. Alberta Stroke Program Early Computed Tomographic
+ Score (ASPECTS) values range from 0 to 10, with lower scores indicating larger infarction. The M1 segment is the
+ main trunk of the middle cerebral artery. ICA denotes internal carotid artery.
+
+
+
+of 86.0% of the patients in the endovascular- 12.7% in the medical-care group (relative risk,
+therapy group had a TICI reperfusion grade of 2.43; 95% confidence interval [CI], 1.35 to 4.37;
+2b or higher.                                   P = 0.002) (Table 2). For the secondary outcomes
+                                                of modified Rankin scale scores of 0 to 2 and
+Primary and Secondary Outcomes                  0 or 1 at 90 days, the 95% confidence intervals for
+The percentage of patients with a score of 0 to the relative risks included 1. The shift of modi-
+3 on the modified Rankin scale at 90 days was fied Rankin scale ordinal categories generally
+31.0% in the endovascular-therapy group and favored the endovascular-therapy group (common
+
+
+                                                     n engl j med﻿﻿  nejm.org﻿                                                         5
+                                     T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+
+
+
+     Table 1. Demographic and Clinical Characteristics of the Patients at Baseline.*
+
+                                                                             Endovascular-                    Medical-Care
+                                                                             Therapy Group                      Group
+      Variable                                                                 (N = 101)                       (N = 102)
+      Age — yr                                                                  76.6±10.0                       75.7±10.2
+      Male sex — no. (%)                                                           55 (54.5)                       58 (56.9)
+      Median modified Rankin scale score before stroke (IQR)†                      0 (0–1)                        0 (0–1)
+      Median NIHSS score at baseline (IQR)‡                                     22 (18–26)                      22 (17–26)
+      Occlusion site — no. (%)§
+         Internal carotid artery                                                   47 (46.5)                       49 (48.0)
+         M1 segment                                                                74 (73.3)                       70 (68.6)
+         M2 segment                                                                  0                              3 (2.9)
+         Tandem lesion of internal carotid artery and M1 seg-                      20 (19.8)                       20 (19.6)
+            ment of the middle cerebral artery
+      Patients with an ASPECTS value based on MRI — no.                             88                              87
+      Patients with an ASPECTS value based on CT — no.                              13                              15
+      ASPECTS¶
+         Median value (IQR)                                                        3 (3–4)                        4 (3–4)
+         0–2 — no. (%)                                                               5 (5.0)                        3 (2.9)
+         3 — no. (%)                                                               51 (50.5)                       47 (46.1)
+         4 — no. (%)                                                               25 (24.8)                       32 (31.4)
+         5 — no. (%)                                                               20 (19.8)                       20 (19.6)
+      Median infarction volume (IQR) — ml                                       94 (66–152)                   110 (74–140)
+      Intravenous rt-PA use — no. (%)                                              27 (26.7)                       29 (28.4)
+      Median interval between time of stroke onset and hospital               190 (85–390)                    170 (83–335)
+            arrival (IQR) — min
+         Patients with an interval of <120 min between time of                     36 (35.6)                       35 (34.3)
+             stroke onset and hospital arrival — no. (%)
+      Median interval between time of stroke onset and time of               181 (101–413)                   170 (103–350)
+            imaging (IQR) — min
+      Interval between time of stroke onset and time of random-
+             ization
+         Median (IQR) — min                                                  229 (144–459)                   214 (142–378)
+         <4.5 hr — no. (%)                                                         56 (55.4)                       67 (65.7)
+         4.5 to <6.0 hr — no. (%)                                                  15 (14.9)                        7 (6.9)
+         6.0 to <12.0 hr — no. (%)                                                 18 (17.8)                       13 (12.7)
+         12.0 to 24.0 hr — no. (%)                                                 12 (11.9)                       15 (14.7)
+      Median interval between time of stroke onset and puncture              254 (165–479)                         NA
+            time (IQR) — min
+      Median interval between time of stroke onset and time of               308 (213–503)                         NA
+            reperfusion (IQR) — min
+      TICI reperfusion grade ≥2b — no./total no. (%)‖                         86/100 (86.0)                        NA
+
+    *	Plus–minus values are means ±SD. The endovascular-therapy group received endovascular therapy with medical care,
+      and the medical-care group received medical care alone. Data were missing for the following outcomes: infarction volume
+      (missing in 20 patients [8 in the endovascular-therapy group and 12 in the medical-care group]), interval between time of
+      stroke onset and puncture time (missing in 1 patient), interval between time of stroke onset and time of reperfusion (miss-
+      ing in 1 patient), and Thrombolysis in the Cerebral Infarction (TICI) reperfusion grade of 2b or higher (missing in 1 patient).
+      CT denotes computed tomography, IQR interquartile range, M1 segment main trunk, M2 segment first-order branch of the
+      main trunk, MRI magnetic resonance imaging, NA not applicable, and rt-PA recombinant tissue plasminogen activator.
+
+
+
+6                                                      n engl j med﻿﻿  nejm.org﻿
+                                 Endovascular Ther apy for Acute Stroke
+
+
+
+ Table 1. (Continued.)
+
+†	Scores on the modified Rankin scale range from 0 to 6, with higher scores indicating greater disability.
+‡	Scores on the National Institutes of Health Stroke Scale (NIHSS) range from 0 to 42, with higher scores indicating
+   greater deficit.
+§	The M1 segment is the main trunk of the middle cerebral artery, and the M2 segment is the first-order branch of the
+   main trunk of the middle cerebral artery.
+¶	Alberta Stroke Program Early CT Scores (ASPECTS) values range from 0 to 10, with lower scores indicating larger in-
+   farction.
+‖	A TICI reperfusion grade of 2b or higher indicates antegrade reperfusion of more than half the previously occluded tar-
+   get artery ischemic territory.
+
+
+
+ Table 2. Trial Outcomes.
+
+                                                                Endovascular-           Medical-Care
+                                                               Therapy Group              Group              Treatment Effect
+ Outcome                                                          (N = 100)              (N = 102)              (95% CI)*            P Value
+
+                                                                             number (percent)
+ Primary outcome
+ Modified Rankin scale score of 0 to 3 at 90 days                 31 (31.0)                13 (12.7)         2.43 (1.35–4.37)          0.002
+ Secondary outcomes
+ Modified Rankin scale score of 0 to 2 at 90 days                 14 (14.0)                 8 (7.8)          1.79 (0.78–4.07)
+ Modified Rankin scale score of 0 or 1 at 90 days                  5 (5.0)                  3 (2.9)          1.70 (0.42–6.93)
+ Ordinal shift across the range of modified Rankin scale             NA                         NA           2.42 (1.46–4.01)
+    scores toward a better outcome
+ Improvement of ≥8 points on the NIHSS at 48 hr                   31 (31.0)                 9 (8.8)          3.51 (1.76–7.00)
+ Safety outcomes
+ Symptomatic intracranial hemorrhage within 48 hr                  9 (9.0)                  5 (4.9)          1.84 (0.64–5.29)          0.25
+ Any intracranial hemorrhage within 48 hr                         58 (58.0)                32 (31.4)         1.85 (1.33–2.58)        <0.001
+ Death within 90 days                                             18 (18.0)                24 (23.5)         0.77 (0.44–1.32)          0.33
+ Recurrence of cerebral infarction within 90 days                  5 (5.0)                  7 (6.9)          0.73 (0.24–2.22)          0.58
+ Decompressive craniectomy within 7 days                          10 (10.0)                14 (13.7)         0.73 (0.34–1.56)          0.41
+
+*	Treatment effects are reported as relative risks with 95% confidence intervals for all outcomes, except for the ordinal shift across the range
+  of modified Rankin scale scores toward a better outcome, for which the treatment effect is reported as a common odds ratio with the 95%
+  confidence interval. The widths of confidence intervals for secondary outcomes were not adjusted for multiple comparisons, and no definite
+  conclusions can be drawn from these data.
+
+
+odds ratio, 2.42; 95% CI, 1.46 to 4.01) (Fig. 2).
+                                                (58.0% vs. 31.4%; relative risk, 1.85; 95% CI,
+The percentage of patients with an improvement  1.33 to 2.58; P<0.001), but there was no signifi-
+of at least 8 points on the NIHSS at 48 hours   cant between-group difference in symptomatic
+after admission was 31.0% in the endovascular-  intracranial hemorrhage within 48 hours or in
+therapy group and 8.8% in the medical-care groupdeaths at 90 days (Table 2). The percentage of
+(relative risk, 3.51; 95% CI, 1.76 to 7.00). How-
+                                                patients who had recurrence of an ischemic stroke
+ever, the widths of the confidence intervals forwithin 90 days was similar in the trial groups,
+secondary outcomes were not adjusted for mul-   as was the percentage of those who had decom-
+tiple comparisons.                              pressive craniectomy within 7 days. Other ad-
+                                                verse events occurred in 33.7% of the patients in
+Safety                                          the endovascular-therapy group and in 18.6% of
+The occurrence of any intracranial hemorrhage those in the medical-care group, including car-
+within 48 hours was higher in the endovascular- diovascular events in 9.9% and 2.9% of the pa-
+therapy group than in the medical-care group tients, respectively (Table S6).
+
+
+                                                 n engl j med﻿﻿  nejm.org﻿                                                                      7
+                                    T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+
+
+
+                                                                                Modified Rankin Scale Score
+                                                                     0           1        2     3         4       5       6
+
+                   Endovascular-Therapy Group
+                                      (N=100)
+
+
+
+                            Medical-Care Group
+                                       (N=102)
+
+                                                 0      10      20         30        40       50         60          70       80      90       100
+                                                                                          Patients (%)
+      Modified Rankin Scale Score at 90 Days            0            1               2              3            4             5           6
+      Endovascular-therapy group — no. (%)            2 (2.0)    3 (3.0)          9 (9.0)     17 (17.0)       33 (33.0)   18 (18.0)    18 (18.0)
+      Medical-care group — no. (%)                    0          3 (2.9)          5 (4.9)      5 (4.9)        25 (24.5)   40 (39.2)    24 (23.5)
+
+
+     Figure 2. Distribution of Modified Rankin Scale Scores at 90 Days.
+     A modified Rankin scale score of 0 indicates no disability, 1 no clinically significant disability, 2 slight disability, 3
+     moderate disability but able to walk unassisted, 4 moderately severe disability, 5 severe disability, and 6 death.
+
+
+
+
+    Subgroup and Per-Protocol Analyses                               ified Rankin scale scores of 0 to 2 and 0 or 1)
+    Subgroup analyses are shown in Figure 3. The                     were small relative to the number of patients
+    scores on the post hoc median utility-weighted                   assigned to each trial group, but our expecta-
+    modified Rankin scale were numerically higher                    tions for patients with large infarctions to meet
+    (better) in the endovascular-therapy group than                  these secondary outcome criteria were limited.
+    in the medical-care group (Table S7). After re-                  The favorable effect of endovascular therapy was
+    view by the event-adjudication committee and                     generally apparent in the subgroups, including
+    imaging-evaluation committee, 14 patients were                   the post hoc subgroup with intervals longer than
+    excluded from the per-protocol population (Ta-                   6 hours between the time of stroke onset and
+    ble S8), but the patient characteristics remained                randomization, but the trial was not powered for
+    similar in the two groups (Table S9). The results                an analysis of these groups and there was no
+    of the analyses in the per-protocol population                   adjustment for multiple comparisons. Overall,
+    were generally in the same direction as those of                 there were significantly more intracranial hem-
+    the main analyses for the primary, secondary,                    orrhages in the endovascular-therapy group than
+    and safety outcomes. The results of the post hoc                 in the medical-care group, but the difference in
+    analyses are shown in Figures S2 and S3 and                      the percentage of patients with symptomatic
+    Table S10, but no definite conclusions can be                    intracranial hemorrhage was not significant.
+    drawn from these data.                                           These results are consistent with those of previ-
+                                                                     ous subgroup analyses of intracranial hemor-
+                                                                     rhages in randomized trials and observational
+                        Discussion
+                                                                     studies.
+    In this trial, the percentage of patients with                       The scoring of infarct size with the use of
+    large ischemic regions of acute stroke, as gauged                ASPECTS involves the anatomical mapping of
+    by an ASPECTS value of 3 to 5, who had good                      lesions within the middle cerebral artery terri-
+    functional status at 90 days with respect to the                 tory and provides a semiquantitative measure of
+    primary outcome (a modified Rankin scale score                   size without requiring more elaborate volumetric
+    of 0 to 3) was significantly higher with endovas-                imaging analysis. The range of ASPECTS values
+    cular therapy plus medical care than with stan-                  used as an inclusion criterion in this trial con-
+    dard medical care alone. The percentages of pa-                  ducted in an emergency medical setting allowed
+    tients who had good functional status at 90 days                 the identification of patients who are likely to
+    with respect to the two secondary outcomes of                    have poor outcomes because of large infarc-
+    other categories of good functional status (mod-                 tions.3,23 Although ASPECTS does not allow for
+
+
+8                                                     n engl j med﻿﻿  nejm.org﻿
+                                    Endovascular Ther apy for Acute Stroke
+
+
+
+                                                            Endovascular-
+                                                              Therapy            Medical-Care
+  Subgroup                                                     Group               Group
+                                                              (N=100)             (N=102)                    Relative Risk (95% CI)
+                                                                      no. of patients
+  Age
+     <75 yr                                                      42                     43                                              2.05 (0.98–4.27)
+     ≥75 yr                                                      58                     59                                              3.05 (1.19–7.85)
+  Interval between the time that a patient was last known
+       to be well and hospitalization
+     <120 min                                                    35                     35                                              2.60 (1.04–6.52)
+     ≥120 min                                                    65                     67                                              2.32 (1.08–4.96)
+  Interval between the time that a patient was last known
+       to be well and randomization
+     <6 hr                                                       70                     74                                              2.43 (1.25–4.74)
+     ≥6 hr                                                       30                     28                                              2.49 (0.73–8.45)
+  NIHSS score
+     <21                                                         40                     47                                              2.22 (1.11–4.42)
+     ≥21                                                         60                     55                                              3.21 (1.12–9.16)
+  Use of rt-PA
+     Yes                                                         26                     29                                              2.23 (0.76–6.55)
+     No                                                          74                     73                                              2.52 (1.25–5.07)
+                                                                                             0.1              1.0                10.0
+
+                                                                                             Medical Care Alone     Endovascular
+                                                                                                  Better            Therapy with
+                                                                                                                    Medical Care
+                                                                                                                       Better
+
+ Figure 3. Subgroup Analyses of a Modified Rankin Scale Score of 0 to 3 at 90 Days (Primary Outcome).
+ The analysis of the interval between the time that a patient was last known well and randomization was performed on a post hoc basis.
+ Scores on the National Institutes of Health Stroke Scale (NIHSS) range from 0 to 42, with higher scores indicating greater deficit. The
+ trial was not powered and had no prespecified correction for multiple comparisons for a definitive analysis of subgroups. The term rt-PA
+ denotes recombinant tissue plasminogen activator.
+
+
+
+the precise quantitation of infarct volume, it is                      stroke. Many institutions use CT for the assess-
+frequently used as a surrogate to stratify patients                    ment of acute ischemic stroke, and the differ-
+with acute stroke in clinical trials and has been                      ences between ASPECTS values based on CT re-
+used in meta-analyses of outcomes of endovas-                          sults and those based on diffusion-weighted MRI
+cular therapy for acute stroke caused by large-                        results should be considered in the interpreta-
+vessel occlusion.10 Among 202 patients who were                        tion of our trial results. Previous studies have
+determined by treating physicians to have large                        suggested that an ASPECTS value determined
+infarct sizes corresponding to an ASPECTS value                        with the use of diffusion-weighted MRI may be
+of 3 to 5, a total of 8 were adjudicated as having                     one level lower (i.e., a larger infarction) than
+been misclassified. The analyses in the per-pro-                       that determined with the use of CT20; therefore,
+tocol population excluded 14 patients who did                          patients in our trial with an ASPECTS value of
+not meet inclusion criteria but showed results                         3 or 4 as determined with the use of MRI might
+that were generally similar to those of the main                       have had an ASPECTS value of up to 5 if CT had
+analysis. The use of automated software to de-                         been used. The inclusion of patients in whom
+termine the ASPECTS value may have allowed                             there was a mismatch between imaging findings
+more precise measurement of infarct size from                          in the same region (i.e., no changes detected on
+the MRI or CT scan with lower interrater vari-                         FLAIR images and infarction detected on diffu-
+ability.24 In addition, the ASPECTS value in most                      sion-weighted MRI) is consistent with the deter-
+of our patients was determined with the use of                         mination that a stroke is of recent onset, and
+diffusion-weighted MRI, because MRI is widely                          such patients have been included in other trials
+used in Japan for the diagnosis of acute ischemic                      involving patients with stroke. Perfusion imag-
+
+
+                                                      n engl j med﻿﻿  nejm.org﻿                                                                            9
+                                       T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+
+
+     ing, which was not available in many of our                         have been improved in both groups, but there
+     participating hospitals, might have provided more                   might have been an increased percentage of pa-
+     accurate information regarding recoverable tis-                     tients with intracranial hemorrhage in both
+     sue and infarct size.                                               groups. Finally, we did not collect information
+        This trial has several other limitations. First,                 regarding the causes of death and could not
+     generalizability is limited beyond the Japanese                     determine whether they were due to adverse
+     population, in which the trial was conducted.                       events associated with endovascular therapy or
+     Second, because this trial was pragmatic and the                    thrombolysis.
+     treating neurologists enrolled patients on the                         This trial conducted in Japan showed that
+     basis of their judgment regarding the indication                    among patients with acute stroke and a large
+     for endovascular therapy, we performed the pri-                     ischemic region, functional outcomes at 90 days
+     mary analysis in the full analysis population and                   were better with endovascular therapy and med-
+     confirmed the findings with an analysis in the                      ical care than with medical care alone, but endo-
+     per-protocol population, in which patients were                     vascular therapy was associated with an increased
+     included after the adjudication of images and                       incidence of intracranial hemorrhage.
+     events. Third, the relatively low use of rt-PA                        Supported in part by the Mihara Cerebrovascular Disorder
+     among the enrolled patients might have altered                      Research Promotion Fund and the Japanese Society for Neuro-
+                                                                         endovascular Therapy.
+     the outcomes in both groups and disadvantaged                         Disclosure forms provided by the authors are available with
+     the medical-care group. However, most guide-                        the full text of this article at NEJM.org.
+     lines recommend against the use of alteplase                          A data sharing statement provided by the authors is available
+                                                                         with the full text of this article at NEJM.org.
+     when there is extensive ischemic change on im-                        We thank all the investigators for their efforts in conduct-
+     aging. Furthermore, the standard dose of rt-PA                      ing the trial; Drs. Naoya Kuwayama, Kuniaki Ogasawara, and
+     used in Japan is lower than that in many other                      Teruyuki Hirano for their role as members of the independent
+                                                                         monitoring committee; and Drs. Kumiko Ando, Kanta Tanaka,
+     countries.25 If rt-PA had been used more often or                   Atsushi Yoshida, Takeshi Yoshimoto, and Junpei Kouge for their
+     at higher doses in our trial, the outcomes might                    management of the imaging-evaluation committee.
+
+
+                                                                    Appendix
+     The authors’ full names and academic degrees are as follows: Shinichi Yoshimura, M.D., Ph.D., Nobuyuki Sakai, M.D., Ph.D., Hiroshi
+     Yamagami, M.D., Ph.D., Kazutaka Uchida, M.D., Ph.D., Mikiya Beppu, M.D., Ph.D., Kazunori Toyoda, M.D., Ph.D., Yuji Matsumaru,
+     M.D., Ph.D., Yasushi Matsumoto, M.D., Kazumi Kimura, M.D., Ph.D., Masataka Takeuchi, M.D., Ph.D., Yukako Yazawa, M.D., Ph.D.,
+     Naoto Kimura, M.D., Ph.D., Keigo Shigeta, M.D., Ph.D., Hirotoshi Imamura, M.D., Ph.D., Ichiro Suzuki, M.D., Ph.D., Yukiko Eno-
+     moto, M.D., Ph.D., So Tokunaga, M.D., Kenichi Morita, M.D., Ph.D., Fumihiro Sakakibara, M.D., Norito Kinjo, M.D., Takuya Saito,
+     M.D., Reiichi Ishikura, M.D., Ph.D., Manabu Inoue, M.D., Ph.D., and Takeshi Morimoto, M.D., Ph.D., M.P.H.
+        The authors’ affiliations are as follows: the Departments of Neurosurgery (S.Y., K.U., M.B., F.S., N. Kinjo) and Clinical Epidemiol-
+     ogy (K.U., F.S., N. Kinjo, T.S., T.M.), Hyogo College of Medicine, Nishinomiya, the Departments of Neurosurgery (N.S., H.I.) and
+     Diagnostic Radiology (R.I.), Kobe City Medical Center General Hospital, Kobe, the Department of Stroke Neurology, National Hospital
+     Organization Osaka National Hospital, Osaka (H.Y.), the Department of Cerebrovascular Medicine, National Cerebral and Cardiovascu-
+     lar Center, Suita (K.T., M.I.), the Division of Stroke Prevention and Treatment, Department of Neurosurgery, Faculty of Medicine,
+     University of Tsukuba, Ibaraki (Y. Matsumaru), the Department of Neuroendovascular Therapy (Y. Matsumoto) and the Department of
+     Stroke Neurology (Y.Y., T.S.), Kohnan Hospital, Sendai, the Department of Neurology, Graduate School of Medicine, Nippon Medical
+     School, Tokyo (K.K.), the Department of Neurosurgery, Seisho Hospital, Odawara (M.T.), the Department of Neurosurgery, Iwate
+     Prefectural Central Hospital, Morioka (N. Kimura), the Department of Neurosurgery, National Hospital Organization Disaster Medical
+     Center, Tachikawa (K.S.), the Department of Neuroendovascular Therapy, Hachinohe City Hospital, Hachinohe (I.S.), the Department
+     of Neurosurgery, Gifu University Hospital, Gifu (Y.E.), the Department of Neuroendovascular Therapy, National Hospital Organization
+     Kyusyu Medical Center, Fukuoka (S.T.), and the Department of Cerebrovascular Medicine, Niigata City General Hospital, Niigata (K.M.)
+     — all in Japan.
+
+
+     References
+     1. Powers WJ, Rabinstein AA, Ackerson        2. Yamagami H, Hayakawa M, Inoue M,           Use of the Alberta Stroke Program Early
+     T, et al. Guidelines for the early manage-   et al. Guidelines for mechanical throm-       CT Score (ASPECTS) for assessing CT
+     ment of patients with acute ischemic         bectomy in Japan, the fourth edition,         scans in patients with acute stroke. AJNR
+     stroke: 2019 update to the 2018 guide-       March 2020: a guideline from the Japan        Am J Neuroradiol 2001;​22:​1534-42.
+     lines for the early management of acute      Stroke Society, the Japan Neurosurgical       4. Nogueira RG, Jadhav AP, Haussen DC,
+     ischemic stroke: a guideline for health-     Society, and the Japanese Society for Neu-    et al. Thrombectomy 6 to 24 hours after
+     care professionals from the American         roendovascular Therapy. Neurol Med Chir       stroke with a mismatch between deficit
+     Heart Association/American Stroke Asso-      (Tokyo) 2021;​61:​163-92.                     and infarct. N Engl J Med 2018;​378:​11-21.
+     ciation. Stroke 2019;​50(12):​e344-e418.     3. Pexman JH, Barber PA, Hill MD, et al.      5. Albers GW, Marks MP, Kemp S, et al.
+
+
+
+
+10                                                        n engl j med﻿﻿  nejm.org﻿
+                                   Endovascular Ther apy for Acute Stroke
+
+
+Thrombectomy for stroke at 6 to 16 hours      proved reliability of the NIH Stroke Scale before thrombolytic therapy. Lancet 2000;​
+with selection by perfusion imaging. N Engl   using video training. Stroke 1994;​      25:​ 355:​1670-4.
+J Med 2018;​378:​708-18.                      2220-6.                                       20. Nezu T, Koga M, Nakagawara J, et al.
+6. Cucchiara B, Kasner SE, Tanne D,           13. Sakakibara F, Yoshimura S, Numa S, Early ischemic change on CT versus diffu-
+et al. Factors associated with intracere-     Uchida K, Kinjo N, Morimoto T. Diffusion- sion-weighted imaging for patients with
+bral hemorrhage after thrombolytic ther-      weighted imaging-fluid-attenuated inver- stroke receiving intravenous recombinant
+apy for ischemic stroke: pooled analysis      sion recovery mismatch is associated with tissue-type plasminogen activator therapy:
+of placebo data from the Stroke-Acute         90-day functional outcomes in patients stroke acute management with urgent
+Ischemic NXY Treatment (SAINT) I and          undergoing mechanical thrombectomy. risk-factor assessment and improvement
+SAINT II trials. Stroke 2009;​40:​3067-72.    Cerebrovasc Dis 2020;​49:​292-300.            (SAMURAI) rt-PA registry. Stroke 2011;​
+7. Goyal M, Menon BK, van Zwam WH,            14. Toyoda K, Koga M, Iguchi Y, et al. 42:​2196-200.
+et al. Endovascular thrombectomy after        Guidelines for intravenous thrombolysis 21. Zaidat OO, Yoo AJ, Khatri P, et al. Rec-
+large-vessel ischaemic stroke: a meta-        (recombinant tissue-type plasminogen ommendations on angiographic revascu-
+analysis of individual patient data from      activator), the third edition, March 2019: larization grading standards for acute
+five randomised trials. Lancet 2016;​387:​    a guideline from the Japan Stroke Soci- ischemic stroke: a consensus statement.
+1723-31.                                      ety. Neurol Med Chir (Tokyo) 2019;​59:​ Stroke 2013;​44:​2650-63.
+8. Bracard S, Ducrocq X, Mas JL, et al.       449-91.                                       22. Kakita H, Yoshimura S, Uchida K,
+Mechanical thrombectomy after intrave-        15. van Swieten JC, Koudstaal PJ, Visser Sakai N, Yamagami H, Morimoto T. Im-
+nous alteplase versus alteplase alone after   MC, Schouten HJ, van Gijn J. Interobserver pact of endovascular therapy in patients
+stroke (THRACE): a randomised controlled      agreement for the assessment of handicap with large ischemic core: subanalysis of
+trial. Lancet Neurol 2016;​15:​1138-47.       in stroke patients. Stroke 1988;​19:​604-7.   recovery by endovascular salvage for cere-
+9. Sarraj A, Grotta JC, Pujara DK, Shaker     16. Wahlgren N, Ahmed N, Dávalos A, bral ultra-acute embolism Japan Registry
+F, Tsivgoulis G. Triage imaging and out-      et al. Thrombolysis with alteplase for 2. Stroke 2019;​50:​901-8.
+come measures for large core stroke           acute ischaemic stroke in the Safe Imple- 23. Goyal M, Demchuk AM, Menon BK,
+thrombectomy — a systematic review and        mentation of Thrombolysis in Stroke- et al. Randomized assessment of rapid
+meta-analysis. J Neurointerv Surg 2020;​      Monitoring Study (SITS-MOST): an obser- endovascular treatment of ischemic stroke.
+12:​1172-9.                                   vational study. Lancet 2007;​369:​275-82.     N Engl J Med 2015;​372:​1019-30.
+10. Román LS, Menon BK, Blasco J, et al.      17. Grotta JC, Yamal JM, Parker SA, et al. 24. Albers GW, Wald MJ, Mlynash M,
+Imaging features and safety and efficacy      Prospective, multicenter, controlled trial et al. Automated calculation of Alberta
+of endovascular stroke treatment: a meta-     of mobile stroke units. N Engl J Med 2021;​ Stroke Programe Early CT score: valida-
+analysis of individual patient-level data.    385:​971-81.                                  tion in patients with large hemispheric
+Lancet Neurol 2018;​17:​895-904.              18. Rebchuk AD, O’Neill ZR, Szefer EK, infarct. Stroke 2019;​50:​3277-9.
+11. Yoshimura S, Uchida K, Sakai N, et al.    Hill MD, Field TS. Health utility weight- 25. Mori E, Minematsu K, Nakagawara J,
+Randomized clinical trial of endovascular     ing of the Modified Rankin Scale: a sys- Yamaguchi T, Sasaki M, Hirano T. Effects
+therapy for acute large vessel occlusion      tematic review and meta-analysis. JAMA of 0.6 mg/kg intravenous alteplase on
+with large ischemic core (RESCUE-Japan        Netw Open 2020;​3(4):​e203767.                vascular and clinical outcomes in middle
+LIMIT): rationale and study protocol.         19. Barber PA, Demchuk AM, Zhang J, cerebral artery occlusion: Japan Alteplase
+Neurol Med Chir (Tokyo) 2021 December         Buchan AM. Validity and reliability of a Clinical Trial II (J-ACT II). Stroke 2010;​41:​
+24 (Epub ahead of print).                     quantitative computed tomography score 461-5.
+12. Lyden P, Brott T, Tilley B, et al. Im-    in predicting outcome of hyperacute stroke Copyright © 2022 Massachusetts Medical Society.
+
+
+
+
+                                                     n engl j med﻿﻿  nejm.org﻿                                                             11
+

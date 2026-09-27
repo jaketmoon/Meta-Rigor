@@ -1,0 +1,2019 @@
+[PDF_PAGE 1]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+Statistical Analysis Plan
+A Phase 3 Randomized, Double-blind, Placebo-controlled Study to Evaluate the Safety and
+Efficacy of MEDI8897, a Monoclonal Antibody With an Extended Half-life Against
+Respiratory Syncytial Virus, in Healthy Late Preterm and Term Infants (MELODY)
+Protocol Number: D5290C00004
+CONFIDENTIAL AND PROPRIETARY 1 of 52
+
+[PDF_PAGE 2]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+TABLE OF CONTENTS
+1 INTRODUCTION..............................................................................................5
+2 STUDY OVERVIEW.........................................................................................6
+2.1 Study Objectives.................................................................................................6
+2.1.1 Primary Study Objective.....................................................................................6
+2.1.2 Secondary Study Objectives................................................................................6
+2.1.3 Exploratory Study Objectives .............................................................................6
+2.2 Study Design ......................................................................................................6
+2.3 Treatment Assignment and Blinding...................................................................7
+2.3.1 Methods for Assigning Treatment Groups...........................................................7
+2.3.2 Methods to Ensure Blinding................................................................................8
+2.3.3 Methods for Unblinding......................................................................................8
+2.3.3.1 Unblinding in the Event of a Medical Emergency ...............................................8
+2.4 Sample Size........................................................................................................9
+3 STATISTICAL METHODS ............................................................................. 10
+3.1 General Considerations..................................................................................... 10
+3.2 Study Cohorts, Analysis Populations, and Datasets........................................... 12
+3.3 Stratification Factors......................................................................................... 13
+3.4 Study Subjects .................................................................................................. 14
+3.4.1 Subject Disposition and Completion Status....................................................... 14
+3.4.2 Demographics and Baseline Characteristics ...................................................... 14
+3.4.3 Study Drug Exposure........................................................................................ 15
+3.4.4 Violations and Deviations................................................................................. 15
+3.5 Efficacy Analyses............................................................................................. 16
+3.5.1 Primary Efficacy Endpoint and Analyses .......................................................... 16
+3.5.1.1 Primary Efficacy Endpoint................................................................................ 16
+3.5.1.2 Primary Efficacy Analysis ................................................................................ 17
+3.5.1.3 Secondary Analyses of the Primary Efficacy Endpoint...................................... 19
+3.5.1.4 Supplementary Analyses of the Primary Efficacy Endpoint............................... 19
+3.5.1.5 Analyses for Medically Attended RSV LRTI Beyond the Primary Endpoint..... 23
+3.5.2 Secondary Efficacy Endpoint and Analyses ...................................................... 24
+3.5.2.1 Secondary Efficacy Endpoint............................................................................ 24
+3.5.2.2 Secondary Efficacy Analyses............................................................................ 24
+3.5.2.3 Supplementary Analyses of the Secondary Efficacy Endpoint........................... 26
+3.5.3 Other Efficacy Analyses ................................................................................... 27
+3.5.4 Additional Efficacy Analyses for the Safety Cohort.......................................... 30
+3.5.4.1 Analyses of Incidence of Medically Attended RSV LRTI ................................. 30
+3.5.4.2 Analyses of Incidence of RSV LRTI Hospitalization ........................................ 30
+3.5.4.3 Other Efficacy Analyses ................................................................................... 31
+3.6 Exploratory Analyses........................................................................................ 32
+3.6.1 Healthcare Resource Utilization (HRU) ............................................................ 32
+3.6.2 Caregiver Burden.............................................................................................. 34
+CONFIDENTIAL AND PROPRIETARY 2 of 52
+
+[PDF_PAGE 3]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+3.6.3 Anti-RSV Neutralizing Antibody...................................................................... 34
+3.6.4 RSV serology ................................................................................................... 35
+3.6.5 RSV resistance monitoring ............................................................................... 35
+3.6.6 Incidence of Medically Attended LRTI Due to RT-PCR-confirmed RSV After
+Day 151 (Between Day 152 and Day 361) ........................................................ 36
+3.7 Safety Analyses ................................................................................................ 36
+3.7.1 Adverse Events and Serious Adverse Events..................................................... 36
+3.7.2 Adverse Events of Special Interest.................................................................... 37
+3.7.3 Skin and Hypersensitivity Reactions................................................................. 37
+3.7.4 New Onset Chronic Disease.............................................................................. 37
+3.7.5 Subgroup Analyses ........................................................................................... 37
+3.7.6 Clinical Laboratory Parameters......................................................................... 37
+3.7.7 Other Safety Evaluations .................................................................................. 38
+3.8 Anti-drug Antibodies ........................................................................................ 39
+3.9 Pharmacokinetics.............................................................................................. 40
+3.10 Impact on Analyses due to COVID-19 Pandemic.............................................. 40
+3.10.1 Sensitivity Analyses.......................................................................................... 40
+4 REFERENCES................................................................................................. 41
+5 VERSION HISTORY....................................................................................... 43
+LIST OF IN-TEXT TABLES
+Table 1 Analysis Populations ............................................................................... 12
+Table 2 Definition for New Onset of Events......................................................... 29
+LIST OF APPENDICES
+Appendix 1 Elements to Evaluate for Case Definition of Medically Attended RSV
+LRTI (Protocol defined) .......................................................................... 48
+Appendix 2 Analysis Window for ADA/RSV Neutralizing Antibody/RSV Serology.. 49
+Appendix 3 Analysis Window for Clinical Lab Data................................................... 50
+Appendix 4 Imputation Rule for Partial Dates............................................................. 51
+CONFIDENTIAL AND PROPRIETARY 3 of 52
+
+[PDF_PAGE 4]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+List of Abbreviations
+Abbreviation or
+Definition
+Specialized Term
+AAP American Academy of Pediatrics
+ADA Anti-drug antibody (ies)
+AE(s) adverse event(s)
+AESI adverse event of special interest
+CE Conformité Européenne or European Conformity
+CI confidence interval
+CMH Cochran-Mantel-Haenszel
+CPAP Continuous Positive Airway Pressure
+CSR Clinical Study Report
+DBL database lock
+DOB date of birth
+eCRF electronic case report form
+ED emergency department
+EU European Union
+GA gestational age
+HRU healthcare resource utilization
+ICU intensive care unit
+IDMC independent data monitoring committee
+IM intramuscular
+IP Investigational Product
+ITT intent-to-treat
+IWRS interactive web response system
+LRTI lower respiratory tract infection
+MedDRA Medical Dictionary for Regulatory Activities
+NH Northern Hemisphere
+OTC over-the-counter
+PK pharmacokinetic(s)
+PT Preferred Term
+RR relative risk
+RRR relative risk reduction
+RSV respiratory syncytial virus
+RT-PCR reverse transcriptase-polymerase chain reaction
+CONFIDENTIAL AND PROPRIETARY 4 of 52
+
+[PDF_PAGE 5]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+Abbreviation or
+Definition
+Specialized Term
+SAE serious adverse event
+SAP statistical analysis plan
+SD standard deviation
+SH Southern Hemisphere
+SID subject identification
+SOC System Organ Class
+t terminal half-life
+1/2
+TEAE treatment-emergent adverse event
+TESAE treatment-emergent serious adverse event
+US FDA United States Food and Drug Administration
+USA United States of America
+1 INTRODUCTION
+This document describes the statistical analysis plan (SAP) for protocol D5290C00004, a
+pivotal Phase 3 study to determine if MEDI8897 is safe and efficacious in reducing medically
+attended respiratory syncytial virus (RSV)-confirmed lower respiratory tract infection (LRTI)
+in healthy late preterm and term infants entering their first RSV season. The primary efficacy
+hypothesis of this study is that, compared to placebo, a single intramuscular (IM) MEDI8897
+dose, 50 mg if weight < 5 kg or 100 mg if weight ≥ 5 kg, will be efficacious in reducing
+medically attended LRTI caused by real-time reverse transcriptase-polymerase chain reaction
+(RT-PCR)-confirmed RSV in healthy late preterm and term infants born ≥ 35 weeks 0 days
+gestational age (GA) and entering their first RSV season, and the safety profile will be
+acceptable. The secondary hypotheses are that (1) there will be a reduction in the incidence of
+hospitalizations attributable to RT-PCR confirmed RSV, (2) the predicted serum exposure will
+be adequate for the duration of the RSV season, and (3) anti-drug antibodies (ADA) to
+MEDI8897 will not significantly impact the serum concentrations or safety of MEDI8897
+through 150 days post dosing (i.e. over the 5-month RSV season). These hypotheses will be
+assessed by the incidence of RSV LRTI, RSV hospitalization, ADA, pharmacokinetic (PK)
+data, and descriptive statistics from safety data. This document details the statistical
+summaries relating to each study objective and describes the general conventions and
+definitions that will be used.
+In addition, a set of table templates and specifications is planned to be created in a statistical
+programming plan to complement this document.
+CONFIDENTIAL AND PROPRIETARY 5 of 52
+
+[PDF_PAGE 6]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+2 STUDY OVERVIEW
+2.1 Study Objectives
+2.1.1 Primary Study Objective
+To assess the efficacy of MEDI8897 when administered as a single fixed IM dose to infants ≥
+35 weeks 0 days GA and entering their first RSV season, in reducing medically attended LRTI
+due to RT-PCR-confirmed RSV, compared to placebo.
+2.1.2 Secondary Study Objectives
+1 To assess the efficacy of MEDI8897 for the reduction of hospitalizations due to RT-PCR-
+confirmed RSV, compared to placebo
+2 To evaluate the safety and tolerability of MEDI8897 when administered as a single fixed
+IM dose, compared to placebo
+3 To evaluate single-dose serum concentrations of MEDI8897
+4 To evaluate ADA responses to MEDI8897 in serum
+2.1.3 Exploratory Study Objectives
+1 To assess healthcare resource utilization (HRU) and caregiver burden for MEDI8897
+recipients compared with placebo recipients.
+2 To determine anti-RSV neutralizing antibody levels in serum afforded by a single dose of
+MEDI8897 compared to maternal RSV neutralizing antibody levels and those elicited
+following infection in the placebo group
+3 To evaluate exposure to RSV by measuring seroresponses to different RSV proteins
+4 To characterize resistance to MEDI8897 through genotypic and phenotypic analyses
+5 To assess the incidence of medically attended LRTI due to RT-PCR-confirmed RSV,
+compared to placebo after Day 151 (between Day 152 and Day 361)
+2.2 Study Design
+The population to be enrolled is healthy late preterm and term infants born ≥ 35 weeks 0 days
+GA who would not receive RSV prophylaxis based on the AAP or other local or national
+guidelines. These infants will not be receiving palivizumab, allowing for a placebo
+comparator group for the determination of efficacy and the safety profile. A total of
+approximately 3,000 infants will be randomized in a 2:1 ratio to receive a single 50-mg (if < 5
+kg weight at the time of dosing) or 100-mg (if ≥ 5 kg weight at the time of dosing) IM dose of
+MEDI8897 (N = 2,000) or placebo (N = 1,000). Randomization will be stratified by temperate
+zones in the northern and southern hemisphere and by subject age group at randomization
+(ie, ≤ 3.0 months, > 3.0 to ≤ 6.0 months, > 6.0 months). Enrollment of infants > 6.0 months of
+CONFIDENTIAL AND PROPRIETARY 6 of 52
+
+[PDF_PAGE 7]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+age will be limited to approximately 500. All infants will be followed for approximately 510
+days after dosing.
+The study will comprise 2 cohorts: a primary cohort (N = ~ 1,500) and a safety cohort
+(N = ~1,500) for a total of ~ 3000 subjects. The primary cohort will include subjects enrolled
+from the NH2019, SH2020, and NH2020 enrolment seasons (enrolment was paused after one
+subject from NH2020 was enrolled due to the impact of the coronavirus disease 2019
+[COVID-19] pandemic). The safety cohort will include subjects enrolled after NH2020
+enrollment season. Given the largely reduced circulation of RSV due to COVID-19-related
+measures, the efficacy analyses performed in the primary analysis for the primary cohort will
+serve the purpose of evaluating the efficacy of MEDI8897 in the study population. Although
+efficacy data will also be collected for the safety cohort, only descriptive summaries will be
+provided and there is no intent to pool the efficacy data from safety cohort with that from the
+primary cohort. Both the primary and the safety cohorts, individually and combined, will
+serve the purpose of evaluating the safety of MEDI8897. All subjects will be followed for
+approximately 510 days after dosing. An independent data monitoring committee will review
+safety data regularly and make recommendations regarding further study conduct.
+2.3 Treatment Assignment and Blinding
+2.3.1 Methods for Assigning Treatment Groups
+An interactive web response system (IWRS) will be used for randomization to a treatment
+group and assignment of blinded investigational product kit numbers. A subject is considered
+randomized into the study when the investigator notifies the IWRS that the subject meets
+eligibility criteria and the IWRS provides the assignment of blinded investigational product kit
+numbers to the subject.
+Subjects will be randomized at a 2:1 ratio to receive a single fixed IM dose of MEDI8897
+(N = 2,000) or placebo (N = 1000). Randomization will be stratified by temperate zones in the
+northern and southern hemisphere and by subject age group at randomization
+(ie, ≤ 3.0 months, > 3.0 to ≤ 6.0 months, > 6.0 months). Enrollment of infants > 6.0 months of
+age will be limited to approximately 500.
+The procedure for using IWRS is as follows:
+•
+The investigator or designee contacts the IWRS and provides the subject identification
+(SID) number and subject’s baseline characteristic(s) used to verify that it is the same
+subject
+•
+Placebo (provided by site) or a vial from a MEDI8897 kit will be assigned to the subject
+•
+Confirmation of this information is sent to the unblinded investigational product manager
+who prepares the investigational product to be dispensed to the subject per the response
+CONFIDENTIAL AND PROPRIETARY 7 of 52
+
+[PDF_PAGE 8]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+system and records the appropriate information in the investigational product
+accountability log
+Investigational product (MEDI8897 or placebo) must be administered the same day the
+investigational product is assigned. Total in-use storage time from needle puncture of the
+investigational product vial to administration should not exceed 4 hours at room temperature.
+If storage time exceeds these limits, a new vial should be used. If there is a delay in the
+administration of investigational product such that it will not be administered within the
+specified time frame, the unblinded investigational product monitor must be notified
+immediately.
+2.3.2 Methods to Ensure Blinding
+This is a double-blind study in which sites are using commercially available saline as the
+placebo. MEDI8897 and placebo are visually indistinguishable once in syringes. Neither the
+subject/legal representative nor the investigator or any of the site staff who are involved in the
+treatment or clinical evaluation of the subjects will be aware of the treatment received
+(ICH E9). In the event that treatment allocation for a subject becomes known to the
+investigator or other blinded study staff involved in the management of study subjects, the
+sponsor must be notified immediately. If the treatment allocation for a subject needs to be
+known to treat an individual subject for an AE, the investigator must notify the sponsor
+immediately. The site will maintain a written plan detailing which staff members are
+blinded/unblinded and the process of investigational product administration used to maintain
+the blind.
+Details of maintaining the double-blind setting until database lock for the primary and safety
+analyses are provided in Section 3.1.
+2.3.3 Methods for Unblinding
+2.3.3.1 Unblinding in the Event of a Medical Emergency
+In the event of a medical emergency, the investigator may unblind an individual subject’s
+investigational product allocation. Instructions for unblinding an individual subject’s
+investigational product allocation are contained in the IWRS manual. In general, unblinding
+should only occur if management of the medical emergency would be different based on the
+subject having received investigational product. In the majority of cases, the management of a
+medical emergency would be the same whether or not investigational product was received by
+the subject. If this was the case, the investigational product allocation should not be unblinded.
+MedImmune retains the right to unblind the treatment allocation for SAEs that are unexpected
+and are suspected to be causally related to an investigational product and that potentially
+require expedited reporting to regulatory authorities.
+CONFIDENTIAL AND PROPRIETARY 8 of 52
+
+[PDF_PAGE 9]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+Site personnel and parents/guardians of the subjects will remain blinded to the treatment
+assignment until the end of the study.
+2.4 Sample Size
+This Phase 3 study will enroll approximately 3,000 subjects of whom 2,000 will receive
+MEDI8897 and 1,000 will receive placebo. The proposed sample size is to ensure a sufficient
+expected safety database at the time of marketing application submission. The 2,000 subjects
+to be dosed with MEDI8897 in this Phase 3 study, together with the 968 subjects dosed with
+MEDI8897 in the Phase 2b study (D5290C00003) and at least 600 subjects to be dosed with
+MEDI8897 in the palivizumab-controlled Phase 2/3 study (D5290C00005), will contribute to
+a safety database of at least approximately 3,600 infants exposed to MEDI8897.
+For this Phase 3 study, the original sample size of 3,000 was driven by the safety database
+requirement, and the study had at least 99% power for the primary efficacy endpoint.
+Reducing the sample size to 1,500 still allows the study to be sufficiently powered. More
+specifically, the sample size of approximately 1,500 subjects in the primary cohort has at
+least 99% power to detect 70% relative risk reduction (RRR), assuming a placebo group
+medically attended RSV LRTI incidence of 8%. Power calculations are based on a Poisson
+regression model with robust variance (Zou, 2004) comparing MEDI8897 versus placebo,
+with 2-sided, α = 0.05.
+•
+The assumption of 8% incidence is supported both by literature (Paramore et al, 2010) and
+the observed placebo incidence rate in the Phase 2b Study D5290C00003.
+•
+The 70% RRR assumption is based on the Phase 2b Study D5290C00003 in which there
+was 70% RRR in the incidence of medically attended RSV LRTI (9.5% placebo,
+2.6% MEDI8897; p < 0.001) and RRR in the incidence of RSV hospitalization
+(4.1% placebo, 0.8% MEDI8897; p < 0.001) in subjects who received MEDI8897
+prophylaxis. In addition, the assumption is supported by a placebo-controlled study in
+Native American term infants in which there was a
+in infants who received motavizumab prophylaxis (O'Brien et al,
+2015O'BrienO'BrienO'BrienO'BrienO'Brien).
+•
+In the event that the incidence rate in the placebo group drops due to the impact of the
+COVID-19 pandemic (eg, social distancing), the sample size still provides at least 90%
+power to detect 70% RRR if the placebo incidence rate is 4% or higher.
+To evaluate risk, a sample size of 2,000 subjects exposed to MEDI8897 will provide a
+> 99% probability of observing at least one AE if the true event rate is 0.3%; if no AEs are
+observed, this study provides 98% confidence that the true event rate is < 0.2%.
+CONFIDENTIAL AND PROPRIETARY 9 of 52
+
+[PDF_PAGE 10]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+3 STATISTICAL METHODS
+3.1 General Considerations
+There are three planned analyses for this study: the Primary Analysis, Safety Analysis, and
+Final Analysis. The Primary Analysis will be conducted after all randomized subjects (except
+for the one subject enrolled in the NH2020 season) from the primary cohort have been
+followed through Day 361. The subjects enrolled in the NH2020 season will have completed
+the Day 151 visit. The efficacy of MEDI8897 will be evaluated in the Primary Analysis as
+intended by the study design. For the Primary Analysis, all efficacy, PK, ADA, and safety
+data collected for the primary cohort through Day 361 will be analyzed and unless specified
+otherwise, data collected after Day 361 will only be listed. The Safety Analysis will be
+conducted when all subjects for the safety cohort have been followed through Day 151. For
+the Safety Analysis, in addition to the analyses conducted during the Primary Analysis based
+on the primary cohort, summaries based on data collected for the primary cohort after Day
+361 will be generated; all available efficacy, PK, ADA, RSV neutralizing antibody, RSV
+serology, and safety data collected for the safety cohort will be analyzed (only descriptive
+summaries will be provided for the efficacy data collected for the safety cohort); unless
+specified otherwise, data collected for the safety cohort after Day 361 will only be listed. The
+Final Analysis will be conducted when all subjects have completed the last visit of the study
+(Day 511) and include all data and planned analyses (including applicable summaries based
+on data collected for the safety cohort after Day 361). Given the largely reduced circulation of
+RSV due to COVID-19-related measures, the efficacy analyses performed in the primary
+analysis for the primary cohort will serve the purpose of evaluating the efficacy of MEDI8897
+in the study population. Although efficacy data will also be collected for the safety cohort,
+only descriptive summaries will be provided and there is no intent to pool the efficacy data
+from safety cohort with that from the primary cohort. Both the primary and the safety cohorts,
+individually and combined, will serve the purpose of evaluating the safety of MEDI8897.
+The study will maintain a double-blind setting (ie, blind for subjects, Investigators/site staff,
+and Sponsor/designated clinical research organization) until database lock (DBL) for the
+primary and safety analyses. More specifically, at the time of the Primary Analysis (where the
+analyses will be based only on the primary cohort), the data from the primary cohort will be
+unblinded to Sponsor/designated clinical research organization associated with the analysis,
+write-up, and regulatory submission. To maintain the double-blind setting for the safety cohort
+until the Safety Analysis, any data with potential unblinding risk will be split by primary
+cohort and safety cohort by the corresponding third party data vendors and when the primary
+DBL occurs, only unblinding data from the primary cohort will be transferred to the Sponsor
+for analysis. The unblinding data from the safety cohort will not be transferred to the Sponsor
+until the DBL for Safety Analysis. The site personnel, participants, and the study team
+members who participate in the advice or decisions involving study subjects and/or day-to-day
+interactions with the site, will remain blinded until the end of the study (ie, all subjects have
+CONFIDENTIAL AND PROPRIETARY 10 of 52
+
+[PDF_PAGE 11]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+completed Day 511 visit) to ensure the study integrity is maintained. Further details will be
+specified in the unblinding plan prior to unblinding of the primary cohort data.
+For the visit-based summaries for ADA, RSV neutralizing antibody, RSV serology and
+clinical laboratory data, the summaries will be based on the scheduled days with adjusted
+analysis-defined visit windows. The adjusted analysis-defined windows will be based on the
+collection schedule listed in the protocol and summaries will be windowed to the closest
+scheduled visit for those data. Visit windows have been constructed so that every observation
+collected can be allocated to a particular visit. However, all data will be included in the
+listings. If multiple readings are recorded within a single analysis-defined visit window, the
+following rules will apply:
+! If there are 2 or more valid, non-missing observations within the same visit window, and
+- if they are on different days, then the non-missing one which is closest to the
+scheduled visit day will be used in the analysis.
+- if they are on the same day which is closest to the scheduled visit day, then the non-
+missing one with the later collection time will be used in the analysis.
+! If 2 or more valid observations are equidistant from the scheduled visit, and
+- if they are on different days, then the non-missing post-dose observation with the
+earlier collection date will be used in the analysis for the post-baseline observations,
+and the non-missing pre-dose observation with the later collection date will be used in
+the analysis for the screening observations.
+- if they are on the same day, then the non-missing observation with the later collection
+time will be used in the analysis.
+! For LRTI visits or unscheduled visits, if 2 or more valid observations are collected on the
+same day, then the non-missing observation with the later collection time will be included
+in the analysis.
+! If a visit window does not contain any observations, then the data will remain missing.
+! For the visit-based summaries for ADA, if both ADA positive and negative samples are
+available within a subject’s visit, ADA positive will be reported.
+For assignment of data to adjusted analysis-defined visit windows, study day will be defined
+as:
+•
+Screening period: Study day = Date of assessment – date of randomization
+•
+After randomization: Study day = Date of assessment – date of randomization + 1
+The adjusted analysis-defined windows for ADA, RSV neutralizing antibody, RSV serology
+are defined in Appendix 2, and for clinical laboratory data are defined in Appendix 3.
+CONFIDENTIAL AND PROPRIETARY 11 of 52
+
+[PDF_PAGE 12]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+The partial dates imputation are described in Appendix 4.
+Summary statistics will be tabulated by treatment group. Categorical data will be summarized
+by the number and percentage of subjects in each category. Continuous variables will be
+summarized by mean, median, standard deviation, minimum, and maximum. In general,
+unless stated otherwise, baseline will be defined as the last non-missing value prior to dosing.
+Data analyses will be conducted using the SAS® System Version 9.4 or higher (SAS Institute
+Inc., Cary, NC).
+3.2 Study Cohorts, Analysis Populations, and Datasets
+There are two study cohorts, primary cohort and safety cohort.
+! Primary cohort includes all subjects enrolled in the NH2019, SH2020, and NH2020
+enrollment seasons.
+! Safety cohort includes subjects enrolled after the NH2020 enrollment season.
+The primary cohort will serve the purpose of evaluating the efficacy of MEDI8897. Both the
+primary and the safety cohorts, individually and combined, will serve the purpose of
+evaluating the safety of MEDI8897.
+The analysis populations are defined in Table 1.
+Table 1 Analysis Populations
+Population Description
+Subjects who are randomized will be included in the ITT population;
+Intent-to-treat (ITT) population in this population data will be analyzed according to their randomized
+treatment group.
+Intent-to-treat population 1 (ITT1) Subjects in the ITT population and from the primary cohort.
+Intent-to-treat population 2 (ITT2) Subjects in the ITT population and from the safety cohort.
+Subjects who are randomized and receive any investigational product
+As-treated population will be included in the as-treated population; in this population, data
+will be analyzed according to the treatment they actually receive.
+As-treated population 1 (AT1) Subjects in the as-treated population and from the primary cohort.
+As-treated population 2 (AT2) Subjects in the as-treated population and from the safety cohort.
+The per-protocol population includes subjects in the ITT1 population
+who receive the correct dose of randomized treatment and who do not
+Per-protocol population have a serious protocol deviation. Detailed criteria defining this
+population will be determined and documented prior to performing the
+Primary Analysis.
+Analysis Datasets
+CONFIDENTIAL AND PROPRIETARY 12 of 52
+
+[PDF_PAGE 13]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+•
+The Primary Dataset contains all efficacy, safety, ADA, and PK data from all randomized
+subjects from the primary cohort through Day 361, except for the one subject enrolled in
+the NH2020 enrollment season, for whom the data will be through at least Day 151. The
+Primary Analysis will be performed on the Primary Dataset.
+•
+The Safety Dataset contains all data (efficacy, safety, ADA, PK, RSV serology and RSV
+neutralizing antibody) from all randomized subjects from the primary cohort, including
+data in the Primary Dataset and data from the subjects who were ongoing at the time when
+the Primary Dataset was locked. The Safety Dataset also contains subjects from the safety
+cohort that have been followed through Day 151, and all available data as of the data
+cutoff date. The Safety Analysis will be performed on the Safety Dataset.
+•
+The Final Dataset contains all data collected in this study, including data in the Primary
+Dataset, Safety Dataset and data from the subjects who were ongoing at the time when the
+Primary Dataset and Safety Dataset were locked. The Final Analysis will be performed on
+the Final Dataset.
+3.3 Stratification Factors
+Two stratification factors are used in study design as well as in data analysis, and these are:
+age group at randomization (age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months, age > 6.0 months)
+and hemisphere (northern hemisphere, southern hemisphere). For subjects who were assigned
+to an incorrect age stratum at randomization, the age stratum as calculated from the electronic
+case report form (eCRF) will differ from the stratum recorded for the subject in the IWRS
+database. Unless stated otherwise, the age stratum based on the CRF calculation will be used.
+CRF calculation for age when full date of birth (DOB) is available:
+•
+Age at randomization (months) = (randomization date – DOB) / (365.25/12)
+When full DOB is unavailable, age at screening will be used. Since screening may be
+collected in terms of days, weeks, or months, it will be first converted in terms of months as
+follows:
+•
+Age at screening (days) / (365.25/12) = Age at screening (months)
+•
+Age at screening (weeks) / (52/12) = Age at screening (months)
+Once age at screening is converted to months,
+•
+Age at randomization (months) = Age at screening (months) + [(randomization date –
+screening date) / (365.25/12)]
+Determination of hemisphere in stratification and analysis is as follows: The sites have been
+grouped together by country into the following two hemispheres: Northern Hemisphere
+CONFIDENTIAL AND PROPRIETARY 13 of 52
+
+[PDF_PAGE 14]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+(Austria, Belgium, Bulgaria, Canada, Czech Republic, Estonia, Finland, France, Germany,
+Hungary, Israel, Italy, Japan, Latvia, Lithuania, Mexico, Poland, Republic of Korea, Russia,
+Spain, Sweden, Turkey, Ukraine, United Kingdom, and United States of America [USA]) and
+Southern Hemisphere (Argentina, Australia, Brazil, Chile, Colombia, New Zealand, Panama,
+and South Africa).
+3.4 Study Subjects
+3.4.1 Subject Disposition and Completion Status
+A summary of subject eligibility and randomization as well as treatment received (including
+summary of subjects randomized but not treated) will be provided for each cohort. In addition,
+disposition of subjects throughout the study and by milestone visit (ie, Day 151, Day 361) will
+be provided for all screened subjects, screened subjects from the primary cohort, and screened
+subjects from the safety cohort. These summaries will be presented by treatment group and for
+all subjects combined. The denominators for these summaries will include all subjects who
+were randomized into the study or in the corresponding cohorts unless specified otherwise.
+3.4.2 Demographics and Baseline Characteristics
+Enrolment will be summarized by hemisphere, country, site, and by hemisphere, country, and
+age at randomization stratum for each treatment group and for all subjects combined. The total
+number of subjects randomized into each treatment group will be used as the denominator. For
+the summary of hemisphere, country, and age at randomization stratum, the number of mis-
+stratified subjects (ie, age stratum as calculated from the eCRF does not match the IWRS
+database) will be summarized. These summaries will be provided overall and by cohort.
+Demographic information related to gender, age at randomization stratum (months) calculated
+from the CRF, age at randomization stratum determined using the CRF age calculation
+(age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months, age > 6.0 months), age at randomization
+category (age < 9.0 months, age ≥ 9.0 months), GA (weeks), ethnicity, race, weight (kg) on
+Day 1, weight on Day 1 category (weight < 5 kg, weight ≥ 5 kg), birth weight (kg), birth
+weight category (weight ≤ 2.5 kg, weight > 2.5 kg), multiple birth (yes/no), siblings enrolled
+in the study (yes/no), ever breastfed (yes/no), currently breastfed (yes/no), smoking in the
+household (yes/no), currently in daycare (yes/no), Down syndrome (yes/no), and cystic
+fibrosis (yes/no) will be summarized by treatment group and for all subjects combined using
+the overall ITT population, ITT1 and ITT2. Subjects will be excluded from the summary (eg,
+means and percentages) of an individual parameter if data are missing. This will be done for
+all subjects, each age at randomization stratum, and by hemisphere.
+In addition, family history of atopy (including asthma, hay fever, eczema, wheezing) will be
+summarized for each treatment group and for all subjects combined overall and by cohort.
+CONFIDENTIAL AND PROPRIETARY 14 of 52
+
+[PDF_PAGE 15]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+3.4.3 Study Drug Exposure
+Due to the simplicity of dosing for this study, exposure is summarized in the Subject
+Disposition and Completion Status table under “Randomized and dosed.” No other summary
+will be reported.
+3.4.4 Violations and Deviations
+Important protocol deviations are a subset of protocol deviations that may significantly impact
+the completeness, accuracy, and/or reliability of the study data or that may significantly affect
+a subject’s rights, safety, or well-being.
+The final list of important protocol deviations will be documented prior to unblinding the
+study data, and will include but may not be limited to:
+! Subjects who did not meet inclusion criteria or met exclusion criteria according to protocol
+but were enrolled in the study, except for one violation of the exclusion criterion that
+children of employees of the sponsors, clinical study site, or any other individuals
+involved with the conduct of the study, or immediate family members of such individuals
+will not be considered as an important protocol deviation.
+! Subjects who reported investigational product (IP) compliance-related deviations. This can
+be further categorized into IP administration, IP assignment-, and/or IP handling-related
+deviations.
+- IP administration-related deviations include but are not limited to:
+- Subjects receive incorrect dose, including subjects do not receive full
+planned dose or are not treated;
+- Subjects receive IP despite withdrawal of consent or not meeting eligibility
+prior to IP dosing;
+- Subject was administered IP but was not observed for at least 1 hour post
+dose
+- IP assignment-related deviations include but are not limited to:
+- Inappropriate use of study IP (e.g. giving IP to non-study subjects);
+- Kit dispensed without IWRS transaction
+- Subjects who reported the following IP handling-related deviations:
+- Dispensing of IP that has had an unapproved temperature excursion or is
+not suitable for use upon inspection for whatever reason to a subject;
+- IP was administered to the subject after 4 hours post preparation.
+! Subjects who had no central RT-PCR nasal samples collected at any of the LRTI visits.
+! Subjects who received approved or investigational product for RSV prophylaxis prior to
+Day 151.
+CONFIDENTIAL AND PROPRIETARY 15 of 52
+
+[PDF_PAGE 16]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+! Subjects who reported safety-related deviations:
+- Severe violation in safety follow-up for subject;
+- Serious adverse event not reported in eCRF.
+Only important protocol deviations will be tabulated in the clinical study report (CSR). The
+important protocol deviations will be reviewed and documented by the medical advisors and
+statisticians prior to the DBL.
+Protocol deviations associated with the COVID-19 pandemic will also be summarized and
+listed separately (see Section 3.10).
+In addition, the per-protocol population includes subjects in the ITT1 population who receive
+the correct dose of randomized treatment and who do not have a serious protocol deviation.
+The final list of serious protocol deviations will be documented in a separate file reviewed by
+medical monitor prior to unblinding the study data.
+3.5 Efficacy Analyses
+The analyses of the primary efficacy endpoint, the protocol-defined medically attended RSV
+LRTI (also described as the medically attended RSV LRTI) through 150 days post dose, and
+the secondary efficacy endpoint, the protocol-defined RSV hospitalization (also described as
+the RSV LRTI hospitalization) through 150 days post dose, will be performed on the Primary
+Dataset.
+Efficacy analyses performed on the Primary Dataset will be refreshed in the primary cohort
+data in Safety Dataset and Final Dataset to make sure statistical inferences on MEDI8897
+efficacy made from the Primary Analysis are consistent with those from the Safety and Final
+Analyses. Although efficacy data will also be collected for the safety cohort, only descriptive
+summaries will be provided and there is no intent to pool the efficacy data from safety cohort
+with that from the primary cohort.
+3.5.1 Primary Efficacy Endpoint and Analyses
+3.5.1.1 Primary Efficacy Endpoint
+The primary endpoint is the incidence of medically attended RSV LRTI (inpatient and
+outpatient) through 150 days post dose. For subjects with multiple medically attended RSV
+LRTI events (inpatient or outpatient), only the first occurrence will be used in the primary
+analysis.
+The determination of medically attended RSV LRTI will be based on objective clinical LRTI
+criteria (described in the Protocol Section 4.3.1.1 and SAP Appendix 1) and RSV test results
+obtained from analyzing the respiratory secretions using a validated RSV RT-PCR assay for
+CONFIDENTIAL AND PROPRIETARY 16 of 52
+
+[PDF_PAGE 17]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+the detection of RSV A or RSV B performed in a central laboratory. These LRTI events may
+occur in the inpatient or outpatient visit setting.
+Prior to DBL for the Primary Analysis, a blinded review of data will be undertaken to
+determine an analysis window such that all positive results will be counted as a medically
+attended RSV LRTI if they occurred in a respiratory sample collected within -7 to 14 days
+relative to the initial date seen by the healthcare provider (eg, admission/deterioration date
+associated with the event, urgent care visit, outpatient emergency department [ED] visit, or
+outpatient clinic visit). The actual window used will be documented prior to unblinding. In
+addition, deaths that can be demonstrated as caused by RSV (by autopsy or clinical history
+and virologic evidence) will also be considered as primary medically attended RSV LRTI
+events.
+3.5.1.2 Primary Efficacy Analysis
+The primary efficacy analysis of the primary endpoint will be performed on ITT1. A Poisson
+regression model with robust variance (Zou, 2004) will be used as the primary efficacy
+analysis model to estimate the relative risk (RR) on the incidence of medically attended RSV
+LRTI between the MEDI8897 and the placebo groups. The full model contains the term of
+treatment group and age group at randomization based on the calculation detailed in Section
+3.3. (ie, age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months, age > 6.0 months) and dichotomous
+temperate (northern and southern) hemispheres as covariates. The RRR, defined as 1 - RR,
+and its corresponding 2-sided 95% CI, will be estimated from the model. In addition, the 2-
+sided p-value testing null hypothesis that the incidence of medically attended RSV LRTI
+between MEDI8897 and placebo groups are the same will be obtained from the model.
+Statistical significance will be achieved if the 2-sided p-value is ≤ 0.05.
+During blinded data review prior to the DBL for Primary Analysis, it was revealed that there
+was no incidence of medically attended RSV LRTI events through 150 days post dose for SH
+in primary cohort, which would cause known convergence or estimation issue. Therefore it
+was decided to drop the stratification factor hemisphere from the full model and a reduced
+model (including the term of treatment group and age at randomization stratum as covariate)
+will be used instead. Similar consideration also applies to other analyses for primary efficacy
+endpoint, where hemisphere will be dropped from the corresponding models.
+The Poisson regression with robust variance analysis will be implemented by using the SAS
+PROC GENMOD procedure with the REPEATED statement for subject ID and logarithm
+link. The estimated parameter  [ie, log()], 2-sided 95% confidence interval (CI) for , and
+the 2-sided p-value will be obtained from the SAS outputs. The estimated RR and
+corresponding CI for the RR is given by exponentiating  and its confidence limits. Therefore,
+the percent of RRR is given by [(1 – exp()) * 100%]. The CI for the percent of RRR is given
+CONFIDENTIAL AND PROPRIETARY 17 of 52
+
+[PDF_PAGE 18]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+by ([1 – exp(upper confidence limit for ) * 100%], [1 – exp(lower confidence limit for ) *
+100%]).
+If the number of subjects in any stratum is too small and/or convergence cannot be achieved
+with the Poisson regression analysis model, the stratified Cochran-Mantel-Haenszel (CMH)
+test (detailed in Section 3.5.1.3) will be used as the primary analysis model to test the
+treatment effect on medically attended RSV LRTI between MEDI8897 and placebo groups.
+The above described analysis on the primary efficacy endpoint will also be conducted on the
+Per-protocol population.
+Handling of Dropouts and Missing Data
+Medically attended RSV LRTI that occurs through 150 days post dose will contribute to the
+primary efficacy analysis. For subjects who do not have a medically attended RSV LRTI and
+are not followed through 150 days post dose, their event status will be imputed assuming the
+observed placebo medically attended RSV LRTI rate conditional on stratification factor (age
+at randomization stratum) using multiple imputation techniques as described in the following
+paragraphs.
+The primary analysis uses Poisson regression with robust variance requires a subject-level
+dataset. A repeated imputation approach is introduced to impute medically attended RSV
+LRTI status for missing observations at the subject-level for the model fitting. By
+incorporating the between-imputation variance, a reliable statistical inference in both
+hypothesis testing and CI estimation of the treatment effect is expected through the repeated
+imputation (Little and Rubin, 2002). In the primary analysis the missing outcome for subjects
+who drop out (eg, withdrawal by parent/legal representative, lost to follow-up, death not
+caused by RSV, etc) prior to reaching Day 150 post dose without a medically attended RSV
+LRTI event will be imputed per stratum determined by the stratification factor (age at
+randomization stratum) using placebo event rate. The imputation and subsequent analysis will
+be carried out using SAS PROC MI (Monotone Logistic Regression Method) and SAS PROC
+MIANALYZE. The detailed imputation steps are described as follows.
+! Step 1: For the subjects in the MEDI8897 arm who do not have an RSV LRTI and are not
+followed through 150 days post dose, their treatment code of “MEDI8897” will be
+substituted with “placebo” to ensure the placebo RSV LRTI rate is applied in the
+imputation for the MEDI8897 dropouts adjusted for their stratification values. The
+imputation will be executed using SAS Proc MI (eg, logistic regression with the recoded
+treatment term and stratification factor [age at randomization stratum]).
+! Step 2: The original treatment code will be restored after the RSV LRTI event statuses
+have been imputed. A complete dataset comprises the imputed RSV LRTI status and
+observed RSV LRTI status.
+CONFIDENTIAL AND PROPRIETARY 18 of 52
+
+[PDF_PAGE 19]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+! Step 3: Analyze the complete dataset using a Poisson regression model with robust
+variance to estimate the RR on the incidence of medically attended RSV LRTI between
+MEDI8897 and placebo, with the term of treatment group and stratification factor (age at
+randomization stratum). The point estimate of log-transformed RR and its variance will
+be extracted from the model.
+! Steps 2-3 will be repeated 20 times. SAS procedure PROC MIANALYZE will be used to
+combine inferences from the 20 completed datasets, that will result in a combined point
+estimate of log-transformed RR and the variance. The random seed is 12345.
+3.5.1.3 Secondary Analyses of the Primary Efficacy Endpoint
+The secondary efficacy analysis of the primary endpoint will be performed on ITT1. A CMH
+test stratified by age group at randomization (ie, age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months,
+age > 6.0 months) will be used to compare between treatment groups through 150 days post
+dose as the key secondary analysis for the primary endpoint. SAS procedure of PROC FREQ
+with CMH option will be used to perform the analysis. The RR of MEDI8897 over placebo
+for the incidence of medically attended RSV LRTI events and the 95% CI will be obtained
+from the SAS procedure. The percent of RRR and the 95% CI will be reported following the
+relationship of RRR (%) = (1- RR) * 100%. This analysis will be performed without any
+imputation of event for subjects who dropped out the study prior to Day 150 post dose and did
+not have a medically attended RSV event. The Breslow-Day test and Zelen’s exact test will be
+used to test the homogeneity of the odds ratios across strata and the corresponding p-values
+will be judged at the significance level of 0.05.
+3.5.1.4 Supplementary Analyses of the Primary Efficacy Endpoint
+The following analyses will be conducted on ITT1 as supplementary analyses.
+Poisson Regression with Robust Variance Adjusting for Follow-up Time
+To allow for differences in follow-up time, the primary analysis using a Poisson Regression
+with robust variance will be repeated, adjusting for the same covariates as well as log (follow-
+up time) as an offset. Since the follow-up time is adjusted in the model, there is no missing
+imputation for this analysis. Calculation of follow-up are detailed as follows:
+! For subjects who meet the medically attended RSV LRTI endpoint within 150 days post
+dose, the follow-up time will be calculated as (Date of Onset of RSV LRTI) – (Date of
+Dosing) + 1. Date of Onset of RSV LRTI is defined as the initial date seen by the
+healthcare provider for the corresponding AE.
+! For subjects who do not experience a medically attended RSV LRTI event within
+150 days post dose, the efficacy follow-up will be determined based on the following:
+∀ If an end of study date occurs within 150 days post dose (or end of study date is
+missing and last assessment date occurs within 150 days post dose), the efficacy
+CONFIDENTIAL AND PROPRIETARY 19 of 52
+
+[PDF_PAGE 20]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+follow-up will be calculated as (Date of End of Study or Date of Last Assessment,
+whichever is later) – (Date of Dosing) + 1.
+∀ If an end of study date occurs after 150 days post dose (or end of study date is
+missing and last assessment date is after 150 days post dose), the efficacy follow-up
+will be censored (at 151 days).
+For subjects who are ongoing at the time of Primary Analysis, the data cut-off date will be
+used as their last assessment date.
+Kaplan-Meier Analysis
+A Kaplan-Meier curve for time to first medically attended RSV LRTI will be generated based
+on observed events. The algorithm for time-to-event calculation is the same as that for follow-
+up time (see the section right above). Treatment group differences in time-to-first medically
+attended RSV LRTI will be compared using the stratified log-rank test with the stratification
+factor (age at randomization) as the strata. In addition, hazard ratio and the corresponding
+95% confidence interval will be obtained from the stratified proportional hazard model with
+the stratification factor (age at randomization stratum) as the strata.
+Primary Endpoint by Visit Setting
+In addition, all observed medically attended RSV LRTI events through 150 days post dose and
+the corresponding incidence rates will be tabulated by Inpatient (primary hospitalization,
+nosocomial hospitalization) and Outpatient, for the latter category, further presentation will be
+made by different medical settings: outpatient clinic, urgent care clinic, and ED visits for
+subjects who did not have a hospitalization due to RSV.
+Missing Data Imputation
+Five supplementary analyses for RSV LRTI through 150 days post dose will be performed to
+address subjects who do not have an RSV LRTI and are not followed through 150 days post
+dose through various approaches of missing data imputation are described as follows:
+1. Count these subjects as having not met the RSV LRTI endpoint within each treatment
+group
+2. Perform multiple imputation using the observed event rate per treatment group for their
+event status
+3. Perform single imputation using observed placebo rate for both groups
+4. Impute missing data in MEDI8897 group as an event and missing data in the placebo
+group as no event
+5. Impute missing data in MEDI8897 group as no event and missing data in the placebo
+group as an event
+CONFIDENTIAL AND PROPRIETARY 20 of 52
+
+[PDF_PAGE 21]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+For supplementary analysis 1, all subjects who do not have an RSV LRTI event and are not
+followed through 150 days post dose will be assumed having no event. The subjects with
+imputed values of RSV LRTI status will be combined with the remaining subjects who either
+have an RSV LRTI prior to 150 days post dose or who were followed through 150 days post
+dose without the event to form a complete dataset. The primary efficacy analysis model will
+be used to analyse the completed datasets via the specified imputation method.
+For supplementary analysis 2, the medically attended RST LRTI event status for the subjects
+who do not have an RSV LRTI and are not followed through 150 days post dose will be
+imputed by the observed event rate per treatment group. That is, following the standard
+Multiple Imputation procedure and carried by PROC MI (Monotone Logistic Regression
+Method) and PROC MIANALYZE.
+For supplementary analysis 3, the number of medically attended RSV LRTI events for
+subjects who dropped out prior to Day 150 post dose without the event will be generated using
+the observed placebo event rates for both treatment groups. With the imputed number of
+events, the RRR and the 95% CI will be constructed using an exact conditional method
+without stratum based on the number of RSV LRTIs (Breslow and Day, 1987). The number of
+events for each treatment group will be used as the response variable and the logarithm of
+total number of participants for treatment group will be used as an offset variable in the
+model. This analysis will be implemented using PROC GENMOD with the EXACT
+statement.
+For supplementary analysis 4, for subjects who do not have an RSV LRTI event and are not
+followed through 150 days post dose, if they are in the placebo group, they will be assumed
+having no events; if they are in the MEDI8897 group, they will be assumed having events.
+The remaining part will be the same as that described in supplementary analysis 1.
+For supplementary analysis 5, for subjects who do not have an RSV LRTI event and are not
+followed through 150 days post dose, if they are in the MEDI8897 group, they will be
+assumed having no events; if they are in the placebo group, they will be assumed having
+events. The remaining part will be the same as that described in supplementary analysis 1.
+In addition, a tipping point analysis will be conducted to assess the robustness of efficacy
+under a series of assumed event rates for the missing data in both treatment groups, ranging
+from 10% to 100%, increment by 10%. For the assumed event rates of 10%-90%, the tipping
+point analysis will be conducted following the steps below:
+! Step 1: Impute the event status for subjects who do not have an RSV LRTI and are not
+followed through 150 days post dose in each treatment arm using the Bernoulli
+distribution with assumed event rate without involvement of stratification factors.
+CONFIDENTIAL AND PROPRIETARY 21 of 52
+
+[PDF_PAGE 22]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+! Step 2: The subjects with imputed values of RSV LRTI status (yes/no) will be combined
+with the remaining subjects who either have an RSV LRTI prior to 150 days post dose or
+who were followed through 150 days post dose without an RSV LRTI, to form a
+complete dataset.
+! Step 3: Analyze the complete dataset using a Poisson regression model with robust
+variance to compare the incidence of medically attended RSV LRTI between MEDI8897
+and placebo, including treatment group, and the stratification factor (age at randomization
+stratum) as covariates. The point estimate of log-transformed RR and its variance will be
+produced from the model.
+! The steps 1-3 will be repeated 20 times with seed 1-20, respectively. SAS procedure
+PROC MIANALYZE will be used to combine inferences from the 20 completed datasets,
+which will result in a combined point estimate of log-transformed RR and the variance.
+The random seed is 12345.
+For the assumed event rate of 100%, all subjects who do not have an RSV LRTI and are not
+followed through 150 days post dose will be imputed as having an event. The subjects with
+imputed values of RSV LRTI status will be combined with the remaining subjects who either
+have an RSV LRTI prior to 150 days post dose or who were followed through 150 days post
+dose without the event to form a complete dataset. The primary efficacy analysis model will
+be used to analyse the completed datasets via the specified imputation method.
+Subgroup Analyses
+Subgroup analysis will be performed for the primary efficacy endpoint, the incidence of
+medically attended RSV LRTI. Treatment-by-subgroup interaction will be tested using the
+Poisson regression with robust variance model with the terms of treatment, age group,
+subgroup, and treatment-by-subgroup interaction, which will be implemented using PROC
+GENMOD procedure. If this full model does not achieve convergence, a reduced model of
+treatment, subgroup, and treatment-by-subgroup interaction will be used. Significant
+treatment-by-subgroup interaction is judged at the significance level of 0.10. Within each
+level of a subgroup, the RRR and its corresponding 95% CI will be estimated using a Poisson
+regression model with robust variance with the term of treatment. A forest plot of the RRR
+and the 95% CI will be presented. In the event that the Poisson regression model does not
+converge for any stratum of a subgroup, the exact conditional method based on the number of
+RSV LRTIs (Breslow and Day, 1987) will be used as the analytical model to generate the
+RRR and its corresponding CI for all subgroup strata. This model will be implemented by
+StatXact PROC Poisson procedure and the point estimate and mid-p adjusted 95% CI will be
+reported.
+The subgroup analysis will be conducted for the following subgroups on ITT1:
+! Hemisphere
+CONFIDENTIAL AND PROPRIETARY 22 of 52
+
+[PDF_PAGE 23]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+! Age at randomization stratum (age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months, age > 6.0
+months)
+! Gender
+! Race (Caucasian, non-Caucasian)
+! Weight at birth (weight ≤ 2.5 kg, weight > 2.5 kg)
+! Weight on Day 1 (weight < 5 kg, weight ≥ 5 kg)
+! GA (≥ 35 weeks to < 37 weeks, ≥ 37 weeks)
+! Sibling also participating in the study (yes/no)
+In addition, incidence of medically attended RSV LRTI will be summarized by Country.
+3.5.1.5 Analyses for Medically Attended RSV LRTI Beyond the Primary Endpoint
+The following analyses will be conducted on ITT1 and based on observed events, unless
+stated otherwise.
+The incidence of medically attended RSV LRTI that occurred through 360 days post dose and
+> 360 days post dose will be summarized by treatment group. ITT1 will be used for the
+summary of the incidence through 360 days post dose, and ITT1 subjects who remained in the
+study after the Day 361 visit will be used as the denominator to calculate the incidence rate for
+the summary of the incidence > 360 days post dose.
+Age at onset of the first medically attended RSV LRTI through 150 days post dose will be
+tabulated by age group used for randomization stratification by treatment group. In addition,
+time-to-first medically attended RSV LRTI will be plotted at subject’s level along the axis of
+age at birth.
+The incidence of medically attended RSV LRTI by subtype (RSV A, RSV B) through
+150 days post dose, through 360 days post dose, and > 360 days post dose will be summarized
+by treatment group. The populations that the summary will be based on will be similar to what
+had been used for the analysis of medically attended RSV LRTI at each corresponding time
+period.
+To capture and summarize multiple medically attended RSV LRTIs through 150 days post
+dose, the total number of new onset medically attended RSV LRTIs since the previous
+medically attended RSV LRTI will be calculated for each subject. A new onset medically
+attended RSV LRTI is defined as an adverse event (AE) meeting protocol specified medically
+attended RSV LRTI that occurred at least 14 days after the resolution date of the previous AE
+for a medically attended RSV LRTI. Similar definition is applied with a 30 days interval
+between the resolution of the previous event and a new onset of event (see Table 2 for details).
+A listing will be generated to provide the following information: age at randomization
+stratum, hemisphere, total number of events (at least 14 days apart), total number of events (at
+CONFIDENTIAL AND PROPRIETARY 23 of 52
+
+[PDF_PAGE 24]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+least 30 days apart), days to event, adverse event (AE) verbatim term, date of AE onset/stop,
+days from previous event, visit setting, and RSV subtype.
+AEs associated with medically attended RSV LRTI will be summarized overall, as well as
+categorized by MedDRA system organ class (SOC) and preferred term (PT). Summaries will
+be presented through 150 days post dose, through 360 days post dose, and after 360 days post
+dose.
+3.5.2 Secondary Efficacy Endpoint and Analyses
+3.5.2.1 Secondary Efficacy Endpoint
+The secondary efficacy endpoint is the incidence of RSV LRTI hospitalization through 150 days
+post dose. For subjects with multiple RSV LRTI hospitalizations, only the first occurrence will
+be used in the analysis.
+The events of “RSV hospitalization” are a subset of “medically attended RSV LRTI,” which
+are determined based on objective clinical LRTI criteria (described in the Protocol
+Section 4.3.1.1 and SAP Appendix 1) and RSV test results obtained from central laboratory
+analysis respiratory secretions using a validated RSV RT-PCR assay for the detection of RSV
+A or RSV B.
+Prior to analysis, a blinded review of data will be undertaken to determine an analysis window
+such that all positive results will be counted as an RSV LRTI hospitalization if they occurred
+in a respiratory sample collected within this window relative to the admission/deterioration
+date. The actual window used will be documented prior to unblinding. In addition, deaths that
+can be demonstrated as caused by RSV (by autopsy or clinical history and virologic evidence)
+will also be considered as RSV LRTI hospitalization endpoints.
+3.5.2.2 Secondary Efficacy Analyses
+Providing information to physicians and parents/legal representatives on the effect of
+MEDI8897 in reducing the risk of RSV hospitalization is considered important and was the
+primary endpoint for the approval of palivizumab. Due to its importance, RSV hospitalization
+was pre-specified as a key secondary endpoint in the Phase 2b Study D5290C00003 and will
+be again pre-specified as a key secondary endpoint in this Phase 3 study. However, as the
+management of more serious RSV disease has been shifting to the outpatient setting, there is a
+risk that the incidence of RSV hospitalization in this Phase 3 study population of healthy late
+preterm and term infants may be too low (expected to be approximately 1% in the placebo
+group) for this secondary efficacy analysis to reach statistical significance (p ≤ 0.05) within
+this Phase 3 study alone.
+The rationale of a pooled analysis, which consists of all ITT subjects from the Phase 2b Study
+D5290C00003 and ITT1 subjects from the Phase 3 study, is to assess the overall efficacy of
+CONFIDENTIAL AND PROPRIETARY 24 of 52
+
+[PDF_PAGE 25]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+RSV hospitalization in the target population (pre-term and term infants). The pooled analysis
+consisting of the 860 ITT subjects weighing < 5 kg in the Phase 2b Study D5290C00003 and
+ITT1 subjects in this Phase 3 study, will be conducted to assess the efficacy in all subjects
+under the clinically efficacious exposure suggested by PK analysis. Combining these subjects
+for analysis is justified based on the similar study designs and disease similarity between the
+infant pediatric study populations.
+Given the importance of controlling for multiplicity, a hierarchical testing strategy is proposed
+as follows. Statistical testing of the null hypothesis that the incidence of RSV LRTI
+hospitalization between MEDI8897 and placebo groups is the same will only be performed if
+the primary efficacy analysis has achieved a p-value that is ≤ 0.05. More specifically, after the
+significance of the primary efficacy endpoint is demonstrated, the secondary efficacy endpoint
+will first be tested from pooling all ITT subjects from the Phase 2b Study D5290C00003 and
+ITT1 subjects from the Phase 3 study. If the significance of the pooled efficacy based on
+pooling all subjects from Phase 2b and ITT1 subjects from Phase 3 is demonstrated (at 2-sided
+0.05), the secondary efficacy endpoint will be further tested from pooling the 860 subjects
+weighing < 5 kg on Day 1 (ie, 290 subjects randomized to placebo and 570 subjects
+randomized to MEDI8897) in the Phase 2b Study D5290C00003 and ITT1 subjects in this
+Phase 3 study. If the significance of the pooled efficacy based on pooling the subjects
+weighing < 5 kg from Phase 2b and Phase 3 ITT1 subjects is again demonstrated (at 2-sided
+0.05), the secondary efficacy endpoint will be tested using ITT1 subjects from this Phase 3
+study alone. We would test the secondary endpoint in the pooled population before that in this
+Phase 3 study alone for the reason that the pooling strategy will mimic the efficacy we can
+expect to see with the dosing scheme we plan to ultimately register and deploy for use in the
+target population and therefore has a higher importance.
+For the pooled analyses, a Poisson regression model with robust variance (Zou, 2004) will be
+used to assess the treatment effect on the incidence of RSV LRTI hospitalization between
+MEDI8897 and placebo groups in the pooled ITT population. In addition to the treatment arm,
+the variable “Study” (which identifies the enrolled study for each subject) will be used as a
+covariate to adjust for potential differences between the 2 studies. RRR and its corresponding
+95% CI will be estimated from the model implemented by PROC GENMOD as detailed in
+Section 3.5.1.2.
+For the analysis using Phase 3 data alone, a Poisson regression model with robust variance
+(Zou, 2004) using only the treatment term will be used to assess the treatment effect on the
+incidence of RSV LRTI hospitalization between MEDI8897 and placebo groups in the ITT1
+population. RRR and its corresponding 95% CI will be estimated from the model.
+Above stated analyses on RSV LRTI hospitalization will also be conducted on the
+Per-protocol population.
+CONFIDENTIAL AND PROPRIETARY 25 of 52
+
+[PDF_PAGE 26]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+Handling of Dropouts and Missing Data
+RSV LRTI hospitalization that occurs through 150 days post dose will contribute to the
+analysis. Subjects who only have outpatient RSV LRTI through 150 days post dose will be
+regarded as not meeting the RSV LRTI hospitalization endpoint. For subjects who do not have
+an RSV LRTI and were not followed through 150 days post dose, their event status will be
+imputed. Due to the expected low event rate, and correspondingly high likelihood of empty
+cells by strata, the stratification factors will not be used during the repeated imputation step to
+avoid potential convergence issue.
+For the pooled analyses, the event status for subjects requiring imputation will be imputed
+using the observed placebo RSV LRTI hospitalization rate following the repeated imputation
+procedure conditional on study, similar to what has been described for imputing missing data
+for primary endpoint (Section 3.5.1.2) with the exception of using the variable “Study” instead
+of the stratification factors in SAS PROC MI and the Poisson regression model with robust
+variance.
+For the analysis using Phase 3 data alone, the event status for subjects requiring imputation
+will be imputed using the observed placebo RSV LRTI hospitalization rate following the
+repeated imputation procedure without involvement of stratification factors. The computation
+steps will be conducted following the steps below:
+! Step 1: Determine the observed placebo RSV LRTI hospitalization rate through 150 days
+post dose, which is calculated as the proportion of all randomized placebo subjects with
+observed RSV LRTI hospitalization.
+! Step 2: Impute the event status for subjects who do not have an RSV LRTI and are not
+followed through 150 days post dose in each treatment group using the Bernoulli
+distribution with the observed placebo RSV LRTI hospitalization rate.
+! Step 3: The subjects with imputed values of RSV LRTI hospitalization status (yes/no)
+will be combined with the remaining subjects to form a complete dataset.
+! Step 4: Analyze the complete dataset using a Poisson regression model with robust
+variance to compare the incidence of RSV LRTI hospitalization between MEDI8897 and
+placebo, including the treatment group only. The point estimate of log-transformed RR
+and its variance will be produced from the model.
+! The steps 2-4 will be repeated 20 times with seed 1-20, respectively. SAS procedure
+PROC MIANALYZE will be used to combine inferences from the 20 completed datasets,
+which will result in a combined point estimate of log-transformed RR and the variance.
+The random seed is 12345.
+3.5.2.3 Supplementary Analyses of the Secondary Efficacy Endpoint
+The supplementary analyses will be conducted on ITT1.
+CONFIDENTIAL AND PROPRIETARY 26 of 52
+
+[PDF_PAGE 27]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+These analyses including the CMH test stratified by study (for the pooled population) or the
+CMH test with the only term of treatment (for ITT1 subjects from Phase 3) for the incidence
+of RSV LRTI hospitalization, and the Kaplan-Meier for time-to-first RSV LRTI
+hospitalization will be conducted. Treatment group differences in time-to-first RSV LRTI
+hospitalization will be compared using log-rank test. In addition, hazard ratio and the
+corresponding 95% confidence interval will be obtained from the proportional hazard model.
+For each treatment group, age at onset of the first medically attended RSV LRTI
+hospitalization will be tabulated by age group used for randomization stratification by
+treatment group. In addition, time-to-first medically attended RSV LRTI hospitalization will
+be plotted at subject’s level along the axis of age at birth. RSV LRTI hospitalization will also
+be summarized by RSV subtype (A or B).
+The incidence of RSV LRTI hospitalization will also be summarized by the following
+subgroups.
+! Hemisphere
+! Age at randomization stratum (age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months, age > 6.0
+months)
+! Gender
+! Race (Caucasian, non-Caucasian)
+! Weight at birth (weight ≤ 2.5 kg, weight > 2.5 kg)
+! Weight on Day 1 (weight < 5 kg, weight ≥ 5 kg)
+! GA (≥ 35 weeks to < 37 weeks, ≥ 37 weeks)
+! Sibling also participating in the study (yes/no)
+In addition, incidence of RSV LRTI hospitalization will be summarized by Country.
+3.5.3 Other Efficacy Analyses
+The following analyses will be conducted on ITT1.
+An overall summary of subjects with any medically attended LRTI (protocol-defined or not)
+or hospitalization due to any respiratory illness will be presented by treatment group. In this
+summary, a subject is reported only once even though he or she might have multiple events in
+the time interval of reporting. In that occasion, the event with the highest severity level will be
+reported. The rules to define severity among multiple LRTI events for a subject are as follows:
+protocol-defined > non-protocol defined, RSV > non-RSV, and hospitalization > non-
+hospitalization. The rules to define severity among multiple hospitalizations due to any
+respiratory illness are as follows: LRTI > non-LRTI, RSV > non-RSV. Incidence of all
+medically attended LRTI will be summarized by protocol-defined LRTI (RSV or non-RSV)
+and non-protocol defined LRTI (RSV or non-RSV) with each further breaking done by
+CONFIDENTIAL AND PROPRIETARY 27 of 52
+
+[PDF_PAGE 28]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+hospitalization status. For subjects who were hospitalized due to any respiratory illness, LRTI
+and non-LRTI cases will be further reported and broken down by RSV status. In addition, a
+summary for subjects with at least one medically attended LRTI event (categorized by RSV,
+non-RSV, hospitalization, outpatient only), regardless of severity, will be presented. In this
+summary, a subject can be reported in multiple event categories as long as the subject has at
+least one corresponding event. Correspondingly, a side-by-side bar plot for incidence of all
+medically attended LRTIs regardless of severity through 150 days post dose will be presented
+by RSV status (RSV, non-RSV) per treatment group, with the visit setting category
+(hospitalization, outpatient only) stacked.
+Summaries for subjects who met primary efficacy endpoint (ie, protocol-defined medically
+attended RSV LRTI) will be presented by treatment group for each of the elements used to
+evaluate for the case definition of medically attended RSV LRTI (Appendix 1). These
+elements include the following: rhonchi, rales, crackles, wheeze, increased respiratory rate,
+hypoxemia, acute hypoxic or ventilatory failure, new onset apnea, retractions, grunting,
+dehydration due to respiratory distress requiring IV hydration. In this summary, a subject is
+reported once even though he or she might have the element multiple times during the
+reporting period.
+For all medically attended LRTI events, RSV status (positive, negative or not done) will be
+summarized by central RT-PCR or local testing results by treatment group. The proportion of
+each category will be calculated based on the total number of LRTI events for the respective
+treatment group. In addition, incidence of positive RSV LRTI either by RT-PCR or by local
+testing results will also be summarized by LRTI categories (protocol-defined, non-protocol
+defined) and treatment group. The same analysis window as described in above sections for
+the RT-PCR central tests will be used for the local tests. In this summary, if a subject has
+multiple LRTI events, the one with the highest severity will be reported (in the order of
+protocol-defined > non-protocol defined) and the incidence of the event will be calculated
+based on the number of randomized subjects for the respective treatment group.
+In addition, for each treatment group, all medically attended LRTI events will be tabulated by
+Inpatient (primary hospitalization, nosocomial hospitalization) and Outpatient, for the latter
+category, further presentation will be made by different medical settings: outpatient clinic,
+urgent care clinic, and ED visits. The proportion of each category will be calculated based on
+the total number of LRTI events for the respective treatment group.
+All above stated summaries will be based on observed events and data summary will be
+presented by through Day 150 post dose (on ITT1), after 150 days post dose (on ITT1 with
+Day 151 visit), through 360 days post dose (on ITT1), and after 360 days post dose (on ITT1
+with Day 361 visit).
+CONFIDENTIAL AND PROPRIETARY 28 of 52
+
+[PDF_PAGE 29]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+For various LRTI events, including the primary endpoint, detailed definitions of new onset of
+events are defined in the following table, Table 2. For all medically attended LRTI (RSV,
+non-RSV, protocol-defined, non-protocol defined), the total number of events for each subject
+and the percentage of each outcome will be summarized by treatment group on 4 time-
+intervals: Day 150 post dose (on the ITT1), after 150 days post dose (on ITT1 with Day 151
+visit), through 360 days post dose (on ITT1), after 360 days post dose (on ITT1 with Day 361
+visit). In addition, a listing that provides relevant information for subjects with more than one
+medically attended LRTI event throughout the study will be generated. The listing contains
+the following information: Age at randomization stratum, Hemisphere, Total number of
+events, Days post dose, AE verbatim term, Date of AE onset/stop, Days from previous event,
+Visit setting, Protocol-defined (Y/N), RSV (Y/N), and RSV subtype (when applicable). A
+similar listing for subjects with more than one medically attended RSV LRTI event
+(regardless protocol-defined or not) will also be presented.
+Table 2 Definition for New Onset of Events
+Event Description
+A new onset medically attended RSV LRTI will be defined as an adverse event (AE) (for
+New onset
+which at least one healthcare visit is associated with RSV LRTI) and occurs at least 14
+medically attended
+days (and similarly using 30 days) after the resolution date of the previous AE for a
+RSV LRTI
+medically attended RSV LRTI.
+A new onset medically attended RSV LRTI hospitalization will be defined as an AE (for
+New onset RSV
+which at least one hospitalization is associated with RSV LRTI) and occurs at least 14
+LRTI
+days (and similarly using 30 days) after the resolution date of the previous AE for a
+hospitalization
+medically attended RSV LRTI hospitalization.
+New onset A new onset medically attended RSV outpatient LRTI will be defined as an AE (for
+medically attended which at least one healthcare outpatient visit is associated with RSV LRTI) and occurs at
+RSV outpatient least 14 days (and similarly using 30 days) after the resolution date of the previous AE for
+LRTI a medically attended RSV outpatient LRTI.
+New onset
+A new onset medically attended LRTI will be defined as an AE of LRTI that occurs after
+medically attended
+the resolution date of the previous AE for a medically attended LRTI.
+LRTI
+A new onset medically attended LRTI hospitalization will be defined as an AE (with at
+New onset LRTI
+least one hospitalization associated with LRTI) that occurs after the resolution date of the
+hospitalization
+previous AE for a medically attended LRTI hospitalization.
+New onset A new onset medically attended outpatient LRTI will be defined as an AE (with at least
+medically attended one outpatient healthcare visit associated with LRTI) that occurs after the resolution date
+outpatient LRTI of the previous AE for a medically attended outpatient LRTI.
+AEs associated with all medically attended LRTI will be summarized overall, as well as
+categorized by the Medical Dictionary for Regulatory Activities (MedDRA) system organ
+class (SOC) and preferred term (PT). Summaries will be presented through 150 days, after
+CONFIDENTIAL AND PROPRIETARY 29 of 52
+
+[PDF_PAGE 30]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+150 days, through 360 days, and after 360 days post dose on the following populations: ITT1,
+ITT1 with Day 151 visit, ITT1, and ITT1 with Day 361 visit, respectively.
+3.5.4 Additional Efficacy Analyses for the Safety Cohort
+The following descriptive analyses will be conducted on ITT2 and based on observed events,
+unless stated otherwise.
+3.5.4.1 Analyses of Incidence of Medically Attended RSV LRTI
+The incidence of medically attended RSV LRTI (inpatient and outpatient) through 150 days
+post dose will also be summarized by treatment group using ITT2. For subjects with multiple
+medically attended RSV LRTI events, only the first occurrence will be used in the summary.
+In addition, the same analyses of all observed medically attended RSV LRTI events through
+150 days post dose by visit setting as described in Section 3.5.1.4 will be repeated for ITT2.
+The incidence of medically attended RSV LRTI will also be summarized by the subgroups
+and countries as defined in Section 3.5.1.4 for ITT2.
+In addition, the incidence of medically attended RSV LRTI that occurred through 360 days
+post dose and after 360 days post dose will be summarized as described in Section 3.5.1.5 for
+ITT2.
+Age at onset of the first medically attended RSV LRTI through 150 days post dose will be
+summarized as described in Section 3.5.1.5 for ITT2. In addition, time-to-first medically
+attended RSV LRTI will be plotted at subject’s level along the axis of age at birth.
+The incidence of medically attended RSV LRTI by subtype (RSV A, RSV B) will be
+summarized as described in Section 3.5.1.5 for ITT2.
+For multiple medically attended RSV LRTIs, the total number of new onset medically
+attended RSV LRTIs will be summarized as described in Section 3.5.1.5 for ITT2. A listing
+will be generated similarly.
+AEs associated with medically attended RSV LRTI will be summarized overall, as well as
+categorized by MedDRA system organ class (SOC) and preferred term (PT). Summaries will
+be presented as described in Section 3.5.1.5 for ITT2.
+3.5.4.2 Analyses of Incidence of RSV LRTI Hospitalization
+The incidence of RSV hospitalization through 150 post dose days will be summarized by
+treatment group for each cohort as well as for the ITT2. For subjects with multiple RSV LRTI
+hospitalizations, only the first occurrence will be used in the analysis.
+CONFIDENTIAL AND PROPRIETARY 30 of 52
+
+[PDF_PAGE 31]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+For each treatment group, age at onset of the first medically attended RSV LRTI
+hospitalization will be summarized as described in Section 3.5.2.3 for ITT2. In addition, time-
+to-first medically attended RSV LRTI hospitalization will be plotted at subject’s level along
+the axis of age at birth. RSV LRTI hospitalization will also be summarized by RSV subtype
+(A or B).
+The incidence of RSV LRTI hospitalization will also be summarized by subgroups and
+country as described in Section 3.5.2.3 for the ITT2.
+3.5.4.3 Other Efficacy Analyses
+An overall summary of subjects with any medically attended LRTI (protocol-defined or not)
+or hospitalization due to any respiratory illness will be presented by treatment group as
+described in Section 3.5.3 for ITT2.
+Summaries will be presented by treatment group for each of the elements used to evaluate for
+the case definition of medically attended RSV LRTI (Appendix 1) as described in Section
+3.5.3 for ITT2.
+For all medically attended LRTI events, RSV status (positive, negative or not done) will be
+summarized by central RT-PCR or local testing results by treatment group as described in
+Section 3.5.3. In addition, incidence of positive RSV LRTI either by RT-PCR or by local
+testing results will also be summarized by LRTI categories (protocol-defined, non-protocol
+defined) and treatment group as described in Section 3.5.3 for ITT2.
+In addition, for each treatment group, all medically attended LRTI events will be tabulated by
+Inpatient (primary hospitalization, nosocomial hospitalization) and Outpatient as described in
+Section 3.5.3for ITT2.
+All above stated summaries will be presented by through Day 150 post dose (on ITT2), after
+150 days post dose (on ITT2 with Day 151 visit), through 360 days post dose (on the ITT2),
+and after 360 days post dose (on ITT2 with Day 361 visit).
+For all medically attended LRTI (RSV, non-RSV, protocol-defined, non-protocol defined), the
+total number of events for each subject and the percentage of each outcome will be
+summarized by treatment group on 4 time-intervals: Day 150 post dose (on ITT2), after 150
+days post dose (on ITT2 with Day 151 visit), through 360 days post dose (on ITT2), and after
+360 days post dose (on ITT2 with Day 361 visit). In addition, a listing that provides relevant
+information for subjects with more than one medically attended LRTI event throughout the
+study will be generated. The listing contains the information as described in Section 3.5.3.
+AEs associated with all medically attended LRTI will be summarized overall, as well as
+categorized by the Medical Dictionary for Regulatory Activities (MedDRA) system organ
+CONFIDENTIAL AND PROPRIETARY 31 of 52
+
+[PDF_PAGE 32]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+class (SOC) and preferred term (PT). Summaries will be presented through 150 days, after
+150 days, and through 360 days post dose and after 360 days post dose on the following
+populations: ITT2, ITT2 with Day 151 visit, ITT2, ITT2 with Day 361 visit, respectively.
+3.6 Exploratory Analyses
+3.6.1 Healthcare Resource Utilization (HRU)
+The magnitude of Healthcare Resource Utilization (HRU; measured by number of admissions
+to hospitals and duration of stay; number of admissions to the intensive care unit [ICU] and
+duration of stay, number requiring respiratory support [using Continuous Positive Airway
+Pressure (CPAP) or mechanical ventilation] and the duration of use, and the number of
+supplemental oxygen and the duration of use; number of visiting out-patient facilities
+[outpatient ED, urgent care, outpatient clinic]; will be summarized by treatment group and
+reported in 3 time periods: through 150 days post dose (on ITT1), after 150 days post dose (on
+ITT1 with Day 151 visit), and through 360 days post dose (on ITT1).
+Specifically, the following summary tables by treatment group will be used to report the
+magnitudes of overall HRU for all medically-attended LRTI (protocol defined, non-protocol
+defined, RSV, non-RSV).
+! The number and percent of subjects who have had at least one of the following:
+hospitalization, ICU admission, requiring respiratory support, requiring supplemental
+oxygen, or visiting an outpatient facility (for any type of the outpatient facility). Similar
+summaries will also be provided by respiratory support subtype (CPAP or mechanical
+ventilation) and the type of outpatient facility. The percentage will be calculated based on
+ITT1 for time interval through 150 days post dose, on ITT1 with Day 151 visit for time
+interval after 150 days post dose, and on ITT1 for time interval through 360 days post
+dose.
+! For each of the medical activities listed above, the total number of the activity for a
+subject who has had at least one respective event in the reporting time-period will be
+calculated and summarized by treatment group using descriptive statistics (mean, median,
+standard deviation [SD], minimum, and maximum).
+! The total duration of each of the following (in days) will be calculated accumulatively
+throughout the reporting time-period and summarized by descriptive statistics (mean,
+median, SD, minimum, and maximum): hospital stay, ICU stay, use of respiratory
+support, or use of supplemental oxygen for the subjects who has had at least one of the
+corresponding activities.
+Duration of each hospitalization will be calculated from the admission or deterioration date to
+discharge date. If the discharge date is missing because of the reason that the subject died in
+the hospital, the duration of that hospital stay will be calculated by from admission to the
+minimum of {Death Date, End-of-Study Date, Data Cutoff Date at the time of Analysis}.
+CONFIDENTIAL AND PROPRIETARY 32 of 52
+
+[PDF_PAGE 33]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+Total duration of hospitalization is the cumulated days of each hospital stay throughout the
+reporting time-period.
+Similarly, duration of each ICU admission, use of respiratory support, or use of supplemental
+oxygen will be calculated from start date to stop date or the end date, and the total duration of
+each medical intervention for a subject is calculated by summing the duration of all
+occurrences in the time interval of interest.
+In addition to the overall HRU summary, the HRU for medically attended RSV LRTI
+(Protocol-defined), will be summarized through 150 days post dose, after 150 days post dose,
+and through 360 days post dose. The same conventions used for the overall summary (eg,
+patient population included in a specific summary) will be applied for the respective events
+and the HRU must occur during the event being summarized. Only the subjects with protocol-
+defined medically attended RSV LRTI will be included in the summary.
+In addition, the number of pre-specified OTC medication (analgesics/antipyretics) use; the
+number of pre-specified prescription medication (systemic antibacterial agents) use; and the
+number of anti-wheezing medication use will be summarized by treatment group and reported
+through 150 days post dose, except for the analgesics/antipyretics use, which will be
+summarized through one week after dosing. The ATC codes for these medications will be
+provided in a separate file by the medical monitor prior to the DBL for the Primary Analysis.
+The number and percentage of subjects with pre-specified prescription medications (systemic
+antibacterial agents) use through 150 days post dose will be provided. The number of use per
+subject (for those with the medication use) will be summarized through 150 days post dose
+using descriptive statistics (mean, median, SD, minimum, and maximum) by treatment group
+and for all subjects combined.
+The number and percentage of subjects with pre-specified OTC medications
+(analgesics/antipyretics) use within one week after dosing will be provided. The number of
+use per subject (for those with the medication use) will be summarized using descriptive
+statistics (mean, median, SD, minimum, and maximum) by treatment group and for all
+subjects combined. The same summaries will be repeated for subjects with any
+co-administered routine childhood vaccination (J07) within one week of dosing.
+The number and percentage of subjects with anti-wheezing medications use through 150 days
+post dose will be provided. The number of use per subject (for those with the medication use)
+will be summarized through 150 days post dose using descriptive statistics (mean, median,
+SD, minimum, and maximum) by treatment group and for all subjects combined.
+Above summaries will be repeated for ITT2, if data permit.
+CONFIDENTIAL AND PROPRIETARY 33 of 52
+
+[PDF_PAGE 34]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+3.6.2 Caregiver Burden
+Caregiver burden (measured by days of work the caregiver missed, days of
+daycare/babysitting the subject missed) will be summarized for subjects with medically
+attended RSV LRTI (Protocol-defined) by treatment group for subjects who have had at least
+one event in the time-period of reporting. These summaries will be presented through 150
+days post dose, after 150 days post dose, and through 360 days post dose using similar
+reporting convention as described previously.
+For each of the events mentioned above and each time-period of reporting, the accumulated
+total days of work the caregiver missed and the accumulated total days of daycare/babysitting
+the subject missed will be calculated for each subject and presented using descriptive statistics
+(mean, median, SD, minimum, and maximum) by treatment group. For each treatment group,
+the average caregiver burden (ie, the average number of days of work the caregiver missed,
+the average number of days of daycare/babysitting the subject missed) for a respective event
+will be calculated as the total caregiver burden across subjects who has had at least one of the
+events divided by the total number of the events among these subjects in the time interval of
+interest. Similar summary will also be provided by the status of hospitalization (at least one or
+none) that is caused by a respective event mentioned above. The summaries for the caregiver
+burden will be based on ITT1 and ITT2.
+3.6.3 Anti-RSV Neutralizing Antibody
+RSV neutralizing antibody levels afforded by MEDI8897 will be compared to maternal RSV
+neutralizing antibody levels and those elicited following infection in the placebo group. RSV
+exposure as measured by increasing concentrations of serum RSV neutralizing antibody, is
+defined as ≥ 4-fold rise in concentration of serum RSV neutralizing antibody from the
+previous timepoint. A subject shows “evidence of exposure” if this criterion is met for any set
+of consecutive timepoints. The summary will be provided for Placebo at scheduled visits
+when the serum samples were collected. The summary will be cumulative; that is, if subjects
+show exposure in a previous timepoint, they should be included in later timepoints as well. At
+each scheduled timepoint, the denominator will be the number of subjects with a result. The
+exposure will be examined by results based on serum RSV neutralizing antibodies.These
+analyses will be conducted for all subjects, as well as subjects with and without RT-PCR
+confirmed RSV through 360 days post dose.
+Individual MEDI8897 and placebo serum RSV neutralizing antibody levels will be tabulated
+by treatment group along with descriptive statistics. RSV neutralizing antibody levels in
+serum will be summarized by geometric mean concentration and geometric mean-fold rise
+from baseline and corresponding 95% Clopper-Pearson exact CIs of the proportion for each
+treatment group at each visit for all subjects, as well as for subjects with and without RT-PCR
+confirmed RSV through 360 days post dose. In addition, summaries of geometric mean
+CONFIDENTIAL AND PROPRIETARY 34 of 52
+
+[PDF_PAGE 35]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+concentration will also be provided for all subjects combined at baseline. Box plots of RSV
+neutralizing antibody levels in logarithm scale with base 10 will be provided by treatment
+group and by visit.
+Anti-RSV neutralizing antibody level t will be estimated using non-compartmental analysis
+1/2
+(if data permit), and will be reported outside the CSR. The analysis for the RSV neutralizing
+antibody will be based on the overall as-treated population, AT1, and AT2. The analysis based
+on the overall as-treated population will only be conducted at the Final analysis.
+3.6.4 RSV serology
+RSV seroresponses will be evaluated as a measure of “RSV exposure” in the placebo and
+MEDI8897 groups. RSV exposure (defined as ≥ 4-fold rise in serum antibody levels to RSV
+antigens from the previous timepoint) will be examined by results based on anti-RSV pre-F,
+post-F, Ga, Gb, N, or any of these antigens except Pre-F. Similar summary (as described for
+anti-RSV neutralizing antibodies in Section 3.6.3) will be provided by treatment group at
+scheduled visits when the serum samples were collected. As MEDI8897 will interfere with the
+pre-F result, the exposure based on pre-F will not be examined for the MEDI8897 group.
+These analyses will be conducted for all subjects, as well as subjects with and without RT-
+PCR confirmed RSV through 360 days post dose.
+Analysis of serum antibody levels to RSV antigens in MEDI8897 and placebo subjects will be
+summarized by geometric mean concentration and geometric mean-fold rise from baseline for
+each of the anti-RSV antigens (RSV pre-F, post-F, Ga, Gb and N antigens) and corresponding
+95% Clopper-Pearson exact CIs for each treatment group at each visit for all subjects, as well
+as subjects with and without RT-PCR confirmed RSV through 360 days post dose. In
+addition, summaries of geometric mean concentration will also be provided for all subjects
+combined at baseline. Seroresponses in MEDI8897 and placebo subjects will be determined
+by examining the fold-rise in antibodies to pre-F, post-F, Ga, Gb, and N antigens. By
+measuring antibodies to pre-F, post-F, Ga, Gb, and N: 1) baseline maternal antibodies and
+their decay can be measured over time; 2) the exposure to RSV (infection) that results in an
+increase in RSV-specific antibodies for the infants own immune system can be determined.
+Box plots of serum antibody levels to RSV antigens in logarithm scale with base 10 will be
+provided by treatment group and by visit.
+The analysis for RSV serology will be based on the overall as-treated population, AT1, and
+AT2. The analysis based on the overall as-treated population will only be conducted at the
+Final analysis.
+3.6.5 RSV resistance monitoring
+Nasal samples collected from study subjects with RT-PCR confirmed RSV will be subtyped,
+genotyped, and evaluated by genotypic and phenotypic resistance analyses. Genotypic
+CONFIDENTIAL AND PROPRIETARY 35 of 52
+
+[PDF_PAGE 36]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+analyses will report amino acid changes in the mature RSV F protein sequence compared to
+contemporary reference strains. Phenotypic analyses will report changes in susceptibility of
+engineered recombinant RSV variants to MEDI8897 and palivizumab neutralization compared
+to laboratory-derived reference viruses. A detailed description of subjects/samples analyzed,
+sample collection and testing workflow, performance characteristics of assays and
+methodologies, analysis plans, and reporting plans have been included in a separate clinical
+virology analysis plan. The details of genotypic and phenotypic analyses and presentation of
+these data will be included in a separate virology study report.
+3.6.6 Incidence of Medically Attended LRTI Due to RT-PCR-confirmed RSV
+After Day 151 (Between Day 152 and Day 361)
+For summary of this exploratory endpoint, the analysis population will be ITT1 and ITT2, for
+subjects, who remained in the study at the Day 151 visit. For subjects with multiple medically
+attended RSV LRTI events after Day 151, only the first occurrence will be used in the
+summary.
+The incidence of medically attended RSV LRTI that occurred > 150 days (from Day 152 to
+Day 361) post dose will be based on RSV test results (performed centrally via RT-PCR) and
+objective clinical LRTI criteria and will be summarized by treatment group. This endpoint
+will be further summarized by RSV subtype (RSV A, RSV B) and by treatment group. In
+addition, AEs associated with this endpoint will be summarized overall, as well as categorized
+by MedDRA SOC and PT.
+3.7 Safety Analyses
+All safety analyses will be conducted on overall as-treated population, AT1, and AT2.
+3.7.1 Adverse Events and Serious Adverse Events
+Adverse events and serious adverse events will be coded by MedDRA version 22 or higher
+and the type, incidence, severity and relationship to study investigational product will be
+summarized by treatment group. Specific AEs will be counted once for each subject for
+calculating percentages. In addition, the total number of AEs will also be provided. In
+addition, if the same AE occurs multiple times within a particular subject, the highest severity
+and level of relationship observed will be reported. All treatment-emergent AEs (TEAEs) and
+treatment-emergent SAEs (TESAEs) occurring through Day 361 will be summarized overall,
+as well as categorized by MedDRA SOC and PT. In addition, the TEAEs occurring at 1% or
+higher in either treatment group will be reported by PT.
+Nontreatment-emergent AEs/serious adverse events (SAEs), defined as AEs/SAEs that occur
+prior to the administration of investigational product or after Day 361, will be presented in the
+listings.
+CONFIDENTIAL AND PROPRIETARY 36 of 52
+
+[PDF_PAGE 37]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+3.7.2 Adverse Events of Special Interest
+Adverse events of special interest (AESI) will include targeted AEs of anaphylaxis and other
+serious hypersensitivity reactions including immune complex disease and AEs of
+thrombocytopenia. The number and percentage of subjects with AESIs will be summarized by
+treatment group and by SOC and PT.
+Of note, investigators have been requested to identify the AESI in reporting. The primary
+interpretation of data will be made upon those events with investigator assessment. In
+addition, a supplementary analysis is conducted which runs the narrow Standardised
+MedDRA Queries (SMQs) for hypersensitivity, the narrow and broad SMQS for anaphylactic
+reactions, and a study specific query based on compatible PTs for thrombocytopenia and
+immune complex disease occurring in the database. Narrow hypersensitivity SMQs include
+some PTs of immune complex disease. These SMQs and PTs will be provided by the medical
+monitor in a separate document before DBL for Primary Analysis.
+3.7.3 Skin and Hypersensitivity Reactions
+The number and percentage of subjects with any skin reactions (including skin
+hypersensitivity reactions) which are reported on the dedicated eCRF page and judged to be
+related to IP by the investigator will be summarized by treatment group and by SOC and PT.
+3.7.4 New Onset Chronic Disease
+New onset chronic diseases include, but are not limited to diabetes, autoimmune disease (eg,
+lupus, rheumatoid arthritis), and neurological disease (eg, epilepsy) and the type, incidence,
+and relationship to study investigational product will be summarized by treatment group and
+by SOC and PT based on MedDRA.
+3.7.5 Subgroup Analyses
+All AEs (including TEAEs, TESAEs, AESIs, IP-related skin reactions [including skin
+hypersensitivity reactions], NOCDs) will be summarized by age group used as randomization
+stratum (age ≤ 3.0 months, age > 3.0 to ≤ 6.0 months, age > 6.0 months), and weight on Day 1
+(weight < 2.5kg, weight ≥ 2.5 kg and < 5 kg, weight ≥ 5 kg). TEAEs, AESIs, IP-related skin
+reactions (including skin hypersensitivity reactions), and NOCDs will also be summarized by
+timing relative to dosing (‘within 1 day,’ ‘within 3 days’, ‘within 7 days’, ‘within 14 days’). In
+addition, TEAEs occurring within 1 day, 3 days, 7 days, and 14 days post dose by age group
+at randomization stratum (≤ 3.0 months, > 3.0 to ≤ 6.0 months, > 6.0 months), weight on Day
+1 (weight < 2.5kg, weight ≥ 2.5 kg and < 5 kg, weight ≥ 5 kg) will also be summarized.
+3.7.6 Clinical Laboratory Parameters
+Laboratory parameters (collected for Japanese subjects only) will be summarized at each visit
+by treatment group. Frequencies of worst observed Grade 3-4 toxicity, as defined by the
+CONFIDENTIAL AND PROPRIETARY 37 of 52
+
+[PDF_PAGE 38]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+Division of AIDS (DAIDS) Table for Grading the Severity of Adult and Pediatric Adverse
+Events (available at https://rsc.niaid.nih.gov/clinical-research-sites/daids-adverse-event-
+grading-tables), will be presented for each laboratory parameter below by treatment group:
+- CBC: hemoglobin, platelets
+- WBC with differential: white blood cell count
+- Liver function: bilirubin, AST/ALT
+- Chemistry – general: creatinine.
+Also, laboratory parameters will be assessed by presenting tables containing information
+associated with 2-grade (or greater) laboratory shifts from baseline. All other serum chemistry
+and hematology parameters not listed above will be presented in the data listings.
+For laboratory values reported as lower than the lower limit of quantification (LLOQ), a value
+equal to half of the limit of quantification will be imputed in the summaries. However,
+< LLOQ will be reported in the listings.
+3.7.7 Other Safety Evaluations
+Additional data collected throughout the study include screen failure data, significant findings
+in medical history and physical exam, vital signs, and concomitant medications through Day
+361.
+Medical history findings and those that are ongoing at the time of signed informed consent
+will be summarized by treatment group and for all subjects combined using the overall ITT
+population, ITT1 and ITT2. Data listings will be provided for these data.
+In addition, vaccines exposure, including the number of subjects receiving vaccine dose of the
+six pre-specified vaccine groups (Tuberculosis vaccine; Influenza vaccine;
+Measles/Mumps/Rubella/Varicella; Rotavirus vaccine; Polyvalent diphtheria-poliomyelitis-
+tetanus containing vaccine, Pneumococcal vaccine) and the total number of vaccine doses
+received within ±7 days of IP dosing, will be summarized for each vaccine group. The
+summaries will be conducted by treatment group and for all subjects combined using the
+overall as-treated population, AT1 and AT2. The same summary will be repeated within ±14
+days of IP dosing for the overall as-treated population, AT1 and AT2, and on the same day of
+IP dosing for AT2 only.
+For subjects with co-administered vaccines doses (on the same day, within ±7 days or ±14
+days of IP dosing), TEAEs that occur within 7 or 28 days following vaccine administration
+will be summarized by SOC and PT and by treatment group. The percentage will be
+CONFIDENTIAL AND PROPRIETARY 38 of 52
+
+[PDF_PAGE 39]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+calculated using subjects who received co-administered vaccine doses (on the same day,
+within ±7 days or ±14 days of IP dosing) as the denominator. These summaries will be
+provided for each of the six pre-specified vaccine groups individually. These summaries will
+only be conducted on AT2. The ATC codes for these vaccines will be provided in a separate
+file by the medical monitor prior to the DBL for the Primary Analysis.
+Subjects flagged as having wheeze during their respiratory illness assessment after Day 361
+will be listed.
+Upon review of the listings, additional summary tables may be generated as appropriate.
+3.8 Anti-drug Antibodies
+The number and percentage of subjects who develop anti-MEDI8897 antibodies will be
+summarized at each visit by treatment group on the overall as-treated population, AT1 and
+AT2. For those with a positive assessment, the ADA titer results will also be summarized. The
+number and percentage of ADA positive samples with specificity to the YTE or RSV-
+neutralizing regions of MEDI8897 will also be summarized.
+An additional table will summarize the number and percentage of subjects positive for ADA
+at baseline and positive at any post-baseline time point. The percentage who were persistent
+positive and transient positive will also be presented.
+1 Persistent positive is defined as negative at baseline and positive at ≥ 2 post-baseline
+assessments (with ≥ 16 weeks between first and last positive) or positive at last post-
+baseline assessment
+2 Transient positive is defined as negative at baseline and at the last one post-baseline
+assessment, and positive at only ≥ 1 post-baseline assessment and not fulfilling the
+conditions for persistent positive.
+To evaluate the impact of ADA on efficacy and safety, the primary and the secondary efficacy
+endpoints, as well as TEAE and SAE by SOC and PT based on MedDRA will be summarized
+by ADA post-baseline status (ie, at least one post-baseline ADA positive or not through 360
+days post dose). The primary and secondary efficacy endpoints will also be summarized by
+ADA post-baseline status through 150 days post dose. The safety summaries will be based on
+overall as-treated population, AT1, and AT2. The efficacy summaries will be based on ITT1
+and ITT2.
+The impact of ADA on PK will be evaluated as described in Section 3.9.
+CONFIDENTIAL AND PROPRIETARY 39 of 52
+
+[PDF_PAGE 40]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+3.9 Pharmacokinetics
+Individual MEDI8897 serum concentrations for each nominal sampling time will be listed and
+summary descriptive statistics will be presented and plotted versus time. Individual
+MEDI8897 serum concentrations will be graphically illustrated, and summarized, by ADA
+status. The PK summaries will be based on the as-treated population.
+Further, model-based evaluation of PK will be detailed in a separate PK analysis plan and
+reported outside the CSR.
+3.10 Impact on Analyses due to COVID-19 Pandemic
+The COVID-19 pandemic has posed challenges in study conduction (including performing
+scheduled visits, and sample collections etc.).
+Efforts are ongoing to collect outstanding data via alternative means where possible, when on-
+site visits cannot be performed. The following analyses have been added to assess the impact
+of the pandemic:
+! Three sensitivity analyses of primary endpoint will be conducted for ITT1. Details are
+described in Section 3.10.1.
+! Protocol deviations, including sample collections or visits missed due to COVID-19
+related protocol deviations will be described separately in the CSR. These deviations will
+be identifiable in the database with a ‘COVID’ prefix. This summary will be repeated for
+ITT1 and ITT2.
+! Confirmed or suspected cases of COVID-19 will be summarized and included as AEs as
+appropriate. This summary will be repeated for the overall as-treated population, AT1, and
+AT2.
+3.10.1 Sensitivity Analyses
+Sensitivity analyses 1 and 2 are to assess the robustness of the primary efficacy by exploring
+different estimands in handling the intercurrent events, defined as COVID-19 related protocol
+deviations or disruptions which occurs prior to having met the primary efficacy endpoint (and
+prior to Day 151).
+- For sensitivity analysis 1, intercurrent events will be handled using principal stratum
+strategy. That is, subjects with intercurrent events will be excluded from the analysis.
+The remaining subjects will be analyzed using the same primary analysis model as
+described in Section 3.5.1.2.
+CONFIDENTIAL AND PROPRIETARY 40 of 52
+
+[PDF_PAGE 41]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+- For sensitivity analysis 2, intercurrent events will be handled using hypothetical
+strategy. That is, for subjects with intercurrent events, their event status will be
+imputed using the standard multiple imputation approach (based on the observed event
+rate per treatment group). Other than that, the analysis will be conducted using the
+same primary analysis model as described in Section 3.5.1.2.
+Sensitivity analysis 3 is to employ all available positive RT-PCR results (regardless from local
+or central lab) considering the challenge of obtaining nasal sample for central lab RT-PCR
+during the pandemic. More specifically, for subjects with intercurrent events, central lab
+RT-PCR results or local lab results (only if central lab results are not available) obtained after
+intercurrent events will be evaluated to determine RSV status (subjects will be considered
+RSV positive with either local or central lab positive RT-PCR result using the same analysis
+window as described in Section 3.5.1.1). Other than that, the analysis will be conducted using
+the same analysis model as described in Section 3.5.1.2.
+4 REFERENCES
+Paramore LC, Mahadevia PJ, Piedra PA. Outpatient RSV lower respiratory infections among
+high-risk infants and other pediatric populations. Pediatr Pulmonol. 2010;45(6):578-84.
+Zou, G. A Modified Poisson Regression Approach to Prospective Studies with Binary Data.
+Am J Epidemiol 2004; 159:702–706.
+Little, R. J. A. and Rubin, D. B. Statistical Analysis with Missing Data, 2nd Edition, Hoboken,
+NJ: John Wiley & Sons 2002; 257.
+O'Brien KL, Chandran A, Weatherholtz R, Jafri HS, Griffin MP, Bellamy T, et al. Respiratory
+Syncytial Virus Prevention study group. Efficacy of motavizumab for the prevention of
+respiratory syncytial virus disease in healthy Native American infants: a phase 3 randomized
+double-blind placebo-controlled trial. Lancet Infect Dis. 2015;15(12):1398-408.
+Breslow NE, Day NE. Statistical methods in cancer research. Volume II -- the design and
+analysis of cohort studies. IARC Sci Publ. 1987; (82):1-406.
+O'Kelly, M, Bohdana, R. Clinical trials with missing data: A guide for practitioners. John
+Wiley & Sons, 2014.
+Wilson, EB, Hilferty, MM. (1931). The distribution of chi-square. Proceedings of the National
+Academy of Sciences of the United States of America, 17, 684-688.
+U.S. Department of Health and Human Services, National Institutes of Health, National
+Institute of Allergy and Infectious Diseases, Division of AIDS. Division of AIDS (DAIDS)
+Table for Grading the Severity of Adult and Pediatric Adverse Events, Corrected Version 2.1.
+[July 2017].
+CONFIDENTIAL AND PROPRIETARY 41 of 52
+
+[PDF_PAGE 42]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+CONFIDENTIAL AND PROPRIETARY 42 of 52
+
+[PDF_PAGE 43]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+5 VERSION HISTORY
+Version Date Description of Change
+1.0 22JUL2019 Initial version
+2.0 29Jan2021 •
+Editorial changes for clarification.
+•
+Section 2.2 Study Design: added description of the primary
+and safety cohorts.
+•
+Section 2.4 Sample Size: updated study power based on the
+sample size of the primary cohort, on which the primary
+efficacy analysis will be based.
+•
+Section 3.1 Generation Considerations: updated planned
+analyses to Primary Analysis, Safety Analysis and Final
+Analysis; added description of the planned analyses; added
+general description of unblinding strategy; added visit
+window definitions.
+•
+Section 3.2 Study Cohorts, Analysis Populations and
+Datasets: added “Study Cohorts” in the section name; added
+definitions of study cohorts; added the definitions ITT1,
+ITT2, AT1 and AT2 in Table 1 Analysis Populations;
+modified the definition of the primary dataset and final
+dataset, and added the definition of the safety dataset.
+•
+Added section 3.4.4 Violations and Deviations
+•
+Section 3.5.1.2 Primary Efficacy Analysis: provided the
+rational of using a reduced model when evaluating the
+primary endpoint. Dropped hemisphere from the analysis
+model.
+•
+Section 3.5.1.2 Secondary Analyse of the Primary Efficacy
+Endpoint: dropped hemisphere from the analysis model.
+•
+Section 3.5.1.4 Supplementary Analyses of the Primary
+Efficacy Endpoint: added stratified proportional hazard model
+to generate hazard ratio and the corresponding 95%
+CONFIDENTIAL AND PROPRIETARY 43 of 52
+
+[PDF_PAGE 44]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+confidence interval in Kaplan-Meier Analysis. Dropped
+hemisphere from the analysis model. Used the standard SAS
+procedure PROC GENMOD with the EXACT statement
+(rather than StatXact PROC Poisson procedure) in
+implementing the exact conditional method. Updated
+subgroup “weight at birth (weight ≤ 2.5 kg, weight > 2.5 kg to
+< 5 kg, weight ≥ 5 kg)” to “weight at birth (weight ≤ 2.5 kg,
+weight > 2.5 kg)”
+•
+Section 3.5.3 Other Efficacy Analyses: in the first paragraph,
+the summary for subjects who were hospitalized due to any
+respiratory illness, non-LRTI cases, with at least one
+medically attended LRTI event will only be categorized by
+RSV, non-RSV, hospitalization, outpatient only.
+Categorization by protocol-defined and non-protocol defined
+were removed.
+•
+Added section 3.5.4 Additional Efficacy Analyses for the
+Safety Cohort. Added descriptive summaries for the safety
+cohort.
+•
+Section 3.6.5 RSV resistance monitoring: revised the RSV
+resistance monitoring language to improve clarify and to align
+with clinical virology analysis plan
+•
+Section 3.7 Safety Analyses: updated safety summaries by as-
+treated subjects from the primary and safety cohorts, and the
+overall as-treated subjects.
+•
+Added age at randomization category by ≤ 8 months or > 8
+months as a subgroup in Section 3.4.2 Demographics and
+Baseline Characteristics, and for all AEs summaries in section
+3.7.5 Subgroup Analyses
+•
+Section 3.7.6 Clinical Laboratory Parameters: removed
+summary for BUN.
+•
+Added section 3.10 Impacted on Analyses due to COVID-19
+Pandemic
+CONFIDENTIAL AND PROPRIETARY 44 of 52
+
+[PDF_PAGE 45]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+•
+Appendix 2: added analysis window for ADA/RSV
+Neutralizing Antibody/RSV Serology.
+•
+Appendix 3: added analysis window for clinical lab data.
+3.0 11Apr2021 •
+Editorial change for clarity, including updating “3 months”,
+“6 months” to “3.0 months” , “6.0 months”, respectively.
+•
+Section 3.1 General Considerations: clarified that all efficacy,
+PK, ADA and safety data collected for the primary cohort will
+be analyzed through Day 361, and data collected after Day
+361 will only be listed at Primary Analysis; similarly, data
+collected after Day 361 for safety cohort will only be listed at
+the time of the Safety Analysis.
+•
+Section 3.4.2 Demographics and Baseline Characteristics:
+updated age at randomization category from ≤ 8.0 months
+or > 8.0 months, to < 9.0 months or ≥9.0 months.
+•
+Section 3.4.4 Violations and Deviations: updated criteria for
+IPDs and added criteria for serious PDs.
+•
+Section 3.5.1.1 Primary Efficacy Endpoint: defined a RSV
+sample analysis window [-7, 14] days for medically attended
+RSV LRTI based on blinded data review.
+•
+Section 3.5.2.3 Supplementary Analyses of the Secondary
+Efficacy Endpoint Point: added hazard ratio and the
+corresponding 95% CI for time-to-first RSV LRTI
+hospitalization analysis.
+•
+Section 3.5.3 Other Efficacy Analyses: clarified rules to
+define severity among multiple LRTI events, and among
+multiple hospitalizations due to any respiratory illness,
+separately; added a bar plot for incidence of all medically
+attended LRTI regardless of severity through 150 days post
+dose; updated summaries for case definition elements to
+subjects who have at least one medically attended RSV LRIT
+(protocol-defined).
+CONFIDENTIAL AND PROPRIETARY 45 of 52
+
+[PDF_PAGE 46]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+•
+Section 3.6.1 Healthcare Resource Utilization (HRU):
+updated summaries for pre-specified prescription (systemic
+antibacterial agents) and over the counter medications
+(analgesics/antipyretics); added summaries for anti-wheezing
+medication use; removed medically attended non-RSV LRTI
+(protocol-defined), medically attended RSV LRTI (non-
+protocol defined), and medically attended non-RSV LRTI
+(non-protocol defined) from the HRU summaries.
+•
+Section 3.6.2 Caregiver Burden: removed medically attended
+non-RSV LRTI (protocol-defined), medically attended RSV
+LRTI (non-protocol defined), and medically attended non-
+RSV LRTI (non-protocol defined) from the caregiver burden
+summaries.
+•
+Section 3.6.3 Anti-RSV Neutralizing Antibody and Section
+3.6.4 RSV Serology: added definition for RSV exposure and
+summaries for RSV exposure; added summaries of RSV
+exposure, geometric mean concentration, and geometric mean
+fold-rise for subjects with and without central RT-PCR
+positive results through 360 days post dose; added box plot
+for serum antibody levels for all subjects by treatment group
+and by visit. Clarified that the analysis based on overall as-
+treated population will only be conducted during Final
+Analysis.
+•
+Section 3.7.2 Adverse Events of Special Interest: modified
+wording in summarizing AESIs; added summaries of AESIs
+based on SMQs and selected MedDRA preferred terms codes.
+•
+Section 3.7.3 Skin and Hypersensitivity Reactions: updated
+the wording to summarize IP-related skin reactions only.
+•
+Section 3.7.5 Subgroup Analyses: modified wording for
+clarification; added “within 3 days” as timing relative to
+dosing; removed summaries by age at randomization group ≤
+8.0 months or > 8.0 months; added additional summaries
+examining dose relative to dosing combined with other
+subgroups of interest.
+CONFIDENTIAL AND PROPRIETARY 46 of 52
+
+[PDF_PAGE 47]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+•
+Section 3.7.7 Other Safety Evaluation: added summaries for
+medical history findings (overall and ongoing); added
+summaries for vaccines exposure; added summaries for
+treatment-emergent adverse events onset within 7 or 28 days
+post co-administered vaccine doses (within ±7 days or ±14
+days of IP dosing).
+•
+Section 3.8 Anti-drug Antibodies: modified the definition of
+persistent positive and transient positive.
+•
+Section 3.9, serum concentrations and ADA influence on PK
+will be summarized within the CSR (not in PK report).
+Removed reference to PK parameters as PK will be evaluated
+using a model-based approach (described and reported outside
+the CSR). This change has been made prior to DBL for
+Primary Analysis.
+•
+Added Appendix 4 Imputation Rule of Partial Dates
+CONFIDENTIAL AND PROPRIETARY 47 of 52
+
+[PDF_PAGE 48]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+Appendix 1 Elements to Evaluate for Case Definition of Medically
+Attended RSV LRTI (Protocol defined)
+Specificity Sensitivity Medical Significance
+RSV Confirmed: Documented PE findings Objective measures of clinical
+• Positive by central laboratory localizing to lower respiratory severity:
+RT-PCR assay tract: • Increased respiratory rate
+• Rhonchi • Hypoxemia
+• Rales • Acute hypoxic or ventilatory
+• Crackles failure
+• Wheeze • New onset apnea
+• Nasal flaring
+• Retractions
+• Grunting
+• Dehydration due to
+respiratory distress requiring
+IV hydration
+LRTI = lower respiratory tract infection; PE = physical examination; RSV = respiratory syncytial virus; RT-PCR
+= real time reverse transcriptase-polymerase chain reaction;
+Note: One item from each column is required to meet the case definition of RSV LRTI.
+CONFIDENTIAL AND PROPRIETARY 48 of 52
+
+[PDF_PAGE 49]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+Appendix 2 Analysis Window for ADA/RSV Neutralizing Antibody/RSV
+Serology
+Protocol Scheduled Study Day Analysis Windows
+Global/Japan Day 1 ≤ 1
+Global/Japan Day 31 2 - 91
+Global/Japan Day 151 92 - 255
+Global/Japan Day 361 ≥ 256
+EU Day 1 ≤ 1
+EU Day 151 2 - 255
+EU Day 361 ≥ 256
+CONFIDENTIAL AND PROPRIETARY 49 of 52
+
+[PDF_PAGE 50]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+Appendix 3 Analysis Window for Clinical Lab Data
+Protocol Scheduled Study Day Analysis Windows
+Japan Day 1 ≤ 1
+Japan Day 8 2 - 20
+Japan Day 31 21 - 91
+Japan Day 151 ≥ 92
+CONFIDENTIAL AND PROPRIETARY 50 of 52
+
+[PDF_PAGE 51]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+Appendix 4 Imputation Rule for Partial Dates
+If only a partial date is available is required for imputation, the following rules will be applied.
+General Imputation Rule for Partial Date
+• Partial dates where only the year is known:
+- For start dates assume January 1st.
+- For stop dates assume December 31st.
+• Partial dates where only the month and year are known:
+- For start dates assume the first of the month.
+- For stop dates assume the end of the month.
+Imputation Rule for Partial AE Start Date
+•
+When AE range is available:
+Step 1: For partial AE start dates, regardless if only the year is known, or only the
+month and year are known, first use the following rule to impute an AE start date:
+- Assume (dose date + 1 day) if AE started <= 7 days after dosing;
+- Assume (dose date + 7 days) if AE started 8 - 14 days after dosing;
+- Assume (dose date + 14 days) if AE started >14 days after dosing.
+Step 2: After getting an imputed AE start date from Step 1, compare the imputed AE
+start date with the partial AE start date:
+- If partial AE start date where only the year is known:
+o If the year of partial AE start date is the same as imputed AE start date
+from Step 1, then use imputed AE start date from Step 1;
+o If the year of partial AE start date is different from the year of imputed
+AE start date from Step 1, assume partial AE start date as January 1st;
+o If the imputed AE start date is after AE end date, then set AE start date
+the same as AE end date.
+- If partial AE start date where only the year and month are known:
+o If the year and month of partial AE start date are the same as imputed AE
+start date from Step 1, then use imputed AE start date from Step 1;
+o Otherwise, assume partial AE start date as the first day of the month.
+o If the imputed AE start date is after AE end date, then set AE start date
+the same as AE end date.
+•
+When AE range is not available, for any treatment-emergent AEs,
+- If partial AE start date where only the year is known,
+o If the same year as dosing date, and if AE does not occur on the same
+day of dosing, then AE start date is one day after dosing date; otherwise,
+AE start date is the same as dosing date.
+o If different year from dosing date, assume January 1st.
+- If partial AE start date where only the year and month are known,
+o If the same year and month as dosing date, and if AE does not occur on
+the same day of dosing, then AE start date is one day after dosing date;
+otherwise, AE start date is the same as dosing date.
+o Otherwise, assume the first day of that month.
+CONFIDENTIAL AND PROPRIETARY 51 of 52
+
+[PDF_PAGE 52]
+
+MedImmune Statistical Analysis Plan for Protocol D5290C00004
+MEDI8897 11 Apr 2021; Final v3.0
+Imputation Rule for Partial Concomitant Medications Dates
+• If a ConMed is not associated with an AE:
+- Apply the general imputation rule wherever fits.
+• If a ConMed is associated with an AE:
+- The ConMed start date will be imputed with either observed or imputed AE start
+date. If there are multiple associated AEs, the earliest AE start date either observed
+or imputed will be used for imputation.
+- The ConMed end date will be imputed by the general imputation rule for end date
+whenever fits.
+CONFIDENTIAL AND PROPRIETARY 52 of 52
+
+[PDF_PAGE 53]
+
+SIGNATURE PAGE
+This is a representation of an electronic record that was signed
+electronically and this page is the manifestation of the electronic signature
+Document Name: d5290c00004-sap-ed-3
+Document Title: Statistical Analysis Plan Edition 3
+Document ID: Doc ID-004073683
+Version Label: 5.0 CURRENT LATEST APPROVED
+Server Date
+Signed by Meaning of Signature
+(dd-MMM-yyyy HH:mm ‘UTC’Z)
+13-Apr-2021 16:18 UTC Author Approval
+13-Apr-2021 16:21 UTC Content Approval
+Notes: (1) Document details as stored in ANGEL, an AstraZeneca document management system.

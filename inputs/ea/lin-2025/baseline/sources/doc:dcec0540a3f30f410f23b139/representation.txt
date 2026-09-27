@@ -1,0 +1,554 @@
+[DOCLING_PAGE 1]
+
+Brain Imaging
+
+1696
+
+This copy is for personal use only. To order printed copies, contact reprints@rsna.org
+
+Imaging-based Selection for Endovascular Treatment in Stroke
+
+Kambiz Nael, MD Yu Sakai, BA Pooja Khatri, MD, MSc Charles J. Prestigiacomo, MD Josep Puig, MD, PhD Achala V agal, MD, MS
+
+Abbreviations: AHA = American Heart Association, AIS = acute ischemic stroke, ASA = American Stroke Association, ASPECTS = Alberta Stroke Program Early CT Score, CBF = cerebral blood flow, DWI = diffusion-weighted imaging, EVT = endovascular treatment, LVO = large-vessel occlusion, MCA = middle cerebral artery, MIP = maximum intensity projection, NIHSS = National Institutes of Health Stroke Scale, TICI = Thrombolysis in Cerebral Infarction, T max = time to maximum
+
+RadioGraphics 2019; 39:1696-1713
+
+https://doi.org/10.1148/rg.2019190030
+
+Content Codes:
+
+From the Neuroimaging Advanced and Exploratory Laboratory, Department of Radiology, Icahn School of Medicine at Mount Sinai, One Gustave L. Levy Place, Box 1234, New Y ork, NY 10029 (K.N., Y.S.); Departments of Neurology (P.K.), Neurosurgery (C.J.P.), and Radiology (A.V.), University of Cincinnati Medical Center, Cincinnati, Ohio; and Department of Radiology, University of Manitoba, Winnipeg, MB, Canada (J.P .). Presented as an education exhibit at the 2018 RSNA Annual Meeting. Received February 28, 2019; revision requested June 13 and received July 9; accepted July 25. For this journalbased SA-CME activity, the authors K.N., P.K., and A.V. have provided disclosures (see end of article); all other authors, the editor, and the reviewers have disclosed no relevant relationships. Address correspondence to K.N. (e-mail: Kambiznael@gmail.com ).
+
+See discussion on this article by Leslie-Mazwi (pp 1714-1716).
+
+© RSNA, 2019
+
+SA-CME Learning Objectives
+
+After completing this journal-based SA-CME activity, participants will be able to:
+
+■ ■ Describe the imaging paradigms for patient selection for EVT of AIS according to the recent AHA-ASA guidelines.
+
+■ ■ List imaging criteria used for EVT selection in patients with AIS who pre­ sent in the early (<6 hours) or late (6-24 hours) window.
+
+■ ■ Discuss subgroups of patients with AIS in whom there currently is not sufficient evidence for performance of EVT.
+
+See rsna.org/learning-center-rg.
+
+Treatment of acute ischemic stroke (AIS) has evolved significantly in the past few years. Endovascular treatment (EVT) is now proved to be efficacious up to 24 hours from onset in properly selected patients. The recently updated 2018 American Heart AssociationAmerican Stroke Association guidelines reflect the important role of imaging in triage and patient selection for EVT of AIS. Pretreatment imaging in patients with acute stroke should (a) allow assessment for intracranial hemorrhage and demonstrate (b) the extent of early ischemic changes, (c) the presence of large arterial occlusion, and (d) in some cases potential salvageable tissue before the decision to proceed with EVT. The authors review how multimodality imaging can be used for EVT selection in the context of the recent guidelines. They highlight the importance of having streamlined imaging workflows that are integrated with clinical decision making to maximize treatment efficiency. Knowledge of the various imaging criteria including perfusion imaging used for EVT selection is highlighted. The authors discuss variable imaging paradigms used for selection of patients in the early and late windows (who present before vs after 6 hours from onset of symptoms), as reflected in the latest guidelines and in relation to their level of evidence. Finally, they focus on challenges in the subgroups of patients who were excluded from recent EVT trials and with limited evidence to prove the efficacy of EVT, such as patients with low NIHSS (National Institutes of Health Stroke Scale) score, distal occlusion, or large ischemic core.
+
+© RSNA, 2019 · radiographics.rsna.org
+
+Introduction
+
+Endovascular treatment (EVT) is now established as a potent treatment option for patients with acute ischemic stroke (AIS) with large-vessel occlusion (LVO) involving the anterior circulation. In 2015, six randomized trials-MR CLEAN (1), ESCAPE (2), REVASCAT (3), SWIFT PRIME (4), EXTEND-IA (5), and THRACE (6)-revolutionized acute stroke care by demonstrating that EVT is an effective treatment for patients with AIS and LVO in the 'early window' (ie, within 6 hours from symptom onset). In 2018, two additional successful trials-DAWN (7) and DEFUSE 3 (8)-extended EVT into the 'late window' (ie, up to 24 hours from symptom onset) (Table). The overwhelmingly positive results of these trials have led to changes in treatment guidelines and widespread adoption of EVT (9).
+
+Although trials varied in eligibility criteria, such as time of symptom onset, prestroke level of functioning, and clinical severity of stroke symptoms, all the trials had a clear focus on fast, effective, and safe reperfusion in AIS patients selected with well-integrated imaging strategies. Use of multimodal imaging for patient selection and triage was a critical component, thereby placing imaging data in the center of treatment decisions.
+
+[DOCLING_PAGE 2]
+
+RG · Volume 39 Number 6
+
+Nael et al 1697
+
+Teaching Points
+
+■ ■ The ultimate goal of neuroimaging in patients with AIS is to optimize patient selection for safe and efficient EVT. The value of imaging is directly dependent on whether the information gained is worth the time spent, given the time sensitivity of reperfusion therapies for efficacy.
+
+■ ■ In patients with suspected anterior circulation LVO of less than 6 hours, nonenhanced CT and CT angiography can provide sufficient imaging information to determine EVT candidacy.
+
+■ ■ In late-window patients with LVO presenting 6-24 hours after symptom onset or with unknown stroke onset, perfusion imaging provides additional information about the predicted core, salvageable penumbra, and mismatch to select patients who are more likely to benefit from treatment at later times from onset.The success of the late-window DAWN and DEFUSE 3 trials has catapulted perfusion imaging into routine clinical practice.
+
+■ ■ Another imaging parameter that can be used in patient selection is collateral circulation. A growing body of literature suggests that collateral status allows prediction of tissue outcome. The role of collateral flow in treatment selection may be most relevant in the extended window to distinguish ischemia with fast versus slow progression to irreversibility.
+
+■ ■ In the era of endovascular therapy, advanced imaging plays a critical role in selection of patients with AIS for treatment. Consistent with current guidelines, nonenhanced CT and CT angiography are likely sufficient for EVT selection in the early window (<6 hours). For the late window (6-24 hours), additional perfusion imaging (perfusion CT or DWI and perfusion MRI) is helpful to assess the ischemic core-and possibly the penumbra and mismatch-for treatment decision making. Subgroups of patients remain for whom evidence is lacking about optimal treatment, including those with low NIHSS score, large ischemic core, or distal occlusion. Regardless of the imaging modalities and strategies at individual institutions, efficient imaging workflow must be established to provide faster treatment.
+
+In this article, we summarize the imaging modalities available for AIS patients with a focus on the updated 2018 American Heart Association (AHA)-American Stroke Association (ASA) guidelines. We also discuss how available imaging strategies can guide treatment selection in the new era of EVT. All physicians involved in management of stroke patients (radiologists, neurologists, emergency physicians, and neurointerventionalists) need to be familiar with the most recent guidelines and understand how to use imaging for treatment selection in patients with AIS.
+
+Neuroimaging
+
+Neuroimaging for acute stroke encompasses parenchymal imaging to assess the ischemic changes and the presence of intracranial hemorrhage, vascular imaging to assess the patency of major arterial branches of the neck and brain, and perfusion imaging to assess salvageable brain. A wide variety of imaging techniques-CT or MRI based-are available to assess eligibility for EVT. Important considerations for the choice of technique include level of clinical evidence for its use in patient selection, constraints of time and cost, ease of access and availability, and institutional preference. The ultimate goal of neuroimaging in patients with AIS is to optimize patient selection for safe and efficient EVT. The value of imaging is directly dependent on whether the information gained is worth the time spent (10), given the time sensitivity of reperfusion therapies for efficacy.
+
+Computed Tomography
+
+Since earlier treatment leads to greater benefit (11,12), the AHA recommended that initial brain imaging be performed within 20 minutes of arrival in the emergency department in at least 50% of patients who may be candidates for thrombolysis or thrombectomy (9). A multimodal CT-based workup (13,14) consists of nonenhanced CT to rule out intracranial hemorrhage and depict early ischemic changes, CT angiography to detect LVO, and perfusion CT to assess the ischemic core and penumbra.
+
+For determination of the extent of early ischemic changes at nonenhanced CT, the Alberta Stroke Program Early CT Score (ASPECTS) is commonly used (www.aspectsinstroke.com) . The ASPECTS scale uses a 10-point negative ordinal scoring system for the middle cerebral artery (MCA) territory, with a score of 10 indicating a normal result and with one point subtracted for each abnormal region (15). Despite successful application of ASPECTS in several clinical trials, there remains some concern about interobserver variability even for experienced neuroradiologists (16-18).
+
+In potential candidates for EVT, a noninvasive vascular study of intracranial circulation (level Ia) and extracranial arteries (level IIa) is recommended during the initial imaging evaluation (9). CT angiography was used as the primary vascular imaging method in the recent endovascular trials to identify LVO as the target for EVT (19). Also, CT angiography provides useful additional information about the aortic arch anatomy, tortuosity of the supra-aortic arteries, and the possibility of tandem proximal stenosis to facilitate treatment planning and achieve safer and faster reperfusion in patients with acute stroke (20).
+
+Finally, perfusion CT can be performed to assess the extent of the penumbra and also the ischemic core. The perfusion CT maps can be visually evaluated for subjective assessment of the ischemic core (ie, severe decrease in cerebral blood volume [CBV]) (21,22) and operational penumbra (eg, CBV-MTT [mean transit time] mismatch) (20,23). To provide more objective assessment of the ischemic core and penumbra and reduce observer variability, several investigators Note.-ADC = apparent diffusion coefficient, ASPECTS = Alberta Stroke Program Early CT Score, CBF = cerebral blood flow, CBV = cerebral blood volume, CTA = CT angiography, MCA = middle cerebral artery, MRA = MR angiography, NIHSS = National Institutes of Health Stroke Scale, SI = source image, T max = time to maximum.
+
+[DOCLING_PAGE 3]
+
+1698 October Special Issue 2019
+
+radiographics.rsna.org
+
+[DOCLING_TABLE rows=10 columns=6]
+| Enrollment and Imaging Criteria Used in Eight Trials of EVT for AIS | Enrollment and Imaging Criteria Used in Eight Trials of EVT for AIS | Enrollment and Imaging Criteria Used in Eight Trials of EVT for AIS | Enrollment and Imaging Criteria Used in Eight Trials of EVT for AIS | Enrollment and Imaging Criteria Used in Eight Trials of EVT for AIS | Enrollment and Imaging Criteria Used in Eight Trials of EVT for AIS |
+| Trial | Treatment Window (h) | Imaging Modalities | Defining Early Ischemic Changes or Core | Vascular Imaging | Perfusion Imaging and Cri- teria (if Used) |
+| MR CLEAN | 6 | CT | 1/3 of MCA territory, no ASPECTS | CTA | No |
+| EXTEND-IA | 6 | CT | Core < 70 mL using per- fusion CT | CTA | Perfusion CT Core < 70 mL Absolute mismatch volume > 10 mL Mismatch ratio > 1.2 |
+| ESCAPE | up to 12 | CT | ASPECTS ≥ 6 | Multiphasic CTA: col- lateral ≥ 50% of MCA pial circulation * | No |
+| SWIFT PRIME | 6 | MRI, CT | CT or MRI ASPECTS ≥ 6 | CTA or MRA | Perfusion CT or perfusion MRI Core < 50 mL, mismatch > 1.8 † |
+| REVASCAT | up to 8 | MRI, CT | CT ASPECTS ≥ 7 MRI ASPECTS ≥ 6 | CTA or MRA | Perfusion CT-CBV ASPECTS or perfusion CT-SI ASPECTS in pa- tients >4.5 h from onset |
+| THRACE | 5 | MRI, CT | 1/3 of MCA territory, no ASPECTS | CTA or MRA | No |
+| DAWN | 6-24 | MRI, CT | Core ≤ 20 mL if age > 80 y Core ≤ 30 mL if age < 80 y and NIHSS score 10-20 Core ≤ 50 mL if age < 80 y and NIHSS score > 20 | CTA or MRA | Core at MRI: ADC < 620 3 10 -3 mm 2 /sec Core at perfusion CT: rela- tive CBF < 30% |
+| DEFUSE 3 | 6-16 | MRI, CT | Core ≤ 70 mL Mismatch ≥ 15 mL, mis- match ratio ≥ 1.8 | CTA or MRA | Core at MRI: ADC < 620 3 10 -3 mm 2 /sec Core at perfusion CT: rela- tive CBF < 30% T max > 6 sec for penumbra |
+[/DOCLING_TABLE]
+
+Dichotomized as good or moderate versus poor or absent.
+
+† Used only initially before the criteria were revised to use ASPECTS.
+
+A few important points about these trials in terms of imaging utilization:
+
+ One consistent imaging criteria across all of the trials was use of vascular imaging to identify LVO, which was defined as intracranial carotid or M1 occlusion in all of the trials. Some trials included M2 occlusion for enrollment (SWIFT PRIME and EXTEND-IA), and MR CLEAN included both anterior cerebral artery (ACA) and M2 occlusions.
+
+ In determination of ischemic changes and the ischemic core, MR CLEAN had the most minimalistic imaging approach, using nonenhanced CT just to ensure that no large infarction existed (without using ASPECTS). EXTEND-IA was the only trial that used perfusion imaging to define the ischemic core (<70 mL) consistently for enrollment of all patients. SWIFT PRIME also used perfusion imaging to calculate the ischemic core (<50 mL) during the early enrollment stage before revision was made to switch to ASPECTS.
+
+ Among trials that used nonenhanced CT ASPECTS as an enrollment criterion, CT ASPECTS ≥ 6 was used in ESCAPE and SWIFT PRIME and CT ASPECTS ≥ 7 was used in REVASCAT. Three trials encouraged MRI use when available, although the only trial that predominantly enrolled patients using MRI was THRACE.
+
+The only trial that used CT angiography collateral status as an enrollment criterion was ESCAPE.
+
+[DOCLING_PAGE 4]
+
+RG · Volume 39 Number 6
+
+Nael et al 1699
+
+have worked on providing quantitative perfusion CT with automated software.
+
+Most recent work has suggested use of relative cerebral blood flow (CBF) for defining the ischemic core, with threshold values ranging between 30% and 45% (24-26). For definition of the ischemic penumbra, T max (time to maximum) > 6 seconds has been proposed as an indication of critical hypoperfusion (24,27). The EVT trials that used perfusion imaging as a selection criterion used automated software to quantify the core and mismatch in a timeefficient manner. We further discuss perfusion CT later in the article and how it can be used for treatment selection in the late window (6-24 hours from symptom onset or last known well).
+
+Comprehensive stroke imaging with nonenhanced CT, CT angiography, and perfusion CT takes only a few minutes and can be performed with almost all current scanners. CT has distinct advantages over MRI, such as widespread availability, speed of acquisition, and cost-effectiveness. For this reason, CT is the imaging workhorse in the vast majority of stroke centers.
+
+MR Imaging
+
+To be comparable to CT, a comprehensive MRI protocol should include diffusion-weighted imaging (DWI) for detecting early ischemic changes, fluid-attenuated inversion-recovery (FLAIR) and gradient-echo (GRE) imaging for detecting intracranial hemorrhage (28), MR angiography for assessing vessel status, and perfusion MRI for assessing penumbral tissue. The major advantage of MRI is the DWI sequence, which is the most sensitive imaging modality for evaluating early ischemia and provides level I evidence for assessing the ischemic core (29,30). DWI is the recommended sequence in patient selection for late-window thrombectomy.
+
+Automated software can calculate the volume of the ischemic core using quantitative ADC (apparent diffusion coefficient) values of <600 3 10 -3 mm 2 /sec (31-33). After thrombectomy or spontaneous reperfusion, there is a variable rise in ADC values of the ischemic bed; therefore, the infarct volume should ideally be assessed using DWI or FLAIR images rather than ADC maps. GRE imaging alone or in combination with FLAIR imaging has excellent diagnostic accuracy in detection of acute intracranial hemorrhage, comparable to that of CT (28,34).
+
+As with CT angiography, MR angiography can provide essential information about the LVO. Large-field-of-view vascular imaging of the neck and brain using contrast-enhanced MR angiography also depicts extracranial vascular anatomy and pathologic conditions such as tandem stenosis or dissection, thus informing the interventionalist of the procedural strategy or excluding patients from EVT on the basis of undue risk. However, MR angiography without contrast material (such as time-of-flight MR angiography) can be limited by motion-related artifact and longer acquisition time and sometimes results in inadequate image quality for assessing the origin of supra-aortic arteries.
+
+As with CT, perfusion MRI can also be performed in a comprehensive stroke protocol to assess the penumbra. One major advantage of MRI is that, by obtaining an accurate estimate of the ischemic core with DWI, perfusion MRI is used only to estimate the penumbra, often by using T max > 6 seconds (35). This is advantageous over perfusion CT, where additional information is needed to identify both the ischemic core and penumbra, sometimes with mixed results (36-39).
+
+The biggest practical disadvantages of MRI protocols include sparse availability and delayed workflow related to required patient screening and longer acquisition time (40,41). Although fast 6-minute MRI stroke protocols have been described (42), there are often delays related to the logistical challenges of implementing MRI in everyday clinical practice. The general consensus is that MRI should be used for EVT selection only in institutions that are capable of achieving speed and triaging efficiency similar to what can be accomplished with CT -based imaging.
+
+With the recent positive results of the WAKEUP trial (43), which used DWI-FLAIR imaging mismatch to select patients for extending the time window for intravenous thrombolysis, stroke centers now need the capability of performing timely MRI studies in a subset of the patients who would be eligible for delayed thrombolytic treatment (Fig 1). An earlier study also showed that quantitative mismatch of DWI and FLAIR imaging results can be used as the basis for safe thrombolytic treatment of patients with unwitnessed stroke (44). In addition, perfusion imaging (perfusion CT or perfusion MRI) has been used for successful treatment of wake strokes with thrombolytic treatment, according to recently published results of the EXTEND trial (45).
+
+Collateral Status
+
+Collateral flow status information can also be assessed noninvasively with vascular imaging such as CT angiography (46,47) or MR angiography (48,49). It is now well known that poor baseline collaterals are associated with a larger ischemic core and worse functional outcomes (50,51).
+
+CT angiography is the most commonly used imaging modality for assessing the extent of collaterals, given its broad use in the prethrombectomy setting. Two commonly used scoring systems are the Tan score (0 = no collaterals, 1 = <50% of the affected MCA territory, 2 = ≥ 50% but <100%, 3 = 100%) (52,53) and the Maas scale (1 = absent, 2 = less than contralateral side, 3 = equal to contralateral side, 4 = greater than contralateral side, 5 = exuberant) (54). While the prognostic importance of collateral assessment with CT angiography in patients with AIS has been established, consensus is lacking on the optimal imaging technique and number of phases required and its role in modifying treatment effect. Some investigators have shown variable degrees of improvement by using multiphase CT angiography (55-57); others suggest that single-phase CT angiography may be sufficient (51,58).
+
+[DOCLING_PAGE 5]
+
+1700 October Special Issue 2019
+
+radiographics.rsna.org
+
+Figure 1. DWI-FLAIR imaging mismatch in an 84-year-old woman with unknown onset of acute stroke who presented with leftsided weakness and a baseline NIHSS (National Institutes of Health Stroke Scale) score of 10. (a) Axial nonenhanced CT image obtained on arrival is negative for infarction. Results of CT angiography were also normal (not shown). (b, c) Axial diffusion-weighted image (b) shows restricted diffusion in the right thalamus (arrow) without associated T2 hyperintensity on an axial FLAIR image (c) , consistent with DWI-FLAIR imaging mismatch. The patient received an infusion of tissue plasminogen activator on the basis of the WAKE-UP trial results and improved to an NIHSS score of 3.
+
+Contrast-enhanced MR angiography provides similar performance as CT angiography in terms of delineation of intracranial arteries and collateral assessment after a dynamic acquisition with injection of gadolinium contrast material (48,49,59). On the other hand, the flow-related signal of time-of-flight MR angiography is mainly depicted via antegrade flow; therefore, this technique provides only modest information about the collateral flow (49,59). Maximum intensity projection (MIP) images from CT angiography or MR angiography are useful to provide rapid visual assessment of the extent of collaterals (Fig 2).
+
+Recent analyses of the MR CLEAN and Interventional Management of Stroke III trials, while underpowered, suggest a potential role for collateral assessment in identifying patients likely or unlikely to benefit from EVT (1,60).
+
+Also, the ESCAPE investigators successfully used moderate-to-good collateral scores at multiphase CT angiography as a criterion to enroll patients for EVT and showed treatment benefit over medical therapy (2). It is well known that patients with poor collaterals have a faster infarct growth rate (fast progressors) (Fig 2), and those with good collaterals are able to sustain the ischemic bed longer (slow progressors). For thrombectomy candidates who are being transferred from primary care to a comprehensive stroke center, repeat imaging may sometimes be warranted to identify the fast progressors with poor collaterals.
+
+Collateral information can also be assessed with perfusion imaging, including perfusion CT (61,62) or perfusion MRI (63,64). A recent study showed no significant association between collaterals and penumbral volume, indicating that although collaterals have good negative correlation with the final infarct volume, they have limited significance as a marker of salvageable tissue (65).
+
+Quantitative assessment of cerebral blood volume (CBV) within the ischemic bed allows prediction of angiographic collaterals. Relative CBV, obtained by comparing the CBV of the purported ischemic bed to the CBV in normally perfused brain regions, has been shown to correlate with angiographic collateral status (66). In addition, the perfusion collateral index has been defined as relative CBV times the volume of moderate hypoperfusion-defined by a tissue delay of 2-6 seconds-as an indication of robust collaterals (64).
+
+The main purpose of a perfusion study using perfusion CT or perfusion MRI is to outline the salvageable brain tissue (ischemic penumbra) and ischemic core. The relevance of perfusion imaging varies on the basis of the time window since symptom onset.
+
+[DOCLING_PAGE 6]
+
+RG · Volume 39 Number 6
+
+Nael et al 1701
+
+Figure 2. Poor collaterals resulting in rapid infarct progression in a 78-year-old man with left MCA syndrome and baseline NIHSS score of 21. (a) Axial nonenhanced CT image obtained within 1 hour from symptom onset shows ASPECTS of 8 (subtle hypoattenuation in the left insular cortex [white arrow] and the posterior limb of the internal capsule [black arrow]). (b, c) Axial thick-slab MIP CT angiograms show left M1 occlusion (arrow in c ) with poor collaterals in the left MCA territory. (d) Coronal digital subtraction angiogram shows the left M1 occlusion (arrow). (e) Angiogram shows successful thrombectomy (TICI [Thrombolysis in Cerebral Infarction] scale grade 2c) performed within 90 minutes from initial CT. (f) Follow-up axial diffusion-weighted image shows a large established left MCA territorial infarct despite successful EVT, demonstrating the importance of collateral circulation.
+
+Imaging Workflow
+
+Regardless of the type of imaging modality, it is imperative for stroke centers to have an optimal imaging workflow that is integrated with clinical decision making to minimize the time penalty and maximize the efficiency of treatment delivery to stroke patients. It is recommended that intravenous thrombolysis be performed in qualified patients using a parallel process (in imaging units) while further advanced imaging such as CT angiography and perfusion CT is being performed.
+
+It is critical that CT angiography-perfusion CT or MR angiography-perfusion MRI is performed as quickly as possible, and performance of vascular or perfusion imaging should not delay performance of intravenous thrombolysis in eligible patients. According to the 2018 AHA-ASA recommendations, it is reasonable to perform vascular imaging before performing a renal function test in patients without a history of renal impairment (level IIb) (12). This stems from evidence demonstrating a relatively low risk of transient contrast material-induced nephropathy secondary to CT angiography in the absence of a history of renal impairment (67-69).
+
+Radiologists and technologists play a pivotal role in streamlining the workflows of both image acquisition and interpretation and should be an integral part of the stroke team. Having multicomponent quality improvement programs and multidisciplinary engagement of emergency physicians, neurologists, radiologists, and neurointerventionalists improves treatment times and outcomes.
+
+[DOCLING_PAGE 7]
+
+1702 October Special Issue 2019
+
+radiographics.rsna.org
+
+Figure 3. EVT selection in the early time window (<6 hours) using nonenhanced CT and CT angiography in a 74-year-old woman with right MCA syndrome and baseline NIHSS score of 26. Time from onset to CT was 47 minutes. (a) Axial nonenhanced CT image shows ASPECTS of 9 (hypoattenuating insula [arrow]). (b) Axial thick-slab MIP CT angiogram shows right M1 occlusion (arrow). (c) Coronal digital subtraction angiogram shows the right M1 occlusion (arrow). (d) Angiogram shows successful mechanical thrombectomy (TICI scale grade 2c) achieved within 78 minutes from nonenhanced CT. (e) Follow-up diffusion-weighted image shows infarction along the right MCA distribution.
+
+Imaging-based Treatment Selection
+
+As we enter the paradigm-shifting era of acute stroke care, the pressing question is how to deliver this time-critical therapy to patients who need it and how to optimize stroke imaging. On the basis of the most recent AHA-ASA guidelines, any AIS patient with significant neurologic deficits (NIHSS score ≥ 6) who presents with LVO within 24 hours may be a potential candidate for EVT, depending on his or her imaging profile.
+
+The primary purpose of imaging in patient selection is to identify patients with favorable risk-benefit ratios. The 2015 and 2018 EVT trials have now established care in two broad time categories: the early window (<6 hours from symptom onset or last known well) and late window (6-24 hours from symptom onset or last known well). In this section, we describe imaging selection based on time from stroke onset to presentation of less than 6 hours versus 6-24 hours.
+
+Early Window (<6 Hours)
+
+In patients with suspected anterior circulation LVO of less than 6 hours, nonenhanced CT and CT angiography can provide sufficient imaging information to determine EVT candidacy (Fig 3). Patients with occlusion of the intracranial internal carotid artery (ICA) and/or M1 and absence of a large infarct core at nonenhanced CT (ASPECTS ≥ 6) are considered safe candidates for EVT. If MRI workup is used, DWI ASPECTS ≥ 6 and establishing LVO with MR angiography can be used (3,4). Enrollment and imaging criteria used in eight EVT trials are summarized in the Table.
+
+[DOCLING_PAGE 8]
+
+RG · Volume 39 Number 6
+
+Nael et al 1703
+
+Figure 4. MRI for EVT selection in the early window in a 61-year-old woman with left hemiparesis and NIHSS score of 12 approximately 3 hours from last known well. (a) Axial diffusion-weighted image show small areas of infarction along the right MCA distribution. (b) Axial contrast-enhanced thick-slab MIP MR angiogram shows occlusion of right M1 (arrow). (c) Axial T max map from perfusion MRI using a 6-second threshold shows a large penumbra (yellow). (d) Axial contrast-enhanced thick-slab MIP MR angiogram after thrombectomy shows recanalization of the right MCA.
+
+Additional imaging beyond nonenhanced CT and CT angiography may be performed for patients presenting within 6 hours of symptom onset (Fig 4). Several early-window trials used some form of additional imaging other than nonenhanced CT and CT angiography to determine EVT candidacy. These included perfusion imaging (perfusion CT or perfusion MRI) to estimate ischemic core volume of <50 mL in a subset of SWIFT PRIME (4) and <70 mL in EXTEND-IA (5) or multiphase CT angiography to determine moderate to good collaterals in ESCAPE (2). However, MR CLEAN (1) and THRACE (6) did not use any advanced imaging criteria other than nonenhanced CT and CT angiography, and REVASCAT (3) used nonenhanced CT ASPECTS ≥ 6 only for patient selection. Hence, according to the AHA-ASA guidelines, additional imaging other than nonenhanced CT and CT angiography may not be necessary in patients
+
+presenting within 6 hours.
+
+The disadvantages of additional imaging (including perfusion imaging) in the early window include potential for delay of treatment and inappropriate exclusion of patients who may benefit from EVT if additional imaging-based eligibility criteria are applied. However, in the 2018 updated AHA guidelines, the statement 'no necessity for perfusion imaging in <6 hours group' was removed for reevaluation (70). Since the majority of patients with LVO presenting in the early window may have penumbral mismatch, it is unclear whether performance of perfusion imaging is worth the time, and the role of perfusion imaging in the early time window will require clarification in future studies.
+
+Late Window (6-24 Hours)
+
+Current data do not definitively support using nonenhanced CT alone in treatment selection. The HERMES pooled analysis (11), which included the five trials MR CLEAN, ESCAPE, REVASCAT, SWIFT PRIME, and EXTEND-IA, showed a decline in treatment effect with time beyond 7 hours after symptom onset when nonenhanced CT and ASPECTS were used for treatment selection. REVASCAT, which randomized patients by ASPECTS ≥ 6, also showed a substantial decrease in treatment effect with time (71). MR CLEAN, which used nonenhanced CT for parenchymal imaging, demonstrated that the effect of treatment was lost when the time from symptom onset to reperfusion was longer than 6 hours (72).
+
+[DOCLING_PAGE 9]
+
+1704 October Special Issue 2019
+
+radiographics.rsna.org
+
+Figure 5. EVT selection in extended window (6-24 hours) in a 57-year-old man with right MCA syndrome and baseline NIHSS score of 10-11 who presented 18 hours after last known well. (a) Axial nonenhanced CT image shows hypoattenuation in the putamen, insula, and temporal lobe (arrows) (ASPECTS of 7). (b, c) Axial perfusion CT images with application of two thresholds (relative CBF < 30% for ischemic core and T max > 6 seconds for penumbra) shows 30 mL of ischemic core (purple in b ) and penumbra of 102 mL (green in c ). On the basis of the extended-window results in DAWN, the patient underwent EVT. (d) Coronal digital subtraction angiogram shows right distal M1 occlusion (arrow). (e) Angiogram shows successful thrombectomy (TICI scale grade 3). (f) Follow-up diffusion-weighted image shows a stable infarct without growth.
+
+In late-window patients with LVO presenting 6-24 hours after symptom onset or with unknown stroke onset, perfusion imaging provides additional information about the predicted core, salvageable penumbra, and mismatch to select patients who are more likely to benefit from treatment at later times from onset. The success of the late-window DAWN and DEFUSE 3 trials has catapulted perfusion imaging into routine clinical practice. According to the updated AHA-ASA guidelines, perfusion CT (in addition to nonenhanced CT and CT angiography) or MRI (DWI, perfusion MRI) is recommended to aid in patient selection for EVT when patients meet the eligibility criteria of DAWN and DEFUSE 3 (level I).
+
+DAWN used clinical (NIHSS score) and imaging (estimated ischemic core volume using perfusion CT or DWI up to 50 mL) mismatch to determine EVT candidacy between 6 and 24 hours from symptom onset (7). DEFUSE 3 used perfusion-core mismatch and maximum core size estimated up to 70 mL as imaging criteria to select patients with anterior circulation LVO 6-16 hours from symptom onset (8). Both DAWN and DEFUSE 3 used automated perfusion CT with thresholds of CBF < 30% for the ischemic core and T max > 6 seconds for penumbral volume (Figs 5, 6). The imaging criteria used in DAWN and DEFUSE 3 are summarized in the Table. However, the reliability of quantitative perfusion CT
+
+[DOCLING_PAGE 10]
+
+RG · Volume 39 Number 6
+
+Nael et al 1705
+
+Figure 6. Perfusion imaging for EVT selection in extended window in a 54-year-old woman with left M1 occlusion (not shown) and baseline NIHSS score of 11 who presented 9 hours after symptom onset. (a) Axial nonenhanced CT image shows a normal ASPECTS of 10. (b) Axial perfusion CT image after application of two thresholds (relative CBF < 30% for ischemic core and T max > 6 seconds for penumbra) shows 41 mL of penumbra (yellow) with no detectable ischemic core. (c) Coronal digital subtraction angiogram shows left M1 occlusion (arrow). (d) Angiogram shows successful thrombectomy (TICI scale grade 3) within 1 hour of initial CT. (e) Followup axial diffusion-weighted image shows a small infarct.
+
+needs further improvement in terms of accuracy (38,73) and interrater agreement among different postprocessing software (74).
+
+Figure 7 shows an example of MRI selection for EVT in the late window.
+
+Restrictive imaging criteria used in DAWN and DEFUSE 3 may limit the generalizability of their results in routine daily practice. There is growing evidence that patients with LVO within 6-24 hours may still benefit from EVT outside the eligibility criteria of DAWN and DEFUSE 3 (75) (level IIB, nonrandomized data); however, current AHA-ASA guidelines (9) state that these eligibility criteria should be strictly adhered to in clinical practice pending the results of future randomized clinical trials in this subgroup. Figure 8 shows an example of wake-up stroke with perfusion CT and DAWN criteria used for selection of EVT for M2 occlusion.
+
+Another imaging parameter that can be used in patient selection is collateral circulation. A growing body of literature suggests that collateral status allows prediction of tissue outcome (60,76,77). The role of collateral flow in treatment selection may be most relevant in the extended window to distinguish ischemia with fast versus slow progression to irreversibility. Good collaterals can sustain ischemic tissue, resulting in smaller volume of established core and decreased infarct growth in the extended window (78). At CT angiography, moderate-to-good collateral circulation is generally defined as filling of 50% or more of the MCA pial arterial circulation.
+
+This dichotomized criterion was used in ESCAPE to enroll early-window patients for EVT with a successful result (2). ESCAPE investigators also used the same criterion to enroll 49 patients with stroke beyond 6 hours (up to 12
+
+[DOCLING_PAGE 11]
+
+1706 October Special Issue 2019
+
+radiographics.rsna.org
+
+Figure 7. Use of MRI to determine ischemic core for EVT selection in late window in a 74-year-old man with right-sided weakness and baseline NIHSS score of 7. Time from onset to initial CT was 17 hours. (a) Axial nonenhanced CT image shows no infarction with ASPECTS of 10. (b) Coronal thin-section MIP CT angiogram shows complete occlusion of the petrocavernous and clinoid segments of the left internal carotid artery (white arrow) with reconstitution of flow at the carotid bifurcation (black arrow). The patient was transferred to our institution for possible mechanical thrombectomy. MRI was performed to determine the ischemic core. (c) Axial diffusion-weighted image shows multiple punctate border zone infarcts in the left hemisphere. (d) Coronal digital subtraction angiogram shows the occlusion of the left internal carotid artery (arrow). (e) Angiogram shows successful thrombectomy (TICI scale grade 2c). The patient was discharged with an NIHSS score of 0.
+
+hours from onset). The treatment effect in this group favored the EVT group but did not reach statistical significance in this small group of patients. The 2018 AHA-ASA guidelines suggest that it may be reasonable to incorporate collateral flow status into clinical decision making in some candidates to determine eligibility for mechanical thrombectomy (level IIB). Additional trials are required to fully establish use of collateral flow status to determine eligibility for EVT (79).
+
+Patient Subgroups with Limited Evidence
+
+In this section, we highlight challenges in subgroups that were excluded from recent EVT trials or in which there is not enough evidence to prove the efficacy of EVT.
+
+Low NIHSS Score
+
+Most thrombectomy trials used an NIHSS score threshold of greater than 6 as a selection criterion for determination of EVT candidacy. Only 14 of 1740 patients in the recent randomized controlled trials had a low baseline NIHSS score ( ≤ 5) (11,80). The discrepancy between having an LVO and a low NIHSS score less than 6 is often due to excellent collateral circulation. Although natural history data are limited, several studies suggest a poor outcome in this cohort due to later neurologic deterioration (81,82). Multiple nonrandomized studies have also suggested a benefit of EVT in LVO patients with low NIHSS score (83).
+
+[DOCLING_PAGE 12]
+
+RG · Volume 39 Number 6
+
+Nael et al 1707
+
+Figure 8. EVT of M2 occlusion in a 44-year-old man who presented with left MCA syn- drome and NIHSS score of 11 the morning of admission with unclear last known well. He had posterior branch left M2 occlusion at CT angiography (not shown). (a, b) Axial non- enhanced CT images show hypoattenuation in the left insula and temporal lobe (arrows in b ) with ASPECTS of 8. (c, d) Axial perfusion CT images after application of two thresholds (relative CBF < 30% for ischemic core and T max > 6 seconds for penumbra) show 36 mL of estimated ischemic core (red in c ) and 90 mL of penumbra (yellow in d ). Perfusion CT can be helpful to diagnose M2 division occlusions, which are sometimes difficult to detect at CT angiography, especially for the nonradiologists on the stroke team. (e) Coronal digital subtraction angiogram shows the left M2 occlusion (arrow). (f) Angiogram shows success- ful thrombectomy (TICI scale grade 3) within 2 hours from initial CT. (g) Follow-up axial diffusion-weighted image shows a stable infarct in the distribution of the left M2 territory.
+
+Some centers perform CT angiography in all stroke patients, irrespective of baseline NIHSS score, thus identifying LVO patients with low NIHSS score, who could potentially benefit from immediate EVT rather than rescue thrombectomy later after neurologic deterioration (Fig 9). Two prospective randomized trials-ENDOLOW (Endovascular Therapy for Low NIHSS Ischemic Strokes) and MOSTE IN EXTREMIS (Minor Stroke Therapy Evaluation in Explora- tion of the Limits of Mechanical Thrombectomy Indications in a Single Action)-have been initiated to compare immediate mechanical thrombectomy versus initial medical management in patients with AIS and low NIHSS score of 0-5 due to LVO. The results of these trials will likely provide more clarity regarding the benefit of EVT in this subgroup.
+
+Distal Occlusion
+
+Current data support EVT in patients with LVO including of the internal carotid artery (intracranial or extracranial) and MCA M1 segment. Patients with M2 occlusions were included in several trials (1-3,5); however, they were a minority. Post hoc HERMES analysis of EVT
+
+[DOCLING_PAGE 13]
+
+1708 October Special Issue 2019
+
+radiographics.rsna.org
+
+Figure 9. EVT of stroke with low NIHSS score in a 53-year-old man with aphasia and baseline NIHSS score of 1. Time from onset to CT was 2.5 hours. (a) Axial nonenhanced CT image shows normal ASPECTS of 10. (b) Axial CT angiogram shows left M2 occlusion (arrow). (c) Axial perfusion CT image after application of two thresholds (relative CBF < 30% for ischemic core and T max > 6 seconds for penumbra) shows 56 mL of penumbra (yellow) with no detectable ischemic core. The patient received tissue plasminogen activator but had worsening aphasia 30 minutes later. (d) Coronal digital subtraction angiogram shows the left M2 occlusion. (e) Angiogram shows successful thrombectomy (TICI scale grade 2b) (arrow) within 3 hours from initial CT. (f) Followup axial diffusion-weighted image shows no restricted diffusion along the described distribution.
+
+of M2 occlusions (67 of 818 patients vs 64 of 828 treated with medical therapy) showed better functional outcome in those treated with EVT, although the difference did not reach statistical significance (84). A sizable M2 occlusion (M1like M2 occlusion) will likely benefit from EVT (85,86) (Figs 8, 9).
+
+For more distal MCA occlusions, such as of M3, and anterior cerebral artery occlusions, consensus is lacking on the effectiveness and safety of EVT. As skill levels increase even further and devices become even safer, distal occlusions including M2 occlusions may become even more amenable to EVT.
+
+Large Ischemic Core
+
+Currently, there is no level I evidence on treating AIS patients with a large ischemic core, often defined as ASPECTS < 6 or ischemic core volume greater than 50-70 mL (Fig 10). However, growing evidence suggests that EVT may be beneficial in patients with a large ischemic core, including those with CT or MRI ASPECTS of 3-5 or estimated core volume greater than 50-70 mL at DWI or perfusion CT (87-89). Recent post hoc HERMES analyses, based on individual patient data from early-window trials, demonstrated improved outcome after EVT for the small subset of patients enrolled with large ischemic cores, measured as ASPECTS < 6 and infarct greater than one-third of the MCA territory (84) and ischemic core greater than 70 mL at perfusion CT or MRI (90) (Fig 11).
+
+[DOCLING_PAGE 14]
+
+RG · Volume 39 Number 6
+
+Nael et al 1709
+
+Figure 10. Large ischemic core with no EVT in a 68-year-old woman who presented with left MCA syndrome in the morning (wake-up stroke) and baseline NIHSS score of 14. (a) Axial nonenhanced CT image shows widespread hypoattenuation and loss of gray-white matter differentiation throughout the left MCA distribution (ASPECTS of 3). (b) Axial CT angiogram shows M1 occlusion (arrow) and poor collaterals to the infarcted area. (c) Axial perfusion CT image after application of two thresholds (relative CBF < 30% for ischemic core and T max > 6 seconds for penumbra) shows 71 mL of estimated ischemic core (purple). (d) Axial perfusion CT image after application of two thresholds (relative CBF < 30% for ischemic core and T max > 6 seconds for penumbra) shows 122 mL of penumbra (green). EVT was not performed given the large core. (e) Follow-up axial diffusion-weighted image shows the final infarct, which involves almost the entire MCA distribution.
+
+Further randomized controlled trials are needed to determine whether advanced imaging paradigms using perfusion CT, CT angiography, perfusion MRI, and DWI, including measures of infarct core, collateral flow status, and penumbra, will be beneficial for selecting patients with large predicted cores. Results of the ongoing LASTE (Large Stroke Therapy Evaluation) IN EXTREMIS trial are likely to provide further data on this subset of patients. Another important factor to consider beyond the core volume is infarct topography and whether the predicted core involves eloquent cortex, again a fertile area for future research.
+
+Posterior Circulation LVO
+
+Posterior circulation LVOs are rare and represent only 5% of all LVOs (91-93). To our knowledge, there are no randomized controlled trials of EVT for acute stroke caused by posterior circulation LVO.
+
+In the basilar artery, mechanical thrombectomy has been associated with lower recanalization rate and more procedural complications than in anterior circulation strokes (94,95). In a retrospective review of 24 basilar artery occlusions, successful recanalization was associated with a more favorable mRS (modified Rankin scale) score at 90 days (96). A meta-analysis of 31 studies summarizing 1358 patients with basilar artery occlusion who were treated with EVT and/or fibrinolysis failed to show sufficient evidence to make a management recommendation; however, the EVT group nonetheless had a significantly higher rate of independence (90-day mRS score, 0-2) than the group without EVT (95).
+
+[DOCLING_PAGE 15]
+
+1710 October Special Issue 2019
+
+radiographics.rsna.org
+
+Figure 11. Large ischemic core treated with EVT in a 48-year-old man with left MCA syndrome and baseline NIHSS score of 26. Time from onset to CT was 4 hours. (a) Axial nonenhanced CT image shows an evolving acute infarct with ASPECTS of 5. (b, c) Axial perfusion CT images after application of two thresholds (relative CBF < 30% for ischemic core and T max > 6 seconds for penumbra) show 72 mL of estimated ischemic core (red in b ) and 122 mL of penumbra (yellow in c ). Given the patient's young age, the decision was made to proceed with mechanical thrombectomy despite the large core. (d) Coronal digital subtraction angiogram shows left carotid terminus occlusion (arrow). (e) Angiogram shows successfully recanalization (TICI scale grade 3) within 97 minutes from initial CT. (f) Follow-up axial diffusionweighted image shows the large infarct along the left MCA distribution.
+
+The primary results of the randomized Basilar Artery Occlusion Chinese Endovascular Trial (BEST, NCT02737189) were presented at the 2018 World Stroke Congress and suggested that patients treated with EVT achieved significantly better outcomes than patients treated with medical management alone. However, these results have not been published at this time. Currently, emergent EVT is reasonable for posterior circulation LVOs to maximize the chance of a good clinical outcome (AHA class IIa, level of evidence B-NR) (93).
+
+LVO beyond 24 Hours
+
+Experience with EVT of anterior circulation LVO after 24 hours is limited (97). The evidence is insufficient to guide recommendations. Although there are evidence-based guidelines for imaging strategies for EVT selection, real-world practice regarding imaging paradigms varies substantially. A recent study surveying experts in the field including experienced vascular neurologists and neurointerventionalists highlighted this discordance (98). However, there is consensus that time is of paramount importance and that imaging needs to be efficient in terms of both performance and interpretation of results to give individual AIS patients the best chance for benefit from this powerful treatment.
+
+Conclusion
+
+In the era of endovascular therapy, advanced imaging plays a critical role in selection of patients with AIS for treatment. Consistent with current guidelines, nonenhanced CT and CT angiogra- phy are likely sufficient for EVT selection in the early window (<6 hours). For the late window (6-24 hours), additional perfusion imaging (perfusion CT or DWI and perfusion MRI) is helpful to assess the ischemic core-and possibly the penumbra and mismatch-for treatment decision making. Subgroups of patients remain for whom evidence is lacking about optimal treatment, including those with low NIHSS score, large ischemic core, or distal occlusion. Regardless of the imaging modalities and strategies at individual institutions, efficient imaging workflow must be established to provide faster treatment.
+
+[DOCLING_PAGE 16]
+
+RG · Volume 39 Number 6
+
+Nael et al 1711
+
+Disclosures of Conflicts of Interest.K.N. Activities related to the present article: disclosed no relevant relationships. Activities not related to the present article: board member for Olea Medical. Other activities: disclosed no relevant relationships. P.K. Activities related to the present article: disclosed no relevant relationships. Activities not related to the present article: consultant for Genentech, Lumosa Therapeutics, and NeuroSpring; grants from Nervive and Cerenovus. Other activities: disclosed no relevant relationships. A.V. Activities related to the present article: disclosed no relevant relationships. Activities not related to the present article: grants from Cerenovus and GE Healthcare. Other activities: disclosed no relevant relationships.
+
+References
+
+Berkhemer OA, Fransen PS, Beumer D, et al. A randomized trial of intraarterial treatment for acute ischemic stroke. N Engl J Med 2015;372(1):11-20.
+
+Goyal M, Demchuk AM, Menon BK, et al. Randomized assessment of rapid endovascular treatment of ischemic stroke. N Engl J Med 2015;372(11):1019-1030.
+
+Jovin TG, Chamorro A, Cobo E, et al. Thrombectomy within 8 hours after symptom onset in ischemic stroke. N Engl J Med 2015;372(24):2296-2306.
+
+Saver JL, Goyal M, Bonafe A, et al. Stent-retriever thrombectomy after intravenous t-PA vs. t-PA alone in stroke. N Engl J Med 2015;372(24):2285-2295.
+
+Campbell BC, Mitchell PJ, Kleinig TJ, et al. Endovascular therapy for ischemic stroke with perfusion-imaging selection. N Engl J Med 2015;372(11):1009-1018.
+
+Bracard S, Ducrocq X, Mas JL, et al. Mechanical thrombectomy after intravenous alteplase versus alteplase alone after stroke (THRACE): a randomised controlled trial. Lancet Neurol 2016;15(11):1138-1147.
+
+Nogueira RG, Jadhav AP, Haussen DC, et al. Thrombectomy 6 to 24 Hours after Stroke with a Mismatch between Deficit and Infarct. N Engl J Med 2018;378(1):11-21.
+
+Albers GW, Marks MP, Kemp S, et al. Thrombectomy for Stroke at 6 to 16 Hours with Selection by Perfusion Imaging. N Engl J Med 2018;378(8):708-718.
+
+Powers WJ, Rabinstein AA, Ackerson T, et al. 2018 Guidelines for the Early Management of Patients With Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. Stroke 2018;49(3):e46-e110. [Published corrections appear in Stroke 2018;49(3):e138 and Stroke 2018;49(6):e233-e234.] https://doi.org/10.1161/ STR.0000000000000158.
+
+Saver JL. Time is brain-quantified. Stroke 2006; 37(1):263-266.
+
+Saver JL, Goyal M, van der Lugt A, et al. Time to Treatment With Endovascular Thrombectomy and Outcomes From Ischemic Stroke: A Meta-analysis. JAMA 2016;316(12):1279-1288.
+
+Lees KR, Emberson J, Blackwell L, et al. Effects of Alteplase for Acute Stroke on the Distribution of Functional Outcomes: A Pooled Analysis of 9 Trials. Stroke 2016;47(9):2373-2379.
+
+van Seeters T, Biessels GJ, Kappelle LJ, et al. The Prognostic Value of CT Angiography and CT Perfusion in Acute Ischemic Stroke. Cerebrovasc Dis 2015;40(5-6):258-269.
+
+Kim EY, Shin DH, Noh Y, Goh BH, Lee YB. Comparison of Imaging Selection Criteria for Intra-Arterial Thrombectomy in Acute Ischemic Stroke with Advanced CT. Eur Radiol 2016;26(9):2974-2981.
+
+Barber PA, Demchuk AM, Zhang J, Buchan AM; ASPECTS Study Group. Validity and reliability of a quantitative computed tomography score in predicting outcome of hyperacute stroke before thrombolytic therapy: Alberta Stroke Programme Early CT Score. Lancet 2000;355 (9216):1670-1674.
+
+McTaggart RA, Jovin TG, Lansberg MG, et al. Alberta Stroke Program early computed tomographic scoring performance in a series of patients undergoing computed tomography and MRI: reader agreement, modality agreement, and outcome prediction. Stroke 2015;46(2):407-412.
+
+Kobkitsuksakul C, Tritanon O, Suraratdecha V. Interobserver agreement between senior radiology resident, neuroradiology fellow, and experienced neuroradiologist in the rating of Alberta Stroke Program Early Computed Tomography Score (ASPECTS). Diagn Interv Radiol 2018;24(2):104-107.
+
+Maegerlein C, Fischer J, Mönch S, et al. Automated Calculation of the Alberta Stroke Program Early CT Score: Feasibility and Reliability. Radiology 2019;291(1):141-148.
+
+Menon BK, Demchuk AM. Computed Tomography Angiography in the Assessment of Patients With Stroke/TIA. Neurohospitalist 2011;1(4):187-199.
+
+Goyal M, Menon BK, Hill MD, Demchuk A. Consistently achieving computed tomography to endovascular recanalization <90 minutes: solutions and innovations. Stroke 2014;45(12):e252-e256.
+
+Srinivasan A, Goyal M, Al Azri F, Lum C. State-of-the-art imaging of acute stroke. RadioGraphics 2006;26(suppl 1):S75-S95.
+
+Heiss WD. Flow thresholds of functional and morphological damage of brain tissue. Stroke 1983;14(3):329-331.
+
+Murphy BD, Fox AJ, Lee DH, et al. Identification of penumbra and infarct in acute ischemic stroke using computed tomography perfusion-derived blood flow and blood volume measurements. Stroke 2006;37(7):1771-1777.
+
+Campbell BC, Christensen S, Levi CR, et al. Cerebral blood flow is the optimal CT perfusion parameter for assessing infarct core. Stroke 2011;42(12):3435-3440.
+
+Cereda CW, Christensen S, Campbell BCV, et al. A benchmarking tool to evaluate computer tomography perfusion infarct core predictions against a DWI standard. J Cereb Blood Flow Metab 2016;36(10):1780-1789.
+
+Bivard A, McElduff P, Spratt N, Levi C, Parsons M. Defining the extent of irreversible brain ischemia using perfusion computed tomography. Cerebrovasc Dis 2011;31(3):238-245.
+
+Lin L, Bivard A, Krishnamurthy V, Levi CR, Parsons MW. Whole-Brain CT Perfusion to Quantify Acute Ischemic Penumbra and Core. Radiology 2016;279(3):876-887.
+
+Fiebach JB, Schellinger PD, Gass A, et al. Stroke magnetic resonance imaging is accurate in hyperacute intracerebral hemorrhage: a multicenter study on the validity of stroke imaging. Stroke 2004;35(2):502-506.
+
+Hjort N, Christensen S, Sølling C, et al. Ischemic injury detected by diffusion imaging 11 minutes after stroke. Ann Neurol 2005;58(3):462-465.
+
+Chalela JA, Kidwell CS, Nentwich LM, et al. Magnetic resonance imaging and computed tomography in emergency assessment of patients with suspected acute stroke: a prospective comparison. Lancet 2007;369(9558):293-298.
+
+Schaefer PW, Hassankhani A, Putman C, et al. Characterization and evolution of diffusion MR imaging abnormalities in stroke patients undergoing intra-arterial thrombolysis. AJNR Am J Neuroradiol 2004;25(6):951-957.
+
+Dardzinski BJ, Sotak CH, Fisher M, Hasegawa Y, Li L, Minematsu K. Apparent diffusion coefficient mapping of experimental focal cerebral ischemia using diffusion-weighted echo-planar imaging. Magn Reson Med 1993;30(3):318-325.
+
+Nael K, Meshksar A, Liebeskind DS, et al. Periprocedural arterial spin labeling and dynamic susceptibility contrast
+
+[DOCLING_PAGE 17]
+
+1712 October Special Issue 2019
+
+radiographics.rsna.org
+
+perfusion in detection of cerebral blood flow in patients with acute ischemic syndrome. Stroke 2013;44(3):664-670.
+
+Verma RK, Kottke R, Andereggen L, et al. Detecting subarachnoid hemorrhage: comparison of combined FLAIR/ SWI versus CT. Eur J Radiol 2013;82(9):1539-1545.
+
+Wheeler HM, Mlynash M, Inoue M, et al. Early diffusionweighted imaging and perfusion-weighted imaging lesion volumes forecast final infarct size in DEFUSE 2. Stroke 2013;44(3):681-685.
+
+Copen WA, Morais LT, Wu O, et al. In Acute Stroke, Can CT Perfusion-Derived Cerebral Blood Volume Maps Substitute for Diffusion-Weighted Imaging in Identifying the Ischemic Core? PLoS One 2015;10(7):e0133566.
+
+Bandera E, Botteri M, Minelli C, Sutton A, Abrams KR, Latronico N. Cerebral blood flow threshold of ischemic penumbra and infarct core in acute ischemic stroke: a systematic review. Stroke 2006;37(5):1334-1339.
+
+Schaefer PW, Souza L, Kamalian S, et al. Limited reliability of computed tomographic perfusion acute infarct volume measurements compared with diffusion-weighted imaging in anterior circulation stroke. Stroke 2015;46 (2):419-424.
+
+Geuskens RR, Borst J, Lucas M, et al. Characteristics of Misclassified CT Perfusion Ischemic Core in Patients with Acute Ischemic Stroke. PLoS One 2015;10(11):e0141571.
+
+Sheth KN, Terry JB, Nogueira RG, et al. Advanced modality imaging evaluation in acute ischemic stroke may lead to delayed endovascular reperfusion therapy without improvement in clinical outcomes. J Neurointerv Surg 2013;5(suppl 1):i62-i65.
+
+Ma H, Parsons MW, Christensen S, et al. A multicentre, randomized, double-blinded, placebo-controlled phase III study to investigate EXtending the time for Thrombolysis in Emergency Neurological Deficits (EXTEND). Int J Stroke 2012;7(1):74-80.
+
+Nael K, Khan R, Choudhary G, et al. Six-minute magnetic resonance imaging protocol for evaluation of acute ischemic stroke: pushing the boundaries. Stroke 2014;45(7): 1985-1991.
+
+Thomalla G, Simonsen CZ, Boutitie F, et al. MRI-Guided Thrombolysis for Stroke with Unknown Time of Onset. N Engl J Med 2018;379(7):611-622.
+
+Schwamm LH, Wu O, Song SS, et al. Intravenous thrombolysis in unwitnessed stroke onset: MR WITNESS trial results. Ann Neurol 2018;83(5):980-993.
+
+Ma H, Campbell BCV, Parsons MW, et al. Thrombolysis Guided by Perfusion Imaging up to 9 Hours after Onset of Stroke. N Engl J Med 2019;380(19):1795-1803.
+
+Menon BK, O'Brien B, Bivard A, et al. Assessment of leptomeningeal collaterals using dynamic CT angiography in patients with acute ischemic stroke. J Cereb Blood Flow Metab 2013;33(3):365-371.
+
+Lima FO, Furie KL, Silva GS, et al. The pattern of leptomeningeal collaterals on CT angiography is a strong predictor of long-term functional outcome in stroke patients with large vessel intracranial occlusion. Stroke 2010;41(10):2316-2322.
+
+Hernández-Pérez M, Puig J, Blasco G, et al. Dynamic Magnetic Resonance Angiography Provides Collateral Circulation and Hemodynamic Information in Acute Ischemic Stroke. Stroke 2016;47(2):531-534.
+
+Ernst M, Forkert ND, Brehmer L, et al. Prediction of infarction and reperfusion in stroke by flow- and volumeweighted collateral signal in MR angiography. AJNR Am J Neuroradiol 2015;36(2):275-282.
+
+Souza LC, Yoo AJ, Chaudhry ZA, et al. Malignant CTA collateral profile is highly specific for large admission DWI infarct core and poor outcome in acute stroke. AJNR Am J Neuroradiol 2012;33(7):1331-1336.
+
+Tong E, Patrie J, Tong S, et al. Time-resolved CT assessment of collaterals as imaging biomarkers to predict clinical outcomes in acute ischemic stroke. Neuroradiology 2017;59(11):1101-1109.
+
+Tan IY, Demchuk AM, Hopyan J, et al. CT angiography clot burden score and collateral score: correlation with clinical and radiologic outcomes in acute middle cerebral artery infarct. AJNR Am J Neuroradiol 2009;30(3):525-531.
+
+Tan JC, Dillon WP, Liu S, Adler F, Smith WS, Wintermark M. Systematic comparison of perfusion-CT and CT-angiography in acute stroke patients. Ann Neurol 2007;61(6):533-543.
+
+Maas MB, Lev MH, Ay H, et al. Collateral vessels on CT angiography predict outcome in acute ischemic stroke. Stroke 2009;40(9):3001-3005.
+
+Menon BK, d'Esterre CD, Qazi EM, et al. Multiphase CT Angiography: A New Tool for the Imaging Triage of Patients with Acute Ischemic Stroke. Radiology 2015;275(2):510-520.
+
+van den Wijngaard IR, Holswilder G, Wermer MJ, et al. Assessment of Collateral Status by Dynamic CT Angiography in Acute MCA Stroke: Timing of Acquisition and Relationship with Final Infarct Volume. AJNR Am J Neuroradiol 2016;37(7):1231-1236.
+
+van den Wijngaard IR, Boiten J, Holswilder G, et al. Impact of Collateral Status Evaluated by Dynamic Computed Tomographic Angiography on Clinical Outcome in Patients With Ischemic Stroke. Stroke 2015;46(12):3398-3404.
+
+Schregel K, Tsogkas I, Peter C, et al. Outcome Prediction Using Perfusion Parameters and Collateral Scores of Multi-Phase and Single-Phase CT Angiography in Acute Stroke: Need for One, Two, Three, or Thirty Scans? J Stroke 2018;20(3):362-372.
+
+Yang JJ, Hill MD, Morrish WF, et al. Comparison of pre- and postcontrast 3D time-of-flight MR angiography for the evaluation of distal intracranial branch occlusions in acute ischemic stroke. AJNR Am J Neuroradiol 2002;23(4):557-567.
+
+Menon BK, Qazi E, Nambiar V, et al. Differential Effect of Baseline Computed Tomographic Angiography Collaterals on Clinical Outcome in Patients Enrolled in the Interventional Management of Stroke III Trial. Stroke 2015;46(5):1239-1244.
+
+Shuaib A, Butcher K, Mohammad AA, Saqqur M, Lie­ beskind DS. Collateral blood vessels in acute ischaemic stroke: a potential therapeutic target. Lancet Neurol 2011;10(10):909-921.
+
+Wintermark M, Rowley HA, Lev MH. Acute stroke triage to intravenous thrombolysis and other therapies with advanced CT or MR imaging: pro CT. Radiology 2009;251(3):619-626.
+
+Campbell BC, Christensen S, Tress BM, et al. Failure of collateral blood flow is associated with infarct growth in ischemic stroke. J Cereb Blood Flow Metab 2013;33(8):1168-1172.
+
+Nael K, Doshi A, De Leacy R, et al. MR Perfusion to Determine the Status of Collaterals in Patients with Acute Ischemic Stroke: A Look Beyond Time Maps. AJNR Am J Neuroradiol 2018;39(2):219-225.
+
+Nannoni S, Cereda CW, Sirimarco G, et al. Collaterals are a major determinant of the core but not the penumbra volume in acute ischemic stroke. Neuroradiology 2019 May 23 [Epub ahead of print].
+
+Arenillas JF, Cortijo E, García-Bermejo P, et al. Relative cerebral blood volume is associated with collateral status and infarct growth in stroke patients in SWIFT PRIME. J Cereb Blood Flow Metab 2018;38(10):1839-1847. [Published correction appears in J Cereb Blood Flow Metab 2018 Mar 9:271678X18765354.] https://doi. org/10.1177/0271678X17740293.
+
+Krol AL, Dzialowski I, Roy J, et al. Incidence of radiocontrast nephropathy in patients undergoing acute stroke computed tomography angiography. Stroke 2007;38(8):2364-2366. [Published correction appears in Stroke 2007;38(9):e97.] https://doi.org/10.1161/STROKEAHA.107.482778.
+
+Ehrlich ME, Turner HL, Currie LJ, Wintermark M, Worrall BB, Southerland AM. Safety of Computed Tomographic Angiography in the Evaluation of Patients With Acute Stroke: A Single-Center Experience. Stroke 2016;47(8):2045-2050.
+
+Lima FO, Lev MH, Levy RA, et al. Functional contrastenhanced CT for evaluation of acute ischemic stroke does not increase the risk of contrast-induced nephropathy. AJNR Am J Neuroradiol 2010;31(5):817-821.
+
+Correction to: 2018 Guidelines for the Early Management of Patients With Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. Stroke 2018;49(6):e233-e234.
+
+[DOCLING_PAGE 18]
+
+RG · Volume 39 Number 6
+
+Nael et al 1713
+
+Ribo M, Molina CA, Cobo E, et al. Association Between Time to Reperfusion and Outcome Is Primarily Driven by the Time From Imaging to Reperfusion. Stroke 2016;47(4):999-1004.
+
+Fransen PS, Berkhemer OA, Lingsma HF, et al. Time to Reperfusion and Treatment Effect for Acute Ischemic Stroke: A Randomized Clinical Trial. JAMA Neurol 2016;73(2):190-196.
+
+Haussen DC, Dehkharghani S, Rangaraju S, et al. Automated CT Perfusion Ischemic Core Volume and Noncontrast CT ASPECTS (Alberta Stroke Program Early CT Score): Correlation and Clinical Outcome Prediction in Large Vessel Stroke. Stroke 2016;47(9):2318-2322.
+
+Kudo K, Sasaki M, Yamada K, et al. Differences in CT perfusion maps generated by different commercial software: quantitative analysis by using identical source data of acute stroke patients. Radiology 2010;254(1):200-209.
+
+Desai SM, Rocha M, Molyneaux BJ, et al. Thrombectomy 6-24 hours after stroke in trial ineligible patients. J Neurointerv Surg 2018;10(11):1033-1037.
+
+Liebeskind DS, Jahan R, Nogueira RG, Zaidat OO, Saver JL; SWIFT Investigators. Impact of collaterals on successful revascularization in Solitaire FR with the intention for thrombectomy. Stroke 2014;45(7):2036-2040.
+
+Bang OY, Saver JL, Buck BH, et al. Impact of collateral flow on tissue fate in acute ischaemic stroke. J Neurol Neurosurg Psychiatry 2008;79(6):625-629.
+
+Vagal A, Aviv R, Sucharew H, et al. Collateral Clock Is More Important Than Time Clock for Tissue Fate. Stroke 2018;49(9):2102-2107.
+
+Amiri H, Bluhmki E, Bendszus M, et al. European Cooperative Acute Stroke Study-4: EXtending the time for Thrombolysis in Emergency Neurological Deficits ECASS-4-ExTEND. Int J Stroke 2016;11(2):260-267.
+
+Goyal M, Menon BK, van Zwam WH, et al. Endovascular thrombectomy after large-vessel ischaemic stroke: a metaanalysis of individual patient data from five randomised trials. Lancet 2016;387(10029):1723-1731.
+
+Haussen DC, Lima FO, Bouslama M, et al. Thrombectomy versus medical management for large vessel occlusion strokes with minimal symptoms: an analysis from STOPStroke and GESTOR cohorts. J Neurointerv Surg 2018;10(4):325-329.
+
+Dargazanli C, Arquizan C, Gory B, et al. Mechanical Thrombectomy for Minor and Mild Stroke Patients Harboring Large Vessel Occlusion in the Anterior Circulation: A Multicenter Cohort Study. Stroke 2017;48(12): 3274-3281.
+
+Nagel S, Bouslama M, Krause LU, et al. Mechanical Thrombectomy in Patients With Milder Strokes and Large Vessel Occlusions. Stroke 2018;49(10):2391-2397.
+
+Román LS, Menon BK, Blasco J, et al. Imaging features and safety and efficacy of endovascular stroke treatment: a meta-analysis of individual patient-level data. Lancet Neurol 2018;17(10):895-904.
+
+Sarraj A, Sangha N, Hussain MS, et al. Endovascular Therapy for Acute Ischemic Stroke With Occlusion of
+
+the Middle Cerebral Artery M2 Segment. JAMA Neurol 2016;73(11):1291-1296.
+
+Coutinho JM, Liebeskind DS, Slater LA, et al. Mechanical Thrombectomy for Isolated M2 Occlusions: A Post Hoc Analysis of the STAR, SWIFT, and SWIFT PRIME Studies. AJNR Am J Neuroradiol 2016;37(4):667-672.
+
+Gilgen MD, Klimek D, Liesirova KT, et al. Younger Stroke Patients With Large Pretreatment Diffusion-Weighted Imaging Lesions May Benefit From Endovascular Treatment. Stroke 2015;46(9):2510-2516.
+
+Mourand I, Abergel E, Mantilla D, et al. Favorable revascularization therapy in patients with ASPECTS ≤ 5 on DWI in anterior circulation stroke. J Neurointerv Surg 2018;10(1):5-9.
+
+Rebello LC, Bouslama M, Haussen DC, et al. Endovascular Treatment for Patients With Acute Stroke Who Have a Large Ischemic Core and Large Mismatch Imaging Profile. JAMA Neurol 2017;74(1):34-40.
+
+Campbell BCV, Majoie CBLM, Albers GW, et al. Penumbral imaging and functional outcome in patients with anterior circulation ischaemic stroke treated with endovascular thrombectomy versus medical therapy: a meta-analysis of individual patient-level data. Lancet Neurol 2019;18(1):46-55.
+
+Greving JP, Schonewille WJ, Wijman CA, et al. Predicting outcome after acute basilar artery occlusion based on admission characteristics. Neurology 2012;78(14):1058-1063.
+
+Mattle HP, Arnold M, Lindsberg PJ, Schonewille WJ, Schroth G. Basilar artery occlusion. Lancet Neurol 2011;10(11):1002-1014.
+
+Kayan Y, Meyers PM, Prestigiacomo CJ, Kan P, Fraser JF; Society of NeuroInterventional Surgery. Current endovascular strategies for posterior circulation large vessel occlusion stroke: report of the Society of NeuroInterventional Surgery Standards and Guidelines Committee. J Neurointerv Surg 2019 May 18 [Epub ahead of print]. https://doi.org/10.1136/ neurintsurg-2019-014873.
+
+Alonso de Leciñana M, Kawiorski MM, Ximénez-Carrillo Á, et al. Mechanical thrombectomy for basilar artery thrombosis: a comparison of outcomes with anterior circulation occlusions. J Neurointerv Surg 2017;9(12):1173-1178.
+
+Wyszomirski A, Szczyrba S, Tomaka D, Karaszewski B. Treatment of acute basilar artery occlusion: systematic review and meta-analysis. Neurol Neurochir Pol 2017;51(6): 486-496.
+
+Hu SY, Yi HJ, Lee DH, Hong JT, Sung JH, Lee SW. Effectiveness and Safety of Mechanical Thrombectomy with Stent Retrievers in Basilar Artery Occlusion: Comparison with Anterior Circulation Occlusions. J Korean Neurosurg Soc 2017;60(6):635-643.
+
+Desai SM, Haussen DC, Aghaebrahim A, et al. Thrombectomy 24 hours after stroke: beyond DAWN. J Neurointerv Surg 2018;10(11):1039-1042.
+
+Fisher M, Goyal M. Variance of Imaging Protocols for Patients With Suspected Acute Ischemic Stroke Because of Large-Vessel Occlusion. Stroke 2018;49(8):1805-1808.
+
+This journal-based SA-CME activity has been approved for AMA PRA Category 1 Credit TM . See rsna.org/learning-center-rg.

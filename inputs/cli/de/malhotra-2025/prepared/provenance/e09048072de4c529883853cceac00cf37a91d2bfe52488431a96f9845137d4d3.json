@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0.0",
+  "case_id": "malhotra-2025",
+  "source_mode": "raw",
+  "selection_mode": "direct",
+  "repair_mode": "none",
+  "source_run_ids": [
+    "de-v3-malhotra-2025-r1-20260826T191112Z-ed959003",
+    "de-v3-malhotra-2025-r2-20260826T193134Z-d2b197e6",
+    "de-v3-malhotra-2025-r3-20260826T195011Z-6fe8c753"
+  ],
+  "selected_run_id": "de-v3-malhotra-2025-r1-20260826T191112Z-ed959003",
+  "documents": [
+    {
+      "document_key": "api_cat.fulltext",
+      "source_document_sha256": "7f692f32661d0d5dd40ecbb4223e6413e21017dfa3446127f45f1a3091cc35d4",
+      "snapshot_path": "frozen/api_cat.fulltext/source.docling.json",
+      "snapshot_sha256": "b9f19717a77214ac298ebf42d44b88904f7e885774e124b65107cc36f36408a8",
+      "media_type": "application/vnd.docling+json",
+      "converter": {
+        "name": "docling",
+        "version": "2.117.0",
+        "pipeline": "standard",
+        "do_ocr": false,
+        "do_table_structure": true,
+        "table_mode": "accurate"
+      },
+      "character_repair_applied": false,
+      "prepare_stage_output_sha256": "9088bf95c7b68cf3dec489dbf0205f330365d385568ca2fd9a6a6a810052f13f",
+      "repair_stage_output_sha256s": [],
+      "repair_apply_stage_output_sha256": null
+    },
+    {
+      "document_key": "api_cat.supplement",
+      "source_document_sha256": "a774679791fed92d92fbfbd23f94a41469049cc12dcb49622078de897551f663",
+      "snapshot_path": "frozen/api_cat.supplement/source.docling.json",
+      "snapshot_sha256": "0200a9a62470f9419247aff8110e48fb0ccaecfa9d3b1dba80400b47b9e04e8a",
+      "media_type": "application/vnd.docling+json",
+      "converter": {
+        "name": "docling",
+        "version": "2.117.0",
+        "pipeline": "standard",
+        "do_ocr": false,
+        "do_table_structure": true,
+        "table_mode": "accurate"
+      },
+      "character_repair_applied": false,
+      "prepare_stage_output_sha256": "da3ef8261dfd32b37a3dc3322ac44dc0fd52df83bd941a2b2840f23e184b82ba",
+      "repair_stage_output_sha256s": [],
+      "repair_apply_stage_output_sha256": null
+    },
+    {
+      "document_key": "eve.fulltext",
+      "source_document_sha256": "c427862c698dab50ad4f0783bf2a399dab3b2fc1dd689836bdd26c616ec1ff08",
+      "snapshot_path": "frozen/eve.fulltext/source.docling.json",
+      "snapshot_sha256": "84d077c0ca2081a0a967410e15fb2de61ec9a0380649671ecb76186e55a6488a",
+      "media_type": "application/vnd.docling+json",
+      "converter": {
+        "name": "docling",
+        "version": "2.117.0",
+        "pipeline": "standard",
+        "do_ocr": false,
+        "do_table_structure": true,
+        "table_mode": "accurate"
+      },
+      "character_repair_applied": false,
+      "prepare_stage_output_sha256": "1894cb579538bd75cc383b80226f4cbc07e0bb564c367e4ffd146bf2fa48a463",
+      "repair_stage_output_sha256s": [],
+      "repair_apply_stage_output_sha256": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "article": {
+    "doi": "10.1016/j.ahjo.2026.100830",
+    "license_text": "This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).",
+    "license_url": null,
+    "pmcid": "PMC13380479",
+    "pmid": "42471928",
+    "title": "Ultrasound-guided management in heart failure: A systematic review and meta-analysis evaluating lung and inferior vena cava ultrasound for reducing readmissions and mortality"
+  },
+  "candidate": {
+    "line_count": 79,
+    "path": "frozen/PMC13380479/candidate.txt",
+    "sha256": "364f2dec72acca114a93db6b73f54114cf93376d7e92d009be08489db24ff288"
+  },
+  "external_comparator": {
+    "path": "frozen/PMC13380479/external-comparator.txt",
+    "removed_node_count": 1,
+    "sha256": "83593fe0e906d4b0bbac578fc0cc3f4a6988b37c90fdee570dd9bb1890bc5d1c"
+  },
+  "freezer": {
+    "id": "metarigor-ec-review-jats-freezer",
+    "version": "1.1.0"
+  },
+  "raw_source": {
+    "path": "sources/PMC13380479.xml",
+    "sha256": "ab55f1bfddfa208a117166e36866f3bf6202a18034b5531a5c0871779c34a20b"
+  },
+  "redacted_evidence_tables": [],
+  "removed_nodes": [
+    {
+      "node_id": "s0070",
+      "tag": "sec"
+    }
+  ],
+  "retrieved_on": "2026-08-31",
+  "schema_version": "1.0.0",
+  "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC13380479&retmode=xml"
+}

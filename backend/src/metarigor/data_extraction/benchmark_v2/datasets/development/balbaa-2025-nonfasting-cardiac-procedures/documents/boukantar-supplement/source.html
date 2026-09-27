@@ -1,0 +1,4414 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Author" content="Paul-Matthieu LE DOC">
+  <meta name="LastAuthor" content="Paul-Matthieu LE DOC">
+  <meta name="Company" content="HP Inc.">
+  <meta name="Subject" content="">
+  <meta name="Description" content="">
+  <meta name="Keywords" content="">
+  <meta name="CreationTime" content="2024-03-10T03:05:00Z">
+  <meta name="ModificationTime" content="2024-03-10T03:05:00Z">
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2575.7">
+  <style type="text/css">
+    p.p1 {margin: 12.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 14.0px; font: 12.0px 'Times New Roman'}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 12.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 12.0px; font: 12.0px 'Times New Roman'}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 12.0px; font: 12.0px 'Times New Roman'}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 12.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px}
+    p.p6 {margin: 0.0px 0.0px 0.0px 35.4px; line-height: 12.0px; font: 12.0px 'Times New Roman'}
+    p.p7 {margin: 12.0px 0.0px 0.0px 0.0px; line-height: 16.0px; font: 12.0px 'Times New Roman'}
+    p.p8 {margin: 12.0px 0.0px 0.0px 0.0px; line-height: 16.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px}
+    p.p9 {margin: 12.0px 0.0px 10.0px 0.0px; text-align: center; line-height: 14.0px; font: 12.0px 'Times New Roman'}
+    p.p10 {margin: 12.0px 0.0px 0.0px 0.0px; line-height: 12.0px; font: 12.0px 'Times New Roman'}
+    p.p11 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 12.0px; font: 12.0px 'Times New Roman'; color: #000000}
+    p.p12 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px 'Times New Roman'}
+    p.p13 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px}
+    p.p14 {margin: 12.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px 'Times New Roman'}
+    p.p15 {margin: 0.0px 0.0px 8.0px 0.0px; text-align: center; line-height: 16.0px; font: 12.0px 'Times New Roman'}
+    p.p16 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 18.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px}
+    p.p17 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 18.0px; font: 12.0px 'Times New Roman'}
+    p.p18 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 18.0px; font: 12.0px 'Times New Roman'; color: #000000}
+    p.p19 {margin: 12.0px 0.0px 0.0px 0.0px; line-height: 24.0px; font: 12.0px 'Times New Roman'; color: #000000}
+    p.p20 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 24.0px; font: 12.0px 'Times New Roman'; color: #000000}
+    p.p21 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 24.0px; font: 12.0px 'Times New Roman'; color: #000000}
+    p.p22 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 12.0px; font: 12.0px 'Times New Roman'; color: #000000}
+    p.p23 {margin: 0.0px 0.0px 8.0px 0.0px; line-height: 16.0px; font: 12.0px 'Times New Roman'; color: #000000}
+    p.p24 {margin: 12.0px 0.0px 10.0px 0.0px; text-align: center; line-height: 14.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px}
+    p.p25 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 18.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px}
+    p.p26 {margin: 0.0px 0.0px 10.0px 0.0px; line-height: 14.0px; font: 12.0px 'Times New Roman'}
+    p.p27 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 11.0px 'Times New Roman'; min-height: 12.0px}
+    p.p28 {margin: 0.0px 0.0px 8.0px 0.0px; line-height: 16.0px; font: 11.0px 'Times New Roman'; min-height: 12.0px}
+    p.p29 {margin: 0.0px 0.0px 8.0px 0.0px; text-align: center; line-height: 16.0px; font: 16.0px 'Times New Roman'}
+    p.p30 {margin: 0.0px 0.0px 8.0px 0.0px; text-align: center; line-height: 16.0px; font: 16.0px 'Times New Roman'; min-height: 18.0px}
+    p.p31 {margin: 0.0px 0.0px 10.0px 36.0px; text-align: justify; line-height: 12.0px; font: 11.0px 'Times New Roman'}
+    p.p32 {margin: 0.0px 0.0px 8.0px 0.0px; line-height: 12.0px; font: 11.0px 'Times New Roman'}
+    p.p33 {margin: 0.0px 0.0px 10.0px 36.0px; text-align: justify; line-height: 12.0px; font: 11.0px 'Times New Roman'; min-height: 12.0px}
+    p.p34 {margin: 0.0px 0.0px 10.0px 0.0px; line-height: 12.0px; font: 11.0px 'Times New Roman'}
+    p.p35 {margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 14.0px; font: 11.0px 'Times New Roman'; min-height: 12.0px}
+    p.p36 {margin: 0.0px 0.0px 10.0px 36.0px; text-align: justify; line-height: 14.0px; font: 11.0px 'Times New Roman'}
+    p.p37 {margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; line-height: 14.0px; font: 14.0px 'Times New Roman'}
+    p.p38 {margin: 0.0px 0.0px 8.0px 0.0px; line-height: 16.0px; font: 11.0px 'Times New Roman'}
+    p.p39 {margin: 0.0px 0.0px 8.0px 0.0px; text-align: justify; line-height: 12.0px; font: 11.0px 'Times New Roman'}
+    p.p40 {margin: 0.0px 0.0px 8.0px 0.0px; line-height: 12.0px; font: 11.0px 'Times New Roman'; min-height: 12.0px}
+    p.p41 {margin: 0.0px 0.0px 10.0px 36.0px; text-align: justify; line-height: 14.0px; font: 11.0px 'Times New Roman'; min-height: 12.0px}
+    p.p42 {margin: 0.0px 0.0px 8.0px 18.0px; line-height: 16.0px; font: 14.0px 'Times New Roman'}
+    p.p43 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 12.0px; font: 11.0px 'Times New Roman'; min-height: 12.0px}
+    span.s1 {text-decoration: underline}
+    span.s2 {font: 11.0px Wingdings}
+    span.s3 {font: 11.0px 'Times New Roman'}
+    span.s4 {font: 14.0px Wingdings}
+    span.Apple-tab-span {white-space:pre}
+    table.t1 {border-collapse: collapse}
+    td.td1 {min-width: 254.0px; min-height: 11.3px; border-style: solid; border-width: 1.0px 1.0px 0.0px 1.0px; border-color: #bfbfbf #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td2 {min-width: 101.6px; min-height: 11.3px; border-style: solid; border-width: 1.0px 1.0px 0.0px 1.0px; border-color: #bfbfbf #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td3 {min-width: 123.4px; min-height: 11.3px; border-style: solid; border-width: 1.0px 1.0px 0.0px 1.0px; border-color: #bfbfbf #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td4 {min-width: 254.0px; min-height: 11.3px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td5 {min-width: 101.6px; min-height: 11.3px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td6 {min-width: 123.4px; min-height: 11.3px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td7 {min-width: 276.4px; min-height: 11.3px; border-style: solid; border-width: 1.0px 1.0px 0.0px 1.0px; border-color: #bfbfbf #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td8 {min-width: 103.3px; min-height: 11.3px; border-style: solid; border-width: 1.0px 1.0px 0.0px 1.0px; border-color: #bfbfbf #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td9 {min-width: 109.3px; min-height: 11.3px; border-style: solid; border-width: 1.0px 1.0px 0.0px 1.0px; border-color: #bfbfbf #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td10 {min-width: 276.4px; min-height: 11.3px; border-style: solid; border-width: 0.0px 1.0px 0.0px 1.0px; border-color: transparent #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td11 {min-width: 103.3px; min-height: 11.3px; border-style: solid; border-width: 0.0px 1.0px 0.0px 1.0px; border-color: transparent #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td12 {min-width: 109.3px; min-height: 11.3px; border-style: solid; border-width: 0.0px 1.0px 0.0px 1.0px; border-color: transparent #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td13 {min-width: 276.4px; min-height: 11.3px; border-style: solid; border-width: 0.0px 1.0px 1.0px 1.0px; border-color: transparent #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td14 {min-width: 103.3px; min-height: 11.3px; border-style: solid; border-width: 0.0px 1.0px 1.0px 1.0px; border-color: transparent #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td15 {min-width: 109.3px; min-height: 11.3px; border-style: solid; border-width: 0.0px 1.0px 1.0px 1.0px; border-color: transparent #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td16 {min-width: 276.4px; min-height: 11.3px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td17 {min-width: 103.3px; min-height: 11.3px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td18 {min-width: 109.3px; min-height: 11.3px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td19 {min-width: 198.5px; min-height: 15.6px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td20 {min-width: 78.0px; min-height: 15.6px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td21 {min-width: 77.9px; min-height: 15.6px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td22 {min-width: 63.8px; min-height: 15.6px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td23 {min-width: 85.8px; min-height: 15.6px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td24 {min-width: 198.5px; min-height: 15.6px; border-style: solid; border-width: 1.0px 1.0px 0.0px 1.0px; border-color: #bfbfbf #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td25 {min-width: 78.0px; min-height: 15.6px; border-style: solid; border-width: 1.0px 1.0px 0.0px 1.0px; border-color: #bfbfbf #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td26 {min-width: 77.9px; min-height: 15.6px; border-style: solid; border-width: 1.0px 1.0px 0.0px 1.0px; border-color: #bfbfbf #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td27 {min-width: 63.8px; min-height: 15.6px; border-style: solid; border-width: 1.0px 1.0px 0.0px 1.0px; border-color: #bfbfbf #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td28 {min-width: 85.8px; min-height: 15.6px; border-style: solid; border-width: 1.0px 1.0px 0.0px 1.0px; border-color: #bfbfbf #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td29 {min-width: 198.5px; min-height: 15.6px; border-style: solid; border-width: 0.0px 1.0px 0.0px 1.0px; border-color: transparent #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td30 {min-width: 78.0px; min-height: 15.6px; border-style: solid; border-width: 0.0px 1.0px 0.0px 1.0px; border-color: transparent #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td31 {min-width: 77.9px; min-height: 15.6px; border-style: solid; border-width: 0.0px 1.0px 0.0px 1.0px; border-color: transparent #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td32 {min-width: 63.8px; min-height: 15.6px; border-style: solid; border-width: 0.0px 1.0px 0.0px 1.0px; border-color: transparent #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td33 {min-width: 85.8px; min-height: 15.6px; border-style: solid; border-width: 0.0px 1.0px 0.0px 1.0px; border-color: transparent #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td34 {min-width: 198.5px; min-height: 15.6px; border-style: solid; border-width: 0.0px 1.0px 1.0px 1.0px; border-color: transparent #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td35 {min-width: 78.0px; min-height: 15.6px; border-style: solid; border-width: 0.0px 1.0px 1.0px 1.0px; border-color: transparent #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td36 {min-width: 77.9px; min-height: 15.6px; border-style: solid; border-width: 0.0px 1.0px 1.0px 1.0px; border-color: transparent #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td37 {min-width: 63.8px; min-height: 15.6px; border-style: solid; border-width: 0.0px 1.0px 1.0px 1.0px; border-color: transparent #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td38 {min-width: 85.8px; min-height: 15.6px; border-style: solid; border-width: 0.0px 1.0px 1.0px 1.0px; border-color: transparent #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td39 {min-width: 167.2px; min-height: 17.0px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td40 {min-width: 57.1px; min-height: 17.0px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td41 {min-width: 48.9px; min-height: 17.0px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td42 {min-width: 67.9px; min-height: 17.0px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td43 {min-width: 87.1px; min-height: 17.0px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td44 {min-width: 72.5px; min-height: 17.0px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td45 {min-width: 167.2px; min-height: 17.0px; border-style: solid; border-width: 0.0px 1.0px 0.0px 1.0px; border-color: transparent #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td46 {min-width: 57.1px; min-height: 17.0px; border-style: solid; border-width: 0.0px 1.0px 0.0px 1.0px; border-color: transparent #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td47 {min-width: 48.9px; min-height: 17.0px; border-style: solid; border-width: 0.0px 1.0px 0.0px 1.0px; border-color: transparent #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td48 {min-width: 67.9px; min-height: 17.0px; border-style: solid; border-width: 0.0px 1.0px 0.0px 1.0px; border-color: transparent #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td49 {min-width: 72.8px; min-height: 17.0px; border-style: solid; border-width: 0.0px 1.0px 0.0px 1.0px; border-color: transparent #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td50 {min-width: 86.8px; min-height: 17.0px; border-style: solid; border-width: 0.0px 1.0px 0.0px 1.0px; border-color: transparent #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td51 {min-width: 72.8px; min-height: 17.0px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td52 {min-width: 86.8px; min-height: 17.0px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td53 {min-width: 170.1px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td54 {min-width: 241.0px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td55 {min-width: 59.7px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td56 {min-width: 127.6px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td57 {min-width: 113.4px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td58 {min-width: 170.1px; min-height: 12.4px; border-style: solid; border-width: 1.0px 1.0px 0.0px 1.0px; border-color: #bfbfbf #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td59 {min-width: 127.6px; min-height: 12.4px; border-style: solid; border-width: 1.0px 1.0px 0.0px 1.0px; border-color: #bfbfbf #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td60 {min-width: 113.4px; min-height: 12.4px; border-style: solid; border-width: 1.0px 1.0px 0.0px 1.0px; border-color: #bfbfbf #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td61 {min-width: 59.7px; min-height: 12.4px; border-style: solid; border-width: 1.0px 1.0px 0.0px 1.0px; border-color: #bfbfbf #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td62 {min-width: 170.1px; border-style: solid; border-width: 0.0px 1.0px 0.0px 1.0px; border-color: transparent #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td63 {min-width: 127.6px; border-style: solid; border-width: 0.0px 1.0px 0.0px 1.0px; border-color: transparent #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td64 {min-width: 113.4px; border-style: solid; border-width: 0.0px 1.0px 0.0px 1.0px; border-color: transparent #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td65 {min-width: 59.7px; border-style: solid; border-width: 0.0px 1.0px 0.0px 1.0px; border-color: transparent #bfbfbf transparent #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td66 {min-width: 170.1px; border-style: solid; border-width: 0.0px 1.0px 1.0px 1.0px; border-color: transparent #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td67 {min-width: 127.6px; border-style: solid; border-width: 0.0px 1.0px 1.0px 1.0px; border-color: transparent #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td68 {min-width: 113.4px; border-style: solid; border-width: 0.0px 1.0px 1.0px 1.0px; border-color: transparent #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td69 {min-width: 59.7px; border-style: solid; border-width: 0.0px 1.0px 1.0px 1.0px; border-color: transparent #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td70 {min-width: 276.4px; min-height: 17.0px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td71 {min-width: 85.1px; min-height: 17.0px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td72 {min-width: 113.4px; min-height: 17.0px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+    td.td73 {min-width: 56.7px; min-height: 17.0px; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: #bfbfbf #bfbfbf #bfbfbf #bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1"><b>Supplementary table S1</b></span><b>: Other baseline characteristics.</b></p>
+<table cellspacing="0" cellpadding="0" class="t1">
+  <tbody>
+    <tr>
+      <td valign="top" class="td1">
+        <p class="p2"><b><i></i></b><br></p>
+      </td>
+      <td valign="middle" class="td2">
+        <p class="p3"><b>Fasting group</b></p>
+        <p class="p3"><b>N=379</b></p>
+        <p class="p3"><b>N (%)</b><b></b></p>
+      </td>
+      <td valign="middle" class="td3">
+        <p class="p3"><b>Non-fasting group</b></p>
+        <p class="p3"><b>N= 376</b></p>
+        <p class="p3"><b>N (%)</b><b></b></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4"><b><i>Medications<span class="Apple-converted-space"> </span></i></b></p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">361 (95)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">353 (94)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4">Beta blockers</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">202 (53)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">219 (58)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4">ACE inhibitor or ARB</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">242 (64)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">243 (65)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4">Insulin</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">40 (11)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">40 (11)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4">Calcium channel blocker</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">88 (23)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">91 (24)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4">Diuretic</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">109 (29)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">110 (29)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4">Statin</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">272 (72)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">274 (73)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4">Antiplatelet</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">272 (72)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">249 (66)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4">Sulphonylurea</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">52 (14)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">55 (15)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4">Anticoagulant</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">83 (22)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">67 (18)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4">Anti-emetic</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">0 (0)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">0 (0)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4">Chemotherapy</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">4 (1)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">9 (2)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4"><b><i>Clinical presentation</i></b></p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4">Angina (CCS class)</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p6">None</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">206 (54)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">211 (56)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p6">Class I</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">67 (18)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">67 (18)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p6">Class II</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">61 (16)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">50 (13)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p6">Class III</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">19 (5)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">17 (5)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p6">Class IV</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">26 (7)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">31 (8)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4">Dyspnea (NYHA class)</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p6">None</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">228 (60)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">217 (58)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p6">Class I</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">8 (2)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">17 (5)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p6">Class II</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">81 (21)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">88 (23)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p6">Class III</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">44 (12)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">42 (11)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p6">Class IV</p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">18 (5)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">12 (3)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4">LVEF, (%), <i>Median (IQR) </i><i><sup>a</sup></i><i><sup></sup></i></p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">54 (35 ; 60)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">60 (45 ; 61)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4">Hemoglobin (g/dL),<i> Median (IQR)</i><i><sup> b</sup></i><i><sup></sup></i></p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">14.0 (12.6 ; 14.9)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">13.9 (12.7 ; 15.0)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4"><b><i>Physical examination (at inclusion)</i></b></p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4">Systolic blood pressure (mmHg),<i> Mean (±SD)<span class="Apple-converted-space"> </span></i><i></i></p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">136 (±20)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">135 (±19)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4">Diastolic blood pressure (mmHg),<i> Mean (±SD)<span class="Apple-converted-space"> </span></i><i></i></p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">75 (±12)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">75 (±11)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4">Heart rate (bpm),<i> Median (IQR)</i><i></i></p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">69 (62 ; 79)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">69 (61 ; 76)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4">Weight (kg),<i> Mean (±SD)<span class="Apple-converted-space"> </span></i><i></i></p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">78 (±16)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">78 (±16)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4">Body mass index (kg/m2),<i> Mean (±SD)</i><i></i></p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">27 (±5)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">27 (±4)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td4">
+        <p class="p4">Blood glucose (if diabetes, g/L),<i> Median (IQR)</i><i><sup> c</sup></i><i><sup></sup></i></p>
+      </td>
+      <td valign="middle" class="td5">
+        <p class="p3">1.31 (1.15 ; 1.57)</p>
+      </td>
+      <td valign="middle" class="td6">
+        <p class="p3">1.31 (1.20 ; 1.72)</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p class="p7"><i><sup>a</sup></i> LVEF: n=94 in fasting group, n= 97 in non-fasting group. <i><sup>b </sup></i>Hemoglobin: n= 376 in fasting group, n= 373 in non-fasting group. <i><sup>c</sup></i> Capillary blood glucose among patients with diabetes: n= 106 in fasting group, n= 112 in non-fasting group. ACE: angiotensin converting enzyme; ARB: angiotensin receptor blocker; CCS: Canadian Cardiovascular Society; IQR: interquartile range; LVEF: left ventricular ejection fraction; NYHA: New-York Heart Association; SD: standard deviation.</p>
+<p class="p8"><br></p>
+<p class="p8"><br></p>
+<p class="p9"><span class="s1"><b>Supplementary table S2</b></span><b>: Other procedural characteristics.</b></p>
+<table cellspacing="0" cellpadding="0" class="t1">
+  <tbody>
+    <tr>
+      <td valign="top" class="td7">
+        <p class="p2"><b></b><br></p>
+        <p class="p2"><b></b><br></p>
+      </td>
+      <td valign="middle" class="td8">
+        <p class="p3"><b>Fasting group</b></p>
+        <p class="p3"><b>N=374<br>
+N (%)</b><b></b></p>
+      </td>
+      <td valign="middle" class="td9">
+        <p class="p3"><b>Non-fasting group</b></p>
+        <p class="p3"><b>N=365</b></p>
+        <p class="p3"><b>N (%)</b><b></b></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td7">
+        <p class="p10"><b><i>Vitals at the start of the procedure</i></b></p>
+      </td>
+      <td valign="middle" class="td8">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td9">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p4">Systolic blood pressure (mmHg), <i>Mean ± SD</i><i></i></p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p11">134 (±28)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p11">134 (±25)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p4">Diastolic blood pressure (mmHg), <i>Mean ± SD</i><i></i></p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p11">74 (±15)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p11">75 (±14)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p4">Heart rate (bpm), <i>Mean ± SD</i><i></i></p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p11">73 (±14)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p11">74 (±15)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p4"><b><i>Blood sugar</i></b></p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p4">Start of the procedure (g/l), Median (IQR)<sup>a</sup><sup></sup></p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p11">0.97 (0.86 ; 1.13)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p11">1.16 (0.93 ; 1.50)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p4">End of the procedure (g/l), Median (IQR)<sup>a</sup><sup></sup></p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p11">1.00 (0.88 ; 1.18)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p11">1.10 (0.93 ; 1.40)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td13">
+        <p class="p4"><b><i>First vascular access</i></b></p>
+      </td>
+      <td valign="middle" class="td14">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td15">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4">Artery</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Right radial</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">323 (86)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">307 (84)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Left radial</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">28 (7</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">41 (11)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Right femoral</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">21 (6)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">14 (4)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Left femoral</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">2 (1)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">3 (1)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4">Closure system (for radial artery)</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Manual compression</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">256/351 (73)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">254/348 (73)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">TR-band</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">95/351 (27)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">94/348 (27)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4">Closure system (for femoral artery)</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Angioseal</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">21/23 (91)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">17/17 (100)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Proglide</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">1/23 (4)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">0/17 (0)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Manual compression</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">1/23 (4)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">0/17 (0)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4">Success of the first artery access</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">368 (98)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">356 (98)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4">Introducer sheath size</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">4F</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">4 (1)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">2 (1)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">5F<span class="Apple-converted-space"> </span></p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">159 (43)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">164 (45)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">6F</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">196 (52)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">191 (52)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">7F</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">15 (4)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">8 (2)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4"><b><i>Second vascular access<span class="Apple-converted-space"> </span></i></b></p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">19 (5)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">16 (4)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4">Reason for a second access</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Punction failure</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">3/19 (16)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">6/16 (38)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Tortuosity</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">3/19 (16)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">4/16 (25)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Spasm</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">3/19 (16)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">0/16 (0)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Chronic total occlusion</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">10/19 (53)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">6/16 (38)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4">Artery</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Right radial</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">1/19 (5)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">1/16 (6)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Left radial</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">6/19 (32)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">9/16 (56)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Right femoral</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">11/19 (58)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">6/16 (38)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Left femoral</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">1/19 (5)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">0/16 (0)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4">Closure (radial artery)</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Compressif</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">2/7 (29)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">5/10 (50)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">TR-band</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">5/7 (71)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">5/10 (50)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4">Closure (femoral artery)</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Angioseal</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">11/12 (92)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">5/6 (83)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Compression</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">1/12 (8)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">1/6 (17)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4">Success of the second artery access</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">19/19 (100)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">16/19 (100)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4"><b><i>Type of procedure</i></b></p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Coronary angiography</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">264 (71)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">253 (69)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Coronary angiography and angioplasty</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">77 (21)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">77 (21)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Planned angioplasty</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">33 (9)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">35 (10)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4">FFR performed</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">106 (28)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">106 (29)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4"><span class="Apple-converted-space">            </span>Intravenous adenosine</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">10/106 (9)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">12/106 (11)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4"><span class="Apple-converted-space">            </span>Intracoronary adenosine</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">96/106 (91)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">94/106 (89)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4"><b><i>Treated arteries (if angioplasty)</i></b></p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p6">Left main artery</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">13/110 (12)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">8/112 (7)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td7">
+        <p class="p6">Left anterior descending artery</p>
+      </td>
+      <td valign="middle" class="td8">
+        <p class="p3">64/110 (60)</p>
+      </td>
+      <td valign="middle" class="td9">
+        <p class="p3">64/112 (57)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p6">Circumflex artery</p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p3">27/110 (25)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p3">27/112 (24)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p6">Right coronary artery</p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p3">36/110 (34)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p3">38/112 (34)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p6">Bypass graft</p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p3">1/110 (1)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p3">1/112 (1)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p4"><b><i>Number of stents implanted (if angioplasty)</i></b></p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p6">0 (balloon only)</p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p3">8/110 (7)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p3">6/112 (5)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p6">1</p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p3">41/110 (37)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p3">40/112 (36)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p6">2</p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p3">33/110 (30)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p3">36/112 (32)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p6">3</p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p3">15/110 (14)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p3">22/112 (20)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p6">4 or more</p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p3">13/110 (12)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p3">8/112 (7)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p4">Chronic total occlusion if angioplasty</p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p3">13/110 (12)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p3">11/112 (10)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p4">Rotational atherectomy if angioplasty</p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p3">0/110 (0)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p3">7/112 (6)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p4">TIMI flow at the end of the angioplasty</p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p6">0</p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p3">5/110 (5)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p3">1/112 (1)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p6">1</p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p3">1/110 (1)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p3">0/112 (0)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p6">2</p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p3">2/110 (2)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p3">1/112 (1)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p6">3</p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p3">102/110 (93)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p3">110/112 (98)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p4">Contrast agent volume (ml)<span class="Apple-converted-space"> </span></p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p3">50 (35 ; 100)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p3">50 (35 ; 100)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p4"><b><i>Medication during the procedure</i></b></p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p3">294 (79)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p3">288 (79)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td10">
+        <p class="p4">Neuroleptic</p>
+      </td>
+      <td valign="middle" class="td11">
+        <p class="p3">3 (1)</p>
+      </td>
+      <td valign="middle" class="td12">
+        <p class="p3">1 (0)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td13">
+        <p class="p4">Benzodiazepine</p>
+      </td>
+      <td valign="middle" class="td14">
+        <p class="p3">69 (18)</p>
+      </td>
+      <td valign="middle" class="td15">
+        <p class="p3">82 (22)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4">Morphin</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">12 (3)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">7 (2)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4">Unfractionated heparin (additional)</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">276 (73)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">273 (75)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4">Anti-emetic</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">9 (2)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">3 (1)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4">Atropine</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">18 (5)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">4 (1)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4">Ephedrine</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">16 (4)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">16 (4)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4">Glucose infusion</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">2 (1)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">1 (0)</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td16">
+        <p class="p4">Saline infusion</p>
+      </td>
+      <td valign="middle" class="td17">
+        <p class="p3">21 (6)</p>
+      </td>
+      <td valign="middle" class="td18">
+        <p class="p3">13 (4)</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p class="p12"><sup>a</sup> Data missing for 1 and 2 patients in the fasting and the non-fasting group respectively.</p>
+<p class="p12">FFR: Fractional Flow Reserve; IQR: interquartile range; SD: standard deviation; TIMI: Thrombolysis in myocardial infarction.</p>
+<p class="p13"><br></p>
+<p class="p13"><br></p>
+<p class="p13"><br></p>
+<p class="p13"><br></p>
+<p class="p13"><br></p>
+<p class="p13"><br></p>
+<p class="p13"><br></p>
+<p class="p13"><br></p>
+<p class="p13"><br></p>
+<p class="p9"><span class="s1"><b>Supplementary table S3</b></span><b>: Outcomes of the composite primary endpoint.</b></p>
+<table cellspacing="0" cellpadding="0" class="t1">
+  <tbody>
+    <tr>
+      <td valign="middle" class="td19">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="middle" class="td20">
+        <p class="p3"><b>Fasting</b></p>
+        <p class="p3">N=374</p>
+      </td>
+      <td valign="middle" class="td21">
+        <p class="p3"><b>Non-fasting</b></p>
+        <p class="p3">N=365</p>
+      </td>
+      <td valign="middle" class="td22">
+        <p class="p3"><b>Absolute difference</b></p>
+      </td>
+      <td valign="middle" class="td23">
+        <p class="p3"><b>Upper limit of the one-sided 95% CI</b><b><sup>a</sup></b><b><sup></sup></b></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td24">
+        <p class="p10"><b>Primary outcome</b>, n/N (%)</p>
+      </td>
+      <td valign="middle" class="td25">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="middle" class="td26">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="middle" class="td27">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="middle" class="td28">
+        <p class="p5"><b></b><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td29">
+        <p class="p4">Per protocol</p>
+      </td>
+      <td valign="middle" class="td30">
+        <p class="p3">37/360 (10.3)</p>
+      </td>
+      <td valign="middle" class="td31">
+        <p class="p3">30/365 (8.2)</p>
+      </td>
+      <td valign="middle" class="td32">
+        <p class="p3">-2.1</p>
+      </td>
+      <td valign="middle" class="td33">
+        <p class="p3">1.5</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td29">
+        <p class="p4">Modified ITT</p>
+      </td>
+      <td valign="middle" class="td30">
+        <p class="p3">37/374 (9.9)</p>
+      </td>
+      <td valign="middle" class="td31">
+        <p class="p3">30/365 (8.2)</p>
+      </td>
+      <td valign="middle" class="td32">
+        <p class="p3">-1.7</p>
+      </td>
+      <td valign="middle" class="td33">
+        <p class="p3">1.8</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td29">
+        <p class="p4">Diabetes-adjusted PP</p>
+      </td>
+      <td valign="middle" class="td30">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td31">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td32">
+        <p class="p3">-2.1</p>
+      </td>
+      <td valign="middle" class="td33">
+        <p class="p3">1.5</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td29">
+        <p class="p4">Diabetes-adjusted mITT<span class="Apple-converted-space"> </span></p>
+      </td>
+      <td valign="middle" class="td30">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td31">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td32">
+        <p class="p3">-1.7</p>
+      </td>
+      <td valign="middle" class="td33">
+        <p class="p3">1.8</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td29">
+        <p class="p2"><br></p>
+      </td>
+      <td valign="middle" class="td30">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td31">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td32">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td33">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td29">
+        <p class="p4"><b>Vagal reaction</b>, n/N (%)</p>
+      </td>
+      <td valign="middle" class="td30">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td31">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td32">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td33">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td29">
+        <p class="p4">Per protocol</p>
+      </td>
+      <td valign="middle" class="td30">
+        <p class="p3">20/360 (5.6)</p>
+      </td>
+      <td valign="middle" class="td31">
+        <p class="p3">10/365 (2.7)</p>
+      </td>
+      <td valign="middle" class="td32">
+        <p class="p3">-2.8</p>
+      </td>
+      <td valign="middle" class="td33">
+        <p class="p3">-0.4</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td29">
+        <p class="p4">Modified ITT</p>
+      </td>
+      <td valign="middle" class="td30">
+        <p class="p3">20/374 (5.4)</p>
+      </td>
+      <td valign="middle" class="td31">
+        <p class="p3">10/365 (2.7)</p>
+      </td>
+      <td valign="middle" class="td32">
+        <p class="p3">-2.6</p>
+      </td>
+      <td valign="middle" class="td33">
+        <p class="p3">-0.2</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td29">
+        <p class="p4">Diabetes-adjusted PP<span class="Apple-converted-space"> </span></p>
+      </td>
+      <td valign="middle" class="td30">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td31">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td32">
+        <p class="p3">-2.8</p>
+      </td>
+      <td valign="middle" class="td33">
+        <p class="p3">-0.4</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td29">
+        <p class="p4">Diabetes-adjusted mITT<span class="Apple-converted-space"> </span></p>
+      </td>
+      <td valign="middle" class="td30">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td31">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td32">
+        <p class="p3">-2.6</p>
+      </td>
+      <td valign="middle" class="td33">
+        <p class="p3">-0.2</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td29">
+        <p class="p2"><br></p>
+      </td>
+      <td valign="middle" class="td30">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td31">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td32">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td33">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td29">
+        <p class="p4"><b>Isolated nausea or vomiting</b>, n/N (%)</p>
+      </td>
+      <td valign="middle" class="td30">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td31">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td32">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td33">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td29">
+        <p class="p4">Per protocol</p>
+      </td>
+      <td valign="middle" class="td30">
+        <p class="p3">7/360 (1.9)</p>
+      </td>
+      <td valign="middle" class="td31">
+        <p class="p3">5/365 (1.4)</p>
+      </td>
+      <td valign="middle" class="td32">
+        <p class="p3">-0.6</p>
+      </td>
+      <td valign="middle" class="td33">
+        <p class="p3">1.0</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td29">
+        <p class="p4">Modified ITT</p>
+      </td>
+      <td valign="middle" class="td30">
+        <p class="p3">7/374 (1.9)</p>
+      </td>
+      <td valign="middle" class="td31">
+        <p class="p3">5/365 (1.4)</p>
+      </td>
+      <td valign="middle" class="td32">
+        <p class="p3">-0.5</p>
+      </td>
+      <td valign="middle" class="td33">
+        <p class="p3">1.0</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td29">
+        <p class="p4">Diabetes-adjusted PP<span class="Apple-converted-space"> </span></p>
+      </td>
+      <td valign="middle" class="td30">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td31">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td32">
+        <p class="p3">-0.6</p>
+      </td>
+      <td valign="middle" class="td33">
+        <p class="p3">1.0</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td34">
+        <p class="p4">Diabetes-adjusted mITT</p>
+      </td>
+      <td valign="middle" class="td35">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td36">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td37">
+        <p class="p3">-0.5</p>
+      </td>
+      <td valign="middle" class="td38">
+        <p class="p3">1.0</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td34">
+        <p class="p2"><br></p>
+      </td>
+      <td valign="middle" class="td35">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td36">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td37">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td38">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td19">
+        <p class="p4"><b>Hypoglycemia</b>, n/N (%)</p>
+      </td>
+      <td valign="middle" class="td20">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td21">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td22">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td23">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td19">
+        <p class="p4">Per protocol</p>
+      </td>
+      <td valign="middle" class="td20">
+        <p class="p3">22/360 (6.1)</p>
+      </td>
+      <td valign="middle" class="td21">
+        <p class="p3">19/365 (5.2)</p>
+      </td>
+      <td valign="middle" class="td22">
+        <p class="p3">-0.9</p>
+      </td>
+      <td valign="middle" class="td23">
+        <p class="p3">1.9</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td19">
+        <p class="p4">Modified ITT</p>
+      </td>
+      <td valign="middle" class="td20">
+        <p class="p3">22/374 (5.9)</p>
+      </td>
+      <td valign="middle" class="td21">
+        <p class="p3">19/365 (5.2)</p>
+      </td>
+      <td valign="middle" class="td22">
+        <p class="p3">-0.7</p>
+      </td>
+      <td valign="middle" class="td23">
+        <p class="p3">2.1</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td19">
+        <p class="p4">Diabetes-adjusted PP<span class="Apple-converted-space"> </span></p>
+      </td>
+      <td valign="middle" class="td20">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td21">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td22">
+        <p class="p3">-0.9</p>
+      </td>
+      <td valign="middle" class="td23">
+        <p class="p3">1.9</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td19">
+        <p class="p4">Diabetes-adjusted mITT</p>
+      </td>
+      <td valign="middle" class="td20">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td21">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td22">
+        <p class="p3">-0.7</p>
+      </td>
+      <td valign="middle" class="td23">
+        <p class="p3">2.1</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td19">
+        <p class="p2"><br></p>
+      </td>
+      <td valign="middle" class="td20">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td21">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td22">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td23">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td19">
+        <p class="p4"><b>Symptomatic hypoglycemia</b>, n/N (%)</p>
+      </td>
+      <td valign="middle" class="td20">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td21">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td22">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td23">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td19">
+        <p class="p4">Per protocol</p>
+      </td>
+      <td valign="middle" class="td20">
+        <p class="p3">3/360 (0.8)</p>
+      </td>
+      <td valign="middle" class="td21">
+        <p class="p3">1/365 (0.3)</p>
+      </td>
+      <td valign="middle" class="td22">
+        <p class="p3">-0.6</p>
+      </td>
+      <td valign="middle" class="td23">
+        <p class="p3">0.4</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td19">
+        <p class="p4">Modified ITT</p>
+      </td>
+      <td valign="middle" class="td20">
+        <p class="p3">3/374 (0.8)</p>
+      </td>
+      <td valign="middle" class="td21">
+        <p class="p3">1/365 (0.3)</p>
+      </td>
+      <td valign="middle" class="td22">
+        <p class="p3">-0.5</p>
+      </td>
+      <td valign="middle" class="td23">
+        <p class="p3">0.4</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td19">
+        <p class="p4">Diabetes-adjusted PP</p>
+      </td>
+      <td valign="middle" class="td20">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td21">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td22">
+        <p class="p3">-0.6</p>
+      </td>
+      <td valign="middle" class="td23">
+        <p class="p3">0.4</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td19">
+        <p class="p4">Diabetes-adjusted mITT<span class="Apple-converted-space"> </span></p>
+      </td>
+      <td valign="middle" class="td20">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td21">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td22">
+        <p class="p3">-0.6</p>
+      </td>
+      <td valign="middle" class="td23">
+        <p class="p3">0.4</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p class="p14"><sup>a</sup> Upper limit of the one-sided 95% confidence interval of the absolute difference of the percentages of outcomes in fasting and non-fasting groups.<span class="Apple-converted-space"> </span></p>
+<p class="p12">Diabetes-adjusted: adjustment for insulin-dependent diabetes; ITT: Intention-to-treat; mITT: Modified ITT. PP: Per protocol</p>
+<p class="p13"><br></p>
+<p class="p13"><br></p>
+<p class="p13"><br></p>
+<p class="p13"><br></p>
+<p class="p13"><br></p>
+<p class="p9"><span class="s1"><b>Supplementary table S4</b></span><b>: Subgroup analyses for the primary outcome.</b></p>
+<table cellspacing="0" cellpadding="0" class="t1">
+  <tbody>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p2"><i></i><br></p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p3"><b>Fasting</b></p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p3"><b>Non-fasting</b></p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p3"><b>Absolute difference</b></p>
+      </td>
+      <td valign="middle" class="td43">
+        <p class="p3"><b>Upper limit of the one-sided 95% CI</b></p>
+      </td>
+      <td valign="middle" class="td44">
+        <p class="p3"><b>P for interaction</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p4"><b>Insulin-dependent</b> <b>diabetes</b></p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><b></b><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p4">PP</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p3">0.80</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p6">No diabetes (n=651)</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p3">10.5</p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p3">8.3</p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p3">-2.2</p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p3">1.5</p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p6">Diabetes (n=74)</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p3">8.3</p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p3">7.9</p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p3">-0.4</p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p3">10.0</p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p4">mITT</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p3">0.75</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p6">No diabetes (n=662)</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p3">10.2</p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p3">8.3</p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p3">-1.9</p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p3">1.8</p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p6">Diabetes (n=77)</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p3">7.7</p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p3">7.9</p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p3">0.2</p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p3">10.3</p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p4"><b>Sex</b></p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p4">PP</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p3">0.94</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p6">Male (n=548)</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p3">9.9</p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p3">8.0</p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p3">-2.0</p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p3">2.1</p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p6">Female (n=177)</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p3">11.7</p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p3">9.0</p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p3">-2.4</p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p3">5.1</p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p4">mITT</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p3">0.91</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p6">Male (n=560)</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p3">9.5</p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p3">8.0</p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p3">-1.5</p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p3">2.4</p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p6">Female (n=179)</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p3">11.1</p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p3">9.0</p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p3">-2.1</p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p3">5.3</p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p4">Diabetes-adjusted PP<span class="Apple-converted-space"> </span></p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p3">0.94</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p6">Male (n=548)</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p3">-2.0</p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p3">2.1</p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p6">Female (n=177)</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p3">-2.4</p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p3">5.1</p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p4">Diabetes-adjusted mITT<span class="Apple-converted-space"> </span></p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p3">0.91</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p6">Male (n=560)</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p3">-1.5</p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p3">2.4</p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p6">Female (n=179)</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p3">-2.1</p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p3">5.3</p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p4"><b>Age</b> (years)</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p4">PP</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p3">0.14</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p6">&lt;75 (n=519)</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p3">9.9</p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p3">9.8</p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p3">0.0</p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p3">4.3</p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p6">≥75 (n=206)</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p3">11.5</p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p3">4.6</p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p3">-6.9</p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p3">-0.6</p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p4">mITT</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p3">0.13</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p6">&lt;75 (n=529)</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p3">9.5</p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p3">9.8</p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p3">0.3</p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p3">4.5</p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p6">≥75 (n=210)</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p3">11.0</p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p3">4.6</p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p3">-6.4</p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p3">-0.4</p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p4">Diabetes-adjusted PP<span class="Apple-converted-space"> </span></p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p3">0.13</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p6">&lt;75 (n=519)</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p3">0.0</p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p3">4.3</p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p6">≥75 (n=206)</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p3">-7.0</p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p3">0.7</p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p4">Diabetes-adjusted mITT<span class="Apple-converted-space"> </span></p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p3">0.13</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p6">&lt;75 (n=529)</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p3">0.3</p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p3">4.6</p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td45">
+        <p class="p6">≥75 (n=210)</p>
+      </td>
+      <td valign="middle" class="td46">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td47">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td48">
+        <p class="p3">-6.5</p>
+      </td>
+      <td valign="middle" class="td49">
+        <p class="p3">-0.4</p>
+      </td>
+      <td valign="middle" class="td50">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p4"><b>Hospitalisation</b></p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p4">PP</p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p3">0.24</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p6">Outpatients (n=492)</p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p3">9.7</p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p3">9.4</p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p3">-0.3</p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p3">4.0</p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p6">Inpatients (n=233)</p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p3">11.5</p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p3">5.8</p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p3">-5.6</p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p3">0.4</p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p4">mITT</p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p3">0.22</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p6">Outpatients (n=503)</p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p3">9.3</p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p3">9.4</p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p3">0.1</p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p3">4.4</p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p6">Inpatients (n=236)</p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p3">11.2</p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p3">5.8</p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p3">-5.4</p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p3">0.6</p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p4">Diabetes-adjusted PP<span class="Apple-converted-space"> </span></p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p3">0.24</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p6">Outpatients (n=492)</p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p3">-0.3</p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p3">4.0</p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p6">Inpatients (n=233)</p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p3">-5.6</p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p3">0.4</p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p4">Diabetes-adjusted mITT<span class="Apple-converted-space"> </span></p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p3">0.23</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p6">Outpatients (n=503)</p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p3">0.1</p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p3">4.3</p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p6">Inpatients (n=236)</p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p3">-5.3</p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p3">0.6</p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p4"><b>Procedure</b></p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p4">PP</p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p3">0.70</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p6">Angiography (n=507)</p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p3">8.7</p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p3">5.9</p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p3">-2.7</p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p3">1.1</p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p6">Angioplasty (n=218)</p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p3">14.2</p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p3">13.4</p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p3">-0.8</p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p3">6.9</p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p4">mITT</p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p3">0.67</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p6">Angiography (n=517)</p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p3">8.3</p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p3">5.9</p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p3">-2.4</p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p3">1.3</p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p6">Angioplasty (n=222)</p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p3">13.6</p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p3">13.4</p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p3">-0.2</p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p3">7.3</p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p4">Diabetes-adjusted PP<span class="Apple-converted-space"> </span></p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p3">0.71</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p6">Angiography (n=507)</p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p3">-2.7</p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p3">1.1</p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p6">Angioplasty (n=218)</p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p3">-0.8</p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p3">6.9</p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p4">Diabetes-adjusted mITT<span class="Apple-converted-space"> </span></p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p3">0.69</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p6">Angiography (n=517)</p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p3">-2.4</p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p3">1.3</p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td39">
+        <p class="p6">Angioplasty (n=222)</p>
+      </td>
+      <td valign="middle" class="td40">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td41">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td42">
+        <p class="p3">-0.3</p>
+      </td>
+      <td valign="middle" class="td51">
+        <p class="p3">7.2</p>
+      </td>
+      <td valign="middle" class="td52">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td39">
+        <p class="p4"><b>Moderate sedation</b><sup>a</sup><sup></sup></p>
+      </td>
+      <td valign="top" class="td40">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td41">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td42">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td51">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td52">
+        <p class="p5"><b></b><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td39">
+        <p class="p4">PP</p>
+      </td>
+      <td valign="top" class="td40">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td41">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td42">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td51">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td52">
+        <p class="p3"><b>0.62</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td39">
+        <p class="p6">No sedation (n=578)</p>
+      </td>
+      <td valign="top" class="td40">
+        <p class="p3"><b>8.8</b></p>
+      </td>
+      <td valign="top" class="td41">
+        <p class="p3"><b>5.7</b></p>
+      </td>
+      <td valign="top" class="td42">
+        <p class="p3"><b>-3.2</b></p>
+      </td>
+      <td valign="top" class="td51">
+        <p class="p3"><b>0.4</b></p>
+      </td>
+      <td valign="top" class="td52">
+        <p class="p5"><b></b><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td39">
+        <p class="p6">Sedation (n=147)</p>
+      </td>
+      <td valign="top" class="td40">
+        <p class="p3"><b>16.9</b></p>
+      </td>
+      <td valign="top" class="td41">
+        <p class="p3"><b>17.1</b></p>
+      </td>
+      <td valign="top" class="td42">
+        <p class="p3"><b>0.2</b></p>
+      </td>
+      <td valign="top" class="td51">
+        <p class="p3"><b>10.4</b></p>
+      </td>
+      <td valign="top" class="td52">
+        <p class="p5"><b></b><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td39">
+        <p class="p4">mITT</p>
+      </td>
+      <td valign="top" class="td40">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td41">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td42">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td51">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td52">
+        <p class="p3"><b>0.48</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td39">
+        <p class="p6">No sedation (n=586)</p>
+      </td>
+      <td valign="top" class="td40">
+        <p class="p3"><b>8.6</b></p>
+      </td>
+      <td valign="top" class="td41">
+        <p class="p3"><b>5.7</b></p>
+      </td>
+      <td valign="top" class="td42">
+        <p class="p3"><b>-2.9</b></p>
+      </td>
+      <td valign="top" class="td51">
+        <p class="p3"><b>0.6</b></p>
+      </td>
+      <td valign="top" class="td52">
+        <p class="p5"><b></b><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td39">
+        <p class="p6">Sedation (n=153)</p>
+      </td>
+      <td valign="top" class="td40">
+        <p class="p3"><b>15.5</b></p>
+      </td>
+      <td valign="top" class="td41">
+        <p class="p3"><b>17.1</b></p>
+      </td>
+      <td valign="top" class="td42">
+        <p class="p3"><b>1.6</b></p>
+      </td>
+      <td valign="top" class="td51">
+        <p class="p3"><b>11.4</b></p>
+      </td>
+      <td valign="top" class="td52">
+        <p class="p5"><b></b><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td39">
+        <p class="p4">Diabetes-adjusted PP</p>
+      </td>
+      <td valign="top" class="td40">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td41">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td42">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td51">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td52">
+        <p class="p3"><b>0.61</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td39">
+        <p class="p6">No sedation (n=578)</p>
+      </td>
+      <td valign="top" class="td40">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td41">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td42">
+        <p class="p3"><b>-3.2</b></p>
+      </td>
+      <td valign="top" class="td51">
+        <p class="p3"><b>0.4</b></p>
+      </td>
+      <td valign="top" class="td52">
+        <p class="p5"><b></b><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td39">
+        <p class="p6">Sedation (n=147)</p>
+      </td>
+      <td valign="top" class="td40">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td41">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td42">
+        <p class="p3"><b>0.2</b></p>
+      </td>
+      <td valign="top" class="td51">
+        <p class="p3"><b>10.5</b></p>
+      </td>
+      <td valign="top" class="td52">
+        <p class="p5"><b></b><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td39">
+        <p class="p4">Diabetes-adjusted mITT</p>
+      </td>
+      <td valign="top" class="td40">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td41">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td42">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td51">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td52">
+        <p class="p3"><b>0.47</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td39">
+        <p class="p6">No sedation (n=586)</p>
+      </td>
+      <td valign="top" class="td40">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td41">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td42">
+        <p class="p3"><b>-2.9</b></p>
+      </td>
+      <td valign="top" class="td51">
+        <p class="p3"><b>0.5</b></p>
+      </td>
+      <td valign="top" class="td52">
+        <p class="p5"><b></b><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td39">
+        <p class="p6">Sedation (n=153)</p>
+      </td>
+      <td valign="top" class="td40">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td41">
+        <p class="p5"><b></b><br></p>
+      </td>
+      <td valign="top" class="td42">
+        <p class="p3"><b>1.6</b></p>
+      </td>
+      <td valign="top" class="td51">
+        <p class="p3"><b>11.5</b></p>
+      </td>
+      <td valign="top" class="td52">
+        <p class="p5"><b></b><br></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p class="p12">Diabetes-adjusted: adjustment for insulin-dependent diabetes; mITT: modified intention-to-treat; PP: per protocol.</p>
+<p class="p15"><sup>a</sup> Moderate sedation was defined as treatment with a neuroleptic or benzodiazepine.<span class="s1"><b>Supplementary table S5: </b></span><b>subgroup analysis of outcomes for patients fasting ≥3 hours versus &lt;3 hours in the non-fasting group.</b></p>
+<table cellspacing="0" cellpadding="0" class="t1">
+  <tbody>
+    <tr>
+      <td valign="middle" class="td53">
+        <p class="p16"><b></b><br></p>
+      </td>
+      <td valign="middle" class="td54">
+        <p class="p17"><b>Non-fasting group</b></p>
+        <p class="p17">N=365<sup> a</sup><sup></sup></p>
+      </td>
+      <td valign="middle" class="td55">
+        <p class="p5"><b></b><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td53">
+        <p class="p16"><b></b><br></p>
+      </td>
+      <td valign="middle" class="td56">
+        <p class="p17"><b>Fasting ≥3 hours</b></p>
+        <p class="p17"><b>N=182</b></p>
+        <p class="p18">n (%)</p>
+      </td>
+      <td valign="middle" class="td57">
+        <p class="p17"><b>Fasting &lt;3 hours</b></p>
+        <p class="p17"><b>N=183</b></p>
+        <p class="p18">n (%)</p>
+      </td>
+      <td valign="middle" class="td55">
+        <p class="p17"><b>P-value</b><b><sup>a</sup></b><b><sup></sup></b></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td58">
+        <p class="p19">Primary outcome</p>
+      </td>
+      <td valign="bottom" class="td59">
+        <p class="p20">19 (10.4)</p>
+      </td>
+      <td valign="bottom" class="td60">
+        <p class="p20">11 (6.0)</p>
+      </td>
+      <td valign="bottom" class="td61">
+        <p class="p20">0.12</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td62">
+        <p class="p21">Vagal reaction</p>
+      </td>
+      <td valign="bottom" class="td63">
+        <p class="p20">3 (1.7)</p>
+      </td>
+      <td valign="bottom" class="td64">
+        <p class="p20">7 (3.8)</p>
+      </td>
+      <td valign="bottom" class="td65">
+        <p class="p20">0.34</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td62">
+        <p class="p21">Nausea / vomiting</p>
+      </td>
+      <td valign="bottom" class="td63">
+        <p class="p20">4 (2.2)</p>
+      </td>
+      <td valign="bottom" class="td64">
+        <p class="p20">1 (0.6)</p>
+      </td>
+      <td valign="bottom" class="td65">
+        <p class="p20">0.22</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td62">
+        <p class="p21">Hypoglycaemia</p>
+      </td>
+      <td valign="bottom" class="td63">
+        <p class="p20">15 (8.2)</p>
+      </td>
+      <td valign="bottom" class="td64">
+        <p class="p20">4 (2.2)</p>
+      </td>
+      <td valign="bottom" class="td65">
+        <p class="p20"><b>&lt;0.001</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td62">
+        <p class="p22">Primary outcome considering symptomatic hypoglycaemia</p>
+      </td>
+      <td valign="bottom" class="td63">
+        <p class="p20">5 (2.8)</p>
+      </td>
+      <td valign="bottom" class="td64">
+        <p class="p20">7 (3.8)</p>
+      </td>
+      <td valign="bottom" class="td65">
+        <p class="p20">0.57</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td66">
+        <p class="p19">Symptomatic hypoglycaemia</p>
+      </td>
+      <td valign="bottom" class="td67">
+        <p class="p20">1 (0.6)</p>
+      </td>
+      <td valign="bottom" class="td68">
+        <p class="p20">0 (0.0)</p>
+      </td>
+      <td valign="bottom" class="td69">
+        <p class="p20">0.50</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p class="p23"><sup>a</sup> P-values obtained from the Chi-square test or Fisher’s exact test.</p>
+<p class="p24"><span class="s1"><b></b></span><br></p>
+<p class="p24"><span class="s1"><b></b></span><br></p>
+<p class="p24"><span class="s1"><b></b></span><br></p>
+<p class="p24"><span class="s1"><b></b></span><br></p>
+<p class="p24"><span class="s1"><b></b></span><br></p>
+<p class="p24"><span class="s1"><b></b></span><br></p>
+<p class="p24"><span class="s1"><b></b></span><br></p>
+<p class="p24"><span class="s1"><b></b></span><br></p>
+<p class="p24"><span class="s1"><b></b></span><br></p>
+<p class="p24"><span class="s1"><b></b></span><br></p>
+<p class="p9"><span class="s1"><b>Supplementary table S6</b></span><b>: Complete questionnaire answers.</b><b></b></p>
+<table cellspacing="0" cellpadding="0" class="t1">
+  <tbody>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p25"><b></b><br></p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p17"><b>Fasting group</b></p>
+        <p class="p17"><b>N=362</b></p>
+        <p class="p17"><b>N (%)</b><b></b></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p17"><b>Non-fasting group</b></p>
+        <p class="p17"><b>N=358</b></p>
+        <p class="p17"><b>N (%)</b><b></b></p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p17"><b>p-value</b><b></b></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p10">Hunger before the procedure</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><b></b><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Very hungry / hungry</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p3">182 (50%)</p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">106 (30%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p3"><b>&lt;0.0001</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td70">
+        <p class="p6">Not hungry</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p3">134 (37%)</p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">133 (37%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td70">
+        <p class="p6">Completely full</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p3">46 (13%)</p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">119 (33%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p4">Thirst before the procedure</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><b></b><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Very thirsty / thirsty</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p3">225 (62%)</p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">133 (37%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p3"><b>&lt;0.0001</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td70">
+        <p class="p6">Not thirsty</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p3">103 (28%)</p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">131 (37%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td70">
+        <p class="p6">Completely hydrated</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p3">34 (9%)</p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">94 (26%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td70">
+        <p class="p4">Hunger during the procedure</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><b></b><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Very hungry / hungry</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p3">134 (37%)</p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">64 (18%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p3"><b>&lt;0.0001</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td70">
+        <p class="p6">Not hungry</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p3">159 (44%)</p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">159 (44%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td70">
+        <p class="p6">Completely full</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p3">69 (19%)</p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">135 (38%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td70">
+        <p class="p4">Thirst during the procedure</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><b></b><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Very thirsty / thirsty</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p3">183 (51%)</p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">102 (28%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p3"><b>&lt;0.0001</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td70">
+        <p class="p6">Not thirsty</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p3">123 (34%)</p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">148 (41%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td70">
+        <p class="p6">Completely hydrated</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p3">56 (15%)</p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">108 (30%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td70">
+        <p class="p4">Preference in case of a similar procedure</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><b></b><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td70">
+        <p class="p6">Fasting</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p3">106 (29%)</p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">45 (13%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p3"><b>&lt;0.0001</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td70">
+        <p class="p6"><i>Ad libitum</i> feeding</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p3">256 (71%)</p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">313 (87%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p4">Overall satisfaction</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td70">
+        <p class="p4"><span class="Apple-converted-space">            </span>Very satisfied</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p3">291 (80%)</p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">282 (79%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p3">0.86</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td70">
+        <p class="p4"><span class="Apple-converted-space">            </span>Satisfied</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p3">60 (17%)</p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">67 (19%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td70">
+        <p class="p4"><span class="Apple-converted-space">            </span>Neutral</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p3">10 (3%)</p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">8 (2%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td70">
+        <p class="p4"><span class="Apple-converted-space">            </span>Not satisfied</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p3">1 (0%)</p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">1 (0%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td70">
+        <p class="p4">Pain assessment, <i>Median (IQR)</i><i></i></p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p3">2 (1 ; 3)</p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">2 (1 ; 3)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p3">0.56</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p10"><span class="s1"><b>Questions for the non-fasting group only</b></span></p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p10">Did you eat in the 6 hours before the procedure?</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">No</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">66/358 (18%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p3">-</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Yes</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">292/358 (82%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p4">If yes, are you satisfied you ate?</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Very satisfied</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">232/292 (79%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p3">-</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Satisfied</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">50/292 (17%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Neutral</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">7/292 (2%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Not satisfied</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">3/292 (1%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p4">If no, are you satisfied you had the possibility to eat?</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Very satisfied</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">30/66 (45%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p3">-</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Satisfied</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">15/66 (23%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Neutral</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">20/66 (30%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Not satisfied</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">1/66 (2%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p4">Did you drink in the 6 hours before the procedure?</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">No</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">48 (13%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p3">.</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Yes</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">310 (87%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p4">If yes, are you satisfied you drank?</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Very satisfied</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">248/310 (80%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p3">.</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Satisfied</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">52/310 (17%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Neutral</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">8/310 (3%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Not satisfied</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">2/310 (1%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p4">If no, are you satisfied you had the possibility to drink?</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Very satisfied</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">20/48 (42%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p3">.</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Satisfied</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">17/48 (35%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Neutral</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">9/48 (19%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" class="td70">
+        <p class="p6">Not satisfied</p>
+      </td>
+      <td valign="middle" class="td71">
+        <p class="p5"><br></p>
+      </td>
+      <td valign="middle" class="td72">
+        <p class="p3">2/48 (4%)</p>
+      </td>
+      <td valign="middle" class="td73">
+        <p class="p5"><br></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p class="p14">Satisfaction questionnaires were completed by 720 (97%) patients. Pain during the procedure was self-assessed using the usual visual analog scale ranging from 1 (no pain at all) to 10 (extreme pain).</p>
+<p class="p26">IQR: interquartile range.</p>
+<p class="p27"><br></p>
+<p class="p28"><br></p>
+<p class="p28"><br></p>
+<p class="p28"><br></p>
+<p class="p28"><br></p>
+<p class="p28"><br></p>
+<p class="p28"><br></p>
+<p class="p28"><br></p>
+<p class="p28"><br></p>
+<p class="p29"><b>Satisfaction questionnaire </b><span class="s1"><b>(fasting group)</b><b></b></span></p>
+<p class="p30"><b></b><br></p>
+<p class="p31"><b>How was your sensation of hunger before the procedure?<span class="Apple-converted-space"> </span></b></p>
+<p class="p32"><span class="s2"></span> Very hungry<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Hungry<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Not hungry<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Completely full</p>
+<p class="p31"><b>How was your sensation of thirst before the procedure?<span class="Apple-converted-space"> </span></b></p>
+<p class="p32"><span class="s2"></span> Very thirsty<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Thirsty<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Not thirsty<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Completely hydrated</p>
+<p class="p31"><b>How was your sensation of hunger during the procedure?</b></p>
+<p class="p32"><span class="s2"></span> Very hungry<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Hungry<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Not hungry<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Completely full</p>
+<p class="p31"><b>How was your sensation of thirst during the procedure?</b></p>
+<p class="p32"><span class="s2"></span> Very thirsty<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Thirsty<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Not thirsty<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Completely hydrated</p>
+<p class="p31"><b>If you had to undergo a similar coronary procedure in the future, would you rather:<span class="Apple-converted-space"> </span></b></p>
+<p class="p33"><b></b><br></p>
+<p class="p34"><span class="s2"></span> Stay fasted<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Eat and drink</p>
+<p class="p35"><b></b><br></p>
+<p class="p36"><b>Rate the pain felt during the procedure on a scale below ranging from 1 to 10 (circle it) :<span class="Apple-converted-space"> </span></b></p>
+<p class="p37"><span class="s3"><b><span class="Apple-converted-space"> </span></b></span><span class="s2"></span><span class="s3"><span class="Apple-converted-space">         </span></span> 1<span class="Apple-converted-space">    </span>–<span class="Apple-converted-space">    </span>2<span class="Apple-converted-space">    </span>–<span class="Apple-converted-space">    </span>3<span class="Apple-converted-space">    </span>–<span class="Apple-converted-space">    </span>4<span class="Apple-converted-space">    </span>–<span class="Apple-converted-space">    </span>5<span class="Apple-converted-space">    </span>–<span class="Apple-converted-space">    </span>6<span class="Apple-converted-space">    </span>–<span class="Apple-converted-space">    </span>7<span class="Apple-converted-space">    </span>–<span class="Apple-converted-space">    </span>8<span class="Apple-converted-space">    </span>–<span class="Apple-converted-space">    </span>9<span class="Apple-converted-space">    </span>–<span class="Apple-converted-space">    </span>10 <span class="Apple-converted-space">        </span><span class="s2"></span></p>
+<p class="p38"><i>(No pain at all)<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">                </span>(Moderate pain)<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">        </span>(Extreme pain)</i></p>
+<p class="p31"><b>Regarding your procedure, how would you rate your overall satisfaction?</b></p>
+<p class="p32"><span class="s2"></span><span class="Apple-converted-space">  </span>Very satisfied<span class="Apple-converted-space">    </span><span class="s2"></span> Satisfied <span class="Apple-converted-space">    </span><span class="s2"></span> Neutral<span class="Apple-converted-space">    </span><span class="s2"></span><span class="Apple-converted-space">  </span>Not satisfied<span class="Apple-converted-space">    </span><span class="s2"></span><span class="Apple-converted-space">  </span>Extremely unsatisfied.</p>
+<p class="p28"><br></p>
+<p class="p28"><br></p>
+<p class="p28"><br></p>
+<p class="p28"><br></p>
+<p class="p28"><br></p>
+<p class="p28"><br></p>
+<p class="p28"><br></p>
+<p class="p28"><br></p>
+<p class="p28"><br></p>
+<p class="p28"><br></p>
+<p class="p28"><br></p>
+<p class="p29"><b>Satisfaction questionnaire </b><span class="s1"><b>(non-fasting group)</b><b></b></span></p>
+<p class="p30"><b></b><br></p>
+<p class="p31"><b>How was your sensation of hunger before the procedure?<span class="Apple-converted-space"> </span></b></p>
+<p class="p32"><span class="s2"></span> Very hungry<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Hungry<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Not hungry<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Completely full</p>
+<p class="p31"><b>How was your sensation of thirst before the procedure?<span class="Apple-converted-space"> </span></b></p>
+<p class="p32"><span class="s2"></span> Very thirsty<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Thirsty<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Not thirsty<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Completely hydrated</p>
+<p class="p31"><b>How was your sensation of hunger during the procedure?</b></p>
+<p class="p32"><span class="s2"></span> Very hungry<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Hungry<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Not hungry<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Completely full</p>
+<p class="p31"><b>How was your sensation of thirst during the procedure?</b></p>
+<p class="p32"><span class="s2"></span> Very thirsty<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Thirsty<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Not thirsty<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Completely hydrated</p>
+<p class="p31"><b>Did you eat in the 6 hours before the procedure?<span class="Apple-converted-space"> </span></b></p>
+<p class="p39"><span class="s2"></span> Yes<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> No</p>
+<p class="p31"><span class="s1"><b>If yes,</b></span><b> are you satisfied you ate before the procedure? </b><span class="s1"><b>If no,</b></span><b> are you satisfied you had the possibility to eat?<span class="Apple-converted-space"> </span></b></p>
+<p class="p32"><span class="s2"></span><span class="Apple-converted-space">  </span>Very satisfied<span class="Apple-converted-space">    </span><span class="s2"></span> Satisfied <span class="Apple-converted-space">    </span><span class="s2"></span> Neutral<span class="Apple-converted-space">    </span><span class="s2"></span><span class="Apple-converted-space">  </span>Not satisfied<span class="Apple-converted-space">    </span><span class="s2"></span><span class="Apple-converted-space">  </span>Extremely unsatisfied.</p>
+<p class="p31"><b>Did you drink (water, juice, coffee…) in the 6 hours before the procedure?</b></p>
+<p class="p39"><span class="s2"></span> Yes<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span><span class="Apple-converted-space">  </span>No</p>
+<p class="p31"><span class="s1"><b>If yes,</b></span><b> are you satisfied you drank before the procedure? </b><span class="s1"><b>If no,</b></span><b> are you satisfied you had the possibility to drink?<span class="Apple-converted-space"> </span></b></p>
+<p class="p32"><span class="s2"></span><span class="Apple-converted-space">  </span>Very satisfied<span class="Apple-converted-space">    </span><span class="s2"></span> Satisfied <span class="Apple-converted-space">    </span><span class="s2"></span> Neutral<span class="Apple-converted-space">    </span><span class="s2"></span><span class="Apple-converted-space">  </span>Not satisfied<span class="Apple-converted-space">    </span><span class="s2"></span><span class="Apple-converted-space">  </span>Extremely unsatisfied.</p>
+<p class="p40"><br></p>
+<p class="p31"><b>If you had to undergo a similar coronary procedure in the future, would you rather:<span class="Apple-converted-space"> </span></b></p>
+<p class="p33"><b></b><br></p>
+<p class="p34"><span class="s2"></span> Stay fasted<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="s2"></span> Eat and drink</p>
+<p class="p41"><b></b><br></p>
+<p class="p36"><b>Rate the pain felt during the procedure on a scale below ranging from 1 to 10 (circle it) :</b></p>
+<p class="p42"><span class="s4"></span><span class="s3"><span class="Apple-converted-space">         </span></span> 1<span class="Apple-converted-space">    </span>–<span class="Apple-converted-space">    </span>2<span class="Apple-converted-space">    </span>–<span class="Apple-converted-space">    </span>3<span class="Apple-converted-space">    </span>–<span class="Apple-converted-space">    </span>4<span class="Apple-converted-space">    </span>–<span class="Apple-converted-space">    </span>5<span class="Apple-converted-space">    </span>–<span class="Apple-converted-space">    </span>6<span class="Apple-converted-space">    </span>–<span class="Apple-converted-space">    </span>7<span class="Apple-converted-space">    </span>–<span class="Apple-converted-space">    </span>8<span class="Apple-converted-space">    </span>–<span class="Apple-converted-space">    </span>9<span class="Apple-converted-space">    </span>–<span class="Apple-converted-space">    </span>10 <span class="Apple-converted-space">        </span><span class="s4"></span></p>
+<p class="p38"><i>(No pain at all)<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">                </span>(Moderate pain)<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">        </span>(Extreme pain)</i></p>
+<p class="p31"><b>Regarding your procedure, how would you rate your overall satisfaction?</b></p>
+<p class="p32"><span class="s2"></span><span class="Apple-converted-space">  </span>Very satisfied<span class="Apple-converted-space">    </span><span class="s2"></span> Satisfied <span class="Apple-converted-space">    </span><span class="s2"></span> Neutral<span class="Apple-converted-space">    </span><span class="s2"></span><span class="Apple-converted-space">  </span>Not satisfied<span class="Apple-converted-space">    </span><span class="s2"></span><span class="Apple-converted-space">  </span>Extremely unsatisfied.</p>
+<p class="p43"><br></p>
+<p class="p28"><br></p>
+<p class="p43"><br></p>
+<p class="p28"><br></p>
+<p class="p43"><br></p>
+<p class="p28"><br></p>
+<p class="p43"><br></p>
+<p class="p28"><br></p>
+<p class="p28"><br></p>
+<p class="p40"><br></p>
+</body>
+</html>

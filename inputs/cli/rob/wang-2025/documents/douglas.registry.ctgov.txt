@@ -1,0 +1,2107 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02837731",
+      "orgStudyIdInfo": {
+        "id": "PRO-OOO1"
+      },
+      "organization": {
+        "fullName": "Baxter Healthcare Corporation",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Fluid Responsiveness Evaluation in Sepsis-associated Hypotension",
+      "officialTitle": "Evaluation of Fluid Volume in Patients With Sepsis and Refractory Hypotension",
+      "acronym": "FRESH"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2020-11",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2016-10",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2019-03",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2019-03-13",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2016-07-14",
+      "studyFirstSubmitQcDate": "2016-07-15",
+      "studyFirstPostDateStruct": {
+        "date": "2016-07-20",
+        "type": "ESTIMATED"
+      },
+      "resultsFirstSubmitDate": "2020-08-17",
+      "resultsFirstSubmitQcDate": "2020-11-10",
+      "resultsFirstPostDateStruct": {
+        "date": "2020-12-03",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2020-11-10",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-12-03",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Cheetah Medical Inc.",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": true,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "This study assesses the mean difference in fluid balance at ICU discharge and associated patient outcomes, based on a dynamic assessment of fluid responsiveness in septic patients with refractory hypotension in an ICU setting.",
+      "detailedDescription": "Multi-center randomized study comparing dynamic assessment of fluid responsiveness utilizing Starling SV monitor compared to a control group.\n\nSubjects will be randomized in a 2:1 treatment to control group ratio to increase power for sub-analysis by patient population.\n\nPatients randomized to the Starling SV arm will have treatment guided by a dynamic assessment of fluid responsiveness (measured by a change in stroke volume index \\> 10%) as assessed by passive leg raise (PLR).\n\nPatients randomized to the control group will receive standard of care treatment."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Sepsis",
+        "Hypotension"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 150,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Treatment Starling SV monitor",
+          "type": "EXPERIMENTAL",
+          "description": "A dynamic assessment of fluid responsiveness using the Starling SV monitor will be performed at every clinical decision point for the first 72 hours of study enrollment. Examples of a clinical decision point include a mean arterial pressure (MAP) of \\< 65, the decision to give additional fluid volume, and the decision to either escalate or wean vasopressors. Fluid responsiveness will be assessed using a passive leg raise (PLR) to guide corresponding treatment.",
+          "interventionNames": [
+            "Device: Treatment Starling SV monitor"
+          ]
+        },
+        {
+          "label": "Control",
+          "type": "NO_INTERVENTION",
+          "description": "No required therapeutic protocol will be used for patient treatment, and is determined per the discretion of the physician and hospital standards."
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Treatment Starling SV monitor",
+          "description": "A dynamic assessment of fluid responsiveness will be performed at every clinical decision point for the first 72 hours of study enrollment. Fluid responsiveness will be assessed using a passive leg raise (PLR) and Starling SV hemodynamic monitor to guide corresponding treatment.",
+          "armGroupLabels": [
+            "Treatment Starling SV monitor"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Fluid Balance",
+          "description": "Fluid balance is defined as all intravenous fluids administered over a 72 hour period (or ICU discharge, whichever occurred first), minus all fluid output. Urine output was measured in the ICU in 12 hour increments.",
+          "timeFrame": "72 hours"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Percentage of Participants Requiring Renal Replacement Therapy",
+          "description": "Renal replacement therapy (RRT) is therapy that replaces the normal blood-filtering function of the kidneys. It is used when the kidneys are not working well, which is called kidney failure and includes acute kidney injury and chronic kidney disease. Patient receives new treatment with dialysis.",
+          "timeFrame": "Day 1 to Day 30"
+        },
+        {
+          "measure": "Percentage of Participants Requiring Ventilator Use",
+          "description": "Patients did not enter the study on ventilation, but required ventilator use during the study are included in the analysis.",
+          "timeFrame": "Day 1 to Day 30"
+        },
+        {
+          "measure": "Length of ICU Stay",
+          "description": "Intensive Car Unit (ICU) length of stay will be calculated using the earliest of date that the subject is medically ready for discharge when captured, the date of discharge, or the study exit date.",
+          "timeFrame": "Day 1 to Day 30"
+        },
+        {
+          "measure": "Number of Hours of Ventilator Use",
+          "description": "Patients that did not enter the study on ventilation, but required ventilator use during the study are included in the analysis.Ventilator use might have improved (less use of ventilator support), had no change, or worsened (more use of ventilator support).",
+          "timeFrame": "Day 1 to Day 30"
+        },
+        {
+          "measure": "Number of Hours of Vasopressor Use",
+          "description": "Vasopressor drugs are provided to restore and maintain blood pressure in patients with septic shock. Patients that have vasopressors initiated throughout the trial are included in this analysis.",
+          "timeFrame": "Day 1 to Day 30"
+        },
+        {
+          "measure": "Change From Baseline in Serum Creatinine Levels at 72 Hours",
+          "description": "The diagnosis of Acute Kidney Injury (AKI) is traditionally based on a rise in serum creatinine",
+          "timeFrame": "Baseline, 72 hours"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Volume of Fluid",
+          "description": "Traditional methods of assessing fluid responsiveness (FR) such as vital signs, physical examination, and static measurements of circulatory pressure have shown not to reliably correlate with fluid responsiveness. In contrast, dynamic measurement of stroke volume (SV) following an intravenous (IV) fluid bolus or passive leg raise (PLR) is a safe and feasible method of rapidly assessing the effectiveness of fluid-induced augmentation of SV and cardiac output (CO). Mean volume of treatment fluid Administered (ml) at 72 hours or ICU discharge, whichever occurs first, between the two treatment groups",
+          "timeFrame": "72 hours"
+        },
+        {
+          "measure": "Percentage of Participants With Major Adverse Cardiac Event (MACE)",
+          "description": "Incidence of cardiovascular death, nonfatal myocardial infarction, and nonfatal stroke.",
+          "timeFrame": "Day 1 to Day 30"
+        },
+        {
+          "measure": "Number of Participants Experiencing an Adverse Event (AE) Related to Study Device",
+          "description": "Adverse events associated with the treatment procedure.",
+          "timeFrame": "Day 1 to Day 30"
+        },
+        {
+          "measure": "Percentage of Participants With Hospital Discharge Without ICU Readmission",
+          "timeFrame": "Day 1 to Day 30"
+        },
+        {
+          "measure": "Percentage of Participants Within Overall 30 Day Mortality Rate",
+          "description": "Incidence of death.",
+          "timeFrame": "Day 1 to Day 30"
+        },
+        {
+          "measure": "Number of Participants by Hospital Discharge Location",
+          "description": "Patient location (either \"home\" or \"other\") following hospital discharge.",
+          "timeFrame": "Day 1 to Day 30"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Diagnosis of sepsis, as exhibited by 2 or more of the following systemic inflammatory response syndrome (SIRS) criteria and a known or presumed infection at time of screening:\n\n   * Temperature of \\> 38 C or \\< 36 C\n   * Heart rate of \\> 90/min\n   * Respiratory rate of \\> 20/min or PaCO2 \\< 32 mm Hg (4.3 kPA)\n   * White blood cell count \\> 12000/mm3 or \\< 4000/mm3 or \\>10% immature bands\n2. Refractory hypotension despite initial fluid resuscitation (1L of treatment fluid)\n3. Patient enrolled in study as soon as possible (ideal window of 0-12 hours) and within 24 hours of arrival to the hospital\n4. Anticipated ICU admission\n5. Able to provide signed informed consent or consent can be obtained from the patient's authorized representative\n\nExclusion Criteria:\n\n1. Primary diagnosis of: acute cerebral vascular event, acute coronary syndrome, acute pulmonary edema, status asthmaticus, major cardiac arrhythmia, drug overdose, or injury from burn or trauma\n2. Known aortic insufficiency, or aortic abnormalities\n3. Hemodynamic instability due to active gastrointestinal hemorrhage\n4. Patient has received \\>3 liters of IV fluid prior to study randomization\n5. Requires immediate surgery\n6. Patient transferred to the ICU from another hospital unit\n7. Do not attempt resuscitation (DNAR or DNR) order\n8. Advanced directives restricting implementation of the resuscitation protocol\n9. Contraindication to blood transfusion\n10. Attending clinician deems aggressive resuscitation unsuitable\n11. Transferred from another in-hospital setting\n12. Not able to commence treatment protocol within 1 hour after randomization\n13. Known intraventricular heart defect, such as ventral septal defect or atrial septal defect\n14. Use of additional hemodynamic monitoring involving stroke volume variation (SVV) to determine fluid responsiveness\n15. Seizure in the last 24 hours\n16. Prisoner\n17. Pregnancy\n18. Age \\<18\n19. Known allergy to sensor material or gel\n20. Inability or contraindication to doing a passive leg raise with both extremities, such as inability to interrupt venous compression boots\n21. Patient has an epidural catheter in place\n22. Suspected intra-abdominal hypertension\n23. Inability to obtain IV access\n24. Diabetic ketoacidosis\n25. Hyper-osmolarity syndrome\n26. Patient uncouples from treatment algorithm\n27. Patient should be excluded based on the opinion of the Clinician/Investigator",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "University of California San Francisco Medical Center",
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94143",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.77493,
+            "lon": -122.41942
+          }
+        },
+        {
+          "facility": "Denver Health",
+          "city": "Denver",
+          "state": "Colorado",
+          "zip": "80204",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.73915,
+            "lon": -104.9847
+          }
+        },
+        {
+          "facility": "Grady Memorial Hospital",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30303",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.749,
+            "lon": -84.38798
+          }
+        },
+        {
+          "facility": "Indiana University Methodist Hospital",
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46202",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.76838,
+            "lon": -86.15804
+          }
+        },
+        {
+          "facility": "NYU School of Medicine",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10016",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "New York Presbyterian Brooklyn Methodist Hospital",
+          "city": "New York",
+          "state": "New York",
+          "zip": "11215",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "Ohio State University Hospital",
+          "city": "Columbus",
+          "state": "Ohio",
+          "zip": "43210",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.96118,
+            "lon": -82.99879
+          }
+        },
+        {
+          "facility": "Oregon Health and Science University",
+          "city": "Portland",
+          "state": "Oregon",
+          "zip": "97239",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 45.52345,
+            "lon": -122.67621
+          }
+        },
+        {
+          "facility": "Rhode Island Hospital",
+          "city": "Providence",
+          "state": "Rhode Island",
+          "zip": "02903",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.82399,
+            "lon": -71.41283
+          }
+        },
+        {
+          "facility": "Vanderbilt University Medical Center",
+          "city": "Nashville",
+          "state": "Tennessee",
+          "zip": "37232",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.16589,
+            "lon": -86.78444
+          }
+        },
+        {
+          "facility": "Baylor College of Medicine",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        },
+        {
+          "facility": "Royal Surrey County Hospital",
+          "city": "Guildford",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.23536,
+            "lon": -0.57427
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "32353418",
+          "type": "DERIVED",
+          "citation": "Douglas IS, Alapat PM, Corl KA, Exline MC, Forni LG, Holder AL, Kaufman DA, Khan A, Levy MM, Martin GS, Sahatjian JA, Seeley E, Self WH, Weingarten JA, Williams M, Hansell DM. Fluid Response Evaluation in Sepsis Hypotension and Shock: A Randomized Clinical Trial. Chest. 2020 Oct;158(4):1431-1445. doi: 10.1016/j.chest.2020.04.025. Epub 2020 Apr 27."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Summary data will be reviewed periodically"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Treatment Starling SV Monitor",
+          "description": "During Allocation phase, randomization was a 2:1 allocation of SV-guided to usual care. Subjects that didn't complete Follow-up phase are those that (1) show data that indicates unacceptable bias in the measurements, (2) data collection is interrupted prior to 72 hour data collection period of ICU stay, or (3) severe agitation and/or cardiopulmonary resuscitations resulted in poor quality data. Subjects completed follow-up were included in the Analysis."
+        },
+        {
+          "id": "FG001",
+          "title": "Usual Care",
+          "description": "During Allocation phase, randomization was a 2:1 allocation of SV-guided to usual care. Subjects that didn't complete Follow-up phase are those that (1) show data that indicates unacceptable bias in the measurements, (2) data collection is interrupted prior to 72 hour data collection period of ICU stay, or (3) severe agitation and/or cardiopulmonary resuscitations resulted in poor quality data. Subjects completed follow-up were included in the Analysis."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Allocation",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "102"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "48"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "83"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "41"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "19"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "7"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Admitted to General Floor",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "4"
+                }
+              ]
+            },
+            {
+              "type": "Immediate surgery/withdrew",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Diabetic Ketoacidosis/withdrew",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Device not available",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Protocol not implemented",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "7"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Moribund/Do not resuscitate",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Did not meet sepsis criteria",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Known aortic abnormalities",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Follow-up",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "83"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "41"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "83"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "41"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Analysis",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "83"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "41"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "83"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "41"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "Modified Intent-to-Treat",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Treatment Starling SV Monitor",
+          "description": "A dynamic assessment of fluid responsiveness using the Starling SV monitor will be performed at every clinical decision point for the first 72 hours of study enrollment. Examples of a clinical decision point include a mean arterial pressure (MAP) of \\< 65, the decision to give additional fluid volume, and the decision to either escalate or wean vasopressors. Fluid responsiveness will be assessed using a passive leg raise (PLR) and Starling SV hemodynamic monitor to guide corresponding treatment."
+        },
+        {
+          "id": "BG001",
+          "title": "Usual Care",
+          "description": "No required therapeutic protocol will be used for patient treatment, and is determined per the discretion of the physician and hospital standards."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "83"
+            },
+            {
+              "groupId": "BG001",
+              "value": "41"
+            },
+            {
+              "groupId": "BG002",
+              "value": "124"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "61.8",
+                      "spread": "16.9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "62.7",
+                      "spread": "15"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "62.1",
+                      "spread": "16.24"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "51"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "64"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "32"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "28"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "60"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "White",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "61"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "92"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Black or African American",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "17"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "26"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Asian",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Native Hawaiian or Other Pacific Islander",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "American Indian or Alaska Native",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Other",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Unknown",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Fluid Balance",
+          "description": "Fluid balance is defined as all intravenous fluids administered over a 72 hour period (or ICU discharge, whichever occurred first), minus all fluid output. Urine output was measured in the ICU in 12 hour increments.",
+          "populationDescription": "mITT population was predefined as including all patients who signed consent, met study eligibility criteria, were randomized and received monitoring for 72 hours or ICU discharge if earlier. mITT (n=83,41).",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Liters",
+          "timeFrame": "72 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment Starling SV Monitor",
+              "description": "A dynamic assessment of fluid responsiveness using the Starling SV monitor will be performed at every clinical decision point for the first 72 hours of study enrollment. Examples of a clinical decision point include a mean arterial pressure (MAP) of \\< 65, the decision to give additional fluid volume, and the decision to either escalate or wean vasopressors. Fluid responsiveness will be assessed using a passive leg raise (PLR) and Starling SV hemodynamic monitor to guide corresponding treatment."
+            },
+            {
+              "id": "OG001",
+              "title": "Usual Care",
+              "description": "No required therapeutic protocol will be used for patient treatment, and is determined per the discretion of the physician and hospital standards."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "83"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "41"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.65",
+                      "spread": "2.85"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "2.02",
+                      "spread": "3.44"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.021",
+              "statisticalMethod": "t-test, 2 sided",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "-1.37",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-2.53",
+              "ciUpperLimit": "0.21"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants Requiring Renal Replacement Therapy",
+          "description": "Renal replacement therapy (RRT) is therapy that replaces the normal blood-filtering function of the kidneys. It is used when the kidneys are not working well, which is called kidney failure and includes acute kidney injury and chronic kidney disease. Patient receives new treatment with dialysis.",
+          "populationDescription": "mITT",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Day 1 to Day 30",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment Starling SV Monitor",
+              "description": "A dynamic assessment of fluid responsiveness using the Starling SV monitor will be performed at every clinical decision point for the first 72 hours of study enrollment. Examples of a clinical decision point include a mean arterial pressure (MAP) of \\< 65, the decision to give additional fluid volume, and the decision to either escalate or wean vasopressors. Fluid responsiveness will be assessed using a passive leg raise (PLR) and Starling SV hemodynamic monitor to guide corresponding treatment."
+            },
+            {
+              "id": "OG001",
+              "title": "Usual Care",
+              "description": "No required therapeutic protocol will be used for patient treatment, and is determined per the discretion of the physician and hospital standards."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "79"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "40"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5.1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "17.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "OTHER",
+              "pValue": "0.042",
+              "statisticalMethod": "Fisher Exact",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "-0.124",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-0.27",
+              "ciUpperLimit": "-0.01",
+              "estimateComment": "Converted Estimated Value of -12.4% to decimal value of -0.124."
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants Requiring Ventilator Use",
+          "description": "Patients did not enter the study on ventilation, but required ventilator use during the study are included in the analysis.",
+          "populationDescription": "mITT",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Day 1 to Day 30",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment Starling SV Monitor",
+              "description": "A dynamic assessment of fluid responsiveness using the Starling SV monitor will be performed at every clinical decision point for the first 72 hours of study enrollment. Examples of a clinical decision point include a mean arterial pressure (MAP) of \\< 65, the decision to give additional fluid volume, and the decision to either escalate or wean vasopressors. Fluid responsiveness will be assessed using a passive leg raise (PLR) and Starling SV hemodynamic monitor to guide corresponding treatment."
+            },
+            {
+              "id": "OG001",
+              "title": "Usual Care",
+              "description": "No required therapeutic protocol will be used for patient treatment, and is determined per the discretion of the physician and hospital standards."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "79"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "41"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "17.7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "34.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "OTHER",
+              "pValue": "0.044",
+              "statisticalMethod": "Chi-squared",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "-0.1642",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-0.33",
+              "ciUpperLimit": "0",
+              "estimateComment": "Converted Estimated Value of -16.42% to decimal value of -0.1642."
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Length of ICU Stay",
+          "description": "Intensive Car Unit (ICU) length of stay will be calculated using the earliest of date that the subject is medically ready for discharge when captured, the date of discharge, or the study exit date.",
+          "populationDescription": "mITT",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "days",
+          "timeFrame": "Day 1 to Day 30",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment Starling SV Monitor",
+              "description": "A dynamic assessment of fluid responsiveness using the Starling SV monitor will be performed at every clinical decision point for the first 72 hours of study enrollment. Examples of a clinical decision point include a mean arterial pressure (MAP) of \\< 65, the decision to give additional fluid volume, and the decision to either escalate or wean vasopressors. Fluid responsiveness will be assessed using a passive leg raise (PLR) and Starling SV hemodynamic monitor to guide corresponding treatment."
+            },
+            {
+              "id": "OG001",
+              "title": "Usual Care",
+              "description": "No required therapeutic protocol will be used for patient treatment, and is determined per the discretion of the physician and hospital standards."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "74"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "35"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3.31",
+                      "spread": "3.51"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6.22",
+                      "spread": "10.72"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "OTHER",
+              "pValue": "0.113",
+              "statisticalMethod": "Fisher Exact",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "-2.91",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-6.67",
+              "ciUpperLimit": "0.85"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Hours of Ventilator Use",
+          "description": "Patients that did not enter the study on ventilation, but required ventilator use during the study are included in the analysis.Ventilator use might have improved (less use of ventilator support), had no change, or worsened (more use of ventilator support).",
+          "populationDescription": "mITT",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "hours",
+          "timeFrame": "Day 1 to Day 30",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment Starling SV Monitor",
+              "description": "A dynamic assessment of fluid responsiveness using the Starling SV monitor will be performed at every clinical decision point for the first 72 hours of study enrollment. Examples of a clinical decision point include a mean arterial pressure (MAP) of \\< 65, the decision to give additional fluid volume, and the decision to either escalate or wean vasopressors. Fluid responsiveness will be assessed using a passive leg raise (PLR) and Starling SV hemodynamic monitor to guide corresponding treatment."
+            },
+            {
+              "id": "OG001",
+              "title": "Usual Care",
+              "description": "No required therapeutic protocol will be used for patient treatment, and is determined per the discretion of the physician and hospital standards."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "14"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "14"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "46.99",
+                      "spread": "52.33"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "119.42",
+                      "spread": "134.90"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "OTHER",
+              "statisticalMethod": "Wilcoxon (Mann-Whitney)",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "-72.43",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-154.08",
+              "ciUpperLimit": "9.22"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Hours of Vasopressor Use",
+          "description": "Vasopressor drugs are provided to restore and maintain blood pressure in patients with septic shock. Patients that have vasopressors initiated throughout the trial are included in this analysis.",
+          "populationDescription": "mITT",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "hours",
+          "timeFrame": "Day 1 to Day 30",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment Starling SV Monitor",
+              "description": "A dynamic assessment of fluid responsiveness using the Starling SV monitor will be performed at every clinical decision point for the first 72 hours of study enrollment. Examples of a clinical decision point include a mean arterial pressure (MAP) of \\< 65, the decision to give additional fluid volume, and the decision to either escalate or wean vasopressors. Fluid responsiveness will be assessed using a passive leg raise (PLR) and Starling SV hemodynamic monitor to guide corresponding treatment."
+            },
+            {
+              "id": "OG001",
+              "title": "Usual Care",
+              "description": "No required therapeutic protocol will be used for patient treatment, and is determined per the discretion of the physician and hospital standards."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "55"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "26"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "40.74",
+                      "spread": "51.23"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "55.64",
+                      "spread": "87.42"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "OTHER",
+              "pValue": "0.426",
+              "statisticalMethod": "Wilcoxon (Mann-Whitney)",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "-14.91",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-52.50",
+              "ciUpperLimit": "22.68"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in Serum Creatinine Levels at 72 Hours",
+          "description": "The diagnosis of Acute Kidney Injury (AKI) is traditionally based on a rise in serum creatinine",
+          "populationDescription": "mITT",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mg/dL",
+          "timeFrame": "Baseline, 72 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment Starling SV Monitor",
+              "description": "A dynamic assessment of fluid responsiveness using the Starling SV monitor will be performed at every clinical decision point for the first 72 hours of study enrollment. Examples of a clinical decision point include a mean arterial pressure (MAP) of \\< 65, the decision to give additional fluid volume, and the decision to either escalate or wean vasopressors. Fluid responsiveness will be assessed using a passive leg raise (PLR) and Starling SV hemodynamic monitor to guide corresponding treatment."
+            },
+            {
+              "id": "OG001",
+              "title": "Usual Care",
+              "description": "No required therapeutic protocol will be used for patient treatment, and is determined per the discretion of the physician and hospital standards."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "79"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.13",
+                      "spread": "1.10"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0.04",
+                      "spread": "0.97"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "OTHER",
+              "pValue": "0.453",
+              "statisticalMethod": "ANCOVA",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "0.09",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-0.34",
+              "ciUpperLimit": "0.52"
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Volume of Fluid",
+          "description": "Traditional methods of assessing fluid responsiveness (FR) such as vital signs, physical examination, and static measurements of circulatory pressure have shown not to reliably correlate with fluid responsiveness. In contrast, dynamic measurement of stroke volume (SV) following an intravenous (IV) fluid bolus or passive leg raise (PLR) is a safe and feasible method of rapidly assessing the effectiveness of fluid-induced augmentation of SV and cardiac output (CO). Mean volume of treatment fluid Administered (ml) at 72 hours or ICU discharge, whichever occurs first, between the two treatment groups",
+          "populationDescription": "mITT",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "ml",
+          "timeFrame": "72 hours",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment Starling SV Monitor",
+              "description": "A dynamic assessment of fluid responsiveness using the Starling SV monitor will be performed at every clinical decision point for the first 72 hours of study enrollment. Examples of a clinical decision point include a mean arterial pressure (MAP) of \\< 65, the decision to give additional fluid volume, and the decision to either escalate or wean vasopressors. Fluid responsiveness will be assessed using a passive leg raise (PLR) and Starling SV hemodynamic monitor to guide corresponding treatment."
+            },
+            {
+              "id": "OG001",
+              "title": "Usual Care",
+              "description": "No required therapeutic protocol will be used for patient treatment, and is determined per the discretion of the physician and hospital standards."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "83"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "41"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5759.2",
+                      "spread": "2246.8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6865.5",
+                      "spread": "3348.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Percentage of Participants With Major Adverse Cardiac Event (MACE)",
+          "description": "Incidence of cardiovascular death, nonfatal myocardial infarction, and nonfatal stroke.",
+          "populationDescription": "mITT",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Day 1 to Day 30",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment Starling SV Monitor",
+              "description": "A dynamic assessment of fluid responsiveness using the Starling SV monitor will be performed at every clinical decision point for the first 72 hours of study enrollment. Examples of a clinical decision point include a mean arterial pressure (MAP) of \\< 65, the decision to give additional fluid volume, and the decision to either escalate or wean vasopressors. Fluid responsiveness will be assessed using a passive leg raise (PLR) and Starling SV hemodynamic monitor to guide corresponding treatment."
+            },
+            {
+              "id": "OG001",
+              "title": "Usual Care",
+              "description": "No required therapeutic protocol will be used for patient treatment, and is determined per the discretion of the physician and hospital standards."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "83"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "41"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "12.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Number of Participants Experiencing an Adverse Event (AE) Related to Study Device",
+          "description": "Adverse events associated with the treatment procedure.",
+          "populationDescription": "ITT-all randomized.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "timeFrame": "Day 1 to Day 30",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment Starling SV Monitor",
+              "description": "A dynamic assessment of fluid responsiveness using the Starling SV monitor will be performed at every clinical decision point for the first 72 hours of study enrollment. Examples of a clinical decision point include a mean arterial pressure (MAP) of \\< 65, the decision to give additional fluid volume, and the decision to either escalate or wean vasopressors. Fluid responsiveness will be assessed using a passive leg raise (PLR) and Starling SV hemodynamic monitor to guide corresponding treatment."
+            },
+            {
+              "id": "OG001",
+              "title": "Usual Care",
+              "description": "No required therapeutic protocol will be used for patient treatment, and is determined per the discretion of the physician and hospital standards."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "102"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "48"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Percentage of Participants With Hospital Discharge Without ICU Readmission",
+          "populationDescription": "mITT",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Day 1 to Day 30",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment Starling SV Monitor",
+              "description": "A dynamic assessment of fluid responsiveness using the Starling SV monitor will be performed at every clinical decision point for the first 72 hours of study enrollment. Examples of a clinical decision point include a mean arterial pressure (MAP) of \\< 65, the decision to give additional fluid volume, and the decision to either escalate or wean vasopressors. Fluid responsiveness will be assessed using a passive leg raise (PLR) and Starling SV hemodynamic monitor to guide corresponding treatment."
+            },
+            {
+              "id": "OG001",
+              "title": "Usual Care",
+              "description": "No required therapeutic protocol will be used for patient treatment, and is determined per the discretion of the physician and hospital standards."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "83"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "41"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "94.9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "97.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Percentage of Participants Within Overall 30 Day Mortality Rate",
+          "description": "Incidence of death.",
+          "populationDescription": "mITT",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Day 1 to Day 30",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment Starling SV Monitor",
+              "description": "A dynamic assessment of fluid responsiveness using the Starling SV monitor will be performed at every clinical decision point for the first 72 hours of study enrollment. Examples of a clinical decision point include a mean arterial pressure (MAP) of \\< 65, the decision to give additional fluid volume, and the decision to either escalate or wean vasopressors. Fluid responsiveness will be assessed using a passive leg raise (PLR) and Starling SV hemodynamic monitor to guide corresponding treatment."
+            },
+            {
+              "id": "OG001",
+              "title": "Usual Care",
+              "description": "No required therapeutic protocol will be used for patient treatment, and is determined per the discretion of the physician and hospital standards."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "83"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "41"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "15.7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "22"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "Number of Participants by Hospital Discharge Location",
+          "description": "Patient location (either \"home\" or \"other\") following hospital discharge.",
+          "populationDescription": "mITT",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Day 1 to Day 30",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treatment Starling SV Monitor",
+              "description": "A dynamic assessment of fluid responsiveness using the Starling SV monitor will be performed at every clinical decision point for the first 72 hours of study enrollment. Examples of a clinical decision point include a mean arterial pressure (MAP) of \\< 65, the decision to give additional fluid volume, and the decision to either escalate or wean vasopressors. Fluid responsiveness will be assessed using a passive leg raise (PLR) and Starling SV hemodynamic monitor to guide corresponding treatment."
+            },
+            {
+              "id": "OG001",
+              "title": "Usual Care",
+              "description": "No required therapeutic protocol will be used for patient treatment, and is determined per the discretion of the physician and hospital standards."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "83"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "41"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Home",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "53"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "18"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Other",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "30"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "23"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "timeFrame": "Day 1 to Day 30",
+      "description": "It was not pre-specified in the Study Protocol to collect Other (Not Including Serious) Adverse Events. For Mortality and SAE, safety analyses were performed on randomized (ITT) population.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Treatment Starling SV Monitor",
+          "description": "A dynamic assessment of fluid responsiveness using the Starling SV monitor will be performed at every clinical decision point for the first 72 hours of study enrollment. Examples of a clinical decision point include a mean arterial pressure (MAP) of \\< 65, the decision to give additional fluid volume, and the decision to either escalate or wean vasopressors. Fluid responsiveness will be assessed using a passive leg raise (PLR) and Starling SV hemodynamic monitor to guide corresponding treatment.",
+          "deathsNumAffected": 20,
+          "deathsNumAtRisk": 102,
+          "seriousNumAffected": 10,
+          "seriousNumAtRisk": 102,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 0
+        },
+        {
+          "id": "EG001",
+          "title": "Usual Care",
+          "description": "No required therapeutic protocol will be used for patient treatment, and is determined per the discretion of the physician and hospital standards.",
+          "deathsNumAffected": 10,
+          "deathsNumAtRisk": 48,
+          "seriousNumAffected": 7,
+          "seriousNumAtRisk": 48,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 0
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Cardiac Arrest",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "Other",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 102
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 48
+            }
+          ]
+        },
+        {
+          "term": "Intubation/respiratory distress",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "Other",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 102
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 48
+            }
+          ]
+        },
+        {
+          "term": "Severe septic shock and transition to comfort care",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "Other",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 102
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 48
+            }
+          ]
+        },
+        {
+          "term": "Intubation and ards",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "Other",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 102
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 48
+            }
+          ]
+        },
+        {
+          "term": "Pulmonary edema",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "Other",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 102
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 48
+            }
+          ]
+        },
+        {
+          "term": "Respiratory failure",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "Other",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 102
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 48
+            }
+          ]
+        },
+        {
+          "term": "Intubation and surgery",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "Other",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 102
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 48
+            }
+          ]
+        },
+        {
+          "term": "Hypoxic Respiratory Failure",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "Other",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 102
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 48
+            }
+          ]
+        },
+        {
+          "term": "Respiratory distress requiring intubation and transfer to ICU",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "Other",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 102
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 48
+            }
+          ]
+        },
+        {
+          "term": "Multiorgan Failure",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "Other",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 102
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 48
+            }
+          ]
+        },
+        {
+          "term": "Skin tear and possible infection related to the monitor leads",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "Other",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 102
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 48
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "Specifics of the publication policy will be outlined to the Investigator in the Clinical Trial Research Agreement."
+      },
+      "pointOfContact": {
+        "title": "Baxter Clinical Trials Disclosure Call Center",
+        "organization": "Baxter Healthcare",
+        "email": "Global_CORP_ClinicalTrialsDisclosure@baxter.com",
+        "phone": "(224) 948-7359"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2017-10-30",
+          "uploadDate": "2020-08-17T18:01",
+          "filename": "Prot_000.pdf",
+          "size": 853657
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2018-06-28",
+          "uploadDate": "2020-08-17T18:02",
+          "filename": "SAP_001.pdf",
+          "size": 227031
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-08-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D018805",
+          "term": "Sepsis"
+        },
+        {
+          "id": "D007022",
+          "term": "Hypotension"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D007239",
+          "term": "Infections"
+        },
+        {
+          "id": "D018746",
+          "term": "Systemic Inflammatory Response Syndrome"
+        },
+        {
+          "id": "D007249",
+          "term": "Inflammation"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

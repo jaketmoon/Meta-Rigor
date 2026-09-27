@@ -1,0 +1,303 @@
+[DOCLING_PAGE 1]
+
+Author Accepted Manuscript
+
+DOI: 10.1177/17474930211035032
+
+Peer Review Version
+
+A Randomized Controlled Trial to Optimize Patient's Selection for Endovascular Treatment in Acute Ischemic Stroke (SELECT2): Study Protocol
+
+[DOCLING_TABLE rows=4 columns=2]
+| Journal: | International Journal of Stroke |
+| Manuscript ID | IJS-04-21-9115.R1 |
+| Manuscript Type: | Protocol |
+| Date Submitted by the Author: | 17-Jun-2021 |
+[/DOCLING_TABLE]
+
+International Journal of Stroke
+
+[DOCLING_PAGE 2]
+
+Page 1 of 14
+
+Author Accepted Manuscript
+
+[DOCLING_TABLE rows=2 columns=2]
+| Complete List of Authors: | Peer Sarraj, Amrou; University of Texas McGovern Medical School, Neurology Hassan, Ameer; Valley Baptist Medical Center - Harlingen, Neurology Abraham, Michael; University of Kansas Medical Center, Neurology Ribo, Marc; Vall d'Hebron Hospital Universitari, Neurology Blackburn, Spiros; University of Texas McGovern Medical School, Neurosurgery Chen, Michael; Rush University Medical Center, Neurology Hussain, Muhammad; Cleveland Clinic, Cerebrovascular Center Pereira, Vitor; Toronto Western Hospital, Neuroradiology Ortega, Santiago; The University of Iowa Hospitals and Clinics, Neurology Sitton, Clark; University of Texas McGovern Medical School, Neuroradiology Lavori, Phillip; Stanford University, Biomedical Data Science Cai, Chunyan; University of Texas McGovern Medical School, Clinical and Translational Science Rahbar, Mohammad; University of Texas McGovern Medical School, Clinical and Translational Science Pujara, Deep; University of Texas McGovern Medical School, Neurology Shaker, Faris; University of Texas McGovern Medical School, Neurology Lansberg, Maarten; Stanford University, Neurology Campbell, Bruce; The Royal Melbourne Hospital, Neurology Grotta, James; Memorial Hermann Texas Medical Center Albers, Gregory; Stanford University, Neurology |
+| Keywords: | Acute stroke therapy, Endovascular Thrombectomy, Clinical trial, Large Vessel Occlusion, Ischaemic stroke, Protocols, Cerebral Infarction, Intervention, Reperfusion, Stroke |
+[/DOCLING_TABLE]
+
+Peer Review Version Author Accepted Manuscript
+
+International Journal of Stroke
+
+[DOCLING_PAGE 3]
+
+Page 2 of 14
+
+A Randomized Controlled Trial to Optimize Patient's Selection for Endovascular Treatment in Acute Ischemic Stroke (SELECT2): Study Protocol
+
+Amrou Sarraj MD 1 , Ameer E Hassan DO 2 ¸ Michael Abraham MD 3 , Marc Ribo MD 4 , Spiros Blackburn MD 5 , Michael Chen MD 6 , Muhammad Shazam Hussain MD 7 , Vitor Mendes Pereira MD 8 , Santiago Ortega MD, MS 9 , Clark Sitton MD 10 , Phillip W Lavori PhD 11 , Chunyan Cai PhD 12 , Mohammed Rahbar PhD 12 , Deep Pujara MBBS 1 , Faris Shaker MBChB 1 , Maarten G Lansberg MD 13 , Bruce Campbell MD 14 , James C Grotta MD 15 , Gregory W Albers MD 13 on behalf of the SELECT2 Investigators*
+
+Peer Review Version 1 UT McGovern Medical School, Neurology, Houston, USA. 2 Valley Baptist Medical Center, Neurology, Harlingen, USA. 3 University of Kansas Medical Center, Neurology, Kansas City, USA 4 Vall d'Hebron Hospital Universitari, Neurology, Barcelona, Spain 5 UT McGovern Medical School, Neurosurgery, Houston, USA. 6 Rush University, Neurosurgery, Chicago, USA 7 Cleveland Clinic, Neurology, Cleveland, USA 8 Toronto Western Hospital, Neurology, Toronto, Canada 9 University of Iowa Hospitals, Neurology, Iowa City, USA 10 UT McGovern Medical School, Neuroradiology, Houston, USA. 11 Stanford University, Biomedical Data Science, Stanford, USA. 12 UT McGovern Medical School, CCTS, Houston, USA. 13 Stanford University, Neurology, Stanford, USA. 14 Royal Melbourne Hospital, Neurology, Parkville, Australia 15 Memorial Hermann-Texas Medical Center, Neurology, Houston, USA
+
+*Investigators listed in eTable 3
+
+1
+
+International Journal of Stroke
+
+[DOCLING_PAGE 4]
+
+Page 3 of 14
+
+Author Accepted Manuscript
+
+Corresponding Author:
+
+Amrou Sarraj UT McGovern Medical School, 6431 Fannin St #7.044; Houston,TX-77030 713-500-7857
+
+Amrou.Sarraj@uth.tmc.edu
+
+Keywords: Acute stroke therapy, Thrombectomy, Clinical trial, Large Vessel Occlusion, Ischemic stroke, Protocols.
+
+Word Count: 2000
+
+Figures: 3
+
+Twitter:
+
+@amrsarrajMD, @SELECT2Trial
+
+Peer Review Version
+
+2
+
+International Journal of Stroke
+
+[DOCLING_PAGE 5]
+
+Page 4 of 14
+
+Abstract:
+
+Rationale: Randomized evidence for endovascular thrombectomy(EVT) safety and efficacy in patients with large core strokes is lacking.
+
+Aims: To demonstrate EVT efficacy and safety in patients with large core on non-contrast CT or perfusion imaging(CT/MR) and determine if there is heterogeneity of treatment effect in large cores based on the imaging modality.
+
+Analysis: A normal approximation of the Wilcoxon-Mann-Whitney test(the generalized likelihood ratio test) to assess the primary outcome. Functional independence rates, safety and imaging outcomes will also be compared.
+
+Peer Review Version Design: SELECT2 is a prospective, randomized, multi-center, assessor-blinded controlled trial with adaptive enrichment design, enrolling up to 560 patients. Procedure : Patients who meet the clinical criteria and have anterior circulation large vessel occlusions with large core on either NCCT(ASPECTS 3-5) or perfusion imaging(CTP[rCBF<30%] and/or MRI[ADC <620]≥50cc) will be randomized in a 1:1 ratio to undergo EVT or medical management(MM) only up to 24 hours of last known well. Study Outcomes: The distribution of 90-day mRS scores is the primary outcome. Functional independence(mRS=0-2) rate is a secondary outcome. Other secondary outcomes include safety(symptomatic ICH, neurological worsening, mortality) and imaging outcomes.
+
+Discussion: The SELECT2 trial will evaluate EVT safety and efficacy in large cores on either CT or perfusion imaging and may provide randomized evidence to extend EVT eligibility to larger population.
+
+Registration: ClinicalTrials.gov-NCT03876457
+
+Author Accepted Manuscript
+
+3
+
+International Journal of Stroke
+
+[DOCLING_PAGE 6]
+
+Page 5 of 14
+
+Author Accepted Manuscript
+
+Introduction and rationale
+
+The randomized trials(1-3) that established endovascular thrombectomy(EVT) efficacy and safety focused on patients with favorable imaging profiles on NCCT(ASPECTS≥6) or perfusion imaging(presence of mismatch defined as small ischemic core with a large penumbra). As a result, these trials largely excluded patients with large ischemic core(ASPECTS<6 or an ischemic core volume>50-70cc). Thus, the role of EVT in these patients is not established.
+
+Large core patients represent an important sub-population that physicians encounter often(4,5). Of 445 enrolled in SELECT, 105(24%) had large core on either CT or CTP. EVT resulted in higher functional independence rates, a shift towards better outcomes, smaller final infarct volumes and less infarct growth. There was a nominally higher rate of symptomatic ICH with EVT. A HERMES post-hoc analysis of only 50 patients with CTP infarct volume≥70cc showed EVT was associated with potential benefit up to 150cc(6). A recent meta-analysis of data from cohort studies and RCTs subgroups showed EVT to be associated with improved functional
+
+Peer Review Version Patients with larger baseline ischemic core are less likely to achieve functional independence given irreversible brain damage has already occurred. Moreover, reperfusion of large infarcts may increase the risk of hemorrhagic transformation. Therefore, EVT risk-benefit ratio is not well-defined in this subpopulation. Large core definition also differs between NCCT and perfusion(Figure 1). While NCCTASPECTS detects hypodense tissue, perfusion identifies regions of very low blood flow or volume and magnetic resonance detects tissue with restricted diffusion of water molecules. When these images are obtained concurrently, there is often disparity between them(4). How these disagreements may affect EVT efficacy and safety is unclear.
+
+4
+
+International Journal of Stroke
+
+[DOCLING_PAGE 7]
+
+Page 6 of 14
+
+Author Accepted Manuscript
+
+independence and lower mortality without significant increase in symptomatic ICH across the various large core definitions on the different imaging modalities, core size thresholds, and time windows(7). This gap in evidence results in inconsistent EVT treatment and calls for further randomized evidence to establish EVT efficacy and safety in this population and assess if there was a difference in treatment effect on different imaging modalities, size cutoffs or treatment time windows.
+
+Methods:
+
+Study Objectives:
+
+Study Design:
+
+SELECT2 is an investigator-initiated, multicenter, phase-III, prospective, randomized, openlabel, blinded outcome(PROBE) clinical trial. Local Institutional Review Boards approvals are obtained prior to inclusion of the study sites. Patients(up to 560) with LVO in the intracranial or cervical ICA and MCA/M1 segment(the horizontal segment proximal to the Sylvian fissure) who have large core on NCCT(ASPECTS 3-5), CT perfusion(rCBF<30%≥50cc) or MR diffusion(ADC<620≥50cc) are enrolled at 30 sites in the United States, Canada, Australia, New Zealand and Europe(Figure 1). ASPECTS determination is made by site investigators. Eligible
+
+Peer Review Version  Primary Aim: Evaluate if EVT as compared to MM will be efficacious and safe in patients with large core on NCCT(ASPECTS 3-5) or ≥50cc using CT perfusion(relative cerebral blood flow, rCBF<30%) or diffusion MRI(apparent diffusion co-efficient, ADC<620), treated within 0-24 hours from LKW.  Secondary aim: Assess if there is heterogeneity of EVT treatment effect in large core based on different imaging modalities.
+
+5
+
+International Journal of Stroke
+
+[DOCLING_PAGE 8]
+
+Page 7 of 14
+
+Author Accepted Manuscript
+
+patients or their legally authorized representatives provide informed consent prior to enrollment. Patients are randomized through a secure web-based system to receive EVT versus MM(figure 2). Eligibility criteria are provided in eTable 1. Details regarding randomization and treatment
+
+allocation are provided in the supplemental materials.
+
+Study Assessments:
+
+Peer Review Version Clinical assessments are performed at baseline, 24 hours after randomization, hospital discharge, 30 and 90 days and include modified Rankin Scale(mRS), National Institutes of Health Stroke Scale(NIHSS), and quality of life measure(Neuro-QoL). The Neuroimaging Core lab at the UTHealth consisting of experienced neuro-radiologists blindly adjudicates study images. eTable 2 describes the schedule of events. Study Outcomes: The primary outcome is the distribution of mRS scores at 90 days, performed by certified raters blinded to patient characteristics and treatment allocation, in-person or by telephone. Functional independence(90-day mRS=0-2) is a secondary outcome. Additional details regarding secondary and imaging outcomes are provided in the supplemental materials. Safety monitoring:
+
+SELECT2 has an independent Data and Safety Monitoring Board(DSMB) (comprised of vascular neurologists, neurointerventionalists, and a biostatistician) and an independent medical safety monitor. The description of their duties is provided in the supplemental materials.
+
+6
+
+International Journal of Stroke
+
+[DOCLING_PAGE 9]
+
+Page 8 of 14
+
+Author Accepted Manuscript
+
+Statistical Analysis:
+
+Peer Review Version Two interim and a final analysis will be conducted using adaptive enrichment design. The primary analysis will be under intention-to-treat principle. The primary outcome will be evaluated using a normal approximation of the Wilcoxon-Mann-Whitney test. A statistical analysis protocol(SAP) will be finalized prior to the data lock at the first interim analysis. The core salient features of the SAP as well as details regarding adaptive enrichment design and sample size justification are provided in the supplemental materials. Projected-90-day mRS distribution used for power-analysis is shown in Figure 3. Study Organization: A steering committee, of vascular neurologists and neurointerventionalists with experience in conducting clinical trials, advises the Global PI on study management on quarterly basis. Discussion: Patients presenting with large core infarcts on imaging are an important subpopulation without high-level evidence thus a trial to assess EVT efficacy and safety has been recognized among the highest priorities(8).
+
+Large core definition may differ between imaging modalities which would probably influence EVT outcomes in this population(5). In SELECT2, we will assess if there is heterogeneity in treatment effect in those with large core on CT as compared with those on perfusion images. Other RCTs evaluate EVT potential benefit in patients with large core on CT or MRI without including perfusion images. SELECT2 will provide high-level evidence on the possible
+
+7
+
+International Journal of Stroke
+
+[DOCLING_PAGE 10]
+
+Page 9 of 14
+
+Author Accepted Manuscript
+
+Peer Review Version additional benefit of perfusion images in identifying those who may benefit and those who may have a higher risk of reperfusion injury. Furthermore, SELECT2 has a unique design that will examine subgroups with paucity of data that precludes conclusive EVT efficacy and safety. One such subgroup is patients with ASPECTS 6-10 and large ischemic core(≥50mL) on perfusion imaging presenting within 6 hours of LKW. Enrollment of these patients was limited in early window trials (eFigure 1). Furthermore, in SELECT, patients with ASPECTS6-10 and ischemic core≥50mL demonstrated significantly worse functional independence and safety when compared to those with ASPECTS 6-10 and ischemic core<50mL(9). Additionally, in the late window; only 18 patients with ASPECTS 6-10 and ischemic core of 50-70mL were enrolled in DEFUSE3 trial(3) while DAWN enrollment cutoff was 50mL(2). Thus, patients with ASPECTS6-10 but ischemic core≥50mL lack definitive evidence of EVT benefit beyond 6 hours of LKW. SELECT2 have pre-specified analyses evaluating EVT efficacy and safety in these subgroups. Several variables can affect EVT outcomes in large core strokes. Infarct size and reperfusion time are the two most important(5). SELECT2 has an adaptive enrichment design to assess those.
+
+Whether thrombectomy safety and efficacy can be extended to large core patients remains to be seen. If so, to what stroke size, on what imaging modality and how late are also unknowns. All of these are unanswered questions of important significance that we attempt to address in the SELECT2 trial.
+
+Conclusion:
+
+The SELECT2 trial will evaluate EVT safety and efficacy in patients with large core on different imaging modalities up to 24 hours.
+
+8
+
+International Journal of Stroke
+
+[DOCLING_PAGE 11]
+
+Page 10 of 14
+
+Author Accepted Manuscript
+
+Funding Source:
+
+The study is funded by a grant from Stryker Neurovascular. The funder was not involved in the study design and will not be involved in the study monitoring, data collection, statistical analyses, interpretation of results, or manuscript writing.
+
+Disclosures:
+
+Authors' disclosures are listed in the supplemental materials. The sites and investigators are listed in eTable 3.
+
+Peer Review Version
+
+9
+
+International Journal of Stroke
+
+[DOCLING_PAGE 12]
+
+Page 11 of 14
+
+Author Accepted Manuscript
+
+References:
+
+Goyal M, Menon BK, van Zwam WH, et al. Endovascular thrombectomy after largevessel ischaemic stroke: a meta-analysis of individual patient data from five randomised trials. Lancet (London, England). 2016 Apr;387(10029):1723-31.
+
+Nogueira RG, Jadhav AP, Haussen DC, et al. Thrombectomy 6 to 24 Hours after Stroke with a Mismatch between Deficit and Infarct. N Engl J Med [Internet]. 2018;378(1):1121. Available from: https://doi.org/10.1056/NEJMoa1706442
+
+Albers GW, Marks MP, Kemp S, et al. Thrombectomy for Stroke at 6 to 16 Hours with Selection by Perfusion Imaging. N Engl J Med [Internet]. 2018;378(8):708-18. Available from: https://doi.org/10.1056/NEJMoa1713973
+
+Sarraj A, Hassan AE, Grotta J, et al. Optimizing Patient Selection for Endovascular Treatment in Acute Ischemic Stroke (SELECT): A Prospective, Multicenter Cohort Study of Imaging Selection. Ann Neurol. 2020 Mar;87(3):419-33.
+
+Sarraj A, Hassan AE, Savitz S, et al. Outcomes of Endovascular Thrombectomy vs Medical Management Alone in Patients With Large Ischemic Cores: A Secondary Analysis of the Optimizing Patient's Selection for Endovascular Treatment in Acute Ischemic Stroke (SELECT) Study. JAMA Neurol. 2019 Jul;
+
+Campbell BC V, Majoie CBLM, Albers GW, et al. Penumbral imaging and functional outcome in patients with anterior circulation ischaemic stroke treated with endovascular thrombectomy versus medical therapy: a meta-analysis of individual patient-level data. Lancet Neurol. 2019 Jan;18(1):46-55.
+
+Sarraj A, Grotta JC, Pujara DK, Shaker F, Tsivgoulis G. Triage imaging and outcome measures for large core stroke thrombectomy {\textendash} a systematic review and metaanalysis. J Neurointerv Surg. 2020;
+
+Demchuk AM, Albers GW, Nogueira RG. STAIR X: Trial Design Considerations and Additional Populations to Expand Indications for Endovascular Treatment. Stroke. 2019 Apr;STROKEAHA119024337.
+
+Sarraj A, Campbell B, Ribo M, et al. Selection criteria for large core trials: dogma or data? J Neurointerv Surg [Internet]. 2021; Available from: https://jnis.bmj.com/content/early/2021/04/19/neurintsurg-2021-017498
+
+Peer Review Version
+
+10
+
+International Journal of Stroke
+
+[DOCLING_PAGE 13]
+
+Page 12 of 14
+
+Legends:
+
+Figure 1 . Illustration of large core on CT and Perfusion imaging - Illustrates imaging eligibility based on A) NCCT, B) CT or C) MR-perfusion.
+
+Figure 2. Study Design: Randomization Algorithm
+
+Figure 3. Projected 90-day mRS distribution Demonstrates projections based on SELECT prospective cohort data and simulations used for study power and sample size calculations.
+
+Peer Review Version
+
+Author Accepted Manuscript
+
+11
+
+International Journal of Stroke
+
+[DOCLING_PAGE 14]
+
+Page 13 of 14
+
+Author Accepted Manuscript
+
+Peer Review Version
+
+Figure 1. Illustration of large core on CT and Perfusion imaging - Illustrates imaging eligibility based on A) NCCT, B) CT or C) MR-perfusion.
+
+457x944mm (96 x 96 DPI)
+
+International Journal of Stroke
+
+[DOCLING_PAGE 15]
+
+Author Accepted Manuscript
+
+Page 14 of 14
+
+Peer Review Version Figure 2. Study design: Randomization algorithm 172x102mm (300 x 300 DPI)
+
+International Journal of Stroke
+
+[DOCLING_PAGE 16]
+
+Page 15 of 14
+
+Author Accepted Manuscript
+
+Figure 3. Projected 90-day mRS distribution - Demonstrates projections based on SELECT prospective cohort data and simulations used for study power and sample size calculations.
+
+Peer Review Version 394x125mm (300 x 300 DPI)
+
+International Journal of Stroke

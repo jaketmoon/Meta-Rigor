@@ -1,0 +1,845 @@
+                   T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+
+
+
+                                Original Article
+
+
+       Trial of Endovascular Thrombectomy
+             for Large Ischemic Strokes
+     A. Sarraj, A.E. Hassan, M.G. Abraham, S. Ortega‑Gutierrez, S.E. Kasner,
+ M.S. Hussain, M. Chen, S. Blackburn, C.W. Sitton, L. Churilov, S. Sundararajan,
+Y.C. Hu, N.A. Herial, P. Jabbour, D. Gibson, A.N. Wallace, J.F. Arenillas, J.P. Tsai,
+      R.F. Budzik, W.J. Hicks, O. Kozak, B. Yan, D.J. Cordato, N.W. Manning,
+   M.W. Parsons, R.A. Hanel, A.N. Aghaebrahim, T.Y. Wu, P. Cardona‑Portela,
+N. Pérez de la Ossa, J.D. Schaafsma, J. Blasco, N. Sangha, S. Warach, C.D. Gandhi,
+      T.J. Kleinig, D. Sahlein, L. Elijovich, W. Tekle, E.A. Samaniego, L. Maali,
+  M.A. Abdulrazzak, M.N. Psychogios, A. Shuaib, D.K. Pujara, F. Shaker, H. Johns,
+G. Sharma, V. Yogendrakumar, F.C. Ng, M.H. Rahbar, C. Cai, P. Lavori, S. Hamilton,
+ T. Nguyen, J.T. Fifi, S. Davis, L. Wechsler, V.M. Pereira, M.G. Lansberg, M.D. Hill,
+J.C. Grotta, M. Ribo, B.C. Campbell, and G.W. Albers, for the SELECT2 Investigators*​​
+
+                                       A BS T R AC T
+BACKGROUND
+Trials of the efficacy and safety of endovascular thrombectomy in patients with large               The authors’ full names, academic de‑
+ischemic strokes have been carried out in limited populations.                                      grees, and affiliations are listed in the Ap‑
+                                                                                                    pendix. Dr. Sarraj can be contacted at
+METHODS                                                                                            ­amrou​.­sarraj@​­uhhospitals​.­org or at the
+We performed a prospective, randomized, open-label, adaptive, international trial                   Department of Neurology, University
+                                                                                                    Hospitals Cleveland Medical Center–Case
+involving patients with stroke due to occlusion of the internal carotid artery or the               Western Reserve University, 11100 Euclid
+first segment of the middle cerebral artery to assess endovascular thrombectomy                     Ave., Hanna House No. 504, Cleveland,
+within 24 hours after onset. Patients had a large ischemic-core volume, defined as                  OH 44106.
+an Alberta Stroke Program Early Computed Tomography Score of 3 to 5 (range, 0 to                   *The SELECT2 investigators are listed in
+10, with lower scores indicating larger infarction) or a core volume of at least 50 ml              the Supplementary Appendix, available
+                                                                                                    at NEJM.org.
+on computed tomography perfusion or diffusion-weighted magnetic resonance
+imaging. Patients were assigned in a 1:1 ratio to endovascular thrombectomy plus                   Drs. Hassan and Abraham and Drs. Ribo,
+                                                                                                   Campbell, and Albers contributed equal‑
+medical care or to medical care alone. The primary outcome was the modified                        ly to this article.
+Rankin scale score at 90 days (range, 0 to 6, with higher scores indicating greater
+                                                                                                   This article was published on February 10,
+disability). Functional independence was a secondary outcome.                                      2023, at NEJM.org.
+RESULTS
+                                                                                                   DOI: 10.1056/NEJMoa2214403
+The trial was stopped early for efficacy; 178 patients had been assigned to the                    Copyright © 2023 Massachusetts Medical Society.
+thrombectomy group and 174 to the medical-care group. The generalized odds ratio
+for a shift in the distribution of modified Rankin scale scores toward better out-
+comes in favor of thrombectomy was 1.51 (95% confidence interval [CI], 1.20 to 1.89;
+P<0.001). A total of 20% of the patients in the thrombectomy group and 7% in the
+medical-care group had functional independence (relative risk, 2.97; 95% CI, 1.60 to
+5.51). Mortality was similar in the two groups. In the thrombectomy group, arterial
+access-site complications occurred in 5 patients, dissection in 10, cerebral-vessel per-
+foration in 7, and transient vasospasm in 11. Symptomatic intracranial hemorrhage
+occurred in 1 patient in the thrombectomy group and in 2 in the medical-care group.
+CONCLUSIONS
+Among patients with large ischemic strokes, endovascular thrombectomy resulted
+in better functional outcomes than medical care but was associated with vascular
+complications. Cerebral hemorrhages were infrequent in both groups. (Funded by
+Stryker Neurovascular; SELECT2 ClinicalTrials.gov number, NCT03876457.)
+
+                                             n engl j med﻿﻿  nejm.org﻿                                                                               1
+                                          The New England Journal of Medicine
+    Downloaded from nejm.org by ERAN Tal-Or on February 13, 2023. For personal use only. No other uses without permission.
+                            Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+                                        T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+
+
+
+         E
+                ndovascular thrombectomy has                          mittee oversaw the conduct of the trial. The first
+                been shown to be more effective in reduc-             author designed the trial and wrote the first
+                ing disability than medical therapy alone             draft of the manuscript, and three of the authors
+         in selected patients with ischemic stroke due to             performed the data analyses. The trial protocol
+         a large cerebral vessel occlusion.1-7 However, pa-           (available with the full text of this article at NEJM
+         tients with large strokes on noncontrast comput-             .org) was approved by the local institutional re-
+         ed tomography (CT) or perfusion imaging have                 view board at each participating site before en-
+         been underrepresented in thrombectomy trials,                rollment began. All enrolled patients or their
+         despite that such strokes account for approximate-           legally authorized representatives provided writ-
+         ly one fifth of large-vessel occlusion strokes.8             ten informed consent. The trial was conducted
+         Consequently, the safety and efficacy of throm-              in accordance with the principles of the Declara-
+         bectomy in patients with a larger ischemic bur-              tion of Helsinki and the International Council
+         den have not been well established.9-11 These pa-            for Harmonisation Good Clinical Practice guide-
+         tients generally have poor neurologic outcomes,              lines. Adverse-event monitoring and adjudication
+         including progression of stroke symptoms, brain              was performed by an independent medical safety
+         edema, and death. The results of a trial conducted           monitor. The data and safety monitoring board
+         in Japan, post hoc analyses from previous trials,            (which was composed of independent vascular
+         and a prospective cohort study have suggested that           neurologists, neurointerventionalists, and statis-
+         endovascular thrombectomy may improve func-                  ticians) oversaw patient safety and the interim
+         tional outcomes in patients with large strokes.8,12-14       analyses. The authors vouch for the accuracy and
+             The estimated extent of ischemic change in               completeness of the data and for the fidelity of
+         acute stroke differs depending on the imaging                the trial to the protocol.
+         method that is used to measure the volume of in-                 The trial was funded by a grant from Stryker
+         farcted tissue.15 Ischemic changes on noncontrast            Neurovascular to the University Hospitals Cleve-
+         CT appear as areas of hypodensity and are assessed           land Medical Center and University of Texas Hous-
+         with the use of the semiquantitative measure of the          ton McGovern Medical School. Stryker Neuro-
+         Alberta Stroke Program Early Computed Tomogra-               vascular did not provide trial equipment, and the
+         phy Score (ASPECTS).16 Perfusion imaging iden-               design of the trial did not mandate the use of
+         tifies quantitative brain volume with critically re-         Stryker Neurovascular products. Stryker Neuro-
+         duced blood flow that is considered irreversibly             vascular had no role in the design or execution
+         damaged, whereas diffusion-weighted magnetic                 of the trial, the analysis of the data, or the writing
+         resonance imaging (MRI) detects the volume of                or reviewing of the manuscript. Confidentiality
+         brain tissue affected by cytotoxic edema.                    agreements were in place between University Hos-
+             In a randomized, controlled trial involving              pitals Cleveland Medical Center (one of the partici-
+         patients with acute ischemic stroke with a large             pating centers) and Stryker Neurovascular.
+         ischemic-core volume, we aimed to evaluate wheth-
+         er endovascular thrombectomy within 24 hours                 Patients
+         after stroke onset (defined as the time the pa-              The trial was conducted at 31 sites across the
+         tient was last known to be well) leads to better             United States, Canada, Europe, Australia, and New
+         functional outcomes than standard medical care               Zealand. Eligible patients were 18 to 85 years of
+         alone. We used several imaging methods to deter-             age and had acute ischemic stroke due to occlu-
+         mine the size of the core infarction.                        sion of the internal carotid artery (either cervical
+                                                                      or intracranial) or the M1 segment (main trunk)
+                                                                      of the middle cerebral artery or both. All patients
+                               Me thods
+                                                                      underwent a standardized imaging evaluation
+         Trial Design and Oversight                                   with noncontrast CT and, depending on site prefer-
+         SELECT2 (Randomized Controlled Trial to Opti-                ence, either CT perfusion imaging or diffusion-
+         mize Patient’s Selection for Endovascular Treat-             weighted MRI. Eligible patients had to have a
+         ment in Acute Ischemic Stroke) was a phase 3,                large ischemic core on noncontrast CT (defined
+         international, randomized, open-label clinical trial         as an ASPECTS value of 3 to 5; on a scale from
+         with adaptive enrichment design and blinded end-             0 to 10, with lower values indicating larger in-
+         point assessment.17 An academic steering com-                farction) or an estimated ischemic-core volume
+
+
+2                                                       n engl j med﻿﻿  nejm.org﻿
+
+                                          The New England Journal of Medicine
+    Downloaded from nejm.org by ERAN Tal-Or on February 13, 2023. For personal use only. No other uses without permission.
+                            Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+                   Endovascular Thrombectomy for Large Ischemic Strokes
+
+
+of 50 ml or greater on CT perfusion imaging                match volume [the volumetric difference between
+(defined as a relative cerebral blood flow of <30%         critically hypoperfused tissue and the ischemic-
+as determined with RAPID automated software                core estimate] of ≥15 ml), affected brain hemi-
+[iSchemaView], which was installed at each trial           sphere, and participating center.
+site). For sites that used noncontrast CT and                 Endovascular thrombectomy was performed
+diffusion-weighted MRI as the standard for base-           with stent retrievers, aspiration devices, or both
+line imaging, the apparent diffusion coefficient           of various manufacturers, depending on trial site.
+value was used to determine the ischemic-core              All the patients received medical care according
+volume. A large ischemic core was considered to            to institutional protocols in accordance with the
+be a lesion with a volume of 50 ml or greater with         guidelines of the American Heart Association–
+an apparent diffusion coefficient value of less than       American Stroke Association, European Stroke
+620×10−6 mm2 per second as determined with the             Organization, and the Stroke Foundation (Aus-
+use of RAPID software. There was no upper limit            tralia and New Zealand), including guidelines
+for ischemic-core volume.                                  regarding blood-pressure management, critical
+    Endovascular thrombectomy was expected to              care, and in-hospital and outpatient rehabilita-
+begin within 24 hours after the onset of stroke.           tion.9-11 Decisions to proceed with decompressive
+Other eligibility criteria included a prestroke score      hemicraniectomy in patients with severe brain
+on the modified Rankin scale of 0 or 1 (indicat-           swelling were made in accordance with local
+ing no disability), ascertained at the time of ran-        practices, which could include intravenous throm-
+domization, and no evidence of intracranial hem-           bolytic and oral antiplatelet agents. Patients with
+orrhage on neuroimaging. Scores on the modified            tandem occlusions or isolated cervical internal
+Rankin scale range from 0 to 6, with higher                carotid artery occlusions were allowed in the trial;
+scores indicating greater disability. Intravenous          details regarding treatment guidance for these
+thrombolytic drugs (alteplase or tenecteplase)             occlusions are provided in the protocol.
+were administered to eligible patients who were
+first assessed within 4.5 hours after the onset of         Outcomes and Analyses
+stroke. A screening log was kept at all trial sites        The primary outcome was the ordinal score on
+for patients who had a large-vessel occlusion and          the modified Rankin scale at 90 days. Scores of
+met the criteria for a large ischemic core on any          6 (indicating death) and 5 (indicating that the
+imaging method but were not enrolled in the                patient is bedridden and constant care is needed)
+trial; the log included documentation of the rea-          were merged for purposes of the analysis to avoid
+son for exclusion.                                         considering a shift from a score of 6 to 5 as a
+                                                           substantial improvement in functional status.
+Trial Interventions                                        The initial plan included, at the request of regu-
+Patients were randomly assigned in a 1:1 ratio to          latory agencies, a modified Rankin scale score of
+undergo endovascular thrombectomy and receive              0 to 2 as a primary outcome; however, the power
+standard medical care or to receive standard               analysis was based on a single primary outcome,
+medical care alone. Randomization was performed            and a modified Rankin scale score of 0 to 2 was
+with the use of a central, Web-based module with           changed to be the first secondary outcome in
+an adaptive (minimization) procedure to balance            the previously published trial protocol.17
+groups across key clinical and imaging charac-                Secondary outcomes were functional inde-
+teristics: age, National Institutes of Health Stroke       pendence (a score on the modified Rankin scale
+Scale (NIHSS) score at presentation (with scores           of 0 to 2) at 90 days after randomization (with a
+ranging from 0 to 42 and higher scores indicat-            window of ±15 days), independent ambulation
+ing worse neurologic deficits), occlusion location,        (a score on the modified Rankin scale of 0 to 3)
+time window (the interval beween the time that             at 90 days after randomization (with a window
+the patient was last known to be well and ran-             of ±15 days), procedural complications, success-
+domization), ischemic-core volume estimate,                ful reperfusion (defined as grade 2b to 3 on the
+ASPECTS value, presence or absence of target               modified Treatment in Cerebral Ischemia Scale;
+perfusion–diffusion mismatch profile (mismatch             range, 0 to 3, with higher grades indicating in-
+ratio [the ratio of critically hypoperfused tissue         creased reperfusion [grade 2b indicates reperfu-
+to the ischemic-core estimate] of ≥1.8 with a mis-         sion of ≥50% of the occluded middle cerebral
+
+
+                                             n engl j med﻿﻿  nejm.org﻿                                                       3
+                                          The New England Journal of Medicine
+    Downloaded from nejm.org by ERAN Tal-Or on February 13, 2023. For personal use only. No other uses without permission.
+                            Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+                                        T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+
+
+         artery territory and grade 3 indicates reperfusion and the University of Melbourne for central ad-
+         of 100% of the occluded middle cerebral artery     judication of ASPECTS values, occlusion location,
+         territory at the end of the thrombectomy proce-    perfusion measures, angiographic procedure suc-
+         dure]), discharge location, early neurologic im-   cess, hemorrhages, and follow-up infarct volumes.
+         provement (defined as a reduction of ≥8 points     The imaging methods are described in the Sup-
+         in the NIHSS score from baseline to 24 hours after plementary Appendix, available at NEJM.org.
+         presentation or a score of 0 to 1), and quality of    The original trial design included two prespeci-
+         life as assessed with the use of domain-specific   fied interim analyses, which would be performed
+         Neuro-QoL measures (mobility, depression, social   when 200 patients and 380 patients enrolled in
+         participation, and cognitive aspects) transformed  the trial had completed the 90-day follow-up. The
+         to respective T scores (with higher scores indi-   analyses included an efficacy boundary (z score of
+         cating better performance in a given domain,       >2.604) and a futility boundary (z score of ≤1.897).
+         except for depression, for which higher scores     The data and safety monitoring board reviewed
+         indicate worse performance). Safety outcomes       the results of the first interim analysis of the
+         included symptomatic intracranial hemorrhage,18    data for 200 patients and recommended that
+         death, neurologic worsening (an increase of ≥4     the trial continue. In light of the publication of
+         points in the NIHSS score within 24 hours after    the RESCUE-Japan LIMIT trial,14 which showed the
+         presentation), and procedural complications. Ad-   efficacy of endovascular thrombectomy in patients
+         ditional details regarding outcome definitions are with a large stroke who had been selected for
+         provided in the protocol.                          enrollment primarily on the basis of MRI results,
+             Prespecified subgroups were defined accord-    the board requested to review the data for the
+         ing to age, NIHSS score at presentation, time to   efficacy and safety outcomes after 300 patients
+         randomization, mismatch profile, affected hemi-    enrolled in the trial had completed the 90-day
+         sphere, occlusion site, and geographic location    follow-up. The review by the data and safety
+         (U.S. vs. non-U.S. sites). The subgroup analyses   monitoring board of these data showed that the
+         assessed the odds that the trial patients in the   prespecified efficacy boundary had been crossed
+         thrombectomy group would have better functional    in favor of endovascular thrombectomy. Therefore,
+         recovery at 90 days than patients assigned to the  on September 9, 2022, the board recommended
+         medical-care group, but the trial was not powered  that enrollment be stopped. The statistical anal-
+         to allow conclusions from these data.              ysis plan was finalized on November 20, 2022,
+                                                            before the outcome data was released by the in-
+         Trial Conduct                                      dependent data management core on November
+         Clinical assessments were performed at baseline 21, 2022.
+         and at 24 hours, 5 to 7 days (or at discharge, if
+         discharge occurred earlier), 30 days, and 90 days Statistical Analysis
+         after randomization. Trained, certified assessors On the basis of data from the Optimizing Patient
+         who were unaware of trial-group assignments Selection for Endovascular Treatment in Acute
+         and imaging results collected 30-day and 90-day Ischemic Stroke (SELECT) prospective cohort
+         outcomes. The score on the modified Rankin study,15 the trial was designed to have a maxi-
+         scale was assessed at in-person visits or by means mum sample of 560 patients and 90% power at a
+         of telephone interviews19 with the patient or a two-sided alpha level of 5% to detect a mean
+         surrogate.                                         standardized difference of 0.34 for a shift across
+             All patients underwent noncontrast CT, CT outcomes on the modified Rankin scale between
+         angiography or magnetic resonance angiography, groups. The primary analysis was performed on
+         and CT perfusion imaging or perfusion–diffusion the basis of the intention-to-treat principle and
+         MRI, with automated processing with the use of used a two-sided Wilcoxon–Mann–Whitney test
+         RAPID software at baseline to assess trial eligi- for superiority to assess the distribution of scores
+         bility. All imaging (including imaging performed on the modified Rankin scale at the 90-day fol-
+         at baseline, angiography performed during throm- low-up. The effect size was determined with the
+         bectomy, and follow-up neuroimaging) was re- use of the Wilcoxon–Mann–Whitney measure
+         viewed by the central imaging core laboratory at (probability) of superiority and assumption-free
+         the University of Texas McGovern Medical School generalized odds ratios with 95% confidence in-
+
+
+4                                                       n engl j med﻿﻿  nejm.org﻿
+
+                                          The New England Journal of Medicine
+    Downloaded from nejm.org by ERAN Tal-Or on February 13, 2023. For personal use only. No other uses without permission.
+                            Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+                   Endovascular Thrombectomy for Large Ischemic Strokes
+
+
+tervals. A Wilcoxon–Mann–Whitney probability          cated by the core laboratory and an ischemic-core
+of superiority value greater than 0.5 and a gen-      volume of less than 50 ml who were enrolled on
+eralized odds ratio greater than 1 indicated im-      the basis of a site-assessed ASPECTS value of 3 to
+provement of outcomes in the thrombectomy             5 were excluded from the per-protocol analysis.
+group.20,21 The analyses were conducted to control       Baseline demographic, clinical, and imaging
+the overall two-sided type I error rate at 0.05,      characteristics were similar in the two trial groups
+accounting for a cumulative alpha of 0.018 spent      (Table 1). The median age was 66.5 years (inter-
+at the interim analyses.                              quartile range, 58 to 75), the median NIHSS score
+   Because the analyses used an assumption-free       was 19 (interquartile range, 15 to 23), the median
+generalized odds ratio, no test of proportionality    interval between the time the patient was last
+was performed. All effects for binary secondary       known to be well and randomization was 9.31
+and safety outcomes were estimated as relative        hours (interquartile range, 5.66 to 15.33), the me-
+risks and are reported with respective 95% con-       dian ASPECTS value was 4 (interquartile range,
+fidence intervals. Because there was no prespeci-     3 to 5), and the mean estimated ischemic-core
+fied plan for the adjustment of the widths of         volume was 80 ml (interquartile range, 60 to
+confidence intervals for the secondary outcomes       113.5). A total of 145 patients (41.2%) were
+or for multiple comparisons in the subgroup           women, and 50 patients (14.2%) were Black. A
+analyses, the confidence intervals should not be      total of 97 of 339 patients (28.6%) awoke with
+used for hypothesis testing. Missing data were        symptoms of stroke, and 211 of 352 patients
+imputed with the use of multiple imputation           (59.9%) were transferred from outside hospitals
+under the missing-at-random assumption with           or emergency departments to participating trial
+chained equations. Additional details regarding       centers. Intravenous thrombolysis was adminis-
+statistical analyses and handling of missing data     tered in 37 patients (20.8%) in the thrombectomy
+are provided in the statistical analysis plan (avail- group and in 30 patients (17.3%) in the medical-
+able with the protocol) and in the Supplementary      care group; alteplase was used in 32 of the 37 pa-
+Appendix.                                             tients in the thrombectomy group and in 28 of the
+                                                      30 patients in the medical-care group. The rep-
+                                                      resentativeness of the trial population to patients
+                     R e sult s
+                                                      with acute ischemic stroke in the countries in
+Patient Characteristics                               which the trial was conducted is provided in
+From September 2019 through September 2022, Table S13.
+at the time the trial was stopped, 958 patients
+had been screened; 352 of these patients were eli- Primary and Secondary Clinical Outcomes
+gible, provided informed consent, and were en- At 90 days, the median score on the modified
+rolled. The main reasons for exclusion were mul- Rankin scale was 4 (interquartile range, 3 to 6)
+tiple or ineligible clot locations, ineligible age of in the thrombectomy group and 5 (interquartile
+the patient, a time since the onset of stroke of range, 4 to 6) in the medical-care group (Fig. 1).
+more than 24 hours, or the presence of imaging The Wilcoxon–Mann–Whitney probability of su-
+abnormalities in addition to the cerebral infarc- periority was 0.60 (95% confidence interval [CI],
+tion. A total of 178 patients were assigned to the 0.55 to 0.65), and the generalized odds ratio fa-
+thrombectomy group, and 174 were assigned to voring endovascular thrombectomy was 1.51
+the medical-care group (Fig. S1 in the Supplemen- (95% CI, 1.20 to 1.89; P<0.001). In the prespecified
+tary Appendix). Approximately 60% of the throm- tipping-point analysis, in which missing scores
+bectomy procedures were performed with the on the modified Rankin scale were imputed as
+patient under general anesthesia. A total of 3 pa- 6 in the thrombectomy group and as 0 in the
+tients were lost to follow-up before 90 days, and medical-care group, the Wilcoxon–Mann–Whitney
+1 patient withdrew consent at the 90-day follow- probability of superiority was 0.59 (95% CI, 0.53
+up. Two patients crossed over from medical care to 0.64), and the generalized odds ratio was 1.42
+to endovascular thrombectomy; thrombectomy (95% CI, 1.13 to 1.78) (Table S11).
+was attempted in all the patients who were as-           Functional independence at 90 days (a score on
+signed to the thrombectomy group. Eleven patients the modified Rankin scale of 0 to 2) was observed
+with an ASPECTS value greater than 5 as adjudi- in 20.0% of the patients in the thrombectomy
+
+
+                                             n engl j med﻿﻿  nejm.org﻿                                                       5
+                                          The New England Journal of Medicine
+    Downloaded from nejm.org by ERAN Tal-Or on February 13, 2023. For personal use only. No other uses without permission.
+                            Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+                                                        T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+
+
+
+    Table 1. Baseline Characteristics of the Patients (Intention-to-Treat Population).*
+
+                                                                                      Endovascular Thrombectomy          Medical Care
+    Characteristic                                                                            (N = 178)                   (N = 174)
+    Median age (IQR) — yr                                                                     66 (58–75)                  67 (58–75)
+    Female sex — no. (%)                                                                       71 (39.9)                   74 (42.5)
+    Race or ethnic group — no. (%)†
+       American Indian or Alaska Native                                                               0                     1 (0.6)
+       Asian                                                                                    5 (2.8)                     3 (1.7)
+       Black                                                                                   26 (14.6)                   24 (13.8)
+       White                                                                                  132 (74.2)                  130 (74.7)
+       Native Hawaiian or Pacific Islander                                                      2 (1.1)                        0
+       Other or unknown                                                                        13 (7.3)                    16 (9.2)
+    Previous ischemic stroke — no. (%)                                                         19 (10.7)                   13 (7.5)
+    Right hemisphere affected — no. (%)                                                        98 (55.1)                   98 (56.3)
+    Occlusion location — no. (%)‡
+       Internal carotid artery                                                                 80 (44.9)                   66 (37.9)
+       M1 segment                                                                              91 (51.1)                  100 (57.5)
+       M2 segment                                                                               7 (3.9)                     8 (4.6)
+    Tandem occlusions — no. of patients (%)                                                    56 (31.5)                   44 (25.3)
+    Transfer to center with endovascular thrombectomy capabilities — no. (%)                  106 (59.6)                  105 (60.3)
+    Intravenous thrombolysis — no./total no. (%)                                                37/178 (20.8)              30/173 (17.3)
+    Median NIHSS score at hospital arrival (IQR)§                                              19 (15–23)                  19 (15–22)
+    General anesthesia performed — no. (%)                                                     104/177 (58.8)                 —
+    Median interval between time that patient was last known to be well and                9.79 (5.82–15.32)           9.07 (5.27–15.33)
+          randomization (IQR) — hr
+    Median interval between hospital arrival and imaging (IQR) — min
+       CT                                                                                      16 (9–27)                   15 (7–24)
+       CT perfusion or MRI                                                                     26 (17–41)                  25 (13–36)
+    Median interval between hospital arrival and arterial puncture (IQR) — min                109 (76–138)                    —
+    Median interval between arterial puncture and reperfusion or end of proce‑                 38 (25–61)                     —
+          dure (IQR) — min
+    Median ASPECTS value on baseline CT imaging (IQR)¶                                          4 (3–5)                     4 (4–5)
+    Imaging method used to estimate ischemic-core volume — no./total no. (%)
+       CT perfusion                                                                            174/177 (98.3)             169/174 (97.1)
+       Diffusion-weighted MRI                                                                    3/177 (1.7)                 5/174 (2.9)
+    Median estimated ischemic-core volume (IQR) — ml‖
+       Overall                                                                               81.5 (57–118)                 79 (62–111)
+       CT perfusion                                                                          81.5 (59–119)                 79 (62–111)
+       Diffusion-weighted MRI                                                                  82 (56–89)                  86 (84–104)
+    Median volume of critically hypoperfused lesion (IQR) — ml**                              171 (127–226)               169 (127–216)
+    Median volume of tissue with Tmax of >10 sec (IQR) — ml                                   107 (70.5–152.5)            111 (67–147)
+
+*	Percentages may not total 100 because of rounding. CT denotes computed tomography, IQR interquartile range, and Tmax time to maxi‑
+     mum contrast arrival.
+†	Race and ethnic group were reported by the patients.
+‡	The M1 segment was defined as the horizontal segment of the middle cerebral artery, terminating at the genu adjacent to the limen insu‑
+    lae. The M2 segment was defined as the segment of the middle cerebral artery distal to the genu adjacent to the limen insulae.
+§	Scores on the National Institutes of Health Stroke Scale (NIHSS) range from 0 to 42, with higher scores indicating worse neurologic deficits.
+¶	Alberta Stroke Program Early Computed Tomography Scores (ASPECTS) range from 0 to 10, with lower values indicating larger infarction.
+    ASPECTS values were adjudicated by the core laboratory.
+‖	The ischemic-core volume (irreversibly injured brain tissue) was defined as the volume of tissue with relative cerebral blood flow of less
+    than 30% of that of the contralateral hemisphere or an apparent diffusion coefficient of less than 620×10−6 mm2 per second.
+**	The critically hypoperfused lesion volume was defined as the tissue volume with a Tmax of more than 6 seconds on CT perfusion imaging.
+
+
+
+6                                                                         n engl j med﻿﻿  nejm.org﻿
+
+                                                       The New England Journal of Medicine
+                 Downloaded from nejm.org by ERAN Tal-Or on February 13, 2023. For personal use only. No other uses without permission.
+                                         Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+                     Endovascular Thrombectomy for Large Ischemic Strokes
+
+
+
+                                                            Score on Modified Rankin Scale
+                                      1.1               0      1         2       3       4     5   6
+                                    (N=2)
+                                      5.1
+                                    (N=9)
+
+  Endovascular Thrombectomy               14.0          17.4              15.2          8.4               38.2
+                    (N=178)             (N=25)        (N=31)            (N=27)        (N=15)            (N=68)
+
+
+
+                 Medical Care             11.5          20.7                   18.4                      40.8
+                    (N=174)             (N=20)        (N=36)                 (N=32)                    (N=71)
+
+                                          5.2
+                                        (N=9)
+                                          1.7
+                                  0     (N=3)
+                                (N=0)
+                                0                20                40                     60             80           100
+                                                                   Percentage of Patients
+
+ Figure 1. Distribution of Scores on the Modified Rankin Scale at 90 Days (Intention-to-Treat Population).
+ A modified Rankin scale score of 0 indicates no symptoms; a score of 1, no clinically significant disability (patients
+ are able to perform usual work, leisure, and school activities); a score of 2, slight disability (patients are able to look
+ after their own affairs without assistance but are unable to carry out all previous activities); a score of 3, moderate
+ disability (patients require some help but are able to walk unassisted); a score of 4, moderately severe disability; a
+ score of 5, severe disability (patients are bedridden and require constant care); and a score of 6, death. Percentages
+ may not total 100 because of rounding.
+
+
+
+group and in 7.0% of the patients in the medical-              (relative risk, 1.63; 95% CI, 0.39 to 6.73). At 90
+care group (relative risk, 2.97; 95% CI, 1.60 to 5.51).        days, 68 patients (38.2%) in the thrombectomy
+Independent ambulation (a score on the modi-                   group and 71 (40.8%) in the medical-care group
+fied Rankin scale of 0 to 3) at 90 days occurred               had died (relative risk, 0.91; 95% CI, 0.71 to 1.18).
+in 37.9% of the patients in the thrombectomy                      Early neurologic worsening occurred in 44
+group and in 18.7% of the patients in the medi-                patients (24.7%) in the thrombectomy group and
+cal-care group (relative risk, 2.06; 95% CI, 1.43              in 27 patients (15.5%) in the medical-care group
+to 2.96). Results for the other secondary out-                 (relative risk, 1.59; 95% CI, 1.03 to 2.45). In a
+comes are shown in Table 2 and were generally                  post hoc analysis, from which no conclusions can
+supportive of those of the primary analysis. There             be drawn, early neurologic worsening was associ-
+was no prespecified plan for adjustment of the                 ated with worse functional outcomes at 90 days
+widths of confidence intervals for multiplicity in             (Wilcoxon–Mann–Whitney probability of superi-
+comparing secondary outcomes between trial                     ority, 0.37 [95% CI, 0.31 to 0.43]; generalized
+groups, and no definite conclusions can be drawn               odds ratio, 0.58 [95% CI, 0.45 to 0.74]). Patients
+from these data. Successful reperfusion of the tar-            who had neurologic worsening had larger isch-
+get vessel occurred in 142 patients (79.8%) in the             emic-core lesions at baseline (median volume,
+thrombectomy group.                                            107 ml [interquartile range, 67 to 158] among
+                                                               patients with neurologic worsening vs. 77 ml
+Safety                                                         [interquartile range, 60 to 100] among patients
+Symptomatic intracranial hemorrhage occurred                   without neurologic worsening).
+in 1 patient (0.6%) in the thrombectomy group                     Procedural complications occurred in 33 pa-
+and in 2 patients (1.1%) in the medical-care group             tients (18.5%) in the thrombectomy group. Com-
+(relative risk, 0.49; 95% CI, 0.04 to 5.36) (Ta-               plications at the arterial access site included occlu-
+ble 3). Parenchymal hematoma was observed in                   sion (in 3 patients [1.7%]), hematoma (in 1 patient
+5 patients (2.8%) in the thrombectomy group and                [0.6%]), and infection (in 1 patient [0.6%]). In
+in 3 patients (1.7%) in the medical-care group                 addition, 10 patients (5.6%) had vascular dissec-
+
+
+                                                  n engl j med﻿﻿  nejm.org﻿                                                    7
+                                           The New England Journal of Medicine
+     Downloaded from nejm.org by ERAN Tal-Or on February 13, 2023. For personal use only. No other uses without permission.
+                             Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+                                                      T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+
+
+
+    Table 2. Clinical Outcomes (Intention-to-Treat Population).*
+
+                                                                      Endovascular
+                                                                      Thrombectomy                Medical Care             Effect Size
+    Variable                                                            (N = 178)                  (N = 174)                (95% CI)
+    Primary outcome
+    Median score on modified Rankin scale at 90 days (IQR)†             4 (3–6)                    5 (4–6)            1.51 (1.20 to 1.89)‡
+    Secondary clinical outcomes
+    Functional independence at 90 days — no./total no. (%)§            36/177 (20.3)              12/171 (7.0)        2.97 (1.60 to 5.51)¶
+    Independent ambulation at 90 days — no./total no. (%)‖             67/177 (37.9)              32/171 (18.7)       2.06 (1.43 to 2.96)¶
+    Successful reperfusion — no. (%)**                               142 (79.8)                         —
+    Discharge location — no. (%)
+       Home                                                            19 (10.7)                  10 (5.7)
+       Acute care facility                                             11 (6.2)                   16 (9.2)
+       Inpatient rehabilitation facility                               72 (40.4)                  65 (37.4)
+       Skilled nursing facility                                        23 (12.9)                  20 (11.5)
+       Hospice or home hospice                                         11 (6.2)                   19 (10.9)
+       In-hospital death                                               42 (23.6)                  44 (25.3)
+    Early neurologic improvement — no./total no. (%)††                 20/174 (11.5)              13/172 (7.6)        1.47 (0.76 to 2.87)¶
+    Median quality-of-life scores (IQR)‡‡
+       Mobility domain                                              35.2 (23.9 to 43.9)       25.1 (16.5 to 33.0)    10.10 (5.02 to 15.18)§§
+       Depression domain                                            47.9 (43.1 to 54.3)       53.6 (46.8 to 57.4)    −5.70 (−8.83 to −2.57)‖
+       Social domain                                                37.1 (32.7 to 42.0)       33.5 (27.7 to 37.8)     3.60 (1.11 to 6.09)‖
+       Cognitive domain                                             41.9 (35.0 to 49.6)       37.9 (30.9 to 42.9)     4.00 (0.51 to 7.49)‖
+
+*	The widths of the confidence intervals for the secondary outcomes were not adjusted for multiple comparisons, and the reported confi‑
+    dence intervals should not be used for hypothesis testing.
+†	Scores on the modified Rankin scale range from 0 to 6, with higher scores indicating greater disability.
+‡	The value is the generalized odds ratio (P<0.001). The Wilcoxon–Mann–Whitney probability of superiority was 0.60 (95% CI, 0.55 to 0.65).
+§	Functional independence was defined as a score on the modified Rankin scale of 0 to 2.
+¶	The value is the relative risk estimate and 95% confidence interval.
+‖	Independent ambulation was defined as a score on the modified Rankin scale of 0 to 3.
+**	Successful reperfusion was defined as grade 2b to 3 on the modified Thrombectomy in the Cerebral Ischemia system; range, 0 to 3, with
+    higher grades indicating increased reperfusion (grade 2b indicates reperfusion of ≥50% of the occluded middle cerebral artery territory,
+    and grade 3 indicates reperfusion of 100% of the occluded middle cerebral artery territory at the end of the thrombectomy procedure).
+††	Early neurologic improvement was defined as a reduction of at least 8 points in the NIHSS score from the time of presentation to a center
+    with endovascular-thrombectomy capabilities or a NIHSS score of 0 to 1 at the 24-hour follow-up.
+‡‡	Quality-of-life scores were evaluated with the use of domain-specific Neuro-QoL assessments. The values reflect T scores, with higher
+    scores indicating better performance in a given domain, except for depression, for which higher scores indicate worse performance.
+§§	The value is the coefficient and 95% confidence interval for the median value, calculated with the use of quantile regression.
+
+
+                       tions, 7 (3.9%) had arterial perforation, and 11            analysis (which included 336 patients) and the
+                       (6.2%) had intraprocedural vasospasm. Two pa-               as-treated analysis (which included 352 patients)
+                       tients had both arterial access-site and intracra-          were consistent with those of the primary inten-
+                       nial vascular complications. The results of a post          tion-to-treat analysis (Tables S6, S7, S9, and S10).
+                       hoc analysis of clinical and safety outcomes among          A sensitivity analysis that used site-rated ASPECTS
+                       patients who had or did not have procedural com-            categories showed similar treatment effects to
+                       plications are reported in Table S4.                        those based on core laboratory ratings (Table S12).
+
+                       Subgroup and Per-Protocol Analyses                          Efficacy and Safety of Thrombectomy
+                       The results of subgroup analyses are shown in According to Different Imaging Methods
+                       Figure 2 and were generally supportive of the The results among the patients who had been en-
+                       primary analysis. The results of the per-protocol rolled on the basis of having a low ASPECTS value
+
+
+8                                                                     n engl j med﻿﻿  nejm.org﻿
+
+                                                       The New England Journal of Medicine
+                 Downloaded from nejm.org by ERAN Tal-Or on February 13, 2023. For personal use only. No other uses without permission.
+                                         Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+                     Endovascular Thrombectomy for Large Ischemic Strokes
+
+
+
+ Table 3. Safety Outcomes and Procedural Complications (Intention-to-Treat Population).*
+
+                                                         Endovascular
+                                                        Thrombectomy             Medical Care          Relative Risk
+ Outcome                                                   (N = 178)              (N = 174)             (95% CI)
+ Symptomatic intracranial hemorrhage within               1 (0.6)                2 (1.1)            0.49 (0.04 to 5.36)
+       24 hr — no. (%)†
+ Early neurologic worsening — no. (%)‡                   44 (24.7)              27 (15.5)           1.59 (1.03 to 2.45)
+ Death from any cause within 90 days — no./total         68/177 (38.4)           71/171 (41.5)      0.91 (0.71 to 1.18)
+        no. (%)
+ Arterial access-site complications — no. (%)
+     Occlusion                                            3 (1.7)                     —
+     Hematoma                                             1 (0.6)                     —
+     Infection                                            1 (0.6)                     —
+ Vascular injury — no. (%)
+     Dissection                                          10 (5.6)                     —
+     Perforation                                          7 (3.9)                     —
+     Vasospasm                                           11 (6.2)                     —
+     Other                                                2 (1.1)                     —
+
+*	The widths of the confidence intervals for the safety outcomes were not adjusted for multiple comparisons, and the
+  reported confidence intervals should not be used for hypothesis testing.
+†	Symptomatic intracranial hemorrhage was defined as parenchymal hemorrhage type 2 or remote parenchymal hemor‑
+  rhage associated with an increase of 4 or more points in the NIHSS score at the 24-hour follow-up (according to Safe
+  Implementation of Thrombolysis in Stroke–Monitoring Study criteria18).
+‡	Early neurologic worsening was defined as an increase of 4 or more points in the NIHSS score from the time of presen‑
+  tation to a center with endovascular-thrombectomy capabilities to the 24-hour follow-up.
+
+
+were similar to those of the primary analysis, as            time they were last known to be well. The results
+were the results among patients who had been                 for the secondary outcomes were generally in
+enrolled on the basis of having large ischemic-              the same direction as those of the primary
+core volumes (Fig. 2). The results in the subgroup           analysis, with the possible exception of early
+of patients with both an ASPECTS value of 5 or               neurologic improvement. The incidence of symp-
+less and an estimated ischemic-core volume of                tomatic intracranial hemorrhage was low in
+70 ml or greater were also similar to the overall            both trial groups, but approximately 20% of the
+results (Wilcoxon–Mann–Whitney probability of                patients in the thrombectomy group had compli-
+superiority, 0.61 [95% CI, 0.54 to 0.68]; general-           cations associated with the procedure.
+ized odds ratio, 1.58 [95% CI, 1.19 to 2.09]).                  A total of 85% of the enrolled patients had an
+This direction of effect persisted in patients with          ASPECTS value of 5 or less, whereas 87% had an
+an ischemic-core volume greater than 100 ml                  ischemic-core volume of 50 ml or greater; 78%
+and greater than 150 ml, although functional                 of the patients had a large stroke according to
+independence (a score on the modified Rankin                 both noncontrast CT (an ASPECTS value of ≤5)
+scale of 0 to 2) was less frequent in these pa-              and ischemic-core volume (≥50 ml). The results
+tients than in those with smaller ischemic cores.            across the prespecified subgroups of patients
+                                                             defined according to imaging criteria were simi-
+                                                             lar to those of the primary analysis.
+                   Discussion
+                                                                A Japanese trial14 showed the efficacy of throm-
+The results of the SELECT2 trial, which involved             bectomy in patients with an ASPECTS value of 3 to
+patients from broad geographic regions, showed               5, primarily assessed on MRI, when performed
+that endovascular thrombectomy plus medical care             within the first 6 hours after onset or within 6 to
+resulted in better clinical outcomes than medi-              24 hours after onset when initial fluid-attenuat-
+cal care alone in patients with a large ischemic             ed inversion recovery imaging showed no signal
+core who presented within 24 hours after the                 change. Other ongoing or recently completed tri-
+
+
+                                                n engl j med﻿﻿  nejm.org﻿                                                     9
+                                           The New England Journal of Medicine
+     Downloaded from nejm.org by ERAN Tal-Or on February 13, 2023. For personal use only. No other uses without permission.
+                             Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+                                                      T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+
+
+
+     Subgroup                                            No. of Patients                               Generalized Odds Ratio (95% CI)
+
+     Age
+        <70 yr                                                203                                                                   1.66 (1.22–2.27)
+        ≥70 yr                                                149                                                                   1.36 (1.01–1.84)
+     NIHSS score at presentation
+        <20                                                   197                                                                   1.53 (1.12–2.10)
+        ≥20                                                   155                                                                   1.52 (1.12–2.07)
+     Occlusion location
+        Internal carotid artery                               146                                                                   1.31 (0.93–1.85)
+        Middle cerebral artery                                206                                                                   1.68 (1.24–2.27)
+     Interval between time that patient was last
+           known to be well and randomization
+        <12 hr                                                211                                                                   1.48 (1.12–1.96)
+        ≥12 hr                                                141                                                                   1.58 (1.09–2.28)
+        <6 hr                                                 100                                                                   1.63 (1.09–2.46)
+        ≥6 hr                                                 252                                                                   1.49 (1.14–1.94)
+     Ischemic-core volume
+        <70 ml                                                124                                                                   1.39 (0.93–2.07)
+        ≥70 ml                                                228                                                                   1.62 (1.25–2.12)
+        <100 ml                                               235                                                                   1.57 (1.18–2.09)
+        ≥100 ml                                               117                                                                   1.55 (1.11–2.16)
+        <150 ml                                               308                                                                   1.51 (1.19–1.93)
+        ≥150 ml                                                44                                                                   1.73 (1.02–2.94)
+     ASPECTS value
+        0–2                                                    20                                                                   1.40 (0.91–2.16)
+        3–5                                                   290                                                                   1.61 (1.25–2.07)
+        6–10                                                   42                                                                   1.24 (0.65–2.37)
+     Mismatch ratio ≥1.8 and mismatch volume ≥15 ml
+        Yes                                                   194                                                                   1.36 (1.00–1.84)
+        No                                                    154                                                                   1.83 (1.30–2.58)
+     Mismatch ratio ≥1.2 and mismatch volume ≥10 ml
+        Yes                                                   298                                                                   1.44 (1.13–1.83)
+        No                                                     50                                                                   2.54 (1.26–5.14)
+     Subgroup A                                               328                                                                   1.54 (1.22–1.94)
+     Subgroup B                                               202                                                                   1.58 (1.19–2.09)
+     Affected hemisphere
+        Left                                                  156                                                                   1.42 (1.02–1.95)
+        Right                                                 196                                                                   1.60 (1.18–2.19)
+     Geographic region
+        United States                                         280                                                                   1.63 (1.26–2.11)
+        Other                                                  72                                                                   1.13 (0.72–1.75)
+                                                                                0.5            1.0      1.5   2.0 2.5         5.0
+
+                                                                                Medical Care         Endovascular Thrombectomy
+                                                                                  Better                       Better
+
+
+
+                      als (e.g., ClinicalTrials.gov numbers, NCT03805308,             of a previous phase 2 prospective cohort study
+                      NCT03094715, and NCT03811769) involving pa-                     (SELECT).15 A trial of endovascular treatment for
+                      tients with extensive ischemic injury have based                large strokes conducted in China that enrolled
+                      eligibility on noncontrast CT or MRI ASPECTS                    patients with an ASPECTS value of 3 to 5 or a more
+                      criteria, with limited enrollment of patients on                limited ischemic-core volume range of 70 to
+                      the basis of perfusion imaging criteria. The                    100 ml has shown results that are generally simi-
+                      SELECT2 trial design included patients on the                   lar to those of our trial.22
+                      basis of a low ASPECTS value (a value of <6) or                    Early neurologic worsening, defined as an
+                      a large ischemic-core volume on CT perfusion or                 increase of 4 or more points on the NIHSS, was
+                      diffusion-weighted MRI (an ischemic-core vol-                   numerically more frequent in the thrombectomy
+                      ume of ≥50 ml) and was informed by the results                  group than in the medical-care group and was
+
+
+10                                                                     n engl j med﻿﻿  nejm.org﻿
+
+                                                      The New England Journal of Medicine
+                Downloaded from nejm.org by ERAN Tal-Or on February 13, 2023. For personal use only. No other uses without permission.
+                                        Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+                    Endovascular Thrombectomy for Large Ischemic Strokes
+
+
+
+ Figure 2 (facing page). Analyses According to Prespeci-
+                                                             analyses, clinical efficacy and safety outcomes
+ fied Subgroups.                                             were similar among patients in the thrombectomy
+ Shown is the subgroup analysis of the Wilcoxon–Mann–        group who had or did not have procedural com-
+ Whitney generalized odds ratio, indicating the odds         plications, but no definite conclusions can be
+ that the trial patients assigned to undergo endovascu‑      drawn from the results of these analyses.
+ lar thrombectomy and receive standard medical care              Approximately 20% of large-vessel occlusion
+ would have better functional recovery at 90 days (as
+ reflected by a shift in the distribution of scores on the
+                                                             strokes are shown to have a large core. Many
+ modified Rankin scale toward more favorable out‑            patients with a large ischemic-core volume have
+ comes) than patients assigned to receive standard           not been considered candidates for endovascular
+ medical care only. The widths of the confidence inter‑      thrombectomy and may not be transferred to
+ vals were not adjusted for multiple comparisons, and        centers with endovascular thrombectomy capa-
+ the reported confidence intervals should not be used
+ for hypothesis testing. Scores on the National Insti‑
+                                                             bilities for intervention. Our results, which reflect
+ tutes of Health Stroke Scale (NIHSS) range from 0 to        outcomes in geographic populations that are
+ 42, with higher scores indicating worse neurologic          different from those in previous trials, may sup-
+ deficits. Alberta Stroke Program Early Computed To‑         port extending the indication for thrombectomy
+ mography Scores (ASPECTS) range from 0 to 10, with          to patients with a large ischemic core on base-
+ lower values indicating larger infarction. The mis‑
+ match ratio is the ratio of critically hypoperfused tis‑
+                                                             line imaging.
+ sue to the ischemic-core estimate, and the mismatch             Limitations of the trial include its early termi-
+ volume is the volumetric difference between critically      nation, which could have caused the treatment
+ hypoperfused tissue and the ischemic-core estimate.         effect to be overestimated. The sample size was
+ Subgroup A refers to the trial population with the ex‑      therefore smaller than anticipated and underpow-
+ clusion of patients for whom the interval between the
+ time that the patient was last known to be well and
+                                                             ered for subgroup analyses. As with all thrombec-
+ randomization was less than 6 hours and who had an          tomy trials, treatment was open label. However,
+ ASPECTS value of 6 to 10 and with the exclusion of          outcome assessment was performed by assessors
+ patients for whom the interval between the time that        who were unaware of trial-group assignments.
+ the patient was last known to be well and randomiza‑        Some patients who were enrolled on the basis of
+ tion was 6 to 16 hours and who had an ASPECTS val‑
+ ue of 6 to 10 and an ischemic-core volume of less than
+                                                             low ASPECTS values had lower ischemic-core
+ 70 ml. Subgroup B refers to the subgroup of patients who    volumes than intended for enrollment. The ben-
+ had an ASPECTS value of less than 6 and an ischemic-        efit of endovascular thrombectomy as compared
+ core volume of 70 ml or greater. The sizes of the box‑      with standard medical care, however, persisted
+ es in the plot correspond to the number of patients in      numerically in prespecified analyses after these
+ each subgroup. The arrow indicates that the 95% con‑
+ fidence interval was beyond the scale.
+                                                             patients were excluded. Only approximately 20%
+                                                             of the patients in the trial received intravenous
+                                                             thrombolytic agents before randomization, part-
+associated with worse functional outcomes at 90              ly because of the inclusion of patients who pre-
+days in a post hoc analysis. Symptomatic hemor-              sented more than 4.5 hours after onset and po-
+rhage occurred in one patient who had had early              tentially because of physicians’ concerns regarding
+neurologic worsening. A potential cause of dete-             the use of thrombolytic agents in patients with
+rioration in some of these patients was brain                extensive ischemic changes.
+edema associated with reperfusion. However, over-                Among patients in North America, Europe,
+all, endovascular thrombectomy was associated                Australia, and New Zealand with acute ischemic
+with better outcomes than medical care alone.                stroke due to a proximal large-vessel occlusion and
+Further research may identify treatments to re-              with a large ischemic core, endovascular throm-
+duce edema and infarct progression. Previous                 bectomy in addition to standard medical care
+studies have reported rates of symptomatic in-               resulted in better functional outcomes than med-
+tracranial hemorrhage in patients with large                 ical care alone. Thrombectomy was associated
+ischemic-core lesions that are higher than those             with procedural vascular complications.
+in our trial. Therefore, the low percentage of pa-
+                                                               Supported by an investigator-initiated grant from Stryker
+tients with symptomatic intracranial hemorrhage              Neurovascular to University Hospitals Cleveland Medical Center
+observed in both trial groups was unexpected.                and the University of Texas McGovern Medical School.
+In the thrombectomy group, 3% of patients had                  Disclosure forms provided by the authors are available with
+                                                             the full text of this article at NEJM.org.
+arterial access-site complications, 4% had vessel              A data sharing statement provided by the authors is available
+perforation, and 6% had dissection. In post hoc              with the full text of this article at NEJM.org.
+
+                                                n engl j med﻿﻿  nejm.org﻿                                                      11
+                                          The New England Journal of Medicine
+    Downloaded from nejm.org by ERAN Tal-Or on February 13, 2023. For personal use only. No other uses without permission.
+                            Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+                                             T h e n e w e ng l a n d j o u r na l o f m e dic i n e
+
+
+
+                                                                          Appendix
+          The authors’ full names and academic degrees are as follows: Amrou Sarraj, M.D., Ameer E. Hassan, D.O., Michael G. Abraham, M.D.,
+          Santiago Ortega‑Gutierrez, M.D., Scott E. Kasner, M.D., M. Shazam Hussain, M.D., Michael Chen, M.D., Spiros Blackburn, M.D.,
+          Clark W. Sitton, M.D., Leonid Churilov, Ph.D., Sophia Sundararajan, M.D., Yin C. Hu, M.D., Nabeel A. Herial, M.D., Pascal Jabbour,
+          M.D., Daniel Gibson, M.D., Adam N. Wallace, M.D., Juan F. Arenillas, M.D., Ph.D., Jenny P. Tsai, M.D., Ronald F. Budzik, M.D., Wil-
+          liam J. Hicks, M.D., Osman Kozak, M.D., Bernard Yan, M.B., B.S., Dennis J. Cordato, Ph.D., Nathan W. Manning, M.B., B.S., Mark W.
+          Parsons, Ph.D., Ricardo A. Hanel, M.D., Amin N. Aghaebrahim, M.D., Teddy Y. Wu, Ph.D., Pere Cardona‑Portela, M.D., Natalia
+          Pérez de la Ossa, M.D., Ph.D., Joanna D. Schaafsma, M.D., Jordi Blasco, M.D., Ph.D., Navdeep Sangha, M.D., Steven Warach, M.D.,
+          Chirag D. Gandhi, M.D., Timothy J. Kleinig, Ph.D., Daniel Sahlein, M.D., Lucas Elijovich, M.D., Wondwossen Tekle, M.D., Edgar A.
+          Samaniego, M.D., Laith Maali, M.D., M. Ammar Abdulrazzak, M.D., Marios N. Psychogios, M.D., Ashfaq Shuaib, M.D., Deep K. Pu-
+          jara, M.B., B.S., Faris Shaker, M.B., Ch.B., Hannah Johns, Ph.D., Gagan Sharma, M.C.A., Vignan Yogendrakumar, M.D., Felix C. Ng,
+          Ph.D., Mohammad H. Rahbar, Ph.D., Chunyan Cai, Ph.D., Philip Lavori, Ph.D., Scott Hamilton, Ph.D., Thanh Nguyen, M.D., Johan-
+          na T. Fifi, M.D., Stephen Davis, M.D., Lawrence Wechsler, M.D., Vitor M. Pereira, M.D., Maarten G. Lansberg, M.D., Michael D. Hill,
+          M.D., James C. Grotta, M.D., Marc Ribo, M.D., Bruce C. Campbell, Ph.D., and Gregory W. Albers, M.D.
+             The authors’ affiliations are as follows: the Departments of Neurology (A. Sarraj, S.S., D.K.P.) and Neurosurgery (Y.C.H.), University
+          Hospitals Cleveland Medical Center–Case Western Reserve University, and the Cerebrovascular Center, Cleveland Clinic (M.S.H., J.P.T.,
+          M.A.A.), Cleveland, and the Departments of Neurointerventional Radiology (R.F.B.) and Neurology (W.J.H.), OhioHealth–Riverside
+          Methodist Hospital, Columbus — all in Ohio; the Neuroscience Institute, Valley Baptist Medical Center, Harlingen (A.E.H., W.T.), the
+          Departments of Neurosurgery (S.B., F.S.), Diagnostic and Interventional Imaging (C.W.S.), and Internal Medicine (M.H.R., C.C.), Mc-
+          Govern Medical School at UTHealth, and the Mobile Stroke Unit, Memorial Hermann Hospital (J.C.G.), Houston, and the Department
+          of Neurology, Dell Medical School at the University of Texas at Austin, Austin (S.W.) — all in Texas; the Department of Neurology,
+          University of Kansas Medical Center, Kansas City (M.G.A., L.M.); the Departments of Neurosurgery and Radiology (S.O.-G.) and Neu-
+          rology (E.A.S.), University of Iowa Hospitals and Clinics, Iowa City; the Division of Vascular Neurology, University of Pennsylvania
+          (S.E.K.), the Department of Neurosurgery, Thomas Jefferson University Hospital (N.A.H., P.J.), and the Department of Neurology,
+          Hospital of the University of Pennsylvania (L.W.), Philadelphia, and Neurovascular Associates of Abington, Jefferson Health, Abington
+          (O.K.) — all in Pennsylvania; the Department of Neurosurgery, Rush University Medical Center, Chicago (M.C.); Melbourne Medical
+          School, University of Melbourne (L.C., H.J.), the Melbourne Brain Centre, Royal Melbourne Hospital, and the Department of Medicine,
+          University of Melbourne (B.Y., G.S., V.Y., F.C.N., S.D., B.C.C.), and the Florey Institute of Neuroscience and Mental Health (L.C.,
+          B.C.C.), Parkville, VIC, the Departments of Neurology (D.J.C., M.W.P.) and Neurosurgery (N.W.M.), Liverpool Hospital, and the Depart-
+          ment of Neurology, University of New South Wales (M.W.P.), Liverpool, and the Neurology Service, Royal Adelaide Hospital, Adelaide,
+          SA (T.J.K.) — all in Australia; the Department of Neurosurgery, Ascension Columbia St. Mary’s Hospital, Milwaukee (D.G., A.N.W.);
+          the Department of Internal Medicine, Hospital Clínico Universitario de Valladolid, Valladolid (J.F.A.), the Department of Neurology,
+          Bellvitge University Hospital (P.C.-P.), the Department of Interventional Radiology, Hospital Clínic de Barcelona (J.B.), and the Depart-
+          ment of Neurology, Hospital Vall d’Hebrón (M.R.), Barcelona, and the Department of Neurology, Hospital Universitari Germans Trias
+          i Pujol, Badalona (N.P.O.) — all in Spain; Neurosurgery, Corewell Health, Grand Rapids, MI (J.P.T.); Lyerly Neurosurgery, Baptist
+          Medical Center Jacksonville, Jacksonville, FL (R.A.H., A.N.A.); the Department of Neurology, Christchurch Hospital, Christchurch, New
+          Zealand (T.Y.W.); the Divisions of Internal Medicine and Neurology, Toronto Western Hospital (J.D.S.), and the Division of Neurology,
+          St. Michael’s Hospital (V.M.P.), Toronto, the Divisions of Internal Medicine and Neurology, University of Alberta, Edmonton (A. Sh-
+          uaib), and the Department of Clinical Neurosciences, University of Calgary, Calgary, AB (M.D.H.) — all in Canada; Neurological Ser-
+          vices, Kaiser Permanente Southern California, Los Angeles (N.S.), the Departments of Biomedical Data Science (P.L.) and Neurology
+          (M.G.L., G.W.A.), Stanford University, Stanford, and MAPS Public Benefit Corporation, San Jose (S.H.) — all in California; the Depart-
+          ment of Neurosurgery, Westchester Medical Center and New York Medical College, Valhalla (C.D.G.), and the Department of Neurol-
+          ogy, Icahn School of Medicine at Mount Sinai, New York (J.T.F.) — both in New York; Interventional Neuroradiology, Goodman
+          Campbell Brain and Spine, Carmel, IN (D.S.); Neurology, Semmes Murphey Clinic, Memphis, TN (L.E.); Neuroradiology, University
+          Hospital Basel, Basel, Switzerland (M.N.P.); and the Neurology Department, Boston Medical Center, Boston (T.N.).
+
+
+          References
+          1. Berkhemer OA, Fransen PSS, Beumer           stroke with perfusion-imaging selection.      9. Powers WJ, Rabinstein AA, Ackerson
+          D, et al. A randomized trial of intraarte-     N Engl J Med 2015;​372:​1009-18.              T, et al. Guidelines for the early manage-
+          rial treatment for acute ischemic stroke.      6. Nogueira RG, Jadhav AP, Haussen DC,        ment of patients with acute ischemic stroke:
+          N Engl J Med 2015;​372:​11-20.                 et al. Thrombectomy 6 to 24 hours after       2019 update to the 2018 guidelines for the
+          2. Saver JL, Goyal M, Bonafe A, et al.         stroke with a mismatch between deficit        early management of acute ischemic stroke:
+          Stent-retriever thrombectomy after intra-      and infarct. N Engl J Med 2018;​378:​11-21.   a guideline for healthcare professionals
+          venous t-PA vs. t-PA alone in stroke. N Engl   7. Albers GW, Marks MP, Kemp S, et al.        from the American Heart Association/
+          J Med 2015;​372:​2285-95.                      Thrombectomy for stroke at 6 to 16 hours      American Stroke Association. Stroke 2019;​
+          3. Jovin TG, Chamorro A, Cobo E, et al.        with selection by perfusion imaging. N Engl   50(12):​e344-e418.
+          Thrombectomy within 8 hours after symp-        J Med 2018;​378:​708-18.                      10. Turc G, Bhogal P, Fischer U, et al. Eu-
+          tom onset in ischemic stroke. N Engl J Med     8. Sarraj A, Hassan AE, Savitz S, et al.      ropean Stroke Organisation (ESO)–Euro-
+          2015;​372:​2296-306.                           Outcomes of endovascular thrombectomy         pean Society for Minimally Invasive Neu-
+          4. Goyal M, Demchuk AM, Menon BK, et           vs medical management alone in patients       rological Therapy (ESMINT) guidelines
+          al. Randomized assessment of rapid en-         with large ischemic cores: a secondary        on mechanical thrombectomy in acute
+          dovascular treatment of ischemic stroke.       analysis of the Optimizing Patient’s Selec-   ischemic stroke. J Neurointerv Surg 2019
+          N Engl J Med 2015;​372:​1019-30.               tion for Endovascular Treatment in Acute      February 26 (Epub ahead of print).
+          5. Campbell BCV, Mitchell PJ, Kleinig TJ,      Ischemic Stroke (SELECT) study. JAMA          11. Living stroke guidelines. Melbourne,
+          et al. Endovascular therapy for ischemic       Neurol 2019;​76:​1147-56.                     VIC, Australia:​Stroke Foundation, 2022
+
+
+
+
+12                                                              n engl j med﻿﻿  nejm.org﻿
+
+                                           The New England Journal of Medicine
+     Downloaded from nejm.org by ERAN Tal-Or on February 13, 2023. For personal use only. No other uses without permission.
+                             Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+                             Endovascular Thrombectomy for Large Ischemic Strokes
+
+
+(https://strokefoundation​.­org​.­au/​­what​-­we​        Optimizing Patient Selection for Endovas-     ing Study (SITS-MOST): an observational
+-­do/​­for​-­health​-­professionals/​­living​-­stroke​   cular Treatment in Acute Ischemic Stroke      study. Lancet 2007;​369:​275-82.
+-­g uidelines).                                          (SELECT): a prospective, multicenter cohort   19. Janssen PM, Visser NA, Dorhout Mees
+12. Román LS, Menon BK, Blasco J, et al.                 study of imaging selection. Ann Neurol        SM, Klijn CJM, Algra A, Rinkel GJE. Com-
+Imaging features and safety and efficacy                 2020;​87:​419-33.                             parison of telephone and face-to-face as-
+of endovascular stroke treatment: a meta-                16. Barber PA, Demchuk AM, Zhang J,           sessment of the modified Rankin scale.
+analysis of individual patient-level data.               Buchan AM. Validity and reliability of a      Cerebrovasc Dis 2010;​29:​137-9.
+Lancet Neurol 2018;​17:​895-904.                         quantitative computed tomography score        20. Agresti A. Generalized odds ratios for
+13. Campbell BCV, Majoie CBLM, Albers                    in predicting outcome of hyperacute stroke    ordinal data. Biometrics 1980;​          36:​
+                                                                                                                                                   59-67
+GW, et al. Penumbral imaging and func-                   before thrombolytic therapy. Lancet 2000;​    (https://www​.­jstor​.­org/​­stable/​­2530495).
+tional outcome in patients with anterior                 355:​1670-4.                                  21. Churilov L, Arnup S, Johns H, et al.
+circulation ischaemic stroke treated with                17. Sarraj A, Hassan AE, Abraham M, et        An improved method for simple, assump-
+endovascular thrombectomy versus medi-                   al. A randomized controlled trial to op-      tion-free ordinal analysis of the modified
+cal therapy: a meta-analysis of individual               timize patient’s selection for endovas-       Rankin scale using generalized odds ra-
+patient-level data. Lancet Neurol 2019;​18:​             cular treatment in acute ischemic stroke      tios. Int J Stroke 2014;​9:​999-1005.
+46-55.                                                   (SELECT2): study protocol. Int J Stroke       22. Huo X, Ma G, Tong X, et al. Trial of
+14. Yoshimura S, Sakai N, Yamagami H,                    2022;​17:​689-93.                             endovascular therapy for acute ischemic
+et al. Endovascular therapy for acute stroke             18. Wahlgren N, Ahmed N, Dávalos A, et        stroke with large infarct. N Engl J Med.
+with a large ischemic region. N Engl J Med               al. Thrombolysis with alteplase for acute     DOI:​ 10.1056/NEJMoa2213379.
+2022;​386:​1303-13.                                      ischaemic stroke in the Safe Implementa-      Copyright © 2023 Massachusetts Medical Society.
+15. Sarraj A, Hassan AE, Grotta J, et al.                tion of Thrombolysis in Stroke-Monitor-
+
+
+
+
+                                                                n engl j med﻿﻿  nejm.org﻿                                                                  13
+                                             The New England Journal of Medicine
+       Downloaded from nejm.org by ERAN Tal-Or on February 13, 2023. For personal use only. No other uses without permission.
+                               Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+

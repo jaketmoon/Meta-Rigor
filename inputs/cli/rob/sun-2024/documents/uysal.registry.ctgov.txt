@@ -1,0 +1,205 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT01539382",
+      "orgStudyIdInfo": {
+        "id": "GCO 11-0891"
+      },
+      "organization": {
+        "fullName": "Icahn School of Medicine at Mount Sinai",
+        "class": "OTHER"
+      },
+      "briefTitle": "Measuring and Treating Brain Oxygen Levels in Open Heart Surgery",
+      "officialTitle": "Optimizing Cerebral Oxygenation in Cardiac Surgery"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2015-10",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2011-11"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2014-12",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2014-12",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2012-02-21",
+      "studyFirstSubmitQcDate": "2012-02-24",
+      "studyFirstPostDateStruct": {
+        "date": "2012-02-27",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2015-10-22",
+      "lastUpdatePostDateStruct": {
+        "date": "2015-10-23",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Icahn School of Medicine at Mount Sinai",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to test whether keeping the amount of oxygen delivered to the brain above a certain level during surgery and 24-hours after surgery improves recovery.\n\nHypothesis 1: keeping the amount of oxygen delivered to the brain above a certain level during surgery and 24-hours after surgery improves cognitive and neurological outcomes after cardiac and aortic surgery.\n\nHypothesis 2: keeping the amount of oxygen delivered to the brain above a certain level during surgery and 24-hours after surgery helps reduce major organ problems after cardiac and aortic surgery.\n\nTo test our hypotheses, the investigators will conduct a randomized control trial. Patients will be randomly assigned to one of two possible study groups. In the Treatment Group, the brain oxygen level will be watched by doctors and used to guide care in the operating room and the first day in the intensive care unit after surgery. Doctors will try to keep the brain oxygen level in a normal range by adjusting your blood pressure, carbon dioxide and blood acidity levels, and blood count. In the Control Group, the doctors will not be aware of the brain oxygen level unless it falls below a level that may be dangerous. If a patient's brain oxygen falls below such a level, the doctors will adjust the blood pressure, carbon dioxide and blood acidity levels, and blood count to increase the brain oxygen level. All other procedures will be part of regular medical care and will be performed according to the standard of care.",
+      "detailedDescription": "Background\n\nThere is a high incidence of cognitive dysfunction, neurological dysfunction, and multi-system organ dysfunction syndrome following cardiac surgery. There is preliminary evidence that optimization of cerebral oxygenation is associated with improved neurological and clinical outcomes.\n\nCerebral oximetry using near infrared spectroscopy (NIRS) is based on the ability of near-infrared light to penetrate scalp and skull, and its differential intracranial absorbance by oxyhemoglobin (HbO2) and deoxyhemoglobin (Hb). Cerebral oximetry measures regional cerebral tissue oxygen saturation (SctO2) at the microvascular level (arterioles, venules, and capillaries) and provides information on the availability of oxygen in brain tissue. Unlike digital pulse oximetry, SctO2 reflects regional cerebral metabolism and the regional balance of cerebral oxygen supply and demand. NIRS SctO2 is the most promising monitoring technology for the purpose of guiding interventions targeted to improve brain and other organ preservation. The reasons for this include: (1) SctO2 is continuous, non-invasive, and available at the point of care; and (2) SctO2 is a sensitive index of cerebral hypoxia and/or cerebral ischemia, which are the main causes of brain injury in clinical settings. The preliminary work of Murkin strongly suggests that optimizing tissue perfusion using protocol-based treatments that optimize SctO2 decrease end-organ dysfunction in cardiothoracic surgical patients.\n\nRecruitment Methods\n\nPotential subjects are patients who are planned to undergo elective cardiac surgery at Mount Sinai Hospital. Potential subjects will be identified by checking the pre-admission schedule f or cardiothoracic surgery on a daily basis. Patients will be recruited at the surgical pre-admission screening; written informed consent will be obtained.\n\nRisks to Subjects\n\nCerebral oximetry and computerized neurocognitive testing pose no known risk of harm to subjects.\n\nCerebral oximetry is an evolving technology that is not currently or imminently becoming a standard of care in monitoring for cardiothoracic surgical patients. The expense and the lack of outcome data make this a discretionary monitoring technology that is advocated by some, but that is not incorporated into any evidence-based guidelines or practice parameters. Therefore, compared with the existing standards of care, patients are not exposed to additional risk by withholding cerebral oximetry information from the practitioners.\n\nInterventions to maintain cerebral oximetry above threshold values could be potentially injurious (e.g., initiating a red blood cell transfusion when it would not otherwise be given), however, any potential risk that is imparted by the interventions to maintain cerebral oximetry values are justified by the benefits of averting low or very low period of cerebral oximetry within the context of this research protocol."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Cardiac Surgery"
+      ],
+      "keywords": [
+        "cardiac surgery",
+        "neurocognitive assessment",
+        "neurocognitive function"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "PARTICIPANT"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 140,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Cerebral oxygenation intervention",
+          "type": "EXPERIMENTAL",
+          "description": "Cerebral oxygenation levels for people in this group will be monitored and maintained above 60%. If levels decrease to below 60%, a protocol is followed to guide possible interventions to increase cerebral oxygenation levels above 60%",
+          "interventionNames": [
+            "Procedure: Cerebral oxygenation intervention"
+          ]
+        },
+        {
+          "label": "Cerebral oxygenation control",
+          "type": "NO_INTERVENTION",
+          "description": "Cerebral oxygenation levels for people in this group will be masked and thus doctors and care staff will not use the cerebral oxygenation levels to make any interventions. If the cerebral oxygenation levels drop to below 40%, the cerebral oxygenation levels will be unmasked so that doctors can follow the protocol to increase levels to above 60%."
+        }
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Cerebral oxygenation intervention",
+          "description": "The protocol for interventions to increase cerebral oxygenation levels above 60% optimizing pH, PaO2, PaCO2, bispectral index, central venous pressure, mean arterial pressure, venous oxygen saturation, and hematocrit. In addition, cerebral perfusion pressure of 70-80 mm Hg and flow \\>2.0 l/min/m2 will be maintained during cardiopulmonary bypass. In the ICU, temperatures will be maintained below 38 degrees by administering antipyretics or cooling, and dexmedetomidine will be used if the patient is agitated.",
+          "armGroupLabels": [
+            "Cerebral oxygenation intervention"
+          ],
+          "otherNames": [
+            "Intervention"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Postoperative neurocognitive decline",
+          "description": "Postoperative cognitive deficit as defined as negative changes in Z-score of greater than or equal to 1.0 in any of the four neurocognitive domains tested by neurocognitive assessment (Response Speed, Processing Speed, Attention, and Memory).",
+          "timeFrame": "Baseline (before surgery)"
+        },
+        {
+          "measure": "Postoperative neurocognitive decline",
+          "description": "Postoperative cognitive deficit as defined as negative changes in Z-score of greater than or equal to 1.0 in any of the four neurocognitive domains tested by neurocognitive assessment (Response Speed, Processing Speed, Attention, and Memory).",
+          "timeFrame": "3 months after surgery"
+        },
+        {
+          "measure": "Postoperative neurocognitive decline",
+          "description": "Postoperative cognitive deficit as defined as negative changes in Z-score of greater than or equal to 1.0 in any of the four neurocognitive domains tested by neurocognitive assessment (Response Speed, Processing Speed, Attention, and Memory).",
+          "timeFrame": "6 months after surgery"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Neurological dysfunction",
+          "description": "Delirium, stroke with neurological deficit at hospital discharge, persistent vegetative state, or brain death.",
+          "timeFrame": "During the hospitalization for postoperative recovery, average 8 days"
+        },
+        {
+          "measure": "Multiple organ dysfunction",
+          "description": "Non-neurological postoperative organ dysfunction, defined as any of the following: intraoperative or non-neurological death within 1 year of surgery; ICU Length of Stay \\> 10 days; Acute Respiratory Distress Syndrome or respiratory failure \\> 5 days; need for renal replacement therapy; bilirubin \\> 3mg/dl, diagnosis of SIRS, sepsis, or DIC; multiple organ dysfunction syndrome (MODS), as defined by SOFA score \\> 5 at any time during ICU stay.",
+          "timeFrame": "During the hospitalization for postoperative recovery, average 8 days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Adult patients scheduled to undergo elective cardiac or thoracic aortic surgery requiring cardiopulmonary bypass\n\nExclusion Criteria:\n\n* Severe preoperative cognitive impairment (i.e., dementia or developmental intellectual disability)\n* Sensory or motor impairment that would preclude reliable operation of a computer and keyboard\n* Lack of access to use computer-based cognitive evaluation\n* Non-English speaking patients\n* Renal failure requiring dialysis\n* Respiratory failure requiring home oxygen use\n* Child's B or C hepatic failure",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Muoi Trinh, MD",
+          "affiliation": "Icahn School of Medicine at Mount Sinai",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Icahn School of Medicine at Mount Sinai",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10029",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-08-28"
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D008722",
+          "term": "Methods"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D008919",
+          "term": "Investigative Techniques"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

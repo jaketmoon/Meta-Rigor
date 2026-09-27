@@ -1,0 +1,410 @@
+[DOCLING_PAGE 1]
+
+Online Supplement
+
+Fluid Response Evaluation in Sepsis Hypotension and Shock
+
+A Randomized Clinical Trial
+
+Ivor S. Douglas, MD; Philip M. Alapat, MD; Keith A. Corl, MD; Matthew C. Exline, MD, MPH; Lui G. Forni, PhD; Andre L. Holder, MD; David A. Kaufman, MD; Akram Khan, MD; Mitchell M. Levy, MD; Gregory S. Martin, MD; Jennifer A. Sahatjian, PsyD; Eric Seeley, MD; Wesley H. Self, MD; Jeremy A. Weingarten, MD; Mark Williams, MD; and Douglas M. Hansell, MD
+
+CHEST 2020; 158(4):1431-1445
+
+Online supplements are not copyedited prior to posting and the author(s) take full responsibility for the accuracy of all data.
+
+© 2020 AMERICAN COLLEGE OF CHEST PHYSICIANS. Reproduction of this article is prohibited without written permission from the American College of Chest Physicians. See online for more details. DOI: 10.1016/j.chest.2020.04.025
+
+[DOCLING_PAGE 2]
+
+e-Appendix 1. Randomization
+
+The FRESH trial randomization schedule was completed in SAS version 9.4, using permuted block design, stratified by investigational site and by window of enrollment (3 windows: 1 0 to ≤6 hours, 2 ->6 to ≤12 hours, and 3 ->12 to ≤24 hours). To minimize the opportunity for the sequence to be assessed, the block size was variable and randomly chosen from small multiples of three (3) (i.e. 3 or 6). Randomization was accomplished using a secure electronic data capture system supported by Boston Biomedical Associates (BBA). The database was hosted by Fortress Medical Services. Eligible patients were randomized 2:1 to Intervention versus Usual Care.
+
+Once a subject was identified for study inclusion, the site personnel logged into the Clindex® system and completed the randomization electronic case report form (eCRF). This form asked the site study coordinator to verify that the subject was ready for randomization per protocol requirements. If ready, the site study coordinator entered the additional required information and the randomization assignment was dispensed by the EDC system and disclosed to the site personnel. Randomization of subjects was performed upon the decision to admit the subject to the ICU, and the site staff managed the intervention post randomization. Fluid and vasopressor treatment decisions were guided in the Intervention arm (Figure 1) with options to allow the bedside clinician to perform frequent reassessment and treatment based on PLR results. Decisions in the Usual Care arm were accordi ng to the institution's care standards. Safety events were reviewed and adjudicated by an independent medical monitor.
+
+Online supplements are not copyedited prior to posting and the author(s) take full responsibility for the accuracy of all data.
+
+[DOCLING_PAGE 3]
+
+e-Appendix 2. Inclusion Criteria
+
+Diagnosis of sepsis, as exhibited by 2 or more of the following SIRS criteria and a known or presumed infection at time of screening:
+
+o Temperature of > 38 C or < 36 C
+
+o Heart rate of > 90/min
+
+o Respiratory rate of > 20/min or PaCO2 < 32 mm Hg (4.3 kPA)
+
+o White blood cell count > 12000/mm3 or < 4000/mm3 or >10% immature bands
+
+Refractory hypotension (either one single reading of MAP <65 exhibited during the evaluation period, or requiring treatment with vasopressors to maintain a MAP > 65) despite initial fluid resuscitation (1L of treatment fluid)
+
+Patient enrolled in study within 24 hours of arrival to the hospital
+
+Anticipated ICU admission. Patients may be maintained on another unit (such as within the ER or a step down unit) during the 72 hour monitoring period if the treatment algorithm is adhered to during this time period.
+
+Able to provide signed inform ed consent or consent can be obtained from the patient's authorized representative
+
+Exclusion Criteria
+
+Primary diagnosis of acute cerebral vascular event, acute coronary syndrome, acute pulmonary edema, status asthmaticus, major cardiac arrhythmia, drug overdose, or injury from burn or trauma
+
+Known aortic insufficiency, or aortic abnormalities
+
+Hemodynamic instability due to active hemorrhage (e.g. gastrointestinal bleeding / coagulopathy / trauma)
+
+Patient has received >3 liters of IV fluid prior to study randomization
+
+Requires immediate surgery
+
+Patient transferred to the ICU from another hospital unit
+
+Do not attempt resuscitation (DNAR or DNR) order
+
+Advanced directives restricting implementation of the resuscitation protocol
+
+Contraindication to blood transfusion
+
+Attending clinician deems aggressive resuscitation unsuitable
+
+Transferred from another in-hospital setting
+
+Not able to commence treatment protocol within 1 hour after randomization
+
+Known intraventricular heart defect, such as VSD or ASD
+
+Use of additional hemodynamic monitoring involving SVV, PPV, or SV change to determine fluid responsiveness
+
+Seizure in the last 24 hours
+
+Prisoner
+
+Online supplements are not copyedited prior to posting and the author(s) take full responsibility for the accuracy of all data.
+
+[DOCLING_PAGE 4]
+
+Pregnancy
+
+Age <18
+
+Known allergy to sensor material or gel
+
+Inability or contraindication to doing a passive leg raise with both extremities, such as inability to interrupt venous compression boots
+
+Patient has an epidural catheter in place
+
+Suspected intra-abdominal hypertension
+
+Inability to obtain IV access
+
+Diabetic ketoacidosis
+
+Hyper-osmolarity syndrome
+
+Patient treatment uncouples from the treatment algorithm
+
+Patient should be excluded based on the opinion of the Clinician/Investigator
+
+e-Appendix 3. Methods for fluid volume monitoring and data validation
+
+Administered fluid volumes and fluid balance were extracted from the ICU nursing flow charts and medical record as charted by the clinical care team as part of usual ICU care. This data was carefully monitored against source documentation by the study monitors. Fluid data was collected through 72 hours, ICU discharge or death. Using fluid balance (as opposed to fluid administered) as the primary endpoint reduces the impact of pre-72-hour exit from the study through ICU discharge or death. Fluid volume loss for patients receiving RRT who were included in the primary endpoint analysis (72-hour fluid balance) included urine volumes and RRT filtrate volume recorded on the dialysis flow sheet and/or clinical record.
+
+Multiple imputation for missing fluid balance at 72 hours or ICU discharge was conducted using fully conditional specification with linear regression. The imputation model adjusted for baseline demographic variables including treatment group, age, gender, ethnicity, race, number of SIRS criteria exhibited, height, weight and qSOFA. A total of 10 imputed datasets were created and the results were combined using Rubin's rules via PROC MIANALYZE.
+
+Online supplements are not copyedited prior to posting and the author(s) take full responsibility for the accuracy of all data.
+
+[DOCLING_PAGE 5]
+
+e-Appendix 4. Sample Size
+
+Subjects were randomly assigned in a 2:1 ratio to treatment with Starling SV or to treatment with standard of care, stratified by time window of enrollment (0-6 hours, 6-12 hours, and 12-24 hours). The primary effectiveness endpoint for this study was fluid balance at ICU discharge. Minimum enrollment (Nmin) in the study was set at 120 subjects (80 Starling SV and 40 control) to power at 80% for demonstration of superiority of means for the secondary endpoint of creatinine levels as a measurement of change from baseline at 72 hours. The secondary endpoint for change in creatinine levels at 120 evaluable subjects displayed 80% power at a two-sided alpha level of 0.05 to demonstrate superiority of Starling SV under an assumption of an average treatment effect of -1.4 mg/dL with a standard deviation of 2.5 mg/dL.
+
+Under an assumption of an average treatment effect of -2 L with a standard deviation of 3 L, the sample size of 120 evaluable subjects provided 92.7% power in a test of superiority of means for the primary effectiveness endpoint at a two-sided 0.05 level of significance. in the key secondary endpoint. Sample size re-estimation resulted in a maximum of 210 total evaluable
+
+The trial incorporated a sample size re-estimation (SSR) at the time of the interim look (after 90 patients had been evaluated for the key secondary endpoint) based on promise for superiority subjects, or no more than 1.75 times the minimum of 120.
+
+Online supplements are not copyedited prior to posting and the author(s) take full responsibility for the accuracy of all data.
+
+[DOCLING_PAGE 6]
+
+e-Appendix 5. Consent
+
+Written informed consent on the approved IRB informed consent form was obtained for all subjects who were potential study candidates before any study specific tests or procedures were performed. Due to the high likelihood of the subject's critical clinical state and therefore the possibility of their inability to provide informed written consent, the subject's designated representative was acceptable to provide written informed consent. The general process for obtaining informed consent shall:
+
+Ensure that the principal investigator or his/her authorized designee conducts the informed consent process;
+
+Include all aspects of the clinical investigation that are relevant to the subject's decision to participate throughout the clinical investigation;
+
+Avoid any coercion or undue improper influence on, or inducement of, the subject to participate;
+
+Not waive or appear to waive the subject's legal rights;
+
+Use native non-technical language that is understandable to the subject;
+
+Provide ample time for the subject, or designee, to read and understand the informed consent form and to consider participation in the clinical investigation;
+
+Include personally dated signatures of the subject and the principal investigator or an authorized designee responsible for conducting the informed consent process;
+
+Provide the subject, or designee, with a copy of the signed and dated informed consent form and any other written information required per Site's Institutional Policy (i.e. \ additional HIPAA language).
+
+Online supplements are not copyedited prior to posting and the author(s) take full responsibility for the accuracy of all data.
+
+[DOCLING_PAGE 7]
+
+e-Appendix 6. Ethics Committees and Approval Numbers
+
+[DOCLING_TABLE rows=15 columns=3]
+| Site # and Name | Ethics Committee | IRB Number |
+| 1 - Denver Health and Medical Center | Colorado Multiple Institutional Review Board | 16-1492 |
+| 3 - Yale New Haven Health Bridgeport Hospital | Yale New Haven Health, Bridgeport Hospital Institutional Review Board | 071612 |
+| 4 - Baylor College of Medicine, Ben Taub Hospital | Institutional Review Board for Human Subject Research for Baylor College of Medicine and Affiliated Hospitals | H-39117 |
+| 5 - Rhode Island Hospital | Lifespan - Research Protection Office | 416816 |
+| 6 - University of California San Francisco Medical Center | Quorum | 32065 |
+| 7 - Emory University School of Medicine Grady Memorial Hospital | Emory University Institutional Review Board Research Oversite Committee (Grady) | 000-91086 E225 |
+| 8 - New York Presbyterian Brooklyn Methodist Hospital | New York Brooklyn Methodist Hospital Institutional Review Committee | 983763 |
+| 9 - Vanderbilt University Medical Center | Vanderbilt Human Research Protection Program | 170226 |
+| 10 - Royal Surrey County Hospital NHS Foundation Trust | NHS Health Research Authority Integrated Research Application System (IRAS) | 16/LO/2147 216185 |
+| 11 - Oregon Health and Science University | Oregon Health and Science University Research Integrity Office | 00017539 |
+| 12 - Ohio State University Medical Center | Western Institutional Review Board | 20172281 |
+| 13 - Indiana University-Purdue University Indianapolis | Indiana University Office of Research Compliance | 1710717532 |
+| 14 - New York School of Medicine New York University Lagone Medical Center | New York School of Medicine Office of Science and Research Institutional Review Board | i17-00226 |
+| The University which would have been site 2 decided not to participate in the study | The University which would have been site 2 decided not to participate in the study | The University which would have been site 2 decided not to participate in the study |
+[/DOCLING_TABLE]
+
+Online supplements are not copyedited prior to posting and the author(s) take full responsibility for the accuracy of all data.
+
+[DOCLING_PAGE 8]
+
+e-Table 1. ITT Demographics
+
+[DOCLING_TABLE rows=48 columns=3]
+|  | ITT a (150) | ITT a (150) |
+|  | Intervention N=102 | Usual Care N=48 |
+| Age (yrs) |  |  |
+| Mean ± SD (N) | 61.6 ± 16.4 (102) | 61.7 ± 15.3 (48) |
+| Median (Q1, Q3) | 63.5 (48.0, 75.0) | 62.0 (51.5, 73.5) |
+| Sex b |  |  |
+| Female | 59.8% (61/102) | 37.5% (18/48) |
+| Male | 40.2% (41/102) | 62.5% (30/48) |
+| Ethnicity |  |  |
+| Not Hispanic or Latino | 81.4% (83/102) | 85.4% (41/48) |
+| Hispanic or Latino | 18.6% (19/102) | 12.5% (6/48) |
+| Unknown | 0 | 2.1% (1/48) |
+| Race |  |  |
+| White | 69.6% (71/102) | 75.0% (36/48) |
+| Black or African American | 24.5% (25/102) | 22.9% (11/48) |
+| Asian | 2.9% (3/102) | 2.1% (1/48) |
+| Native Hawaiian or Other Pacific Islander | 1.0% (1/102) | 0 |
+| American Indian or Alaska Native | 0 | 0 |
+| Other | 1.0% (1/102) | 0 |
+| Unknown | 1.0% (1/102) | 0 |
+| Known or Presumed Infection? | 100.0% (102/102) | 100.0% (48/48) |
+| SIRS Criteria Exhibited c |  |  |
+| Mean ± SD (N) | 2.7 ± 0.7 (102) | 2.8 ± 0.8 (48) |
+| Median (Q1, Q3) | 3.0 (2.0, 3.0) | 3.0 (2.0, 3.0) |
+| Height (cm) |  |  |
+| Mean ± SD (N) | 165.7 ± 10.2 (100) | 168.5 ± 11.7 (46) |
+| Median (Q1, Q3) | 165.0 (158.8, 172.7) | 170.7 (162.6, 177.8) |
+| Weight (kg) |  |  |
+| Mean ± SD (N) | 73.5 ± 19.1 (102) | 76.7 ± 19.7 (48) |
+| Median (Q1, Q3) | 72.4 (59.9, 85.0) | 75.6 (65.2, 87.9) |
+| BMI |  |  |
+| Mean ± SD (N) | 26.6 ± 6.2 (100) | 26.7 ± 7.0 (46) |
+| Median (Q1, Q3) | 25.8 (22.0, 30.2) | 25.0 (22.1, 29.9) |
+| qSOFA |  |  |
+| Mean ± SD (N) | 1.9 ± 0.7 (102) | 1.9 ± 0.8 (48) |
+| Median (Q1, Q3) | 2.0 (1.0, 2.0) | 2.0 (1.0, 2.5) |
+| Sepsis Diagnosis |  |  |
+| Bacterial | 76.5% (78/102) | 79.2% (38/48) |
+| Viral | 5.9% (6/102) | 6.3% (3/48) |
+| Fungal | 1.0% (1/102) | 2.1% (1/48) |
+| Other | 15.7% (16/102) | 12.5% (6/48) |
+| Unknown | 1.0% (1/102) | 0 |
+| Baseline Serum Lactate |  |  |
+| Mean ± SD (N) | 3.7 ± 3.1 (77) | 3.6 ± 3.4 (37) |
+| Median (Q1, Q3) | 2.7 (1.7, 5.0) | 2.0 (1.5, 5.4) |
+| Baseline Plasma Lactate |  |  |
+| Mean ± SD (N) | 3.4 ± 3.1 (18) | 3.7 ± 3.3 (7) |
+| Median (Q1, Q3) | 2.2 (1.5, 3.9) | 2.0 (1.4, 5.7) |
+[/DOCLING_TABLE]
+
+aSubject Demographics and Baseline Characteristics are summarized for all ITT patients with available data excluding 4 subjects with randomization error. bP=0.001 for ITT; there were no other statistically significant (P<0.05) differences between study groups. cSubjects may meet more than 1 criteria.
+
+Online supplements are not copyedited prior to posting and the author(s) take full responsibility for the accuracy of all data.
+
+[DOCLING_PAGE 9]
+
+e-Table 2. Medical History
+
+[DOCLING_TABLE rows=44 columns=3]
+| Condition | mITT (124) | mITT (124) |
+|  | Intervention N=83 | Usual Care N=41 |
+| Myocardial Infarction | 12.0% (10/83) | 4.9% (2/41) |
+| No prior history | 88.0% (73/83) | 95.1% (39/41) |
+| Hypertension | 50.6% (42/83) | 61.0% (25/41) |
+| No prior history | 49.4% (41/83) | 39.0% (16/41) |
+| Intraventricular Heart Defect | 1.2% (1/83) | 0 |
+| No prior history | 98.8% (82/83) | 100.0% (41/41) |
+| Aortic Insufficiency/Abnormality | 2.4% (2/83) | 2.4% (1/41) |
+| No prior history | 97.6% (81/83) | 97.6% (40/41) |
+| Cardiac Arrhythmia | 18.1% (15/83) | 14.6% (6/41) |
+| No prior history | 81.9% (68/83) | 85.4% (35/41) |
+| CHF | 24.1% (20/83) | 22.0% (9/41) |
+| No prior history | 75.9% (63/83) | 78.0% (32/41) |
+| CAD | 16.9% (14/83) | 26.8% (11/41) |
+| No prior history | 83.1% (69/83) | 73.2% (30/41) |
+| Peripheral Vascular Disease | 6.0% (5/83) | 9.8% (4/41) |
+| No prior history | 94.0% (78/83) | 90.2% (37/41) |
+| Hepatic Dysfunction | 19.3% (16/83) | 14.6% (6/41) |
+| No prior history | 80.7% (67/83) | 85.4% (35/41) |
+| Diabetes Mellitus | 34.9% (29/83) | 26.8% (11/41) |
+| No prior history | 65.1% (54/83) | 73.2% (30/41) |
+| Seizures | 8.4% (7/83) | 2.4% (1/41) |
+| No prior history | 91.6% (76/83) | 97.6% (40/41) |
+| CVA | 8.4% (7/83) | 12.2% (5/41) |
+| No prior history | 91.6% (76/83) | 87.8% (36/41) |
+| TIA | 0 | 0 |
+| No prior history | 100.0% (83/83) | 100.0% (41/41) |
+| COPD/Asthma | 21.7% (18/83) | 31.7% (13/41) |
+| No prior history | 78.3% (65/83) | 68.3% (28/41) |
+| Irritable Bowel Disease | 4.8% (4/83) | 0 |
+| No prior history | 95.2% (79/83) | 100.0% (41/41) |
+| Immunocompromised/Immunosuppressive Therapy | 14.5% (12/83) | 17.1% (7/41) |
+| No prior history | 85.5% (71/83) | 82.9% (34/41) |
+| Arthritis | 10.8% (9/83) | 7.3% (3/41) |
+| No prior history | 89.2% (74/83) | 92.7% (38/41) |
+| Pancreatitis | 0 | 0 |
+| No prior history | 100.0% (83/83) | 100.0% (41/41) |
+| Renal Dysfunction | 45.8% (38/83) | 53.7% (22/41) |
+| No prior history | 54.2% (45/83) | 46.3% (19/41) |
+| Malignancy | 25.3% (21/83) | 26.8% (11/41) |
+| No prior history | 74.7% (62/83) | 73.2% (30/41) |
+| Allergies (Other than Coupling/Ultrasound Gel Allergy) | 14.5% (12/83) | 14.6% (6/41) |
+| No prior history | 85.5% (71/83) | 85.4% (35/41) |
+[/DOCLING_TABLE]
+
+Online supplements are not copyedited prior to posting and the author(s) take full responsibility for the accuracy of all data.
+
+[DOCLING_PAGE 10]
+
+e-Table 3. Exploratory Endpoints: mITT
+
+[DOCLING_TABLE rows=29 columns=4]
+| Endpoint | mITT (124) | mITT (124) | mITT (124) |
+|  | Intervention N = 83 | Usual Care N = 41 | Treatment Difference in Mean or Percentage, and 95% CI |
+| At least one Serious TEAE |  |  |  |
+| Through 72 Hours | 9.6% (8/83) | 14.6% (6/41) | -5.0% (-17.5%, 7.5%) |
+| Through 1 Week | 9.6% (8/83) | 17.1% (7/41) | -7.4% (-20.6%, 5.7%) |
+| Through 30 Days | 9.6% (8/83) | 17.1% (7/41) | -7.4% (-20.6%, 5.7%) |
+| Number of ICU Readmissions |  |  |  |
+| 0 | 95.2% (79/83) | 97.6% (40/41) | -2.4% (-9.0%, 4.2%) |
+| 1 | 4.8% (4/83) | 2.4% (1/41) | 2.4% (-4.2%, 9.0%) |
+| >1 | 0 | 0 |  |
+| Length of Stay in Hospital (Days) |  |  |  |
+| Mean ± SD (N) | 8.9 ± 8.1 (83) | 10.2 ± 11.1 (41) | -1.22 (-4.70, 2.25) |
+| Median (Q1, Q3) | 6.1 (3.1, 12.3) | 7.0 (4.0, 11.4) |  |
+| Length of Stay in Hospital (Days) (excluding death patients) |  |  |  |
+| Mean ± SD (N) | 9.6 ± 8.6 (70) | 11.5 ± 12.0 (32) | -1.90 (-6.03, 2.23) |
+| Median (Q1, Q3) | 6.3 (4.2, 13.2) | 7.9 (4.2, 13.3) |  |
+| Mortality Rate | 15.7% (13/83) | 22.0% (9/41) | -6.3% (-21.2%, 8.6%) |
+| Incidence of MACE |  |  |  |
+| Through 72 Hours | 4.8% (4/83) | 9.8% (4/41) | -4.9% (-15.1%, 5.2%) |
+| Through 1 Week | 4.8% (4/83) | 12.2% (5/41) | -7.4% (-18.4%, 3.6%) |
+| Through 30 days | 6.0% (5/83) | 12.2% (5/41) | -6.2% (-17.4%, 5.1%) |
+| Fluid: Total 72 Hrs post- Enrollment(mL) |  |  |  |
+| Mean ± SD (N) | 3354.16 ± 2179.58 (83) | 4721.27 ± 3319.07 (41) | -1367.11 (-2352.86, -381.36) |
+| Median (Q1, Q3) | 3194.00 (1700.00, 4665.00) | 3380.0 (2155.00, 7101.00) |  |
+| Fluid: Total 0-24 Hrs post- Enrollment(mL) |  |  |  |
+| Mean ± SD (N) | 2030.30 ± 1524.26 (83) | 2389.05 ± 1794.47 (41) | -358.75 (-970.10, 252.60) |
+| Median (Q1, Q3) | 1750.00 (812.00, 3050.00) | 1973.00 (1185.00, 2938.00) |  |
+| Fluid: Total 25-48 Hrs post- Enrollment(mL) |  |  |  |
+| Mean ± SD (N) | 730.73 ± 839.56 (74) | 1357.92 ± 1505.70 (38) | -627.19 (-1065.89, - 188.49) |
+[/DOCLING_TABLE]
+
+Online supplements are not copyedited prior to posting and the author(s) take full responsibility for the accuracy of all data.
+
+[DOCLING_PAGE 11]
+
+[DOCLING_TABLE rows=15 columns=4]
+| Median (Q1, Q3) | 515.50 (0.00, 1052.00) | 842.50 (20.00, 2500.00) |  |
+| Fluid: Total 49-72 Hrs post- Enrollment(mL) |  |  |  |
+| Mean ± SD (N) | 425.17 ± 647.40 (64) | 809.94 ± 1190.93 (36) | -384.77 (-748.96, - 20.58) |
+| Median (Q1, Q3) | 99.00 (0.00, 521.50) | 106.00 (0.00, 1181.50) |  |
+| Fluid inclusive of Pre-Enrollment: Total 72 hours Post Enrollment (mL) |  |  |  |
+| Mean ± SD (N) | 5759.24 ± 2246.81 (83) | 6865.54 ± 3348.50 (41) | -1106.30 (-2111.01, -101.58) |
+| Median (Q1, Q3) | 5510.00 (4170.00, 7141.00) | 5861.00 (4213.00, 9827.00) |  |
+| Fluid inclusive of Pre-Enrollment: Balance 72 hours Post Enrollment (mL) |  |  |  |
+| Mean ± SD (N) | 2980.65 ± 3029.23 (83) | 4138.83 ± 3485.83 (41) | -1158.18 (-2362.17, 45.82) |
+| Median (Q1, Q3) | 3109.00 (1141.00, 5210.00) | 3629.00 (1766.00, 5835.00) |  |
+| Fluid inclusive of Pre-Enrollment: Balance 72 hours Post Enrollment (mL) (Dialysis excluded) |  |  |  |
+| Mean ± SD (N) | 2931.27 ± 2998.78 (75) | 4422.91 ± 3730.03 (33) | -1491.64 (-2832.25, -151.04) |
+| Median (Q1, Q3) | 3050.00 (1170.00, 5135.00) | 4026.00 (1575.00, 6580.00) |  |
+| Percentage of subjects on inotropes | 3.6% (3/83) | 4.9% (2/41) | -1.3% (-9.0%, 6.5%) |
+| Incidence of MACE or Death | 15.7% (13/83) | 24.4% (10/41) | -8.7% (-24.0%, 6.6%) |
+[/DOCLING_TABLE]
+
+Online supplements are not copyedited prior to posting and the author(s) take full responsibility for the accuracy of all data.
+
+[DOCLING_PAGE 12]
+
+e-Table 4. Exploratory Endpoints: ITT
+
+[DOCLING_TABLE rows=28 columns=4]
+| Endpoint | ITT (150) | ITT (150) | ITT (150) |
+|  | Intervention N = 102 | Usual Care N = 48 | Treatment Difference in Mean or Percentage, and 95% CI |
+| At least one Serious TEAE |  |  |  |
+| Through 72 Hours | 10.2% (10/98) | 13.3% (6/45) | -3.1% (-14.7%, 8.5%) |
+| Through 1 Week | 10.2% (10/98) | 15.6% (7/45) | -5.4% (-17.5%, 6.8%) |
+| Through 30 Days | 10.2% (10/98) | 15.6% (7/45) | -5.4% (-17.5%, 6.8%) |
+| Number of ICU Readmissions |  |  |  |
+| 0 | 94.9% (93/98) | 97.8% (44/45) | -2.9% (-9.0%, 3.2%) |
+| 1 | 4.1% (4/98) | 2.2% (1/45) | 1.9% (-4.0%, 7.7%) |
+| >1 | 1.0% (1/98) | 0 | 1.0% (-1.0%, 3.0%) |
+| Length of Stay in Hospital (Days) |  |  |  |
+| Mean ± SD (N) | 9.1 ± 8.3 (102) | 10.2 ± 10.7 (48) | -1.14 (-4.31, 2.02) |
+| Median (Q1, Q3) | 6.3 (3.1, 12.3) | 6.9 (4.0, 12.1) |  |
+| Length of Stay in Hospital (Days) (excluding death patients) |  |  |  |
+| Mean ± SD (N) | 10.4 ± 8.7 (81) | 11.1 ± 11.5 (38) | -0.76 (-4.53, 3.01) |
+| Median (Q1, Q3) | 7.6 (4.3, 14.1) | 7.4 (4.1, 13.2) |  |
+| Mortality Rate | 19.6% (20/102) | 20.8% (10/48) | -1.2% (-15.1%, 12.6%) |
+| Incidence of MACE |  |  |  |
+| Through 72 Hours | 6.1% (6/98) | 8.9% (4/45) | -2.8% (-12.3%, 6.8%) |
+| Through 1 Week | 6.1% (6/98) | 11.1% (5/45) | -5.0% (-15.3%, 5.3%) |
+| Through 30 days | 7.1% (7/98) | 11.1% (5/45) | -4.0% (-14.5%, 6.5%) |
+| Fluid: Total 72 Hrs post- Enrollment(mL) |  |  |  |
+| Mean ± SD (N) | 4025.77 ± 3089.30 (94) | 4466.39 ± 3343.04 (44) | -440.62 (-1586.33, 705.09) |
+| Median (Q1, Q3) | 3566.50 (1795.00, 5350.00) | 3230.50 (1787.00, 6990.00) |  |
+| Fluid inclusive of Pre-Enrollment: Total 72 hours Post Enrollment (mL) |  |  |  |
+| Mean ± SD (N) | 6398.56 ± 3112.45 (94) | 6591.73 ± 3393.57 (44) | -193.16 (-1350.53, 964.20) |
+| Median (Q1, Q3) | 5737.00 (4281.00, 8090.00) | 5649.50 (4029.50, 9225.00) |  |
+| Fluid inclusive of Pre-Enrollment: Balance 72 hours Post Enrollment (mL) |  |  |  |
+[/DOCLING_TABLE]
+
+Online supplements are not copyedited prior to posting and the author(s) take full responsibility for the accuracy of all data.
+
+[DOCLING_PAGE 13]
+
+[DOCLING_TABLE rows=7 columns=4]
+| Mean ± SD (N) | 3681.70 ± 3849.26 (94) | 3929.45 ± 3476.81 (44) | -247.75 (-1597.12, 1101.61) |
+| Median (Q1, Q3) | 3417.50 (1219.00, 6000.00) | 3397.50 (1670.50, 5780.50) |  |
+| Fluid inclusive of Pre-Enrollment: Balance 72 hours Post Enrollment (mL) (Dialysis excluded) |  |  |  |
+| Mean ± SD (N) | 3846.79 ± 3817.28 (95) | 4216.43 ± 3386.2 (44) | -369.64 (-1699.31, 960.02) |
+| Median (Q1, Q3) | 3446.00 (1528.00, 6055.00) | 4017.50 (1823.00, 5793.50) |  |
+| Percentage of subjects on inotropes | 4.1% (4/98) | 4.4% (2/45) | -0.4% (-7.5%, 6.8%) |
+| Incidence of MACE or Death | 19.6% (20/102) | 22.9% (11/48) | -3.3% (-17.5%, 10.9%) |
+[/DOCLING_TABLE]
+
+e-Table 5. Primary Endpoint (Dialysis output included)
+
+[DOCLING_TABLE rows=3 columns=5]
+| Parameter | Intervention N = 102 | Usual Care N = 48 | Treatment Difference in Mean or Percentage, and 95% CI | p- value b |
+| Fluid Balance at 72 hours or ICU discharge a |  |  |  |  |
+| Mean ± SE (N) | 1.35 ± 3.76 (102) | 1.84 ± 3.51 (48) | -0.48 (-1.82, 0.85) | 0.479 |
+[/DOCLING_TABLE]
+
+aMultiple imputation for missing fluid balance at 72 hours or ICU discharge was done using fully conditional specification with linear regression. The imputation model adjusted for baseline demographic variables including treatment group, age, gender, ethnicity, race, number of SIRS criteria exhibited, height, weight and qSOFA. A total of 10 imputed datasets were created and the results were combined using Rubin's rules via PROC MIANALYZE. bStudent's t-test is used to compare the treatment groups.
+
+200325
+
+Online supplements are not copyedited prior to posting and the author(s) take full responsibility for the accuracy of all data.

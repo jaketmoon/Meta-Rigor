@@ -1,0 +1,1623 @@
+{
+  "case_id": "balbaa-2025",
+  "targets": [
+    {
+      "study_key": "bode",
+      "target_id": "result.composite_satisfaction",
+      "domains": [
+        {
+          "domain": "D1",
+          "questions": [
+            {
+              "question_id": "1.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：研究使用随机化程序预先生成信封内容，属于真正的随机序列。 B：报告说明信封内容由随机化程序预先随机生成，足以确认分配序列为随机序列。",
+              "anchors": [
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 10817,
+                  "end_offset": 10905,
+                  "exact_text": "The contents of the envelope were previously randomized using a randomization programme."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.2",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "完全不透明信封在同意后才开启，较支持隐藏；但未报告连续编号和防篡改细节，不作绝对 yes。",
+              "anchors": [
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 10972,
+                  "end_offset": 11097,
+                  "exact_text": "After accepting and signing the study consent form, the envelope was opened, and the patient informed about group allocation."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告明确称组间基线特征无统计学差异，所列关键特征也未呈现提示随机化故障的系统性失衡。 B：报告明确称组间基线无显著统计差异；所示基线表未提示足以怀疑随机化过程的系统性失衡。",
+              "anchors": [
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 27795,
+                  "end_offset": 27864,
+                  "exact_text": "There was no signi fi cant statistical difference between the groups."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D2",
+          "questions": [
+            {
+              "question_id": "2.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：患者在信封开启后被告知分组，且饮食方案本身可感知。 B：患者在信封开启后被明确告知分组，且饮食要求本身可感知。",
+              "anchors": [
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 10972,
+                  "end_offset": 11097,
+                  "exact_text": "After accepting and signing the study consent form, the envelope was opened, and the patient informed about group allocation."
+                },
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 11024,
+                  "end_offset": 11097,
+                  "exact_text": "the envelope was opened, and the patient informed about group allocation."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：病房医生和护士明确未对分组设盲。 B：病房医生和护士明确未盲，并负责确保相应食物和饮料可用。",
+              "anchors": [
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 11109,
+                  "end_offset": 11282,
+                  "exact_text": "The ward staff members (doctors/nurses) were unblinded to group allocation of patients and informed by the instructor to ensure availability of food and drinks for patients."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.3",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_YES",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "七例因试验分组在术前或术中破盲，且一例因非禁食改期，较支持 trial-context deviation。",
+              "anchors": [
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 42335,
+                  "end_offset": 42564,
+                  "exact_text": "Seven patients were unblinded before or during the procedure (four non-fasting, three fasting). No CIED procedures were delayed after unblinding, but one patient was re-scheduled for cardioversion the next day due to non-fasting."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.4",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标 well-being 在操作开始前 30 分钟完成，所述破盲后的程序改期或术中处置不太可能反向影响该既已测量的结果。 B：未发现影响主要 CIED 流程的干预偏离；报告的单个复律改期不足以表明会影响术前 composite well-being 结果。",
+              "anchors": [
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 14608,
+                  "end_offset": 14865,
+                  "exact_text": "These score items, which were about the patients ' well-being, were collected 30 min before the start of the CIED procedure and included tiredness, weakness, dizziness, anxiety, hunger, thirst, mouth dryness, headache, stomach ache, other pains, and nausea."
+                },
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 42431,
+                  "end_offset": 42564,
+                  "exact_text": "No CIED procedures were delayed after unblinding, but one patient was re-scheduled for cardioversion the next day due to non-fasting."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.5",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "观察到的破盲在两组为四例与三例，数量直接显示平衡。",
+              "anchors": [
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 42335,
+                  "end_offset": 42430,
+                  "exact_text": "Seven patients were unblinded before or during the procedure (four non-fasting, three fasting)."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.6",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "YES",
+              "answer": "PROBABLY_NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "虽声明 ITT，实际 220 名随机者中只有 201 名进入目标分析，未完整保留随机分配人群。",
+              "anchors": [
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 22883,
+                  "end_offset": 22937,
+                  "exact_text": "Randomized (\n\nn\n\n= 220, 111\n\nnon-fasting, 109 fasting)"
+                },
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 22578,
+                  "end_offset": 22688,
+                  "exact_text": "Analyzed (\n\nn\n\n= 101)\n\nExcluded in analysis (\n\nn\n\n= 0)\n\nAnalyzed (\n\nn\n\n= 100)\n\nExcluded in analysis (\n\nn\n\n= 0)"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.7",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "约 8.6% 未分析且两组数量接近，实质改变结果的可能性较低但不能排除。",
+              "anchors": [
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 23249,
+                  "end_offset": 23587,
+                  "exact_text": "Reasons:\n\nCancellation of procedure (\n\nn\n\n= 4)\n\nPatient's wish to be excluded (\n\nn\n\n= 3)\n\nAnalgosedation was preferred\n\nby surgeon (\n\nn\n\n= 3)\n\nUnexpected hemodynamic\n\ninstability (\n\nn\n\n= 1)\n\nReasons:\n\nCancellation of procedure (\n\nn\n\n= 6)\n\nAnalgosedation was preferred\n\nby surgeon (\n\nn\n\n= 1)\n\nUnexpected hemodynamic\n\ninstability (\n\nn\n\n= 1)"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        },
+        {
+          "domain": "D3",
+          "questions": [
+            {
+              "question_id": "3.1",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "目标结果仅覆盖 201/220（约 91%）随机化者，不属于 all or nearly all。",
+              "anchors": [
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 22883,
+                  "end_offset": 22937,
+                  "exact_text": "Randomized (\n\nn\n\n= 220, 111\n\nnon-fasting, 109 fasting)"
+                },
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 18949,
+                  "end_offset": 19045,
+                  "exact_text": "Two hundred and one patients (non-fasting, n = 100; fasting group, n = 101) completed this study"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.2",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "NO",
+              "answer": "PROBABLY_YES",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "缺失数量组间接近且原因主要是程序取消、退出或临床处置，较支持未明显偏倚，但无敏感性分析。",
+              "anchors": [
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 23249,
+                  "end_offset": 23587,
+                  "exact_text": "Reasons:\n\nCancellation of procedure (\n\nn\n\n= 4)\n\nPatient's wish to be excluded (\n\nn\n\n= 3)\n\nAnalgosedation was preferred\n\nby surgeon (\n\nn\n\n= 3)\n\nUnexpected hemodynamic\n\ninstability (\n\nn\n\n= 1)\n\nReasons:\n\nCancellation of procedure (\n\nn\n\n= 6)\n\nAnalgosedation was preferred\n\nby surgeon (\n\nn\n\n= 1)\n\nUnexpected hemodynamic\n\ninstability (\n\nn\n\n= 1)"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.3",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "部分缺失源于患者主动要求排除；在已知分组且结局主观时，缺失可能依赖真实 well-being。",
+              "anchors": [
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 23297,
+                  "end_offset": 23326,
+                  "exact_text": "Patient's wish to be excluded"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.4",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "材料没有按组连接缺失原因与未观察 well-being，无法判断这种依赖是否 likely。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "bode.abstract",
+                  "source_sha256": "554485932c79dc95e623c35f04d7b9f5d8226a98c30d3084dcd635e112683ec9",
+                  "representation_sha256": "8a9ce995ff914869925da04bbc09bb2019a33b12aa28d5b5aa79e18ec613bdc7"
+                },
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13"
+                },
+                {
+                  "document_key": "bode.registry.ctgov",
+                  "source_sha256": "8d535e630ff597a3ba290b75a445e28a55e9faa48a256e45f9dc8bae3b87504c",
+                  "representation_sha256": "310fcbdf1df9d10f1b359d41c07aecaf254113f461ec02ef28fc102052ace1b0"
+                }
+              ]
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D4",
+          "questions": [
+            {
+              "question_id": "4.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：用 0–10 NRS 对预先列明的 well-being 症状逐项测量并求和，适合该患者报告目标。 B：目标由多个预先说明的 0–10 numeric rating items 求和；用于术前症状和 well-being 的量表方法本身并非明显不适当。",
+              "anchors": [
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 14433,
+                  "end_offset": 14607,
+                  "exact_text": "The patients were asked to quantify several score items on a numeric rating scale (NRS) with values between 0 (item not existent) and 10 (most severe expression of the item)."
+                },
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 16473,
+                  "end_offset": 16605,
+                  "exact_text": "The summed patients ' well-being score was calculated as the sum score of all pre-procedural well-being scores, except for vomiting."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：两组均在同一时间使用相同 NRS 和相同求和定义，没有组别特异的测量流程。 B：两组使用相同标准化问卷、相同量表及同一术前时点，未见测量方法按组改变。",
+              "anchors": [
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 16473,
+                  "end_offset": 16605,
+                  "exact_text": "The summed patients ' well-being score was calculated as the sum score of all pre-procedural well-being scores, except for vomiting."
+                },
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 14608,
+                  "end_offset": 14731,
+                  "exact_text": "These score items, which were about the patients ' well-being, were collected 30 min before the start of the CIED procedure"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.3",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：这是患者自报结局，患者在分配后被告知组别，因此结局评估者知晓干预。 B：负责实施标准化问卷的 instructor 明确未对分组设盲。",
+              "anchors": [
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 10972,
+                  "end_offset": 11097,
+                  "exact_text": "After accepting and signing the study consent form, the envelope was opened, and the patient informed about group allocation."
+                },
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 11283,
+                  "end_offset": 11464,
+                  "exact_text": "The instructor assigning the groups and conducting the pre- and post-procedural standardized questionnaires was also not blinded to the group allocation but uninvolved in treatment."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.4",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：主观 well-being 评分可受患者对是否禁食及分组期望的影响。 B：结局是由知晓分组的患者自报、并由知晓分组的 instructor 实施的主观 well-being 评分，评估可能受分组知识影响。",
+              "anchors": [
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 14433,
+                  "end_offset": 14607,
+                  "exact_text": "The patients were asked to quantify several score items on a numeric rating scale (NRS) with values between 0 (item not existent) and 10 (most severe expression of the item)."
+                },
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 11283,
+                  "end_offset": 11464,
+                  "exact_text": "The instructor assigning the groups and conducting the pre- and post-procedural standardized questionnaires was also not blinded to the group allocation but uninvolved in treatment."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.5",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标综合了饥饿、口渴、焦虑等直接可感知症状，患者清楚自己是否进食，知识影响自报分数的可能性较高。 B：评分包含饥饿、口渴、疲倦等高度主观条目，患者与问卷实施者均知晓分组，因此影响实际评分的可能性较高。",
+              "anchors": [
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 14608,
+                  "end_offset": 14865,
+                  "exact_text": "These score items, which were about the patients ' well-being, were collected 30 min before the start of the CIED procedure and included tiredness, weakness, dizziness, anxiety, hunger, thirst, mouth dryness, headache, stomach ache, other pains, and nausea."
+                },
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 14433,
+                  "end_offset": 14607,
+                  "exact_text": "The patients were asked to quantify several score items on a numeric rating scale (NRS) with values between 0 (item not existent) and 10 (most severe expression of the item)."
+                },
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 11024,
+                  "end_offset": 11097,
+                  "exact_text": "the envelope was opened, and the patient informed about group allocation."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "HIGH"
+        },
+        {
+          "domain": "D5",
+          "questions": [
+            {
+              "question_id": "5.1",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "registry 描述术后 well-being，而论文分析术前 30 分钟条目之和；精确结果和分析未按可见预设执行。",
+              "anchors": [
+                {
+                  "document_key": "bode.registry.ctgov",
+                  "source_sha256": "8d535e630ff597a3ba290b75a445e28a55e9faa48a256e45f9dc8bae3b87504c",
+                  "representation_sha256": "310fcbdf1df9d10f1b359d41c07aecaf254113f461ec02ef28fc102052ace1b0",
+                  "start_offset": 3973,
+                  "end_offset": 4095,
+                  "exact_text": "Post-interventional patients well-being including (to be assessed by questionnaire with the help of a Numeric Rating Scale"
+                },
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 14608,
+                  "end_offset": 14731,
+                  "exact_text": "These score items, which were about the patients ' well-being, were collected 30 min before the start of the CIED procedure"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.2",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：注册记录把 primary well-being 标为术后 24 小时内并混列多项症状，而论文报告的是术前、排除 vomiting 的求和分数；可选时间点和构成定义不一致，使按结果选择测量的可能性较高。 B：注册材料同时列出 post-interventional well-being 和另一个 general satisfaction 测量，而论文选择术前多个条目（排除 vomiting）的求和结果；精确测量选择未被可核验计划锁定。",
+              "anchors": [
+                {
+                  "document_key": "bode.registry.ctgov",
+                  "source_sha256": "8d535e630ff597a3ba290b75a445e28a55e9faa48a256e45f9dc8bae3b87504c",
+                  "representation_sha256": "310fcbdf1df9d10f1b359d41c07aecaf254113f461ec02ef28fc102052ace1b0",
+                  "start_offset": 3903,
+                  "end_offset": 4467,
+                  "exact_text": "          \"measure\": \"Patients well-being\",\n          \"description\": \"Post-interventional patients well-being including (to be assessed by questionnaire with the help of a Numeric Rating Scale (rang: 0-10, higher scores mean a worse outcome): abdominal pain, thirst, mouth dryness, headache, anxiety, hunger, nausea, vomiting, tiredness and weakness, dizziness Incidence of Intra -procedural adverse events like emergency intubation and perioperative pulmonary aspiration vomiting)\",\n          \"timeFrame\": \"During the first 24 hours after the procedure\"\n        }"
+                },
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 16393,
+                  "end_offset": 16605,
+                  "exact_text": "The fi rst co-primary endpoint was pre-procedural patients ' well-being scores. The summed patients ' well-being score was calculated as the sum score of all pre-procedural well-being scores, except for vomiting."
+                },
+                {
+                  "document_key": "bode.registry.ctgov",
+                  "source_sha256": "8d535e630ff597a3ba290b75a445e28a55e9faa48a256e45f9dc8bae3b87504c",
+                  "representation_sha256": "310fcbdf1df9d10f1b359d41c07aecaf254113f461ec02ef28fc102052ace1b0",
+                  "start_offset": 8204,
+                  "end_offset": 8327,
+                  "exact_text": "Patients general satisfaction with procedure as assessed by the patient satisfaction survey form using Numeric Rating Scale"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.3",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：论文明确同时报告 t 检验和 Mann–Whitney 分析，并说明非参数结果相近，没有迹象表明只挑选有利分析。 B：论文对该结果并列披露 t-test 与 Mann–Whitney test，而均值和标准差本身不因这两个检验选项改变；没有直接迹象显示从多个分析中择优隐藏数值结果。",
+              "anchors": [
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 42885,
+                  "end_offset": 42960,
+                  "exact_text": "We performed non-parametric analysis which showed almost similar P -values."
+                },
+                {
+                  "document_key": "bode.fulltext",
+                  "source_sha256": "fb3c2ff89242733ac7e65f581e8b1878a07966249a5523fb8ab73c31b2461929",
+                  "representation_sha256": "42e4a048dde0e0adbce48e582dce1bd85219449adc545e48a1b68de25004ea13",
+                  "start_offset": 18029,
+                  "end_offset": 18099,
+                  "exact_text": "We also calculated P -values based on t -tests and Mann -Whitney test."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "HIGH"
+        }
+      ],
+      "overall_judgment": "HIGH"
+    },
+    {
+      "study_key": "ferreira",
+      "target_id": "result.composite_satisfaction",
+      "domains": [
+        {
+          "domain": "D1",
+          "questions": [
+            {
+              "question_id": "1.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：不参与招募的研究成员创建随机表，并按地点和程序类型分层生成单序列随机化。 B：独立于招募的研究成员创建随机分配表，明确支持随机序列。",
+              "anchors": [
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 11549,
+                  "end_offset": 11684,
+                  "exact_text": "A research member not involved with patient recruitment created a randomly gener­ ated allocation table which was uploaded onto REDCAP."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.2",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：随机表由不参与招募者创建并置于 REDCAP；虽未明说系统释放规则，独立生成与电子分配使提前知晓的可能性较低。 B：随机表由不参与招募者创建并载入 REDCAP，较可能在入组前对招募人员隐藏；但报告未明确说明 REDCAP 的释放权限和时点，故保留概率判断。",
+              "anchors": [
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 11549,
+                  "end_offset": 11684,
+                  "exact_text": "A research member not involved with patient recruitment created a randomly gener­ ated allocation table which was uploaded onto REDCAP."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：716 例等量分配，报告称基线特征相似，未见提示随机化问题的失衡。 B：报告明确称组间基线特征相似，基线表未显示足以提示随机化过程问题的差异。",
+              "anchors": [
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 20394,
+                  "end_offset": 20588,
+                  "exact_text": "A total of 716 patients were enrolled in this trial, with 358 allocated to fasting and 358 allocated to no fasting ( Figure 1 ). Baseline characteristics were similar between groups ( Table 1 )."
+                },
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 20523,
+                  "end_offset": 20575,
+                  "exact_text": "Baseline characteristics were similar between groups"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D2",
+          "questions": [
+            {
+              "question_id": "2.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：试验为 open-label，患者能够感知是否被要求禁食。 B：试验为 open-label，饮食要求可由参与者直接感知。",
+              "anchors": [
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 10329,
+                  "end_offset": 10467,
+                  "exact_text": "This is an investigator-initiated, multicentre, randomized, non-inferiority trial with a prospective, open-label, blinded endpoint design."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告明确医护人员不能对分组设盲，proceduralists 也可知道分组。 B：作者明确说明 healthcare staff 无法对分组设盲。",
+              "anchors": [
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 34505,
+                  "end_offset": 34662,
+                  "exact_text": "Trial participants and healthcare staff could not be blinded to group allocation, and this is likely to have influenced patient-reported satisfaction scores."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.3",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：作者明确承认 proceduralists 知晓分组可能改变治疗并造成 performance bias，支持存在试验情境引起的伴随处置偏离。 B：程序医生可知分组，作者认为这可能影响治疗并造成 performance bias，提示存在由试验开放标签环境引起的非预期共同干预差异。",
+              "anchors": [
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 34663,
+                  "end_offset": 34786,
+                  "exact_text": "Proceduralists were permitted to know group allocations which may have influenced treatment, resulting in performance bias."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.4",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标是主观患者满意度，作者直接认为参与者和医护人员未设盲很可能影响该评分。 B：作者明确认为不设盲可能影响治疗与患者自报满意度，因此这些差异较可能影响本目标结果。",
+              "anchors": [
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 34505,
+                  "end_offset": 34662,
+                  "exact_text": "Trial participants and healthcare staff could not be blinded to group allocation, and this is likely to have influenced patient-reported satisfaction scores."
+                },
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 34663,
+                  "end_offset": 34786,
+                  "exact_text": "Proceduralists were permitted to know group allocations which may have influenced treatment, resulting in performance bias."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.5",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：分组知识及其可能造成的治疗影响天然随干预组别而异，来源没有显示这些偏离在组间平衡。 B：潜在 performance differences 由已知分组触发，可能随分配组而异，不能认为在组间平衡。",
+              "anchors": [
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 34663,
+                  "end_offset": 34786,
+                  "exact_text": "Proceduralists were permitted to know group allocations which may have influenced treatment, resulting in performance bias."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.6",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "可见分析仍按随机 intervention 分组比较；问卷缺失属于 D3 missing outcome data，而非改按实际治疗分析。",
+              "anchors": [
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 19898,
+                  "end_offset": 20023,
+                  "exact_text": "Comparisons of the standardized mean difference were made for pre-procedure fasting questionnaire total score by intervention"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.7",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "未见 crossover 或改按实际摄入组分析；问卷缺失的影响在 D3 评价，assignment-analysis failure 较不可能。",
+              "anchors": [
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 19898,
+                  "end_offset": 20023,
+                  "exact_text": "Comparisons of the standardized mean difference were made for pre-procedure fasting questionnaire total score by intervention"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "HIGH"
+        },
+        {
+          "domain": "D3",
+          "questions": [
+            {
+              "question_id": "3.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：110/716 例未完成目标问卷，约 15% 缺失，显然不是全部或接近全部。 B：110/716（约 15.4%）参与者未完成满意度问卷，不能视为全部或几乎全部随机参与者均有该结局数据。",
+              "anchors": [
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 34243,
+                  "end_offset": 34325,
+                  "exact_text": "A total of 110 patients did not complete the patient satisfac­ tion questionnaire."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.2",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "110 份问卷缺失且无按组缺失、原因、插补或敏感性分析，现有证据不能支持结果未受偏倚。",
+              "anchors": [
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 34243,
+                  "end_offset": 34325,
+                  "exact_text": "A total of 110 patients did not complete the patient satisfac­ tion questionnaire."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.3",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：满意度为患者主动完成的主观问卷，且研究者认为未设盲很可能影响评分；完成问卷的概率可能与真实满意度或症状强度相关。 B：该结果为术前主观症状与满意度问卷；在较高缺失比例且缺失原因未知时，完成问卷的可能性可与真实症状或满意度相关。",
+              "anchors": [
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 34505,
+                  "end_offset": 34662,
+                  "exact_text": "Trial participants and healthcare staff could not be blinded to group allocation, and this is likely to have influenced patient-reported satisfaction scores."
+                },
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 34243,
+                  "end_offset": 34325,
+                  "exact_text": "A total of 110 patients did not complete the patient satisfac­ tion questionnaire."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.4",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：已检查完整结果报告和预注册 protocol；两者均未报告按组缺失数量、缺失原因或缺失者可能的 satisfaction 真值，无法判断依赖关系是否很可能存在。 B：已检查结果报告及已发表 protocol；两者均未给出 110 份缺失问卷的按组数量、原因或与真实满意度的关系，无法判断依赖真实值是否很可能。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3"
+                },
+                {
+                  "document_key": "ferreira.scoff-protocol",
+                  "source_sha256": "1405544b05e62710f0ebf48a2703e1e2de6ab2f7d97d81267bf3804d4db207b8",
+                  "representation_sha256": "caa26d7e6f3ef088cbb27a707423ecc1de952fb82ad6bbf8f2fb2a245e073ec9"
+                }
+              ]
+            }
+          ],
+          "judgment": "HIGH"
+        },
+        {
+          "domain": "D4",
+          "questions": [
+            {
+              "question_id": "4.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：作者明确说明该问卷未在心导管人群验证，且不清楚它如何反映总体满意度，因此对当前目标的测量方法不适当。 B：作者明确指出该问卷未在 cardiac catheterization 人群验证，且其如何反映 overall satisfaction 不清楚；对本精确目标构成不适当测量方法。",
+              "anchors": [
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 34326,
+                  "end_offset": 34504,
+                  "exact_text": "The patient satisfaction questionnaire used has not been validated for cardiac catheterization procedures and it is unclear how these results inform overall patient satisfaction."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：两组均使用同一组六项、同一五点量表的术前问卷，未见组别特异的测量方法。 B：两组均使用相同六题、五级响应问卷，未见按分组改变测量工具或时点。",
+              "anchors": [
+                {
+                  "document_key": "ferreira.scoff-protocol",
+                  "source_sha256": "1405544b05e62710f0ebf48a2703e1e2de6ab2f7d97d81267bf3804d4db207b8",
+                  "representation_sha256": "caa26d7e6f3ef088cbb27a707423ecc1de952fb82ad6bbf8f2fb2a245e073ec9",
+                  "start_offset": 7590,
+                  "end_offset": 7782,
+                  "exact_text": "Pre-procedure questions 11 I am thirsty I am hungry My voice is hoarse I am feeling anxious I feel weak I am nauseous | Response options Strongly agree Agree Neutral Disagree Strongly disagree"
+                },
+                {
+                  "document_key": "ferreira.scoff-protocol",
+                  "source_sha256": "1405544b05e62710f0ebf48a2703e1e2de6ab2f7d97d81267bf3804d4db207b8",
+                  "representation_sha256": "caa26d7e6f3ef088cbb27a707423ecc1de952fb82ad6bbf8f2fb2a245e073ec9",
+                  "start_offset": 7520,
+                  "end_offset": 7587,
+                  "exact_text": "Patient satisfaction questionnaire (5-point ordinal scale response)"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.3",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：这是患者自报问卷，而参与者明确无法对分组设盲。 B：该结局由参与者自报，而试验参与者明确无法对分组设盲。",
+              "anchors": [
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 34505,
+                  "end_offset": 34662,
+                  "exact_text": "Trial participants and healthcare staff could not be blinded to group allocation, and this is likely to have influenced patient-reported satisfaction scores."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.4",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：口渴、饥饿、焦虑等主观自报项目可受对禁食分组的知识和期望影响。 B：满意度和症状属于主观自报结局，作者明确认为分组知识可能影响这些评分。",
+              "anchors": [
+                {
+                  "document_key": "ferreira.scoff-protocol",
+                  "source_sha256": "1405544b05e62710f0ebf48a2703e1e2de6ab2f7d97d81267bf3804d4db207b8",
+                  "representation_sha256": "caa26d7e6f3ef088cbb27a707423ecc1de952fb82ad6bbf8f2fb2a245e073ec9",
+                  "start_offset": 7590,
+                  "end_offset": 7782,
+                  "exact_text": "Pre-procedure questions 11 I am thirsty I am hungry My voice is hoarse I am feeling anxious I feel weak I am nauseous | Response options Strongly agree Agree Neutral Disagree Strongly disagree"
+                },
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 34505,
+                  "end_offset": 34662,
+                  "exact_text": "Trial participants and healthcare staff could not be blinded to group allocation, and this is likely to have influenced patient-reported satisfaction scores."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.5",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：论文作者直接判断未设盲很可能影响患者报告的满意度评分。 B：作者直接判断不设盲很可能影响 patient-reported satisfaction scores，故不只是理论可能。",
+              "anchors": [
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 34505,
+                  "end_offset": 34662,
+                  "exact_text": "Trial participants and healthcare staff could not be blinded to group allocation, and this is likely to have influenced patient-reported satisfaction scores."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "HIGH"
+        },
+        {
+          "domain": "D5",
+          "questions": [
+            {
+              "question_id": "5.1",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "protocol 在招募接近结束时发表，且最终 exploratory Bayes factor 与预设 posterior interval/插补路径不一致。",
+              "anchors": [
+                {
+                  "document_key": "ferreira.scoff-protocol",
+                  "source_sha256": "1405544b05e62710f0ebf48a2703e1e2de6ab2f7d97d81267bf3804d4db207b8",
+                  "representation_sha256": "caa26d7e6f3ef088cbb27a707423ecc1de952fb82ad6bbf8f2fb2a245e073ec9",
+                  "start_offset": 11132,
+                  "end_offset": 11246,
+                  "exact_text": "Ninety-five per cent posterior intervals for the difference in means will be presented for the continuous outcomes"
+                },
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 19686,
+                  "end_offset": 19811,
+                  "exact_text": "Exploratory Bayes factor analyses were con­ ducted for selected variables to help fully characterize the intervention effect."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "protocol 预列固定六个问题和响应，报告以同样六项形成总分，未见结果驱动的测量选择。",
+              "anchors": [
+                {
+                  "document_key": "ferreira.scoff-protocol",
+                  "source_sha256": "1405544b05e62710f0ebf48a2703e1e2de6ab2f7d97d81267bf3804d4db207b8",
+                  "representation_sha256": "caa26d7e6f3ef088cbb27a707423ecc1de952fb82ad6bbf8f2fb2a245e073ec9",
+                  "start_offset": 7590,
+                  "end_offset": 7782,
+                  "exact_text": "Pre-procedure questions 11 I am thirsty I am hungry My voice is hoarse I am feeling anxious I feel weak I am nauseous | Response options Strongly agree Agree Neutral Disagree Strongly disagree"
+                },
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 14764,
+                  "end_offset": 14967,
+                  "exact_text": "A total score was formed as the sum of the response to each of the six questions, higher scores cor­ responding to worse symptoms (interpreted as lower levels of satisfaction) with a maximum score of 30."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.3",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "最终对 selected variables 使用 exploratory Bayes factor，与预设 posterior interval 分析不同，支持分析选择。",
+              "anchors": [
+                {
+                  "document_key": "ferreira.scoff-protocol",
+                  "source_sha256": "1405544b05e62710f0ebf48a2703e1e2de6ab2f7d97d81267bf3804d4db207b8",
+                  "representation_sha256": "caa26d7e6f3ef088cbb27a707423ecc1de952fb82ad6bbf8f2fb2a245e073ec9",
+                  "start_offset": 11132,
+                  "end_offset": 11246,
+                  "exact_text": "Ninety-five per cent posterior intervals for the difference in means will be presented for the continuous outcomes"
+                },
+                {
+                  "document_key": "ferreira.fulltext",
+                  "source_sha256": "fb8aeb27390596d0b9d0e11f53a6fa26e2162de7ecc7f78ef3b55438e2c8dda8",
+                  "representation_sha256": "ea417a660c6486d6f52ea5894f3e9c0116535a0eccb2a4d9ac6551238b7745e3",
+                  "start_offset": 19686,
+                  "end_offset": 19811,
+                  "exact_text": "Exploratory Bayes factor analyses were con­ ducted for selected variables to help fully characterize the intervention effect."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "HIGH"
+        }
+      ],
+      "overall_judgment": "HIGH"
+    },
+    {
+      "study_key": "woods",
+      "target_id": "result.composite_satisfaction",
+      "domains": [
+        {
+          "domain": "D1",
+          "questions": [
+            {
+              "question_id": "1.1",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告称患者随机分配；虽未交代随机序列生成方法，也无非随机方法迹象，因此更可能为真正随机。 B：报告称参与者随机分配至两个 protocol groups，但未描述序列生成方法，因此只能判断为较可能随机。",
+              "anchors": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 8165,
+                  "end_offset": 8260,
+                  "exact_text": "Patients enrolled were randomly assigned to 1 of 2 protocol groups by using a blinded envelope."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.2",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：分配使用 blinded envelope，提示入组前隐藏；但缺少不透明、密封、顺序编号等细节，故只能判断 probably yes。 B：使用 blinded envelope 支持分配隐藏，但未说明信封是否不透明、连续编号及开启责任，因此保留不确定性。",
+              "anchors": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 8165,
+                  "end_offset": 8260,
+                  "exact_text": "Patients enrolled were randomly assigned to 1 of 2 protocol groups by using a blinded envelope."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.3",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "报告明确两组人口学特征无差异，未见基线失衡提示随机化失败。",
+              "anchors": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 11087,
+                  "end_offset": 11160,
+                  "exact_text": "Patients' demographic characteristics did not differ between the 2 groups"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D2",
+          "questions": [
+            {
+              "question_id": "2.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：患者按随机组接受饮食教育，且禁食或可进食本身可感知。 B：每名患者按随机组接受饮食类型和限制教育，故参与者知晓分配。",
+              "anchors": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 8560,
+                  "end_offset": 8659,
+                  "exact_text": "Each patient received education on diet types and restrictions according to their randomized group."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.2",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：研究需按组提供饮食和限制教育，未报告医护设盲；实施者很可能知晓分组。 B：研究团队必须按随机组提供不同饮食教育和限制，实施干预者较可能知晓分配；报告未声称照护人员设盲。",
+              "anchors": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 8560,
+                  "end_offset": 8659,
+                  "exact_text": "Each patient received education on diet types and restrictions according to their randomized group."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "完整报告描述两组按随机饮食 protocol 实施且全部 197 人进入分析，未见 crossover、污染或不依从。",
+              "anchors": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 8165,
+                  "end_offset": 8260,
+                  "exact_text": "Patients enrolled were randomly assigned to 1 of 2 protocol groups by using a blinded envelope."
+                },
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 10126,
+                  "end_offset": 10228,
+                  "exact_text": "The final sample for analysis consisted of 197 patients (100 in the heart-healthy diet group and 97 in"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.4",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "未识别实际 intended-intervention deviation，较不支持偏离影响满意度。",
+              "anchors": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 8560,
+                  "end_offset": 8659,
+                  "exact_text": "Each patient received education on diet types and restrictions according to their randomized group."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.5",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "来源没有两组偏离或依从性数据，按 protocol 接受教育不足以证明偏离平衡。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991"
+                }
+              ]
+            },
+            {
+              "question_id": "2.6",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "全部随机样本按两个随机组比较，连续结局使用适当的独立样本组间检验。",
+              "anchors": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 10126,
+                  "end_offset": 10228,
+                  "exact_text": "The final sample for analysis consisted of 197 patients (100 in the heart-healthy diet group and 97 in"
+                },
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 9973,
+                  "end_offset": 10115,
+                  "exact_text": "We used independent t tests to compare continuous measures and r 2 tests of independence to compare categorical measures between the 2 groups."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.7",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：最终分析人数等于入组人数 197，未见因未按随机组分析造成实质性影响的空间。 B：最终分析包含全部 197 名随机参与者，且按随机组比较，没有 assignment-analysis failure 造成实质影响的空间。",
+              "anchors": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 10126,
+                  "end_offset": 10228,
+                  "exact_text": "The final sample for analysis consisted of 197 patients (100 in the heart-healthy diet group and 97 in"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D3",
+          "questions": [
+            {
+              "question_id": "3.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：研究入组 197 例，最终目标分析样本亦为 197 例。 B：报告的入组样本和最终分析样本均为 197，满意度表亦以 100 与 97 两组完整样本呈现。",
+              "anchors": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 10126,
+                  "end_offset": 10228,
+                  "exact_text": "The final sample for analysis consisted of 197 patients (100 in the heart-healthy diet group and 97 in"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标结果表覆盖全部 197 例随机组样本，没有观察到 outcome 缺失导致偏倚。 B：全部 197 人进入最终分析并与两组总数一致，因此该结果没有可识别的参与者级缺失造成偏倚。",
+              "anchors": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 12830,
+                  "end_offset": 12921,
+                  "exact_text": "| Patient satisfaction with diet, b mean (SD) | 2.1 (1.4) | 1.3 (0.7) | 3.1 (1.5) | <.001 |"
+                },
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 10126,
+                  "end_offset": 10228,
+                  "exact_text": "The final sample for analysis consisted of 197 patients (100 in the heart-healthy diet group and 97 in"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标结果没有观察到缺失，故不存在缺失概率依赖真实值的问题。 B：最终分析覆盖全部随机样本，没有未观察的参与者级满意度值可依赖其真实值。",
+              "anchors": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 10126,
+                  "end_offset": 10228,
+                  "exact_text": "The final sample for analysis consisted of 197 patients (100 in the heart-healthy diet group and 97 in"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.4",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标结果没有观察到缺失，不可能很可能依赖未观察的真实 satisfaction 值。 B：未识别参与者级缺失，因此缺失依赖真实结果值并非可能路径。",
+              "anchors": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 12830,
+                  "end_offset": 12921,
+                  "exact_text": "| Patient satisfaction with diet, b mean (SD) | 2.1 (1.4) | 1.3 (0.7) | 3.1 (1.5) | <.001 |"
+                },
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 10126,
+                  "end_offset": 10228,
+                  "exact_text": "The final sample for analysis consisted of 197 patients (100 in the heart-healthy diet group and 97 in"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D4",
+          "questions": [
+            {
+              "question_id": "4.1",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：尽管使用 investigator-developed tool，目标条目直接询问对饮食的满意度并采用清楚的五点响应，对该窄目标大体合适。 B：虽使用 investigator-developed tool，但目标是直接询问对饮食满意度的单项五级响应；可用于该主观构念，尚不足以判定测量方法不适当。",
+              "anchors": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 14068,
+                  "end_offset": 14183,
+                  "exact_text": "b Scored as 1 = strongly agree to 5 = strongly disagree with the statement that they were satisfi ed with the diet."
+                },
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 9764,
+                  "end_offset": 9904,
+                  "exact_text": "Therefore, we used an investigator-developed tool to assess patient satisfaction and complications before and after cardiac catheterization."
+                },
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 14070,
+                  "end_offset": 14183,
+                  "exact_text": "Scored as 1 = strongly agree to 5 = strongly disagree with the statement that they were satisfi ed with the diet."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：两组均使用同一出院满意度问卷和同一评分，未见测量方法随组别改变。 B：两组在出院时完成同一 satisfaction survey，未见测量方法或时点按组改变。",
+              "anchors": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 9905,
+                  "end_offset": 9972,
+                  "exact_text": "Patients were asked to complete a satisfaction survey at discharge."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.3",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：结局由患者自评，而患者接受与随机组对应的饮食教育并知道自己能否进食。 B：结局评估者是自报满意度的参与者，而参与者按随机组接受明确的饮食教育，知晓所受干预。",
+              "anchors": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 8560,
+                  "end_offset": 8659,
+                  "exact_text": "Each patient received education on diet types and restrictions according to their randomized group."
+                },
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 9905,
+                  "end_offset": 9972,
+                  "exact_text": "Patients were asked to complete a satisfaction survey at discharge."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.4",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：对饮食是否满意是主观评价，可受患者知道自己被要求禁食或允许进食的影响。 B：问题直接询问是否满意所分配饮食，参与者知道饮食组别，主观评估可受该知识影响。",
+              "anchors": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 14068,
+                  "end_offset": 14183,
+                  "exact_text": "b Scored as 1 = strongly agree to 5 = strongly disagree with the statement that they were satisfi ed with the diet."
+                },
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 14070,
+                  "end_offset": 14183,
+                  "exact_text": "Scored as 1 = strongly agree to 5 = strongly disagree with the statement that they were satisfi ed with the diet."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.5",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：测量问题直接评价随机饮食安排本身，患者完全知晓安排，知识影响评分的可能性很高。 B：满意度条目直接评价参与者已知的饮食分配，且干预体验明显不同，因此分组知识较可能实际影响评分。",
+              "anchors": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 11257,
+                  "end_offset": 11388,
+                  "exact_text": "Satisfaction with the preprocedural diet was significantly higher and thirst and hunger were lower in the heart-healthy diet group."
+                },
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 8560,
+                  "end_offset": 8659,
+                  "exact_text": "Each patient received education on diet types and restrictions according to their randomized group."
+                },
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991",
+                  "start_offset": 14070,
+                  "end_offset": 14183,
+                  "exact_text": "Scored as 1 = strongly agree to 5 = strongly disagree with the statement that they were satisfi ed with the diet."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "HIGH"
+        },
+        {
+          "domain": "D5",
+          "questions": [
+            {
+              "question_id": "5.1",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：已检查 Woods 完整结果报告；Study Source Bundle 无 protocol、SAP 或 registry，无法确认 satisfaction 数值按揭盲前定稿的分析计划产生。 B：已检查唯一可用完整结果报告；没有 protocol、SAP 或 registry 来源可证明该精确满意度分析在未设盲结局数据可用前已冻结。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991"
+                }
+              ]
+            },
+            {
+              "question_id": "5.2",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "只有结果报告而无 protocol/SAP/registry，无法核验是否从多个合格 satisfaction measurement 中选择。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991"
+                }
+              ]
+            },
+            {
+              "question_id": "5.3",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "仅报告 independent t test，缺少预先计划，无法排除其他 eligible analyses 与结果驱动选择。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "woods.fulltext",
+                  "source_sha256": "b74bb9fe18d34339ac48f600cf18013aa5ae34f0eb382b3d84d5a7568649f10d",
+                  "representation_sha256": "4927848b3363fd286adb66a4008cf239db7a91d4198163364ca177c74c69a991"
+                }
+              ]
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        }
+      ],
+      "overall_judgment": "HIGH"
+    }
+  ]
+}

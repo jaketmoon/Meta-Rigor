@@ -1,0 +1,16 @@
+{
+  "source_id": "prisma-s-2021",
+  "official_url": "https://www.prisma-statement.org/prisma-search",
+  "retrieved_at": "2026-09-01",
+  "record_kind": "CURATED_REQUIREMENT_RECORD",
+  "evidence_locator": "PRISMA-Search extension overview and linked checklist",
+  "checklist_contract": {
+    "item_count": 16,
+    "item_ids": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+  },
+  "requirements": [
+    "PRISMA-S is the PRISMA extension for reporting literature searches in systematic reviews.",
+    "The extension uses a 16-item checklist covering information sources, search strategies, peer review, and record management.",
+    "Unavailable source-specific dates and complete strategies must remain explicit reporting gaps rather than reconstructed content."
+  ]
+}

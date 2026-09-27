@@ -1,0 +1,54 @@
+{
+  "article": {
+    "doi": "10.3389/fped.2026.1892131",
+    "license_text": "This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "pmcid": "PMC13486297",
+    "pmid": "42620703",
+    "title": "High-flow nasal cannula versus continuous positive airway pressure for noninvasive respiratory support in children with bronchiolitis: a meta-analysis of randomized controlled trials"
+  },
+  "candidate": {
+    "line_count": 61,
+    "path": "frozen/PMC13486297/candidate.txt",
+    "sha256": "acb153d12de1e20a8f02723749d5abdc5771e18ff14492529dec6aeed504f0ee"
+  },
+  "external_comparator": {
+    "path": "frozen/PMC13486297/external-comparator.txt",
+    "removed_node_count": 5,
+    "sha256": "c1a6f0c3da29b3612bafc330a1bd75f87b0b4ca61f1675d950e5f061fa31f26d"
+  },
+  "freezer": {
+    "id": "metarigor-ec-review-jats-freezer",
+    "version": "1.1.0"
+  },
+  "raw_source": {
+    "path": "sources/PMC13486297.xml",
+    "sha256": "fda7d5c5fd896a02b2cfdd1857a9b6227fce12ee6f1d2f6a6925ea024f03fae0"
+  },
+  "redacted_evidence_tables": [],
+  "removed_nodes": [
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": "s2f",
+      "tag": "sec"
+    },
+    {
+      "node_id": "s3g",
+      "tag": "sec"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    }
+  ],
+  "retrieved_on": "2026-08-31",
+  "schema_version": "1.0.0",
+  "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC13486297&retmode=xml"
+}

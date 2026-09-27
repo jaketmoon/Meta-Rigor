@@ -1,0 +1,219 @@
+# Rationale and design of Tenecteplase Reperfusion Therapy in Acute Ischaemic Cerebrovascular Events III (TRACE III): a randomised, phase III, open-label, controlled trial
+
+## Background and purpose
+
+Recombinant human TNK tissue-type plasminogen activator (rhTNK-tPA) was not inferior to alteplase for ischaemic stroke within 4.5 hours. Our study aimed to investigate the efficacy and safety of rhTNK-tPA in patients who had an ischaemic stroke due to large vessel occlusion (LVO) of anterior circulation beyond 4.5 hours.
+
+## Methods and design
+
+Tenecteplase Reperfusion Therapy in Acute Ischaemic Cerebrovascular Events-III (TRACE III) is a multicentre, prospective, randomised, open-label, blind endpoint, controlled clinical trial. Patients who had an ischaemic stroke due to anterior circulation LVO (internal carotid artery, middle cerebral artery M1 and M2 segments) within 4.5–24 hours from last known well (including wake-up stroke and no witness stroke) and with salvageable tissue (ischaemic core volume <70 mL, mismatch ratio ≥1.8 and mismatch volume ≥15 mL) based on CT perfusion or MRI perfusion-weighted imaging (PWI) were included and randomised to rhTNK-tPA 0.25 mg/kg (single bolus) to a maximum of 25 mg or standard medical therapy. Specially, we will exclude patients who are intended for direct thrombectomy. All will be followed up for 90 days.
+
+## Study outcomes
+
+Primary efficacy outcome is modified Rankin Scale (mRS) score ≤1 at 90 days. Secondary efficacy outcomes include ordinal distribution of mRS at 90 days, major neurological improvement defined by a decrease ≥8 points compared with the initial deficit or a score ≤1 on the National Institutes of Health Stroke Scale (NIHSS) at 72 hours, mRS score ≤2 at 90 days, the rate of improvement on Tmax >6 s at 24 hours and NIHSS score change from baseline at 7 days. Safety outcomes are symptomatic intracerebral haemorrhage within 36 hours and mortality at 90 days.
+
+## Discussion
+
+TRACE III will provide evidence for the efficacy and safety of rhTNK-tPA in patients who had an ischaemic strokes due to anterior circulation LVO beyond 4.5 hours.
+
+## Trial registration number
+
+NCT05141305 .
+
+# WHAT IS ALREADY KNOWN ON THIS TOPIC
+
+- Recombinant human TNK tissue-type plasminogen activator (rhTNK-tPA) was non-inferior to alteplase within 4.5 hours, but data are lacking in the later time window.
+## WHAT THIS STUDY ADDS
+
+- Tenecteplase Reperfusion Therapy in Acute Ischaemic Cerebrovascular Events-Ⅲ was the first phase Ⅲ trial of rhTNK-tPA in patients with salvageable tissue ischaemic stroke due to large vessel occlusion beyond 4.5 hours.
+## HOW THIS STUDY MIGHT AFFECT RESEARCH, PRACTICE OR POLICY
+
+- Data will provide evidence for rhTNK-tPA use in extended window.
+## Introduction
+
+Acute large vessel occlusion (LVO) is associated with devastating ischaemic stroke, accounting for 30%–46% of the ischaemic stroke with a 90-day mortality of 60%–80%. 1–3 The current American Heart Association/American Stroke Association guidelines recommended intravenous thrombolysis bridging mechanical thrombectomy as the first-line treatment for acute LVO of anterior circulation stroke within 4.5 hours of stroke onset. 4 However, a majority of patients arrive in the hospital outside the 4.5-hour time window, who could not receive intravenous thrombolysis. 5 The Extending the Time for Thrombolysis in Emergency Neurological Deficits (EXTEND) trial extended the time window to 9 hours for intravenous alteplase with advanced imaging mismatch on the RAPID software (iSchemaView, USA). 6 While the Efficacy and Safety of MRI-Based Thrombolysis in Wake-Up Stroke (WAKE-UP) trial proved that alteplase is beneficial for wake-up patients with diffusion-weighted imaging (DWI)—fluid-attenuated inversion recovery mismatch, the mean infarct volumes in this trial were quite small and the proportion with LVO was less than 25%, so evidence is lacking as to the benefits of alteplase in this population. 7 Given that the time window for thrombectomy has been guideline-endorsed for treatment up to 24 hours in selected patients with clinical-imaging mismatch or perfusion-imaging mismatch, the optimal safety and efficacy of administration of lytics among patients in whom thrombectomy is not intended is uncertain. 8 9 The Phase III, Prospective, Double-blind, Randomised, Placebo-controlled Trial of Thrombolysis in Imaging-eligible, Late-window Patients to Assess the Efficacy and Safety of Tenecteplase (TIMELESS, NCT03785678 ) trial will assess the efficacy of TNK versus placebo in patients with stroke due to LVO intended for thrombectomy, but include some proportion of patients who experience spontaneous or TNK associated reperfusion prior to thrombectomy.
+
+Although alteplase has been used in clinical practice for 15 years, its main disadvantage is its delivery method of ‘a bolus followed by a drip for 1 hour’, which is inconvenient for bridging thrombectomy and ‘drip and ship’ patients due to potential for delays in transfer, unfavourable pharmacokinetics if there is a delay between bolus and infusion, higher cost and the challenges or performing MR imaging with an infusion pump. Tenecteplase (TNK) is a genetically engineered mutant tissue plasminogen activator. Compared with alteplase, TNK has a longer half-life, stronger affinity for fibrin, stronger tolerance to plasminogen activator inhibitor-1 and can be administered by a single bolus. 10 The tenecteplase versus alteplase before thrombectomy for ischaemic stroke (EXTEND-IA TNK) trial revealed that TNK had higher recanalisation rate than alteplase in patients with LVO intended for thrombectomy within 4.5 hours after symptom onset. 11 In China, recombinant human TNK tissue-type plasminogen activator (rhTNK-tPA) approved for treating acute myocardial infarction, 12 had the same terminal amino acid sequence and different production process to the TNK made by Boehringer (Metalyse) and Genentech (TNKase). 13 The TRACE (Tenecteplase Reperfusion therapy in Acute ischaemic Cerebrovascular Events) trial as the phase II trial of rhTNK-tPA found that in comparison with alteplase, Chinese patients with acute ischaemic stroke treated with rhTNK-tPA showed similar rates of improvements on neurological deficits and symptomatic intracranial haemorrhage (sICH) at all doses (0.1, 0.25, 0.32 mg/kg) administered within 3 hours of symptom onset. 13 The TRACE Ⅱ trial has demonstrated that rhTNK-tPA 0.25 mg/kg received within 4.5 hours of stroke onset is non-inferior to alteplase 0.9 mg/kg for patients with AIS in China ( NCT04797013 ). 14 However, the efficacy and safety of rhTNK-tPA 0.25 mg/kg beyond 4.5 hours is unknown.
+
+Therefore, we conducted the TRACE III trial and aimed to investigate the efficacy and safety of rhTNK-tPA 0.25 mg/kg within the time window of 4.5–24 hours, wake-up stroke or no witness stroke in patients who had an ischaemic stroke with salvageable tissue due to LVO.
+
+## Methods
+
+### Study organisation and design
+
+TRACE III is a phase III, multicentre, prospective, randomised, open-label, blinded-endpoint (PROBE) controlled clinical trial. 15 Enrolled patients will be randomly assigned, in a 1:1 ratio, to receive rhTNK-tPA or standard medical treatment by means of a centralised permuted block method. Participants are required to be followed up for 90 days to assess the efficacy and safety outcomes. Approximately 40 study centres in China are planned to participate in TRACE III.
+
+### Patient population
+
+Adult patients with AIS due to culprit anterior circulation LVO (internal carotid artery, middle cerebral artery M1 and M2 segments) within 4.5–24 hours from last known well (including wake-up stroke and no witness stroke) and with salvageable tissue (ischaemic core volume <70 mL, mismatch ratio ≥1.8 and mismatch volume ≥15 mL) based on CT perfusion or MRI PWI were consecutively enrolled into this trial. Patients who had intention to proceed to endovascular treatment were excluded. The detailed inclusion and exclusion criteria were shown in figure 1 .
+
+Detailed inclusion and exclusion criteria. MCA, middle cerebral artery; rhTNK-tPA, recombinant human TNK tissue-type plasminogen activator; APTT, activated partial thromboplastin time.
+
+### Baseline assessment
+
+Demographic information, medical history, current medications and laboratory tests will be collected. Baseline stroke severity (National Institutes of Health Stroke Scale, NIHSS score) and prestroke functional status (modified Rankin Scale, mRS score) will also be assessed by certified and well-trained clinicians. CTP or MR DWI+PWI is required to assess the target imaging mismatch and CTA or MRA is required to confirm the artery occlusion including internal carotid artery and middle cerebral artery M1/M2.
+
+### Randomisation and blinding
+
+Participants are randomly assigned, in a 1:1 ratio, to receive rhTNK-tPA or standard medication treatment. Study drugs will be packed on the randomisation sequence. The randomisation sequence will be generated in a centralised contract research organisation on day 1. Patients are stratified by site of vessel occlusion into one of the following strata: (1) ICA occlusion, (2) MCA-M1 and (3) MCA-M2 occlusion. All endpoint in each centre will be evaluated by a qualified blind evaluation study physician who does not know the treatment group.
+
+### Treatment intervention
+
+#### Intervention group: rhTNK-tPA (0.25 mg/kg, max 25 mg)
+
+The patients receive 0.25 mg of rhTNK-tPA per kilogram of body weight. Before the procedure, each vial of rhTNK-tPA is reconstituted with 3 mL sterile water for injection and suctioned according to their body weight to inject in a bolus intravenously over 5–10 s.
+
+#### Control group: standard medications
+
+Antiplatelet therapy (aspirin combined with clopidogrel, aspirin alone or clopidogrel alone) is given on the discretion of local investigators.
+
+Patients for whom direct endovascular treatment is planned are excluded from this study at initial assessment. Patients who are subsequently judged to require endovascular treatment after intravenous thrombolysis in the judgement of the investigator will be included in the intention-to-treat analysis, but will be excluded from per-protocol analysis in order to avoid the effect on the outcome.
+
+### Concomitant management
+
+All the enrolled patients are requested to be admitted into stroke units or intensive care units if necessary. Standard early treatment and secondary prevention management for all the enrolled patients are based on the 2018 Chinese Guidelines for Diagnosis and Treatment of Acute Ischaemic Stroke. 16
+
+Participants will be prohibited to receive any drugs that may influence coagulation within 24 hours of study drugs if the intravenous thrombolytic therapy is performed (including antiplatelet drugs, anticoagulants, fibrinolytic drugs, thrombolytic drugs), and other agents that affect platelet function, such as indomethacin, Betadine, ozagrel, neuroprotective agents, for instance, edaravone and edaravone dexborneol. Deep vein thrombosis prophylaxis with low-dose low-molecular-weight heparin is acceptable.
+
+### Outcomes and follow-up
+
+Study visits will be performed at the screening period (4.5–24 hours before thrombolytic therapy), 0 hour (thrombolytic therapy), 24 hours, 36 hours, 72 hours, day 7 or before discharge (the earliest or latest occurrence among these two will be judged as the follow-up point) and day 90 (endpoint). ( figure 2 ) At the screening period, CT+CTA +CTP (or MRI_DWI+MRA + PWI) should be performed. At 24 hours of randomisation, CT+CTA + CTP (or MRI_DWI+MRA + PWI) should be completed to assess recanalisation. The follow-up imaging (CT or MRI) should be completed within 24–36 hours to detect intracranial haemorrhage. At baseline and during follow-up visits, clinical information (not limited to that) including the neurological examination (NIHSS and mRS score), vital signs, concomitant medications, adverse events (AEs) and serious AEs (SAE) will be collected ( figure 3 ).
+
+Study flow chart. AIS, acute ischaemic stroke; CTP, CT perfusion; ICA, intracranial cerebral artery; MCA, middle cerebral artery; NIHSS, National Institute of Health Stroke Scale; rhTNK-tPA, recombinant human TNK tissue-type plasminogen activator.
+
+Trial assessment flow chart. DWI, diffusion-weighted imaging; mRS, modified Rankin Scale.*Key time points include onset time, hospitalization time and thrombolysis time; †The baseline blood pressure test is collected at the time of vital signs collection; The "Oh" visit is regarded as within 5 minutes before thrombolysis; Vital signs include blood pressure, pulse, temperature and respiratory rate; ‡The mRS scores screened into the group include premorbid score and post-onset score before thrombolysis; §Pregnancy test is limited to female subjects of childbearing age; ¶Laboratory assessments: Baseline laboratory assessments include hematology, clinical chemistry and coagulation profile; No need to repeat the assessments performed after the attack and before thrombolysis. Fasting blood is required for the baseline lipid profile (total cholesterol, low-density lipoprotein, high-density lipoprotein, triglycerides). Fast glucose is allowed to decide eligibility criteria with serum glucose collected synchronously. The clinical chemistry results are available after the administration of study drugs. The investigators will deal with the abnormal results according to guidelines and the clinical pathway if necessary. (1) The laboratory assessments of 72h after thrombolysis, including hematology, clinical chemistry, coagulation profile and urinalysis, can be acceptable for the 24h visit. (2) Hematology, clinical chemistry, coagulation profile and urinalysis should be done at 7±1 days or before discharge (whichever occurs first). **No need to repeat ECG after the attack and before thrombolysis; ‡‡The baseline imaging, whatever "CT or MRI", is used to exclude intracranial hemorrhage. CT angiography (CTA)+ CT perfusion (CTP) or MRI perfusion weighted imaging (MRI_PWI) +MR angiography (MRA) was used to identify large vessel occlusion and target mismatch. The follow-up imaging CT +CTA + CTP (or MRI_DWI +MRA + PWI) need to be completed at 24 + 6h of randomization to assess vessel recanalization and tissue reperfusion. CT or MRI need to be completed within 36 ± 6h to detect intracranial hemorrhage, if patient's sign remain stable, then 24 ± 6h CT or MRI can be used as the evaluation imaging for intracranial hemorrhage and no need to repeat the CT or MRI at 36 ± 6h. §§Thrombolysis information includes the time of thrombolytic therapy in treatment group (including the intravenous bolus time, the dose of the bolus and the adverse events).
+
+If SAEs or suspicious and unexpected serious adverse reactions (SUSAR) occur, investigators should adhere to the protocol and Good Clinical Practice guidelines. The Endpoint Adjudication Committee (EAC) will adjudicate the report. The AEs, SAEs and SUSAR will be reported using standard tabulated terminology.
+
+### Primary outcome
+
+Proportion of excellent functional outcome defined as an mRS score ≤1 at 90 days.
+
+### Secondary outcomes
+
+#### Efficacy outcomes
+
+- Ordinal distribution of mRS at 90 days.
+- Proportion of favourable functional outcome defined by an mRS score ≤2 points at 90 days.
+- Clinical response rate at 72 hours defined by an improvement on NIHSS score ≥8 points compared with the initial deficit or a score ≤1.
+- The rate of improvement on reperfusion at 24 hours (improved by 90% on Tmax >6 s).
+- NIHSS change from baseline at 7 days.
+#### Safety Outcomes
+
+- Proportion of sICH within 36 hours (as defined by The European Cooperative Acute Stroke Study III criteria. 17 ;
+- Rate of death from any cause within 90 days.
+- Rate of systemic bleeding at 90 days (as defined by The Global Utilisation of Streptokinase and Tissue Plasminogen Activator for Occluded Coronary Arteries: moderate and severe bleeding. 18
+- Rate of AEs/SAEs within 90 days.
+### Steering committee
+
+Steering committee will give scientific and strategic instruction on this study, and be responsible for the design, execution and publishing of the study, and will make sure of the study quality, conduction and management.
+
+### Data and safety monitoring boards
+
+An independent data and safety monitoring boards (DSMBs) will monitor the study progress, to make sure it meets the highest standards of ethics and safety. It composes of academic members, including independent statistician, and it is impossible for them to participate in the trial individually. DSMB will give advice on safety data, terminating the study, continuing the study or revising the protocol before continuing.
+
+### Endpoint adjudication committee
+
+EAC consists of experienced neurologists and cardiologists who are not involved in the execution of the study. The members of EAC will be qualified by the adjudication committee and the executive committee before the study is initiated, including the certification, roles and responsibilities of the committee members. EAC will review the endpoints events (death and major bleeding). Radiological outcomes related to clinical events are analysed at each subcentre, and the imaging reports will be added to the adjudication files. In some circumstances, subcentres or centre laboratories are required to provide the raw imaging files to the adjudication committee.
+
+### Sample sizes and statistical analysis
+
+#### Sample size
+
+There were two arms, rhTNK-tPA 0.25 mg/kg (maximum dose not exceeding 25 mg), and standard medical treatment group (standard medical treatment decided by local doctors). The group allocation ratio was 1:1. In the standard medical treatment group of the DWI or CT Perfusion Assessment with Clinical Mismatch in the Triage of Wake-Up and Late Presenting Strokes Undergoing Neurointervention with Trevo (DAWN) 6 and EXTEND 8 trials, the proportions of mRS 0–1 in the extended time window were 9.1% and 29.5%, respectively. Considering that the proportion of Asians with excellent mRS in patients who had a stroke was higher than that of Caucasians, the rate of mRS 0–1 in patients who had an acute stroke with standard medical treatment in the late window up to 24 hours was set at 25%. The total sample size of 516 for the phase III study will yield 80% power to observe a 12% difference in proportions of patients achieving mRS 0–1 (37% intervention vs 25% control), assuming a one-sided alpha of 0.025, an attrition rate of 10%. A prespecified ‘promising zone’ adaptive sample size re-estimation procedure will be performed at the sample size of 258 patients with the maximum feasible sample size of 808 patients. The maximum sample size of 808 will yield 80% power to observe a more conservative 9.5% difference in proportions of patients achieving mRS 0–1 (34.5% intervention vs 25% control).
+
+#### Statistical analysis
+
+The primary efficacy evaluation will be based on an intention-to-treat (ITT) analysis and the missing values can be estimated by multiple imputations. Differences between study groups in the rate of 90-day mRS will be assessed with the use of a logistic regression model. The OR and the 95% CI will be reported. In addition, whether the treatment effects differ in certain predefined subgroups will be assessed by testing the treatment-by-subgroup interaction effect with the use of logistic regression models. Subgroup analysis includes age (＜75 vs ≥75 years old; ＜80 vs ≥80 years old), sex (female, male), baseline severity of stroke (NHISS score＜10 or ≥10), time from last known well to treatment time (＞4.5–6.0 hours, ＞6.0–9.0 hours, ＞9.0–24.0 hours, wake-up stroke, no witness stroke), large-artery occlusion site (internal carotid artery, middle cerebral artery M1, middle cerebral artery M2). For comparison between groups, all hypothesis tests will be performed with a two-sided alpha level of 0.05 (α=0.05). An interim analysis is planned at 258 cases to re-estimate the sample size. All statistical analyses are processed by SAS V.9.4 or higher version statistical software and will be performed on a predetermined statistical analysis plan.
+
+### Version modifications
+
+We had four minor modifications of the protocol and the current version is 1.4. In V.1.1, we deleted the automated software product name and modified the 24 hours follow-up perfusion imaging priority of PWI to CTP or PWI are all acceptable from the protocol version 1.0. In V.1.2, we corrected a typo error of ‘total sample size of each group 516 patients’ to ‘total sample size of 516 patients’. In V.1.3, we reordered the secondary outcomes, and moved the mRS distribution up as the first secondary outcomes. All these three modifications were made before the trial’s kick-off meeting. In V.1.4, we removed traditional Chinese medicines out of the prohibited drugs in the concomitant management due to lacking of evidence of increasing the haemorrhagic risk.
+
+## Discussion
+
+As far as we know, our trial is the first phase Ⅲ, randomised clinical trial of rhTNK-tPA in the late window of 4.5–24 hours, wake-up or no witness in patients who had a stroke due to LVO that are not intended for endovascular treatment. This will allow us to exclusively answer the question of efficacy and safety of rhTNK-tPA comparing with standard medical treatment in patients with LVO out of direct endovascular treatment at initial assessment.
+
+In high-income countries such as Western Europe, USA and Australia, the time window has been extended to 24 hours for thrombectomy based on advanced imaging modalities and patients have the opportunity to receive thrombectomy outside the intravenous thrombolysis time window. However, for many patients in low-income or middle-income countries, thrombectomy is not an option due to the financial burden, and the lack of routinely available advanced perfusion imaging and automated software for interpretation. Intravenous thrombolysis is the global foundational therapy for acute ischaemic stroke management, as it is more affordable, requires little training to administer and is readily available. However, only 24.4% patients received intravenous thrombolysis within the time window of 4.5 hours in China based on the China Stroke Statistics 2019. 19 and the recanalisation rate using alteplase alone in LVO was only 10%. 11 Comparing with alteplase, TNK has superior pharmacodynamic and pharmacokinetic properties and might have great application prospects, especially for patients who need to be transferred to a distant centre for thrombectomy.
+
+Echoplanar Imaging Thrombolytic Evaluation Trial 20 and Diffusion and perfusion imaging Evaluation For Understanding Stroke Evolution (DEFUSE) studies 21 confirmed that PWI/DWI mismatch could predict favourable outcome after IV tPA therapy within 3–6 hours including a higher rate of recanalisation, better reperfusion, slower infarct progression and a higher percentage of mRS 0–1. In addition, DEFUSE also indicated that a large DWI volume (>100 mL) is a predictor of sICH. 21 CTP is another imaging method to assess mismatch to evaluate ischaemic penumbra. EXTEND trial used a CTP target imaging mismatch and demonstrated that IVT tPA within 4.5–9 hours could improve reperfusion and clinical functional outcome. 6 However, in EXTEND trial, 6 large artery occlusion was not a prerequisite for inclusion and its target imaging mismatch criteria was not applicable in our trial. DEFUSE 3 trial included patients with ischaemic stroke due to LVO of anterior circulation. 9 In the DEFUSE 3 trial, another CTP target imaging mismatch (core volume is <70 mL, mismatch ratio is ≥1.8 and mismatch volume is ≥15 mL) was established to select patients that could benefit from mechanical thrombectomy within 6–16 hours from last known well due to LVO in the anterior circulation. Hence, we used the target imaging mismatch of DEFUSE 3 in our trial.
+
+While a double-blind randomised, placebo controlled trial design would be ideal for a definitive phase III clinical trial to avoid potential bias and balance confounders in the study, we were unable to secure a reliable source of rhTNK-tPA placebo. Hence, we opted to conduct a PROBE design, and will rely on the blinding of the assessors to prevent the exposure of treatment allocation which could introduce bias.
+
+Currently, the evidence of TNK in the later time window is limited. The Tenecteplase in Wake-up Ischaemic Stroke Trial (TWIST) found that treatment with tenecteplase within 4.5 hours of awakening did not lead to better functional outcome at 90 days in patients with wake-up stroke. The rates of sICH or any ICH were not significantly different between tenecteplase thrombolysis and no thrombolysis. However, eligible patients were mainly selected based on non-contrast CT in the trial. 22 The Tenecteplase versus Alteplase for Acute Ischaemic Stroke, also referred to the Australian-TNK trial, used CTA and CTP to select eligible patients within 6 hours from last known well and demonstrated the benefits of TNK over alteplase in recanalisation and functional outcome. And there were no significant between-group differences in intracranial bleeding or other SAEs. 23 Considering this is a phase II trial with a relatively small sample size, large sample phase Ⅲ is warranted. To investigate the effectiveness and safety of rhTNK-tPA beyond 4.5 hours, we initiated this TRACE III trial with CTP or PWI as selection tools. Other trials are ongoing in the world to provide more evidence on TNK beyond 4.5 hours (TIMELESS) NCT03785678 ; Extending the Time Window for Tenecteplase by Effective Reperfusion in Patients With LVO (ETERNAL-LVO), NCT04454788 ). Compared with the ongoing trials, TRACE Ⅲ is a unique phase Ⅲ trial of rhTNK-tPA versus standard medical treatment in AIS patients with anterior circulation LVO and salvageable tissue ischaemic stroke beyond 4.5 hours but without intention to endovascular treatment at initial assessment.
+
+In conclusion, TRACE III is initiated to investigate the efficacy and safety of TNK beyond 4.5 hours in patients with acute ischaemic stroke due to LVO. It will help provide evidence for TNK use in time window of 4.5–24 hours.
+
+The Steering Committee: Yongjun Wang, Bruce CV Campbell (AUS), Lee H Schwamm (USA), Marc Fisher (USA), Mark W Parsons (AUS). Data and Safety Monitoring Board: David Wang (USA), Lawrence Wong (HK), Hui Zhi (HK), Dongsheng Fan, Magdy Selim (USA). Independent statistician: Aoming Jin.
+
+Footnote: Twitter: @braindoc_mgh
+
+Footnote: Contributors: Contributors obtained funding, concept and design: YW. All authors contributed to the study design. Drafting of the manuscript: YX. Critical revision of the manuscript for important intellectual content: BCVC, MF and LHS. Statistical analysis: YX, HL and YP. All authors approved the submitted version.
+
+Footnote: Funding: This study is supported by the National Natural Science Foundation of China (81870905, 82171272), Beijing Municipal Science & Technology Committee (Z211100003521019) and Beijing Hospitals Authority (PX2022019). This study was funded by Guangzhou Recomgen Biotech with the investigation drugs provided for free.
+
+Footnote: Competing interests: None declared.
+
+Footnote: Provenance and peer review: Not commissioned; externally peer reviewed.
+
+## Data availability statement
+
+Data are available on reasonable request.
+
+## Ethics statements
+
+### Patient consent for publication
+
+Not applicable.
+
+### Ethics approval
+
+This study involves human participants and all procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional research committee and the principles of the Declaration of Helsinki. All participants gave informed consent before taking part. This study obtained Ethics approval from the Institutional Review Board of Beijing Tiantan Hospital, Capital Medical University with number KY2021-129-03. Participants gave informed consent to participate in the study before taking part.
+
+# References
+
+# Significance of large vessel intracranial occlusion causing acute ischemic stroke and Tia
+
+# Endovascular therapy after intravenous t-PA versus t-PA alone for stroke
+
+# Prevalence of large vessel occlusion in patients presenting with acute ischemic stroke: A 10-year systematic review of the literature
+
+# Guidelines for the early management of patients with acute ischemic stroke: 2019 Update to the 2018 guidelines for the early management of acute ischemic stroke: A guideline for Healthcare professionals from the American heart Association/American stroke Association
+
+# Times from symptom onset to hospital arrival in the get with the guidelines--stroke program 2002 to 2009: Temporal trends and implications
+
+# Thrombolysis guided by perfusion imaging up to 9 hours after onset of stroke
+
+# Mri-guided Thrombolysis for stroke with unknown time of onset
+
+# Thrombectomy 6 to 24 hours after stroke with a mismatch between deficit and infarct
+
+# Thrombectomy for stroke at 6 to 16 hours with selection by perfusion imaging
+
+# A faster-acting and more potent form of tissue plasminogen activator
+
+# Tenecteplase versus Alteplase before Thrombectomy for ischemic stroke
+
+# Recombinant human Tnk tissue-type plasminogen activator (rhTNK-tPA) versus Alteplase (RT-PA) as fibrinolytic therapy for acute ST-segment elevation myocardial infarction (China TNK STEMI): Protocol for a randomised, controlled, non-inferiority trial
+
+# Safety and efficacy of Tenecteplase versus Alteplase in patients with acute ischaemic stroke (TRACE): A Multicentre, randomised, open label, blinded-Endpoint (PROBE) controlled phase II study
+
+# Tenecteplase versus Alteplase in acute ischaemic cerebrovascular events (TRACE-2): A phase 3, a multi-centre, open-label, randomised controlled, non-inferiority trial
+
+# Prospective randomized open blinded end-point (PROBE) study. A novel design for intervention trials
+
+# Chinese guidelines for diagnosis and treatment of acute ischemic stroke 2018
+
+# Thrombolysis with Alteplase 3 to 4.5 hours after acute ischemic stroke
+
+# Incidence and predictors of bleeding after contemporary thrombolytic therapy for myocardial infarction. The global utilization of Streptokinase and tissue plasminogen activator for occluded coronary arteries (GUSTO) I investigators
+
+# China stroke Statistics 2019: A report from the National center for Healthcare quality management in neurological diseases, China National clinical research center for neurological diseases, the Chinese stroke Association, national center for chronic and non-Communicable disease control and prevention, Chinese center for disease control and prevention and Institute for global Neuroscience and stroke Collaborations
+
+# Effects of Alteplase beyond 3 H after stroke in the Echoplanar imaging thrombolytic evaluation trial (EPITHET): A placebo-controlled randomised trial
+
+# Magnetic resonance imaging profiles predict clinical response to early reperfusion: The diffusion and perfusion imaging evaluation for understanding stroke evolution (DEFUSE) study
+
+# Safety and efficacy of Tenecteplase in patients with wake-up stroke assessed by non-contrast ct (TWIST): A Multicentre, open-label, randomised controlled trial
+
+# A randomized trial of Tenecteplase versus Alteplase for acute ischemic stroke

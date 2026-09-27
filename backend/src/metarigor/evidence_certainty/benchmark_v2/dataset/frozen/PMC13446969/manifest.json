@@ -1,0 +1,84 @@
+{
+  "article": {
+    "doi": "10.1097/CCE.0000000000001452",
+    "license_text": "This is an open access article distributed under the Creative Commons Attribution License 4.0 (CCBY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "pmcid": "PMC13446969",
+    "pmid": "42554971",
+    "title": "High-Flow Nasal Cannula Versus Noninvasive Ventilation for Prevention of Reintubation in High-Risk Critically Ill Patients (HIGH-FLOW OXY): An Informative Systematic Review and Meta-Analysis"
+  },
+  "candidate": {
+    "line_count": 80,
+    "path": "frozen/PMC13446969/candidate.txt",
+    "sha256": "f2086890289bf7a4bde0ed4787c3d3daff04d896f898ce4310a6d61500ab213c"
+  },
+  "candidate_source_resolution": {
+    "decision_actor": "USER",
+    "decision_id": "ec-v2-pmc134-figure2-governing-version-20260901",
+    "excluded_source_path": "sources/PMC13446969.xml",
+    "excluded_version": "Table 1: 14 studies, OR 1.19 (0.88–1.59), 1996 participants",
+    "selected_artifact_path": "sources/review-figures/PMC13446969-forest.jpg",
+    "selected_artifact_sha256": "d9d3c78af33c4cfd2913a7416b0d9a45cab0faa6bf5e4c5a6481669c5a250f04",
+    "selected_version": "Figure 2: 15 study rows, Wald OR 1.22 (0.90–1.65), 2073 participants"
+  },
+  "external_comparator": {
+    "path": "frozen/PMC13446969/external-comparator.txt",
+    "removed_node_count": 9,
+    "sha256": "0c9415effcc08c6d568f08a142e569448a0efee0f61d7cbc2c09971ad57d6bb2"
+  },
+  "freezer": {
+    "id": "metarigor-ec-review-jats-freezer",
+    "version": "1.1.0"
+  },
+  "raw_source": {
+    "path": "sources/PMC13446969.xml",
+    "sha256": "76b82b7150074e62d5c3b79a3180a04af800f27027966703f38bb93e8b81be34"
+  },
+  "redacted_evidence_tables": [
+    {
+      "node_id": "T1",
+      "row_count": 10
+    }
+  ],
+  "removed_nodes": [
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "sec"
+    },
+    {
+      "node_id": "T1",
+      "tag": "table-wrap"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    }
+  ],
+  "retrieved_on": "2026-08-31",
+  "schema_version": "1.0.0",
+  "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC13446969&retmode=xml"
+}

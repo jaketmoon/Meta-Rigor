@@ -1,0 +1,247 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT01453270",
+      "orgStudyIdInfo": {
+        "id": "AGONIST"
+      },
+      "organization": {
+        "fullName": "National University Hospital, Singapore",
+        "class": "OTHER"
+      },
+      "briefTitle": "Emergency Department Management of Sepsis Patients: A Goal-Oriented Non-Invasive Sepsis Trial",
+      "officialTitle": "Emergency Department Management of Sepsis Patients: A Goal-Oriented Non-Invasive Sepsis Trial",
+      "acronym": "AGONIST"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2014-09",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2011-11"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2014-03",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2014-03",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2011-10-12",
+      "studyFirstSubmitQcDate": "2011-10-12",
+      "studyFirstPostDateStruct": {
+        "date": "2011-10-17",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2014-09-23",
+      "lastUpdatePostDateStruct": {
+        "date": "2014-09-25",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "National University Hospital, Singapore",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Singapore Clinical Research Institute",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to determine whether the use of a 3-hour protocol utilizing non-invasive hemodynamic optimization treatment strategy results in better outcome and lower hospital costs in patients who present with severe bloodstream infections to the Emergency Department (ED).",
+      "detailedDescription": "Severe sepsis is a syndrome where the body develops organ dysfunction secondary to uncontrolled inflammatory response to infection. Various resuscitation bundles have been formulated and practised to treat severe sepsis, such as early goal-directed therapy (EGDT). EGDT involves the insertion of invasive catheters in patients with severe sepsis or septic shock using serial measurements to guide therapy and achieve hemodynamic goals, such as mean arterial pressure (MAP), central venous pressure (CVP) and central venous oxygen saturation (ScvO2) by 6 hours. The drawbacks include the invasive nature of inserting these catheters with its complications and tedium to set up the equipment. A non-invasive approach using the Non-Invasive Cardiac Output Monitor (NICOM) and passive leg raising (PLR) maneuver to guide fluid and vasoactive agent therapy targeting fluid responsiveness and MAP may be able to achieve better outcome, measured by lactate clearance at 3 hours and at a lower hospitalization cost."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Sepsis",
+        "Shock, Septic"
+      ],
+      "keywords": [
+        "Sepsis",
+        "Emergency medicine",
+        "Cardiac output",
+        "Stroke volume",
+        "Lactate"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 122,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "NICOM and PLR",
+          "type": "EXPERIMENTAL",
+          "description": "A systematic approach to resuscitation started in the ED and using a step-wise approach to optimize cardiac preload, afterload, and contractility, thus optimizing oxygen delivery to the tissues will be applied to the intervention group using the Non-Invasive Cardiac Output Monitor (NICOM) and passive leg-raising (PLR) maneuver.",
+          "interventionNames": [
+            "Device: NICOM"
+          ]
+        },
+        {
+          "label": "Usual care",
+          "type": "ACTIVE_COMPARATOR",
+          "interventionNames": [
+            "Other: Usual care"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "NICOM",
+          "description": "Assessment of fluid responsiveness will be done using the non-invasive cardiac output monitor (NICOM) and passive leg-raising (PLR) maneuver to target mean arterial pressure of between 65mmHg and 90mmHg; and change in stroke volume index (SVI) less than 10%, prior to administration of fluid boluses.",
+          "armGroupLabels": [
+            "NICOM and PLR"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Usual care",
+          "description": "Usual care is given at the clinician's discretion in accordance with current best practice. Standard treatment may involve treatment with intravenous fluids, and medications to support the blood pressure and heart.",
+          "armGroupLabels": [
+            "Usual care"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Lactate clearance >20%",
+          "description": "Arterial lactate levels will be measured at 0 and 3 hours to determine degree of lactate clearance at 3 hours.",
+          "timeFrame": "3 hours"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Total hospital cost",
+          "timeFrame": "At discharge, death or 28 days, whichever occurs earlier"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Fulfillment of at least 2 systemic inflammatory response syndrome (SIRS) criteria\n* Suspected infection\n* Serum lactate ≥3mmol/L\n\nExclusion Criteria:\n\n* Age below 21 years\n* Known pregnancy\n* Prisoners\n* Do-not-attempt resuscitation status\n* Known severe aortic insufficiency or severe anatomic abnormalities of the thoracic aorta\n* Primary diagnosis of trauma, burns, active seizures, acute cerebral vascular accident, acute coronary syndrome, status asthmaticus, major cardiac arrhythmias, active gastrointestinal haemorrhage, seizure or drug overdose\n* Requirement for immediate surgery\n* Inability to do PLR (e.g. ankylosis of hip joint, severe sciatica)\n* Treating physician deems aggressive care unsuitable\n* Those unable to give informed consent and unable to comply with study requirements",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "21 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Win Sen Kuan, MBBS",
+          "affiliation": "National University Health System, Singapore",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Irwani Ibrahim, MBBS",
+          "affiliation": "National University Health System, Singapore",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Benjamin SH Leong, MBBS",
+          "affiliation": "National University Health System, Singapore",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Malcolm Mahadevan, MBBS",
+          "affiliation": "National University Health System, Singapore",
+          "role": "STUDY_CHAIR"
+        },
+        {
+          "name": "Yin Bun Cheung, PhD",
+          "affiliation": "Duke-NUS Graduate Medical School",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "National University Hospital",
+          "city": "Singapore",
+          "state": "Singapore",
+          "zip": "119074",
+          "country": "Singapore",
+          "geoPoint": {
+            "lat": 1.28967,
+            "lon": 103.85007
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-08-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D018805",
+          "term": "Sepsis"
+        },
+        {
+          "id": "D012772",
+          "term": "Shock, Septic"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D007239",
+          "term": "Infections"
+        },
+        {
+          "id": "D018746",
+          "term": "Systemic Inflammatory Response Syndrome"
+        },
+        {
+          "id": "D007249",
+          "term": "Inflammation"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D012769",
+          "term": "Shock"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

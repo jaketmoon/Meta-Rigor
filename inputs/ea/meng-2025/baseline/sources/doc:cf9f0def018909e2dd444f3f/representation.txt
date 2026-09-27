@@ -1,0 +1,79 @@
+# Anaesthesia
+
+# Anaesthesia
+
+# Original Article
+
+# Original Articles
+
+# A randomised controlled trial of dexmedetomidine for delirium in adults undergoing heart valve surgery
+
+# Dexmedetomidine for delirium
+
+# Wang et al.
+
+Figure S1. Adjusted relative risk and 95%CIs for the intention‐to‐treat primary outcome, sub‐group analyses and secondary outcomes of categorical variables.
+
+Table S1. The results of the primary and secondary outcomes by unadjusted and adjusted analyses.
+
+# Summary
+
+Dexmedetomidine might reduce delirium after cardiac surgery. We allocated 326 participants to an infusion of dexmedetomidine at a rate of 0.6 μg kg −1 for 10 min and then at 0.4 μg.kg −1 .h −1 until the end of surgery; 326 control participants received comparable volumes of saline. We detected delirium in 98/652 (15%) participants during the first seven postoperative days: 47/326 after dexmedetomidine vs. 51/326 after placebo, p = 0.62, adjusted relative risk (95%CI) 0.86 (0.56–1.33), p = 0.51. Postoperative renal impairment (Kidney Disease Improving Global Outcomes stages 1, 2 and 3) was detected in 46, 9 and 2 participants after dexmedetomidine and 25, 7 and 4 control participants, p = 0.040. Intra‐operative dexmedetomidine infusion did not reduce the incidence of delirium after cardiac valve surgery but might impair renal function.
+
+# Introduction
+
+Delirium affects about 14% of patients after cardiac surgery [ 1 ]. The principle clinical manifestations of delirium are altered consciousness, inattention, disorganised thinking and reduced spatial orientation [ 2, 3 ]. Delirium is associated with extended intensive care and hospital stay, long‐term cognitive dysfunction and shortened survival [ 4–6 ]. The causes of postoperative delirium are unclear. It is associated with age, cognitive dysfunction, poor sleep quality, cardiopulmonary bypass and pain [ 7–10 ].
+
+Dexmedetomidine is a sedative, anxiolytic, analgesic and it improves sleep quality [ 11, 12 ]. Prophylactic dexmedetomidine infusion may or may not reduce critical care delirium [ 13–21 ]. A recent trial in 798 participants reported that intra‐operative and postoperative dexmedetomidine infusion provoked hypotension but did not reduce delirium after cardiac surgery [ 22 ]. However, some uncertainty remains. We therefore tested the hypothesis that intra‐operative dexmedetomidine reduces the fraction of delirious patients after cardiac valve surgery. We also measured duration of mechanical ventilation, intensive care and hospital stay, hypotension, kidney function, ventricular arrhythmias and death.
+
+# Methods
+
+The Ethical Committee of the Chinese Academy of Medical Sciences, Fuwai Hospital, China, approved this registered trial [ 23 ].
+
+We included consenting adults (aged ≥ 18 y) scheduled for open cardiac valve surgery with bypass. We did not study patients who: had epilepsy; Parkinson's disease; schizophrenia; myasthenia gravis; severe dementia; were unable to communicate; had neurosurgery or brain injury; had a left‐ventricular ejection fraction < 30%; had sick sinus syndrome, an atrioventricular block degree ≥ 2, bradycardia (<50 beats.min −1 ); required renal replacement therapy; or had hepatic failure (Child‐Pugh Grade C). We recorded the pre‐operative Pittsburgh sleep quality index and the mini‐mental state examination [ 24, 25 ].
+
+We induced anaesthesia with intravenous midazolam, sufentanil, etomidate and facilitated tracheal intubation with cisatracurium. We ventilated lungs with 8–10 ml kg −1 oxygen‐enriched air and maintained end‐tidal carbon dioxide 35–45 mmHg. We inserted a central venous catheter. We maintained anaesthesia with propofol, sufentanil and sevoflurane, adjusted to bispectral index 40–60 (Covidien, Dublin, Ireland). We used a cardiopulmonary bypass membrane oxygenator with an integrated arterial filter after heparinisation with 400 U.kg −1 , guided by activated clotting time > 480 s. Centrifugal pumps provided a blood flow of 2–2.5 l.min −1 .m −2 to keep mean arterial pressure ≥ 60 mmHg. We maintained nasopharyngeal temperatures around 36°C, reduced to 30–34°C during cardiopulmonary bypass.
+
+We used a computer‐generated pseudorandom sequence to allocate participants to saline placebo or dexmedetomidine at a ratio of 1:1, using a permuted block size of 2 or 4. We sealed allocations in sequentially numbered opaque envelopes. An investigator who was otherwise not involved in patient care opened the envelope and prepared the infusion. We infused saline or 0.6 μg kg −1 dexmedetomidine (Jiangsu Hengrui Medicine, Jiangsu, China) over 10 min and then a continuous infusion of saline or dexmedetomidine 0.4 μg.kg −1 .h −1 until the end of surgery. We instructed the attending anaesthetist to attenuate or halt infusion if there was severe hypotension or bradycardia unresponsive to routine treatment; worsening or new second‐degree atrioventricular block unresponsive to routine treatments; or any adverse event potentially caused by dexmedetomidine.
+
+We transferred participants to an ICU and several days later to a cardiac ward. We usually sedated participants with propofol or midazolam to a target Richmond agitation‐sedation score (RASS) of −2 to 1 [ 26 ]. Participants used self‐controlled intravenous analgesia with continuous sufentanil infusion 2 μg.h −1 and 2 μg bolus (10 min lockout). We gave participants supplemental sufentanil, dezocine or oral paracetamol 325 mg and oxycodone hydrochloride 5 mg when NRS pain scores at rest > 4 points after three consecutive patient‐controlled boluses.
+
+The primary outcome was delirium during the first seven postoperative days. We assessed delirium with the confusion assessment method for ICU (CAM‐ICU) when the RASS > −3 [ 27–29 ]. We evaluated delirium about 24 h after surgery and then twice daily on the subsequent six postoperative days, 08.00–10.00 and 18.00–20.00. We calculated the duration of delirium as the cumulative number of days during which at least one assessment diagnosed delirium [ 30 ]. Secondary outcomes were: mortality within 30 and 90 postoperative days; duration of mechanical ventilation, ICU and hospital stay; hypotension (<30% of baseline blood pressure) during and after trial drug infusion; ventricular arrhythmias; and acute kidney injury [ 31 ].
+
+We estimated that 652 participants allocated 1:1 to saline or dexmedetomidine would provide 80% power to reject the null hypothesis at α 0.05, assuming a reduction in delirium from 13.6% to 6.8%, based on a previous study and an unpublished preliminary experiment from 186 patients at Fuwai hospital [ 32 ].
+
+We considered absolute standardised differences > 0.1 to indicate imbalance in baseline variables. We used logistic regression and Cox regression for incidence and time‐to‐event analyses, adjusted for imbalanced baseline variables. We conducted interaction analyses for age > 65 y and male sex [ 33, 34 ]. We conducted intention‐to‐treat and per‐protocol analyses. We used SPSS for analyses (version 25.0, IBM Co., Armonk, NY, USA).
+
+# Results
+
+The intention‐to‐treat analysis was of 652 participants and the per‐protocol analysis was of 642 participants (Fig. 1 and Table 1 ). We adjusted analyses for outcomes that interacted with the number of valves operated on and duration of surgery, cardiopulmonary bypass and aortic clamping.
+
+# Figure
+
+# Table
+
+# Patient characteristics. Values are mean (SD) or number (proportion).
+
+ASD, absolute standardised differences; CABG, coronary artery bypass graft.
+
+We recorded delirium for 47/326 (14%) participants allocated dexmedetomidine and for 51/326 (16%) participants allocated placebo, p = 0.62, adjusted relative risk (95%CI) 0.89 (0.58–1.39), p = 0.51, and adjusted hazard ratio (95% CI) 1.03 (0.68–1.56), log‐rank p = 0.65 (Fig. 2 and online Supporting Information Table S1 ). The median (IQR [range]) duration of delirium in these participants was 2 (1–3 [1–7]) days in both groups, p = 0.99. Rates of delirium in men and women were similar, 51/327 (16%) vs. 47/325 (14%), p = 0.10. Delirium was more frequent in older (≥65 y) participants, 42/135 (31%) vs. 64/517 (12%), p < 0.001. There were no significant interactions of sex or age (dichotomy) with relative rates of delirium after dexmedetomidine vs. placebo (online Supporting Information Figure S1 ).
+
+# Figure
+
+We diagnosed stage 1, 2 or 3 postoperative acute kidney injury in 46, 9 and 2 participants after dexmedetomidine and 25, 7 and 4 control participants, p = 0.040. The median (IQR [range]) duration of postoperative tracheal intubation was 16 (12–18 [2–480]) h after dexmedetomidine and 15 (12–18 [0–140]) h after placebo, p = 0.17. The duration of critical care were 2 (1–4 [1–20]) days and 2 (1–4 [1–16]) days, respectively, p = 0.54, and the duration of hospital stay were 7 (6–8 [1–32]) days and 7 (6–8 [0–21]) days, respectively, p = 0.21. We recorded hypotension for 31 vs. 39 participants after dexmedetomidine vs. placebo, p = 0.38, and ventricular arrhythmia for 17 vs. 15 participants, respectively, p = 0.72. Three patients and two patients died before hospital discharge after dexmedetomidine and placebo, respectively.
+
+# Discussion
+
+Intra‐operative dexmedetomidine did not reduce the rate of delirium after cardiac valve surgery, and it possibly impairs renal function.
+
+Dexmedetomidine did not prevent delirium after cardiac surgery in some other trials [ 22, 35 ]. Continuation of dexmedetomidine postoperatively did not prevent delirium in the trial by Turan et al. but did cause hypotension, as was reported by a meta‐analysis [ 22, 36 ]. The combination of our results with those of Turan et al. suggests that renal function might be impaired by dexmedetomidine. We think it unlikely that dexmedetomidine is directly toxic to kidneys. More likely, dexmedetomidine impairs renal perfusion via hypotension which we did not characterise in detail.
+
+We could have increased the sensitivity of blood pressure to indirectly detect reduced perfusion by analysing it as a continuous variable rather than dichotomously. We could have increased the power of our trial and increased the generalisability of our results by recruiting participants from many hospitals. A serious limitation is that we recruited too few participants to reliably exclude useful reductions in delirium by dexmedetomidine because we unrealistically anticipated a relative rate reduction of 50%. We could have tested for delirium more frequently than twice daily, which would have increased our ability to detect delirium and to determine its duration – although patient cooperation would likely have suffered.
+
+In summary, we did not detect a reduction in the incidence of postoperative delirium after heart valve surgery by dexmedetomidine. We could not exclude useful smaller reductions in delirium by dexmedetomidine, but our results are consistent with most existing evidence and suggest that if dexmedetomidine reduces delirium after cardiac surgery, the benefit is small. Dexmedetomidine might impair renal function.
+
+# Acknowledgements
+
+This trial was registered with the Chinese Clinical Trial Registry (ChiCTR 1900022583). We thank the anaesthetists who helped with this study, which was supported by grants from National Natural Science Foundation of China, National Clinical Research Centre of Cardiovascular Diseases, Fuwai Hospital, Chinese Academy of Medical Sciences and the National High‐Level Hospital Clinical Research Funding. No competing interests declared.
+
+# References

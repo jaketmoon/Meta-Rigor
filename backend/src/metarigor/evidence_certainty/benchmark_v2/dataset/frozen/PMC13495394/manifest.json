@@ -1,0 +1,58 @@
+{
+  "article": {
+    "doi": "10.1186/s12872-026-06135-7",
+    "license_text": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "pmcid": "PMC13495394",
+    "pmid": "42298423",
+    "title": "Intravascular imaging-guided versus angiography-guided percutaneous coronary intervention in multivessel coronary artery disease: a systematic review, meta-analysis, and trial sequential analysis of randomized controlled trials"
+  },
+  "candidate": {
+    "line_count": 68,
+    "path": "frozen/PMC13495394/candidate.txt",
+    "sha256": "b860672c89f1425e646b6668fa47a75d0ccded2ceaa427e5cf4c42d6f36ee920"
+  },
+  "external_comparator": {
+    "path": "frozen/PMC13495394/external-comparator.txt",
+    "removed_node_count": 6,
+    "sha256": "4b77448ca4ab5f66788c0f73c5571e1b1fd25eac0b3f58ddbb0a0162f0a75d86"
+  },
+  "freezer": {
+    "id": "metarigor-ec-review-jats-freezer",
+    "version": "1.1.0"
+  },
+  "raw_source": {
+    "path": "sources/PMC13495394.xml",
+    "sha256": "5f11d92b0e7fbac441aa6001c450fda182fd65bc095009d0f59038c27db00b2c"
+  },
+  "redacted_evidence_tables": [],
+  "removed_nodes": [
+    {
+      "node_id": "Sec8",
+      "tag": "sec"
+    },
+    {
+      "node_id": "Sec13",
+      "tag": "sec"
+    },
+    {
+      "node_id": "Par55",
+      "tag": "p"
+    },
+    {
+      "node_id": "Par65",
+      "tag": "p"
+    },
+    {
+      "node_id": "Par10",
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    }
+  ],
+  "retrieved_on": "2026-08-31",
+  "schema_version": "1.0.0",
+  "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC13495394&retmode=xml"
+}

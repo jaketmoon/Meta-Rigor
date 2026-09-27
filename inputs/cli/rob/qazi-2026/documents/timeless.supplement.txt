@@ -1,0 +1,912 @@
+[DOCLING_PAGE 1]
+
+Supplementary Appendix
+
+Supplement to: Albers GW, Jumaa M, Purdon B, et al. Tenecteplase for stroke at 4.5 to 24 hours with perfusionimaging selection. N Engl J Med 2024;390:701-11. DOI: 10.1056/NEJMoa2310392
+
+This appendix has been provided by the authors to give readers additional information about the work.
+
+[DOCLING_PAGE 2]
+
+Tenecteplase for stroke at 4.5 to 24 hours with perfusion-imaging selection
+
+Supplementary Appendix
+
+Table of Contents
+
+[DOCLING_TABLE rows=13 columns=2]
+|  | Page |
+| TIMELESS Primary Investigators, Study Sites, and Enrollment | 3 |
+| Supplementary Methods | 15 |
+| Figure S1. CONSORT Diagram for the TIMELESS Trial | 19 |
+| Figure S2. Distribution of Modified Rankin Scale Score at 90-Day Follow-Up in Per-Protocol Population | 20 |
+| Figure S3. Kaplan-Meier Curves for Time to Death: Intent-to- Treat Population | 21 |
+| Table S1. Additional Clinical Characteristics | 22 |
+| Table S2. Representativeness of the TIMELESS Trial | 24 |
+| Table S3. Summary of Proportional Odds Analysis for Ordinal Modified Rankin Scale at Day 90: Intent-to-Treat Population | 28 |
+| Table S4. Additiona l Secondary Efficacy Outcomes: Intent-to- Treat Population | 30 |
+| Table S5. Summary of Exploratory Outcomes: Intent-to-Treat Population | 31 |
+| Table S6 . Safety Summary: Safety Population | 36 |
+| Table S7. List of Patients With Classification of Serious Adverse Events and Relationship With Intravenous Tenecteplase | 37 |
+[/DOCLING_TABLE]
+
+2
+
+[DOCLING_PAGE 3]
+
+TIMELESS Primary Investigators, Study Sites, and Enrollment
+
+[DOCLING_TABLE rows=8 columns=5]
+| Primary Investigator(s) | Hospital Name | Tenecteplase 0.25 mg/kg (n=228) | Placebo (n=230) | All (n=458) |
+| Canada |  | 20 (8.8%) | 27 (11.7%) | 47 (10.3%) |
+| Shuaib, Ashfaq* | University of Alberta | 18 (7.9%) | 24 (10.4%) | 42 (9.2%) |
+| Catanese, Luciana* | Hamilton General Hospital | 1 (0.4%) | 3 (1.3%) | 4 (0.9%) |
+| Legault, Catherine* | Montreal Neurological Institute | 1 (0.4%) | 0 | 1 (0.2%) |
+| United States |  | 208 (91.2%) | 203 (88.3%) | 411 (89.7%) |
+| Jumaa, Mouhammad* | ProMedica Toledo Hospital | 26 (11.4%) | 20 (8.7%) | 46 (10.0%) |
+| Streib, Christopher* | Fairview Southdale | 14 (6.1%) | 19 (8.3%) | 33 (7.2%) |
+[/DOCLING_TABLE]
+
+3
+
+[DOCLING_PAGE 4]
+
+[DOCLING_TABLE rows=7 columns=5]
+| Kim, Minjee* Mendelson, Scott Prabhakaran, Shyam Ruff, Ilana | Northwestern University | 9 (3.9%) | 20 (8.7%) | 29 (6.3%) |
+| Froehler, Michael* | Vanderbilt University | 15 (6.6%) | 7 (3.0%) | 22 (4.8%) |
+| Sangha, Navdeep* | Kaiser Permanente Los Angeles | 8 (3.5%) | 8 (3.5%) | 16 (3.5%) |
+| Schwartz, Neil* | Stanford University Medical Center | 7 (3.1%) | 5 (2.2%) | 12 (2.6%) |
+| Kircher, Charles* Khatri, Pooja | University of Cincinnati | 8 (3.5%) | 3 (1.3%) | 11 (2.4%) |
+| Clark, Wayne* | Oregon Health and Science University | 7 (3.1%) | 4 (1.7%) | 11 (2.4%) |
+| Gropen, Toby* | University of Alabama at Birmingham | 4 (1.8%) | 6 (2.6%) | 10 (2.2%) |
+[/DOCLING_TABLE]
+
+4
+
+[DOCLING_PAGE 5]
+
+[DOCLING_TABLE rows=6 columns=5]
+| Koch, Sebastian* | Jackson Memorial Hospital | 3 (1.3%) | 7 (3.0%) | 10 (2.2%) |
+| Streib, Christopher* | University of Minnesota Medical Center Fairview | 4 (1.8%) | 5 (2.2%) | 9 (2.0%) |
+| Kim-Tenser, May* Sanossian, Nerses | University of Southern California Medical Center | 6 (2.6%) | 2 (0.9%) | 8 (1.7%) |
+| Tememe, Danoushka* Jadhav, Ashutosh Molyneaux, Bradley | University of Pittsburgh Medical Center | 2 (0.9%) | 6 (2.6%) | 8 (1.7%) |
+| Solenski, Nina* | University of Virginia | 4 (1.8%) | 4 (1.7%) | 8 (1.7%) |
+| Khan, Nadeem* Khan, Muhib | Spectrum Health Hospitals | 5 (2.2%) | 3 (1.3%) | 8 (1.7%) |
+[/DOCLING_TABLE]
+
+5
+
+[DOCLING_PAGE 6]
+
+[DOCLING_TABLE rows=8 columns=5]
+| Holder, Derek* Lee, Jin-Moo | Washington University | 5 (2.2%) | 2 (0.9%) | 7 (1.5%) |
+| Vora, Nirav* | Riverside Methodist Hospital | 4 (1.8%) | 3 (1.3%) | 7 (1.5%) |
+| Goldszmidt, Adrian* | Sinai Hospital of Baltimore | 3 (1.3%) | 4 (1.7%) | 7 (1.5%) |
+| Grigoryan, Mikayel* | Adventist Health Glendale | 3 (1.3%) | 3 (1.3%) | 6 (1.3%) |
+| Song, Shlee* | Cedars-Sinai Medical Center | 3 (1.3%) | 3 (1.3%) | 6 (1.3%) |
+| Barreto, Andrew* Savitz, Sean | University of Texas at Houston | 4 (1.8%) | 2 (0.9%) | 6 (1.3%) |
+| Sangha, Navdeep* | Kaiser Permanente Fontana | 4 (1.8%) | 2 (0.9%) | 6 (1.3%) |
+| Meyer, Brett* | UCSD Hillcrest | 4 (1.8%) | 2 (0.9%) | 6 (1.3%) |
+[/DOCLING_TABLE]
+
+6
+
+[DOCLING_PAGE 7]
+
+[DOCLING_TABLE rows=8 columns=5]
+| Lafranchise, Eugene* Frank | Saint Thomas Health | 2 (0.9%) | 4 (1.7%) | 6 (1.3%) |
+| Kasner, Scott* | University of Pennsylvania | 1 (0.4%) | 4 (1.7%) | 5 (1.1%) |
+| Kirmani, Jawad* | JFK Neuroscience Institute | 2 (0.9%) | 3 (1.3%) | 5 (1.1%) |
+| Uchino, Ken* | Cleveland Clinic | 2 (0.9%) | 3 (1.3%) | 5 (1.1%) |
+| Slavin, Sabreena* | University Of Kansas Medical Center | 3 (1.3%) | 2 (0.9%) | 5 (1.1%) |
+| Sangha, Navdeep* | Kaiser Permanente Ontario | 2 (0.9%) | 3 (1.3%) | 5 (1.1%) |
+| Hassan, Ameer* | Valley Baptist Medical Center | 3 (1.3%) | 1 (0.4%) | 4 (0.9%) |
+| Aghaebrahim, Amin* Hanel, Richardo | Baptist Medical Center Jacksonville | 2 (0.9%) | 2 (0.9%) | 4 (0.9%) |
+[/DOCLING_TABLE]
+
+7
+
+[DOCLING_PAGE 8]
+
+[DOCLING_TABLE rows=6 columns=5]
+| Teleb, Mohamed* | Banner Desert Medical Center | 1 (0.4%) | 3 (1.3%) | 4 (0.9%) |
+| Furie, Karen* Cutting, Shawna Yaghi, Shadi | Rhode Island Hospital | 1 (0.4%) | 3 (1.3%) | 4 (0.9%) |
+| Sangha, Navdeep* | Kaiser Permanente Anaheim (E. La Palma) | 3 (1.3%) | 1 (0.4%) | 4 (0.9%) |
+| Badruddin, Aamir* | Community Hospital | 1 (0.4%) | 3 (1.3%) | 4 (0.9%) |
+| Lewandowski, Christopher* | Henry Ford Hospital | 2 (0.9%) | 1 (0.4%) | 3 (0.7%) |
+| Meyer, Brett* | UCSD Medical Center La Jolla | 2 (0.9%) | 1 (0.4%) | 3 (0.7%) |
+[/DOCLING_TABLE]
+
+8
+
+[DOCLING_PAGE 9]
+
+[DOCLING_TABLE rows=6 columns=5]
+| Milling, Truman* Miley, Jefferson | Dell Seton Medical Center at the University of Texas | 1 (0.4%) | 2 (0.9%) | 3 (0.7%) |
+| Streib, Christopher* | Fairview Ridges Hospital | 2 (0.9%) | 1 (0.4%) | 3 (0.7%) |
+| Kansara, Amit* | Providence Portland Medical Center | 1 (0.4%) | 2 (0.9%) | 3 (0.7%) |
+| Sethi, Pramod* | Guilford Neurologic Research | 3 (1.3%) | 0 | 3 (0.7%) |
+| Schneider, Alexander* | Mission Hospitals Inc | 1 (0.4%) | 1 (0.4%) | 2 (0.4%) |
+| Kansara, Amit* | Providence Saint Vincent's Medical Center | 1 (0.4%) | 1 (0.4%) | 2 (0.4%) |
+[/DOCLING_TABLE]
+
+9
+
+[DOCLING_PAGE 10]
+
+[DOCLING_TABLE rows=6 columns=5]
+| Chaudhary, Neeraj* | University of Michigan Medical Center | 2 (0.9%) | 0 | 2 (0.4%) |
+| Willey, Joshua* | Columbia University Medical Center | 1 (0.4%) | 1 (0.4%) | 2 (0.4%) |
+| Shah, Ruchir* | Chattanooga Center for Neurologic Research | 1 (0.4%) | 1 (0.4%) | 2 (0.4%) |
+| Rochestie, Dustin* Stiefel, Michael | Capital Health Regional Medical Center | 0 | 2 (0.9%) | 2 (0.4%) |
+| Behrouz, Reza* | University of Texas Health Science Center at San Antonio | 1 (0.4%) | 1 (0.4%) | 2 (0.4%) |
+| Chojecka, Pola* Koenig, Matt | The Queen's Medical Center | 2 (0.9%) | 0 | 2 (0.4%) |
+[/DOCLING_TABLE]
+
+10
+
+[DOCLING_PAGE 11]
+
+[DOCLING_TABLE rows=7 columns=5]
+| Tememe, Danoushka* | UPMC Passavant Hospital | 1 (0.4%) | 1 (0.4%) | 2 (0.4%) |
+| Tememe, Danoushka* | UPMC Mercy | 1 (0.4%) | 1 (0.4%) | 2 (0.4%) |
+| Barazangi, Nobl* | Mills-Peninsula Medical Center | 1 (0.4%) | 1 (0.4%) | 2 (0.4%) |
+| Mittal, Manoj* | Sutter Medical Group, Neurology | 1 (0.4%) | 1 (0.4%) | 2 (0.4%) |
+| Lewandwski, Christopher* | Henry Ford Macomb Hospital Clinton Township | 0 | 2 (0.9%) | 2 (0.4%) |
+| Kolikonda, Murali* | Baptist Health Lexington | 0 | 2 (0.9%) | 2 (0.4%) |
+| Kim, Ok-kyung* Stephens, Raymond | John Muir Medical Center Walnut Creek | 1 (0.4%) | 0 | 1 (0.2%) |
+[/DOCLING_TABLE]
+
+11
+
+[DOCLING_PAGE 12]
+
+[DOCLING_TABLE rows=6 columns=5]
+| Mehta, Tapan* Nouh, Amre | Hartford Hospital | 1 (0.4%) | 0 | 1 (0.2%) |
+| Urrutia, Victor* | Johns Hopkins | 0 | 1 (0.4%) | 1 (0.2%) |
+| Stapleton, Christopher* Leslie-Mazwi, Thabele Schwamm, Lee | Massachusetts General Hospital | 1 (0.4%) | 0 | 1 (0.2%) |
+| Hasan, Rashedul* Mir, Osman* | Baylor University Medical Center | 1 (0.4%) | 0 | 1 (0.2%) |
+| Song, Shlee* | Torrance Memorial Medical Center | 0 | 1 (0.4%) | 1 (0.2%) |
+| Kim, Ok-kyung* | John Muir Health, Concord Medical Center | 0 | 1 (0.4%) | 1 (0.2%) |
+[/DOCLING_TABLE]
+
+12
+
+[DOCLING_PAGE 13]
+
+[DOCLING_TABLE rows=7 columns=5]
+| Hanna, John* | Atlantic Health System Chilton Medical Center | 1 (0.4%) | 0 | 1 (0.2%) |
+| Mittal, Manoj* | Sutter Davis Hospital | 1 (0.4%) | 0 | 1 (0.2%) |
+| Srivastava, Arth* Lopes, Demetrius | Advocate Lutheran General Hospital | 1 (0.4%) | 0 | 1 (0.2%) |
+| Jumaa, Mouhammad* | ProMedica Monroe Regional Hospital | 0 | 1 (0.4%) | 1 (0.2%) |
+| Kim, Jae* | Sanford Neurology Clinic | 0 | 1 (0.4%) | 1 (0.2%) |
+| Srivastava, Arth* | Advocate Christ Medical Center | 1 (0.4%) | 0 | 1 (0.2%) |
+| Lafranchise, Eugene Frank* | Saint Thomas Rutherford Hospital | 0 | 1 (0.4%) | 1 (0.2%) |
+[/DOCLING_TABLE]
+
+13
+
+[DOCLING_PAGE 14]
+
+[DOCLING_TABLE rows=4 columns=5]
+| Sangha, Navdeep* | Kaiser Permanente South Bay Medical Center | 0 | 1 (0.4%) | 1 (0.2%) |
+| Majjhoo, Aniel* | McLaren Flint | 0 | 1 (0.4%) | 1 (0.2%) |
+| Rahangdale, Rahul* | Ascension St. John | 0 | 1 (0.4%) | 1 (0.2%) |
+| Singh, Amita* | University of Florida Health at Shands | 1 (0.4%) | 0 | 1 (0.2%) |
+[/DOCLING_TABLE]
+
+* Current investigator.
+
+14
+
+[DOCLING_PAGE 15]
+
+Supplementary Methods:
+
+Data management and site monitoring was overseen by Genentech, but the actual services of both were outsourced. The interim statistical reporting was done by an independent data coordinating center, which followed the Genentech Statistical Analysis Plan. The independent data monitoring committee (iDMC) reviewed the data, and the sponsor remained blinded during the trial.
+
+The sample-size calculation assumption was developed based on the results from the DEFUSE 3 and EXTEND-IA TNK trials. With this assumption, we estimated that 456 patients, after accounting for a 5% dropout rate, would provide at least 90% power to detect the difference of a shift towards improvement (ie, a lower score) in the 90-day modified Rankin Scale between the two treatment arms at a two-sided 0.049 significance level, after adjusting for one interim efficacy analysis. Type I error levels were determined according to the Lan-DeMets theory for alpha-spending function that approximates the O'Brien-Fleming boundary.
+
+Two safety-only interim analyses were planned and conducted when the first 25 and 50 patients had completed the 72-to-96-hours visit assessment after randomization. Additionally, per request from the independent data monitoring committee, two safety data reviews were later added that were planned to occur when the first 100 and 200 patients had completed the 72-to-96-hours visit assessment after randomization. Nonbinding sequential boundaries were used to monitor the symptomatic intracranial hemorrhage (sICH) rate at those interim safety reviews in order to halt the trial if an excessive number of sICH cases was observed.
+
+Moreover, efficacy analyses were adjusted for baseline factors, which included the randomization stratification factors (i.e., baseline age group, vessel occlusion location, baseline NIHSS, and endovascular capability at the enrolling site), protocol version (version 1-4 vs 5), and the intention to perform EVT at the time of randomization.
+
+15
+
+[DOCLING_PAGE 16]
+
+The final set of adjustment variables varied by the outcome being analyzed and was determined by a pre-specified algorithm that ensured a minimum sample size was met in all cells formed by the combination of the adjustments. Missing data in the primary outcome were imputed using a last observation carry forward (LOCF) approach of the most recent post study baseline. Patients who had no post-baseline mRS value were not imputed and excluded from the analysis.
+
+In Table 2, analyses were adjusted for protocol version (14 vs 5) and age (≤70 vs >70 years) for all outcomes. In addition, modified Rankin Scale at Day 90, functional independence at Day 90, recanalization at 24 hours, reperfusion at 24 hours, and good recovery in Glasgow Outcome Score at Day 90 were adjusted for type of occlusion (ICA/M1 vs M2), and reperfusion at the conclusion of EVT was adjusted for baseline NIHSS score (≤15 vs >15).
+
+In Figure 2, age subgroups were adjusted for protocol version (1-4 vs 5) and baseline NIHSS (≤15 vs >15); the subgroup with age <80 years was additionally adjusted for type of occlusion (ICA/M1 vs M2). NIHSS subgroups were adjusted for protocol version (1-4 vs 5) and ag e (≤70 vs >70 years); the NIHSS ≤15 subgroup was additionally adjusted for type of occlusion (ICA/M1 vs M2). Subgroups for time between stroke onset to randomization were adjusted for protocol version (1-4 vs 5) and type of occlusion (ICA/M1 vs M2); additionally, the subgroup that had <16 hours between stroke onset to randomization was adjusted for age (≤70 vs >70 years). Subgroups for planned EVT (planned or not planned) were adjusted for protocol version (14 vs 5); additionally, the subgroup with planned EVT was also adjusted for type of occlusion (ICA/M1 vs M2) and age (≤70 vs >70 years). Both subgroups for performed EVT (performed or not performed) were adjusted for protocol version (14 vs 5); additionally, the subgroup that underwent EVT was also adjusted for age (≤70 vs >70 years) and baseline NIHSS (≤15 vs >15). For the subgroup for which EVT was not performed, the model was also adjusted for EVT planned (yes vs no). All three subgroups for elapsed time between trial drug administration and groin puncture were adjusted for protocol version (14 vs 5); additionally, the ≤6 minutes subgroup was also adjusted for baseline NIHSS (≤15 vs >15), and the >6 to ≤22 minutes and >22 minutes subgroups were also adjusted for age (≤70 vs >70 years). All three subgroups for baseline infarct volume were adjusted for age (≤70 vs >70 years); additionally, the subgroups with baseline infarct volume <20 mL and ≥ 20 mL to <50 mL were also adjusted for protocol version (1 -4 vs 5). The subgroup with baseline infarct volume <20 mL was also adjusted for type of occlusion (ICA/M1 vs M2). Each occlusion subgroup was adjusted for age (≤70 vs >70 years); additionally, the M1 and M2 subgroups were also adjusted for protocol version (1-4 vs 5), and the M1 subgroup was also adjusted for baseline NIHSS (≤15 vs >15).
+
+16
+
+[DOCLING_PAGE 17]
+
+Hypothesis testing of the secondary efficacy outcomes would be performed only if the primary efficacy analysis was statistically significant. To account for multiplicity, tests of the secondary outcomes were to be conducted sequentially, as detailed in the main text above and in study Statistical Analysis Plan, until a negative result indicated by a P value >0.049. P values were not provided for any subsequent analyses of the secondary outcomes following a negative test and the 95% CIs should not be used for hypothesis testing.
+
+Multiple imputation was conducted as sensitivity analysis for the primary and several secondary outcomes (i.e., functional independence at 90 days, 24 hours recanalization, 24 hours reperfusion, and reperfusion at the conclusion of EVT), respectively.
+
+For the primary outcome, mRS score at 90 days, missing data were imputed using a sequential regression method. Particularly, mRS was sampled from a multinomial distribution, that was estimated by ordinal logistic regressions, using baseline covariates and the previous mRS value. The ordinal logistic regressions estimated the cumulative odds for achieving an mRS outcome of at most 𝑘𝑘 :
+
+17
+
+[DOCLING_PAGE 18]
+
+𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙 [Pr( 𝑚𝑚𝑚𝑚𝑆𝑆 𝑡𝑡 ≤ 𝑘𝑘 )] = 𝛼𝛼 𝑘𝑘𝑘𝑘 + 𝑋𝑋𝛽𝛽 𝑡𝑡 + 𝑚𝑚𝑚𝑚𝑆𝑆 𝑡𝑡-1 𝛿𝛿 𝑡𝑡 , where 𝑡𝑡 is the time point index (Day 5, Day 30, Day 90), 𝑘𝑘 = 0 to 5, 𝛼𝛼 𝑘𝑘𝑘𝑘 are intercepts, 𝑋𝑋 is the design matrix for the baseline covariates and 𝛽𝛽 𝑡𝑡 is the corresponding regression coefficient vector, and 𝑚𝑚𝑚𝑚𝑆𝑆 𝑡𝑡-1 is the previous mRS result (baseline, Day 5 or hospital discharge, or Day 30) with its coefficient 𝛿𝛿 𝑡𝑡 . The list of covariates included age, sex (male vs female), race (white vs. non-white), baseline NIHSS, occlusion type (ICA vs M1 vs M2) and discharge destination (home vs. non-home). Separate regressions were fitted for each treatment group to avoid any assumptions about the treatment effect.
+
+The same imputation datasets were used for the analysis of functional independence at 90 days, which is just a dichotomization of the primary endpoint (i.e., mRS ≤ 2 vs mRS >2).
+
+For 24 hours recanalization, 24 hours reperfusion, and reperfusion at the conclusion of EVT, missing data were imputed using a logistic regression model that included age, sex (male vs female), race (white vs. non-white), baseline NIHSS, occlusion type (ICA vs M1 vs M2), and EVT performed status (yes vs no) (except for the imputation of reperfusion at the conclusion of EVT, for which all patients included in the analysis received EVT) as covariates. The imputation model is specified as follows: 𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙 [Pr( 𝑌𝑌 = 1)] = 𝛼𝛼0 + 𝑋𝑋𝑋𝑋 , where 𝑌𝑌 represents the binary outcome variable (i.e., recanalization or reperfusion at 24 hours and reperfusion at the conclusion of EVT) with value 1 indicates the favorable outcome, 𝛼𝛼0 is the intercept, 𝑋𝑋 is the design matrix for the baseline covariates, and 𝛽𝛽 is the corresponding regression coefficient vector.
+
+For all outcomes, 100 independent imputation replicates were generated, based on which statistical inferences were drawn using Rubin's Rules.
+
+18
+
+[DOCLING_PAGE 19]
+
+Figure S1. CONSORT Diagram for the TIMELESS Trial
+
+* Intent-to-treat population.
+
+† The safety population included 218 patients who received tenecteplase and 214 who received placebo. One patient randomized to placebo was inadvertently given tenecteplase.
+
+19
+
+[DOCLING_PAGE 20]
+
+Figure S2. Distribution of Modified Rankin Scale Score at 90-Day Follow-Up in PerProtocol Population*
+
+cOR, common odds ratio; mRS, modified Rankin Scale; LOCF, last observation carried forward.
+
+The per-protocol population was defined as all patients from the intent-to-treat population who did not have any key major protocol deviations.
+
+† cOR was adjusted for protocol version (14 vs 5), age (≤70 vs >70 years), and type of occlusion (ICA/M1 vs M2), with OR >1 corresponding to values favoring tenecteplase.
+
+Missing data were imputed with LOCF. P value is for the Wald test of the null hypothesis cOR=1.
+
+20
+
+[DOCLING_PAGE 21]
+
+Figure S3. Kaplan-Meier Curves for Time to Death: Intent-to-Treat Population
+
+IV, intravenous.
+
+P value is from the stratified log-rank test, adjusted for protocol version (1-4 vs 5), age (≤70 vs >70 years) and type of occlusion (ICA/M1 vs M2). P-value was not adjusted for multiple comparisons, and should not be used for hypothesis testing.
+
+21
+
+[DOCLING_PAGE 22]
+
+[DOCLING_TABLE rows=3 columns=3]
+| Characteristic | Tenecteplase 0.25 mg/kg (n=228) | Placebo (n=230) |
+| Ethnicity, n (%) |  |  |
+| Hispanic or Latino Not Hispanic or Latino Not reported Unknown Time from LKW to trial drug administration, median (IQR), h Time from treatment to clot contact, median (IQR), min EVT planned, n (%) Ischemic core, median (IQR), mL* Tmax >6s lesion | 17 (7.5) 201 (88.2) 4 (1.8) 6 (2.6) 12.7 (9.2-15.8) 33.0 (24.0-53.00) (n=161) 203 (89.0) 7.0 (0.0-22.5) 92.0 (56.0-130.0) (n=227) | 22 (9.6) 197 (85.7) 4 (1.7) 7 (2.8) 13.0 (9.0-16.9) 38.5 (20.5-53.0) (n=160) 197 (85.7) 5.0 (0.0-15.0) 93.0 (50.0-144.0) |
+[/DOCLING_TABLE]
+
+ASPECTS, Alberta Stroke Program Early CT Score ; EVT, endovascular thrombectomy; IQR, interquartile range; LKW, last known well; Tmax, time to maximum of the residue function.
+
+22
+
+[DOCLING_PAGE 23]
+
+* Values for the ischemic core volume (CT perfusion relative cerebral blood flow <30% of normal brain tissue or MRI diffusion imaging apparent diffusion coefficient <620×10 6 mm 2 per second) and the critically hypoperfused perfusion lesion (time to maximum, >6 seconds) were calculated by RAPID software.
+
+† ASPECTS is a 10-point quantitative topographic CT scan score used for patients with MCA stroke. The ASPECTS results were provided by the central reader.
+
+23
+
+[DOCLING_PAGE 24]
+
+[DOCLING_TABLE rows=5 columns=2]
+| Category | Content |
+| Disease being investigated | Acute ischemic stroke (AIS) |
+| Special considerations related to: |  |
+| Sex | In the US, stroke is the fifth leading cause of death for women. Women have a higher prevalence, a higher annual incidence, and a greater lifetime risk of stroke than men. Approximately 20% of women in the US aged 55 to 75 years will have a stroke. |
+| Race or ethnic group | Stroke is a leading cause of death for Americans, but the risk of having a stroke varies with race and ethnicity. Black or African American individuals are at greater risk of having a first stroke, have a higher incidence of AIS, and are more likely to die due to stroke than individuals of other races. While the rates of death due to stroke have declined among |
+[/DOCLING_TABLE]
+
+24
+
+[DOCLING_PAGE 25]
+
+most races and ethnicities, the death rate due to stroke has increased for Hispanic individuals. Black or African American and Hispanic women may be at particular risk of stroke. Higher proportions of Black or African American women are diagnosed with risk factors for stroke, such as high blood pressure, obesity, diabetes, and sickle cell disease than White women. A higher proportion of Black or African American women also smoke, which increases the risk of stroke. Higher proportions of Hispanic women have risk factors such as high blood pressure, obesity, or diabetes.
+
+Despite the need for stroke prevention and control of risk factors for all patients at risk of stroke, some sex, racial, and ethnic groups may require special attention and aggressive stroke prevention strategies.
+
+25
+
+[DOCLING_PAGE 26]
+
+[DOCLING_TABLE rows=2 columns=2]
+| Geography | Site feasibility targeted in areas with higher incidence of stroke death in Hispanic and Black or African American adults. |
+| Other considerations | TIMELESS was committed to enhancing the diversity of patients enrolled in the trial. All sites were trained on optimizing opportunities for diverse recruitment and enrollment to better represent minority patient populations in clinical trial trials. The trial team reviewed the potential barriers for enrollment and provided actionable insights to address the barriers. ● Enabled patient participation through financial support for traveling, parking, etc ● Addressed site staff assumptions that the patient's legally authorized representative would not be willing for the patient to participate. Sites were requested to |
+[/DOCLING_TABLE]
+
+26
+
+[DOCLING_PAGE 27]
+
+[DOCLING_TABLE rows=2 columns=2]
+|  | avoid any such assumptions and to consider every single potential patient from the underserved population. |
+| Overall representativeness of this trial | In the US, the percentage of White individuals in the general population (as reported by the Center for Disease Control) is 75.8% vs 74.0% of patients enrolled in TIMELESS; the percentage of Black or African American individuals in the general population is 13.6% vs 13.8% in the TIMELESS cohort. Overall, the TIMELESS trial population had a racial composition that closely mimics the real-world population of patients with AIS, although the TIMELESS trial had a slightly higher percentage of Hispanic or Latino patients. |
+[/DOCLING_TABLE]
+
+27
+
+[DOCLING_PAGE 28]
+
+[DOCLING_TABLE rows=10 columns=5]
+|  | Tenecteplase 0.25 mg/kg (n=228) | Placebo (n=230) | Common Odds Ratio (95% CI) | P value |
+| mRS at Day 90, n (%) |  |  |  |  |
+| n (observed + imputed) | 226 | 229 |  |  |
+| 0 | 35 (15.5) | 30 (13.5) | 1.13 (0.813-1.56) | 0.48 |
+| 1 | 37 (16.8) | 29 (13.1) |  |  |
+| 2 | 27 (13.7) | 34 (15.7) |  |  |
+| 3 | 32 (15.0) | 41 (17.9) |  |  |
+| 4 | 27 (12.8) | 31 (14.8) |  |  |
+| 5 | 14 (6.6) | 12 (5.7) |  |  |
+| 6 (death) | 44 (19.5) | 44 (19.2) |  |  |
+[/DOCLING_TABLE]
+
+mRS, modified Rankin Scale ; LOCF, last observation carried forward.
+
+Death prior to Day 90 is included as mRS=6. Treatment policy strategy is applied to non-COVID-19 and COVID-19 related intercurrent events. Missing mRS response at Day 90 other than death is imputed using LOCF.
+
+28
+
+[DOCLING_PAGE 29]
+
+n = number of patients with observed mRS values at Day 90 (observed + imputed). Percentages are based on n. 3 patients did not have a post-baseline mRS and were excluded from the analysis. Common Odds ratio is adjusted for protocol version (1-
+
+4 vs. 5), age (<=70 vs. > 70 years of age), and type of occlusion (ICA/M1 vs. M2), with OR > 1 corresponding to values favoring tenecteplase.
+
+29
+
+[DOCLING_PAGE 30]
+
+[DOCLING_TABLE rows=5 columns=4]
+| Outcome | Tenecteplase 0.25 mg/kg (n=228) | Placebo (n=230) | Adjusted Odds Ratio or Difference (95% CI) |
+| Secondary efficacy outcomes |  |  |  |
+| NIHSS score at Day 90, median (IQR) | 1 (0-4) (n=79)* | 1 (0-5) (n=89)* | 0 (-1.0 -0.0) † |
+| Barthel Index score ≥95 at Day 90, n/N (%) | 49/81 (60.5) | 52/89 (58.4) | 1.18 (0.62-2.24) |
+| Good recovery in Glasgow Outcome | 46/126 (36.5) | 41/133 (30.8) | 1.39 (0.82-2.37) |
+[/DOCLING_TABLE]
+
+IQR, interquartile range; NIHSS, National Institutes of Health Stroke Scale; n/N, number
+
+of patients who achieved binary efficacy measure/number of evaluable patients.
+
+Observed analysis, missing data were not imputed. Unless otherwise noted, the number of evaluable patients for each measure was the same as the total number of patients in each group. The widths of the confidence intervals were not adjusted for multiple comparisons, and the reported confidence intervals should not be used for hypothesis testing.
+
+* The number of evaluable patients is shown in parenthesis.
+
+† Median difference (95% CI).
+
+‡ The Glasgow Outcome Scale was rescaled from observed data so that 1=good recovery and 5=death. Good recovery score=1 on rescaled data.
+
+30
+
+[DOCLING_PAGE 31]
+
+[DOCLING_TABLE rows=19 columns=4]
+| Outcome | Tenecteplase 0.25 mg/kg | Placebo (n=230) | Adjusted Odds Ratio or Difference (95% CI) |
+| mRS at Day 90 by occlusion type (number of patients*) | mRS at Day 90 by occlusion type (number of patients*) | mRS at Day 90 by occlusion type (number of patients*) | mRS at Day 90 by occlusion type (number of patients*) |
+| ICA/M1 | 138 | 143 | 1.39 (0.92 to 2.11) |
+| M2 | 88 | 83 | 0.76 (0.45 to 1.30) |
+| mRS at Day 90 by randomization site type (number of patients*) | mRS at Day 90 by randomization site type (number of patients*) | mRS at Day 90 by randomization site type (number of patients*) | mRS at Day 90 by randomization site type (number of patients*) |
+| ECC | 219 | 220 | 1.09 (0.78 to 1.52) |
+| nECC | 7 | 9 | 2.53 (0.42 to 15.16) |
+| mRS at Day 30 (number of patients*) | mRS at Day 30 (number of patients*) | mRS at Day 30 (number of patients*) | mRS at Day 30 (number of patients*) |
+| n | 226 | 228 | 1.08 (0.78 to 1.49) |
+| mRS at Day 30 by randomization site type (number of patients*) | mRS at Day 30 by randomization site type (number of patients*) | mRS at Day 30 by randomization site type (number of patients*) | mRS at Day 30 by randomization site type (number of patients*) |
+| ECC | 219 | 219 | 1.07 (0.77 to 1.49) |
+| nECC | 7 | 9 | 1.58 (0.27 to 9.18) |
+| Final infarct volumes (72-92 hours post-baseline) | Final infarct volumes (72-92 hours post-baseline) | Final infarct volumes (72-92 hours post-baseline) | Final infarct volumes (72-92 hours post-baseline) |
+| n † | 216 | 218 |  |
+| Median (min, max), mL | 24.0 (0, 489) | 23.0 (0, 489) | -2.0 ‡ (-6.0, 3.0) |
+| Final infarct growth (72-92 hours post-baseline) | Final infarct growth (72-92 hours post-baseline) | Final infarct growth (72-92 hours post-baseline) | Final infarct growth (72-92 hours post-baseline) |
+| n † | 216 | 218 |  |
+| Median (min, max), mL | 12 (-60, 465) | 16 (-59, 483) | -5.0 ‡ (-9.1, -0.4) |
+| Planned thrombectomy not performed for nECC to ECC transfers | Planned thrombectomy not performed for nECC to ECC transfers | Planned thrombectomy not performed for nECC to ECC transfers | Planned thrombectomy not performed for nECC to ECC transfers |
+[/DOCLING_TABLE]
+
+31
+
+[DOCLING_PAGE 32]
+
+[DOCLING_TABLE rows=21 columns=4]
+| n § | 7 | 7 |  |
+| Planned thrombectomy not | 5 (71.4) | 6 (85.7) | 0.42 (0.03 to 6.06) |
+| performed, n (%) Readmission within 30 days of discharge | performed, n (%) Readmission within 30 days of discharge | performed, n (%) Readmission within 30 days of discharge | performed, n (%) Readmission within 30 days of discharge |
+| n ║ | 202 | 211 |  |
+| Readmitted within 30 days, | 2 (1.0) | 9 (4.3) | 4.43 (0.94 to 20.86) |
+| n (%) | n (%) | n (%) | n (%) |
+| Stroke sequelae | 1 (50.0) | 3 (33.3) |  |
+| Non-stroke sequelae | 0 | 3 (33.3) |  |
+| Other | 1 (50.0) | 3 (33.3) |  |
+| Patients requiring one pass with endovascular therapy device | Patients requiring one pass with endovascular therapy device | Patients requiring one pass with endovascular therapy device | Patients requiring one pass with endovascular therapy device |
+| n ¶ | 156 | 152 |  |
+| 1 pass required for final | 88 (56.4) | 80 (52.6) | 1.18 (0.75 to 1.85) |
+| TICI 2b/3, n (%) |  |  |  |
+| Neuro-QoL score at Day 90 | Neuro-QoL score at Day 90 | Neuro-QoL score at Day 90 | Neuro-QoL score at Day 90 |
+| Lower extremity function | Lower extremity function | Lower extremity function | Lower extremity function |
+| n | 53 | 44 |  |
+| Mean score (SD) | 46.9 (13.0) | 42.5 (13.6) | 4.77 # (-0.68 to 10.2) |
+| Depression | Depression | Depression | Depression |
+| n | 52 | 44 |  |
+| Mean score (SD) | 44.8 (8.1) | 47.2 (9.0) | -2.59 # |
+|  |  |  | (-6.07 to 0.89) |
+[/DOCLING_TABLE]
+
+32
+
+[DOCLING_PAGE 33]
+
+[DOCLING_TABLE rows=16 columns=4]
+| Ability to participate in social roles and activities | Ability to participate in social roles and activities | Ability to participate in social roles and activities | Ability to participate in social roles and activities |
+| n | 53 | 43 |  |
+| Mean score (SD) | 49.9 (10.8) | 44.8 (11.4) | 5.46 # (0.91 to 10.0) |
+| Cognitive function | Cognitive function | Cognitive function | Cognitive function |
+| n | 53 | 43 |  |
+| Mean score (SD) | 50.8 (12.4) | 47.2 (12.4) | 3.89 # (-1.22 to 9.01) |
+| Planned thrombectomy not performed | Planned thrombectomy not performed | Planned thrombectomy not performed | Planned thrombectomy not performed |
+| n** | 203 | 197 |  |
+| Planned thrombectomy not | 10 (4.9) | 2 (1.0) | 4.84 (1.03 to 22.65) |
+| Time to death (Kaplan-Meier analysis ‡‡ ) | Time to death (Kaplan-Meier analysis ‡‡ ) | Time to death (Kaplan-Meier analysis ‡‡ ) | Time to death (Kaplan-Meier analysis ‡‡ ) |
+|  | n (events) | n (events) | Difference in event-free |
+|  |  |  | rate (%) §§ |
+| Day 5 | 8 | 9 | 0.39 (-3.10 to 3.87) |
+| Day 30 | 33 | 33 | -0.28 (-6.80 to 6.24) |
+| Day 60 | 39 | 38 | -0.81 (-7.77 to 6.15) |
+| Day 90 | 44 | 41 | -1.77 (-9.06 to 5.51) |
+[/DOCLING_TABLE]
+
+ECC, Endovascular Capable Center; EVT, endovascular thrombectomy; ICA, internal carotid artery; ITT, inten t-totreat; mRS, modified Rankin Scale; nECC, non -Endovascular Capable Center; Neuro -QoL, Quality of Life in Neurological Disorders; NIHSS, National Institutes of Health Stroke Scale; TICI, Thrombolysis in Cerebral Infarction scale.
+
+33
+
+[DOCLING_PAGE 34]
+
+Note: Odds ratio values >1 favor tenecteplase. Efficacy analyses were adjusted for age (≤70 vs. >70 years) and protocol version (1 -4 vs. 5) unless otherwise specified. For mRS at Day 90 by randomization site type, mRS at Day 30, mRS at Day 30 by randomization site type, final infarct volume and growth, readmission within 30 days of discharge, planned thrombectomy not performed, and time to death they were additionally adjusted for the type of occlusion (ICA/M1 vs. M2), and for mRS at Day 90 by ICA/M1 subgroup and patients requiring one pass with endovascular therapy device for baseline NIHSS (≤15 vs. >15). Neuro -QoL Score at Day 90 was adjusted for protocol version (1-4 vs. 5) and for the type of occlusion (ICA/M1 vs. M2). Analyses involving the nECC subgroup and planned thrombectomy not performed for nECC to ECC transfers were not adjusted for any stratification factors. The exploratory outcomes mRS score by occlusion type at Day 90 and by randomization site at Day 30 and Day 90 are subgroup analyses of the primary efficacy outcomes. The widths of the confidence intervals were not adjusted for multiple comparisons, and the reported confidence intervals should not be used for hypothesis testing.
+
+* Number of patients with data (observed + imputed).
+
+† n refers to the number of patients with a measured infarct growth/volume obtained 7296 hours post-baseline or imaging scan obtained at discharge if patient discharged prior to 72-96 hours visit.
+
+‡ Median difference.
+
+§ Number of patients who were randomized at an nECC and transferred to an ECC for endovascular therapy.
+
+║ Total patients discharged from the hospital.
+
+¶ Number of endovascular patients for whom the EVT was performed and a final 2b/3 was achieved.
+
+34
+
+[DOCLING_PAGE 35]
+
+# Mean difference. ** Patients with thrombectomy planned. †† Due to partial or complete recanalization. ‡‡ The Kaplan-Meier plot is presented in Figure S3. §§ Kaplan-Meier estimate.
+
+35
+
+[DOCLING_PAGE 36]
+
+[DOCLING_TABLE rows=11 columns=3]
+|  | Tenecteplase 0.25 mg/kg (n=218) | Placebo (n=214) |
+| Patients with ≥1 AE, n (%) | 200 (91.7) | 195 (91.1) |
+| Total number of AEs | 982 | 934 |
+| Patients withdrawn due to AE, n (%) | 0 | 0 |
+| Patients with ≥1 SAE, n (%) | 91 (41.7) | 102 (47.7) |
+| SAEs in ≥2% of patients receiving |  |  |
+| tenecteplase |  |  |
+| Hypotension | 8 (3.7) | 0 |
+| Anemia | 7 (3.2) | 0 |
+| Brain edema | 7 (3.2) | 2 (0.9) |
+| Pneumonia | 5 (2.3) | 0 |
+[/DOCLING_TABLE]
+
+AE, adverse event; SAE, serious adverse event.
+
+36
+
+[DOCLING_PAGE 37]
+
+[DOCLING_TABLE rows=7 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+| 43 | M | White | Apr 2019 | Cerebral artery occlusion | 1 | 1 | 4 | N | 3 | Y | N | 4 |
+| 67 | M |  | May 2019 | Cerebrovascul ar disorder | 1 |  | 5 | N | 1 | Y | N | 1,2,3,4 |
+| 67 |  | Unknown |  | Urinary tract infection | 25 | 16 | 4 | N | 3 | Y | N | 3 |
+| 67 |  |  |  | Respiratory failure | 34 | 18 | 4 | N | 3 | Y | N | 3 |
+| 98 | F | White | May 2019 | Cerebral artery occlusion Cardio- respiratory | 2 17 |  | 3 5 | N N | 2 1 | N N | N N | 3 1 |
+| 90 | F | White | Jul 2019 | Air embolism | 1 | 6 | 3 | N | 4 | N | N | 6 |
+[/DOCLING_TABLE]
+
+37
+
+[DOCLING_PAGE 38]
+
+[DOCLING_TABLE rows=10 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+|  |  |  |  | Rib fracture | 58 | 28 | 2 | N | 3 | Y | N | 3 |
+|  |  |  |  | Sternal fracture | 58 | 28 | 2 | N | 3 | Y | N | 3 |
+|  |  |  |  | Urinary tract infection | 89 | 10 | 2 | N | 3 | Y | N | 3 |
+|  |  |  |  | Pneumonia | 90 | 9 | 3 | N | 3 | Y | N | 3 |
+| 77 | F | Black or African American | Jul 2019 | Cerebrovascular accident | 35 | 3 | 3 | N | 3 | N | N | 3 |
+|  |  |  |  | Coagulopathy | 1 |  | 4 | Y | 2 | Y | N | 2 |
+| 68 | M | White | Jul 2019 | Distributive shock Intracranial | 1 |  | 5 | Y | 1 | Y | N | 2,3 |
+|  |  |  |  | hemorrhage | 1 |  | 4 | Y | 2 | Y | N | 1,2,3 |
+|  |  |  |  | Renal failure | 1 |  | 4 | Y | 2 | Y | N | 3 |
+[/DOCLING_TABLE]
+
+38
+
+[DOCLING_PAGE 39]
+
+[DOCLING_TABLE rows=9 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+|  |  |  |  | Respiratory failure | 1 |  | 4 | N | 2 | Y | N | 3 |
+| 77 | F | White | Sep 2019 | Sepsis Fall | 6 24 | 8 | 3 1 | N N | 3 5 | Y Y | N N | 3 3 |
+| 66 | M | African | Sep 2019 | Stroke in evolution | 1 |  | 5 | N | 1 | Y | N | 1 |
+| 66 | M | African | Sep 2019 | Subarachnoid hemorrhage | 1 |  | 4 | Y | 2 | Y | N | 2 |
+| 66 | M | African | Sep 2019 | Bradycardia Hypotension Pulmonary | 3 4 |  | 4 4 | N N | 2 2 | Y | N N | 2 2 |
+| 66 | M | American | Sep 2019 |  | 4 |  | 2 | N | 2 | Y |  |  |
+| 66 | M | African | Sep 2019 | embolism |  |  |  |  |  | N | N | 2 |
+| 66 | M | African | Sep 2019 | Cerebral disorder | 6 |  | 4 | N | 2 | N | N | 2 |
+[/DOCLING_TABLE]
+
+39
+
+[DOCLING_PAGE 40]
+
+[DOCLING_TABLE rows=6 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+| 70 | M | White | Sep 2019 | Hypotension Vascular stent thrombosis | 1 1 | 2 1 | 4 4 | N N | 3 3 | Y Y | N N | 2 6 |
+| 75 | F | White | Oct 2019 | Ischemic stroke | 4 |  | 5 | N | 1 | N | N | 1 |
+| 64 | F | White | Oct 2019 | Brain edema | 2 |  | 5 | N | 1 | Y | N | 1,2 |
+| 64 | F | White | Oct 2019 | Non-small cell lung cancer, metastatic Cerebrovascul ar accident | 1 9 |  | 1 5 | N N | 2 1 | Y N | N N | 2 1,2 |
+| 81 | F | White | Oct 2019 | Cardio- respiratory arrest | 13 |  | 5 | N | 1 | N | N | 1 |
+[/DOCLING_TABLE]
+
+40
+
+[DOCLING_PAGE 41]
+
+[DOCLING_TABLE rows=6 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+| 92 | F | White | Nov 2019 | Stroke in evolution | 12 |  | 5 | N | 1 | N | N | 1 |
+| 76 | F | White | Nov 2019 | Cerebral infarction | 4 |  | 5 | N | 1 | Y | N | 1 |
+| 69 | M | Black or African American | Nov 2019 | Syncope Melena | 29 41 | 3 2 | 3 3 | N N | 3 3 | Y N | N N | 3 3 |
+| 85 | F | White | Nov 2019 | Pneumothorax Cardio- respiratory arrest | 5 82 |  | 4 5 | N N | 2 1 | Y N | N N | 3 1 |
+| 87 | F | White | Nov 2019 | Labile blood pressure | 1 | 1 | 3 | Y | 3 | Y | N | 6 |
+[/DOCLING_TABLE]
+
+41
+
+[DOCLING_PAGE 42]
+
+[DOCLING_TABLE rows=10 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+|  |  |  |  | Metal status changes | 94 | 1 | 3 | N | 3 | N | N | 3 |
+| 66 | F | Unknown | Nov 2019 | Anemia Deep vein thrombosis | 2 |  | 2 | N | 5 | Y | N | 4 |
+| 66 | F | Unknown | Nov 2019 |  | 2 |  | 3 | N | 2 | Y | N | 4 |
+| 66 |  | Unknown |  | Pulmonary embolism | 2 |  | 3 | N | 2 | Y | N | 4 |
+| 66 |  | Unknown |  | Seizure | 7 | 2 | 3 | N | 3 | Y | N | 3 |
+| 66 |  | Unknown |  | Embolic stroke Transitional | 19 | 3 | 3 | N | 3 | Y | N | 3 |
+| 66 |  |  |  | cell carcinoma, metastatic | 47 |  | 5 | N | 1 | N | N | 1 |
+| 77 |  | Black or African | Dec 2019 | Air embolism | 1 |  | 4 | N | 2 | Y | N | 2 |
+| 77 |  | American |  | Death | 56 |  | 5 | N | 1 | N | N | 1 |
+[/DOCLING_TABLE]
+
+42
+
+[DOCLING_PAGE 43]
+
+[DOCLING_TABLE rows=4 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+| 87 | M | White | Dec 2019 | Clostridium difficile infection | 2 |  | 3 | N | 2 | Y | N | 3 |
+| 73 | M | White | Jan 2020 | Sepsis | 64 | 4 | 2 | N | 3 | Y | N | 3 |
+| 53 | M | White | Jan 2020 | examination abnormal Colitis Urinary tract | 4 81 |  | 3 3 | N N | 5 2 | Y Y | N N | 6 6 |
+[/DOCLING_TABLE]
+
+43
+
+[DOCLING_PAGE 44]
+
+[DOCLING_TABLE rows=5 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+| 63 | M | Black or African American | Jan 2020 | Cerebral artery occlusion Subarachnoid hemorrhage | 1 1 | 36 | 4 1 | N N | 5 3 | Y N | N N | 2 6 |
+| 71 | F | White | Jan 2020 | Sepsis | 2 | 34 | 3 | N | 3 | Y | N | 2,3 |
+| 92 | F | White | Jan 2020 | Anemia Cerebrovascul ar disorder | 2 2 | 2 | 3 3 | Y N | 2 4 | Y N | N N | 6 4 |
+| 52 | F | White | Feb 2020 | Thrombosis Wound infection Hypotension | 1 28 51 | 2 | 4 3 3 | N N N | 5 2 3 | Y Y Y | N N N | 3 3,4 3 |
+[/DOCLING_TABLE]
+
+44
+
+[DOCLING_PAGE 45]
+
+[DOCLING_TABLE rows=8 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+| 78 | M | White | Feb 2020 | Upper gastrointestinal hemorrhage | 22 | 7 | 3 | N | 3 | Y | N | 3 |
+| 78 | M | White | Feb 2020 | Acute kidney injury | 81 | 5 | 3 | N | 3 | Y | N | 3 |
+| 97 | M | Unknown | Feb 2020 | Sepsis | 104 |  | 3 | N | 6 | Y | N | 2 |
+| 75 | M | White | Mar 2020 | Cerebral hematoma | 2 | 14 | 1 | Y | 3 | N | N | 6 |
+| 75 | M | White |  | Decreased appetite | 11 |  | 3 | N | 2 | Y | N | 6 |
+| 75 | M | White |  | Cerebrovascul ar accident | 15 | 12 | 1 | N | 4 | N | N | 6 |
+| 42 | F | White | May 2020 | Brain edema | 3 |  | 4 | N | 5 | Y | N | 2 |
+[/DOCLING_TABLE]
+
+45
+
+[DOCLING_PAGE 46]
+
+[DOCLING_TABLE rows=6 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+| 67 | F | White | May 2020 | Intraventricular hemorrhage Subarachnoid | 8 |  | 5 | N | 1 | Y | N | 1,2,3 |
+| 90 | M | White | May 2020 | Cerebral hemorrhage | 1 |  | 5 | Y | 1 | N | N | 1,2,3,4 |
+| 67 | M | White | Jun 2020 | Acute myocardial infarction | 1 | 1 | 4 | N | 3 | Y | N | 2 |
+| 67 | M |  |  | Cardiac arrest Acute kidney injury | 1 7 | 1 | 4 4 | N N | 3 2 | Y N | N N | 2 2,3 |
+| 67 |  |  |  | Stroke in evolution | 11 |  | 5 | N | 1 | N | N | 1 |
+[/DOCLING_TABLE]
+
+46
+
+[DOCLING_PAGE 47]
+
+[DOCLING_TABLE rows=6 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+| 89 | F | Asian | Jun 2020 | Acute kidney injury Pneumonia, | 3 |  | 4 | N | 2 | N | N | 6 |
+| 81 | F | White | Jul 2020 | Atrial fibrillation Cardiac failure | 1 1 |  | 3 5 | N N | 6 1 | Y Y | N N | 3 1,3 |
+| 62 | M | White | Jul 2020 | Peripheral artery hematoma Death | 1 51 | 2 | 3 5 | N N | 3 1 | Y N | N N | 6 1 |
+| 81 | F | White | Jul 2020 | Cerebral hemorrhage | 1 |  |  | Y | 2 | Y | N | 2 |
+|  |  |  |  |  |  |  | 3 |  |  |  |  |  |
+[/DOCLING_TABLE]
+
+47
+
+[DOCLING_PAGE 48]
+
+[DOCLING_TABLE rows=8 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+| 75 | M | Unknown | Aug 2020 | Hemorrhagic transformation stroke | 1 |  | 5 | Y | 2 | Y | N | 1,2,3 |
+| 85 | F | White | Aug 2020 | Pneumonia | 21 | 12 | 3 | N | 3 | Y | N | 3 |
+| 77 | M | White | Sep 2020 | Fall | 62 |  | 5 | N | 1 | N | N | 1 |
+| 62 | F | White | Sep 2020 | Gastrointestinal hemorrhage | 86 | 3 | 3 | N | 3 | Y | N | 3 |
+| 74 | F | White | Nov 2020 | Cerebrovascul ar accident Respiratory | 1 | 1 | 4 | N | 3 | Y | N | 6 |
+| 74 |  |  |  | failure Stroke in | 3 |  | 3 5 | N | 2 | Y | N | 3 |
+| 74 |  |  |  | evolution | 20 |  |  | N | 1 | N | N | 1 |
+[/DOCLING_TABLE]
+
+48
+
+[DOCLING_PAGE 49]
+
+[DOCLING_TABLE rows=4 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+| 57 | M | White | Dec 2020 | Brain edema Intracranial hemorrhage | 1 1 |  | 4 4 | N Y | 2 2 | Y Y | N N | 2 2 |
+| 95 | F | White | Jan 2021 | Anemia Hypotension | 1 1 | 4 3 | 3 2 | N N | 3 3 | Y Y | N N | 6 2 |
+| 68 | M | White | Jan 2021 | Lung adenocarcino ma Respiratory failure | 6 8 |  | 5 4 | N N | 1 2 | Y Y | N N | 1 3 |
+[/DOCLING_TABLE]
+
+49
+
+[DOCLING_PAGE 50]
+
+[DOCLING_TABLE rows=8 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+|  |  |  |  | Atrial flutter | 17 | 11 | 2 | N | 4 | Y | N | 3 |
+| 79 | M | White | Feb 2021 | Aspiration | 7 |  | 5 | N | 1 | N | N | 1 |
+| 88 | M | Unknown | Apr 2021 | Dysphagia Pneumonia, aspiration | 2 31 | 88 4 | 3 3 | N N | 3 3 | Y Y | N N | 6 3 |
+| 63 | F | White | Apr 2021 | Arterial occlusive disease | 1 |  | 4 | N | 2 | Y | N | 3 |
+| 81 | F | White | Apr 2021 | Atrial fibrillation | 2 | 51 | 2 | N | 3 | Y | N | 3 |
+| 50 | M | Unknown | Apr 2021 | Metabolic encephalopathy | 3 | 21 | 3 | N | 3 | Y | N | 3 |
+| 63 | M | Asian | May 2021 | Brain edema Cerebrovascul ar accident | 1 1 |  | 4 5 | N N | 2 1 | N N | N N | 2,3 1,2,3 |
+[/DOCLING_TABLE]
+
+50
+
+[DOCLING_PAGE 51]
+
+[DOCLING_TABLE rows=9 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+| 82 | M | White | May 2021 | Cardiac failure, congestive Pulmonary |  | 3 | N |  | 2 | Y | N | 3 |
+| 82 | M | White | May 2021 | edema |  | 3 | N |  | 2 | Y | N | 3 |
+| 68 | F | White | May 2021 | Pleural effusion | 4 |  | 3 | N | 2 | Y | N | 6 |
+| 91 | F | White | Jun 2021 | Bradycardia Acute | 1 | 1 | 4 | N | 4 | N | N | 2 |
+| 91 | F | White | Jun 2021 | respiratory failure | 2 |  | 4 | N | 2 | N | N | 2 |
+| 91 | F | White | Jun 2021 | Stroke in evolution | 4 |  | 5 | N | 1 | Y | N | 1 |
+| 85 | M | White | Jun 2021 | Cerebral hemorrage | 1 |  | 4 | Y | 2 | N | N | 3,4 |
+| 85 | M | White | Jun 2021 | Myocardial infarction | 2 |  | 5 | N | 1 | N | N | 1 |
+[/DOCLING_TABLE]
+
+51
+
+[DOCLING_PAGE 52]
+
+[DOCLING_TABLE rows=5 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+| 74 | F | White | Jun 2021 | Peripheral artery thrombosis | 1 | 81 | 4 | N | 4 | Y | N | 3,4 |
+| 72 | M | Black or African American | Jul 2021 | Intracranial hemorrhage Localized edema | 1 1 | 14 4 | 3 4 | Y Y | 3 3 | Y Y | N N | 3 2,3 |
+| 75 | M | White | Aug 2021 | Cerebral hemorrhage Subarachnoid hemorrhage | 2 2 | 87 87 | 3 3 | Y Y | 3 3 | Y Y | N N | 6 6 |
+| 92 | F | White | Aug 2021 | Stroke in evolution | 17 |  | 5 | N | 1 | N | N | 1 |
+[/DOCLING_TABLE]
+
+52
+
+[DOCLING_PAGE 53]
+
+[DOCLING_TABLE rows=6 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+| 71 | F | Black or African American | Sep 2021 | Neurological decompensation | 1 | 3 |  | N | 3 | N | N | 3 |
+| 62 | M | Unknown | Sep 2021 | Encephalopathy | 4 | 4 |  | N | 2 | Y | N | 3 |
+| 72 | F | White | Oct 2021 | Urinary tract infection | 62 | 3 |  | N | 2 | Y | N | 3 |
+| 88 | M | White | Nov 2021 | Respiratory failure Urosepsis | 6 6 | 4 | 4 | N N | 2 2 | Y Y | N N | 2,3 2,3,4 |
+| 59 | M | White | Dec 2021 | Brain herniation | 1 | 5 |  | N | 1 | N | N | 1 |
+[/DOCLING_TABLE]
+
+53
+
+[DOCLING_PAGE 54]
+
+[DOCLING_TABLE rows=8 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+|  |  |  |  | Cerebral artery perforation | 1 |  | 4 | Y | 2 | Y | N | 2,4 |
+|  |  |  |  | Intraventricular hemorrhage | 1 |  | 4 | N | 2 | Y | N | 2,4 |
+|  |  |  |  | Subarachnoid hemorrhage | 1 |  | 4 | N | 2 | Y | N | 2,4 |
+| 92 | F | Black or African American | Dec 2021 | Therapy cessation | 24 |  | 5 | N | 1 | N | N | 1 |
+| 91 | M | White | Jan 2022 | Cerebral artery occlusion | 5 | 1 | 4 | N | 3 | Y | N | 2,3 |
+|  |  |  |  | Pneumonia | 32 |  | 5 | N | 1 | Y | N | 1 |
+| 79 | F | Asian | Jan 2022 | Brain edema Cerebral artery | 1 |  | 5 | Y | 1 | N | N | 1 |
+[/DOCLING_TABLE]
+
+54
+
+[DOCLING_PAGE 55]
+
+[DOCLING_TABLE rows=11 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+|  |  |  |  | Subarachnoid hemorrhage | 1 |  | 4 | Y | 2 | Y | N | 2 |
+|  |  |  |  | Brain edema | 2 | 42 | 3 | N | 4 | T | N | 2,3 |
+|  |  |  |  | Respiratory failure | 2 | 12 | 4 | N | 4 | Y | N | 2 |
+|  |  |  |  | Pneumonia | 4 | 50 | 3 | N | 4 | Y | N | 2 |
+|  |  |  |  | Sepsis | 4 | 28 | 3 | N | 3 | Y | N | 3 |
+| 55 | M | White | Jan 2022 | Respiratory failure | 20 | 27 | 4 | N | 4 | Y | N | 2 |
+|  |  |  |  | Renal impairment | 24 | 23 | 2 | N | 3 | N | N | 3 |
+|  |  |  |  | Anemia | 47 |  | 3 | N | 5 | Y | N | 2,3 |
+|  |  |  |  | respiratory | 72 | 3 | 2 | N | 3 | Y | N | 2,3,4 |
+|  |  |  |  | failure |  |  |  |  |  |  |  |  |
+[/DOCLING_TABLE]
+
+55
+
+[DOCLING_PAGE 56]
+
+[DOCLING_TABLE rows=8 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+|  |  |  |  | Acute kidney injury | 17 | 16 | 1 | N | 3 | N | N | 3 |
+|  |  |  |  | Acute respiratory | 17 | 9 | 3 | N | 3 | Y | N | 3 |
+|  |  | White | Jan 2022 | Blood loss, anemia | 17 | 10 | 3 | N | 3 | Y | N | 3 |
+| 82 | F |  |  | Pneumonia, bacterial | 17 | 9 | 2 | N | 3 | Y | N | 3 |
+|  |  |  |  | abdominal hematoma | 20 | 2 | 4 | N | 4 | Y | N | 2 |
+|  |  |  |  | Shock, hemorrhagic | 21 | 2 | 3 | N | 3 | Y | N | 2,3 |
+|  |  |  |  | Delirium | 26 |  | 3 | N | 2 | Y | N | 3 |
+[/DOCLING_TABLE]
+
+56
+
+[DOCLING_PAGE 57]
+
+[DOCLING_TABLE rows=6 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+|  |  |  |  | Respiratory failure | 55 |  | 5 | N | 1 | N | N | 1,3 |
+| 71 | F | White | Feb 2022 | Hypotension Peripheral | 1 | 10 | 3 | N | 3 | Y | N | 3 |
+| 77 | F | White | Mar 2022 | Acute respiratory failure Bradycardia | 1 1 |  | 4 4 | N N | 2 5 | Y | N | 2 |
+| 77 |  |  |  | Acute kidney injury Multiple organ | 2 |  | 4 | N | 2 | Y Y | N N | 2 2 |
+| 77 |  |  |  | dysfunction syndrome | 8 |  | 5 | N | 1 | N | N | 1 |
+[/DOCLING_TABLE]
+
+57
+
+[DOCLING_PAGE 58]
+
+[DOCLING_TABLE rows=6 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+| 75 | F | White | Mar 2022 | Gastrointestina l hemorrhage Colon cancer, metastatic | 2 16 |  | 1 5 | Y N | 2 1 | Y N | N N | 6 1 |
+| 64 | F | White | Mar 2022 | Fluid retention | 86 | 8 | 3 | N | 3 | Y | N | 3 |
+| 85 | F | White | Apr 2022 | Anemia Hematoma Hematoma Hypotension | 1 1 1 1 | 5 1 | 4 4 3 4 | Y Y Y Y | 3 5 5 | Y Y N | N N N | 2 2,3 3 2 |
+| 50 | M | White | Apr 2022 | Stridor Hemoptysis Cardiac arrest Brain edema | 3 23 30 | 4 21 | 2 3 5 4 | N N N N | 3 3 5 1 | Y Y N N | N N N N | 3 3 1 |
+| 81 | F | White | May 2022 | Dysarthria | 2 18 |  | 3 | N | 3 2 | Y Y | N N | 2 3 |
+[/DOCLING_TABLE]
+
+58
+
+[DOCLING_PAGE 59]
+
+[DOCLING_TABLE rows=9 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+|  |  |  |  | Mental status changes | 18 |  | 3 | N | 2 | Y | N | 3 |
+| 83 | M | White | Jun 2022 | Acute respiratory failure | 1 |  | 3 | N | 2 | Y | N | 4 |
+| 83 | M | White | Jun 2022 | Cerebral artery occlusion | 1 |  | 3 | N | 2 | Y | N | 4 |
+| 83 |  |  | Jun 2022 | Pneumonia Gastrointestina | 31 |  | 2 | N | 5 | Y | N | 3 |
+| 83 |  |  | Jun 2022 | l hemorrhage | 44 | 8 | 3 | N | 3 | N | N | 3 |
+|  |  |  |  | Anemia | 89 |  | 3 | N | 2 | Y | N | 3 |
+| 83 | F | White | Aug 2022 | Vascular pseudoaneurysm | 1 | 46 | 3 | N | 3 | Y | N | 3 |
+| 59 | M | White | Aug 2022 | Intraventricular hemorrhage | 1 |  | 2 | Y | 5 | Y | N | 2 |
+[/DOCLING_TABLE]
+
+59
+
+[DOCLING_PAGE 60]
+
+[DOCLING_TABLE rows=8 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+|  |  |  |  | Gastritis, viral | 51 | 2 | 2 | N | 3 | Y | N | 3 |
+| 84 | M | White | Aug 2022 | Pleural effusion Pneumonia, | 4 |  | 4 | N | 2 | Y | N | 2 |
+|  | M |  | Sep 2022 | Bacteremia Intracranial hemorrhage | 7 1 |  | 3 5 | N Y | 2 1 | Y Y | N | 2 |
+| 79 |  | White |  | Intraventricular hemorrhage | 1 |  | 5 | Y | 1 | Y | N N | 1,2,3,4 1,2,3,4 |
+| 66 | F | White | Oct 2022 | Ischemic stroke | 48 | 6 | 3 | N | 3 | Y | N | 3 |
+| 78 |  | White | Oct 2022 | Intraventricular hemorrhage | 1 |  | 2 | Y | 2 | Y | N | 6 |
+|  | F |  |  | Seizure | 1 | 1 | 2 | N | 4 | Y | N | 6 |
+[/DOCLING_TABLE]
+
+60
+
+[DOCLING_PAGE 61]
+
+[DOCLING_TABLE rows=5 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+|  |  |  |  | Acute respiratory failure |  |  |  |  |  |  |  |  |
+| 74 | F | Black or African American | Oct 2022 | Ventricular tachycardia Acute respiratory | 1 3 | 1 7 | 3 3 | N N | 3 3 | Y Y | N N | 2 3 |
+| 65 | F | White | Oct 2022 | Cerebrovascul ar accident Aspiration Cerebrovascul ar accident | 1 2 2 |  | 4 4 5 | N N N | 2 2 1 | Y Y N | N N N | 2,3,4 2,4 1 |
+| 71 | F |  | Oct 2022 | Cardiac arrest | 10 | 1 | 4 | N | 4 | Y | N | 2 |
+[/DOCLING_TABLE]
+
+61
+
+[DOCLING_PAGE 62]
+
+[DOCLING_TABLE rows=5 columns=13]
+| Age (years) | Sex | Race | Date of First Trial Drug Admin- istration | Event* | Trial Day of AE Onset † | AE Duration (days) ‡ | Highest NCI CTCAE Grade § | Suspect ed to Be Caused by Trial Drug | Outcom e ║ | Treatme nt for SAE | Trial Discon- tinued Due to SAE | Reason Classified as SAE ¶ |
+|  |  | Black or African American |  | Pulseless electrical activity Multiple organ dysfunction | 10 11 | 1 | 4 5 | N N | 4 1 | Y N | N N | 2 1,2 |
+| 79 | F | White | Nov 2022 | Pericardial effusion Presyncope Cardiac failure, congestive | 17 17 37 | 3 6 4 | 3 3 3 | N N N | 3 3 3 | Y Y Y | N N N | 3 3 3 |
+| 62 | M | White | Dec 2022 | Cerebral infarction | 18 |  | 5 | N | 1 | Y | N | 1,3 |
+| 74 | M | White | Dec 2022 | Osteomyelitis | 3 |  | 4 | N | 2 | Y | N | 2,3,4 |
+[/DOCLING_TABLE]
+
+62
+
+[DOCLING_PAGE 63]
+
+[DOCLING_TABLE rows=6 columns=13]
+| Age | Sex | Race | Date of First | Event* | Trial Day | AE | Highest | Suspect | Outcom | Treatme | Trial | Reason |
+| (years) |  |  | Trial Drug |  | of AE | Duration | NCI | ed to Be | e ║ | nt for | Discon- | Classified |
+|  |  |  | Admin- |  | Onset † | (days) ‡ | CTCAE | Caused |  | SAE | tinued | as SAE ¶ |
+|  |  |  | istration |  |  |  | Grade § | by Trial |  |  | Due to |  |
+|  |  |  |  |  |  |  |  | Drug |  |  | SAE |  |
+|  |  |  |  | Skin necrosis | 3 | 4 |  | N | 2 | Y | N | 2,3,4 |
+[/DOCLING_TABLE]
+
+AE, adverse event; CTCAE, Common Terminology Criteria for Adverse Event; F, female; M, male; N, no; NCI, National Cancer Institute; SAE, serious adverse event; Y, yes.
+
+* Text for AEs was coded using Medical Dictionary for Regulatory Activities version 25.1.
+
+† Trial day of onset was defined as onset date minus trial drug administration date plus 1 day.
+
+‡ AE duration was defined as end date minus onset date plus 1 day.
+
+§ CTCAE grades correspond to: (1) asymptomatic or mild symptoms, (2) moderate symptoms, (3) severe but not immediately lifethreatening symptoms, (4) life-threatening consequences, and (5) death related to AE.
+
+║ Outcomes correspond to: (1) fatal, (2) not recovered/not resolved, (3) recovered/resolved, (4) recovered/resolved with sequelae, (5) recovering/resolving, and (6) unknown.
+
+¶ Reasons classified as serious correspond to: (1) resulted in death, (2) life threatening, (3) required prolonged inpatient hospitalization, (4) persistent or substantial disability/incapacity, (5) a congenital anomaly/birth defect in offspring or trial patient, and
+
+63
+
+[DOCLING_PAGE 64]
+
+(6) does not meet any of the aforementioned serious criteria but may jeopardize the patient and may require medical or surgical intervention to prevent one of the serious outcomes listed.
+
+64

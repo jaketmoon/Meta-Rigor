@@ -1,0 +1,316 @@
+[DOCLING_PAGE 1]
+
+Current State of the Art in Endovascular Stroke Treatment
+
+David Dornbos III, MD a , Adam S. Arthur, MD, MPH b, *
+
+KEYWORDS
+
+ Thrombectomy  Acute ischemic stroke  Balloon-guide catheter  Endovascular
+
+KEY POINTS
+
+ Given robust clinical trials, thrombectomy for large vessel occlusion ischemic stroke is well indicated for up to 24 hours following onset
+
+ New device development of balloon-guide catheters, more navigable aspiration catheters, and small distal catheters is opening up more patients to the procedure
+
+ Ongoing trials are evaluating thrombectomy for large core infarcts, distal occlusions, and first-line aspiration
+
+INTRODUCTION
+
+With an incidence of nearly 800,000 strokes per year within the United States, stroke has become a leading cause of death and disability. 1 The socioeconomic impact of acute ischemic stroke (AIS) is substantial, costing the United States health care system an estimated $46 billion annually. 2 This underscores the need for improved stroke prevention through lifestyle and risk factor modification, enhanced stroke care delivery, technological advancements, and improved stroke recovery and rehabilitation.
+
+Oncearterial occlusion and decreased cerebral perfusion occur, the race commences to restore reperfusion before ischemic penumbra can progress to completed infarct. A perfusion deficit and lack of oxygen delivery to brain parenchyma results in loss of ATP synthesisand irreversible neuronal death within minutes. However, the rate of permanent ischemic change is highly variable, ranging from less than 35,000 to greater than 27 million neurons per minute. 3 Despite a proximal arterial occlusion, accessory perfusion of brain tissue from collateral vessels can maintain adequate oxygen levels to avoid cell death, and the degree of collateralization produces the wide range of ischemic progression observed in these patients. The utility of adequate hydration, oxygen
+
+a Department of Neurosurgery, University of Kentucky College of Medicine, 780 Rose St, Lexington, KY 40508, USA; b Department of Neurosurgery, Semmes-Murphey Clinic, University of
+
+Tennessee Health Science Center, Memphis, Tennessee, USA
+
+* Corresponding author. 6325 Humphreys Blvd, Memphis, TN 38120
+
+E-mail address: aarthur@semmes-murphey.com
+
+Neurol Clin 40 (2022) 309-319
+
+https://doi.org/10.1016/j.ncl.2021.11.008
+
+0733-8619/22/ ª 2022 Elsevier Inc. All rights reserved.
+
+neurologic.theclinics.com supplementation, and avoidance of hypotension are key factors to enhance collateral blood flow to penumbral regions before endovascular intervention in patients with an emergent large vessel occlusion (ELVO) ( Fig. 1 ). While these maneuvers can decrease the risk of permanent ischemia, restoration of normal perfusion is ultimately needed.
+
+Descargado para Biblioteca Medica Hospital México (bibliomexico@gmail.com) en National Library of Health and Social Security de ClinicalKey.es por Elsevier en mayo 04, 2022. Para uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2022. Elsevier Inc. Todos los derechos reservados.
+
+[DOCLING_PAGE 2]
+
+310
+
+Dornbos III & Arthur
+
+Fig. 1. Emergent large vessel occlusion (ELVO). ( A ) Digital subtraction angiography (PA projection) depicting a right M1 occlusion in the setting of AIS. ( B ) Following aspiration thrombectomy, full recanalization of the right MCA territory was achieved.
+
+Intravenous tissue plasminogen activator (TPA) has been the standard of care for patients presenting within 4.5 hours for nearly 3 decades. 4 While TPA has been shown to increase long-term functional independence, the recanalization efficacy of TPA is quite poor, particularly in the setting of ELVO, only restoring vessel patency in 30% to 40% of cases. 5-7 For this reason, endovascular treatment of acute ischemic stroke has become standard of care in patients with ELVO.
+
+DISCUSSION
+
+Efficacy of mechanical thrombectomy
+
+Early clinical trials
+
+While initial clinical trials found no benefit for mechanical thrombectomy in combination with IV TPA in the setting of AIS, 8-10 further device development and improved patient selection resulted in a significant clinical benefit for patients undergoing thrombectomy. 11-15 While inclusion criteria between these initial trials varied slightly ( Table 1 ), they established that patients greater than 18 years of age with a good premorbid functional status (modified Rankin scale [mRS] <2), absence of a large completed infarct, and treated within 6 hours of stroke onset were able to achieve functional independence with greater frequency than those treated without endovascular thrombectomy. These trials precipitated an explosion in device development, enhanced imaging modalities and software, and adjunctive treatments for ischemic stroke.
+
+Expanding the time window
+
+While time to thrombectomy is a major indicator for patient outcomes, neuronal loss experienced during this time is not a linear relationship, but rather a stepwise or sudden decline when autoregulatory reserve and collateral support begin to fail. Based on this assumption, 2 trials (DAWN and DEFUSE 3) were formed to evaluate the potential benefit of thrombectomy in patients beyond 6 hours from stroke onset with good collaterals and the absence of a large core infarct. 16,17 Both trials used automated CT perfusion ( Fig. 2 ) imaging to identify patients with a relatively small ischemic core and large penumbral region presenting greater than 6 hours from stroke onset. DEFUSE 3 evaluated patients within 16 hours of known stroke onset, an ischemic core less than 70 cc, and a penumbra:core ratio of 1.8 or greater, 17 whereas DAWN included patients within 24 hours from stroke onset and stratified penumbra and core sizes based on patient age. 16
+
+Descargado para Biblioteca Medica Hospital México (bibliomexico@gmail.com) en National Library of Health and Social Security de ClinicalKey.es por Elsevier en mayo 04, 2022. Para uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2022. Elsevier Inc. Todos los derechos reservados.
+
+[DOCLING_PAGE 3]
+
+Endovascular Stroke Treatment
+
+311
+
+[DOCLING_TABLE rows=10 columns=6]
+| Table 1 Major clinical trials establishing the role of mechanical thrombectomy in large vessel occlusion ischemic stroke | Table 1 Major clinical trials establishing the role of mechanical thrombectomy in large vessel occlusion ischemic stroke | Table 1 Major clinical trials establishing the role of mechanical thrombectomy in large vessel occlusion ischemic stroke | Table 1 Major clinical trials establishing the role of mechanical thrombectomy in large vessel occlusion ischemic stroke | Table 1 Major clinical trials establishing the role of mechanical thrombectomy in large vessel occlusion ischemic stroke | Table 1 Major clinical trials establishing the role of mechanical thrombectomy in large vessel occlusion ischemic stroke |
+| Trial | MR Clean | Escape | SWIFT Prime | EXTEND-IA | Revascat |
+| Age (years) | > 18 | > 18 | 18-80 |  18 | 18-85 |
+| Prestroke morbidity | None | Barthel score  90 | mRS  1 | mRS  1 | mRS  1 |
+| Coagulopathy | Excluded | Included | Excluded | Excluded | Excluded |
+| Vessel | Anterior circulation | ICA/MCA | ICA/M1 | Anterior circulation | ICA/M1 |
+| NIHSS | > 2 | > 5 | 8-29 | None |  6 |
+| IV TPA | Not required | Not required | Required | Required | Not Required |
+| ASPECTS | None |  6 |  6 | None |  7 |
+| Time | 6 h to initiation of IAT | 12 h to randomization | 6 h to groin | 6 h to groin | 8 h to groin |
+[/DOCLING_TABLE]
+
+Both studies identified a significant shift in functional outcomes toward independence (mRS  2) in patients who underwent intervention. Patients treated with thrombectomy in combination with medical therapy were nearly 3-fold more likely to achieve a good outcome when compared with patients undergoing medical treatment alone. 17 This finding was so profound that the number needed to treat to effectively shift one patient from a poor to a good functional outcome was only between 2 and 3.6. 18 Further, there was no difference in symptomatic ICH or mortality between the 2 groups. These trials not only established an expanded cohort of patients with ischemic stroke that benefit from thrombectomy but also shifted the paradigm from a 'timebased' approach to a 'tissue-based' approach, wherein time as stroke onset is of lesser importance compared with the volume of penumbra and ischemic core. Following these trials, the standard of care for patients with AIS presenting with an ELVO within 24 hours in the absence of a large core infarct dictates proceeding with thrombectomy. Given the profound treatment effect, further investigations have sought to identify patients excluded from these trials that may still achieve benefit from mechanical thrombectomy.
+
+Controversies and current trials
+
+Medium and distal vessel occlusions
+
+Initial trials limited the inclusion of patients to those presenting with more proximal large vessel occlusions, typically of the intracranial internal carotid artery (ICA) or the M1 segment of the middle cerebral artery (MCA). While these trials did not include
+
+Descargado para Biblioteca Medica Hospital México (bibliomexico@gmail.com) en National Library of Health and Social Security de ClinicalKey.es por Elsevier en mayo 04, 2022. Para uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2022. Elsevier Inc. Todos los derechos reservados.
+
+[DOCLING_PAGE 4]
+
+312
+
+Dornbos III & Arthur
+
+Fig. 2. Automated CT perfusion. Automated perfusion mapping of ischemic core (22 cc) and penumbral tissue (104 cc) provides rapid and efficient estimation of the core infarct and potentially salvageable brain tissue.
+
+medium and distal vessel occlusions, iterative catheter and device development over the past several years have made thrombectomy for these occlusions relatively safe and effective. Several recent meta-analyses have identified that patients presenting with M2 occlusions that undergo thrombectomy obtain high recanalization rates and experience improved clinical outcomes, particularly for occlusion of the dominant M2 division ( Fig. 3 ). 19,20 Occlusions of the anterior cerebral artery (ACA) and M3 segment of the MCA are less well characterized, although account for approximately one-third of AIS and are often associated with poor outcome. Further, intravenous fibrinolytics are only effective in one-third to half of the patients presenting with medium and distal vessel occlusions. 21
+
+Smaller, single-center studies evaluating the use of endovascular thrombectomy for the treatment of medium and distal vessel occlusions have identified high rates of revascularization (83% and higher) and low risk of symptomatic intracranial hemorrhage (<5%). 22,23 With this early experience and the highly efficacious nature of thrombectomy for ELVO, recent 2019 American Stroke Association guidelines identify endovascular intervention for medium vessel occlusion as a reasonable option (class IIb recommendation) for these patients. 24 Based on these early clinical series and enhanced catheter development, endovascular treatment of distal and medium vessel occlusions is likely to be safe and effective, needing further clinical investigation and randomized trials.
+
+Descargado para Biblioteca Medica Hospital México (bibliomexico@gmail.com) en National Library of Health and Social Security de ClinicalKey.es por Elsevier en mayo 04, 2022. Para uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2022. Elsevier Inc. Todos los derechos reservados.
+
+[DOCLING_PAGE 5]
+
+Endovascular Stroke Treatment
+
+313
+
+Fig. 3. Medium vessel occlusion. ( A ) Digital subtraction angiography (lateral projection) depicting a distal occlusion ( black arrow ) of a dominant M2 branch of the left MCA. ( B ) Following aspiration thrombectomy, full recanalization of the left MCA territory was achieved. ( C ) Smaller, more navigable aspiration catheters (062-inch, white arrow ) are better equipped to allow access to distal occlusion.
+
+Large core infarct
+
+Early studies predominantly excluded patients based on the size of preprocedural infarct size with Alberta Stroke Program Early Computed Tomography Score (ASPECTS) of 6 as a typical threshold for a large infarct. Despite this, several studies have evaluated the utility of mechanical thrombectomy in patients presenting with larger infarcts. Patient with low initial ASPECTS  6 do appear to get a clinical benefit from reperfusion with a 2-fold improvement in functional outcomes, decreased mortality, and no increase in symptomatic intracranial hemorrhage. 25 As the ASPECTS continues to decrease (  4), however, this benefit seems to diminish and loses significance. Nonetheless, while the effect is certainly less powerful than in patients with more favorable ASPECTS, successful recanalization is a strong predictor of good outcome in patients with AIS presenting with a large ischemic core. 26
+
+Using endovascular thrombectomy to save penumbra regions adjacent to a large infarct may also have a secondary advantage of preventing malignant cerebral edema and subsequent craniectomy. Decompressive hemicraniectomy clearly prevents brain herniation and reduces mortality in the setting of a malignant infarction, but the quality of life following this procedure remains controversial. 27-29 With the increased utilization of mechanical thrombectomy, nationwide trends in decompressive hemicraniectomy have noticeably decreased, 30 in part due to endovascular intervention in the setting of larger infarctions.
+
+Descargado para Biblioteca Medica Hospital México (bibliomexico@gmail.com) en National Library of Health and Social Security de ClinicalKey.es por Elsevier en mayo 04, 2022. Para uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2022. Elsevier Inc. Todos los derechos reservados.
+
+[DOCLING_PAGE 6]
+
+Dornbos III & Arthur 314
+
+Further studies to evaluate the utility and clinical benefit of endovascular intervention for ELVO in the setting of a large volume stroke are certainly needed and are ongoing. SELECT 2 is an ongoing randomized controlled trial evaluating the safety and efficacy of endovascular thrombectomy for ELVO (ICA and M1 occlusions) compared with best medical therapy for patients with AIS presenting with large core infarcts within 24 hours of stroke onset. 31 A large infarct in SELECT 2 is defined as ASPECTS 3 to 5 on noncontrast head CT or a stroke of  50 mL on MRI or CT perfusion. Similarly, TENSION is an ongoing European randomized controlled trial evaluating the efficacy of thrombectomy compared with best medical management in patients presenting within 12 hours of stroke onset and a large infarct, defined as ASPECTS of 3 to 5. 32 These trials will provide clarity to what seems to be a promising additional patient population for endovascular thrombectomy.
+
+Aspiration v stent retriever
+
+The initial trials establishing the clinical benefit of endovascular thrombectomy all utilized stent retrievers in combination with aspiration catheters. While effective in establishing recanalization, dragging a stent retriever across the endothelial surface has been shown to lead to greater endothelial disruption and damage when compared with an aspiration only approach. 33 Early single-center studies found a first-line aspiration-only approach to be highly efficacious with a favorable safety profile and conferring significant cost savings compared with the utilization of stent retrievers as a first-line treatment strategy. 34,35 A follow-up prospective randomized controlled trial (ASTER) failed to show improved angiographic outcomes with a direct aspiration first pass technique, but did identify similar clinical results when compared with a stent retriever first-line approach. 36
+
+COMPASS was a multicenter randomized open-label noninferiority trial designed to assess clinical functional outcomes in patients treated with direct aspiration first pass than stent retriever first line for the treatment of AIS secondary to ELVO within 6 hours of stroke onset. 37 Good functional outcomes (mRS  2) were seen, indicating that an aspiration first-line approach to thrombectomy to be noninferior to stent retriever first line. Further, there was no difference between the 2 treatment modalities in the assessed safety outcomes, mortality, or intracranial hemorrhage. While outcomes have remained equivalent, direct aspiration has been shown to be a faster and more cost-effective modality when compared with a first-line stent-retriever approach. 34,35 While this remains a debated topic among neurointerventionalists, there are data to support either modality as a first-line treatment.
+
+Catheter and device development
+
+Balloon-guide catheters
+
+As numerous studies have established the efficacy of endovascular treatment of AIS, further technological advancements have focused on ways to expedite treatment and makethrombectomy a more safe and efficacious procedure. The introduction of balloon guide catheters for use in mechanical thrombectomy came about to improve efficacy and decrease the risk of emboli to new territories (ENT). Utilizing a balloon on the primary guide catheter arrests anterograde flow, limiting blood flow working against clot retrieval. Depending on the location of the thrombus, collateral vascular supply may provide additional reversal of flow with the balloon inflated and aspiration applied.
+
+Descargado para Biblioteca Medica Hospital México (bibliomexico@gmail.com) en National Library of Health and Social Security de ClinicalKey.es por Elsevier en mayo 04, 2022. Para uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2022. Elsevier Inc. Todos los derechos reservados.
+
+[DOCLING_PAGE 7]
+
+Endovascular Stroke Treatment
+
+315
+
+Numerous studies have found significant benefits for the adjunctive use of balloonguide catheters in AIS. 38,39 While balloon-guide catheters do add to procedural times and their impact on first-pass effect has been mixed, 40 their use has been shown to decrease the rate of ENT and improve rates of angiographic revascularization. Most importantly, the use of balloon-guide catheters has been independently associated with better clinical outcomes in both long-term functional independence and mortality. Recent balloon-guide development has substantially improved navigability with the introduction of the Walrus (Q'Apel Medical, Fremont, California), BOBBY (MicroVention Inc., Aliso Viejo, California), and BOSS (Marblehead Medical, LLC, Rochester, Minnesota) balloon-guide catheters. As balloon-guide catheter development continues to enhance the ease of use and access in tortuous vasculature, their use in the clinical setting will certainly become more widespread and ubiquitous.
+
+Iterative device development
+
+The first-pass effect, defined as complete revascularization and reperfusion on the first attempt, has been identified as a significant contributor to successful endovascular treatment and long-term clinical outcomes. Numerous technological advancements have been developed to enhance the first-pass effect, including the development of larger bore catheters with improved navigability in the intracranial circulation. Recent publications have found the use of large-bore catheters to be independently associated with improved first-pass effect and better rates of revascularization. 41 Numerous 071, 072, and 074-inch aspiration catheters have been developed with enhanced glide and navigation technology to improve access with these larger catheters.
+
+Given that surface area is directly proportional to suction force, larger aspiration catheters provide an increased suction capacity on the clot interface and theoretically improved aspiration success. Recently, the Trac Star 088 (Imperative Care Inc., Campbell, California) and the Millipede 088 (Perfuze Ltd, Gateway, Ireland) catheters have also been introduced as a means to access the intracranial circulation with 088-inch diameter aspiration catheters to improve the success rates of primary aspiration. 42,43 To maximize surface area and thrombus-catheter interface, beveled-tip aspiration catheters have also been developed, showing promise to further improve revascularization rates and clinical outcomes. 44
+
+Because potential benefit exists with thrombectomy for medium and distal vessel occlusions, newer generation aspiration catheters have also been developed to target these lesions. Numerous small diameter catheters (035-inch to 054-inch) have been developed to target distal occlusions of M3 segment MCA and A3 segment ACA occlusions. Additionally, new stent retrievers are also being developed to allow safe and efficacious treatment of distal occlusion. Recently, a new generation stent retriever (Tigertriever, Rapid Medical, Yokneam, Israel) has been shown to safely treat distal occlusions with a diameter of only 0.5 to 2 mm. 23,45 Future generations of devices and catheters will continue to focus on enhancing first-pass effect, decreasing ENT, and facilitating navigation and access of tortuous anatomy and more distal vasculature.
+
+Transradial access
+
+The use of transradial access has been shown to have a significantly improved safety profile in the cardiac literature compared with traditional transfemoral access. 46 While early experience in the neurointerventional literature has shown promise, 47 additional procedural time in certain neurointerventional procedures has limited its broad use and application for thrombectomy. Despite this, numerous centers have adopted a radial-first approach with thrombectomy in the absence of prohibitive anatomic factors with good results. In the setting of thrombectomy for ELVO in AIS, radial access has been shown to have equivalent door-to-procedure times, procedural length, firstpass effectiveness, and revascularization rates. 48,49 Importantly, transradial access for thrombectomy was found to have a superior access-site complication profile when compared with transfemoral access. 49 Other studies, however, have found transfemoral access to be associated with improved revascularization, fewer passes, and better overall outcomes, potentially due to higher use of balloon-guide catheters from this approach. 50 Further studies, improved practitioner experience, and radial-specific catheters will be needed to determine the viability of this approach moving forward.
+
+Descargado para Biblioteca Medica Hospital México (bibliomexico@gmail.com) en National Library of Health and Social Security de ClinicalKey.es por Elsevier en mayo 04, 2022. Para uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2022. Elsevier Inc. Todos los derechos reservados.
+
+[DOCLING_PAGE 8]
+
+Dornbos III & Arthur 316
+
+Future directions
+
+Device and catheter development will continue to move endovascular stroke care forward, but perhaps the biggest area of enhanced patient outcomes will come from the improved delivery of care to the patient. The rise of stroke certification led to a tiered delivery system, akin to that of the tiered levels of trauma care. Much debate has arisen in terms of whether patients should be brought to a nearby primary stroke center before transfer to a comprehensive stroke center (drip and ship) or simply brought immediately to a comprehensive stroke center. There are theoretic benefits to both with early time to TPA in the drip-and-ship model but with early time to endovascular intervention with the latter model. 51 More recently, a third model for which the interventional team is mobile and able to transfer the entire treatment team to individual hospitals within a network was found to have improved revascularization times and short term outcomes. 52 While all of these models are likely needed to serve different communities and geographic areas, improvements in the delivery of endovascular care to patients is certainly ongoing.
+
+SUMMARY
+
+Mechanical thrombectomy has been shown to be a powerful and highly effective procedure that improves clinical outcomes in patients with AIS with ELVO. Further studies are identifying additional patients that may benefit from this procedure, including patients with large infarcts and occlusions of medium and distal intracranial vessels. As iterative catheter and device development continues, the safety and efficacy of mechanical thrombectomy will continue to improve and benefit future patients with stroke.
+
+CLINICS CARE POINTS
+
+Mechanical thrombectomy has been shown to be highly efficacious for patients with AIS with an ELVO
+
+Development of balloon-guide catheters, large bore aspiration catheters, smaller devices, and improved navigability is allowing this procedure to be delivered in a safer and more efficacious manner
+
+Trials assessing the utility of thrombectomy in patients with large infarcts and distal occlusions are ongoing
+
+REFERENCES
+
+Koton S, Rexrode KM. Trends in stroke incidence in the United States: Will women overtake men? Neurology 2017;89(10):982-3.
+
+Descargado para Biblioteca Medica Hospital México (bibliomexico@gmail.com) en National Library of Health and Social Security de ClinicalKey.es por Elsevier en mayo 04, 2022. Para uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2022. Elsevier Inc. Todos los derechos reservados.
+
+[DOCLING_PAGE 9]
+
+Endovascular Stroke Treatment
+
+317
+
+Virani SS, Alonso A, Benjamin EJ, et al. Heart disease and stroke Statistics-2020 Update: a Report from the American Heart Association. Circulation 2020;141(9): e139-596.
+
+Desai SM, Rocha M, Jovin TG, et al. High Variability in Neuronal Loss. Stroke 2019;50(1):34-7.
+
+National Institute of Neurological, D. and P.A.S.S.G. Stroke rt. Tissue plasminogen activator for acute ischemic stroke. N Engl J Med 1995;333(24):1581-7.
+
+Demchuk AM, Burgin WS, Christou I, et al. Thrombolysis in brain ischemia (TIBI) transcranial Doppler flow grades predict clinical severity, early recovery, and mortality in patients treated with intravenous tissue plasminogen activator. Stroke 2001;32(1):89-93.
+
+Muchada M, Rodriguez-Luna D, Pagola J, et al. Impact of time to treatment on tissue-type plasminogen activator-induced recanalization in acute ischemic stroke. Stroke 2014;45(9):2734-8.
+
+Molina CA, Montaner J, Arenillas JF, et al. Differential pattern of tissue plasminogen activator-induced proximal middle cerebral artery recanalization among stroke subtypes. Stroke 2004;35(2):486-90.
+
+Broderick JP, Palesch YY, Demchuk AM, et al. Endovascular therapy after intravenous t-PA versus t-PA alone for stroke. N Engl J Med 2013;368(10):893-903.
+
+Ciccone A, Valvassori L, Nichelatti M, et al. Endovascular treatment for acute ischemic stroke. N Engl J Med 2013;368(10):904-13.
+
+Kidwell CS, Jahan R, Gorbein J, et al. A trial of imaging selection and endovascular treatment for ischemic stroke. N Engl J Med 2013;368(10):914-23.
+
+Berkhemer OA, Fransen PS, Beumer D, et al. A randomized trial of intraarterial treatment for acute ischemic stroke. N Engl J Med 2015;372(1):11-20.
+
+Campbell BC, Micthell PJ, Kleing TJ, et al. Endovascular therapy for ischemic stroke with perfusion-imaging selection. N Engl J Med 2015;372(11):1009-18.
+
+Goyal M, Demchuk AM, Menon BK, et al. Randomized assessment of rapid endovascular treatment of ischemic stroke. N Engl J Med 2015;372(11):1019-30.
+
+Jovin TG, Chamorro A, Cobo E, et al. Thrombectomy within 8 hours after symptom onset in ischemic stroke. N Engl J Med 2015;372(24):2296-306.
+
+Saver JL, Goyal M, Bonafe A, et al. Stent-retriever thrombectomy after intravenous t-PA vs. t-PA alone in stroke. N Engl J Med 2015;372(24):2285-95.
+
+Nogueira RG, Jadhav AP, Haussen DC, et al. Thrombectomy 6 to 24 hours after stroke with a Mismatch between Deficit and Infarct. N Engl J Med 2018;378(1): 11-21.
+
+Albers GW, Marks MP, Kemp S, et al. Thrombectomy for stroke at 6 to 16 hours with selection by perfusion imaging. N Engl J Med 2018;378(8):708-18.
+
+Martinez-Gutierrez JC, Leslie-Mazwi T, Chandra KL, et al. Number needed to treat: a primer for neurointerventionalists. Interv Neuroradiol 2019;25(6):613-8.
+
+Saber H, Narayanan S, Palla M, et al. Mechanical thrombectomy for acute ischemic stroke with occlusion of the M2 segment of the middle cerebral artery: a meta-analysis. J Neurointerv Surg 2018;10(7):620-4.
+
+Menon BK, Hill MD, Davalos A, et al. Efficacy of endovascular thrombectomy in patients with M2 segment middle cerebral artery occlusions: meta-analysis of data from the HERMES Collaboration. J Neurointerv Surg 2019;11(11):1065-9.
+
+Saver JL, Chapot R, Agid R, et al. Thrombectomy for distal, medium vessel occlusions: a Consensus Statement on Present Knowledge and Promising Directions. Stroke 2020;51(9):2872-84.
+
+Grossberg JA, Rebello LC, Haussen DC, et al. Beyond large vessel occlusion Strokes: distal occlusion thrombectomy. Stroke 2018;49(7):1662-8.
+
+Descargado para Biblioteca Medica Hospital México (bibliomexico@gmail.com) en National Library of Health and Social Security de ClinicalKey.es por Elsevier en mayo 04, 2022. Para uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2022. Elsevier Inc. Todos los derechos reservados.
+
+[DOCLING_PAGE 10]
+
+Dornbos III & Arthur 318
+
+Rikhtegar R, Mosimann PJ, Weber R, et al. Effectiveness of very low profile thrombectomy device in primary distal medium vessel occlusion, as rescue therapy after incomplete proximal recanalization or following iatrogenic thromboembolic events. J Neurointerv Surg 2021.
+
+Powers WJ, Rabinstein AA, Ackerson T, et al. Guidelines for the early management of patients with acute ischemic stroke: 2019 Update to the 2018 Guidelines for the early management of acute ischemic stroke: a Guideline for Healthcare Professionals from the American Heart Association/American stroke Association. Stroke 2019;50(12):e344-418.
+
+Desilles JP, Consoli A, Redjem H, et al. Successful reperfusion with mechanical thrombectomy is associated with Reduced Disability and mortality in patients with Pretreatment Diffusion-Weighted imaging-Alberta stroke Program early Computed Tomography Score </ 5 6. Stroke 2017;48(4):963-9.
+
+Panni P, Gory B, Xie Y, et al. Acute stroke with large ischemic Core treated by thrombectomy. Stroke 2019;50(5):1164-71.
+
+Hofmeijer J, Kappelle LJ, Algra A, et al. Surgical decompression for space-occupying cerebral infarction (the Hemicraniectomy after Middle Cerebral Artery infarction with Life-threatening Edema Trial [HAMLET]): a multicentre, open, randomised trial. Lancet Neurol 2009;8(4):326-33.
+
+Juttler E, Schwab S, Schmiedek P, et al. Decompressive Surgery for the treatment of malignant infarction of the middle cerebral artery (DESTINY): a randomized, controlled trial. Stroke 2007;38(9):2518-25.
+
+Vahedi K, Vicaut E, Mateo J, et al. Sequential-design, multicenter, randomized, controlled trial of early decompressive craniectomy in malignant middle cerebral artery infarction (DECIMAL Trial). Stroke 2007;38(9):2506-17.
+
+Rumalla K, Ottenhausen M, Kan P, et al. Recent Nationwide impact of mechanical thrombectomy on decompressive Hemicraniectomy for acute ischemic stroke. Stroke 2019;50(8):2133-9.
+
+Sarraj A, Hassan AE, Abraham M, et al. EXPRESS: a randomized controlled trial to Optimize Patientas selection for endovascular treatment in acute ischemic stroke (SELECT2): study Protocol. Int J Stroke 2021. 17474930211035032.
+
+Bendszus M, Bonekamp S, Berge E, et al. A randomized controlled trial to test efficacy and safety of thrombectomy in stroke with extended lesion and extended time window. Int J Stroke 2019;14(1):87-93.
+
+Peschillo S, Diana F, Berge J, et al. A comparison of acute vascular damage caused by ADAPT versus a stent retriever device after thrombectomy in acute ischemic stroke: a histological and ultrastructural study in an animal model. J Neurointerv Surg 2017;9(8):743-9.
+
+Turk AS, Frei D, Fiorella D, et al. ADAPT FAST study: a direct aspiration first pass technique for acute stroke thrombectomy. J Neurointerv Surg 2014;6(4):260-4.
+
+Turk AS, Spiotta A, Frei D, et al. Initial clinical experience with the ADAPT technique: a direct aspiration first pass technique for stroke thrombectomy. J Neurointerv Surg 2014;6(3):231-7.
+
+Lapergue B, Blanc R, Gory B, et al. Effect of endovascular contact aspiration vs stent retriever on Revascularization in patients with acute ischemic stroke and large vessel occlusion: the ASTER randomized clinical trial. JAMA 2017;318(5): 443-52.
+
+Turk AS 3rd, Siddiqui A, Fifi JT, et al. Aspiration thrombectomy versus stent retriever thrombectomy as first-line approach for large vessel occlusion (COMPASS): a multicentre, randomised, open label, blinded outcome, non-inferiority trial. Lancet 2019;393(10175):998-1008.
+
+Descargado para Biblioteca Medica Hospital México (bibliomexico@gmail.com) en National Library of Health and Social Security de ClinicalKey.es por Elsevier en mayo 04, 2022. Para uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2022. Elsevier Inc. Todos los derechos reservados.
+
+[DOCLING_PAGE 11]
+
+Endovascular Stroke Treatment
+
+319
+
+Baek JH, Kim BM, Kang DH, et al. Balloon guide catheter is Beneficial in endovascular treatment Regardless of mechanical recanalization Modality. Stroke 2019;50(6):1490-6.
+
+Nguyen TN, Castonguay AC, Noguiera RG, et al. Effect of balloon guide catheter on clinical outcomes and reperfusion in Trevo thrombectomy. J Neurointerv Surg 2019;11(9):861-5.
+
+Bourcier R, Marnat G, Labreuche J, et al. Balloon guide catheter is not Superior to Conventional guide catheter when stent retriever and contact aspiration are combined for stroke treatment. Neurosurgery 2020;88(1):E83-90.
+
+Perez-Garcia C, Maegerlein C, Rosati S, et al. Impact of aspiration catheter size on first-pass effect in the combined use of contact aspiration and stent retriever technique. Stroke Vasc Neurol 2021;6(4):553-60.
+
+Nogueira RG, Mohammaden MH, Al-Bayati AR, et al. Preliminary experience with 088 large bore intracranial catheters during stroke thrombectomy. Interv Neuroradiol 2021;27(3):427-33.
+
+Fitzgerald S, Ryan D, Thornton J, et al. Preclinical evaluation of Millipede 088 intracranial aspiration catheter in cadaver and in vitro thrombectomy models. J Neurointerv Surg 2021;13(5):447-52.
+
+Vargas J, Blalock J, Venkatraman A, et al. Efficacy of beveled tip aspiration catheter in mechanical thrombectomy for acute ischemic stroke. J Neurointerv Surg 2021;13(9):823-6.
+
+Gruber P, Diepers M, von Hessling A, et al. Mechanical thrombectomy using the new Tigertriever in acute ischemic stroke patients - a Swiss prospective multicenter study. Interv Neuroradiol 2020;26(5):598-601.
+
+Valgimigli M, Frigoli E, Leonardi S, et al. Radial versus femoral access and bivalirudin versus unfractionated heparin in invasively managed patients with acute coronary syndrome (MATRIX): final 1-year results of a multicentre, randomised controlled trial. Lancet 2018;392(10150):835-48.
+
+Li Y, Chen SH, Spiotta AM, et al. Lower complication rates associated with transradial versus transfemoral flow diverting stent placement. J Neurointerv Surg 2021;13(1):91-5.
+
+Sur S, Snelling B, Khandelwal P, et al. Transradial approach for mechanical thrombectomy in anterior circulation large-vessel occlusion. Neurosurg Focus 2017;42(4):E13.
+
+Munich SA, Vakharia K, McPheeters MJ, et al. Transition to transradial access for mechanical thrombectomy-Lessons Learned and comparison to transfemoral access in a Single-Center case series. Oper Neurosurg (Hagerstown) 2020;19(6): 701-7.
+
+Siddiqui AH, Waqas M, Neumaier J, et al. Radial first or patient first: a case series and meta-analysis of transradial versus transfemoral access for acute ischemic stroke intervention. J Neurointerv Surg 2021;13(8):687-92.
+
+Wei D, Oxley TJ, Nistal DA, et al. Mobile Interventional stroke Teams Lead to Faster treatment Times for thrombectomy in large vessel occlusion. Stroke 2017;48(12):3295-300.
+
+Morey JR, Oxley TJ, Wei D, et al. Mobile Interventional stroke Team model Improves early outcomes in large vessel occlusion stroke: the NYC MIST trial. Stroke 2020;51(12):3495-503.
+
+Descargado para Biblioteca Medica Hospital México (bibliomexico@gmail.com) en National Library of Health and Social Security de ClinicalKey.es por Elsevier en mayo 04, 2022. Para uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2022. Elsevier Inc. Todos los derechos reservados.

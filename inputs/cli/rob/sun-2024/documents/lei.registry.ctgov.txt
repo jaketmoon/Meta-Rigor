@@ -1,0 +1,220 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT01707446",
+      "orgStudyIdInfo": {
+        "id": "11-0650-A"
+      },
+      "organization": {
+        "fullName": "University Health Network, Toronto",
+        "class": "OTHER"
+      },
+      "briefTitle": "Role of Cerebral Oximetry In Reducing Delirium After Complex Cardiac Surgery",
+      "officialTitle": "Role of Cerebral Oximetry In Reducing Delirium After Complex Cardiac Surgery"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2016-05",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2012-01"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2014-12",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2016-08",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2011-12-12",
+      "studyFirstSubmitQcDate": "2012-10-13",
+      "studyFirstPostDateStruct": {
+        "date": "2012-10-16",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2017-05-31",
+      "lastUpdatePostDateStruct": {
+        "date": "2017-06-01",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University Health Network, Toronto",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Delirium after cardiac surgery is reported in a range of 3-47% of patients. Delirium is a serious complication that results in prolonged length of stay, increased health care costs and is associated with higher death rates. The exact cause involved in the development of delirium after cardiac surgery is unclear. The latest advancement in near-infrared spectroscopy (NIRS) Oximetry offers real-time management of patients at risk of brain injury. This approved device will monitor cerebral oxygenation during and 24hr after cardiac surgery, recording oxygenation in real time allowing the clinical team the opportunity to intervene early to prevent ischemia and possibly preventing untoward events. Adverse events followed include, but are not limited to, stroke, (transient ischemic attacks), heart attack, (myocardial infarction), clots found in lungs (pulmonary embolism), kidney failure, pneumonia, cause of death for 30-days after surgery (all cause mortality).\n\nHypothesis: Perioperative restoration of rSO2 desaturation to baseline values results in lower delirium rates after complex cardiac surgery."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Cardiac Disease"
+      ],
+      "keywords": [
+        "Cardiac surgery",
+        "Delirium",
+        "Cerebral Oximetry"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 250,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Near-infrared reflectance spectroscopy",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Bilateral NIRS (The INVOS® Cerebral/Somatic Oximeter)will be used to measure rSO2 intraoperatively and during the 24h postoperative period in the intensive care unit. In the intervention group, an alarm threshold at 75% of the baseline rSO2 value will be established.",
+          "interventionNames": [
+            "Device: Cerebral oximetry monitor (The INVOS® Cerebral/Somatic Oximeter)",
+            "Other: An alarm threshold at 75% of the baseline rSO2 value"
+          ]
+        },
+        {
+          "label": "Blinded Near-infrared reflectance spectroscopy",
+          "type": "NO_INTERVENTION",
+          "description": "In the control group, the NIRS monitor screen will be electronically blinded, however, the recording will be continuous after verification of the signal strength and baseline value by an independent observer trained in NIRS application and unaware of the study design."
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Cerebral oximetry monitor (The INVOS® Cerebral/Somatic Oximeter)",
+          "description": "In the intervention group, an alarm threshold at 75% of the baseline rSO2 value will be established. Based on predetermined algorithm the rSO2 will be maintained at or above 75% of the baseline measurements.",
+          "armGroupLabels": [
+            "Near-infrared reflectance spectroscopy"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "An alarm threshold at 75% of the baseline rSO2 value",
+          "description": "If the threshold of \\< 75% from baseline is reached for \\> 1 minute an algorithm geared to restore rSO2 to baseline levels will be implemented.",
+          "armGroupLabels": [
+            "Near-infrared reflectance spectroscopy"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of patients who suffer from delirium postoperatively",
+          "description": "Delirium assessment CAM-ICU preoperatively (baseline) and postoperatively once a day during the first 7 postoperative days or until discharge.",
+          "timeFrame": "Delirium we be assessed postoperatively for 7 days or Discharge"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* age \\> 60 years\n* combined valve and CABG\n* repeat cardiac surgery\n* multiple valve replacement or repair\n* surgery of ascending aorta and aortic arch\n* signed informed consent.\n\nExclusion Criteria:\n\n* cardiac surgery without the use of cardiopulmonary bypass\n* symptomatic cerebrovascular disease,\n* history of delirium, or\n* schizophrenia",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "60 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "University Heatlh Network, Toronto General Hopsital",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M5G 2C4",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-08-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D003693",
+          "term": "Delirium"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D003221",
+          "term": "Confusion"
+        },
+        {
+          "id": "D019954",
+          "term": "Neurobehavioral Manifestations"
+        },
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D019965",
+          "term": "Neurocognitive Disorders"
+        },
+        {
+          "id": "D001523",
+          "term": "Mental Disorders"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

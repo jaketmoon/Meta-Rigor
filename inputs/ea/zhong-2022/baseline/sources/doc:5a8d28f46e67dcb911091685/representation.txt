@@ -1,0 +1,461 @@
+[DOCLING_PAGE 1]
+
+Mechanical Ventilation and Respiratory Support in the Pediatric Intensive Care Unit
+
+Omar Alibrahim, MD a,b , Kyle J. Rehder, MD, FCCM a,b ,
+
+Andrew G. Miller, MSc, RRT c , Alexandre T. Rotta, MD, FCCM a,b, *
+
+KEYWORDS
+
+ Mechanical ventilation  Noninvasive ventilation
+
+ High-flow nasal cannula  Negative pressure ventilation  Children
+
+ Continuous positive airway pressure  Bi-level positive airway pressure
+
+ Pediatric intensive care
+
+KEY POINTS
+
+ Heated humidified high-flow nasal cannula support has gained increasing popularity in the management of children with respiratory distress due to its ease of use, portability, tolerability, and success in the treatment of patients across the pediatric age spectrum.
+
+ Continuous positive airway pressure and bilevel positive airway pressure unload fatigued respiratory muscles, increase or maintain end-expiratory lung volume, prevent collapse of peripheral small airways during exhalation, and reduce work of breathing.
+
+ The goal of invasive mechanical ventilation is not to normalize gas exchange but to achieve sufficient oxygenation and ventilation to ensure tissue viability until recovery of acceptable lung function while minimizing excessive work of breathing and complications.
+
+ Patient-ventilator asynchrony increases work of breathing and patient discomfort and can aggravate lung injury.
+
+INTRODUCTION
+
+The need for respiratory support is one of the most common reasons children require critical care, and its use is ubiquitous to pediatric intensive care units (PICUs) throughout the world. It can be argued that no other treatment modality is more emblematic of pediatric critical care medicine as a specialty. Respiratory support comprises both noninvasive modalities (ie, heated humidified high-flow nasal cannula [HFNC], continuous positive airway pressure [CPAP], bilevel positive airway pressure
+
+Funding Source: None.
+
+a Division of Pediatric Critical Care Medicine, Duke University Medical Center, Durham, NC, USA; b Department of Pediatrics, Duke University School of Medicine, Durham, NC, USA;
+
+c Respiratory Care Services, Duke University Medical Center, Durham, NC, USA
+
+* Corresponding author. Division of Pediatric Critical Care Medicine, 2301 Erwin Road, DUMC 3046, Durham, NC 27710, USA
+
+E-mail address:
+
+alex.rotta@duke.edu
+
+Pediatr Clin N Am 69 (2022) 587-605
+
+https://doi.org/10.1016/j.pcl.2022.02.004
+
+0031-3955/22/ ª 2022 Elsevier Inc. All rights reserved.
+
+pediatric.theclinics.com
+
+[DOCLING_PAGE 2]
+
+Alibrahim et al 588
+
+[BiPAP], negative pressure ventilation [NPV]) and invasive mechanical ventilation. In this article, we review the various essential elements and considerations involved in the planning and conduct of respiratory support used in the treatment of the critically ill child.
+
+NONINVASIVE RESPIRATORY SUPPORT Heated Humidified High-Flow Nasal Cannula
+
+The use of HFNC for the treatment of children with respiratory distress or acute hypoxemic respiratory failure has increased significantly during the past decade, with nearly one-quarter of all patients admitted to the PICU now receiving this form of support. 1 The popularity of HFNC is likely related to its ease of use, portability, tolerability, and its success in the management of perinatal lung disease, acute viral bronchiolitis, and respiratory distress across the pediatric age spectrum. 2-5 Recent randomized controlled trials in children with critical bronchiolitis suggest that of HFNC may be superior to standard oxygen therapy 4,6 and equivalent to CPAP for meaningful outcomes, such as the need to escalate support to BiPAP or invasive mechanical ventilation. 7,8 HFNC has also been used to deliver continuous albuterol in patients with critical asthma, with outcomes comparable to aerosol face mask. 9,10
+
+Several mechanisms contribute to the clinical effect of HFNC. The bulk movement of gas delivered during HFNC therapy penetrates deeply into the hypopharynx and washes out CO2, thus functionally reducing the anatomic dead space. In addition, the delivery of gas flow at high velocity into the nasal cavity helps offset inspiratory resistance through the nasal passages, thus effectively decreasing work of breathing. The high flow rates delivered into the nasopharynx also provide a low level of positive pressure that may overcome subtle upper airway obstruction, whereas the delivery of conditioned (heated and humidified) gas improves mucociliary clearance and reduces the metabolic work related to heating and humidifying the inspired air. 11,12
+
+All HFNC system must contain the following elements: (1) a blender for oxygen and air connected to pressurized sources, (2) a water reservoir attached to a heated humidifier, (3) a heated circuit that maintains gas temperature and humidity, and (4) a nonocclusive nasal cannula interface ( Fig. 1 ). Aerosol treatment and specialty gases (eg, nitric oxide, helium-oxygen mixtures) can be delivered via HFNC. Medication deposition is affected by cannula size, location of the nebulizer within the circuit, type of system used, and flow, with lower flows resulting in higher aerosol deposition. 13
+
+On initiation of HFNC support, the clinician sets the gas temperature, the fraction of inspired oxygen (FiO2), and the flow rate. For comfort, gas temperature is generally set 1 o C to 2 o C lower than body temperature, whereas FiO2 should be chosen based on patient physiology and adjusted to target the desired peripheral capillary oxygen saturation (SpO2). Although there is no consensus regarding the ideal initial gas flow rate, weight-based flow dosing is preferred, at least in infants. 8 Modest respiratory support is achieved with flow rates between 0.5 and 1 L/kg/min, whereas flows up to 2 L/kg/ min further attenuate intrathoracic pressure swings associated with work of breathing and likely represent maximal support. 14 Flows in excess of 2 L/kg/min are unlikely to yield additional clinical benefit. 15
+
+Noninvasive Positive Pressure Ventilation
+
+Noninvasive positive pressure ventilation (NIPPV) modalities, such as CPAP and BiPAP, have been used extensively in patients with extrathoracic airway obstruction, neuromuscular weakness, and in those with obstructive or restrictive lung disease ( Box 1 ). 16-19 Of note, CPAP only delivers a continuous airway pressure; therefore, by definition, it is not a true form of noninvasive ventilation because, unlike BiPAP, the minute volume during CPAP is generated exclusively by the patient, not by the device. CPAP and BiPAP unload fatigued respiratory muscles, increase or maintain endexpiratory lung volume, prevent collapse of peripheral small airways to allow for a more complete exhalation, and reduce work of breathing ( Box 2 ).
+
+[DOCLING_PAGE 3]
+
+Mechanical Ventilation and Respiratory Support
+
+589
+
+Fig. 1. Commonly used devices for delivery of heated humidified gas mixtures via HFNC. ( A ) HFNC system assembled using a blender, heater/humidifier, and heated wire circuit, ( B ) Airvo-2 HFNC system (Fisher & Paykel Healthcare), and ( C ) Precision Flow high-velocity nasal insufflation HFNC system (Vapotherm, Inc.). ( From Alibrahim O, Slain KN. Noninvasive ventilation in the Pediatric Intensive Care Unit. In: Zimmerman JJ, Rotta AT, editors. Fuhrman & Zimmerman's Pediatric Critical Care, 6th edition. Philadelphia: Elsevier; 2022. P.646, with permission.)
+
+During CPAP, the device provides constant positive pressure throughout the respiratory cycle while the patient breathes spontaneously. Flow may be variable or fixed, depending on the device used. Although CPAP is generally well tolerated, 8,20 some children may need sedation to decrease anxiety or discomfort from the devicepatient interface. 21 With BiPAP, the operator sets an expiratory positive airway pressure (EPAP), inspiratory positive airway pressure (IPAP), and FiO2; when BiPAP modes with mandatory breaths are used, inspiratory time and mandatory respiratory rate must also be set. The IPAP assists with augmentation of tidal volume (VT) during inspiration, whereas the EPAP maintains airway patency during expiration, prevents alveolar derecruitment, decreases intrathoracic pressure swings, and may improve triggering synchrony.
+
+[DOCLING_PAGE 4]
+
+590
+
+Alibrahim et al
+
+[DOCLING_TABLE rows=2 columns=1]
+| Box 1 Indications for Noninvasive Positive Pressure Ventilation |
+| Acute Lower Respiratory Tract Diseases Bronchiolitis Pneumonia Pulmonary edema Acute chest syndrome Atelectasis Asthma Avoidance of Intubation or Reintubation Immunocompromised patients Neuromuscular disorders Cystic fibrosis Restrictive chest diseases Postoperative respiratory insufficiency Do-not-intubate status Postextubation respiratory insufficiency Long-Term Use Sleep disordered breathing Chest wall deformities (eg, scoliosis) Neuromuscular diseases Chronic respiratory failure (eg, bronchopulmonary dysplasia) |
+[/DOCLING_TABLE]
+
+A well-fitted and sealed interface (eg, nasal or full-face mask) is essential for effective delivery of both CPAP and BiPAP. The occurrence of air leak around an ill-fitting interface may prevent maintenance of the desired airway pressures and be a source of discomfort to the patient. Conversely, the application of too tight an interface may cause skin breakdown and pressure ulcers, especially with prolonged use. Several patient interfaces are available for the delivery of CPAP or BiPAP ( Fig. 2 ), including nasal pillows, nasal masks, oro-nasal masks, full-face masks, helmets, and mouthpieces. Nasal, oro-nasal, and full-face masks are most commonly used in the PICU.
+
+[DOCLING_TABLE rows=2 columns=1]
+| Box 2 Goals of Noninvasive Positive Pressure Ventilation |
+| Short-Term Noninvasive Positive Pressure Ventilation Decrease work of breathing Improvement of gas exchange Avoidance of intubation Long-Term Noninvasive Positive Pressure Ventilation Improve gas exchange Improve sleep duration and quality Prolong survival Improve quality of life |
+[/DOCLING_TABLE]
+
+[DOCLING_PAGE 5]
+
+Mechanical Ventilation and Respiratory Support
+
+591
+
+Hypoxemia and tachypnea that persist after 1 to 6 hours following initiation of NIPPV have been associated with treatment failure. 22-24 Therefore, intubation should be
+
+Fig. 2. Various interfaces for delivery of noninvasive ventilation support. ( A ) Nasal pillows (Medical Innovations PedFlow and Resmed Swift FX); and ( B ) Nasal (Sleepnet MiniMe 2) and oronasal (Respironics FitLife) and helmet (Arol NIV10301/X). Images courtesy of the manufacturers. ( From Alibrahim O, Slain KN. Noninvasive ventilation in the Pediatric Intensive Care Unit. In: Zimmerman JJ, Rotta AT, editors. Fuhrman & Zimmerman's Pediatric Critical Care, 6th edition. Philadelphia: Elsevier; 2022. P.647, with permission.)
+
+[DOCLING_PAGE 6]
+
+592
+
+Alibrahim et al
+
+Box 3
+
+Complications of Noninvasive Positive Pressure Ventilation
+
+Inadequate gas exchange
+
+Pulmonary aspiration
+
+Gastric distention and perforation
+
+Pressure skin injury (face, nose)
+
+Eye injury and irritation/conjunctivitis
+
+Air leak (pneumothorax, pneumomediastinum)
+
+Agitation
+
+Delay in intubation
+
+considered if one is unable to decrease FiO2 within a few hours from NIPPV initiation. NIPPV may mask progressive worsening of respiratory failure and lead to a delay in intubation, which increases the risk of associated complications, including death 25,26 ( Box 3 ). Therefore, appropriate patient selection and a high index of suspicion for the recognition of NIPPVV failure are paramount.
+
+Negative Pressure Ventilation
+
+There has been renewed interest in recent years in the use of cuirass NPV in the management of pediatric acute respiratory failure. 27-29 The cuirass interface is a plastic shell that covers the anterior chest wall to deliver either continuous negative pressure (CNEP) or biphasic cuirass ventilation (BCV; Fig. 3 ). In CNEP mode, negative (subatmospheric) pressure is applied within the cuirass to the anterior chest wall and is maintained at a constant level throughout the respiratory cycle while the patient breathes spontaneously; this can be viewed as the negative equivalent of CPAP. During BCV, inspiratory and expiratory phases are fully controlled (control mode) by modifying the negativity of the air pressure applied to the chest wall during the respiratory cycle. Unlike restful spontaneous breathing, both inspiration and exhalation are active during BCV.
+
+Fig. 3. Hayek RTX Cuirass ventilator. The chest cuirass is made of flexible plastic. This ventilator is capable of conventional NPV as well as high-frequency chest wall oscillations. ( From Alibrahim O, Slain KN. Noninvasive ventilation in the Pediatric Intensive Care Unit. In: Zimmerman JJ, Rotta AT, editors. Fuhrman & Zimmerman's Pediatric Critical Care, 6th edition. Philadelphia: Elsevier; 2022. P.648, with permission.)
+
+[DOCLING_PAGE 7]
+
+Mechanical Ventilation and Respiratory Support
+
+593
+
+CNEP is usually chosen as the initial support mode, with a minimum support of negative 8 ( [UNMAPPED_GLYPH U+0000] 8) cm H2O. This is then adjusted in decrements of 2 cm H2O until work of breathing is noted to improve. A pressure of negative 14 ( [UNMAPPED_GLYPH U+0000] 14) cm H2O generally is sufficient, but support can be escalated to more negative pressures (eg, [UNMAPPED_GLYPH U+0000] 20 cm H2O) as needed throughout the treatment course.
+
+By lowering the intrathoracic pressure, NPV increases right ventricular (RV) preload and decreases RV afterload by facilitating venous return and decreasing pulmonary vascular resistance due to alveolar recruitment, respectively. 30
+
+INVASIVE MECHANICAL VENTILATION
+
+The goal of invasive mechanical ventilation is not to normalize gas exchange but to achieve sufficient oxygenation and ventilation to ensure tissue viability until recovery of acceptable lung function while minimizing excessive work of breathing and complications. When precisely used, invasive mechanical ventilation is a life-saving intervention, yet care must be taken to avoid ventilator-induced lung injury (VILI).
+
+Indications for Invasive Mechanical Ventilation
+
+The decision to institute invasive mechanical ventilation is based primarily on the need to assist native pulmonary function in patients with acute respiratory failure. This could be from an inability to maintain adequate gas exchange or due to respiratory muscle fatigue or weakness. Although NIPPV is most commonly used earlier in the disease course, for mild or moderate respiratory insufficiency, or when endotracheal intubation is undesirable or contraindicated, invasive mechanical ventilation is indicated in the setting of more severe or rapidly evolving respiratory failure, refractory shock, neurologic impairment, muscle weakness, inability to maintain a patent airway, or any combination of the above. Additional indications for mechanical ventilation include the need to support performance of the left ventricle, to decrease metabolic demand, and to modulate pulmonary or cerebral blood flow in patients with pulmonary or intracranial hypertension, respectively.
+
+There are no absolute criteria for derangement of gas exchange that mandate initiation of respiratory support. Blood gas analysis often is unnecessary to assist in the decision to initiate mechanical respiratory support and is no substitute for clinical assessment. Although some have used numeric cutoffs to define acute hypoxemic and hypercapnic respiratory failure (eg, PaO2 <60 mm Hg while breathing >60% oxygen, PaCO2 >60 mm Hg, and pH < 7.25) to assist with the decision to initiate invasive mechanical ventilation, 31 the basic tenet is that it should be initiated when clinical goals cannot be safely met using noninvasive methods. Similarly, if a patient's disease trajectory suggests rapid decline toward a need for invasive mechanical ventilation, clinical prudence dictates the early initiation of invasive mechanical ventilation before respiratory or cardiac arrest.
+
+Basic Ventilator Function
+
+The basics of ventilation begin with moving gas in and out of the lungs, usually maintained by an individual's diaphragm and other respiratory muscles. Forces that must be overcome to move air into the lungs include airway resistance and elastance of the respiratory system (ie, lungs and chest wall). When, either due to disease or poor respiratory muscle function, a patient needs assistance to move air in and out of the lungs, ventilators may provide either supportive or full pressure to generate the necessary tidal volume.
+
+[DOCLING_PAGE 8]
+
+594
+
+Alibrahim et al
+
+Phases of a Breath
+
+The key components of a mechanical breath are trigger, flow pattern, limit, cycle, and inspiratory time ( Fig. 4 ). The trigger parameter signals the ventilator to initiate a mechanical breath, whereas flow pattern describes how the air flows into the patient during inspiration. Individual breaths can be pressure or volume limited. During pressure ventilation, the breath is immediately pressurized to the set pressure, which persists until the cycle parameter is met. During volume limited ventilation, gas is delivered throughout the inspiratory phase until the set VT is reached or the high-pressure alarm is activated. Although different ventilator modes may go by a host of names, the basics of trigger, flow pattern, limit, and cycle define the parameters of any mechanical breath.
+
+Conventional ventilation modes include control modes, where the limit and inspiratory time are predetermined, support modes where only the limit is preselected, and mixed modes of these two breath types. 32 The mode's title will typically follow the limit parameter, that is, volume control for controlled breaths with a volume limit and pressure support for supported breaths with a pressure limit. Pure control modes (eg, assist control) will give each breath with a predetermined inspiratory time, whereas a mixed mode will provide a set number of control breaths (determined by the set ventilator rate) with additional opportunity for patient triggered breaths (supported breaths) above that set rate. In either of these modes, should the patient not initiate a spontaneous breath within a predetermined time, the ventilator will deliver a timetriggered control breath, such that the patient will receive at a minimum the set ventilator rate.
+
+Inspiratory time is defined as the period from the start of flow into the patient to the start of exhalation. Expiratory time is defined as the period from the start of exhalation until the start of the next breath. Total cycle time is the sum of inspiratory and expiratory times (see Fig. 4 ).
+
+Fig. 4. Phases of a breath. ( Modified from Rehder KJ, Cheifetz I. Mechanical ventilation and respiratory care. In: Zimmerman JJ, Rotta AT, editors. Fuhrman & Zimmerman's Pediatric Critical Care, 6th edition. Philadelphia: Elsevier; 2022. P.628, with permission.)
+
+[DOCLING_PAGE 9]
+
+Mechanical Ventilation and Respiratory Support
+
+595
+
+Initiating Breaths
+
+Breaths can be initiated (triggered) by either the patient or the ventilator. Triggers include time, pressure, flow, minimum minute ventilation, apnea interval, and electrical signals (eg, electrical diaphragmatic activity). The most common triggers are time, flow, and pressure. All modern ventilators are capable of providing synchronized intermittent mandatory ventilation, in that when the patient is participatory, the ventilator uses a patient trigger to recognize the patient's desire for a breath and delivers either a mandatory machine breath or a pressure-supported breath. Flow or electrical triggers are typically the most sensitive and will allow for improved synchrony, particularly in infants or in patients with weak respiratory muscle effort. 33,34
+
+Flow Pattern
+
+During inspiration, airway pressure and lung volume will increase until inspiratory flow is terminated. The most common flow patterns used are constant flow and decelerating flow. Constant flow can only be used during volume-limited ventilation. Constant flow will increase pressure and volume linearly, whereas decelerating flow will result in rapid pressure and volume increase at the beginning of a breath, which then slows toward the end of inspiration. Decelerating flow is most commonly used, as it more closely mimics natural breathing and is likely to meet patient flow demands; however, different flow patterns may be beneficial for specific disease processes. 32
+
+Limit
+
+During assisted breathing, the ventilator will continue to deliver flow into the patient until a predetermined limit is reached. In volume-limited ventilation, the limit is a set volume of gas, and the peak inspiratory pressure (PIP) required to deliver that volume will be variable. Most modern ventilators will allow for more volume to be inspired than what is set, if so desired by the patient. In pressure-limited ventilation, the ventilator will provide flow until a set PIP is reached, resulting in variable tidal volumes. Delivered VT is the integral of flow with respect to time for each of these breaths. Even when the set limit is reached and flow into the patient ceases, gas may not necessarily be allowed to leave the patient as the lungs are held in an inflated state until the beginning of expiration (cycling).
+
+Adaptive modes allow the clinician to set a VT or minute ventilation target, and the ventilator delivers pressure-limited breaths to meet that target based on lung compliance measured during test and subsequent breaths. These modes include pressure regulated volume control, average volume-assured pressure support, and adaptive support ventilation. Other adaptive modes of ventilation include proportional assist ventilation (PAV) and neurally adjusted ventilatory assist (NAVA). Each of these modes adjust the amount of support given breath to breath based on patient effort, either measured through flow-derived calculation of patient work (PAV) or through electrical measurement of diaphragm contraction (NAVA).
+
+Exhalation
+
+Ventilator cycling from inspiration to exhalation is most commonly signaled by time (ie, a set inspiratory time during a control breath) or flow (eg, 75%-80% reduction from peak inspiratory flow signaling the end of inspiration for a supported breath). When available, a preset threshold of diaphragmatic electrical signal may also be used as a cycling signal.
+
+Exhalation is passive during almost all forms of invasive mechanical ventilation, with high-frequency oscillatory ventilation (HFOV) being the exception. At the determined end of inspiration during conventional mechanical ventilation, an expiratory valve opens and the chest wall and diaphragm recoil expels gas in an exponentially declining fashion determined by the mathematic product of lung compliance and airways resistance, or time constant . The expiratory time constant is the amount of time it takes for the lung to empty 63% of tidal volume, and therefore complete emptying of the lungs (greater than 98% emptying) takes at least 4 time constants. Time constants will be prolonged in states of high airway resistance and of high lung compliance. This is why longer expiratory times are necessary in small airways disease states such as asthma and bronchiolitis to allow complete exhalation and avoid gas trapping.
+
+[DOCLING_PAGE 10]
+
+Alibrahim et al 596
+
+Initial Ventilator Settings
+
+When initiating mechanical ventilation, it is imperative to understand the underlying pathophysiology: hypoxemic, hypercapnic, or neuromuscular respiratory failure. The ventilator itself will not cure the underlying disease, yet proper management-or mismanagement-can most certainly influence the course of lung disease; it can expedite recovery or worsen pulmonary function through the occurrence of VILI.
+
+Because carbon dioxide rapidly equilibrates between the alveolar gas and the blood stream, carbon dioxide removal is primarily a function of alveolar minute ventilation. Minute ventilation, or the volume of gas moved in and out of the lungs per minute, is represented by the product of respiratory rate and tidal volume. Oxygenation, however, depends on a slower diffusion process and uses hemoglobin as a carrier molecule in the blood. As such, systemic oxygenation is not only dependent on moving oxygen into the alveoli, but on higher mean airway pressures to drive oxygen diffusion across the alveolar membrane, as well as optimizing ventilation perfusion (V/Q) ratio so that oxygen is able to bind to passing hemoglobin.
+
+Appropriate setting and titration of the ventilator relies on an understanding of clinical goals and pathophysiology (ie, restrictive disease, obstructive disease, or a combination of the two).
+
+Tidal Volume
+
+Selecting the optimal VT is largely dependent on the underlying disease process and should be indexed to predicted (ideal) body weight. For patients with healthy lungs , like those receiving mechanical ventilation for severe encephalopathy or neuromuscular failure, a VT between 6 and 10 mL/kg is generally acceptable and should be easily achievable with modest PIPs. Patients with restrictive lung disease , like those with severe pneumonias or pediatric acute respiratory distress syndrome (PARDS) should be ventilated with VT between 5 and 8 mL/kg as measured at the endotracheal tube. 35,36 Lower VT in the range of 3 to 6 mL/kg should be used in patients with more severely decreased respiratory system compliance. To avoid VILI, the end-inspiratory alveolar pressure (ie, plateau pressure) should be targeted no higher than 28 cm H2O (or 32 cm H2O in patients with reduced chest wall compliance). 35,36 For patients with obstructive disease , like those with near-fatal asthma, large VT (ie, 8-12 mL/kg) are often necessary to maintain an acceptable minute ventilation because these patients will also require a low respiratory rate to allow for full exhalation before a subsequent breath. 37 Due to the high airway resistance, this may necessitate very high PIP (as high as 50-60 cm H2O). It must be underscored, however, that these high pressures are not directly transmitted to the alveoli because they are dynamic measurements taken during inspiratory flow and thus influenced by the high airway resistance. The plateau pressure, a static measurement obtained during an inspiratory hold in the absence of flow, is not influenced by airway resistance and is a better gauge of the forces being transmitted to the alveoli; it should be kept less than 30 cm H2O to avoid barotrauma.
+
+[DOCLING_PAGE 11]
+
+Mechanical Ventilation and Respiratory Support
+
+597
+
+Ventilator Rate and Inspiratory Time
+
+Ventilator rate is selected based on the age and ventilatory requirements of the patient and should subsequently be adjusted according to the PaCO2 or end-tidal CO2. Patients with restrictive disease generally require higher rates to achieve an acceptable minute ventilation due to the concomitant use of reduced VT. Conversely, patients with obstructive disease will require lower rates to allow for complete exhalation before the next breath and prevent dynamic hyperinflation. Under normal circumstances, the inspiratory time for control breaths is selected to provide an inspiratory-toexpiratory time (I: E) ratio of at approximately 1:2, which approximates normal spontaneous breathing. Patients with restrictive disease usually have heterogeneous lung compliance with varying regional time constants, so a longer inspiratory time is necessary to allow for adequate gas distribution and avoid underventilation and underinflation. A long inspiratory time also increases the mean airway pressure, which is directly correlated with oxygenation and may be beneficial in restrictive processes such as acute respiratory distress syndrome (ARDS). Sufficient expiratory time must be provided to allow for complete exhalation, which is particularly important in patients with obstructive disease. If inspiration starts before the prior exhalation is completed, gas trapping will result. In mechanically ventilated children with asthma, the expiratory time must be lengthened to avoid gas trapping ( Fig. 5 ). This is best accomplished by decreasing the respiratory rate rather than by shortening the inspiratory time, because the latter could result in insufficient time for the delivery of the desired VT when airway resistance is high.
+
+Continuous positive airway pressure, positive end expiratory pressure, and FiO2
+
+CPAPdenotes the maintenance of positive airway pressure throughout the respiratory cycle with no positive pressure breaths delivered, whereas positive end expiratory pressure (PEEP) refers to the maintenance of airway pressure more than the atmospheric pressure between breaths; for the remainder of this article, we will use PEEPas a uniform term for both these pressures when applied to the intubated patient undergoing invasive mechanical ventilation. We reserved the term CPAP for the application of CPAP via a tight-fitting interface for the nonintubated patient, as previously discussed.
+
+Fig. 5. Scalars demonstrating gas trapping in a patient with obstructive small airways disease. ( Modified from Rehder KJ, Cheifetz I. Mechanical ventilation and respiratory care. In: Zimmerman JJ, Rotta AT, editors. Fuhrman & Zimmerman's Pediatric Critical Care, 6th edition. Philadelphia: Elsevier; 2022. P.631, with permission . )
+
+[DOCLING_PAGE 12]
+
+Alibrahim et al 598
+
+Atelectasis is common in lung diseases characterized by nonuniform or heterogeneous parenchymal involvement. Recruitment of collapsed alveoli requires higher airway pressures than those needed to sustain inflation once the alveoli are open, and the reopening of these alveoli may cause shear injury to the alveolar epithelium, a process known as atelectrauma. PEEP is an essential element of an open lung ventilation strategy that, when properly set, (1) increases end-expiratory lung volume above closing volume to prevent cyclic alveolar collapse, (2) maintains stability of alveolar segments, (3) increases oxygenation by improving V/Q matching, and (4) reduces work of breathing by unloading the diaphragm.
+
+The optimal PEEP is the level at which there is an acceptable balance between the desired clinical goals and undesired adverse effects. Clinicians should target PEEP to optimal lung expansion and to maintain adequate oxygenation with a 'nontoxic' inspired oxygen concentration. 35,36 Arbitrary limits cannot be placed on the level of PEEP required to maintain adequate gas exchange, which are highly variable among disease processes or even for the same patient at different time points. For patients with normal lungs, low levels of PEEP in the range of 4 to 5 cm H2O are generally sufficient to maintain adequate oxygenation and prevent atelectasis. Patients with restrictive disease and poor lung compliance, such as those with ARDS, will require higher PEEP to prevent alveolar collapse during expiration. A helpful guideline is to titrate PEEP based on a PEEP/FiO2 table [ Table 1 ], where patients with a high oxygen requirement receive higher PEEP and patients with low oxygen requirement receive lower PEEP. 38 Recent data suggest that clinicians underutilize PEEP in the setting of ARDS, and that the application of PEEP lower than indicated is associated with increased mortality. 39 Restrictive syndromes caused by obesity, anasarca, or increased abdominal pressure will also benefit from higher PEEP to stabilize the alveoli at end-expiration, which can be best titrated using esophageal manometry.
+
+In obstructive lung disease of the small airways (eg, asthma), the target level of PEEP can be controversial. The application of PEEP may benefit patients with expiratory flow limitation from dynamic compression of the small airways by moving the equal pressure point down the airway and enabling decompression of hyperinflated upstream alveoli. 40 The application of low levels of PEEP (lower than the intrinsicPEEP) may relieve dyspnea by facilitating ventilator triggering and synchrony for the intubated patient capable of drawing spontaneous breaths. 40,41 However, for patients with severe airflow obstruction receiving neuromuscular blockade, the application of PEEP is uniformly associated with hyperinflation and increased intrathoracic pressures that could result in hemodynamic compromise. In these patients, our practice
+
+[DOCLING_TABLE rows=5 columns=8]
+| Table 1 PEEP/FiO 2 combinations based on the ARDS clinical trials network lower PEEP/Higher FiO 2 protocol a | Table 1 PEEP/FiO 2 combinations based on the ARDS clinical trials network lower PEEP/Higher FiO 2 protocol a | Table 1 PEEP/FiO 2 combinations based on the ARDS clinical trials network lower PEEP/Higher FiO 2 protocol a | Table 1 PEEP/FiO 2 combinations based on the ARDS clinical trials network lower PEEP/Higher FiO 2 protocol a | Table 1 PEEP/FiO 2 combinations based on the ARDS clinical trials network lower PEEP/Higher FiO 2 protocol a | Table 1 PEEP/FiO 2 combinations based on the ARDS clinical trials network lower PEEP/Higher FiO 2 protocol a | Table 1 PEEP/FiO 2 combinations based on the ARDS clinical trials network lower PEEP/Higher FiO 2 protocol a | Table 1 PEEP/FiO 2 combinations based on the ARDS clinical trials network lower PEEP/Higher FiO 2 protocol a |
+| FiO 2 | 0.3 | 0.4 | 0.4 | 0.5 | 0.5 | 0.6 | 0.7 |
+| PEEP | 5 | 5 | 8 | 8 | 10 | 10 | 10 |
+| FiO 2 | 0.7 | 0.7 | 0.8 | 0.9 | 0.9 | 1.0 |  |
+| PEEP | 12 | 14 | 14 | 16 | 18 | 18-24 |  |
+[/DOCLING_TABLE]
+
+FiO2, fraction of inspired oxygen; PEEP, positive end-expiratory pressure.
+
+a Data from reference 33 .
+
+[DOCLING_PAGE 13]
+
+Mechanical Ventilation and Respiratory Support
+
+599
+
+is to use zero PEEP while under neuromuscular blockade and apply a low level of PEEP (lower than the intrinsic-PEEP and generally not greater than 8 cm H2O) to facilitate ventilator synchrony in patients contributing with spontaneous breaths.
+
+In conjunction with PEEP, FiO2 is adjusted to achieve adequate oxygenation. High concentrations of oxygen can contribute to lung injury through development of reactive oxygen species and should be avoided. The exact threshold that increases the risk of oxygen-associated lung injury is not clear, but a FiO2  0.5 is generally considered safe. With evidence of adequate oxygen delivery, a permissive hypoxemia strategy may be safely applied to permit the application of lower FiO2. 35
+
+Patient-Ventilator Asynchrony
+
+A primary goal of mechanical ventilation is the coordination of the patient's natural breathing pattern with mechanical breaths. The patient should be able to receive a breath when attempting to inspire, just as they should be able to effortlessly exhale when ready. Patient-ventilator asynchrony increases work of breathing and patient discomfort and can aggravate lung injury. Patients exhibiting asynchrony during mechanical ventilation often demonstrate improved oxygenation and ventilation after neuromuscular blockade; however, adjustments to ventilator settings can often avoid the need for neuromuscular blockade and are preferred.
+
+Triggering Asynchrony
+
+Asynchrony associated with breath triggering is common and can be classified into (1) missed triggering, (2) delayed triggering, (3) autotriggering, (4) double triggering, and (5) reverse triggering. 42 The first two forms of asynchrony cause air hunger by not providing a supported breath when the patient desires a breath, whereas the remaining forms provide mechanical breaths when the patient should not be receiving a breath.
+
+Missed triggering: Missed triggering refers to a patient's effort that fails to trigger the ventilator, such that effort is not accompanied by a supported mechanical breath ( Fig. 6 ). Most commonly, poor patient effort (often secondary to muscle weakness) results in a breath that is insufficient to reach the trigger threshold. A trigger threshold that is set inappropriately high may lead to missed triggering even when the patient can generate a normal effort. The missing (ineffective) triggering presents as either a pressure or flow deflection along with visualized patient effort that is not followed by a ventilator breath. Missed triggers can also be detected using waveform capnography.
+
+Delayed triggering: Delayed triggering is defined as a lag from sensing the trigger to delivering the mechanical breath (see Fig. 6 ), usually intrinsic to the trigger sensitivity and electronic response of the ventilator.
+
+Autotriggering: Autotriggering occurs when mechanical breaths are delivered neither in response to patient effort nor a timed breath (see Fig. 6 ). Factors commonly associated with autotriggering include an inadequately low triggering threshold, circuit leak, water in the circuit, and ventilator sensing of patient cardiac oscillations.
+
+Double triggering: Double triggering occurs when two consecutive inspirations happen within an interval of less than half of the mean inspiratory time (see Fig. 6 ). A common reason for double triggering is when the patient's native inspiratory time exceeds the set inspiratory time, usually due to high patient demand or coughing. As the second breath is triggered while the patient is still inhaling, a higher VT may be inadvertently delivered with subsequent increase in alveolar pressure.
+
+Reverse triggering : Reverse triggering occurs when the ventilator delivers a breath not triggered by the patient (usually a time-triggered breath), and the distension of the lungs causes the diaphragm to contract, thus triggering a spontaneous breath. The combination of the mechanical breath and late diaphragm contraction may result in larger than intended VT, along with a prematurely terminated breath while the patient is still trying to inhale.
+
+[DOCLING_PAGE 14]
+
+600
+
+Alibrahim et al
+
+Fig. 6. Scalars representing different types of patient-ventilator asynchrony. ( A ) The trigger sensitivity is initially set such that the patient is unable to trigger a breath; a flow deflection signals attempted inhalation without an associated breath. Subsequently, the trigger is set such that the patient attempts to inhale, and there is a delay before the ventilator responds with a breath. ( B ) The patient initially experiences a double trigger event, with a second breath triggered before beginning exhalation, resulting in additional tidal volume delivered with an increase in pressure. The patient then begins to experience autotriggering, with repeated breaths given immediately following exhalation. The latter may be easily mistaken for tachypnea, but examination of the patient will reveal no respiratory effort. ( C ) This patient is experiencing flow asynchrony in the form of inadequate flow demand. The patient begins to inhale but in unable to draw enough flow to meet his needs, slightly exhales, then once again inhales. The pressure waveform has a scooped appearance as the patient 'sucks' flow from the circuit. ( From Rehder KJ, Cheifetz I. Mechanical ventilation and respiratory care. In: Zimmerman JJ, Rotta AT, editors. Fuhrman & Zimmerman's Pediatric Critical Care, 6th edition. Philadelphia: Elsevier; 2022. P.636, with permission.)
+
+[DOCLING_PAGE 15]
+
+Mechanical Ventilation and Respiratory Support
+
+601
+
+Flow Asynchrony
+
+Flow asynchrony occurs during inspiration, most commonly when the patient's demand exceeds the delivered flow. 42,43 The pressure scalar can be useful in assessing flow asynchrony. A commonly witnessed pattern for inadequate flow is an 'M-shaped' flow pattern as the patient maximizes the available flow, slightly exhales, and then inhales again to the maximal available flow (see Fig. 6 ). Less common is a delivered flow that is in excess of the patient's needs, resulting in an early peak in airway pressure and potential for larger tidal volumes.
+
+Cycling Asynchrony
+
+Patients can experience notable discomfort when their neural inspiratory time and ventilator cycling criteria are mismatched. 42,43 Premature cycling refers to the ventilator terminating inspiration while the patient is still maintaining an inspiratory effort, often in the presence of a leak in the ventilator circuit or around the endotracheal tube. Delayed cycling refers to the prolongation of inspiration beyond the start of the patient's expiration. In addition to high PIP as the patient attempts to exhale against a closed expiratory valve, a shortened expiratory time may result in gas trapping. 43
+
+Nontraditional Ventilator Modes
+
+The most commonly used nontraditional mode of ventilation is high frequency ventilation, defined by supraphysiologic breath rates (greater than 150 breaths/min) and very small tidal volumes that approximate-or are lower than-the anatomic dead space. 44 The three main types of high frequency ventilation used in clinical practice are HFOV, high frequency jet ventilation (HFJV), and high-frequency percussive ventilation. Due to their very low VT, these modes of ventilation are theorized to be lung-protective, yet definitive evidence of their role in the treatment of pediatric ARDS are lacking. Oxygenation may be supported by a high baseline mean airway pressure, whereas ventilation occurs via a mix of gas exchange principles including flow streaming, asymmetric velocity profiles, augmented dispersion, cardiogenic mixing, diffusion, convection, and Pendelluft ventilation. 45
+
+Airway pressure release ventilation (APRV), also called bilevel ventilation, is a nontraditional mode of ventilation primarily used for hypoxemic respiratory failure in the patient capable of maintaining a spontaneous breathing effort. APRV uses prolonged sustained lung inflation with unrestricted spontaneous breathing to maintain a high mean airway pressure to support oxygenation. Ventilation occurs through spontaneous small breaths (generated by the patient) which occur above that sustained inflation, coupled with intermittent brief release breaths, with rapid exhalation and reinflation to augment CO2 clearance. 46 A recent randomized controlled trial demonstrated APRV to be associated with increased mortality in pediatric ARDS. 47
+
+Each of these modes has theoretic advantages and, when applied correctly, can often improve short-term gas exchange. Despite these reported short-term improvements in physiologic outcomes, convincing evidence demonstrating that these modes improve meaningful clinical outcomes is lacking. In addition, inexpert management of any of these modes carries a high potential for iatrogenic lung injury. These unique forms of ventilation are most commonly used as rescue when conventional modes cannot meet clinical goals, but may also be used early as part of a comprehensive lung protective strategy for certain disease processes, including air leak syndromes and inhalational injury.
+
+[DOCLING_PAGE 16]
+
+Alibrahim et al 602
+
+SUMMARY
+
+In the setting of respiratory failure or respiratory insufficiency, mechanical ventilation serves to augment the patient's native respiratory effort, either noninvasively or invasively. The application of continuous positive pressure also helps maintain optimal V/ Qmatching in the setting of restrictive or heterogeneous lung disease. Ventilator managementshouldfocusonlungprotectiontoavoidVILIandallowforbestchanceforlung recovery. Specific strategies will also need to be adjusted based on underlying lung and cardiovascular pathophysiology. Finally, titrating settings for optimal patient-ventilator synchrony will improve gas exchange and comfort while also helping minimize VILI.
+
+CLINICS CARE POINTS
+
+ Close monitoring of patient response is paramount following initiation NIPPV because hypoxemia and tachypnea that persist after 1 to 6 hours following initiation of NIPPV have been associated with treatment failure.
+
+ Blood gas analysis often is unnecessary to assist in the decision to initiate mechanical respiratory support and is no substitute for clinical assessment.
+
+ Patients with restrictive lung disease (eg, severe pneumonias, PARDS) should be ventilated with VT between 5 and 8 mL/kg. Lower VT in the range of 3 to 6 mL/kg should be used in patients with more severely decreased respiratory system compliance.
+
+ Patients with obstructive lung disease (eg, near-fatal asthma) often require large VT (ie, 812 mL/kg) and low respiratory rates to allow for complete exhalation before the start of the next breath and prevent dynamic hyperinflation.
+
+ Clinicians should target PEEP to optimal lung expansion and to maintain adequate oxygenation with a 'nontoxic' inspired oxygen concentration.
+
+ Nontraditional ventilator modes (eg, HFOV, HFJV) are most commonly used as rescue when conventional modes cannot meet clinical goals but may also be used early as part of a comprehensive lung protective strategy for certain disease processes.
+
+CONFLICT OF INTEREST STATEMENT
+
+A.T. Rotta received honoraria from Breas US and Vapotherm Inc for consulting, development of educational materials, and lecturing. The remaining authors do not have any potential conflicts to disclose.
+
+REFERENCES
+
+Morris JV, Kapetanstrataki M, Parslow RC, et al. Patterns of Use of Heated Humidified High-Flow Nasal Cannula Therapy in PICUs in the United Kingdom and Republic of Ireland. Pediatr Crit Care Med 2019;20(3):223-32.
+
+Wilkinson D, Andersen C, O'Donnell CP, et al. High flow nasal cannula for respiratory support in preterm infants. Cochrane Database Syst Rev 2016;2: CD006405.
+
+Franklin D, Babl FE, Schibler A. High-Flow Oxygen Therapy in Infants with Bronchiolitis. N Engl J Med 2018;378(25):2446-7.
+
+Franklin D, Babl FE, Schlapbach LJ, et al. A Randomized Trial of High-Flow Oxygen Therapy in Infants with Bronchiolitis. N Engl J Med 2018;378(12):1121-31.
+
+[DOCLING_PAGE 17]
+
+Mechanical Ventilation and Respiratory Support
+
+603
+
+Ward JJ. High-flow oxygen administration by nasal cannula for adult and perinatal patients. Respir Care 2013;58(1):98-122.
+
+Kepreotes E, Whitehead B, Attia J, et al. High-flow warm humidified oxygen versus standard low-flow nasal cannula oxygen for moderate bronchiolitis (HFWHO RCT): an open, phase 4, randomised controlled trial. Lancet 2017; 389(10072):930-9.
+
+Cesar RG, Bispo BRP, Felix P, et al. High-Flow Nasal Cannula versus Continuous Positive Airway Pressure in Critical Bronchiolitis: A Randomized Controlled Pilot. J Pediatr Intensive Care 2020;9(4):248-55.
+
+Milesi C, Essouri S, Pouyau R, et al. High flow nasal cannula (HFNC) versus nasal continuous positive airway pressure (nCPAP) for the initial respiratory management of acute viral bronchiolitis in young infants: a multicenter randomized controlled trial (TRAMONTANE study). Intensive Care Med 2017;43(2):209-16.
+
+Gates RM, Haynes KE, Rehder KJ, et al. High-Flow Nasal Cannula in Pediatric Critical Asthma. Respir Care 2021;66(8):1240-6.
+
+Gauto Benitez R, Morilla Sanabria LP, Pavlicich V, et al. High flow nasal cannula oxygen therapy in patients with asthmatic crisis in the pediatric emergency department. Rev Chil Pediatr 2019;90(6):642-8.
+
+Hasani A, Chapman TH, McCool D, et al. Domiciliary humidification improves lung mucociliary clearance in patients with bronchiectasis. Chron Respir Dis 2008;5(2):81-6.
+
+Dysart K, Miller TL, Wolfson MR, et al. Research in high flow therapy: mechanisms of action. Respir Med 2009;103(10):1400-5.
+
+Li J, Fink JB, MacLoughlin R, et al. A narrative review on trans-nasal pulmonary aerosol delivery. Crit Care 2020;24(1):506.
+
+Weiler T, Kamerkar A, Hotz J, et al. The Relationship between High Flow Nasal Cannula Flow Rate and Effort of Breathing in Children. J Pediatr 2017;189: 66-71 e63.
+
+Milesi C, Pierre AF, Deho A, et al. A multicenter randomized controlled trial of a 3L/kg/min versus 2-L/kg/min high-flow nasal cannula flow rate in young infants with severe viral bronchiolitis (TRAMONTANE 2). Intensive Care Med 2018;44(11): 1870-8.
+
+Luo F, Annane D, Orlikowski D, et al. Invasive versus non-invasive ventilation for acute respiratory failure in neuromuscular disease and chest wall disorders. Cochrane Database Syst Rev 2017;12:CD008380.
+
+Jat KR, Mathew JL. Continuous positive airway pressure (CPAP) for acute bronchiolitis in children. Cochrane Database Syst Rev 2019;1:CD010473.
+
+Korang SK, Feinberg J, Wetterslev J, et al. Non-invasive positive pressure ventilation for acute asthma in children. Cochrane Database Syst Rev 2016;9: CD012067.
+
+Morley SL. Non-invasive ventilation in paediatric critical care. Paediatr Respir Rev 2016;20:24-31.
+
+Yanez LJ, Yunge M, Emilfork M, et al. A prospective, randomized, controlled trial of noninvasive ventilation in pediatric acute respiratory failure. Pediatr Crit Care Med 2008;9(5):484-9.
+
+Abadesso C, Nunes P, Silvestre C, et al. Non-invasive ventilation in acute respiratory failure in children. Pediatr Rep 2012;4(2):e16.
+
+Mayordomo-Colunga J, Medina A, Rey C, et al. Predictive factors of non invasive ventilation failure in critically ill children: a prospective epidemiological study. Intensive Care Med 2009;35(3):527-36.
+
+[DOCLING_PAGE 18]
+
+604
+
+Alibrahim et al
+
+James CS, Hallewell CP, James DP, et al. Predicting the success of non-invasive ventilation in preventing intubation and re-intubation in the paediatric intensive care unit. Intensive Care Med 2011;37(12):1994-2001.
+
+Mayordomo-Colunga J, Pons M, Lopez Y, et al. Predicting non-invasive ventilation failure in children from the SpO(2)/FiO(2) (SF) ratio. Intensive Care Med 2013;39(6):1095-103.
+
+Mosier JM, Sakles JC, Whitmore SP, et al. Failed noninvasive positive-pressure ventilation is associated with an increased risk of intubation-related complications. Ann Intensive Care 2015;5:4.
+
+Demoule A, Girou E, Richard JC, et al. Benefits and risks of success or failure of noninvasive ventilation. Intensive Care Med 2006;32(11):1756-65.
+
+Hassinger AB, Breuer RK, Nutty K, et al. Negative-Pressure Ventilation in Pediatric Acute Respiratory Failure. Respir Care 2017;62(12):1540-9.
+
+Moffitt CA, Deakins K, Cheifetz I, et al. Use of Negative Pressure Ventilation in Pediatric Critical Care: Experience in 56 PICUs in the Virtual Pediatric Systems Database (2009-2019). Pediatr Crit Care Med 2021;22(6):e363-8.
+
+Rotta AT. Randomized Controlled Trial of Negative Pressure Ventilation: We First Need a National Patient Registry. Pediatr Crit Care Med 2021;22(6):e369-70.
+
+Shekerdemian LS, Bush A, Shore DF, et al. Cardiorespiratory responses to negative pressure ventilation after tetralogy of fallot repair: a hemodynamic tool for patients with a low-output state. J Am Coll Cardiol 1999;33(2):549-55.
+
+Sarnaik AP, Clark JA, Heidemann SM. Respiratory Distress and Failure. In: Kliegman RM, St Geme JW III, editors. Nelson Textbook of pediatrics. 21 ed. Philadelphia: Elsevier; 2020. p. 583-601.
+
+Mireles-Cabodevila E, Hatipoglu U, Chatburn RL. A rational framework for selecting modes of ventilation. Respir Care 2013;58(2):348-66.
+
+Murias G, Villagra A, Blanch L. Patient-ventilator dyssynchrony during assisted invasive mechanical ventilation. Minerva Anestesiol 2013;79(4):434-44.
+
+Stein H, Firestone K, Rimensberger PC. Synchronized mechanical ventilation using electrical activity of the diaphragm in neonates. Clin Perinatol 2012;39(3): 525-42.
+
+Pediatric Acute Lung Injury Consensus Conference G. Pediatric acute respiratory distress syndrome: consensus recommendations from the Pediatric Acute Lung Injury Consensus Conference. Pediatr Crit Care Med 2015;16(5):428-39.
+
+Rimensberger PC, Cheifetz IM. Pediatric Acute Lung Injury Consensus Conference G. Ventilatory support in children with pediatric acute respiratory distress syndrome: proceedings from the Pediatric Acute Lung Injury Consensus Conference. Pediatr Crit Care Med 2015;16(5 Suppl 1):S51-60.
+
+Darioli R, Perret C. Mechanical controlled hypoventilation in status asthmaticus. Am Rev Respir Dis 1984;129(3):385-7.
+
+Brower RG, Lanken PN, MacIntyre N, et al. Higher versus lower positive endexpiratory pressures in patients with the acute respiratory distress syndrome. N Engl J Med 2004;351(4):327-36.
+
+Khemani RG, Parvathaneni K, Yehya N, et al. Positive End-Expiratory Pressure Lower Than the ARDS Network Protocol Is Associated with Higher Pediatric Acute Respiratory Distress Syndrome Mortality. Am J Respir Crit Care Med 2018;198(1):77-89.
+
+Marini JJ. Should PEEP be used in airflow obstruction? Am Rev Respir Dis 1989; 140(1):1-3.
+
+Stewart TE, Slutsky AS. Occult, occult auto-PEEP in status asthmaticus. Crit Care Med 1996;24(3):379-80.
+
+[DOCLING_PAGE 19]
+
+Mechanical Ventilation and Respiratory Support
+
+605
+
+Gilstrap D, MacIntyre N. Patient-ventilator interactions. Implications for clinical management. Am J Respir Crit Care Med 2013;188(9):1058-68.
+
+Gilstrap D, Davies J. Patient-Ventilator Interactions. Clin Chest Med 2016;37(4): 669-81.
+
+Miller AG, Bartle RM, Rehder KJ. High-Frequency Jet Ventilation in Neonatal and Pediatric Subjects: A Narrative Review. Respir Care 2021;66(5):845-56.
+
+Hupp SR, Turner DA, Rehder KJ. Is there still a role for high-frequency oscillatory ventilation in neonates, children and adults? Expert Rev Respir Med 2015;9(5): 603-18.
+
+Turner DA, Rehder KJ, Cheifetz IM. Nontraditional modes of mechanical ventilation: progress or distraction? Expert Rev Respir Med 2012;6(3):277-84.
+
+Lalgudi Ganesan S, Jayashree M, Chandra Singhi S, et al. Airway Pressure Release Ventilation in Pediatric Acute Respiratory Distress Syndrome. A Randomized Controlled Trial. Am J Respir Crit Care Med 2018;198(9):1199-207.

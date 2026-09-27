@@ -1,0 +1,451 @@
+[DOCLING_PAGE 1]
+
+Does imaging of the ischemic penumbra have value in acute ischemic stroke with large vessel occlusion?
+
+Pierre Seners, Jean-Claude Baron, Jean-Marc Olivot, Gregory W Albers
+
+To cite this version:
+
+Pierre Seners, Jean-Claude Baron, Jean-Marc Olivot, Gregory W Albers. Does imaging of the ischemic penumbra have value in acute ischemic stroke with large vessel occlusion?. Current Opinion in Neurology, 2024, 37 (1), pp.1-7. ⟨10.1097/wco.0000000000001235⟩. ⟨hal-04697238⟩
+
+HAL Id: hal-04697238 https://hal.science/hal-04697238v1
+
+Submitted on 13 Sep 2024
+
+HAL is a multi-disciplinary open access archive for the deposit and dissemination of scientific research documents, whether they are published or not. The documents may come from teaching and research institutions in France or abroad, or from public or private research centers.
+
+L'archive ouverte pluridisciplinaire HAL , est destinée au dépôt et à la diffusion de documents scientifiques de niveau recherche, publiés ou non, émanant des établissements d'enseignement et de recherche français ou étrangers, des laboratoires publics ou privés.
+
+HAL Authorization
+
+[DOCLING_PAGE 2]
+
+Downloaded from http://journals.lww.com/co-neurology by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0h CywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 09/13/2024
+
+REVIEW
+
+C URRENT
+
+OPINION
+
+Does imaging of the ischemic penumbra have value in acute ischemic stroke with large
+
+vessel occlusion?
+
+Pierre Seners a,b , Jean-Claude Baron b,c , Jean-Marc Olivot d and Gregory W. Albers e
+
+Purpose of review
+
+In this review, we summarize current evidence regarding potential benefits and limitations of using perfusion imaging to estimate presence and extent of irreversibly injured ischemic brain tissue ( ' core ' ) and severely ischemic yet salvageable tissue ( ' penumbra ' ) in acute stroke patients with large vessel occlusion (LVO).
+
+Recent findings
+
+Core and penumbra volumes are strong prognostic biomarkers in LVO patients. Greater benefits of both intravenous thrombolysis and endovascular therapy (EVT) are observed in patients with small core and large penumbra volumes. However, some current definitions of clinically relevant penumbra may be too restrictive and exclude patients who may benefit from reperfusion therapies. Alongside other clinical and radiological factors, penumbral imaging may enhance the discussion regarding the benefit/risk ratio of EVT in common clinical situations, such as patients with large core -- for whom EVT ' s benefit is established but associated with a high rate of severe disability -- , or patients with mild symptoms or medium vessel occlusions -- for whom EVT ' s benefit is currently unknown. Beyond penumbral evaluation, perfusion imaging is clinically relevant for optimizing patient ' s selection for neuroprotection trials.
+
+Summary
+
+In an emerging era of precision medicine, perfusion imaging is a valuable tool in LVO-related acute stroke.
+
+Keywords
+
+ischemic stroke, neuroprotection, penumbra, perfusion imaging, thrombectomy
+
+INTRODUCTION
+
+In acute ischemic stroke (AIS), therapeutic trials have shown that the benefit of reperfusion therapies -either intravenous thrombolysis or mechanical thrombectomy - decreases as time elapses [1,2]. This observation is mostly due to the progression of the irreversibly injured ischemic brain tissue ('core') over time, at the expense of the severely ischemic yet salvageable tissue ('penumbra'): as time elapses and unless reperfusion is obtained, the penumbra proceeds to core until it has disappeared [3-5]. Importantly, the velocity of core growth over time - and its underpinning penumbra decrease - is highly heterogeneous across individuals [5,6 & ,7 & ]. Some patients, manifest large core and minimal penumbra within a very short time, while others still have small core and substantial penumbra several hours after symptom onset. Mapping the ischemic core and penumbra in AIS patients may therefore be of clinical interest to identify the patients who may benefit from reperfusion therapies.
+
+In this review, we will discuss potential benefits and limitations of core/penumbra imaging for acute stroke patients. We will focus on patients with large vessel occlusion (LVO), where the core/penumbra model has been primarily studied.
+
+a Neurology Department, A. de Rothschild Foundation Hospital, b Institut de Psychiatrie et Neurosciences de Paris (IPNP), INSERM U1266, c Neurology Department, GHU Paris Psychiatrie et Neurosciences, Paris, d Acute Stroke Unit, H ^ opital Pierre-Paul Riquet, CHU Toulouse and CIC 1436, Toulouse University, Toulouse, France and e Stanford Stroke Center, Palo Alto, California, USA
+
+Correspondence to Pierre Seners, F  ed  eration de Neurologie, H ^ opital Fondation A. de Rothschild, 29 rue Manin, 75019 Paris, France. E-mail: pierre.seners@gmail.com
+
+Curr Opin Neurol 2024, 37:1 - 7
+
+DOI:10.1097/WCO.0000000000001235
+
+1350-7540 Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+www.co-neurology.com
+
+Copyright © 2024 Wolters Kluwer Health, Inc. All rights reserved.
+
+[DOCLING_PAGE 3]
+
+Downloaded from http://journals.lww.com/co-neurology by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0h CywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 09/13/2024
+
+Cerebrovascular disease
+
+KEY POINTS
+
+ Core and penumbra volumes are strong prognostic biomarkers in large vessel occlusion patients and may enhance the discussion regarding the benefit/risk ratio of thrombectomy in common clinical situations, alongside other factors.
+
+ Perfusion imaging is clinically relevant for optimizing patient ' s selection for neuroprotection trials.
+
+ Perfusion imaging increases the detection of large and medium vessel occlusion in acute stroke patients, and in turn the rate of thrombectomy.
+
+Using core/penumbra imaging to select patients for reperfusion therapies in the early time window
+
+The use of perfusion imaging is not required by international guidelines for intravenous thrombolysis decisions within 4.5 h from symptoms onset, and for thrombectomy decisions within 6 h [8,9], because perfusion imaging was not required for patient enrollment in most pivotal trials in the early time window. Nevertheless, perfusion imaging may bring additional prognostic and therapeutic information which can help to support individualized clinical decision making. Successful recanalization is now achieved in 85% to 90% of EVT-treated patients, yet half of these patients are still significantly disabled 3 months later, and many EVT procedures may not lead to meaningful improvement in clinical outcome. Large ischemic core volume (and the lack of substantial penumbra) at the time of recanalization is a major determinant of poor functional outcome, alongside other factors such as premorbid disability, cognitive impairment and post-EVT complications. Several cohort studies have recently confirmed that the lack of penumbra on pre-EVT imaging was independently associated with poor 3-month functional outcome, even in patients achieving fast successful reperfusion [10 & -13 & ]. Furthermore, a larger therapeutic effect has been observed in the pivotal early time-window EVT trials that used perfusion imaging for patient selection, compared with other trials [9], while two EVT prospective cohort studies reported that reperfusion was associated with a higher rate of functional recovery in patients with substantial penumbra but not among those without [11 & ,14]. Importantly, lack of substantial penumbra in the early time window is not rare, and has been observed in  30% of AIS-LVO patients [10 & ,11 & ,15].
+
+However,  20% of patients without substantial penumbra still reach good functional outcome following EVT [10 & ,11 & ], fueling the debate on the risk of over-selection of EVT candidates using perfusion imaging, that is, improving outcome by selecting patients with substantial penumbra may be at the expense of excluding others who could still benefit from EVT. The potential benefit of EVT in patients without penumbra may have several explanations. First, the estimation of core or penumbral volumes on pretreatment imaging may be inaccurate in some patients due to the limited spatial resolution, but also technical or physiological issues, such as motion artifacts, poor contrast bolus injection, or low cardiac output. For instance, recent studies have suggested that core thresholds on CT-perfusion may be time-dependent, and stricter core thresholds -for instance CBF < 20% - should be used for patients imaged with CT-perfusion very early after symptom onset (e.g. within 90 min) to avoid core overestimation [16,17]. Similarly, some studies have outlined the occurrence of diffusion weighted-imaging hyperintensities reversal in 10-20% of patients following early complete reperfusion, mostly the regions with higher apparent diffusion coefficient values, suggesting that DWI hyperintensities include some penumbra [18,19]. The hyperintense DWI lesion likely contains tissue with variable degrees of injury, as suggested by its frequently observed patchy pattern, making manual core volume measurement difficult. Core estimation on DWImayrequire thresholding for increased reliability, using apparent diffusion coefficient [20]. Several software enable the generation of maps outlining the estimated core and penumbral brain regions using thresholded maps on MRI or CT-perfusion, allowing their use for urgent therapeutic decisions in clinical practice. However, substantial differences in core or penumbra volumes estimation across software have been pointed using either CT or MRI, highlighting the need for technique standardization in the future [21-24]. Second, the post-EVT reperfusion of even small penumbra volumes may still have clinical relevance depending on the 'eloquence' of the affected brain area. Two recent MRIbased studies showed that the penumbra located in eloquent brain regions was positively and independently associated with good functional outcome following EVT, while noneloquent penumbra was not [25 & ,26 & ]. The region-specific penumbra assessment may contribute to further refinement of AIS-LVO selection for EVT in the future. Last, clinical benefits of EVT over best medical management alone may be due to other parameters than penumbra salvage, such as prevention of vasogenic edema [27 & ,28].
+
+Clinical decisions in medicine are complex, and there will always be a zone of uncertainty that has to be negotiated. Core and penumbral imaging are one of the numerous prognostic factors that can be integrated to enhance discussion with relatives regarding the expected outcome, and therefore influence the decision to proceed with of EVT.
+
+2
+
+www.co-neurology.com
+
+Volume 37  Number 1  February 2024
+
+Copyright © 2024 Wolters Kluwer Health, Inc. All rights reserved.
+
+[DOCLING_PAGE 4]
+
+Downloaded from http://journals.lww.com/co-neurology by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0h CywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 09/13/2024
+
+Does imaging of the ischemic penumbra have value in acute ischemic stroke with large vessel occlusion? Seners et al.
+
+Large core patients
+
+Several randomized controlled trials have recently shown a substantial benefit in terms of 3-month functional outcome of EVT over best medical management alone in LVO-AIS with a large core, despite higher rates of symptomatic intracerebral hemorrhage [29,30 && ,31,32]. However, an independent ambulation at 3-month [modified Rankin score (MRS) 0 to 3] was reached in only 38% of patients treated with EVT in these trials, and functional independence (mRS 0 to 2) in 21% [33]. Considering such low rate of good outcome together with the costs of and burden involved by EVT procedures - in particular for patients referred from an outside hospital -, refining the selection of large core patients who may reach a good functional outcome following EVT is of importance, and core/perfusion imaging may play a role alongside other factors.
+
+In a recent MRI-based observational study, roughly one in two patients with baseline core > 50mlshowednoremainingpenumbra[34 & ]. Interestingly, consistent with the core/penumbra model and with another study [34 & ], EVT was associated with a significantly higher rate of good functional outcome in the subgroup with substantial penumbra, but not in the subgroup without [35 & ]. Moreover, EVT was associated with higher odds of parenchymal hemorrhage regardless of the presence or extent of penumbra, which however did not outweigh the benefits from EVT in patients with penumbra [35 & ]. As consistent indirect evidence, a subgroup analysis from the RESCUE-Japan LIMIT trial showed that EVT was associated with improved 3-month functional outcomes in patients with diffusion-weighted imaging ASPECTS 4 to 5 - that is, where a substantial penumbra is expected -, but not in those with ASPECTS 3 or less - where minimal penumbra is usually observed [36 && ]. In contrast, however, there was no clear upper limit to the core volume in the SELECT2 trial associated with thrombectomy benefit [30 && ], whereas the recently presented LASTE trial showed improved 3-month functional outcomes following EVT in patients with ASPECTS 0-5 who were treated in the early window, with similar benefits in the 0-2 vs. 3-5 ASPECTS subgroups. A substantial reduction in infarct growth at 24 h was observed with EVT in LASTE, suggesting that many patients with a very large core may still have substantial penumbral tissue in the early time window. Individual patient data meta-analysis of large core trials with perfusion imaging should provide important data on the potential benefit of EVT
+
+in patients with very large core and/or without salvageable penumbra, for example, via edema prevention.
+
+Medium vessel occlusions
+
+With advances in thrombectomy devices and techniques, the use of EVT is progressively expanding to medium vessel occlusions (MeVO), such as second or third segment middle cerebral artery occlusion. However, whether EVT is beneficial in this situation is unknown, considering the absence of randomized evidence. The benefit/risk ratio may be less favorable in this population -as compared to more proximal occlusionfor several reasons. First, MeVo usually shows better response to intravenous thrombolysis, due to smaller clots. Second, they usually present with milder stroke severity and smaller penumbral volumes. Last, their smaller vessel diameter and more tortuous shape may carry a higher risk of procedural complications. Nevertheless, it is highly plausible that MeVO patients with severe strokes and large penumbra may benefit for EVT, as recently suggested by a multicenter observational study [37 & ]. The authors retrospectively compared the clinical and safety outcome of AIS patients with M2 occlusion treated with medical management alone with ( n ¼ 195) or without ( n ¼ 322) additional EVT, using a propensity-score methodology to reduce baseline between-group differences [37 & ]. They found that thrombectomy was associated with better outcome in patients with substantial penumbra, but not in those without [37 & ], suggesting that penumbral imaging may be a therapeutic biomarker in AIS with MeVO. Several ongoing trials, mostly not requiring perfusion imaging as a selection criterion, compare EVT and best medical management alone in this population. The above results suggest that this design will inevitably result in merging patients with distinct underlying perfusion profiles predicting potential distinct responses to EVT.
+
+Large vessel occlusion patients with mild symptoms
+
+Likely owing to good leptomeningeal collaterals, a sizeable fraction of AIS LVO patients presents with only mild neurological deficit, commonly defined as a National Institutes of Health Stroke Scale score below 6. Whether EVT is safe and effective in LVO patients with mild stroke is currently debated since these patients were typically excluded from the pivotal EVT trials. Current observational studies suggest that in unselected mild stroke with LVO thrombectomy is not associated with better functional outcome, as compared with best medical management alone [38]. Moreover, EVT may be associated with a higher risk of symptomatic intracerebral hemorrhage in this population [38]. Interestingly, two recent observational studies have shown that, in this population, the presence of a substantial penumbra volume may modify the effect of EVT over best medical management alone [39 & ,40 & ]. Specifically, EVT was associated with better functional outcome in patients with substantial penumbra [40 & ], and was not - and was even associated with worse functional outcome and higher hemorrhagic risk -in those without [39 & ,40 & ]. In line with these reports, two additional studies have recently reported higher risk of early neurological deterioration or poor functional outcome in medically-treated mild strokes with LVO presenting with a large penumbral volume at baseline [41 & ,42 & ].
+
+1350-7540 Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+www.co-neurology.com
+
+Copyright © 2024 Wolters Kluwer Health, Inc. All rights reserved.
+
+3
+
+[DOCLING_PAGE 5]
+
+Downloaded from http://journals.lww.com/co-neurology by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0h CywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 09/13/2024
+
+Cerebrovascular disease
+
+Using core/penumbra imaging to select patients for reperfusion therapies in the late time window
+
+Since 2018, trials using 'penumbra' selection criteria (i.e. presence of penumbral profile or surrogates thereof) have demonstrated that patients with evidence of salvageable tissue on perfusion imaging benefit from EVT and intravenous thrombolysis even in the late time-window [43-45]. However, because of the very large treatment effect observed in these trials and the quite strict penumbral imaging criteria used, it has been hypothesized that patients presenting in the late window with broader imaging criteria could benefit from EVT. Recently, the MR CLEANLATEtrialshowedasubstantialbenefitofEVTvs.best medical management alone in AIS-LVO admitted in the 6-24 h time-window with collateral flow on CTangiography, but who otherwise did not meet the imaging criteria used in the DAWN and DEFUSE 3 trials [46 && ]. The therapeutic effect observed in MR CLEAN-LATE was lower than that observed in DEFUSE3andDAWN,whichsuggeststhat perfusion imaging identifies better candidates for reperfusion therapies, but current criteria may be too stringent and may miss patients who still derive substantial benefit from EVT. Current guidelines recommend using imaging to determine the presence of penumbral profile in patients who present in the late time window and who may benefit from EVT [8,9]. However, these recommendations may change based on the results of the recent MR CLEAN-LATE. Nevertheless, as discussed above for the early time window, theselectionofpatientsusingperfusionimagingmay still be valuable in certain situations, such as elderly patients or patients with baseline disability who were typically excluded from clinical trials.
+
+The benefit of intravenous thrombolysis with alteplase vs. placebo in patients with substantial penumbra has been recently proven in the extended timewindow(4.5-9h)andforpatientswithwake-up strokes in an individual patient's data meta-analysis of randomized trials [adjusted odds ratio (OR) for mRS 0-1: 2.06, 95% confidence interval (CI) 1.173.62] [45]. The rate of symptomatic intracerebral hemorrhage was higher with alteplase, but this increase did not negate the overall benefit of thrombolysis. Interestingly, no benefit of thrombolysis was observed in the group of patients without penumbra, again arguing in favor the therapeutic-modifying effect of penumbral imaging [45]. International guidelines now recommend perfusion imaging for thrombolysis decision in the late time window [47].
+
+FIGURE 1. Detection of a large vessel occlusion using perfusion imaging, 57-year old woman admitted 1.5 h following an acute aphasia and right hemiparesis (NIHSS 9). Non-contrast CT was unremarkable, and no occlusion was detected following a first review of the CTA (a). CTperfusion showed no infarct core, but a 23 ml temporal severe hypoperfusion, highly suggestive of acute ischemia due to a large vessel occlusion (b). A closer look to the CTA in the coronal view revealed a proximal occlusion of the inferior M2 branch (c). The patient was transferred for EVT. CTA, CT angiography; EVT, endovascular therapy.
+
+4
+
+www.co-neurology.com
+
+Volume 37  Number 1  February 2024
+
+Copyright © 2024 Wolters Kluwer Health, Inc. All rights reserved.
+
+[DOCLING_PAGE 6]
+
+Downloaded from http://journals.lww.com/co-neurology by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0h CywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 09/13/2024
+
+Does imaging of the ischemic penumbra have value in acute ischemic stroke with large vessel occlusion? Seners et al.
+
+Additional interests of perfusion imaging beyond penumbral volume estimation
+
+Identifying large or medium vessel occlusion
+
+The identification of a large or medium arterial occlusion is critical for thrombectomy decision, primarily using CT- or MR-angiography. However, arterial occlusion can be missed on arterial imaging, especially when readings are performed in a very urgent setting, by less experienced readers, or when the affected vessel locates in the distal rather than the proximal intracranial circulation. Recent studies have suggested that perfusion imaging increases the indirect detection of large and medium vessel occlusion, and in turn the rate of EVT (Fig. 1) [48 & ,49 & ].
+
+Identifying optimal candidates for neuroprotection trials
+
+Limiting infarct core growth in the crucial timeperiod before recanalization has potential to substantially improve clinical outcome, and therefore is among the next major therapeutic frontiers [50,51]. To optimally select patients for trials of neuroprotection, it is important to identify those at high risk of large core growth, who may be most likely to benefit from these promising therapies (i.e. patients for whom a substantial reduction in core growth could be achieved with an effective agent). Patients first evaluated at a primary stroke center -which represent up to 70% of EVT-treated patients-, are likely ideal candidates for such therapies because substantial core growth is expected during the often protracted inter-hospital transfer. Recent studies have shown that leptomeningeal collateral circulation evaluated on perfusion imaging using the Hypoperfusion Intensity Ratio (HIR, defined as the proportion of T max > 6s over T max > 10s volume) was the primary factor associated with fast infarct growth, using either CT or MRI, and may therefore be a useful tool to select appropriate candidates for neuroprotection trials [7 & ,52 & ,53 & ,54]. This has been specifically studied in patients transferred for EVT from a primary to a comprehensive stroke center, with 'fast progressors' observed in  15% of patients with low HIR vs.  80% with high HIR [7 & ,53 & ]. Examples are provided in Fig. 2.
+
+FIGURE 2. Perfusion imaging to select patient for neuroprotection trials. Left panel: 49-year old female admitted in a primary stroke center 1.5 h after symptoms onset. NIHSS was 10. Noncontrast CT was unremarkable, and CTA showed a right M1 occlusion. CT-perfusion (a) showed an 8 mL core and a large penumbra (79 ml). The hypoperfusion intensity ratio (HIR) was high, reflecting poor collaterals (b). She was treated with intravenous thrombolysis and transferred for EVT. A repeat MRI on arrival at the comprehensive center 3hrs later showed major core growth (c). This patient is considered an excellent candidate for neuroprotection trials during transfer. Right panel: 78 yo man admitted in a primary stroke center 2 h after symptoms onset. Baseline NIHSS was 9. Noncontrast CT was unremarkable, and CTA showed a left M1 occlusion. CT-perfusion (d) showed no infarct core and a large penumbra (71 ml). The HIR was low, reflecting good collaterals (e). A repeat MRI on arrival at the comprehensive center 2.5 h later showed no core growth (f). This patient is not considered a good candidate for neuroprotection trials during transfer. EVT, endovascular therapy.
+
+1350-7540 Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+www.co-neurology.com
+
+Copyright © 2024 Wolters Kluwer Health, Inc. All rights reserved.
+
+5
+
+[DOCLING_PAGE 7]
+
+Downloaded from http://journals.lww.com/co-neurology by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0h CywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 09/13/2024
+
+Cerebrovascular disease
+
+Prediction of post-endovascular therapy intracerebral hemorrhage
+
+The occurrence of post-EVT hemorrhagic transformationis known to negatively impact clinical recovery. Being able to predict the risk of post-EVT hemorrhagic transformation based on pretreatment data is of major importance for guiding individualized treatment strategies (e.g. to determine when additional fibrinolytic or antithrombotic drugs can be safely administered), as well as to select optimal candidates for clinical trials aiming to reduce hemorrhagic transformation [55]. Studies have recently shownthatthe evaluation of hypoperfusion severity or blood-brain barrier rupture on pretreatment perfusion imaging may help identify the subset of patients at very high risk of post-EVT hemorrhagic transformation [55-58].
+
+CONCLUSION
+
+Ischemic core and penumbra volumes are major prognostic factors in LVO-related AIS. Alongside other clinical and radiological factors, penumbral imaging may enhance the discussion regarding the benefit/risk ratio of EVT in many clinical situations, such as patients with very large core, mild symptoms, or distal occlusion. Beyond penumbral evaluation, perfusion imaging is relevant for optimizing patient selection for neuroprotection trials.
+
+Acknowledgements
+
+None.
+
+Financial support and sponsorship
+
+None.
+
+Conflicts of interest
+
+Dr Albers reports receiving consulting fees from Genentech and iSchemaView and owning equity in iSchemaView. The remaining authors have no conflicts of interest.
+
+REFERENCES AND RECOMMENDED READING
+
+Papers of particular interest, published within the annual period of review, have been highlighted as:
+
+& of special interest
+
+&& of outstanding interest
+
+Saver JL, Goyal M, van der Lugt A, et al. Time to treatment with endovascular thrombectomy and outcomes from ischemic stroke: a meta-analysis. JAMA 2016; 316:1279-1288.
+
+Emberson J, Lees KR, Lyden P, et al. Effect of treatment delay, age, and stroke severity on the effects of intravenous thrombolysis with alteplase for acute ischaemic stroke: a meta-analysis of individual patient data from randomised trials. Lancet 2014; 384:1929-1935.
+
+Morawetz RB, DeGirolami U, Ojemann RG, et al. Cerebral blood flow determined by hydrogen clearance during middle cerebral artery occlusion in unanesthetized monkeys. Stroke 1978; 9:143-149.
+
+Jones TH, Morawetz RB, Crowell RM, et al. Thresholds of focal cerebral ischemia in awake monkeys. J Neurosurg 1981; 54:773-782.
+
+Baron JC. The core/penumbra model: Implications for acute stroke treatment and patient selection in. Eur J Neurol 2021; 28:2794-2803.
+
+Seners P, Yuen N, Mlynash M, et al. Quantification of penumbral volume in
+
+& association with time from stroke onset in acute ischemic stroke with large
+
+vessel occlusion. JAMA Neurol 2023; 80:523-528.
+
+First study to show that elapsing time is associated with increasing core and decreasing penumbral volumes in human.
+
+7.
+
+Seners P, Scheldeman L, Christensen S, et al.
+
+Determinants of infarct core
+
+& growth during inter-hospital transfer for thrombectomy. Ann Neurol 2023; 93:1117-1129.
+
+Perfusion imaging identifies the patients with fast infarct core growth during interhospital transfer for thrombectomy, and may help select best candidates for neuroprotection trials.
+
+Powers WJ, Rabinstein AA, Ackerson T, et al. 2018 guidelines for the early management of patients with acute ischemic stroke: a guideline for healthcare professionals from the american heart association/american stroke association. Stroke 2018; 49:e46-e110.
+
+Turc G, Bhogal P, Fischer U, et al. European Stroke Organisation (ESO)European Society for Minimally Invasive Neurological Therapy (ESMINT) guidelines on mechanical thrombectomy in acute ischemic stroke. J Neurointerv Surg 2019; 11:535-538.
+
+& Schwarz G, Agostoni EC, Saliou G, et al. Perfusion imaging mismatch profiles in the early thrombectomy window: a single-center analysis. Stroke 2023; 54:1182-1191.
+
+Core and penumbral volumes are independently associated with postthrombectomy functionnal outcome.
+
+& Olivot JM, Albucher JF, Guenego A, et al. Mismatch profile influences outcome after mechanical thrombectomy. Stroke 2021; 52:232-240.
+
+Penumbral imaging profile on MRI may predict the clinical response to thrombectomy.
+
+& Olivot JM, Heit JJ, Mazighi M, et al. What predicts poor outcome after successful thrombectomy in early time window? J Neurointerv Surg 2022; 14:1051-1055.
+
+Penumbral profile on MRI is independently associated with postthrombectomy functionnal outcome.
+
+Sarraj A, Hassan AE, Grotta J, et al. Optimizing patient selection for endovas-
+
+& cular treatment in acute ischemic stroke (SELECT): a prospective, multicenter cohort study of imaging selection. Ann Neurol 2020; 87:419-433.
+
+Penumbral profile on CT-perfusion is independently associated with postthrombectomy functionnal outcome.
+
+Lansberg MG, Straka M, Kemp S, et al. MRI profile and response to endovascular reperfusion after stroke (DEFUSE 2): a prospective cohort study. Lancet Neurol 2012; 11:860-867.
+
+6
+
+www.co-neurology.com
+
+Volume 37  Number 1  February 2024
+
+Copyright © 2024 Wolters Kluwer Health, Inc. All rights reserved.
+
+[DOCLING_PAGE 8]
+
+Downloaded from http://journals.lww.com/co-neurology by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0h CywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 09/13/2024
+
+Does imaging of the ischemic penumbra have value in acute ischemic stroke with large vessel occlusion? Seners et al.
+
+Seners P, Yuen N, Paredes JBE, et al. Core/perfusion mismatch prevalence according to ASPECT score in acute ischemic stroke with large vessel occlusion. Stroke 2023; 54:AW104.
+
+Sarraj A, Campbell BCV, Christensen S, et al. Accuracy of CT perfusionbased core estimation of follow-up infarction: effects of time since last known well. Neurology 2022; 98:e2084-e2096.
+
+Garc í a-Tornel A ´ , Campos D, Rubiera M, et al. Ischemic core overestimation on computed tomography perfusion. Stroke 2021; 52:1751-1760.
+
+Umemura T, Hatano T, Ogura T, et al. ADC level is related to DWI reversal in patients undergoing mechanical thrombectomy: a retrospective cohort study. AJNR Am J Neuroradiol 2022; 43:893-898.
+
+Scopelliti G, Benzakoun J, Ben Hassen W, et al. Diffusion-weighted imaging lesion reversal in older patients with stroke treated with mechanical thrombectomy. Stroke 2023; 54:1823-1829.
+
+Purushotham A, Campbell BC, Straka M, et al. Apparent diffusion coefficient threshold for delineation of ischemic core. Int J Stroke 2015; 10:348-353.
+
+Bani-Sadr A, Cho TH, Cappucci M, et al. Assessment of three MR perfusion software packages in predicting final infarct volume after mechanical thrombectomy. J Neurointerv Surg 2023; 15:393-398.
+
+Bani-Sadr A, Trintignac M, Mechtouff L, et al. Is the optimal Tmax threshold identifying perfusion deficit volumes variable across mr perfusion software packages? A pilot study. Magma 2023; 36:815-822.
+
+Austein F, Riedel C, Kerby T, et al. Comparison of perfusion CT software to predict the final infarct volume after thrombectomy. Stroke 2016; 47:2311-2317.
+
+Muehlen I, Spr € ugel M, Hoelter P, et al. Comparison of two automated computed tomography perfusion applications to predict the final infarct volume after thrombolysis in cerebral infarction 3 recanalization. Stroke 2022; 53:1657-1664.
+
+25.
+
+&
+
+Fukutomi H, Yamamoto T, Sibon I, et al.
+
+Location-weighted versus volume-
+
+weighted mismatch at MRI for response to mechanical thrombectomy in acute
+
+stroke. Radiology 2023; 306:e220080.
+
+The region-specific penumbra assessment may contribute to further refinement of LVO patients ' selection for thrombectomy
+
+& Kerleroux B, Benzakoun J, Janot K, et al. Relevance of brain regions ' eloquence assessment in patients with a large ischemic core treated with mechanical thrombectomy. Neurology 2021; 97:e1975-e1985.
+
+The region-specific penumbra assessment may contribute to further refinement of large core LVO patients ' selection for thrombectomy
+
+& Broocks G, Kemmling A, Kniep H, et al. Edema reduction versus penumbra salvage: Investigating treatment effects of mechanical thrombectomy in ischemic stroke. Ann Neurol 2023; doi:10.1002/ana.26802. [Online ahead
+
+of print]
+
+Clinical benefits of thrombectomy may be due to other parameters than penumbra salvage, such as prevention of vasogenic edema.
+
+Sarraj A, Pujara DK, Churilov L, et al. Mediation of successful reperfusion effect through infarct growth and cerebral edema: a pooled, patient-level analysis of extend-ia trials and select prospective cohort. Ann Neurol 2023; 93:793-804.
+
+Yoshimura S, Sakai N, Yamagami H, et al. Endovascular therapy for acute stroke with a large ischemic region. N Engl J Med 2022; 386:1303-1313.
+
+Sarraj A, Hassan AE, Abraham MG, et al. Trial of endovascular thrombectomy
+
+&& for large ischemic strokes. N Engl J Med 2023; 388:1259-1271.
+
+Thrombectomy may improve functional outcome regardless of core volume.
+
+Huo X, Ma G, Tong X, et al. Trial of endovascular therapy for acute ischemic stroke with large infarct. N Engl J Med 2023; 388:1272-1283.
+
+Bendszus M, Fiehler J, Subtil F, et al. Endovascular thrombectomy for acute ischaemic stroke with established large infarct: Multicentre, open-label, randomised trial. Lancet 2023; 402:1753-1763.
+
+Palaiodimou L, Sarraj A, Safouris A, et al. Endovascular treatment for largecore ischaemic stroke: a meta-analysis of randomised controlled clinical trials. J Neurol Neurosurg Psychiatry 2023; 94:781-785.
+
+& Kerleroux B, Janot K, Dargazanli C, et al. Perfusion imaging to select patients with large ischemic core for mechanical thrombectomy. J Stroke 2020; 22:225-233.
+
+Penumbral imaging may be a treatment-effect modifier in large core patients.
+
+35.
+
+Seners P, Oppenheim C, Turc G, et al.
+
+Perfusion imaging and clinical outcome
+
+& in acute ischemic stroke with large core. Ann Neurol 2021; 90:417-427.
+
+Penumbral imaging may be a treatment-effect modifier in large core patients.
+
+&& Uchida K, Shindo S, Yoshimura S, et al. Association between alberta stroke program early computed tomography score and efficacy and safety outcomes with endovascular therapy in patients with stroke from large-vessel occlusion: a secondary analysis of the recovery by endovascular salvage for cerebral ultra-acute embolism-Japan large ischemic core trial (rescue-Japan limit). JAMA Neurol 2022; 79:1260-1266.
+
+Core volume may be a treatment-effect modifier in large core patients.
+
+37.
+
+Sarraj A, Parsons M, Bivard A, et al.
+
+Endovascular thrombectomy versus
+
+& medical management in isolated M2 occlusions: Pooled patient-level analysis from the EXTEND-IA trials, INSPIRE, and SELECT studies. Ann Neurol 2022; 91:629-639.
+
+Penumbral imaging may be a treatment-effect modifier in acute stroke patients with M2 occlusion.
+
+Safouris A, Palaiodimou L, Nardai S, et al. Medical management versus endovascular treatment for large-vessel occlusion anterior circulation stroke with low nihss. Stroke 2023; 54:2265-2275.
+
+& Seners P, Arquizan C, Fontaine L, et al. Perfusion imaging and clinical outcome in acute minor stroke with large vessel occlusion. Stroke 2022; 53:3429-3438.
+
+Penumbral imaging may be a treatment-effect modifier in LVO-related acute stroke patients with mild symptoms.
+
+Sarraj A, Albers GW, Blasco J, et al. Thrombectomy versus medical manage-
+
+& ment in mild strokes due to large vessel occlusion: Exploratory analysis from the EXTEND-IA trials and a pooled international cohort. Ann Neurol 2022; 92:364-378.
+
+Penumbral imaging may be a treatment-effect modifier in LVO-related acute stroke patients with mild symptoms.
+
+Gwak DS, Kwon JA, Shim DH, et al. Perfusion and diffusion variables predict
+
+&
+
+early neurological deterioration in minor stroke and large vessel occlusion.
+
+J Stroke 2021; 23:61-68.
+
+Penumbral imaging is a prognostic biomarker in LVO-related acute stroke patients with mild symptoms
+
+42.
+
+WangP, Chen W, Chen C, et al.
+
+Association of perfusion lesion variables with
+
+& functional outcome in patients with mild stroke and large vessel occlusion managed medically. Neurology 2023; 100:e627-e638.
+
+Penumbral imaging is a prognostic biomarker in LVO-related acute stroke patients with mild symptoms.
+
+Albers GW, Marks MP, Kemp S, et al. Thrombectomy for stroke at 6 to 16 h with selection by perfusion imaging. N Engl J Med 2018; 378:708-718.
+
+Nogueira RG, Jadhav AP, Haussen DC, et al. Thrombectomy 6 to 24h after stroke with a mismatch between deficit and infarct. N Engl J Med 2018; 378:11-21.
+
+Campbell BCV, Ma H, Ringleb PA, et al. Extending thrombolysis to 4.5-9 h and wake-up stroke using perfusion imaging: a systematic review and metaanalysis of individual patient data. Lancet 2019; 394:139-147.
+
+Olthuis SGH, Pirson FAV, Pinckaers FME, et al. Endovascular treatment
+
+&& versus no endovascular treatment after 6-24h in patients with ischaemic stroke and collateral flow on CT angiography (MR CLEAN-LATE) in the netherlands: a multicentre, open-label, blinded-endpoint, randomised, controlled, phase 3 trial. Lancet 2023; 401:1371-1380.
+
+This trial showed a substantial benefit of thrombectomy vs best medical management alone in AIS-LVO admitted in the 6-24hr time-window with collateral flow on CT-angiography, but who otherwise did not meet the imaging criteria used in the DAWN and DEFUSE 3 trials.
+
+Berge E, Whiteley W, Audebert H, et al. European stroke organisation (ESO) guidelines on intravenous thrombolysis for acute ischaemic stroke. Eur Stroke J 2021; 6; I-lxii.
+
+& Olive-Gadea M, Requena M, Diaz F, et al. Systematic CT perfusion acquisition in acute stroke increases vascular occlusion detection and thrombectomy rates. J Neurointerv Surg 2022; 14:1270-1273.
+
+Perfusion imaging increases arterial occlusion detection.
+
+& Bathla G, Pillenahalli Maheshwarappa R, Soni N, et al. CT perfusion maps improve detection of M2-MCA occlusions in acute ischemic stroke. J Stroke Cerebrovasc Dis 2022; 31:106473.
+
+Perfusion imaging increases arterial occlusion detection.
+
+Baron JC. Protecting the ischaemic penumbra as an adjunct to thrombectomy for acute stroke. Nat Rev Neurol 2018; 14:325-337.
+
+Savitz SI, Baron JC, Yenari MA, et al. Reconsidering neuroprotection in the reperfusion era. Stroke 2017; 48:3413-3419.
+
+& Seners P, Yuen N, Olivot JM, et al. Factors associated with fast early infarct growth in patients with acute ischemic stroke with a large vessel occlusion. Neurology 2023; 101:e2126-e2137.
+
+Perfusion imaging identifies the patients with fast early infarct core growth, and may help select best candidates for neuroprotection trials.
+
+& Guenego A, Mlynash M, Christensen S, et al. Hypoperfusion ratio predicts infarct growth during transfer for thrombectomy. Ann Neurol 2018; 84:616-620.
+
+Perfusion imaging identifies the patients with fast infarct core growth during interhospital transfer for thrombectomy, and may help select best candidates for neuroprotection trials.
+
+Olivot JM, Mlynash M, Inoue M, et al. Hypoperfusion intensity ratio predicts infarct progression and functional outcome in the DEFUSE 2 cohort. Stroke 2014; 45:1018-1023.
+
+Seners P, Wouters A, Maer B, et al. Role of brain imaging in the prediction of intracerebral hemorrhage following endovascular therapy for acute stroke. Stroke 2023; 54:2192-2203.
+
+Mishra NK, Christensen S, Wouters A, et al. Reperfusion of very low cerebral blood volume lesion predicts parenchymal hematoma after endovascular therapy. Stroke 2015; 46:1245-1249.
+
+Arba F, Piccardi B, Palumbo V, et al. Blood-brain barrier leakage and hemorrhagic transformation: the reperfusion injury in ischemic stroke (RISK) study. Eur J Neurol 2021; 28:3147-3154.
+
+Leigh R, Christensen S, Campbell BC, et al. Pretreatment blood-brain barrier disruption and postendovascular intracranial hemorrhage. Neurology 2016; 87:263-269.
+
+1350-7540 Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+www.co-neurology.com
+
+Copyright © 2024 Wolters Kluwer Health, Inc. All rights reserved.
+
+7

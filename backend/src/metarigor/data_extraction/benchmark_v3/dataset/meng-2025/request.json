@@ -1,0 +1,420 @@
+{
+  "schema_version": "3.0.0",
+  "review_id": "cardiac.dexmedetomidine.review.2025",
+  "protocol_content": {
+    "schema_version": "3.0.0",
+    "protocol_id": "cardiac.dexmedetomidine.protocol.m0",
+    "title": "Dexmedetomidine for delirium prevention after adult cardiac surgery",
+    "research_question": "Among adults undergoing cardiac surgery, compare intravenous dexmedetomidine with placebo or normal saline for postoperative delirium, ICU length of stay, mortality, bradycardia and hypotension.",
+    "review_criteria": "Include randomized controlled trials in adults undergoing cardiac surgery that compare intravenous dexmedetomidine with placebo or normal saline and report an eligible Review outcome.",
+    "result_targets": [
+      {
+        "target_kind": "RESULT",
+        "result_type": "BINARY",
+        "target_id": "result.postoperative_delirium",
+        "population": "Adults undergoing cardiac surgery.",
+        "intervention": {
+          "label": "dexmedetomidine",
+          "aliases": [
+            "dexmedetomidine",
+            "DEX"
+          ]
+        },
+        "comparator": {
+          "label": "placebo",
+          "aliases": [
+            "placebo",
+            "saline",
+            "normal saline"
+          ]
+        },
+        "outcome": "Postoperative delirium",
+        "outcome_definition": "Postoperative delirium as defined by the eligible trial.",
+        "timepoint": "The Review did not specify a common assessment window; retain the explicitly reported study assessment period.",
+        "analysis_population": "Population and denominator attached to the reported outcome.",
+        "selection_rule": "Extract directly reported arm-level participant events and denominators; preserve ambiguity when multiple incompatible rows are reported.",
+        "other_limitations": []
+      },
+      {
+        "target_kind": "RESULT",
+        "result_type": "CONTINUOUS",
+        "target_id": "result.icu_length_of_stay",
+        "population": "Adults undergoing cardiac surgery.",
+        "intervention": {
+          "label": "dexmedetomidine",
+          "aliases": [
+            "dexmedetomidine",
+            "DEX"
+          ]
+        },
+        "comparator": {
+          "label": "placebo",
+          "aliases": [
+            "placebo",
+            "saline",
+            "normal saline"
+          ]
+        },
+        "outcome": "ICU length of stay",
+        "outcome_definition": "Duration of the intensive-care stay associated with the index cardiac surgery.",
+        "timepoint": "Index hospitalization.",
+        "analysis_population": "Population attached to the reported ICU-stay summary.",
+        "selection_rule": "Use directly reported arm-level mean, standard deviation and group size for ICU length of stay.",
+        "other_limitations": [],
+        "measurement_basis": "FINAL",
+        "scale": "days",
+        "direction": "LOWER_IS_BETTER"
+      },
+      {
+        "target_kind": "RESULT",
+        "result_type": "BINARY",
+        "target_id": "result.mortality",
+        "population": "Adults undergoing cardiac surgery.",
+        "intervention": {
+          "label": "dexmedetomidine",
+          "aliases": [
+            "dexmedetomidine",
+            "DEX"
+          ]
+        },
+        "comparator": {
+          "label": "placebo",
+          "aliases": [
+            "placebo",
+            "saline",
+            "normal saline"
+          ]
+        },
+        "outcome": "Mortality",
+        "outcome_definition": "All-cause death reported by the eligible trial.",
+        "timepoint": "The Review did not prespecify one common mortality follow-up; retain the reported follow-up.",
+        "analysis_population": "Population and denominator attached to the reported mortality outcome.",
+        "selection_rule": "Extract directly reported arm-level deaths, denominators, and follow-up.",
+        "other_limitations": []
+      },
+      {
+        "target_kind": "RESULT",
+        "result_type": "BINARY",
+        "target_id": "result.bradycardia",
+        "population": "Adults undergoing cardiac surgery.",
+        "intervention": {
+          "label": "dexmedetomidine",
+          "aliases": [
+            "dexmedetomidine",
+            "DEX"
+          ]
+        },
+        "comparator": {
+          "label": "placebo",
+          "aliases": [
+            "placebo",
+            "saline",
+            "normal saline"
+          ]
+        },
+        "outcome": "Bradycardia",
+        "outcome_definition": "Bradycardia as defined by the eligible trial for the final Review safety analysis.",
+        "timepoint": "Trial-reported perioperative or postoperative safety period.",
+        "analysis_population": "Population and denominator attached to the reported safety outcome.",
+        "selection_rule": "Extract a directly reported arm-level participant count; do not combine overlapping periods.",
+        "other_limitations": []
+      },
+      {
+        "target_kind": "RESULT",
+        "result_type": "BINARY",
+        "target_id": "result.hypotension",
+        "population": "Adults undergoing cardiac surgery.",
+        "intervention": {
+          "label": "dexmedetomidine",
+          "aliases": [
+            "dexmedetomidine",
+            "DEX"
+          ]
+        },
+        "comparator": {
+          "label": "placebo",
+          "aliases": [
+            "placebo",
+            "saline",
+            "normal saline"
+          ]
+        },
+        "outcome": "Hypotension",
+        "outcome_definition": "Hypotension as defined by the eligible trial for the final Review safety analysis.",
+        "timepoint": "Trial-reported perioperative or postoperative safety period.",
+        "analysis_population": "Population and denominator attached to the reported safety outcome.",
+        "selection_rule": "Extract a directly reported arm-level participant count; do not combine overlapping periods.",
+        "other_limitations": []
+      }
+    ]
+  },
+  "accepted_protocol_sha256": "3a50f67ea4035e703b4aa527fbef8e7ed30b580983c679c24977e0a136e9df79",
+  "protocol_acceptance": {
+    "actor": "project-owner",
+    "decided_at": "2026-08-25T18:35:00+08:00",
+    "decision": "ACCEPTED"
+  },
+  "studies": [
+    {
+      "study_key": "huet.2024",
+      "display_label": "Huet 2024",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "li.2017",
+      "display_label": "Li 2017",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "likhvantsev.2021",
+      "display_label": "Likhvantsev 2021",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "priye.2015",
+      "display_label": "Priye 2015",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "qu.mindds.2023",
+      "display_label": "Qu 2023",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "turan.decade.2020",
+      "display_label": "Turan 2020",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "wang.2023",
+      "display_label": "Wang 2023",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    }
+  ],
+  "reports": [
+    {
+      "report_key": "huet.primary",
+      "title": "Prevention of post-operative delirium using an overnight infusion of dexmedetomidine in patients undergoing cardiac surgery",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1186/s13054-024-04842-1"
+        },
+        {
+          "scheme": "PMID",
+          "value": "38419119"
+        },
+        {
+          "scheme": "PMCID",
+          "value": "PMC10902989"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "li.primary",
+      "title": "Impact of dexmedetomidine on the incidence of delirium in elderly patients after cardiac surgery",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1371/journal.pone.0170757"
+        },
+        {
+          "scheme": "PMID",
+          "value": "28182690"
+        },
+        {
+          "scheme": "PMCID",
+          "value": "PMC5300174"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "likhvantsev.primary",
+      "title": "Perioperative Dexmedetomidine Supplement Decreases Delirium Incidence After Adult Cardiac Surgery",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1053/j.jvca.2020.02.035"
+        },
+        {
+          "scheme": "PMID",
+          "value": "32265083"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "priye.primary",
+      "title": "Dexmedetomidine as an adjunct in postoperative analgesia following cardiac surgery",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.4103/1658-354X.154715"
+        },
+        {
+          "scheme": "PMID",
+          "value": "26543448"
+        },
+        {
+          "scheme": "PMCID",
+          "value": "PMC4610075"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "qu.primary",
+      "title": "Nighttime dexmedetomidine for delirium prevention in non-mechanically ventilated patients after cardiac surgery",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1016/j.eclinm.2022.101796"
+        },
+        {
+          "scheme": "PMID",
+          "value": "36590787"
+        },
+        {
+          "scheme": "PMCID",
+          "value": "PMC9800196"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "turan.primary",
+      "title": "Dexmedetomidine for reduction of atrial fibrillation and delirium after cardiac surgery",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1016/S0140-6736(20)30631-0"
+        },
+        {
+          "scheme": "PMID",
+          "value": "32682483"
+        },
+        {
+          "scheme": "NCT",
+          "value": "NCT02004613"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "wang.primary",
+      "title": "A randomised controlled trial of dexmedetomidine for delirium in adults undergoing heart valve surgery",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1111/anae.15983"
+        },
+        {
+          "scheme": "PMID",
+          "value": "36794600"
+        }
+      ],
+      "report_role": "PRIMARY"
+    }
+  ],
+  "report_study_bindings": [
+    {
+      "report_key": "huet.primary",
+      "study_key": "huet.2024"
+    },
+    {
+      "report_key": "li.primary",
+      "study_key": "li.2017"
+    },
+    {
+      "report_key": "likhvantsev.primary",
+      "study_key": "likhvantsev.2021"
+    },
+    {
+      "report_key": "priye.primary",
+      "study_key": "priye.2015"
+    },
+    {
+      "report_key": "qu.primary",
+      "study_key": "qu.mindds.2023"
+    },
+    {
+      "report_key": "turan.primary",
+      "study_key": "turan.decade.2020"
+    },
+    {
+      "report_key": "wang.primary",
+      "study_key": "wang.2023"
+    }
+  ],
+  "documents": [
+    {
+      "document_key": "huet.pmc",
+      "report_key": "huet.primary",
+      "input_path": "documents/huet-jats/source.xml",
+      "expected_sha256": "c65bce62cb99731882ca084a0a52eba84d1c6cdb82955f015f29d1e4c90d4b2d",
+      "media_type": "application/xml",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10902989/"
+    },
+    {
+      "document_key": "li.pmc",
+      "report_key": "li.primary",
+      "input_path": "documents/li-jats/source.xml",
+      "expected_sha256": "2962d1288e9f514b404a8cab64494dd421d78d4a53e1249aae12bba932d3521c",
+      "media_type": "application/xml",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5300174/"
+    },
+    {
+      "document_key": "likhvantsev.full",
+      "report_key": "likhvantsev.primary",
+      "input_path": "documents/likhvantsev-full/source.html",
+      "expected_sha256": "d82bc2cec20dfabf52e53a8593fee03e8118659444acb137c9846650b9963e7b",
+      "media_type": "text/html",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1016/j.jcva.2020.03.041"
+    },
+    {
+      "document_key": "priye.pmc",
+      "report_key": "priye.primary",
+      "input_path": "documents/priye-jats/source.xml",
+      "expected_sha256": "2c5e7be4acd8dca28b9cecc77957f201c646d37ec10ed053706bf9a5068f6276",
+      "media_type": "application/xml",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4610075/"
+    },
+    {
+      "document_key": "qu.pmc",
+      "report_key": "qu.primary",
+      "input_path": "documents/qu-jats/source.xml",
+      "expected_sha256": "8e0cbaf0d87d6818a43553d3517872960f6795fdbce05d8d8076ad5c7f8e5052",
+      "media_type": "application/xml",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9800196/"
+    },
+    {
+      "document_key": "turan.full",
+      "report_key": "turan.primary",
+      "input_path": "documents/turan-full/source.html",
+      "expected_sha256": "e8a25ea220e55f46f1a1baeaaa430927cc3d4bcc2e33ca5705987227b6d119e3",
+      "media_type": "text/html",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1016/S0140-6736(20)30631-0"
+    },
+    {
+      "document_key": "wang.full",
+      "report_key": "wang.primary",
+      "input_path": "documents/wang-full/source.xml",
+      "expected_sha256": "31e28cc79c0dbcb5c56957c2b737773eaae69efe8ad90da23a913e9ac4fd6c55",
+      "media_type": "application/xml",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1016/j.jclinane.2023.111075"
+    }
+  ],
+  "report_identity_issues": [],
+  "source_dispositions": [],
+  "governing_review_inventory_sha256": "e263cc1d97cdc544319e23a23d0d52b28f44616d8323da3f8f9317f716606f6e",
+  "accepted_study_inventory_sha256": "94d6f5a213b45e01b059a250c6d509eed0faa714206231f558fc7ceb777044c8"
+}

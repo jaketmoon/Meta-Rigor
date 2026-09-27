@@ -1,0 +1,90 @@
+{
+  "article": {
+    "doi": "10.3389/fneur.2026.1769301",
+    "license_text": "This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "pmcid": "PMC13337450",
+    "pmid": "42416380",
+    "title": "Effects of transitional care interventions on rehospitalization, functional outcomes, and quality of life in stroke survivors: an updated systematic review and meta-analysis of randomized controlled trials"
+  },
+  "candidate": {
+    "line_count": 100,
+    "path": "frozen/PMC13337450/candidate.txt",
+    "sha256": "62918deae9edc75dcb4c0c9c1e24876a01f0c06d034f93e3c56fff699f022f18"
+  },
+  "external_comparator": {
+    "path": "frozen/PMC13337450/external-comparator.txt",
+    "removed_node_count": 14,
+    "sha256": "c1e78a90a8625c8f31ec4576a9fc5e238cdd1fbf8620f711bbd389f2333975c8"
+  },
+  "freezer": {
+    "id": "metarigor-ec-review-jats-freezer",
+    "version": "1.1.0"
+  },
+  "raw_source": {
+    "path": "sources/PMC13337450.xml",
+    "sha256": "3881a2c2ad249d5b9fcda0b1bf260f6d51f30f968f8f81c011537366f62513f7"
+  },
+  "redacted_evidence_tables": [],
+  "removed_nodes": [
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": "sec15",
+      "tag": "sec"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": "sec27",
+      "tag": "sec"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    }
+  ],
+  "retrieved_on": "2026-08-31",
+  "schema_version": "1.0.0",
+  "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC13337450&retmode=xml"
+}

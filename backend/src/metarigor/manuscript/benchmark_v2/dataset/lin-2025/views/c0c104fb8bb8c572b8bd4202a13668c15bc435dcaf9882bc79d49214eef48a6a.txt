@@ -1,0 +1,767 @@
+[DOCLING_PAGE 1]
+
+The new england journal o f medicine
+
+BACKGROUND
+
+The use of thrombectomy in patients with acute stroke and a large infarct of unrestricted size has not been well studied.
+
+METHODS
+
+We assigned, in a 1:1 ratio, patients with proximal cerebral vessel occlusion in the anterior circulation and a large infarct (as defined by an Alberta Stroke Program Early Computed Tomographic Score of ≤5; values range from 0 to 10) detected on magnetic resonance imaging or computed tomography within 6.5 hours after symptom onset to undergo endovascular thrombectomy and receive medical care (thrombectomy group) or to receive medical care alone (control group). The primary outcome was the score on the modified Rankin scale at 90 days (scores range from 0 to 6, with higher scores indicating greater disability). The primary safety outcome was death from any cause at 90 days, and an ancillary safety outcome was symptomatic intracerebral hemorrhage.
+
+RESULTS
+
+A total of 333 patients were assigned to either the thrombectomy group (166 patients) or the control group (167 patients); 9 were excluded from the analysis because of consent withdrawal or legal reasons. The trial was stopped early because results of similar trials favored thrombectomy. Approximately 35% of the patients received thrombolysis therapy. The median modified Rankin scale score at 90 days was 4 in the thrombectomy group and 6 in the control group (generalized odds ratio, 1.63; 95% confidence interval [CI], 1.29 to 2.06; P<0.001). Death from any cause at 90 days occurred in 36.1% of the patients in the thrombectomy group and in 55.5% of those in the control group (adjusted relative risk, 0.65; 95% CI, 0.50 to 0.84), and the percentage of patients with symptomatic intracerebral hemorrhage was 9.6% and 5.7%, respectively (adjusted relative risk, 1.73; 95% CI, 0.78 to 4.68). Eleven procedure-related complications occurred in the thrombectomy group.
+
+CONCLUSIONS
+
+In patients with acute stroke and a large infarct of unrestricted size, thrombectomy plus medical care resulted in better functional outcomes and lower mortality than medical care alone but led to a higher incidence of symptomatic intracerebral hemorrhage. (Funded by Montpellier University Hospital; LASTE ClinicalTrials.gov number, NCT03811769.)
+
+Original Article
+
+Trial of Thrombectomy for Stroke with a Large Infarct of Unrestricted Size
+
+V. Costalat, T.G. Jovin, J.F. Albucher, C. Cognard, H. Henon, N. Nouri, B. Gory, S. Richard, G. Marnat, I. Sibon, F. Di Maria, M. Annan, G. Boulouis, P. Cardona, M. Obadia, M. Piotin, R. Bourcier, B. Guillon, S. Godard, A. Pasco-Papon, O.F. Eker, T.-H. Cho, G. Turc, O. Naggara, S. Velasco, M. Lamy, F. Clarençon, S. Alamowitch, A. Renu, L. Suissa, H. Brunel, J.-C. Gentric, S. Timsit, C. Lamy, C. Chivot, F. Macian-Montoro, C. Mounayer, O. Ozkul-Wermester, C. Papagiannaki, V. Wolff, R. Pop, A. Ferrier, E. Chabert, F. Ricolfi, Y. Béjot, E. Lopez-Cancio, P. Vega, L. Spelle, C. Denier, M. Millán, J.F. Arenillas, M. Mazighi, E. Houdart, M. del Mar Freijo, A. Duhamel, N. Sanossian, D.S. Liebeskind, J. Labreuche, B. Lapergue, and C. Arquizan, for the LASTE Trial Investigators*
+
+ABSTRACT
+
+The authors' full names, academic degrees, and affiliations are listed in the Appendix. Dr. Arquizan can be contacted at ­ c-arquizan@ ­ chu-montpellier .­ fr or at the Department of Neurology, Hôpital Gui de Chauliac, 80 Ave. Augustin Fliche, Cedex 5, Montpellier 34295, France.
+
+*A list of the investigators in the LASTE trial is provided in the Supplementary Appendix, available at NEJM.org.
+
+Drs. Costalat and Jovin and Drs. Lapergue and Arquizan contributed equally to this article.
+
+N Engl J Med 2024;390:1677-89. DOI: 10.1056/NEJMoa2314063
+
+Copyright © 2024 Massachusetts Medical Society.
+
+CME
+
+n engl j med 390;18 nejm.org May 9, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+1677
+
+[DOCLING_PAGE 2]
+
+The new england journal o f medicine
+
+A Quick Take is available at NEJM.org R andomized trials have shown the benefit of endovascular thrombectomy in patients with acute stroke due to large-artery occlusion in the anterior circulation and a large baseline infarct (core). 1-5 In the early stages of ischemia, the infarct is visible as a hypodense lesion on noncontrast computed tomography (CT) scans and as a hyperintense lesion on diffusion-weighted magnetic resonance imaging (MRI) scans. 6 The size of the infarct can be assessed on CT and MRI scans with the use of the semiquantitative Alberta Stroke Program Early Computed Tomography Score (ASPECTS; values range from 0 to 10, with lower values indicating larger infarcts). 7 In these trials, 1-5 a large core was defined by an ASPECTS value of 5 or less, but because of concerns about the deleterious effects associated with the reperfusion of large infarcts, 8 patients with the largest infarcts (ASPECTS value, 0 or 1) were excluded from enrollment. However, the benefit of thrombectomy did not diminish with increasing infarct size, suggesting that thrombectomy may be beneficial even in patients with the largest baseline infarcts.
+
+We conducted the Large Stroke Therapy Evaluation (LASTE) trial to assess the efficacy and safety of endovascular thrombectomy plus medical care as compared with medical care alone in patients who presented within 6.5 hours after symptom onset with acute ischemic stroke due to occlusion of a proximal artery in the anterior circulation and a large baseline infarct with no restriction in the maximum size.
+
+Methods
+
+Trial Oversight
+
+The LASTE trial was a multicenter, prospective, open-label, randomized, controlled trial with blinded outcome evaluation. 9 The trial protocol (available with the full text of this article at NEJM.org) was approved by the institutional review board at each participating trial site. Enrolled patients or their surrogates provided written informed consent. The trial was designed and conducted by an executive committee, composed of four independent, academic, principal investigators (the first two authors and the last two authors) and a statistician (the third-to-last author) who analyzed the data, and was monitored by an independent data and safety monitoring board. An independent clinical-events committee adjudicated all safety outcomes, procedure-related complications, and serious adverse events. Data management was performed by staff members in the Research and Innovation Division, Montpellier University Medical Center. All neuroimaging data were assessed at a core laboratory by staff members who were unaware of the trial-group assignments.
+
+The executive committee made the decision to submit the results for publication and wrote the first draft of the manuscript with input from all the authors, without any other writing assistance and with unrestricted access to the data. The trial was sponsored by Montpellier University Hospital through an unrestricted grant from an industry consortium that was not involved in the design or implementation of the trial (see the Supplementary Appendix, available at NEJM. org). The authors and the sponsor vouch for the completeness and accuracy of the data and for the fidelity of the trial to the protocol. Decisions related to trial discontinuation were made on the basis of recommendations from the data and safety monitoring board. Information about the inclusion and exclusion criteria, interventions, and assessments were published previously. 9 The statistical analysis plan is available with the protocol.
+
+Patients
+
+Patients were eligible for inclusion in the trial if they were older than 18 years of age; had an ASPECTS value of 5 or less on CT or MRI, except for patients older than 80 years of age, who were eligible if they had a baseline ASPECTS value of 4 or 5 (the method for determining the ASPECTS value is described in the Supplementary Appendix); had an occlusion of the intracranial segment of the internal carotid artery or an occlusion of the proximal (M1) segment of the middle cerebral artery (or both); had a prestroke score of 0 or 1 on the modified Rankin scale; had a National Institutes of Health Stroke Scale (NIHSS) score of at least 6 (scores range from 0 to 42, with higher scores indicating more severe stroke); and could under- go randomization within 6.5 hours after the known onset of symptoms (defined as the time since the patient was last known to be well). The modified Rankin scale is a measure of disability, with a score of 0 indicating no symptoms; a score of 1, no clinically significant disability; a score of 2, slight disability; a score of 3, moderate disability; a score of 4, moderately severe disability; a score of 5, severe disability; and a score of 6, death. Patients with an unknown time of symptom onset could be included if they presented within 24 hours after they were last known to be well and the lesion on diffusion-weighted MRI had no corresponding lesion on fluid-attenuation inversion recovery imaging, a signature indicating that less than 4.5 hours had passed since stroke onset. 10 Patients were excluded if there was evidence of intracerebral hemorrhage. The full list of inclusion and exclusion criteria is provided in Table S1 in the Supplementary Appendix.
+
+1678
+
+n engl j med 390;18 nejm.org May 9, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+[DOCLING_PAGE 3]
+
+Thrombectomy for Stroke with a Large Infarct
+
+Trial Design
+
+Patients were randomly assigned in a 1:1 ratio to undergo endovascular thrombectomy and receive medical care (thrombectomy group) or to receive medical care alone (control group). Randomization was performed with the use of a central, Web-based procedure, with a minimization process to balance the two trial groups, and was stratified according to age (≤70 or >70 years), occlusion site (intracranial segment of the internal carotid artery or M1 segment of the middle cerebral artery), ASPECTS value (≤3 or 4 to 5), time from symptom onset to randomization (<4.5 hours or 4.5 to 6.5 hours), previous receipt of intravenous thrombolysis therapy, baseline NIHSS score (≤20 or >20), and presentation location (a thrombectomy-capable hospital or a transferring hospital).
+
+The trial sites were certified high-volume stroke centers in France and Spain where thrombectomy is routinely performed. All the patients were admitted to acute-stroke units or neurologic intensive care units and treated according to current European guidelines for the management of acute ischemic stroke. Thrombectomy was performed with the use of any thrombectomy device approved by the local regulatory authorities. Investigators were re- quired to be certified assessors of the NIHSS score, the modified Rankin scale score, and the ASPECTS value on CT or MRI. Additional details are provided in the Supplementary Appendix.
+
+Trial Outcomes
+
+The primary outcome was the modified Rankin scale score at 90 days after randomization, with scores of 5 and 6 combined into one score. Data on the primary outcome were obtained by means of a structured interview conducted in person or by telephone by investigators who were unaware of the trial-group assignments. 11
+
+Secondary outcomes included the modified Rankin scale score at 180 days after randomization; a modified Rankin scale score of 0 to 2 and 0 to 3 at 90 days and 180 days; the change in the infarct volume on CT or MRI between baseline and 24 hours; early neurologic improvement (defined as a decrease in the NIHSS score of ≥8 points from baseline or an NIHSS score of 0 to 1 at either 7 days or the time of hospital discharge [whichever occurred first]); decompressive craniectomy by day 7; quality of life at day 90 and day 180, as measured with the EuroQol Group 5-Dimension 5-Level self-report questionnaire (scores range from -0.526 to 1.00, with higher scores indicating better quality of life); and the change in the utility-weighted modified Rankin scale score between baseline and day 90 and day 180. 12
+
+In the thrombectomy group, successful vessel revascularization, as assessed with the use of postprocedure angiography and adjudicated by staff members at the core laboratory, was defined as a grade of 2b or 3 on the modified Thrombolysis in Cerebral Infarction (TICI) scale. The grades range from 0 to 3, with higher grades indicating increased reperfusion and grades of 2b and 3 indicating reperfusion of more than 50% of the affected territory. 13
+
+The primary safety outcome was death from any cause at 90 days after randomization. Secondary safety outcomes included symptomatic intracerebral hemorrhage within 24 hours after randomization, as defined primarily according to the Heidelberg bleeding classification (an increase in the NIHSS score of ≥4 points or an increase in the score for an NIHSS subcategory of ≥2 points with any intracerebral hemorrhage on imaging) 14 and secondarily according to the Safe Implementation of Thrombolysis in StrokeMonitoring Study (SITS-MOST) criteria (the presence of parenchymal hematoma type 2, as characterized by a hematoma that occupies at least 30% of the infarct area with space-occupying effect, in combination with an increase in the NIHSS score of ≥4 points from baseline that was primarily attributed to the hemorrhage). 15 Other safety outcomes included early neurologic worsening (defined as an increase in the NIHSS score of ≥10 points from baseline at day 7), procedurerelated complications (arterial perforation, arterial dissection, and embolization in a previously uninvolved vascular territory), and serious adverse Patients were randomly assigned to undergo endovascular thrombectomy and receive medical care (thrombectomy group) or to receive medical care alone (control group). IQR denotes interquartile range.
+
+n engl j med 390;18 nejm.org May 9, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+1679
+
+[DOCLING_PAGE 4]
+
+The new england journal o f medicine
+
+Figure 1. Screening, Randomization, and Follow-up.
+
+333 Underwent randomization
+
+1791 Participants were assessed for eligibility
+
+1458 Were excluded
+
+1056 Did not meet the inclusion
+
+criteria
+
+10 Declined to participate
+
+392 Had other or unknown reason
+
+166 Were assigned to the thrombectomy group
+
+167 Were assigned to the control group
+
+7 Were excluded
+
+1 Did not provide consent
+
+3 Withdrew consent
+
+2 Were under guardianship
+
+1 Did not have social security
+
+2 Were excluded owing to
+
+the withdrawal of consent
+
+58 Were excluded
+
+57 Died at 3 mo
+
+1 Was lost to follow-up
+
+92 Were excluded
+
+91 Died at 3 mo
+
+1 Withdrew consent for
+
+follow-up
+
+101 Completed follow-up at 3 mo
+
+(median, 104 days; IQR, 93-116 days)
+
+73 Completed follow-up at 3 mo
+
+(median, 104 days; IQR, 93-116 days)
+
+8 Were excluded
+
+7 Died at 6 mo
+
+1 Was lost to follow-up
+
+93 Completed follow-up at 6 mo
+
+(median, 184 days; IQR, 178-190 days)
+
+3 Were excluded
+
+1 Died at 6 mo
+
+2 Were lost to follow-up
+
+70 Completed follow-up at 6 mo
+
+(median, 183 days; IQR, 178-189 days)
+
+159 Were included in the intention-to-treat
+
+population
+
+159 Underwent catheter angiography
+
+151 Underwent thrombectomy
+
+8 Did not undergo thrombectomy owing
+
+to spontaneous clot lysis
+
+165 Were included in the intention-to-treat
+
+population
+
+1 Underwent catheter angiography but
+
+not thrombectomy
+
+1680
+
+n engl j med 390;18 nejm.org May 9, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+[DOCLING_PAGE 5]
+
+Thrombectomy for Stroke with a Large Infarct
+
+[DOCLING_TABLE rows=32 columns=3]
+| Table 1. Demographic and Clinical Characteristics of the Patients at Baseline.* | Table 1. Demographic and Clinical Characteristics of the Patients at Baseline.* | Table 1. Demographic and Clinical Characteristics of the Patients at Baseline.* |
+| Characteristic | Thrombectomy (N = 159) | Control (N = 165) |
+| Age |  |  |
+| Median (IQR) - yr | 73 (66-79) | 74 (65-80) |
+| >80 yr - no. (%) | 34 (21.4) | 38 (23.0) |
+| Male sex - no. (%) | 82 (51.6) | 88 (53.3) |
+| Transferred to thrombectomy-capable center | 89 (56.0) | 94 (57.0) |
+| Modified Rankin scale score before stroke - no. (%)† |  |  |
+| 0 | 130 (81.8) | 129 (78.2) |
+| 1 | 27 (17.0) | 34 (20.6) |
+| >1 | 2 (1.3) | 2 (1.2) |
+| Median NIHSS score on admission (IQR)‡ | 21 (18-24) | 21 (18-24) |
+| Qualifying imaging method - no. (%) |  |  |
+| Computed tomography | 28 (17.6) | 25 (15.2) |
+| Magnetic resonance imaging | 131 (82.4) | 140 (84.8) |
+| ASPECTS value§ |  |  |
+| Median (IQR) | 2 (1-3) | 2 (1-3) |
+| ≤2 | 86 (54.1) | 95 (57.6) |
+| ≥3 | 73 (45.9) | 70 (42.4) |
+| Median infarct volume at baseline (IQR) - ml¶ | 132 (104-185) | 137 (106-187) |
+| Occlusion site - no. (%)‖ |  |  |
+| Intracranial segment of the internal carotid artery | 69 (43.4) | 74 (44.8) |
+| Proximal, or M1, segment of the middle cerebral artery | 88 (55.3) | 91 (55.2) |
+| Other | 2 (1.3) | 0 |
+| Intravenous thrombolysis therapy - no. (%) | 55 (34.6) | 58 (35.2) |
+| Unknown time of symptom onset - no. (%) | 48 (30.2) | 47 (28.5) |
+| Time from symptom onset to randomization - min** |  |  |
+| Median (IQR) | 271 (199-351) | 268 (207-336) |
+| Mean | 335 | 316 |
+| Time from symptom onset to qualifying imaging - min** |  |  |
+| Median (IQR) | 170 (112-301) | 169 (115-273) |
+| Mean | 261 | 242 |
+[/DOCLING_TABLE]
+
+ Patients were randomly assigned to undergo endovascular thrombectomy and receive medical care (thrombectomy group) or to receive medical care alone (control group). Percentages may not total 100 because of rounding. IQR denotes interquartile range.
+
+†  The modified Rankin scale is a measure of disability. Scores range from 0 to 6, with a score of 0 indicating no symptoms; a score of 1, no clinically significant disability; a score of 2, slight disability; a score of 3, moderate disability; a score of 4, moderately severe disability; a score of 5, severe disability; and a score of 6, death.
+
+‡  The National Institutes of Health Stroke Scale (NIHSS) score is a measure of the severity of stroke. NIHSS scores range from 0 to 42, with higher scores indicating more severe neurologic deficits.
+
+§  The Alberta Stroke Program Early Computed Tomographic Score (ASPECTS) is a measure of infarct size in patients with acute cerebral ischemia. ASPECTS values range from 0 to 10, with lower values indicating larger infarcts. Staff at an independent core laboratory determined the ASPECTS value in all the patients except three in the control group, whose images were absent, incomplete, or too poor in quality for independent reading.
+
+¶  The infarct volume was assessed at an independent core laboratory.
+
+‖  Staff at an independent core laboratory assessed the occlusion site in all the patients except in three in the thrombectomy group and five in the control group, whose images were absent, incomplete, or too poor in quality for independent reading. Of the two patients with an occlusion at another site, one had an occlusion of the first-order (M2) segment of the middle cerebral artery (considered by the investigator to be an occlusion of the M1 segment and adjudicated as an occlusion of the M2 segment at the independent core laboratory), and one had an isolated extracranial carotid-artery occlusion without a concomitant occlusion of the intracranial segment of the internal carotid artery or the middle cerebral artery.
+
+**  The time of symptom onset was defined as the time when the patient was last known to be well.
+
+n engl j med 390;18 nejm.org May 9, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+1681
+
+[DOCLING_PAGE 6]
+
+The new england journal o f medicine
+
+[DOCLING_TABLE rows=31 columns=4]
+| Table 2. Efficacy and Safety Outcomes.* |  |  |  |
+| Primary outcome |  |  |  |
+| Median modified Rankin scale score at 90 days (IQR)† | 4 (3-6) | 6 (4-6) | 1.63 (1.29 to 2.06)‡ |
+| Secondary outcomes |  |  |  |
+| Modified Rankin scale score at 90 days - no./total no. (%) |  |  |  |
+| 0 to 2 | 21/158 (13.3) | 8/164 (4.9) | 2.39 (1.18 to 6.22)§ |
+| 0 to 3 | 53/158 (33.5) | 20/164 (12.2) | 2.62 (1.72 to 4.36)§ |
+| Modified Rankin scale score at 180 days |  |  |  |
+| Median (IQR) | 4 (3-6) | 6 (4-6) | 1.71 (1.35 to 2.18)‡ |
+| 0 to 2 - no./total no. (%) | 29/157 (18.5) | 8/162 (4.9) | 3.26 (1.67 to 8.46)§ |
+| 0 to 3 - no./total no. (%) | 58/157 (36.9) | 21/162 (13.0) | 2.67 (1.79 to 4.41)§ |
+| Utility-weighted modified Rankin scale score |  |  |  |
+| At 90 days | 0.30±0.32 | 0.16±0.25 | 0.144 (0.08 to 0.20)¶ |
+| At 180 days | 0.33±0.34 | 0.17±0.26 | 0.164 (0.10 to 0.23)¶ |
+| EQ-5D-5L utility index‖ |  |  |  |
+| At 90 days | 0.30±0.43 | 0.10±0.32 | 0.51 (0.26 to 0.75)** |
+| At 180 days | 0.32±0.41 | 0.14±0.34 | 0.51 (0.28 to 0.75)** |
+| Decompressive craniectomy within 7 days - no. (%) | 14 (8.8) | 19 (11.5) | 0.81 (0.37 to 1.74)†† |
+| Early neurologic improvement - no./total no. (%)‡‡ | 47/153 (30.7) | 18/158 (11.4) | 2.62 (1.70 to 4.56)§ |
+| Mean change in infarct volume from baseline at 24 hr (95% CI) - ml | 51.6 (39.9 to 63.2) | 119.5 (107.9 to 131.1) | -67.9 (-84.1 to -51.6)¶ |
+| Safety outcomes |  |  |  |
+| Death from any cause at 90 days - no./total no. (%) | 57/158 (36.1) | 91/164 (55.5) | 0.65 (0.50 to 0.84)§ |
+| Symptomatic intracerebral hemorrhage within 24 hr - no./total no. (%)§§ |  |  |  |
+| According to the Heidelberg bleeding classification | 15/157 (9.6) | 9/157 (5.7) | 1.73 (0.78 to 4.68)§ |
+| According to the SITS-MOST criteria | 5/157 (3.2) | 4/157 (2.5) | 1.29 (0.21 to 16.39)§ |
+| Early neurologic worsening - no./total no. (%)¶¶ | 49/153 (32.0) | 57/158 (36.1) | 0.89 (0.64 to 1.21)§ |
+| Adverse event related to the procedure or device - no. (%)‖‖ |  |  |  |
+| Embolization in a previously uninvolved territory | 1 (0.6) | NA | - |
+| Arterial dissection | 2 (1.3) | NA | - |
+| Arterial perforation | 2 (1.3) | NA | - |
+| Other | 6 (3.8) | NA | - |
+[/DOCLING_TABLE]
+
+1682
+
+n engl j med 390;18 nejm.org May 9, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+[DOCLING_PAGE 7]
+
+Thrombectomy for Stroke with a Large Infarct
+
+Table 2. (Continued.)
+
+ Plus-minus values are means ±SD. Effect sizes are adjusted for prognostic factors used in the randomization procedure, with an additional adjustment on baseline infarct values for the change in infarct volume at 24 hours. The widths of the confidence intervals for secondary outcomes were not adjusted for multiple comparisons and should not be used for hypothesis testing. NA denotes not applicable.
+
+†  Missing modified Rankin scale scores (for one patient in each group) were handled with the use of single imputation. The analysis that included all the patients with available data is shown in Table S9 in the Supplementary Appendix.
+
+‡  The value is a generalized odds ratio (with its 95% confidence interval) for the ordinal shift in the distribution of the modified Rankin scale score toward better functional outcomes (favoring thrombectomy) at 90 days. Scores of 5 and 6 were combined into one score in the analysis.
+
+§  The value is an adjusted relative risk (with its 95% confidence interval).
+
+¶  The value is an adjusted mean difference (with its 95% confidence interval).
+
+‖  The EuroQol Group 5-Dimension 5-Level self-report questionnaire (EQ-5D-5L) is a standardized instrument for the measurement of health status. Scores range from -0.526 to 1.00, with higher scores indicating better quality of life and death coded as 0. Missing data at 90 days (for 39 patients in the thrombectomy group and 36 in the control group) and missing data at 180 days (for 28 patients in the thrombectomy group and 29 in the control group) were handled with the use of multiple imputation (m = 20 imputations). Results of the complete case analysis and scores on the specific items in the EQ-5D-5L for surviving patients are provided in Tables S10 and S11.
+
+**  The value is a standardized difference (with its 95% confidence interval) applied to rank-transformed data.
+
+††  The value is an adjusted subdistribution hazard ratio (with its 95% confidence interval), with death treated as a competing risk.
+
+‡‡  Early neurologic improvement was defined as a decrease of at least 8 points in the NIHSS score from the time of presentation to a thrombectomy-capable center to either day 7 or the time of hospital discharge (whichever occurred first). Death within 7 days was considered to indicate neurologic worsening.
+
+§§  Symptomatic intracerebral hemorrhage at 24 hours was defined primarily according to the Heidelberg bleeding classification and secondarily according to the Safe Implementation of Thrombolysis in Stroke-Monitoring Study (SITS-MOST) criteria.
+
+¶¶  Early neurologic worsening was defined as an increase of at least 10 points in the NIHSS score from the time of presentation to a thrombectomy-capable center to either day 7 or the time of hospital discharge (whichever occurred first). Death within 7 days was considered to indicate neurologic worsening.
+
+‖‖  Data were available for 151 patients with at least one device pass. Other adverse events related to the procedure or device included complications at the vascular access site (in 3 patients) and cerebral vasoconstriction, allergic reaction to contrast medium, and contrast medium-induced encephalopathy (in 1 patient each).
+
+events as adjudicated by an independent clinical events committee.
+
+Trial Termination
+
+In February 2023, owing to ethical concerns prompted by the publication of results of randomized trials that showed a benefit of thrombectomy in patients with large infarcts, 1-3 the data and safety monitoring board requested an unplanned interim analysis of the available outcome data. Without disclosing the results of the interim analysis, the data and safety monitoring board subsequently recommended that the trial be terminated early for ethical reasons (Supplementary Appendix). The recruitment of patients was halted on the basis of this recommendation, and the investigators remained unaware of the trial results until data collection was completed for all the enrolled patients.
+
+Statistical Analysis
+
+For the primary efficacy outcome, we determined that a sample size of 225 patients per group would provide the trial with 80% power at a two-sided significance level of 5% to detect an improvement of 1 point in the score on the modified Rankin scale with a common odds ratio of 1.65 (favoring thrombectomy plus medical care in ordinal analysis). Because we could not confirm the validity of the proportional odds assumption (P = 0.01 by the score test), which is necessary for the multivariable ordinal logistic regression model, the primary outcome analysis was performed with the use of the WilcoxonMann-Whitney test. We calculated unadjusted generalized odds ratios (with 95% confidence intervals) as estimates of the size of the treatment effect, with ties split equally between the trial groups. Missing values (one in each trial group) were handled with the use of simple imputation by chained equations with trial group and baseline values of the main characteristics. 16
+
+The secondary outcomes were compared between the trial groups with the use of relative risks, mean differences, and subdistribution hazard ratios estimated from multivariable models that included prognostic variables considered in the minimization algorithm as covariates. Because there was no plan for the adjustment of multiple comparisons for the secondary outcomes or subgroup analyses, the confidence intervals should not be used to infer significant differences.
+
+n engl j med 390;18 nejm.org May 9, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society.
+
+Downloaded from nejm.org on August 16, 2026.
+
+1683
+
+[DOCLING_PAGE 8]
+
+The new england journal o f medicine
+
+All analyses were performed on the basis of the intention-to-treat principle and excluded patients because of the withdrawal of consent or legal reasons. Additional details about the statistical analyses are provided in the statistical analysis plan, which is available with the protocol.
+
+Results
+
+Patients
+
+From April 2019 through March 2022, a total of 333 patients underwent randomization at 24 hospitals in France and 6 hospitals in Spain. After the exclusion of 9 patients because of the withdrawal of consent or legal reasons, 324 patients were included in the analysis: 159 in the thrombectomy group and 165 in the control group (Fig. 1). Of these patients, 1 was lost to follow-up, and 1 withdrew consent. A total of 21 major protocol deviations occurred (Table S8). The trial population was representative of patients with acute ischemic stroke in Europe (Table S14).
+
+The baseline characteristics were similar in the two trial groups (Table 1 and Table S6). The median age was 74 years, and 47.5% of the patients were women. The median NIHSS score was 21, and thrombolysis therapy was administered intravenously to 34.9% of the patients. In 83.6% of the patients, MRI was the imaging method used for selection. The median ASPECTS value was 2 (interquartile range [IQR], 1 to 3), and the median baseline infarct volume was 135 ml (IQR, 106 to 185).
+
+Intervention
+
+Thrombectomy was performed in 151 of 159 patients in the thrombectomy group, and the median time between symptom onset and the procedure was 305 minutes (IQR, 231 to 378). A total of 86.1% of the patients had a reperfusion grade of 2b or higher on the modified TICI scale (Table S7).
+
+Primary and Secondary Outcomes
+
+In the primary efficacy analysis, a shift in the distribution of the modified Rankin scale score toward better outcomes at 90 days favored thrombectomy plus medical care over medical care alone, with a 63% higher odds of a better functional outcome in the thrombectomy group than in the control group (generalized odds ratio, 1.63; 95% confidence interval [CI], 1.29 to 2.06; P<0.001) (Table 2 and Fig. 2). The benefit of thrombectomy was sustained at 6 months (generalized odds ratio, 1.71; 95% CI, 1.35 to 2.18) and confirmed by sensitivity analyses (Table 2, Table S9, and Fig. S4).
+
+Secondary outcome analyses generally favored thrombectomy, including the percentage of patients with modified Rankin scale scores of 0 to 2 at 90 days (13.3% in the thrombectomy group and 4.9% in the control group; adjusted relative risk, 2.39; 95% CI, 1.18 to 6.22), a difference that was sustained at 180 days (18.5% and 4.9%, respectively; adjusted relative risk, 3.26; 95% CI, 1.67 to 8.46) (Table 2). Imaging showed a smaller increase in the infarct volume between baseline and 24 hours in the thrombectomy group than in the control group (adjusted mean difference in the increase, -67.9 ml; 95% CI, -84.1 to -51.6) (Fig. S7).
+
+Safety
+
+Death from any cause at 90 days occurred in a smaller percentage of patients in the thrombectomy group than in the control group (36.1% vs. 55.5%; adjusted relative risk, 0.65; 95% CI, 0.50 to 0.84; P<0.001) (Table 2), a finding that was similar to that at 180 days (Fig. S6). Symptomatic intracerebral hemorrhage within 24 hours was observed in 9.6% of the patients in the thrombectomy group and in 5.7% of those in the control group (adjusted relative risk, 1.73; 95% CI, 0.78 to 4.68), as defined according to the Heidelberg bleeding classification, 14 and in 3.2% and 2.5%, respectively (adjusted relative risk, 1.29; 95% CI, 0.21 to 16.39), as defined according to the SITS-MOST criteria. 15 Procedure-related complications, including arterial dissection, per- foration, and embolization in a previously uninvolved territory, and complications at the vascular access site, occurred in 11 patients (6.9%) in the thrombectomy group, and medical complications were similar in the two trial groups (Table 2 and Tables S3 and S4).
+
+1684
+
+n engl j med 390;18 nejm.org May 9, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+[DOCLING_PAGE 9]
+
+Thrombectomy for Stroke with a Large Infarct
+
+The results of the prespecified subgroup analyses are presented in Figure 3. The relatively small sample size limited the power of these analyses.
+
+Discussion
+
+Our trial showed that among patients with large baseline infarcts of unrestricted size, the use of thrombectomy plus medical care within 7 hours after symptom onset led to a lower score on the modified Rankin scale at 90 days after randomization than medical care alone. This finding corresponds to a number needed to treat of 4 (95% CI, 3 to 8) for 1 patient to have a decreased modified Rankin scale score at 90 days with thrombectomy plus medical care as compared with medical care alone. We also found that death from any cause at 90 days occurred in a smaller percentage of patients in the thrombectomy group than in the control group. The benefits observed at 180 days were similar to those observed at 90 days. The lower mortality in the thrombectomy group was not associated with a higher percentage of patients with severe disability with complete dependence (modified Rankin scale score, 5). The results for the secondary outcomes were generally in the same direction as those of the primary outcome analysis. Thrombectomy was associated with procedural complications, and the percentage of patients with symptomatic intracerebral hemorrhage was higher in the thrombectomy group than in the control group.
+
+The extent of benefit derived from thrombectomy is time sensitive. In a trial that included patients with small or moderate infarct sizes as assessed primarily on noncontrast CT, benefit could only be shown when treatment was initiated within 7 hours after symptom onset. 17 On the basis of these findings, we restricted enrollment to patients who could start treatment during this interval. This included patients with an
+
+Thrombectomy
+
+(N=159)
+
+Control
+
+(N=165)
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+10
+
+30
+
+50
+
+70
+
+90
+
+Percentage of Patients
+
+A All Patients
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Score on the Modified Rankin Scale:
+
+1
+
+0
+
+2
+
+7
+
+5
+
+14
+
+13
+
+32
+
+35
+
+32
+
+18
+
+17
+
+91
+
+57
+
+B Patients with Baseline ASPECTS Value ≤2
+
+Figure 2. Modified Rankin Scale Scores at 90 Days Overall and According to Baseline ASPECTS Value.
+
+Control
+
+(N=95)
+
+Thrombectomy
+
+(N=86)
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+10
+
+30
+
+50
+
+70
+
+90
+
+Percentage of Patients
+
+4
+
+3
+
+3
+
+6
+
+20
+
+18
+
+18
+
+12
+
+8
+
+56
+
+33
+
+0
+
+0
+
+Control
+
+(N=70)
+
+C Patients with Baseline ASPECTS Value ≥3
+
+Thrombectomy
+
+(N=73)
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+10
+
+30
+
+50
+
+70
+
+90
+
+Percentage of Patients
+
+2
+
+3
+
+2
+
+11
+
+7
+
+12
+
+17
+
+14
+
+6
+
+9
+
+35
+
+24
+
+0
+
+1
+
+Shown is the distribution of the modified Rankin scale scores at 90 days after randomization in all the patients (Panel A), in patients with a baseline Alberta Stroke Program Early Computed Tomographic Score (ASPECTS) value of 2 or less (Panel B), and in patients with a baseline ASPECTS value of 3 or more. The modified Rankin scale is a measure of disability; scores range from 0 to 6, with a score of 0 indicating no symptoms; a score of 1, no clinically significant disability; a score of 2, slight disability; a score of 3, moderate disability; a score of 4, moderately severe disability; a score of 5, severe disability; and a score of 6, death. The ASPECTS is a measure of infarct size in patients with acute cerebral ischemia. ASPECTS values range from 0 to 10, with lower values indicating larger infarcts. Staff at an independent core laboratory determined the ASPECTS value in all the patients except three in the control group, whose images were absent, incomplete, or too poor in quality for independent reading.
+
+n engl j med 390;18
+
+nejm.org May 9, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+1685
+
+[DOCLING_PAGE 10]
+
+The new england journal o f medicine
+
+[DOCLING_TABLE rows=36 columns=4]
+| Subgroup | Control | Thrombectomy | Generalized Odds Ratio (95% CI) |
+| no. of patients | no. of patients | no. of patients | no. of patients |
+| Overall | 165 | 159 | 1.63 (1.29-2.06) |
+| Age |  |  |  |
+| ≤70 yr | 64 | 64 | 2.03 (1.36-3.03) |
+| >70 yr | 101 | 95 | 1.44 (1.08-1.90) |
+| Sex |  |  |  |
+| Female | 77 | 77 | 1.54 (1.10-2.15) |
+| Male | 88 | 82 | 1.72 (1.24-2.39) |
+| Intravenous thrombolysis therapy |  |  |  |
+| No | 107 | 104 | 1.69 (1.27-2.25) |
+| Yes | 58 | 55 | 1.52 (1.01-2.28) |
+| Baseline NIHSS score |  |  |  |
+| <20 | 57 | 62 | 1.80 (1.20-2.69) |
+| ≥20 | 108 | 97 | 1.53 (1.15-2.03) |
+| Baseline ASPECTS value |  |  |  |
+| ≤2 | 95 | 86 | 1.77 (1.30-2.41) |
+| ≥3 | 70 | 73 | 1.47 (1.02-2.09) |
+| Baseline infarct volume |  |  |  |
+| <100 ml | 35 | 34 | 1.44 (0.85-2.45) |
+| 100-150 ml | 58 | 64 | 1.77 (1.20-2.60) |
+| >150 ml | 72 | 61 | 1.58 (1.11-2.23) |
+| Occlusion of intracranial segment of ICA |  |  |  |
+| No | 91 | 90 | 1.55 (1.12-2.13) |
+| Yes | 74 | 69 | 1.79 (1.27-2.51) |
+| Time from symptom onset to randomization |  |  |  |
+| <4.5 hr | 86 | 78 | 1.69 (1.21-2.36) |
+| 4.5 to 6.5 hr | 79 | 81 | 1.59 (1.14-2.21) |
+| Directly admitted to thrombectomy-capable center |  |  |  |
+| Yes | 71 | 70 | 1.66 (1.17-2.34) |
+| No | 94 | 89 | 1.61 (1.17-2.20) |
+| Qualifying imaging method |  |  |  |
+| Computed tomography | 25 | 28 | 1.34 (0.78-2.30) |
+| Magnetic resonance imaging | 140 | 131 | 1.71 (1.32-2.21) |
+|  |  |  | 1.5 1.0 2.5 0.0 |
+|  |  |  | Thrombectomy Better Control Better |
+[/DOCLING_TABLE]
+
+The generalized odds ratios (with 95% confidence intervals) for an ordinal shift in the distribution of the modified Rankin scale scores at 90 days toward a better functional outcome (scores of 5 and 6 are combined into one score in the analysis) are shown. The National Institutes of Health Stroke Scale (NIHSS) score is a measure of the severity of stroke. NIHSS scores range from 0 to 42, with higher scores indicating more severe neurologic deficits. The ASPECTS value and infarct volume at baseline and occlusion of the intracranial segment of the internal carotid artery (ICA) were assessed at an independent core laboratory. Subgroup analyses according to baseline infarct volume and internal carotid-artery termination occlusion were unplanned. Missing data (for one patient in each group) were treated with the use of single imputation. The widths of the confidence intervals were not adjusted for multiple comparisons and should not be used for hypothesis testing. The size of the boxes indicates the size of the subgroup. The arrows indicate that the confidence intervals exceed the graph area.
+
+unknown time of symptom onset who were considered to have had symptoms for less than 4.5 hours on the basis of MRI findings. 10 Given the paucity of evidence that a mismatch between the infarct size and the perfusion lesion size on perfusion imaging (MRI or CT) can modify the treatment effect of thrombectomy in patients presenting early after symptom onset, the demonstration of a mismatch was not a criterion for inclusion in the trial. Whether the benefit of thrombectomy shown in our trial would also apply to patients presenting later with large in- farcts of unrestricted size with or without a mismatch on baseline imaging remains unknown.
+
+1686
+
+n engl j med 390;18 nejm.org May 9, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+[DOCLING_PAGE 11]
+
+Thrombectomy for Stroke with a Large Infarct
+
+A unique feature of our trial was the lack of restriction on the upper limit of the infarct size. Consequently, 56% of the patients in our trial had a baseline infarct size (ASPECTS value, ≤2) that would have precluded their enrollment in other trials that included patients with a large core. Furthermore, the median baseline infarct volume of 135 ml in our trial was larger than that in other trials, which may explain why the percentages of patients who died or had severe disability were higher than those in other trials. Nonetheless, the effect favoring thrombectomy was similar in magnitude to that seen in other thrombectomy trials, including those that only enrolled patients with a small or moderately sized baseline infarct 14,17 ; however, no direct comparisons with other trials can be made because of differences in trial designs and patient populations.
+
+Our trial has limitations. First, the trial was terminated prematurely, which could have resulted in an overestimation of the observed treatment effect. Second, MRI was the predominant imaging method used for the selection of patients. Because CT is the predominant imaging method used in the assessment of acute stroke worldwide, the performance of CT in only a small percentage of patients may have diminished the external validity of our trial. Nonetheless, subgroup analyses did not reveal any discrepant safety or efficacy signals between patients who were selected on the basis of MRI results and those who were selected on the basis of CT results. Furthermore, because MRI is more sensitive than CT for the detection of ischemia, it is unlikely that patients with the largest infarcts were excluded from enrollment because of an underestimation of the infarct size on the qualifying brain imaging study. Therefore, our results suggest that the benefit of thrombectomy in patients with the largest infarcts was present regardless of the imaging method used to ascertain the infarct size. Only approximately one third of the patients enrolled in our trial received intravenous thrombolysis therapy, despite a larger percentage of patients presenting within a time window (≤4.5 hours after the onset of symptoms) that rendered them eligible for the treatment, a finding that is attributable to the prevailing uncertainty about the benefit-to-risk profile of thrombolysis therapy in patients with large infarcts. 18 However, subgroup analyses did not reveal any discrepant safety or efficacy signals between the two trial groups according to the use of thrombolysis therapy. Finally, because patients older than 80 years of age with an ASPECTS value of 0 to 3 were excluded, we could not ascertain the benefit of thrombectomy in this population.
+
+This trial showed that among patients with acute stroke with proximal large-vessel occlusion and a large baseline infarct without an upper size limit, endovascular thrombectomy plus medical care resulted in better functional outcomes and lower mortality than medical care alone but was associated with procedural complications and led to a higher incidence of symptomatic intracerebral hemorrhage.
+
+Supported by Montpellier University Hospital through an unrestricted grant from an industry consortium of medical device companies (Medtronic, Stryker, Balt Extrusion, MicroVention, and Cerenovus) that was not involved in the design or implementation of the trial.
+
+Disclosure forms provided by the authors are available with the full text of this article at NEJM.org.
+
+A data sharing statement provided by the authors is available with the full text of this article at NEJM.org.
+
+Appendix
+
+The authors' full names and academic degrees are as follows: Vincent Costalat, M.D., Ph.D., Tudor G. Jovin, M.D., J.F. Albucher, M.D., Christophe Cognard, M.D., Ph.D., Hilde Henon, M.D., Nasreddine Nouri, M.D., Benjamin Gory, M.D., Ph.D., Sebastien Richard, M.D., Gaultier Marnat, M.D., Igor Sibon, M.D., Ph.D., Federico Di Maria, M.D., Mariam Annan, M.D., Grégoire Boulouis, M.D., Pere Cardona, M.D., Michael Obadia, M.D., Michel Piotin, M.D., Ph.D., Romain Bourcier, M.D., Ph.D., Benoit Guillon, M.D., Sophie Godard, M.D., Anne Pasco-Papon, M.D., Omer F. Eker, M.D., Ph.D., Tae-Hee Cho, M.D., Ph.D., Guillaume Turc, M.D., Ph.D., Olivier Naggara, M.D., Ph.D., Stéphane Velasco, M.D., Matthias Lamy, M.D., Frédéric Clarençon, M.D., Ph.D., Sonia Alamowitch, M.D., Ph.D., Arturo Renu, M.D., Ph.D., Laurent Suissa, M.D., Ph.D., Hervé Brunel, M.D., Jean-Christophe Gentric, M.D., Serge Timsit, M.D., Ph.D., Chantal Lamy, M.D., Cyril Chivot, M.D., Francisco Macian-Montoro, M.D., Charbel Mounayer, M.D., Ozlem Ozkul-Wermester, M.D., Chrysanthi Papagiannaki, M.D., Valérie Wolff, M.D., Ph.D., Raoul Pop, M.D., Ph.D., Anna Ferrier, M.D., Emmanuel Chabert, M.D., Ph.D., Frédéric Ricolfi, M.D., Ph.D., Yannick Béjot, M.D., Ph.D., Elena Lopez-Cancio, M.D., Ph.D., Pedro Vega, M.D., Laurent Spelle, M.D., Ph.D., Christian Denier, M.D., Ph.D., Mònica Millán, M.D., Ph.D., Juan F. Arenillas, M.D., Mikael Mazighi, M.D., Ph.D., Emmanuel Houdart, M.D., Ph.D., Maria del Mar Freijo, M.D., Alain Duhamel, Ph.D., Nerses Sanossian, M.D., David S. Liebeskind, M.D., Julien Labreuche, M.Sc., Bertrand Lapergue, M.D., Ph.D., and Caroline Arquizan, M.D.
+
+n engl j med 390;18 nejm.org May 9, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+1687
+
+[DOCLING_PAGE 12]
+
+The new england journal o f medicine
+
+The authors' affiliations are as follows: the Department of Neuroradiology, Hôpital Gui de Chauliac, Montpellier (V.C.), the Departments of Neurology (J.F. Albucher) and Neuroradiology (C. Cognard), Hôpital Pierre Paul Riquet, and Toulouse Clinical Investigations Centers 1436 (J.F. Albucher, C. Cognard), Toulouse, the Departments of Neurology (H.H.) and Neuroradiology (N.N.), Hôpital Salengro, and the Department of Biostatistics, Centre Hospitalier Universitaire (CHU) Lille (A.D., J.L.), Lille, the Department of Neuroradiology, Hôpital central, L'unité d'Imagerie Adaptative Diagnostique et Interventionnelle, INSERM Unité 1254 (B. Gory), and the Department of Neurology, Hôpital central, Centre d'investigation clinique Plurithématique 1433, INSERM Unité 1116 (S.R.), Nancy, the Departments of Neuroradiology (G.M.) and Neurology (I.S.), Hôpital Pellegrin, Bordeaux, the Department of Neuroradiology, Hôpital Foch, Suresnes (F.D.M.), the Departments of Neurology (M.A.) and Neuroradiology (G.B.), Hôpital Bretonneau, Tours, the Departments of Neurology (M.O.) and Neuroradiology (M.P.), Hôpital Fondation Adolphe de Rothschild, the Departments of Neurology (G.T.) and Neuroradiology (O.N.), Groupe Hospitalier Universitaire Paris, Centre Hospitalier Sainte-Anne, INSERM Unité 1266, the Departments of Neuroradiology (F.C.) and Neurology (S.A.), Hôpital La Pitié-Salpêtrière, Assistance PubliqueHôpitaux de Paris (AP-HP), the Departments of Neuroradiology (L. Spelle) and Neurology (C.D.), Hôpital Bicêtre, AP-HP, the Departments of Neurology (M. Mazighi) and Neuroradiology (E.H.), Hôpital Lariboisière AP-HP, and INSERM Unité 1266 (C.A.), Paris, the Department of Neuroradiology, Nantes Université, CHU Nantes (R.B.), INSERM Unité Mixte de Recherche 1087, Centre National de la Recherche Scientifique, University of Nantes, L'institut du Thorax (R.B.), and Clinique Neurologique, Hôpital G.R. Laennec CHU Nantes (B. Guillon), Nantes, the Departments of Neurology (S.G.) and Neuroradiology (A.P.-P.), CHU d'Angers, Angers, the Departments of Neuroradiology (O.F.E.) and Neurology (T.-H.C.), Hospices Civils de Lyon, Groupement Hospitalier Est Hôpital Pierre Wertheimer, Lyon, the Departments of Neuroradiology (S.V.) and Neurology (M.L.), CHU Poitiers, Site de La Milétrie, Poitiers, the Stroke Unit (L. Suissa) and the Department of Neuroradiology (H.B.), Assistance Publique-Hôpitaux de Marseille, Hôpital de la Timone, Marseille, the Departments of Neuroradiology (J.-C.G.) and Neurology (S.T.), Centre Hospitalier Régional Universitaire (CHRU) Brest, Hôpital de la Cavale Blanche, Brest, the Departments of Neurology (C.L.) and Neuroradiology (C. Chivot), CHU Amiens-Picardie, Amiens, the Departments of Neurology (F.M.-M.) and Neuroradiology (C.M.), CHU Limoges, Dupuytren, Limoges, the Departments of Neurology (O.O.-W.) and Neuroradiology (C.P.), CHU Rouen, Rouen, the Departments of Neurology (V.W.) and Neuroradiology (R.P.), CHRU Strasbourg, Hôpitaux Universitaires de Strasbourg, Hôpital de Hautepierre, Strasbourg, the Departments of Neurology (A.F.) and Neuroradiology (E.C.), CHU Clermont-Ferrand, Hôpital Gabriel Montpied, Clermont-Ferrand, the Departments of Neuroradiology (F.R.) and Neurology (Y.B.), CHU Dijon-Bourgogne, Hôpital François Mitterrand, Dijon, and the Department of Neurology, Hôpital Foch, Suresnes (B.L.), and the Department of Neurology, Hôpital Gui de Chauliac, Montpellier (C.A.) - all in France; Cooper Neurological Institute and Cooper Medical School of Rowan University, Camden, NJ (T.G.J.); the Department of Neurology, Hospital Universitari de Bellvitge, L'Hospitalet de Llobregat (P.C.), and the Department of Neurology, Hospital Clínic de Barcelona (A.R.), Barcelona, the Department of Radiology, Hospital Universitario Central de Asturias, Oviedo (E.L.-C., P.V.), the Department of Neurology Hospital Germans Trias i Pujol, Badalona (M. Millán), Hospital Clínico Universitario de Valladolid, Valladolid (J.F. Arenillas), and the Department of Neurology, Hospital Universitario Cruces, Baracaldo (M.M.F.) - all in Spain; and the Department of Neurology, University of Southern California (N.S.), and the Department of Neurology, UCLA (D.S.L.) - both in Los Angeles.
+
+References
+
+Yoshimura S, Sakai N, Yamagami H, et al. Endovascular therapy for acute stroke with a large ischemic region. N Engl J Med 2022; 386: 1303-13.
+
+Sarraj A, Hassan AE, Abraham MG, et al. Trial of endovascular thrombectomy for large ischemic strokes. N Engl J Med 2023; 388: 1259-71.
+
+Huo X, Ma G, Tong X, et al. Trial of endovascular therapy for acute ischemic stroke with large infarct. N Engl J Med 2023; 388: 1272-83.
+
+Bendszus M, Fiehler J, Subtil F, et al. Endovascular thrombectomy for acute ischaemic stroke with established large infarct: multicentre, open-label, randomised trial. Lancet 2023; 402: 1753-63.
+
+Zaidat OO, Al Kasab S, Sheth S, et al. TESLA trial: rationale, protocol, and design. Stroke Vasc Intervent Neurol 2023; 3: e000787 (https://doi .­ org/ ­ 10 .­ 1161/ ­ SVIN .­ 122 .­ 000787).
+
+Jadhav AP, Desai SM, Liebeskind DS,
+
+Wechsler LR. Neuroimaging of acute stroke. Neurol Clin 2020; 38: 185-99.
+
+Barber PA, Demchuk AM, Zhang J, Buchan AM. Validity and reliability of a quantitative computed tomography score in predicting outcome of hyperacute stroke before thrombolytic therapy. Lancet 2000; 355: 1670-4.
+
+Meyer L, Bechstein M, Bester M, et al. Thrombectomy in extensive stroke may not be beneficial and is associated with increased risk for hemorrhage. Stroke 2021; 52: 3109-17.
+
+Costalat V, Lapergue B, Albucher JF, et al. Evaluation of acute mechanical revascularization in large stroke (ASPECTS ≤5) and large vessel occlusion within 7 h of last-seen-well: the LASTE multicenter, randomized, clinical trial protocol. Int J Stroke 2024; 19: 114-9.
+
+Thomalla G, Cheng B, Ebinger M, et al. DWI-FLAIR mismatch for the identification of patients with acute ischaemic
+
+stroke within 4·5 h of symptom onset (PRE-FLAIR): a multicentre observational study. Lancet Neurol 2011; 10: 978-86.
+
+Saver JL, Filip B, Hamilton S, et al. Improving the reliability of stroke disability grading in clinical trials and clinical practice: the Rankin Focused Assessment (RFA). Stroke 2010; 41: 992-5.
+
+Chaisinanunkul N, Adeoye O, Lewis RJ, et al. Adopting a patient-centered approach to primary outcome analysis of acute stroke trials using a utility-weighted modified Rankin scale. Stroke 2015; 46: 2238-43.
+
+Zaidat OO, Yoo AJ, Khatri P, et al. Recommendations on angiographic revascularization grading standards for acute ischemic stroke: a consensus statement. Stroke 2013; 44: 2650-63.
+
+von Kummer R, Broderick JP, Campbell BCV, et al. The Heidelberg Bleeding Classification: classification of bleeding events after ischemic stroke and reperfusion therapy. Stroke 2015; 46: 2981-6.
+
+1688
+
+n engl j med 390;18 nejm.org May 9, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+[DOCLING_PAGE 13]
+
+Thrombectomy for Stroke with a Large Infarct
+
+Wahlgren N, Ahmed N, Dávalos A, et al. Thrombolysis with alteplase for acute ischaemic stroke in the Safe Implementation of Thrombolysis in Stroke-Monitoring Study (SITS-MOST): an observational study. Lancet 2007; 369: 275-82.
+
+16. van Buuren S. Multiple imputation of
+
+discrete and continuous data by fully conditional specification. Stat Methods Med Res 2007; 16: 219-42.
+
+17. Saver JL, Goyal M, van der Lugt A, et al. Time to treatment with endovascular thrombectomy and outcomes from ischemic stroke: a meta-analysis. JAMA 2016; 316: 1279-88.
+
+clinical trial registration
+
+The Journal requires investigators to register their clinical trials in a public trials registry. The members of the International Committee of Medical Journal Editors (ICMJE) will consider most reports of clinical trials for publication only if the trials have been registered. Current information on requirements and appropriate registries is available at www.icmje.org/about-icmje/faqs/.
+
+Berge E, Whiteley W, Audebert H, et al. European Stroke Organisation (ESO) guidelines on intravenous thrombolysis for acute ischaemic stroke. Eur Stroke J 2021; 6: I-LXII.
+
+Copyright © 2024 Massachusetts Medical Society.
+
+n engl j med 390;18
+
+nejm.org May 9, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+1689

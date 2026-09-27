@@ -1,0 +1,675 @@
+{
+  "schema_version": "3.0.0",
+  "review_id": "balbaa.nonfasting.cardiac.review.2025",
+  "protocol_content": {
+    "schema_version": "3.0.0",
+    "protocol_id": "balbaa.nonfasting.cardiac.protocol.m0",
+    "title": "Non-fasting versus fasting before percutaneous cardiac procedures",
+    "research_question": "Among adults undergoing percutaneous cardiac or cardiac device procedures, compare a non-fasting protocol with conventional fasting for patient-reported comfort and the safety outcomes defined by the Review.",
+    "review_criteria": "Include randomized controlled trials comparing non-fasting with fasting before percutaneous cardiac or cardiac device procedures. Collect the Review-defined satisfaction, symptom and safety outcomes using participant counts for binary outcomes or reported means, standard deviations and group sizes for continuous outcomes.",
+    "result_targets": [
+      {
+        "target_id": "result.composite_satisfaction",
+        "population": "Adults undergoing elective or semiurgent percutaneous cardiac or cardiac device procedures in randomized controlled trials.",
+        "intervention": {
+          "label": "non-fasting protocol",
+          "aliases": [
+            "non-fasting protocol",
+            "nonfasting",
+            "no fasting"
+          ]
+        },
+        "comparator": {
+          "label": "fasting protocol",
+          "aliases": [
+            "fasting protocol",
+            "fasting",
+            "usual fasting",
+            "nil per os",
+            "NPO"
+          ]
+        },
+        "outcome": "Composite satisfaction score",
+        "outcome_definition": "Trial-reported composite patient satisfaction or well-being score.",
+        "timepoint": "Preprocedural or periprocedural assessment specified by each trial.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract reported participant counts for binary outcomes or final means, standard deviations, and outcome-specific group sizes for continuous outcomes.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "CONTINUOUS",
+        "measurement_basis": "FINAL",
+        "scale": "trial-reported satisfaction scale",
+        "direction": "LOWER_IS_BETTER"
+      },
+      {
+        "target_id": "result.hunger",
+        "population": "Adults undergoing elective or semiurgent percutaneous cardiac or cardiac device procedures in randomized controlled trials.",
+        "intervention": {
+          "label": "non-fasting protocol",
+          "aliases": [
+            "non-fasting protocol",
+            "nonfasting",
+            "no fasting"
+          ]
+        },
+        "comparator": {
+          "label": "fasting protocol",
+          "aliases": [
+            "fasting protocol",
+            "fasting",
+            "usual fasting",
+            "nil per os",
+            "NPO"
+          ]
+        },
+        "outcome": "Hunger score",
+        "outcome_definition": "Trial-reported patient hunger score.",
+        "timepoint": "Preprocedural assessment before the cardiac procedure.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract reported participant counts for binary outcomes or final means, standard deviations, and outcome-specific group sizes for continuous outcomes.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "CONTINUOUS",
+        "measurement_basis": "FINAL",
+        "scale": "trial-reported hunger scale",
+        "direction": "LOWER_IS_BETTER"
+      },
+      {
+        "target_id": "result.thirst",
+        "population": "Adults undergoing elective or semiurgent percutaneous cardiac or cardiac device procedures in randomized controlled trials.",
+        "intervention": {
+          "label": "non-fasting protocol",
+          "aliases": [
+            "non-fasting protocol",
+            "nonfasting",
+            "no fasting"
+          ]
+        },
+        "comparator": {
+          "label": "fasting protocol",
+          "aliases": [
+            "fasting protocol",
+            "fasting",
+            "usual fasting",
+            "nil per os",
+            "NPO"
+          ]
+        },
+        "outcome": "Thirst score",
+        "outcome_definition": "Trial-reported patient thirst score.",
+        "timepoint": "Preprocedural assessment before the cardiac procedure.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract reported participant counts for binary outcomes or final means, standard deviations, and outcome-specific group sizes for continuous outcomes.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "CONTINUOUS",
+        "measurement_basis": "FINAL",
+        "scale": "trial-reported thirst scale",
+        "direction": "LOWER_IS_BETTER"
+      },
+      {
+        "target_id": "result.anxiety",
+        "population": "Adults undergoing elective or semiurgent percutaneous cardiac or cardiac device procedures in randomized controlled trials.",
+        "intervention": {
+          "label": "non-fasting protocol",
+          "aliases": [
+            "non-fasting protocol",
+            "nonfasting",
+            "no fasting"
+          ]
+        },
+        "comparator": {
+          "label": "fasting protocol",
+          "aliases": [
+            "fasting protocol",
+            "fasting",
+            "usual fasting",
+            "nil per os",
+            "NPO"
+          ]
+        },
+        "outcome": "Anxiety score",
+        "outcome_definition": "Trial-reported patient anxiety score.",
+        "timepoint": "Preprocedural assessment before the cardiac procedure.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract reported participant counts for binary outcomes or final means, standard deviations, and outcome-specific group sizes for continuous outcomes.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "CONTINUOUS",
+        "measurement_basis": "FINAL",
+        "scale": "trial-reported anxiety scale",
+        "direction": "LOWER_IS_BETTER"
+      },
+      {
+        "target_id": "result.tiredness_fatigue",
+        "population": "Adults undergoing elective or semiurgent percutaneous cardiac or cardiac device procedures in randomized controlled trials.",
+        "intervention": {
+          "label": "non-fasting protocol",
+          "aliases": [
+            "non-fasting protocol",
+            "nonfasting",
+            "no fasting"
+          ]
+        },
+        "comparator": {
+          "label": "fasting protocol",
+          "aliases": [
+            "fasting protocol",
+            "fasting",
+            "usual fasting",
+            "nil per os",
+            "NPO"
+          ]
+        },
+        "outcome": "Tiredness or fatigue score",
+        "outcome_definition": "Trial-reported patient tiredness or fatigue score.",
+        "timepoint": "Preprocedural assessment before the cardiac procedure.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract reported participant counts for binary outcomes or final means, standard deviations, and outcome-specific group sizes for continuous outcomes.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "CONTINUOUS",
+        "measurement_basis": "FINAL",
+        "scale": "trial-reported tiredness or fatigue scale",
+        "direction": "LOWER_IS_BETTER"
+      },
+      {
+        "target_id": "result.aspiration",
+        "population": "Adults undergoing elective or semiurgent percutaneous cardiac or cardiac device procedures in randomized controlled trials.",
+        "intervention": {
+          "label": "non-fasting protocol",
+          "aliases": [
+            "non-fasting protocol",
+            "nonfasting",
+            "no fasting"
+          ]
+        },
+        "comparator": {
+          "label": "fasting protocol",
+          "aliases": [
+            "fasting protocol",
+            "fasting",
+            "usual fasting",
+            "nil per os",
+            "NPO"
+          ]
+        },
+        "outcome": "Intraoperative or postoperative aspiration",
+        "outcome_definition": "Suspected or confirmed pulmonary aspiration during or after the procedure.",
+        "timepoint": "Periprocedural safety surveillance specified by each trial.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract reported participant counts for binary outcomes or final means, standard deviations, and outcome-specific group sizes for continuous outcomes.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.pneumonia",
+        "population": "Adults undergoing elective or semiurgent percutaneous cardiac or cardiac device procedures in randomized controlled trials.",
+        "intervention": {
+          "label": "non-fasting protocol",
+          "aliases": [
+            "non-fasting protocol",
+            "nonfasting",
+            "no fasting"
+          ]
+        },
+        "comparator": {
+          "label": "fasting protocol",
+          "aliases": [
+            "fasting protocol",
+            "fasting",
+            "usual fasting",
+            "nil per os",
+            "NPO"
+          ]
+        },
+        "outcome": "Postprocedural pneumonia",
+        "outcome_definition": "Postprocedural pneumonia, including aspiration pneumonia when that is the trial endpoint.",
+        "timepoint": "Postprocedural follow-up specified by each trial.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract reported participant counts for binary outcomes or final means, standard deviations, and outcome-specific group sizes for continuous outcomes.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.emergency_intubation",
+        "population": "Adults undergoing elective or semiurgent percutaneous cardiac or cardiac device procedures in randomized controlled trials.",
+        "intervention": {
+          "label": "non-fasting protocol",
+          "aliases": [
+            "non-fasting protocol",
+            "nonfasting",
+            "no fasting"
+          ]
+        },
+        "comparator": {
+          "label": "fasting protocol",
+          "aliases": [
+            "fasting protocol",
+            "fasting",
+            "usual fasting",
+            "nil per os",
+            "NPO"
+          ]
+        },
+        "outcome": "Emergency endotracheal intubation",
+        "outcome_definition": "Emergency endotracheal intubation related to the procedure.",
+        "timepoint": "Periprocedural safety surveillance specified by each trial.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract reported participant counts for binary outcomes or final means, standard deviations, and outcome-specific group sizes for continuous outcomes.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.nausea_vomiting",
+        "population": "Adults undergoing elective or semiurgent percutaneous cardiac or cardiac device procedures in randomized controlled trials.",
+        "intervention": {
+          "label": "non-fasting protocol",
+          "aliases": [
+            "non-fasting protocol",
+            "nonfasting",
+            "no fasting"
+          ]
+        },
+        "comparator": {
+          "label": "fasting protocol",
+          "aliases": [
+            "fasting protocol",
+            "fasting",
+            "usual fasting",
+            "nil per os",
+            "NPO"
+          ]
+        },
+        "outcome": "Nausea or vomiting",
+        "outcome_definition": "Trial-reported periprocedural nausea or vomiting.",
+        "timepoint": "Periprocedural period specified by each trial.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract reported participant counts for binary outcomes or final means, standard deviations, and outcome-specific group sizes for continuous outcomes.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.antiemetic_use",
+        "population": "Adults undergoing elective or semiurgent percutaneous cardiac or cardiac device procedures in randomized controlled trials.",
+        "intervention": {
+          "label": "non-fasting protocol",
+          "aliases": [
+            "non-fasting protocol",
+            "nonfasting",
+            "no fasting"
+          ]
+        },
+        "comparator": {
+          "label": "fasting protocol",
+          "aliases": [
+            "fasting protocol",
+            "fasting",
+            "usual fasting",
+            "nil per os",
+            "NPO"
+          ]
+        },
+        "outcome": "Anti-emetic use",
+        "outcome_definition": "Participant receipt of rescue or trial-defined anti-emetic medication.",
+        "timepoint": "Periprocedural period specified by each trial.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract reported participant counts for binary outcomes or final means, standard deviations, and outcome-specific group sizes for continuous outcomes.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.hypoglycemia",
+        "population": "Adults undergoing elective or semiurgent percutaneous cardiac or cardiac device procedures in randomized controlled trials.",
+        "intervention": {
+          "label": "non-fasting protocol",
+          "aliases": [
+            "non-fasting protocol",
+            "nonfasting",
+            "no fasting"
+          ]
+        },
+        "comparator": {
+          "label": "fasting protocol",
+          "aliases": [
+            "fasting protocol",
+            "fasting",
+            "usual fasting",
+            "nil per os",
+            "NPO"
+          ]
+        },
+        "outcome": "Hypoglycemia",
+        "outcome_definition": "Hypoglycemia at the threshold defined by the Review or trial.",
+        "timepoint": "Periprocedural period specified by each trial.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract reported participant counts for binary outcomes or final means, standard deviations, and outcome-specific group sizes for continuous outcomes.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.intraoperative_fluid",
+        "population": "Adults undergoing elective or semiurgent percutaneous cardiac or cardiac device procedures in randomized controlled trials.",
+        "intervention": {
+          "label": "non-fasting protocol",
+          "aliases": [
+            "non-fasting protocol",
+            "nonfasting",
+            "no fasting"
+          ]
+        },
+        "comparator": {
+          "label": "fasting protocol",
+          "aliases": [
+            "fasting protocol",
+            "fasting",
+            "usual fasting",
+            "nil per os",
+            "NPO"
+          ]
+        },
+        "outcome": "Intraoperative fluid provision",
+        "outcome_definition": "Participant receipt of trial-reported intraoperative fluid support.",
+        "timepoint": "During the cardiac procedure.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract reported participant counts for binary outcomes or final means, standard deviations, and outcome-specific group sizes for continuous outcomes.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.contrast_induced_aki",
+        "population": "Adults undergoing elective or semiurgent percutaneous cardiac or cardiac device procedures in randomized controlled trials.",
+        "intervention": {
+          "label": "non-fasting protocol",
+          "aliases": [
+            "non-fasting protocol",
+            "nonfasting",
+            "no fasting"
+          ]
+        },
+        "comparator": {
+          "label": "fasting protocol",
+          "aliases": [
+            "fasting protocol",
+            "fasting",
+            "usual fasting",
+            "nil per os",
+            "NPO"
+          ]
+        },
+        "outcome": "Contrast-induced acute kidney injury",
+        "outcome_definition": "Contrast-associated or contrast-induced acute kidney injury according to the trial definition.",
+        "timepoint": "Postprocedural kidney assessment specified by each trial.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract reported participant counts for binary outcomes or final means, standard deviations, and outcome-specific group sizes for continuous outcomes.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.inotrope_vasopressor",
+        "population": "Adults undergoing elective or semiurgent percutaneous cardiac or cardiac device procedures in randomized controlled trials.",
+        "intervention": {
+          "label": "non-fasting protocol",
+          "aliases": [
+            "non-fasting protocol",
+            "nonfasting",
+            "no fasting"
+          ]
+        },
+        "comparator": {
+          "label": "fasting protocol",
+          "aliases": [
+            "fasting protocol",
+            "fasting",
+            "usual fasting",
+            "nil per os",
+            "NPO"
+          ]
+        },
+        "outcome": "Inotrope or vasopressor therapy",
+        "outcome_definition": "Participant receipt of trial-defined inotrope or vasopressor therapy.",
+        "timepoint": "Periprocedural period specified by each trial.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract reported participant counts for binary outcomes or final means, standard deviations, and outcome-specific group sizes for continuous outcomes.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.ventilation",
+        "population": "Adults undergoing elective or semiurgent percutaneous cardiac or cardiac device procedures in randomized controlled trials.",
+        "intervention": {
+          "label": "non-fasting protocol",
+          "aliases": [
+            "non-fasting protocol",
+            "nonfasting",
+            "no fasting"
+          ]
+        },
+        "comparator": {
+          "label": "fasting protocol",
+          "aliases": [
+            "fasting protocol",
+            "fasting",
+            "usual fasting",
+            "nil per os",
+            "NPO"
+          ]
+        },
+        "outcome": "Ventilation requirement",
+        "outcome_definition": "New or postoperative invasive or non-invasive ventilation requirement.",
+        "timepoint": "Postprocedural period specified by each trial.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the randomized comparison and extract reported participant counts for binary outcomes or final means, standard deviations, and outcome-specific group sizes for continuous outcomes.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      }
+    ]
+  },
+  "accepted_protocol_sha256": "60bbbb938bbb65f022cf1c740759eca22f911c2c7a31bfa6beeeb2eae3b1021f",
+  "protocol_acceptance": {
+    "actor": "project-owner",
+    "decided_at": "2026-08-27T01:00:00+08:00",
+    "decision": "ACCEPTED"
+  },
+  "governing_review_inventory_sha256": "c39c040f1ebee5edcf232b293c92f9e71a3592c7c679540e08abbd762941b63c",
+  "accepted_study_inventory_sha256": "a9a084863e54c79297ef9e7f7d7d515b712cef30a16672fab94aef41a2abfead",
+  "studies": [
+    {
+      "study_key": "atkinson",
+      "display_label": "Atkinson 2023",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "bode",
+      "display_label": "Fast-CIED",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "woods",
+      "display_label": "Woods 2024",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "boukantar",
+      "display_label": "TONIC",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "ferreira",
+      "display_label": "SCOFF",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    }
+  ],
+  "reports": [
+    {
+      "report_key": "atkinson.primary",
+      "title": "Randomized controlled trial of liberal vs. standard fasting instructions in percutaneous cardiac procedures",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1186/s13741-023-00333-z"
+        },
+        {
+          "scheme": "PMCID",
+          "value": "PMC10408039"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "bode.primary",
+      "title": "A randomized trial of non-fasting vs. fasting for cardiac implantable electronic device procedures (Fast-CIED Study)",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1093/europace/euac081"
+        },
+        {
+          "scheme": "PMID",
+          "value": "35726877"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "woods.primary",
+      "title": "Fasting Versus a Heart-Healthy Diet Before Cardiac Catheterization: A Randomized Controlled Trial",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.4037/ajcc2024115"
+        },
+        {
+          "scheme": "PMID",
+          "value": "38161168"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "boukantar.primary",
+      "title": "A Randomized Controlled Trial of Nonfasting vs Fasting Before Interventional Coronary Procedures: The TONIC Trial",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1016/j.jcin.2024.03.033"
+        },
+        {
+          "scheme": "PMID",
+          "value": "38811102"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "ferreira.primary",
+      "title": "Fasting vs. no fasting prior to catheterization laboratory procedures: the SCOFF trial",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1093/eurheartj/ehae573"
+        }
+      ],
+      "report_role": "PRIMARY"
+    }
+  ],
+  "report_study_bindings": [
+    {
+      "report_key": "atkinson.primary",
+      "study_key": "atkinson"
+    },
+    {
+      "report_key": "bode.primary",
+      "study_key": "bode"
+    },
+    {
+      "report_key": "woods.primary",
+      "study_key": "woods"
+    },
+    {
+      "report_key": "boukantar.primary",
+      "study_key": "boukantar"
+    },
+    {
+      "report_key": "ferreira.primary",
+      "study_key": "ferreira"
+    }
+  ],
+  "report_identity_issues": [],
+  "documents": [
+    {
+      "document_key": "atkinson.fulltext",
+      "report_key": "atkinson.primary",
+      "input_path": "documents/atkinson-primary/source.txt",
+      "expected_sha256": "5f17aa957dbbb0cbc2048c01081d25364560cb540e315deaf4e3e558fe0fb5f7",
+      "media_type": "text/plain",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1186/s13741-023-00333-z"
+    },
+    {
+      "document_key": "bode.abstract",
+      "report_key": "bode.primary",
+      "input_path": "documents/bode-primary/source.xml",
+      "expected_sha256": "554485932c79dc95e623c35f04d7b9f5d8226a98c30d3084dcd635e112683ec9",
+      "media_type": "application/xml",
+      "representation_scope": "ABSTRACT_AND_RESULTS",
+      "display_url": "https://pubmed.ncbi.nlm.nih.gov/35726877/"
+    },
+    {
+      "document_key": "bode.fulltext",
+      "report_key": "bode.primary",
+      "input_path": "documents/bode-fulltext/source.txt",
+      "expected_sha256": "c83d504ea868afdba481e8593d49bb3cf7b2b56af11cbbb1f710a19a89470d6e",
+      "media_type": "text/plain",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://pure.amsterdamumc.nl/ws/files/139996612/A-randomized-trial-of-non-fasting-vs-fasting-for-cardiac-implantable-electronic-device-procedures-fast-cied-study.pdf"
+    },
+    {
+      "document_key": "woods.fulltext",
+      "report_key": "woods.primary",
+      "input_path": "documents/woods-primary/source.txt",
+      "expected_sha256": "3e0ae6f2963a27f270a0d1725a29cb19275701bd13c801a58448351394a8a808",
+      "media_type": "text/plain",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.4037/ajcc2024115"
+    },
+    {
+      "document_key": "boukantar.fulltext",
+      "report_key": "boukantar.primary",
+      "input_path": "documents/boukantar-primary/source.txt",
+      "expected_sha256": "2874b49a3215ff3608fc48a1f716fc20a412e8988889246a9a5c41bc96b255ec",
+      "media_type": "text/plain",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1016/j.jcin.2024.03.033"
+    },
+    {
+      "document_key": "boukantar.supplement",
+      "report_key": "boukantar.primary",
+      "input_path": "documents/boukantar-supplement/source.html",
+      "expected_sha256": "8c525f832c16c3c7d419f8efd0327ca90a8f826ad4c3b9ebbac36839ff425634",
+      "media_type": "text/html",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1016/j.jcin.2024.03.033"
+    },
+    {
+      "document_key": "ferreira.fulltext",
+      "report_key": "ferreira.primary",
+      "input_path": "documents/ferreira-primary/source.txt",
+      "expected_sha256": "9152d93b876e9b82a1d24ab92391d27d62424fa680e10b8fe0f34b22c6c17ffc",
+      "media_type": "text/plain",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1093/eurheartj/ehae573"
+    }
+  ],
+  "source_dispositions": []
+}

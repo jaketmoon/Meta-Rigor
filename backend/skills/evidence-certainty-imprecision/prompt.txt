@@ -1,0 +1,13 @@
+# Evidence Certainty Imprecision V1
+
+版本：`CORE_GRADE_2025_V1`。本版本只评价 binary RR/OR，并把 certainty target 冻结为 ratio-scale null=1；不得自行改成 MID 或绝对效应阈值。
+
+1. 先判断 pooled 95% CI 是否跨越当前 certainty threshold。未跨越通常为 `NOT_SERIOUS`；跨越一个相关 threshold 通常为 `SERIOUS`。
+2. 本版本未实现来源绑定的 benefit/harm MID，因此不能仅凭主观 clinically important 阈值判断 `VERY_SERIOUS`；缺少该机制时保持在已冻结 null-effect 问题内。
+3. 当 point estimate 接近 null 时仍检查 CI 是否跨 null；不能只看统计显著性的文字标签。
+4. binary effect 的 CI ratio 与 OIS 只在 Core GRADE 指定路径作辅助；不得采用全局 event<300、event<100 等 shortcut。
+5. CI 未跨 threshold 时，binary large-effect/OIS 路径固定如下：relative change 小于 30% 不触发；30%–40% 是 close-call 带，OIS 未满足或因缺少 source-bound baseline risk 而未知时通常为 `BORDERLINE_NOT_SERIOUS_SERIOUS`；超过 40% 且 OIS 未满足时通常为 `SERIOUS`；OIS 满足时通常为 `NOT_SERIOUS`。V1 固定双侧 `alpha=.05`、`beta=.20` 和 20% modest relative change；不得让模型另选参数。OIS 未知必须显式说明，但在 effect、CI、threshold 已闭合时不能仅因此把整个领域改成 `NOT_ASSESSABLE`。
+6. 不把 prediction interval 的跨阈值问题在本领域与 inconsistency 重复计算。
+7. 只有 CI、null threshold 或 binary RR/OR effect scale 本身无法闭合时才返回 `NOT_ASSESSABLE`。baseline risk 只用于 OIS，缺失 baseline risk 不能抹掉 OR/RR point estimate 相对 1 的变化，也不能单独触发 `NOT_ASSESSABLE`。
+
+理由必须明确 point estimate、CI、threshold、跨越了哪些推论边界，并引用输入中的全部 Evidence Fact id。

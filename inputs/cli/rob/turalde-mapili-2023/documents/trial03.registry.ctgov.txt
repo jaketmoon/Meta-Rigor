@@ -1,0 +1,5629 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02878330",
+      "orgStudyIdInfo": {
+        "id": "D5290C00003"
+      },
+      "organization": {
+        "fullName": "MedImmune LLC",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study to Evaluate the Safety and Efficacy of MEDI8897 for the Prevention of Medically Attended RSV LRTI in Healthy Preterm Infants.",
+      "officialTitle": "A Phase 2b Randomized, Double-Blind, Placebo-controlled Study to Evaluate the Safety and Efficacy of MEDI8897, a Monoclonal Antibody With an Extended Half-life Against Respiratory Syncytial Virus, in Healthy Preterm Infants",
+      "acronym": "MEDI8897 Ph2b"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2019-09",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2016-11-03",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2018-07-17",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2018-12-06",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2016-08-22",
+      "studyFirstSubmitQcDate": "2016-08-22",
+      "studyFirstPostDateStruct": {
+        "date": "2016-08-25",
+        "type": "ESTIMATED"
+      },
+      "resultsFirstSubmitDate": "2019-07-17",
+      "resultsFirstSubmitQcDate": "2019-09-24",
+      "resultsFirstPostDateStruct": {
+        "date": "2019-10-14",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2019-09-24",
+      "lastUpdatePostDateStruct": {
+        "date": "2019-10-14",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "MedImmune LLC",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to evaluate the efficacy, safety, pharmacokinetics (PK), and antidrug antibody (ADA) response for MEDI8897 in healthy preterm infants who are between 29 and 35 weeks gestational age (GA) and entering their first Respiratory Syncytial Virus (RSV) season.",
+      "detailedDescription": "This pivotal Phase 2b study will determine if MEDI8897 will be efficacious in reducing medically attended RSV-confirmed lower respiratory tract infections (LRTI) in healthy preterm infants entering their first RSV season. The population to be enrolled is healthy preterm infants born between 29 weeks 0 days and 34 weeks 6 days GA who would not receive RSV prophylaxis. A total of 1500 infants will be randomized 2:1 to receive either MEDI8897 or placebo. Participants will be followed for 360 days after dosing. Enrollment is planned at approximately 197 sites across the USA, Canada, Europe, and the Southern Hemisphere."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Respiratory Syncytial Virus Infections"
+      ],
+      "keywords": [
+        "Respiratory Syncytial Virus, RSV",
+        "Preterm Infants",
+        "Lower Respiratory Tract Infection"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 1453,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Participants will receive a single intramuscular (IM) dose of placebo matched to MEDI8897 on Day 1 of the study.",
+          "interventionNames": [
+            "Drug: Placebo"
+          ]
+        },
+        {
+          "label": "MEDI8897 50 mg",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will receive a single IM dose of MEDI8897 50 milligrams (mg) on Day 1 of the study.",
+          "interventionNames": [
+            "Drug: MEDI8897"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "MEDI8897",
+          "description": "A single IM dose of 50 mg on Day 1 of the study.",
+          "armGroupLabels": [
+            "MEDI8897 50 mg"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "A single IM dose of placebo matched to MEDI8897 on Day 1 of the study.",
+          "armGroupLabels": [
+            "Placebo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of Participants With Medically Attended Respiratory Syncytial Virus (RSV) Confirmed Lower Respiratory Tract Infection (LRTI)",
+          "description": "The determination of medically attended RSV LRTI is based on objective clinical LRTI criteria and RSV test results obtained from analyzing the respiratory secretions using a validated RSV real time reverse transcriptase-polymerase chain reaction (RT-PCR) assay for the detection of RSV A or RSV B subtypes. Criteria for LRTI included documented physical exam findings of rhonchi, rales, crackles, or wheeze and any of the following: increased respiratory rate at rest (for age less than (\\<) 2 months: greater than or equal to (\\>=) 60 breaths/min; 2-6 months: \\>= 50 breaths/min; and for \\> 6 months - 2 years, \\>= 40 breaths/min), or hypoxemia (in room air - oxygen saturation \\< 95% at altitudes less than or equal to (\\<=) 1800 meters or \\< 92% at altitudes \\> 1800 meters), or clinical signs of severe respiratory disease or dehydration secondary to inadequate oral intake due to respiratory distress (need for intravenous fluid).",
+          "timeFrame": "From Day 1 through Day 151"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of Participants Hopitalized Due to Respiratory Syncytial Virus (RSV) Confirmed Lower Respiartory Tract Infection (LRTI)",
+          "description": "A RSV hospitalization is defined as either 1) a respiratory hospitalization with a positive RSV test within 2 days of hospitalization (primary) or 2) new onset of respiratory symptoms in an already hospitalized child, with an objective measure of worsening respiratory status and positive RSV test (nosocomial).",
+          "timeFrame": "From Day 1 through Day 151"
+        },
+        {
+          "measure": "Number of Participants With Treatment Emergent Adverse Events (TEAEs) and Treatment Emergent Serious Adverse Events (TESAEs)",
+          "description": "An adverse event (AE) is any untoward medical occurrence in a participant who received study drug without regard to possibility of causal relationship. An serious adverse event (SAE) is an AE resulting in any of the following outcomes or deemed significant for any other reason: death; initial or prolonged inpatient hospitalization; life threatening experience (immediate risk of dying); persistent or significant disability/incapacity; congenital anomaly. TEAEs are defined as events present at baseline that worsened in intensity after administration of study drug or events absent at baseline that emerged after administration of study drug.",
+          "timeFrame": "From Day 1 through Day 361"
+        },
+        {
+          "measure": "Number of Participants With Adverse Events of Special Interest (AESIs) and New Onset Chronic Diseases (NOCDs)",
+          "description": "An AESI was one of scientific and medical interest specific to understanding of study drug and may have required close monitoring and rapid communication by investigator to the sponsor. An AESI may be serious or non-serious. A NOCD is a newly diagnosed medical condition that is of a chronic, ongoing nature. It is observed after receiving study drug and is assessed by investigator as medically significant.",
+          "timeFrame": "From Day 1 through Day 361"
+        },
+        {
+          "measure": "Serum Concentration of MEDI8897",
+          "timeFrame": "Days 91, 151, and 361"
+        },
+        {
+          "measure": "Elimination Half-life (t1/2) of MEDI8897",
+          "description": "Terminal elimination half-life (t½) is the time required for half of the drug to be eliminated from the serum.",
+          "timeFrame": "Day 91 through Day 361"
+        },
+        {
+          "measure": "Number of Participants With Positive Anti-drug Antibodies to MEDI8897",
+          "description": "The number of participants with positive serum antibodies to MEDI8897 are reported.",
+          "timeFrame": "Days 91, 151, and 361"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Key Inclusion Criteria:\n\n1. Healthy infants born between 29 weeks 0 days and 34 weeks 6 days GA.\n2. Infants who are entering their first full RSV season at the time of screening.\n\nKey Exclusion Criteria:\n\n1. Meets American Academy of Pediatrics (AAP) or other local criteria to receive commercial palivizumab.\n2. Any fever (\\>= 100.4°F \\[\\>= 38.0°C\\], regardless of route) or lower respiratory illness within 7 days prior to randomization.\n3. Acute illness (defined as the presence of moderate or severe signs and symptoms) at the time of randomization.\n4. Active RSV infection (a child with signs/symptoms of respiratory infection must have negative RSV testing) or known prior history of RSV infection.\n5. Receipt of palivizumab or other RSV monoclonal antibody or any RSV vaccine, including maternal RSV vaccination.",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "maximumAge": "365 Days",
+      "stdAges": [
+        "CHILD"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Research Site",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35205",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.52066,
+            "lon": -86.80249
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Anaheim",
+          "state": "California",
+          "zip": "92804",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.83529,
+            "lon": -117.9145
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Anaheim",
+          "state": "California",
+          "zip": "92805",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.83529,
+            "lon": -117.9145
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Downey",
+          "state": "California",
+          "zip": "90241",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.94001,
+            "lon": -118.13257
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Long Beach",
+          "state": "California",
+          "zip": "90806",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.76696,
+            "lon": -118.18923
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90027",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Paramount",
+          "state": "California",
+          "zip": "90723",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.88946,
+            "lon": -118.15979
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "San Diego",
+          "state": "California",
+          "zip": "92123",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.71571,
+            "lon": -117.16472
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "West Covina",
+          "state": "California",
+          "zip": "91790",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.06862,
+            "lon": -117.93895
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Aurora",
+          "state": "Colorado",
+          "zip": "80045",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.72943,
+            "lon": -104.83192
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Colorado Springs",
+          "state": "Colorado",
+          "zip": "80922",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.83388,
+            "lon": -104.82136
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Hartford",
+          "state": "Connecticut",
+          "zip": "06106",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.76371,
+            "lon": -72.68509
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Gainesville",
+          "state": "Florida",
+          "zip": "32607",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.65163,
+            "lon": -82.32483
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Orlando",
+          "state": "Florida",
+          "zip": "32806",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.53834,
+            "lon": -81.37924
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "South Miami",
+          "state": "Florida",
+          "zip": "33143",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.7076,
+            "lon": -80.29338
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30322",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.749,
+            "lon": -84.38798
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Augusta",
+          "state": "Georgia",
+          "zip": "30912",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.47097,
+            "lon": -81.97484
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60611",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.85003,
+            "lon": -87.65005
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Oak Lawn",
+          "state": "Illinois",
+          "zip": "60068",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.71087,
+            "lon": -87.75811
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Park Ridge",
+          "state": "Illinois",
+          "zip": "60068",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.01114,
+            "lon": -87.84062
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "South Bend",
+          "state": "Indiana",
+          "zip": "46601",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.68338,
+            "lon": -86.25001
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Woburn",
+          "state": "Massachusetts",
+          "zip": "01801",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.47926,
+            "lon": -71.15228
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Detroit",
+          "state": "Michigan",
+          "zip": "48201",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.33143,
+            "lon": -83.04575
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Jackson",
+          "state": "Mississippi",
+          "zip": "39216",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.29876,
+            "lon": -90.18481
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Columbia",
+          "state": "Missouri",
+          "zip": "65212",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.95171,
+            "lon": -92.33407
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Lincoln",
+          "state": "Nebraska",
+          "zip": "68504",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.8,
+            "lon": -96.66696
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Omaha",
+          "state": "Nebraska",
+          "zip": "68124",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.25626,
+            "lon": -95.94043
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Omaha",
+          "state": "Nebraska",
+          "zip": "68134",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.25626,
+            "lon": -95.94043
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Omaha",
+          "state": "Nebraska",
+          "zip": "68198",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.25626,
+            "lon": -95.94043
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Mineola",
+          "state": "New York",
+          "zip": "11501",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.74927,
+            "lon": -73.64068
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "New Hyde Park",
+          "state": "New York",
+          "zip": "11040",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.7351,
+            "lon": -73.68791
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Stony Brook",
+          "state": "New York",
+          "zip": "11794",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.92565,
+            "lon": -73.14094
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Syracuse",
+          "state": "New York",
+          "zip": "13210-2306",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.04812,
+            "lon": -76.14742
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Boone",
+          "state": "North Carolina",
+          "zip": "28607",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.21679,
+            "lon": -81.67455
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Raleigh",
+          "state": "North Carolina",
+          "zip": "27609",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.7721,
+            "lon": -78.63861
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Cincinnati",
+          "state": "Ohio",
+          "zip": "45229",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.12711,
+            "lon": -84.51439
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44109",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.4995,
+            "lon": -81.69541
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Columbus",
+          "state": "Ohio",
+          "zip": "43205",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.96118,
+            "lon": -82.99879
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Columbus",
+          "state": "Ohio",
+          "zip": "43231",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.96118,
+            "lon": -82.99879
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Dayton",
+          "state": "Ohio",
+          "zip": "45414",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.75895,
+            "lon": -84.19161
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Oklahoma City",
+          "state": "Oklahoma",
+          "zip": "73104",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.46756,
+            "lon": -97.51643
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Gresham",
+          "state": "Oregon",
+          "zip": "97030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 45.49818,
+            "lon": -122.43148
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Erie",
+          "state": "Pennsylvania",
+          "zip": "16506",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.12922,
+            "lon": -80.08506
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15224",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.44062,
+            "lon": -79.99589
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Charleston",
+          "state": "South Carolina",
+          "zip": "29425",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.77632,
+            "lon": -79.93275
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "North Charleston",
+          "state": "South Carolina",
+          "zip": "29406",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.85462,
+            "lon": -79.97481
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Sioux Falls",
+          "state": "South Dakota",
+          "zip": "57104",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.54369,
+            "lon": -96.72796
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Memphis",
+          "state": "Tennessee",
+          "zip": "38103",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.14953,
+            "lon": -90.04898
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Edinburg",
+          "state": "Texas",
+          "zip": "78539",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.30174,
+            "lon": -98.16334
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Fort Worth",
+          "state": "Texas",
+          "zip": "76107",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.72541,
+            "lon": -97.32085
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Galveston",
+          "state": "Texas",
+          "zip": "77555",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.30135,
+            "lon": -94.7977
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Longview",
+          "state": "Texas",
+          "zip": "75605",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.5007,
+            "lon": -94.74049
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78249",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.42412,
+            "lon": -98.49363
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Layton",
+          "state": "Utah",
+          "zip": "84041",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.06022,
+            "lon": -111.97105
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Orem",
+          "state": "Utah",
+          "zip": "84057",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.2969,
+            "lon": -111.69465
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Syracuse",
+          "state": "Utah",
+          "zip": "84075",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.08939,
+            "lon": -112.06467
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Seattle",
+          "state": "Washington",
+          "zip": "98105",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 47.60621,
+            "lon": -122.33207
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Huntington",
+          "state": "West Virginia",
+          "zip": "25701",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.41925,
+            "lon": -82.44515
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Morgantown",
+          "state": "West Virginia",
+          "zip": "26506",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.62953,
+            "lon": -79.9559
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Madison",
+          "state": "Wisconsin",
+          "zip": "53792",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.07305,
+            "lon": -89.40123
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Bahía Blanca",
+          "zip": "B8001HXM",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -38.7176,
+            "lon": -62.26545
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Guaymallen Mendoza",
+          "zip": "5519",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Parkville",
+          "zip": "3052",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -37.78333,
+            "lon": 144.95
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Subiaco",
+          "zip": "6008",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -31.9485,
+            "lon": 115.8268
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Ghent",
+          "zip": "9000",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 51.05,
+            "lon": 3.71667
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Mons",
+          "zip": "7000",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.45413,
+            "lon": 3.95229
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Botucatu",
+          "zip": "18618-970",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -22.88583,
+            "lon": -48.445
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Campinas",
+          "zip": "13084-791",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -22.90556,
+            "lon": -47.06083
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Canoas",
+          "zip": "92425-900",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -29.91778,
+            "lon": -51.18361
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Curitiba",
+          "zip": "80250-060",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -25.42778,
+            "lon": -49.27306
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Juiz de Fora",
+          "zip": "36025-330",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -21.76417,
+            "lon": -43.35028
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Passo Fundo",
+          "zip": "99010-080",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -28.26278,
+            "lon": -52.40667
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Pleven",
+          "zip": "5800",
+          "country": "Bulgaria",
+          "geoPoint": {
+            "lat": 43.41791,
+            "lon": 24.61666
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Plovdiv",
+          "zip": "4002",
+          "country": "Bulgaria",
+          "geoPoint": {
+            "lat": 42.15387,
+            "lon": 24.75001
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Rousse",
+          "zip": "7002",
+          "country": "Bulgaria",
+          "geoPoint": {
+            "lat": 43.84872,
+            "lon": 25.9534
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Sofia",
+          "zip": "1407",
+          "country": "Bulgaria",
+          "geoPoint": {
+            "lat": 42.69751,
+            "lon": 23.32415
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Sofia",
+          "zip": "1431",
+          "country": "Bulgaria",
+          "geoPoint": {
+            "lat": 42.69751,
+            "lon": 23.32415
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Montreal",
+          "state": "Quebec",
+          "zip": "H4A 3J1",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.50884,
+            "lon": -73.58781
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Maipú",
+          "zip": "9250000",
+          "country": "Chile",
+          "geoPoint": {
+            "lat": -33.51421,
+            "lon": -70.7651
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Santiago",
+          "zip": "8053095",
+          "country": "Chile",
+          "geoPoint": {
+            "lat": -33.45694,
+            "lon": -70.64827
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Santiago",
+          "zip": "8380453",
+          "country": "Chile",
+          "geoPoint": {
+            "lat": -33.45694,
+            "lon": -70.64827
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Santiago",
+          "zip": "8420383",
+          "country": "Chile",
+          "geoPoint": {
+            "lat": -33.45694,
+            "lon": -70.64827
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Santiago",
+          "zip": "8880465",
+          "country": "Chile",
+          "geoPoint": {
+            "lat": -33.45694,
+            "lon": -70.64827
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Valdivia",
+          "zip": "5090000",
+          "country": "Chile",
+          "geoPoint": {
+            "lat": -39.81422,
+            "lon": -73.24589
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Viña del Mar",
+          "zip": "2520594",
+          "country": "Chile",
+          "geoPoint": {
+            "lat": -33.02457,
+            "lon": -71.55183
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Havlíčkův Brod",
+          "zip": "580 22",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 49.6069,
+            "lon": 15.57937
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Prague",
+          "zip": "14059",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.08804,
+            "lon": 14.42076
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Prague",
+          "zip": "14710",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.08804,
+            "lon": 14.42076
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Tallinn",
+          "zip": "13419",
+          "country": "Estonia",
+          "geoPoint": {
+            "lat": 59.43696,
+            "lon": 24.75353
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Tartu",
+          "zip": "50406",
+          "country": "Estonia",
+          "geoPoint": {
+            "lat": 58.38062,
+            "lon": 26.72509
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Tampere",
+          "zip": "33100",
+          "country": "Finland",
+          "geoPoint": {
+            "lat": 61.49911,
+            "lon": 23.78712
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Turku",
+          "zip": "20520",
+          "country": "Finland",
+          "geoPoint": {
+            "lat": 60.45148,
+            "lon": 22.26869
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Bordeaux",
+          "zip": "33000",
+          "country": "France",
+          "geoPoint": {
+            "lat": 44.84124,
+            "lon": -0.58046
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Brest",
+          "zip": "29609",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.39029,
+            "lon": -4.48628
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Bron",
+          "zip": "69677",
+          "country": "France",
+          "geoPoint": {
+            "lat": 45.73865,
+            "lon": 4.91303
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Caen",
+          "zip": "14033",
+          "country": "France",
+          "geoPoint": {
+            "lat": 49.18585,
+            "lon": -0.35912
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Dijon",
+          "zip": "21079",
+          "country": "France",
+          "geoPoint": {
+            "lat": 47.31344,
+            "lon": 5.01391
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Tours",
+          "zip": "37044",
+          "country": "France",
+          "geoPoint": {
+            "lat": 47.39484,
+            "lon": 0.70398
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Budapest",
+          "zip": "1062",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 47.49835,
+            "lon": 19.04045
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Budapest",
+          "zip": "1094",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 47.49835,
+            "lon": 19.04045
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Budapest",
+          "zip": "1131",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 47.49835,
+            "lon": 19.04045
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Budapest",
+          "zip": "1204",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 47.49835,
+            "lon": 19.04045
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Gyula",
+          "zip": "5700",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 46.65,
+            "lon": 21.28333
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Kecskemét",
+          "zip": "6000",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 46.90618,
+            "lon": 19.69128
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Miskolc",
+          "zip": "3526",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 48.10327,
+            "lon": 20.77806
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Nagykanizsa",
+          "zip": "8800",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 46.45347,
+            "lon": 16.99104
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Nyireyghaza",
+          "zip": "4400",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Sopron",
+          "zip": "9400",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 47.68501,
+            "lon": 16.59049
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Szeged",
+          "zip": "6720",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 46.253,
+            "lon": 20.14824
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Szekszárd",
+          "zip": "7100",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 46.34723,
+            "lon": 18.71189
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Veszprém",
+          "zip": "8200",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 47.09327,
+            "lon": 17.91149
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Genova",
+          "zip": "16100",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.21604,
+            "lon": 11.87211
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Padova",
+          "zip": "35128",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 44.38225,
+            "lon": 11.14261
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Torino",
+          "zip": "10126",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 44.88856,
+            "lon": 11.99138
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Verona",
+          "zip": "37126",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.43854,
+            "lon": 10.9938
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Jēkabpils",
+          "zip": "LV-5201",
+          "country": "Latvia",
+          "geoPoint": {
+            "lat": 56.49903,
+            "lon": 25.85735
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Riga",
+          "zip": "LV1002",
+          "country": "Latvia",
+          "geoPoint": {
+            "lat": 56.946,
+            "lon": 24.10589
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Valmiera",
+          "zip": "4200",
+          "country": "Latvia",
+          "geoPoint": {
+            "lat": 57.54108,
+            "lon": 25.42751
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Kaunas",
+          "zip": "48259",
+          "country": "Lithuania",
+          "geoPoint": {
+            "lat": 54.90156,
+            "lon": 23.90909
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Kaunas",
+          "zip": "50161",
+          "country": "Lithuania",
+          "geoPoint": {
+            "lat": 54.90156,
+            "lon": 23.90909
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Christchurch",
+          "zip": "8011",
+          "country": "New Zealand",
+          "geoPoint": {
+            "lat": -43.53333,
+            "lon": 172.63333
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Otahuhu",
+          "zip": "2025",
+          "country": "New Zealand",
+          "geoPoint": {
+            "lat": -36.9382,
+            "lon": 174.84019
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Wellington",
+          "zip": "6021",
+          "country": "New Zealand",
+          "geoPoint": {
+            "lat": -41.28664,
+            "lon": 174.77557
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Bydgoszcz",
+          "zip": "85168",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 53.1235,
+            "lon": 18.00762
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Gdansk",
+          "zip": "80402",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 54.35227,
+            "lon": 18.64912
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Krakow",
+          "zip": "30-349",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.06143,
+            "lon": 19.93658
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Krakow",
+          "zip": "30-663",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.06143,
+            "lon": 19.93658
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Łęczna",
+          "zip": "21-010",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.30121,
+            "lon": 22.88135
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Cape Town",
+          "zip": "7500",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -33.92584,
+            "lon": 18.42322
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Cape Town",
+          "zip": "7700",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -33.92584,
+            "lon": 18.42322
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Claremont",
+          "zip": "7708",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -33.98056,
+            "lon": 18.46528
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Durban",
+          "zip": "4091",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -29.8579,
+            "lon": 31.0292
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Johannesburg",
+          "zip": "2013",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -26.20227,
+            "lon": 28.04363
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Johannesburg",
+          "zip": "2193",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -26.20227,
+            "lon": 28.04363
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Pietermaritzburg",
+          "zip": "3201",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -29.61679,
+            "lon": 30.39278
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Pretoria",
+          "zip": "0087",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -25.74486,
+            "lon": 28.18783
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Alicante",
+          "zip": "03010",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 38.34517,
+            "lon": -0.48149
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Boadilla del Monte",
+          "zip": "28660",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.405,
+            "lon": -3.87835
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Córdoba",
+          "zip": "14004",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.89155,
+            "lon": -4.77275
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Granada",
+          "zip": "18014",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.18817,
+            "lon": -3.60667
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Lleida",
+          "zip": "25198",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.61674,
+            "lon": 0.62218
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Madrid",
+          "zip": "28040",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Madrid",
+          "zip": "28046",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Málaga",
+          "zip": "29011",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 36.72016,
+            "lon": -4.42034
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Sant Cugat del Vallès",
+          "zip": "8190",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.47063,
+            "lon": 2.08611
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Sant Joan d'Alacant",
+          "zip": "03550",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 38.40148,
+            "lon": -0.43623
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Santiago de Compostela",
+          "zip": "15706",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 42.88052,
+            "lon": -8.54569
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Valencia",
+          "zip": "46017",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Stockholm",
+          "zip": "118 83",
+          "country": "Sweden",
+          "geoPoint": {
+            "lat": 59.32938,
+            "lon": 18.06871
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Stockholm",
+          "zip": "171 76",
+          "country": "Sweden",
+          "geoPoint": {
+            "lat": 59.32938,
+            "lon": 18.06871
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Adana",
+          "zip": "1260",
+          "country": "Turkey (Türkiye)",
+          "geoPoint": {
+            "lat": 36.98615,
+            "lon": 35.32531
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Ankara",
+          "zip": "06100",
+          "country": "Turkey (Türkiye)",
+          "geoPoint": {
+            "lat": 39.91987,
+            "lon": 32.85427
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Antalya",
+          "zip": "07070",
+          "country": "Turkey (Türkiye)",
+          "geoPoint": {
+            "lat": 36.90812,
+            "lon": 30.69556
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Izmir",
+          "zip": "35100",
+          "country": "Turkey (Türkiye)",
+          "geoPoint": {
+            "lat": 38.41273,
+            "lon": 27.13838
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Izmir",
+          "zip": "35210",
+          "country": "Turkey (Türkiye)",
+          "geoPoint": {
+            "lat": 38.41273,
+            "lon": 27.13838
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Kocaeli",
+          "zip": "41380",
+          "country": "Turkey (Türkiye)",
+          "geoPoint": {
+            "lat": 39.62497,
+            "lon": 27.51145
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Brighton",
+          "zip": "BN2 5BE",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 50.82838,
+            "lon": -0.13947
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Bristol",
+          "zip": "BS2 8BJ",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.45523,
+            "lon": -2.59665
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "London",
+          "zip": "SW17 0RE",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.50853,
+            "lon": -0.12574
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Oxford",
+          "zip": "OX3 7EJ",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.75222,
+            "lon": -1.25596
+          }
+        },
+        {
+          "facility": "Research Site",
+          "city": "Southampton",
+          "zip": "SO16 6YD",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 50.90395,
+            "lon": -1.40428
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "38902186",
+          "type": "DERIVED",
+          "citation": "Langer S, Holzapfel S, August L, Badura A, Wellmann S, Mack I. Parental knowledge and attitudes to infant immunization in the context of RSV: All about confidence? Vaccine. 2024 Oct 3;42(23):126050. doi: 10.1016/j.vaccine.2024.06.018. Epub 2024 Jun 19."
+        },
+        {
+          "pmid": "37468530",
+          "type": "DERIVED",
+          "citation": "Ahani B, Tuffy KM, Aksyuk AA, Wilkins D, Abram ME, Dagan R, Domachowske JB, Guest JD, Ji H, Kushnir A, Leach A, Madhi SA, Mankad VS, Simoes EAF, Sparklin B, Speer SD, Stanley AM, Tabor DE, Hamren UW, Kelly EJ, Villafana T. Molecular and phenotypic characteristics of RSV infections in infants during two nirsevimab randomized clinical trials. Nat Commun. 2023 Jul 19;14(1):4347. doi: 10.1038/s41467-023-40057-8."
+        },
+        {
+          "pmid": "32726528",
+          "type": "DERIVED",
+          "citation": "Griffin MP, Yuan Y, Takas T, Domachowske JB, Madhi SA, Manzoni P, Simoes EAF, Esser MT, Khan AA, Dubovsky F, Villafana T, DeVincenzo JP; Nirsevimab Study Group. Single-Dose Nirsevimab for Prevention of RSV in Preterm Infants. N Engl J Med. 2020 Jul 30;383(5):415-425. doi: 10.1056/NEJMoa1913556."
+        }
+      ],
+      "seeAlsoLinks": [
+        {
+          "label": "D5290C00003\\_Redacted\\_protocol-amendment-1\\_Red16JLU19",
+          "url": "https://filehosting-v2.pharmacm.com/api/Attachment/Download?tenantId=80217111&amp;parentIdentifier=D5290C00003&amp;attachmentIdentifier=b9e98653-9f94-46e7-a735-9a742e555af6&amp;fileName=D5290C00003_Redacted_protocol-amendment-1_Red16JLU19.pdf&amp;versionIdentifier="
+        },
+        {
+          "label": "D5290C00003\\_MEDI8897-Combined SAP\\_PDFAv1.0",
+          "url": "https://filehosting-v2.pharmacm.com/api/Attachment/Download?tenantId=80217111&amp;parentIdentifier=D5290C00003&amp;attachmentIdentifier=f0ccb086-5c35-4e3c-9dde-0fefc3989cd9&amp;fileName=D5290C00003_MEDI8897-Combined_SAP_PDFAv1.0.pdf&amp;versionIdentifier="
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "A total of 1540 participants were screened, out of which 1453 participants were randomized in the study.",
+      "recruitmentDetails": "The study was conducted from 03-Nov-2016 to 06-Dec-2018.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Placebo",
+          "description": "Participants received a single intramuscular (IM) dose of placebo matched to MEDI8897 on Day 1 of the study."
+        },
+        {
+          "id": "FG001",
+          "title": "MEDI8897 50 mg",
+          "description": "Participants received a single IM dose of MEDI8897 50 milligrams (mg) on Day 1 of the study."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "484"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "969"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "455"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "913"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "29"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "56"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Death",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "11"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "26"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "11"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "21"
+                }
+              ]
+            },
+            {
+              "type": "Other",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "4"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "7"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "The intent-to-treat (ITT) population included all participants who were randomized in the study and analyzed according to their randomized treatment group.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Placebo",
+          "description": "Participants received a single intramuscular (IM) dose of placebo matched to MEDI8897 on Day 1 of the study."
+        },
+        {
+          "id": "BG001",
+          "title": "MEDI8897 50 mg",
+          "description": "Participants received a single IM dose of MEDI8897 50 milligrams (mg) on Day 1 of the study."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "484"
+            },
+            {
+              "groupId": "BG001",
+              "value": "969"
+            },
+            {
+              "groupId": "BG002",
+              "value": "1453"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Months",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3.28",
+                      "spread": "2.31"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3.29",
+                      "spread": "2.22"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3.29",
+                      "spread": "2.25"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "224"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "468"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "692"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "260"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "501"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "761"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "91"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "225"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "316"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "393"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "743"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1136"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "15"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "11"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "67"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "189"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "256"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "355"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "693"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1048"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "17"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "43"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "62"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "105"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With Medically Attended Respiratory Syncytial Virus (RSV) Confirmed Lower Respiratory Tract Infection (LRTI)",
+          "description": "The determination of medically attended RSV LRTI is based on objective clinical LRTI criteria and RSV test results obtained from analyzing the respiratory secretions using a validated RSV real time reverse transcriptase-polymerase chain reaction (RT-PCR) assay for the detection of RSV A or RSV B subtypes. Criteria for LRTI included documented physical exam findings of rhonchi, rales, crackles, or wheeze and any of the following: increased respiratory rate at rest (for age less than (\\<) 2 months: greater than or equal to (\\>=) 60 breaths/min; 2-6 months: \\>= 50 breaths/min; and for \\> 6 months - 2 years, \\>= 40 breaths/min), or hypoxemia (in room air - oxygen saturation \\< 95% at altitudes less than or equal to (\\<=) 1800 meters or \\< 92% at altitudes \\> 1800 meters), or clinical signs of severe respiratory disease or dehydration secondary to inadequate oral intake due to respiratory distress (need for intravenous fluid).",
+          "populationDescription": "The ITT population included all participants who were randomized in the study and analyzed according to their randomized treatment group.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From Day 1 through Day 151",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Participants received a single intramuscular (IM) dose of placebo matched to MEDI8897 on Day 1 of the study."
+            },
+            {
+              "id": "OG001",
+              "title": "MEDI8897 50 mg",
+              "description": "Participants received a single IM dose of MEDI8897 50 milligrams (mg) on Day 1 of the study."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "484"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "969"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "25"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.0001",
+              "statisticalMethod": "Poisson regression",
+              "paramType": "Relative Risk Reduction",
+              "paramValue": "70.1",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "52.3",
+              "ciUpperLimit": "81.2"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants Hopitalized Due to Respiratory Syncytial Virus (RSV) Confirmed Lower Respiartory Tract Infection (LRTI)",
+          "description": "A RSV hospitalization is defined as either 1) a respiratory hospitalization with a positive RSV test within 2 days of hospitalization (primary) or 2) new onset of respiratory symptoms in an already hospitalized child, with an objective measure of worsening respiratory status and positive RSV test (nosocomial).",
+          "populationDescription": "The ITT population included all participants who were randomized in the study and analyzed according to their randomized treatment group.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From Day 1 through Day 151",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Participants received a single intramuscular (IM) dose of placebo matched to MEDI8897 on Day 1 of the study."
+            },
+            {
+              "id": "OG001",
+              "title": "MEDI8897 50 mg",
+              "description": "Participants received a single IM dose of MEDI8897 50 milligrams (mg) on Day 1 of the study."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "484"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "969"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.0002",
+              "statisticalMethod": "Poisson regression",
+              "paramType": "Relative Risk Reduction",
+              "paramValue": "78.4",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "51.9",
+              "ciUpperLimit": "90.3"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Treatment Emergent Adverse Events (TEAEs) and Treatment Emergent Serious Adverse Events (TESAEs)",
+          "description": "An adverse event (AE) is any untoward medical occurrence in a participant who received study drug without regard to possibility of causal relationship. An serious adverse event (SAE) is an AE resulting in any of the following outcomes or deemed significant for any other reason: death; initial or prolonged inpatient hospitalization; life threatening experience (immediate risk of dying); persistent or significant disability/incapacity; congenital anomaly. TEAEs are defined as events present at baseline that worsened in intensity after administration of study drug or events absent at baseline that emerged after administration of study drug.",
+          "populationDescription": "As-treated population included all randomized participants who received any study drug and analyzed according to the study drug they actually received.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From Day 1 through Day 361",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Participants received a single intramuscular (IM) dose of placebo matched to MEDI8897 on Day 1 of the study."
+            },
+            {
+              "id": "OG001",
+              "title": "MEDI8897 50 mg",
+              "description": "Participants received a single IM dose of MEDI8897 50 milligrams (mg) on Day 1 of the study."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "479"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "968"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "TEAEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "416"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "834"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "TESAEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "81"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "108"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Adverse Events of Special Interest (AESIs) and New Onset Chronic Diseases (NOCDs)",
+          "description": "An AESI was one of scientific and medical interest specific to understanding of study drug and may have required close monitoring and rapid communication by investigator to the sponsor. An AESI may be serious or non-serious. A NOCD is a newly diagnosed medical condition that is of a chronic, ongoing nature. It is observed after receiving study drug and is assessed by investigator as medically significant.",
+          "populationDescription": "As-treated population included all randomized participants who received any study drug and analyzed according to the study drug they actually received.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From Day 1 through Day 361",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Participants received a single intramuscular (IM) dose of placebo matched to MEDI8897 on Day 1 of the study."
+            },
+            {
+              "id": "OG001",
+              "title": "MEDI8897 50 mg",
+              "description": "Participants received a single IM dose of MEDI8897 50 milligrams (mg) on Day 1 of the study."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "479"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "968"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "AESIs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "NOCDs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Serum Concentration of MEDI8897",
+          "populationDescription": "As-treated population included all randomized participants who received any study drug and analyzed according to the study drug they actually received.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "mcg/mL",
+          "timeFrame": "Days 91, 151, and 361",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "MEDI8897 50 mg",
+              "description": "Participants received a single IM dose of MEDI8897 50 milligrams (mg) on Day 1 of the study."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "968"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Day 91",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "883"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "35.9",
+                      "spread": "10.9"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Day 151",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "849"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "18.9",
+                      "spread": "7.4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Day 361",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "771"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2.1",
+                      "spread": "1.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Elimination Half-life (t1/2) of MEDI8897",
+          "description": "Terminal elimination half-life (t½) is the time required for half of the drug to be eliminated from the serum.",
+          "populationDescription": "As-treated population included all randomized participants who received any study drug and analyzed according to the study drug they actually received. Participants with sufficient additional pharmacokinetics (PK) samples from unscheduled visits were analysed for this outcome measure.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Days",
+          "timeFrame": "Day 91 through Day 361",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "MEDI8897 50 mg",
+              "description": "Participants received a single IM dose of MEDI8897 50 milligrams (mg) on Day 1 of the study."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "968"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "59.3",
+                      "spread": "9.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Positive Anti-drug Antibodies to MEDI8897",
+          "description": "The number of participants with positive serum antibodies to MEDI8897 are reported.",
+          "populationDescription": "As-treated population included all randomized participants who received any study drug and analyzed according to the study drug they actually received.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Days 91, 151, and 361",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Participants received a single intramuscular (IM) dose of placebo matched to MEDI8897 on Day 1 of the study."
+            },
+            {
+              "id": "OG001",
+              "title": "MEDI8897 50 mg",
+              "description": "Participants received a single IM dose of MEDI8897 50 milligrams (mg) on Day 1 of the study."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "479"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "968"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Day 91",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "455"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "890"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "11"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Day 151",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "445"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "867"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Day 361",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "418"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "847"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "30"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "1",
+      "timeFrame": "From Day 1 through Day 361",
+      "description": "As-treated population included all randomized participants who received any study drug and analyzed according to the study drug they actually received.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Placebo",
+          "description": "Participants received a single intramuscular (IM) dose of placebo matched to MEDI8897 on Day 1 of the study.",
+          "deathsNumAffected": 3,
+          "deathsNumAtRisk": 479,
+          "seriousNumAffected": 81,
+          "seriousNumAtRisk": 479,
+          "otherNumAffected": 402,
+          "otherNumAtRisk": 479
+        },
+        {
+          "id": "EG001",
+          "title": "MEDI8897 50 mg",
+          "description": "Participants received a single IM dose of MEDI8897 50 milligrams (mg) on Day 1 of the study.",
+          "deathsNumAffected": 2,
+          "deathsNumAtRisk": 968,
+          "seriousNumAffected": 108,
+          "seriousNumAtRisk": 968,
+          "otherNumAffected": 804,
+          "otherNumAtRisk": 968
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Anaemia neonatal",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Cardiac arrest",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Cardiac failure",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Cardiac failure congestive",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Myocarditis",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Pericardial effusion",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Muscular dystrophy",
+          "organSystem": "Congenital, familial and genetic disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Deafness bilateral",
+          "organSystem": "Ear and labyrinth disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Abdominal pain",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Diarrhoea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Dysphagia",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Enteritis",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Gastrooesophageal reflux disease",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Incarcerated umbilical hernia",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Inguinal hernia",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 6,
+              "numAffected": 6,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Malabsorption",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Vomiting",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Death",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Pyrexia",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Jaundice",
+          "organSystem": "Hepatobiliary disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Drug hypersensitivity",
+          "organSystem": "Immune system disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Abscess limb",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Adenovirus infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Anal abscess",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Bronchiolitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 26,
+              "numAffected": 21,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 22,
+              "numAffected": 20,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Bronchitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 11,
+              "numAffected": 11,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 16,
+              "numAffected": 14,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Croup infectious",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Cytomegalovirus infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Gastroenteritis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 5,
+              "numAffected": 4,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 9,
+              "numAffected": 9,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Gastroenteritis escherichia coli",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Gastroenteritis adenovirus",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Gastroenteritis rotavirus",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Gastroenteritis salmonella",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Gastroenteritis viral",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Influenza",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Laryngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Lower respiratory tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 18,
+              "numAffected": 13,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 14,
+              "numAffected": 14,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Lower respiratory tract infection viral",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 5,
+              "numAffected": 3,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Meningitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Meningitis bacterial",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Otitis media",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Peritonsillar abscess",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Pharyngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Pneumonia",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 12,
+              "numAffected": 10,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 13,
+              "numAffected": 13,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Pneumonia bacterial",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Pneumonia parainfluenzae viral",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Pneumonia respiratory syncytial viral",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Pneumonia viral",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 8,
+              "numAffected": 7,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Pseudomonal bacteraemia",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Respiratory syncytial virus bronchiolitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Salmonellosis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Sepsis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Sepsis neonatal",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Staphylococcal scalded skin syndrome",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Tonsillitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Upper respiratory tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Urinary tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 5,
+              "numAffected": 4,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Viral upper respiratory tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Exposure to toxic agent",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Fall",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Palate injury",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Thermal burn",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Dehydration",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Hypoglycaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Eyelid haemangioma",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Cerebrovascular accident",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Febrile convulsion",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Hypotonia",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Infantile spasms",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Intraventricular haemorrhage",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Seizure",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Irritability",
+          "organSystem": "Psychiatric disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Nephrolithiasis",
+          "organSystem": "Renal and urinary disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Penile adhesion",
+          "organSystem": "Reproductive system and breast disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Apnoea",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Asthma",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Laryngeal stenosis",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Pneumonia aspiration",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Pulmonary vein stenosis",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Dermatitis allergic",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 968
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Anaemia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 17,
+              "numAffected": 17,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 29,
+              "numAffected": 29,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Plagiocephaly",
+          "organSystem": "Congenital, familial and genetic disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 15,
+              "numAffected": 15,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Abdominal pain",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 10,
+              "numAffected": 10,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Constipation",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 24,
+              "numAffected": 21,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 36,
+              "numAffected": 34,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Diarrhoea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 55,
+              "numAffected": 49,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 113,
+              "numAffected": 98,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Gastrooesophageal reflux disease",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 22,
+              "numAffected": 22,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 38,
+              "numAffected": 37,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Teething",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 35,
+              "numAffected": 32,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 72,
+              "numAffected": 62,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Umbilical hernia",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 11,
+              "numAffected": 11,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Vomiting",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 17,
+              "numAffected": 15,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 46,
+              "numAffected": 40,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Pyrexia",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 75,
+              "numAffected": 63,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 133,
+              "numAffected": 109,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Acarodermatitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 8,
+              "numAffected": 8,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 15,
+              "numAffected": 13,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Bronchiolitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 60,
+              "numAffected": 42,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 104,
+              "numAffected": 83,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Bronchitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 77,
+              "numAffected": 49,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 150,
+              "numAffected": 91,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Candida nappy rash",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 6,
+              "numAffected": 6,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 14,
+              "numAffected": 12,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Conjunctivitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 44,
+              "numAffected": 39,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 94,
+              "numAffected": 86,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Croup infectious",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 7,
+              "numAffected": 6,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 13,
+              "numAffected": 12,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Ear infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 21,
+              "numAffected": 13,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 34,
+              "numAffected": 23,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Exanthema subitum",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 11,
+              "numAffected": 11,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 22,
+              "numAffected": 21,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Fungal skin infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 8,
+              "numAffected": 8,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Gastroenteritis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 49,
+              "numAffected": 44,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 138,
+              "numAffected": 115,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Gastroenteritis viral",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 15,
+              "numAffected": 13,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Hand-foot-and-mouth disease",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 14,
+              "numAffected": 14,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 36,
+              "numAffected": 36,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Impetigo",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 6,
+              "numAffected": 6,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 12,
+              "numAffected": 12,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Laryngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 10,
+              "numAffected": 10,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 31,
+              "numAffected": 24,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Lower respiratory tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 65,
+              "numAffected": 46,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 103,
+              "numAffected": 75,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Lower respiratory tract infection viral",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 8,
+              "numAffected": 6,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 9,
+              "numAffected": 9,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Nasopharyngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 158,
+              "numAffected": 94,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 264,
+              "numAffected": 164,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Oral candidiasis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 26,
+              "numAffected": 26,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 39,
+              "numAffected": 36,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Otitis media",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 63,
+              "numAffected": 42,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 87,
+              "numAffected": 63,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Otitis media acute",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 33,
+              "numAffected": 24,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 82,
+              "numAffected": 51,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Pharyngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 32,
+              "numAffected": 27,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 68,
+              "numAffected": 57,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Rhinitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 61,
+              "numAffected": 50,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 145,
+              "numAffected": 111,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Tonsillitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 6,
+              "numAffected": 5,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 16,
+              "numAffected": 16,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Upper respiratory tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 337,
+              "numAffected": 169,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 734,
+              "numAffected": 392,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Urinary tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 7,
+              "numAffected": 7,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 12,
+              "numAffected": 12,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Varicella",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 11,
+              "numAffected": 11,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 19,
+              "numAffected": 19,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Viral rash",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 16,
+              "numAffected": 15,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 34,
+              "numAffected": 32,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Viral upper respiratory tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 57,
+              "numAffected": 34,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 75,
+              "numAffected": 48,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Arthropod bite",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 6,
+              "numAffected": 6,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 14,
+              "numAffected": 14,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Vaccination complication",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 19,
+              "numAffected": 15,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 28,
+              "numAffected": 23,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Irritability",
+          "organSystem": "Psychiatric disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 14,
+              "numAffected": 7,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 20,
+              "numAffected": 11,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Cough",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 17,
+              "numAffected": 15,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 45,
+              "numAffected": 37,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Nasal congestion",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 27,
+              "numAffected": 24,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 83,
+              "numAffected": 71,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Nasal obstruction",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 17,
+              "numAffected": 17,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 23,
+              "numAffected": 23,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Rhinorrhoea",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 34,
+              "numAffected": 29,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 75,
+              "numAffected": 63,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Dermatitis",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 15,
+              "numAffected": 15,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 26,
+              "numAffected": 20,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Dermatitis atopic",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 9,
+              "numAffected": 8,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 34,
+              "numAffected": 30,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Dermatitis diaper",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 44,
+              "numAffected": 36,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 94,
+              "numAffected": 76,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Eczema",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 15,
+              "numAffected": 15,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 34,
+              "numAffected": 34,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Rash",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 18,
+              "numAffected": 17,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 49,
+              "numAffected": 43,
+              "numAtRisk": 968
+            }
+          ]
+        },
+        {
+          "term": "Seborrhoeic dermatitis",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 21.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 8,
+              "numAffected": 7,
+              "numAtRisk": 479
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 17,
+              "numAffected": 17,
+              "numAtRisk": 968
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "MedImmune has 60 days to review results communications prior to public release and may delete information that compromises on going studies or is considered proprietary. This restriction is not intended to compromise the objective scientific integrity of the manuscript, it being understood that results shall be published regardless of outcome."
+      },
+      "pointOfContact": {
+        "title": "M. Pamela Griffin",
+        "organization": "MedImmune, LLC",
+        "email": "information.center@astrazeneca.com",
+        "phone": "+1 301-398-4059"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2018-01-25",
+          "uploadDate": "2019-07-17T03:23",
+          "filename": "Prot_000.pdf",
+          "size": 1017150
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2016-11-18",
+          "uploadDate": "2019-07-17T03:23",
+          "filename": "SAP_001.pdf",
+          "size": 1530938
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-08-28",
+      "removedCountries": [
+        "Ukraine"
+      ]
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D018357",
+          "term": "Respiratory Syncytial Virus Infections"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D018186",
+          "term": "Pneumovirus Infections"
+        },
+        {
+          "id": "D018184",
+          "term": "Paramyxoviridae Infections"
+        },
+        {
+          "id": "D018701",
+          "term": "Mononegavirales Infections"
+        },
+        {
+          "id": "D012327",
+          "term": "RNA Virus Infections"
+        },
+        {
+          "id": "D014777",
+          "term": "Virus Diseases"
+        },
+        {
+          "id": "D007239",
+          "term": "Infections"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

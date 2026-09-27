@@ -1,0 +1,531 @@
+[DOCLING_PAGE 1]
+
+The new england journal o f medicine
+
+BACKGROUND
+
+Thrombolytic agents, including tenecteplase, are generally used within 4.5 hours after the onset of stroke symptoms. Information on whether tenecteplase confers benefit beyond 4.5 hours is limited.
+
+METHODS
+
+We conducted a multicenter, double-blind, randomized, placebo-controlled trial involving patients with ischemic stroke to compare tenecteplase (0.25 mg per kilogram of body weight, up to 25 mg) with placebo administered 4.5 to 24 hours after the time that the patient was last known to be well. Patients had to have evidence of occlusion of the middle cerebral artery or internal carotid artery and salvageable tissue as determined on perfusion imaging. The primary outcome was the ordinal score on the modified Rankin scale (range, 0 to 6, with higher scores indicating greater disability and a score of 6 indicating death) at day 90. Safety outcomes included death and symptomatic intracranial hemorrhage.
+
+RESULTS
+
+The trial enrolled 458 patients, 77.3% of whom subsequently underwent thrombectomy; 228 patients were assigned to receive tenecteplase, and 230 to receive placebo. The median time between the time the patient was last known to be well and randomization was approximately 12 hours in the tenecteplase group and approximately 13 hours in the placebo group. The median score on the modified Rankin scale at 90 days was 3 in each group. The adjusted common odds ratio for the distribution of scores on the modified Rankin scale at 90 days for tenecteplase as compared with placebo was 1.13 (95% confidence interval, 0.82 to 1.57; P = 0.45). In the safety population, mortality at 90 days was 19.7% in the tenecteplase group and 18.2% in the placebo group, and the incidence of symptomatic intracranial hemorrhage was 3.2% and 2.3%, respectively.
+
+CONCLUSIONS
+
+Tenecteplase therapy that was initiated 4.5 to 24 hours after stroke onset in patients with occlusions of the middle cerebral artery or internal carotid artery, most of whom had undergone endovascular thrombectomy, did not result in better clinical outcomes than those with placebo. The incidence of symptomatic intracerebral hemorrhage was similar in the two groups. (Funded by Genentech; TIMELESS ClinicalTrials.gov number, NCT03785678.)
+
+Original Article
+
+Tenecteplase for Stroke at 4.5 to 24 Hours with Perfusion-Imaging Selection
+
+G.W. Albers, M. Jumaa, B. Purdon, S.F. Zaidi, C. Streib, A. Shuaib, N. Sangha, M. Kim, M.T. Froehler, N.E. Schwartz, W.M. Clark, C.E. Kircher, M. Yang, L. Massaro, X.-Y. Lu, G.A. Rippon, J.P. Broderick, K. Butcher, M.G. Lansberg, D.S. Liebeskind, A. Nouh, L.H. Schwamm, and B.C.V. Campbell, for the TIMELESS Investigators*
+
+ABSTRACT
+
+The authors' full names, academic degrees, and affiliations are listed in the Appendix. Dr. Albers can be contacted at ­ albers@ ­ stanford .­ edu or at Stanford Stroke Center, 300 Pasteur Dr., MC 5778, Palo Alto, CA 94304.
+
+*A complete list of the TIMELESS investigators is provided in the Supplementary Appendix, available at NEJM.org.
+
+This article was published on February 8, 2024, at NEJM.org.
+
+N Engl J Med 2024;390:701-11. DOI: 10.1056/NEJMoa2310392
+
+Copyright © 2024 Massachusetts Medical Society.
+
+CME
+
+at NEJM.org
+
+n engl j med 390;8 nejm.org February 22, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+701
+
+[DOCLING_PAGE 2]
+
+The new england journal o f medicine
+
+A Quick Take is available at NEJM.org I ntravenous thrombolytic therapy with alteplase has generally been the standard care for eligible patients within 4.5 hours after the onset of ischemic stroke. 1 One limitation for extending the time window for thrombolysis has been an increase in the incidence of intracranial hemorrhage. In a pooled analysis of nine randomized trials that selected patients with stroke on the basis of noncontrast computed tomography (CT) of the head and compared alteplase with placebo or open control (without a placebo group) administered no more than 6 hours after stroke onset, treatment with alteplase significantly increased the odds of symptomatic intracranial hemorrhage. 2 Although most previous trials of thrombolytic therapy have indicated that the benefit of treatment is dependent on the earliest possible time that reperfusion can be obtained, 2 a meta-analysis showed a benefit of alteplase administered during the 4.5-to-9-hour time window after stroke onset in selected patients who had evidence of viable tissue on CT perfusion imaging or perfusiondiffusion magnetic resonance imaging (MRI). 3 This finding suggested that, in patients with favorable imaging profiles showing salvageable brain tissue, intravenous thrombolysis in an extended window may be safe and efficacious. However, the patients in these trials did not undergo endovascular thrombectomy, which has become the preferred treatment for patients with large-vessel occlusions and imaging evidence of salvageable tissue who can be treated within 24 hours after stroke onset.
+
+Tenecteplase is a modified form of human tissue plasminogen activator that was approved in 2000 to reduce mortality among patients with acute myocardial infarction. 4 Several trials have shown the noninferiority of tenecteplase to alteplase when treatment is begun within 4.5 hours after stroke onset, 5-8 and the most recent American Heart Association-American Stroke Association (AHA-ASA) guidelines for acute ischemic stroke indicate that tenecteplase is a reasonable alternative to alteplase in specific patient populations. 1
+
+Data regarding the use of tenecteplase beyond 4.5 hours after symptom onset are limited. A trial of tenecteplase in patients who had stroke symptoms when they awoke, but who were not selected on the basis of CT perfusion imaging or perfusion-diffusion MRI, showed that tenecteplase therapy was not associated with better functional outcomes than placebo; however, safety results were similar to those of thrombolytic therapy given within 4.5 hours after onset. 9 A proof-of-concept trial showed the feasibility of treatment with tenecteplase administered no more than 24 hours after stroke onset 10 in patients with evidence of salvageable tissue on CT perfusion imaging.
+
+The Thrombolysis in Imaging Eligible, Late Window Patients to Assess the Efficacy and Safety of Tenecteplase (TIMELESS) trial was designed to test the hypothesis that intravenous tenecteplase, initiated 4.5 to 24 hours after stroke onset, would provide a benefit in patients who had a large-vessel occlusion of the internal carotid artery or the first (M1) or second (M2) segments of the middle cerebral artery and had evidence of salvageable ischemic brain tissue identified on CT perfusion or MRI perfusiondiffusion studies. (The M1 segment is the main trunk, and the M2 segment the first-order branch of the main trunk.) In this trial, patients with occlusions of the internal carotid artery or the M1 segment were anticipated to receive standard-care endovascular thrombectomy in addition to tenecteplase or placebo, whereas the use of endovascular thrombectomy in patients with an occlusion of the M2 segment was at the discretion of the treating physician.
+
+Methods
+
+Trial Design and Oversight
+
+We conducted a multicenter, double-blind, randomized, placebo-controlled trial involving patients with stroke in an extended time window for thrombolysis, 4.5 to 24 hours after they were last known to be well, who had evidence of occlusion of the middle cerebral artery or internal carotid artery and had salvageable tissue as assessed on CT perfusion imaging or perfusiondiffusion MRI of the head. The trial was conducted at 112 centers in the United States and Canada. The methods of the trial have been published previously, 11 and the protocol is available with the full text of this article at NEJM.org.
+
+This trial was sponsored by Genentech, a subsidiary of F. Hoffmann-La Roche, and designed by the first author and a steering committee in conjunction with the sponsor. A list of the institutions and investigators participating in the trial is provided in the Supplementary Appendix, available at NEJM.org. Tenecteplase and matching placebo were provided by the sponsor. Data management and site monitoring was overseen by the sponsor. Data analysis was performed by two authors who are employees of Genentech. The trial protocol was approved by the central and local institutional review board at each participating site before enrollment began. All the enrolled patients or their legally authorized representatives provided written informed consent. The trial was conducted in accordance with the principles of the Declaration of Helsinki and the International Council for Harmonisation guidelines for Good Clinical Practice. After the database was locked, the first author had unrestricted access to the data and vouches for the fidelity of the trial to the protocol and for the completeness and accuracy of the reported outcome data and adverse events. The first draft of the manuscript was written by the first and last authors. There were no confidentiality agreements between the sponsor and the investigators, and the sponsor could not delay or interdict publication of the trial results. F. Hoffmann-La Roche did not have a role in the design of the trial; the collection, analysis, and interpretation of the data; or the preparation of the manuscript and did not have to approve the manuscript before submission for publication.
+
+702
+
+n engl j med 390;8 nejm.org February 22, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+[DOCLING_PAGE 3]
+
+Tenecteplase for Stroke at 4.5 to 24 Hours
+
+Patients
+
+Eligible patients were at least 18 years of age with independent function before the stroke (baseline prestroke modified Rankin scale score, 0 to 2) who had an ischemic stroke and could receive tenecteplase or placebo 4.5 to 24 hours after the time they were last known to be well. Scores on the modified Rankin scale range from 0 to 6, with higher scores indicating greater disability and a score of 6 indicating death. Patients had to have a National Institutes of Health Stroke Scale (NIHSS) score of at least 5 (range, 0 to 42, with higher scores indicating greater neurologic deficits) that was attributed to occlusion of the internal carotid artery (either cervical or intracranial) or the M1 or M2 segment of the middle cerebral artery, or both, on CT angiography or magnetic resonance angiography. The administration of tenecteplase or placebo was required within 90 minutes after the qualifying imaging of the head; if the 90-minute interval was ex- ceeded, a repeat CT or MRI was performed to validate that the patient remained eligible.
+
+Patients were required to have evidence of salvageable brain tissue as determined by an initial ischemic core volume of less than 70 ml, a ratio of the volume of ischemic tissue to the initial infarct volume of at least 1.8, and an absolute volume of potentially reversible ischemia (penumbra) of at least 15 ml. Estimates of the volume of the ischemic core and penumbral regions from CT perfusion imaging or perfusiondiffusion MRI were calculated at each site with the use of Rapid software (RapidAI), an image postprocessing system. The size of the penumbra was estimated from the volume of tissue for which there was a delayed arrival of an injected tracer agent (time to maximum of the residue function) exceeding 6 seconds. 12
+
+Patients were enrolled if they met both the clinical and imaging eligibility requirements and could receive tenecteplase or placebo between 4.5 and 24 hours after the time that they were last known to be well. Tenecteplase or placebo was given as soon as possible, ideally before the arterial puncture for a planned endovascular thrombectomy. Detailed inclusion and exclusion criteria of the trial have been published previously. 11
+
+Trial Interventions
+
+Patients who met all the eligibility criteria were randomly assigned in a 1:1 ratio by means of a secure Web-based randomization system to receive either tenecteplase (at a dose of 0.25 mg per kilogram of body weight; maximum dose, 25 mg) or placebo, administered as an intravenous bolus over a period of 5 seconds. Randomization with the use of permuted blocks stratified according to age (≤70 vs. >70 years), occlusion site (internal carotid artery or M1 segment of the middle cerebral artery vs. M2 segment), baseline NIHSS score (≤15 vs. >15), and randomization at a center capable of providing endovascular treatment (yes vs. no). All the patients received medical care in accordance with institutional protocols and AHA-ASA guidelines. Endovascular thrombectomy for occlusions of the M2 segment was performed at the investigator's discretion. Otherwise, endovascular thrombectomy was performed according to the standard of care at each site, and the use of any Food and Drug Administration-cleared device for endovascular thrombectomy was allowed at the discretion of the individual neurointerventionalist.
+
+n engl j med 390;8 nejm.org February 22, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+703
+
+[DOCLING_PAGE 4]
+
+The new england journal o f medicine
+
+Outcomes
+
+The primary outcome was the ordinal score on the modified Rankin scale at day 90. The modified Rankin scale is a measure of disability, with scores ranging from 0 (no symptoms) to 6 (death). The secondary outcomes were tested sequentially as described in the Statistical Analysis subsection (see below), with the first being functional independence at day 90, defined as a modified Rankin scale score of 0 to 2 (a score of 1 indicates symptoms without clinically significant disability, and a score of 2 slight disability).
+
+Subsequent secondary outcomes were recanalization of the implicated vessel and reperfusion at 24 hours after randomization; angiographic reperfusion at the completion of endovascular thrombectomy, defined as grade 2b to 3 on the modified Treatment in Cerebral Ischemia (TICI) scale (range, 0 to 3, with higher grades indicating increased reperfusion; grade 2b indicates reperfusion of ≥50% of the affected vascular territory, and grade 3 reperfusion of 100%); the median NIHSS score at day 90; a Barthel Index score of at least 95 (range, 0 to 100, with higher scores indicating better independent function) at day 90; and good recovery according to the Glasgow Outcome Scale, defined as resumption of normal life with minor neurologic and psychological deficits, at day 90. Baseline and follow-up MRI and CT images were assessed at the core imaging laboratory independently of each other by persons who were unaware of the trialgroup assignments. Angiographic studies from the endovascular procedure were assessed for baseline and end-of-procedure TICI grades at the core laboratory.
+
+Safety outcomes included death up to day 30 and at 90 days and symptomatic intracranial hemorrhage. Intracranial hemorrhage was defined as an increase (indicating worsening) of at least 4 points on the NIHSS score, attributed to any intracranial bleeding, within 36 hours after the administration of tenecteplase or placebo. 13
+
+Five clinical assessments were performed between baseline and 90 days after randomization. Trained, certified assessors who were unaware of the trial-group assignments collected data on 30-day and 90-day outcomes. The score on the modified Rankin scale was assessed at in-person visits or by telephone interviews 14 with the patient or the patient's surrogate. One interim analysis was planned for when half the patients completed the 90-day assessments.
+
+Statistical Analysis
+
+We estimated the target sample size to be 456. The sample-size calculation assumed that the full distributions of the modified Rankin scale scores at day 90 in the two trial groups would correspond to a common odds ratio of 1.76 (see the statistical analysis plan, available with the protocol). The calculation was based on a twosided type I error rate of 0.049 (after adjustment for one interim efficacy analysis; see below), 90% power, and withdrawal by 5% of the patients. Under these assumptions, the corresponding minimum detectable difference was a common odds ratio of 1.41.
+
+All the efficacy outcomes were analyzed according to the intention-to-treat principle, and a prespecified protocol 15 was used to classify intercurrent events. Efficacy analyses were adjusted for baseline factors, which included the randomization stratification factors, protocol version (version 1 to 4 vs. 5 [which capped the number of patients with carotid occlusion]), and the intention to perform endovascular thrombectomy at the time of randomization (see the Supplementary Appendix). The primary efficacy outcome was analyzed by means of a proportionalodds model, gated by a nonsignificant (P>0.05) score test of the proportionality assumption. An adjusted common odds ratio and the corresponding 95% confidence interval were calculated, and the P value of the treatment effect was reported. To maintain an overall two-sided type I error rate at the 0.05 level, we performed the final analysis at a two-sided significance level of 0.049, after accounting for an alpha of 0.003 spent at one interim efficacy analysis performed at approximately 50% enrollment (233 patients).
+
+The statistical analysis plan called for the imputation of missing primary-outcome data by means of a last-observation-carried-forward approach of the most recent postbaseline value. In accordance with Journal policy, results are shown with multiple imputation instead of with the last-observation-carried-forward approach to imputation. For patients without any postbaseline measurements, missing data were not imputed, and the patients were excluded from the analysis.
+
+704
+
+n engl j med 390;8 nejm.org February 22, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+[DOCLING_PAGE 5]
+
+Tenecteplase for Stroke at 4.5 to 24 Hours
+
+Several sensitivity analyses of the primary outcome were conducted to assess the consistency of the primary analysis result, including with regard to the use of a multiple imputation procedure to impute the missing data. The primary outcome was also analyzed in prespecified subgroups defined according to age (<80 vs. ≥80 years), NIHSS score (≤15 vs. >15), times between stroke onset and randomization (<16 hours vs. ≥16 hours) and between the administration of tenecteplase or placebo and arterial puncture (≤6 minutes vs. >6 to 22 minutes vs. >22 minutes), randomization at a center capable of providing endovascular treatment (yes vs. no), protocol version (1 to 4 vs. 5), planned and performed endovascular thrombectomy (yes vs. no), ischemic core volume (<20 ml vs. 20 to <50 ml vs. ≥50 ml), and occlusion site (internal carotid artery vs. M1 segment vs. M2 segment). Secondary outcomes were analyzed in a hierarchical manner. If the primary outcome did not show a significant difference between the two groups, all the subsequent outcomes would be considered not to differ significantly between the groups and would be reported with multiplicity-unadjusted 95% confidence intervals, without P values.
+
+Safety analyses were performed in the safety population, which included all the patients who provided informed consent (or had it provided by a legally authorized representative), underwent randomization, and received any amount of tenecteplase or placebo. Patients were grouped according to the intravenous bolus that they actually received. Descriptive summaries were produced for safety analyses, without formal statistical comparisons.
+
+Results
+
+Characteristics of the Patients
+
+From March 2019 through December 2022, a total of 458 patients underwent randomization at 108 centers in the United States and at 4 centers in Canada. A total of 228 patients were randomly assigned to receive tenecteplase and 230 to receive placebo (Fig. S1 in the Supplementary Appendix). Six patients (1.3%) were lost to follow-up before trial completion, 400 patients (87.3%) had an endovascular procedure planned, and 354 patients (77.3%) had the procedure performed and the clot accessed. The most common reason that the procedure was not planned was an occlusion at the M2 segment (see the Supplementary Appendix). Seven patients (5 in the tenecteplase group and 2 in the placebo group) did not undergo a planned endovascular thrombectomy owing to clinical improvement or because the physician determined that the procedure was not indicated or feasible. In 12 patients (10 in the tenecteplase group and 2 in the placebo group), the procedure was initiated but no clot was identified on the cerebral angiogram. In 27 patients (13 in the tenecteplase group and 14 in the placebo group), the procedure was initiated but the clot could not be reached. Tenecteplase or placebo was administered at a median of 16 minutes before arterial puncture for the endovascular thrombectomy. The median time between the time the patient was last known to be well and randomization was approximately 12 hours in the tenecteplase group and approximately 13 hours in the placebo group. The baseline demographic and clinical characteristics of the patients were similar in the two groups (Table 1 and Table S1). The representativeness of the trial population is shown in Table S2.
+
+Primary and Secondary Clinical Outcomes
+
+Three patients did not have any postbaseline modified Rankin scale score available and were excluded from the analysis of the primary outcome. Among the 455 patients who were included in the analysis, 18 (10 in the tenecteplase group and 8 in the placebo group) had the 90day modified Rankin scale score imputed by multiple imputation owing to missing data.
+
+The median modified Rankin scale score (primary outcome) was 3 in each group (Fig. 1). The adjusted common odds ratio of the modified Rankin scale at 90 days was 1.13 (95% confidence interval [CI], 0.82 to 1.57; P = 0.45) (Table 2, Fig. S2, and Table S3). Given that the primary efficacy comparison did not differ significantly between the two groups, formal hypothesis testing of the secondary outcomes was not performed. Functional independence (modified Rankin scale score, ≤2) at 90 days was observed in 104 patients (46.0%) in the tenecteplase group and in 97 (42.4%) in the control group (difference, 3.6 percentage points; adjusted odds ratio, 1.18; 95% CI, 0.80 to 1.74). The results of the other secondary outcomes, which were not adjusted for multiple comparisons, did not generally favor tenecteplase therapy (Table 2 and Table S4).
+
+n engl j med 390;8 nejm.org February 22, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+705
+
+[DOCLING_PAGE 6]
+
+The new england journal o f medicine
+
+[DOCLING_TABLE rows=23 columns=3]
+| Table 1. Demographic and Clinical Characteristics of the Patients at Baseline.* | Table 1. Demographic and Clinical Characteristics of the Patients at Baseline.* | Table 1. Demographic and Clinical Characteristics of the Patients at Baseline.* |
+| Characteristic | Tenecteplase (N = 228) | Placebo (N = 230) |
+| Median age (IQR) - yr | 72 (62-79) | 73 (63-82) |
+| Female sex - no. (%) | 122 (53.5) | 123 (53.5) |
+| Race or ethnic group - no. (%)† |  |  |
+| American Indian or Alaska Native | 0 | 2 (0.9) |
+| Asian | 11 (4.8) | 9 (3.9) |
+| Black | 31 (13.6) | 32 (13.9) |
+| Native Hawaiian or Pacific Islander | 2 (0.9) | 3 (1.3) |
+| White | 169 (74.1) | 170 (73.9) |
+| Unknown | 15 (6.6) | 14 (6.1) |
+| Median NIHSS score (IQR)‡ | 12 (8-17) | 12 (8-18) |
+| Occlusion site - no. (%)§ |  |  |
+| Internal carotid artery | 20 (8.8) | 17 (7.4) |
+| M1 segment | 110 (48.2) | 117 (50.9) |
+| M2 segment | 89 (39.0) | 84 (36.5) |
+| Other | 9 (3.9) | 12 (5.2) |
+| Median duration (IQR) |  |  |
+| From time that the patient was last known to be well to randomization - hr | 12.3 (9.2-15.6) | 12.7 (8.7-16.5) |
+| From randomization to administration of tenecteplase or placebo - min¶ | 13 (7-20) | 14 (7-20) |
+| From administration of tenecteplase or placebo to arterial puncture - min‖ | 15 (3-25) | 17 (3-27) |
+| Endovascular thrombectomy performed - no. (%) | 176 (77.2) | 178 (77.4) |
+| Median TICI grade (IQR)** | 0 (0-0) | 0 (0-0) |
+[/DOCLING_TABLE]
+
+ Percentages may not total 100 because of rounding. IQR denotes interquartile range.
+
+†  Race and ethnic group were reported by the patients or their legal representatives or were determined by the investigator.
+
+‡  Scores on the National Institutes of Health Stroke Scale (NIHSS), a standardized neurologic examination, range from 0 (normal) to 42 (death), with lower scores indicating less-severe stroke.
+
+§  The M1 segment is the main trunk of the middle cerebral artery, and the M2 segment the first-order branch of the main trunk. A total of 17 patients (12 in the tenecteplase group and 5 in the placebo group) who had been reported on the case-report form as having evidence of occlusion of both the internal carotid artery and the middle cerebral artery were included in the 'other' category. This category also included patients with occlusion sites that did not meet the inclusion criteria (protocol violations).
+
+¶  Data were missing for 11 patients in the tenecteplase group and for 15 in the placebo group.
+
+‖  Data were missing for 50 patients in the tenecteplase group and for 53 in the placebo group.
+
+**  Modified Thrombolysis in Cerebral Infarction (TICI) grades range from 0 to 3, with higher grades indicating increased reperfusion. Grade 2b indicates reperfusion of at least 50% of the occluded middle-cerebral-artery territory at the end of the procedure, 2c reperfusion of at least 75%, and 3 reperfusion of 100%. Data were missing for 29 patients in the tenecteplase group and for 36 in the placebo group.
+
+Safety
+
+Mortality at 90 days did not differ appreciably between the two trial groups (19.7% in the tenecteplase group and 18.2% in the placebo group) (Table 2 and Fig. S3). Three patients in the placebo group died after 90 days and were not included in this analysis. The incidence of symptomatic intracerebral hemorrhage was similar in the two groups (in 7 patients [3.2%] in the tenecteplase group and in 5 [2.3%] in the placebo group), as was the incidence of parenchymal hematoma type 2 or any intracranial hemorrhage. The incidence of adverse events, serious adverse events, and withdrawal from the trial due to adverse events did not differ appreciably between the groups (Table 2 and Tables S6 and S7).
+
+706
+
+n engl j med 390;8 nejm.org February 22, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+[DOCLING_PAGE 7]
+
+Tenecteplase for Stroke at 4.5 to 24 Hours
+
+Imaging Outcomes
+
+Complete recanalization as assessed on 24-hour angiography by MRI or CT (secondary outcome) occurred in 76.7% of the patients in the tenecteplase group and in 63.9% of those in the placebo group (adjusted odds ratio, 1.89; 95% CI, 1.21 to 2.95). The incidence of angiographic reperfusion at the end of the procedure (TICI grade 2b to 3) was similar in the tenecteplase group and the placebo group (89.1% and 85.4%, respectively). The mean (±SD) final infarct volume, one of the exploratory outcomes, appeared to be lower in the tenecteplase group (47.9±71.1 ml) than in the placebo group (56.5±81.5 ml). Complete findings regarding the prespecified exploratory outcomes are provided in Table S5.
+
+Subgroup Analyses
+
+Results of the prespecified subgroup analyses of the primary outcome are shown in Figure 2. The trial was not powered for conclusions from this analysis, and they are not adjusted for multiplicity. The adjusted common odds ratio for the modified Rankin scale scores among patients with an occlusion of the M1 segment of the middle cerebral artery was 1.59 (95% CI, 1.00 to 2.52). Among patients with occlusion of the M1 segment, functional independence (modified Rankin scale score ≤2) at 90 days occurred in 45.9% of those in the tenecteplase group, as compared with 31.4% of those in the placebo group (adjusted odds ratio, 2.03; 95% CI, 1.14 to 3.66). The effect of tenecteplase therapy did not differ appreciably between patients treated earlier and those treated later. Only 3.5% of patients received tenecteplase or placebo at a primary stroke center before transfer to a comprehensive center for planned endovascular thrombectomy; among these patients, the common odds ratio for the primary outcome was 2.53 (95% CI, 0.42 to 15.16).
+
+Discussion
+
+The TIMELESS trial did not show a significant improvement in functional outcomes at 90 days in patients with stroke who had evidence of salvageable tissue on perfusion imaging and received Patients received intravenous tenecteplase or placebo. All the patients received standard medical therapy, which could include endovascular thrombectomy. The modified Rankin scale ranges from 0 (no symptoms) to 6 (death). A score of 1 indicates no clinically meaningful disability (patients are able to perform usual work, leisure, and school activities), 2 slight disability (patients are able to look after their own affairs without assistance but are unable to carry out all previous activities), 3 moderate disability (patients require some help but are able to walk unassisted), 4 moderately severe disability (unable to attend to bodily needs without assistance or unable to walk unassisted), and 5 severe disability (patients are bedridden and require constant care). Percentages may not total 100 because of rounding. There was no significant difference favoring the tenecteplase group over the placebo group in the overall distribution of scores (adjusted common odds ratio, 1.13; 95% confidence interval, 0.82 to 1.57; adjusted P = 0.45). The common odds ratio, 95% confidence interval, and P value are based on Rubin's rules for multiple imputation with 100 replicates. The analysis was adjusted for age (≤70 vs. >70 years), site of occlusion (internal carotid artery or M1 segment [main trunk] of the middle cerebral artery vs. M2 segment [first-order branch of the main trunk]), and the protocol under which the enrollment occurred (versions 1 to 4 vs. version 5 [which capped the number of patients with occlusion of the internal carotid artery]). The numbers shown are based on last-observation-carried-forward imputation; three patients (two in the tenecteplase group and one in the placebo group) did not have a postbaseline modified Rankin scale score and were excluded from this analysis.
+
+Figure 1. Scores on the Modified Rankin Scale at 90 Days.
+
+Tenecteplase
+
+(N=226)
+
+Placebo
+
+(N=229)
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Percentage of Patients
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Score on the Modified Rankin Scale at 90 Days
+
+15.5
+
+(N=35)
+
+16.8
+
+(N=38)
+
+13.7
+
+(N=31)
+
+15.0
+
+(N=34)
+
+12.8
+
+(N=29)
+
+6.6
+
+(N=15)
+
+19.5
+
+(N=44)
+
+13.5
+
+(N=31)
+
+13.1
+
+(N=30)
+
+15.7
+
+(N=36)
+
+17.9
+
+(N=41)
+
+14.8
+
+(N=34)
+
+5.7
+
+(N=13)
+
+19.2
+
+(N=44)
+
+tenecteplase 4.5 to 24 hours after the time they were last known to be well. Most patients also underwent endovascular thrombectomy (77.3%). The incidence of recanalization at 24 hours appeared to be higher with tenecteplase than with placebo, but the incidence of reperfusion was similar in the two groups at the end of the procedure.
+
+Given the high proportion of patients who underwent endovascular thrombectomy and had a short interval between thrombolytic administration and arterial puncture, our trial resembles various trials that compared endovascular thrombectomy with or without preceding alteplase therapy 16-22 in a time window of up to 4.5 hours
+
+n engl j med 390;8 nejm.org February 22, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+707
+
+[DOCLING_PAGE 8]
+
+The new england journal o f medicine
+
+[DOCLING_TABLE rows=17 columns=5]
+| Table 2. Clinical, Imaging, and Safety Outcomes.* | Table 2. Clinical, Imaging, and Safety Outcomes.* | Table 2. Clinical, Imaging, and Safety Outcomes.* | Table 2. Clinical, Imaging, and Safety Outcomes.* | Table 2. Clinical, Imaging, and Safety Outcomes.* |
+| Outcome | Tenecteplase (N = 228) | Placebo (N = 230) | Adjusted Odds Ratio (95% CI) | P Value |
+| Primary efficacy outcome |  |  |  |  |
+| Median score on the modified Rankin scale at 90 days (IQR)† | 3 (1-5) | 3 (1-4) | 1.13 (0.82-1.57) | 0.45 |
+| Secondary efficacy outcomes |  |  |  |  |
+| Functional independence at 90 days - no./total no. (%)‡ | 104/226 (46.0) | 97/229 (42.4) | 1.18 (0.80-1.74) |  |
+| Recanalization at 24 hr - no./total no. (%)§ | 148/193 (76.7) | 124/194 (63.9) | 1.89 (1.21-2.95) |  |
+| Reperfusion at 24 hr - no./total no. (%)¶ | 99/174 (56.9) | 105/182 (57.7) | 1.04 (0.69-1.57) |  |
+| Reperfusion at the conclusion of endovascular thrombectomy - no./total no. (%)‖ | 156/175 (89.1) | 152/178 (85.4) | 1.42 (0.75-2.67) |  |
+| Safety outcomes ** |  |  |  |  |
+| Death - no./total no. (%) |  |  |  |  |
+| Within 30 days | 32/218 (14.7) | 32/214 (15.0) | - | - |
+| Within 90 days | 43/218 (19.7) | 39/214 (18.2)†† | - | - |
+| Symptomatic intracranial hemorrhage within 36 hr - no./total no. (%)‡‡ | 7/218 (3.2) | 5/214 (2.3) | - | - |
+| Parenchymal hematoma within 72 hr - no./total no. (%) |  |  |  |  |
+| Type 1 | 2/218 (0.9) | 1/214 (0.5) | - | - |
+| Type 2 | 8/218 (3.7) | 6/214 (2.8) | - | - |
+[/DOCLING_TABLE]
+
+ Odds ratios, 95% confidence intervals, and P values are based on Rubin's rules for multiple replication with 100 replicates. For the primary analysis, the adjusted common odds ratio is reported; the adjusted odds ratio is reported for other analyses. The primary analysis and the first three secondary analyses were adjusted for age (≤70 vs. >70 years), site of occlusion (internal carotid artery or M1 segment vs. M2 segment), and the protocol under which the enrollment occurred (versions 1 to 4 vs. version 5 [which capped the number of patients with carotid occlusion]). The analysis regarding reperfusion at the conclusion of endovascular thrombectomy was adjusted for age, baseline NIHSS score (≤15 vs. >15), and the protocol under which the enrollment occurred. The numbers shown are based on last-observationcarried-forward imputation; three patients (two in the tenecteplase group and one in the placebo group) did not have a postbaseline modified Rankin scale score and were excluded from the primary analysis. The P value is for the Wald test of the null hypothesis of common odds ratio of 1. For the secondary outcomes, the widths of the confidence intervals were not adjusted for multiple comparisons, and the reported confidence intervals should not be used for hypothesis testing.
+
+†  Scores on the modified Rankin scale range from 0 to 6, with higher scores indicating greater disability and a score of 6 indicating death.
+
+‡  Functional independence was defined as a modified Rankin scale score of 0 to 2.
+
+§  Recanalization at 24 hours was defined as complete recanalization (arterial occlusive lesion score, 3; scale range, 0 [no recanalization] to 3 [complete recanalization]).
+
+¶  Reperfusion at 24 hours was defined as more than 90% reduction in the penumbra, as estimated from the volume of tissue for which there was delayed arrival of an injected tracer agent (time to maximum of the residue function) exceeding 6 seconds, between baseline and 24-hour perfusion imaging.
+
+‖  Reperfusion at the conclusion of endovascular thrombectomy (in treated patients) was defined as a modified TICI grade of 2b to 3.
+
+**  The safety population included all the patients who provided informed consent (or had it provided by a legally authorized representative), underwent randomization, and received any amount of tenecteplase or placebo.
+
+††  Three patients in the placebo group died after 90 days and were not included in this analysis.
+
+‡‡  Symptomatic intracranial hemorrhage was defined as an increase (indicating worsening) of at least 4 points in the NIHSS score, as compared with the most recent NIHSS score, that was attributed to bleeding on CT (preferred) or MRI performed within 36 hours after the receipt of tenecteplase or placebo.
+
+after onset. The time between the administration of the intravenous thrombolytic agent and arterial puncture in these trials was longer (median, 25 minutes; interquartile range, 15 to 39) than the time between the administration of tenecteplase and arterial puncture in the current trial (15 minutes; interquartile range, 3 to 25), but the incidence of recanalization before endovascular thrombectomy was similar. A metaanalysis with the use of individual patient data Shown is the subgroup analysis of the primary outcome and corresponding adjusted common odds ratio (see the Supplementary Appendix for details about model adjustments) indicating the odds that the patients who had been assigned to receive tenecteplase would have better functional recovery at 90 days (as reflected by a shift in the distribution of scores on the modified Rankin scale toward more favorable outcomes) than those who had been assigned to receive placebo. Patients who had been reported on the case-report form as having evidence of occlusion of both the internal carotid artery and the middle cerebral artery were included in the internal-carotid-artery subgroup. The widths of the confidence intervals were not adjusted for multiple comparisons, and the reported confidence intervals should not be used for hypothesis testing. Scores on the National Institutes of Health Stroke Scale (NIHSS) range from 0 to 42, with higher scores indicating worse neurologic deficits. The three patients who did not have a postbaseline modified Rankin scale score were excluded from these subgroup analyses.
+
+708
+
+n engl j med 390;8 nejm.org February 22, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+[DOCLING_PAGE 9]
+
+Tenecteplase for Stroke at 4.5 to 24 Hours
+
+[DOCLING_TABLE rows=37 columns=5]
+| Subgroup | Tenecteplase Placebo no. of patients | Tenecteplase Placebo no. of patients | Adjusted Common Odds Ratio (95% CI) | Adjusted Common Odds Ratio (95% CI) |
+| Overall | 226 | 229 |  | 1.13 (0.82-1.57) |
+| Age |  |  |  |  |
+| <80 yr | 174 | 156 |  | 1.01 (0.69-1.48) |
+| ≥80 yr | 52 | 73 |  | 1.15 (0.61-2.16) |
+| NIHSS score |  |  |  |  |
+| ≤15 | 148 | 149 |  | 1.11 (0.74-1.66) |
+| >15 | 78 | 80 |  | 1.29 (0.74-2.25) |
+| Time between stroke onset and randomization |  |  |  |  |
+| <16 | 176 | 165 |  | 0.94 (0.65-1.37) |
+| ≥16 | 50 | 64 |  | 1.49 (0.77-2.88) |
+| Randomization at a center capable of providing endovascular treatment |  |  |  |  |
+| Yes | 219 | 220 |  | 1.09 (0.78-1.52) |
+| No | 7 | 9 |  | 2.53 (0.42-15.16) |
+| Protocol version |  |  |  |  |
+| 1-4 | 138 | 140 |  | 1.13 (0.74-1.72) |
+| 5 | 88 | 89 |  | 1.19 (0.71-2.01) |
+| Endovascular thrombectomy planned |  |  |  |  |
+| Yes | 201 | 196 |  | 1.20 (0.85-1.70) |
+| No | 25 | 33 |  | 0.59 (0.23-1.48) |
+| Endovascular thrombectomy performed |  |  |  |  |
+| Yes | 174 | 177 |  | 1.18 (0.81-1.70) |
+| No | 52 | 52 |  | 1.04 (0.52-2.06) |
+| Time between administration of tenecteplase or placebo and arterial puncture |  |  |  |  |
+| ≤6 min | 61 | 59 |  | 1.62 (0.86-3.06) |
+| >6 to 22 min | 67 | 56 |  | 0.97 (0.52-1.82) |
+| >22 min | 50 | 62 |  | 1.02 (0.53-1.96) |
+| Ischemic core volume |  |  |  |  |
+| <20 ml | 163 | 184 |  | 1.30 (0.90-1.89) |
+| ≥20 to <50 ml | 51 | 29 |  | 0.92 (0.41-2.04) |
+| ≥50 ml | 12 | 16 |  | 0.50 (0.12-2.04) |
+| Occlusion site |  |  |  |  |
+| Internal carotid artery | 29 | 25 |  | 0.83 (0.32-2.15) |
+| M1 segment | 109 | 118 |  | 1.59 (1.00-2.52) |
+| M2 segment | 88 | 83 |  | 0.76 (0.45-1.30) |
+|  |  |  | 1.0 10.0 0.1 |  |
+|  |  |  | Placebo Better | Tenecteplase Better |
+[/DOCLING_TABLE]
+
+that included the addition of thrombolysis to thrombectomy did not show the noninferiority of direct endovascular thrombectomy to combined treatment with an intravenous thrombolytic agent and thrombectomy. 23
+
+In the EXTEND-IA TNK trial, 7 treatment with tenecteplase resulted in a higher incidence of reperfusion before thrombectomy and better functional outcome than alteplase therapy among patients with ischemic stroke treated within
+
+n engl j med 390;8 nejm.org February 22, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+709
+
+[DOCLING_PAGE 10]
+
+The new england journal o f medicine
+
+4.5 hours after symptom onset and before endovascular thrombectomy. The median time from the initiation of intravenous thrombolysis with tenecteplase to arterial puncture was 42 minutes in the EXTEND-IA TNK trial, as compared with 15 minutes in our trial. One possible reason for the time difference was the larger proportion of patients in the EXTEND-IA TNK trial than in our trial who received tenecteplase at a center that was not capable of providing endovascular treatment before transfer. Our trial did not enroll enough patients at such centers to provide insights into the effect of tenecteplase in this patient population.
+
+able perfusion-imaging profile, most of whom subsequently underwent endovascular therapy. The incidence of brain hemorrhage was similar in the two trial groups.
+
+Supported by Genentech, a subsidiary of F. Hoffmann-La Roche.
+
+Disclosure forms provided by the authors are available with the full text of this article at NEJM.org.
+
+A data sharing statement provided by the authors is available with the full text of this article at NEJM.org.
+
+In this trial, we found no benefit in functional outcome with tenecteplase as compared with placebo administered 4.5 to 24 hours after symptom onset in patients with ischemic stroke who had been selected on the basis of a favor- We thank the patients and their families who participated in this trial; the clinical, laboratory, and administrative staff at the participating trial centers; Steve Warach, Jose Romano, Cathy Sila, and Scott Hamilton for participation in the independent data monitoring committee; Ingrid Rudolph-Angelich for publication guidance and assistance; Linda Yau (deceased) for statistical expertise; Marcelo Celemin and Seema Asthana for operations expertise and partnership; Ryan Trieglaff and Kyle Turner for medical assistance to the sites during the trial; Florence Toy and John Stephens for assistance with medical monitoring; and Ken Gresham and Christina Puzzolo, of Nucleus Global, for editorial assistance with an earlier version of the manuscript, funded by Genentech.
+
+Appendix
+
+The authors' full names and academic degrees are as follows: Gregory W. Albers, M.D., Mouhammad Jumaa, M.D., Barbara Purdon, Ph.D., Syed F. Zaidi, M.D., Christopher Streib, M.D., Ashfaq Shuaib, M.D., Navdeep Sangha, M.D., Minjee Kim, M.D., Michael T. Froehler, M.D., Ph.D., Neil E. Schwartz, M.D., Ph.D., Wayne M. Clark, M.D., Charles E. Kircher, M.D., Ming Yang, Ph.D., Lori Massaro, C.R.N.P., Xiao-Yu Lu, M.S., Gregory A. Rippon, M.D., Joseph P. Broderick, M.D., Ken Butcher, Ph.D., Maarten G. Lansberg, M.D., Ph.D., David S. Liebeskind, M.D., Amre Nouh, M.D., Lee H. Schwamm, M.D., and Bruce C.V. Campbell, Ph.D.
+
+The authors' affiliations are as follows: Stanford Stroke Center, Department of Neurology and Neurological Sciences, Stanford University, Palo Alto (G.W.A., N.E.S., M.G.L.), Genentech, South San Francisco (B.P., M.Y., L.M., X.-Y.L., G.A.R.), and the Department of Neurology, Southern California Permanente Medical Group, Los Angeles Medical Center (N.S.), and the Department of Neurology, University of California, Los Angeles (D.S.L.), Los Angeles - all in California; the Department of Neurology, ProMedica Toledo Hospital, University of Toledo, Toledo (M.J., S.F.Z.), and the Department of Emergency Medicine (C.E.K.) and the Department of Neurology and Rehabilitation Medicine, University of Cincinnati Gardner Neuroscience Institute (J.P.B.), College of Medicine, University of Cincinnati, Cincinnati - both in Ohio; the Department of Neurology, University of Minnesota, Minneapolis (C.S.); the Department of Medicine, University of Alberta, Edmonton, Canada (A.S.); the Department of Neurology, Feinberg School of Medicine, Northwestern University, Chicago (M.K.); Vanderbilt Cerebrovascular Program, Vanderbilt University Medical Center, Nashville (M.T.F.); Oregon Stroke Center, Oregon Health and Science University, Portland (W.M.C.); the School of Medicine, University of New South Wales, Sydney (K.B.), and the Department of Medicine and Neurology, Melbourne Brain Centre at the Royal Melbourne Hospital, University of Melbourne, Parkville, VIC (B.C.V.C.) - both in Australia; the Department of Neurology, Cleveland Clinic Florida, Weston Hospital, Weston (A.N.); the Department of Neurology, Massachusetts General Hospital, Harvard Medical School, Boston (L.H.S.); and the Department of Neurology, Yale School of Medicine, New Haven, CT (L.H.S.).
+
+References
+
+Powers WJ, Rabinstein AA, Ackerson T, et al. Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 update to the 2018 Guidelines for the Early Management of Acute Ischemic Stroke: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke 2019; 50(12): e344-e418.
+
+Emberson J, Lees KR, Lyden P, et al. Effect of treatment delay, age, and stroke severity on the effects of intravenous thrombolysis with alteplase for acute ischaemic stroke: a meta-analysis of individual patient data from randomised trials. Lancet 2014; 384: 1929-35.
+
+Campbell BCV, Ma H, Ringleb PA, et
+
+al. Extending thrombolysis to 4·5-9 h and wake-up stroke using perfusion imaging: a systematic review and meta-analysis of individual patient data. Lancet 2019; 394: 139-47.
+
+Tanswell P, Modi N, Combs D, Danays T. Pharmacokinetics and pharmacodynamics of tenecteplase in fibrinolytic therapy of acute myocardial infarction. Clin Pharmacokinet 2002; 41: 1229-45.
+
+Wang Y, Li S, Pan Y, et al. Tenecteplase versus alteplase in acute ischaemic cerebrovascular events (TRACE-2): a phase 3, multicentre, open-label, randomised controlled, non-inferiority trial. Lancet 2023; 401: 645-54.
+
+Menon BK, Buck BH, Singh N, et al. Intravenous tenecteplase compared with
+
+alteplase for acute ischaemic stroke in Canada (AcT): a pragmatic, multicentre, open-label, registry-linked, randomised, controlled, non-inferiority trial. Lancet 2022; 400: 161-9.
+
+Campbell BCV, Mitchell PJ, Churilov L, et al. Tenecteplase versus alteplase before thrombectomy for ischemic stroke. N Engl J Med 2018; 378: 1573-82.
+
+Alamowitch S, Turc G, Palaiodimou L, et al. European Stroke Organisation (ESO) expedited recommendation on tenecteplase for acute ischaemic stroke. Eur Stroke J 2023; 8: 8-54.
+
+Roaldsen MB, Eltoft A, Wilsgaard T, et al. Safety and efficacy of tenecteplase in patients with wake-up stroke assessed
+
+710
+
+n engl j med 390;8 nejm.org February 22, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+[DOCLING_PAGE 11]
+
+Tenecteplase for Stroke at 4.5 to 24 Hours
+
+by non-contrast CT (TWIST): a multicentre, open-label, randomised controlled trial. Lancet Neurol 2023; 22: 117-26.
+
+Kate M, Wannamaker R, Kamble H, et al. Penumbral imaging-based thrombolysis with tenecteplase is feasible up to 24 hours after symptom onset. J Stroke 2018; 20: 122-30.
+
+Albers GW, Campbell BC, Lansberg MG, et al. A phase III, prospective, doubleblind, randomized, placebo-controlled trial of thrombolysis in imaging-eligible, latewindow patients to assess the efficacy and safety of tenecteplase (TIMELESS): rationale and design. Int J Stroke 2023; 18: 237-41. 12. Straka M, Albers GW, Bammer R. Real-time diffusion-perfusion mismatch analysis in acute stroke. J Magn Reson Imaging 2010; 32: 1024-37.
+
+Mazya M, Egido JA, Ford GA, et al. Predicting the risk of symptomatic intracerebral hemorrhage in ischemic stroke treated with intravenous alteplase: Safe Implementation of Treatments in Stroke (SITS) symptomatic intracerebral hemor-
+
+rhage risk score. Stroke 2012; 43: 1524-31. 14. Janssen PM, Visser NA, Dorhout Mees SM, Klijn CJM, Algra A, Rinkel GJE. Comparison of telephone and face-to-face assessment of the modified Rankin Scale. Cerebrovasc Dis 2010; 29: 137-9.
+
+European Medicines Agency. ICH E9 (R1) addendum on estimands and sensitivity analysis in clinical trials to the guideline on statistical principles for clinical trials. 2019 (https://www .­ ema .­ europa .­ eu/ ­ en/ ­ documents/ ­ scientific -­ guideline/ ­ ich -­ e9 -­ r1 -­ addendum -­ estimands -­ and -­ sensitivity -­ analysis -­ clinical -­ trials -­ guideline -­ statistical -­ principles -­ clinical -­ trials -­ step
+
+-­ 5_en .­ pdf).
+
+Berkhemer OA, Fransen PSS, Beumer D, et al. A randomized trial of intraarterial treatment for acute ischemic stroke. N Engl J Med 2015; 372: 11-20.
+
+Goyal M, Demchuk AM, Menon BK, et al. Randomized assessment of rapid endovascular treatment of ischemic stroke. N Engl J Med 2015; 372: 1019-30.
+
+Campbell BCV, Mitchell PJ, Kleinig TJ,
+
+et al. Endovascular therapy for ischemic stroke with perfusion-imaging selection. N Engl J Med 2015; 372: 1009-18.
+
+Saver JL, Goyal M, Bonafe A, et al. Stent-retriever thrombectomy after intravenous t-PA vs. t-PA alone in stroke. N Engl J Med 2015; 372: 2285-95.
+
+Jovin TG, Chamorro A, Cobo E, et al. Thrombectomy within 8 hours after symptom onset in ischemic stroke. N Engl J Med 2015; 372: 2296-306.
+
+Zheng W, Lei H, Lin X, et al. Intravenous thrombolysis prior to endovascular treatment for acute ischemic stroke: a metaanalysis. Neurol Sci 2022; 43: 5993-6002.
+
+Jahan R, Saver JL, Schwamm LH, et al. Association between time to treatment with endovascular reperfusion therapy and outcomes in patients with acute ischemic stroke treated in clinical practice. JAMA 2019; 322: 252-63.
+
+Hankey GJ. Does thrombolysis add value to thrombectomy for acute ischaemic stroke? Lancet 2023; 402: 938-9.
+
+Copyright © 2024 Massachusetts Medical Society.
+
+my nejm in the journal online
+
+Individual subscribers can store articles and searches using a feature on the Journal 's website (NEJM.org) called 'My Account.' Each article and search result links to this feature. Users can create
+
+personal folders and move articles into them for convenient retrieval later.
+
+n engl j med 390;8 nejm.org February 22, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org at Xian Jiaotong University on August 26, 2026.
+
+711

@@ -1,0 +1,695 @@
+[DOCLING_PAGE 1]
+
+Articles
+
+Eff ect of baseline Alberta Stroke Program Early CT Score on safety and effi cacy of intra-arterial treatment: a subgroup analysis of a randomised phase 3 trial (MR CLEAN)
+
+Albert J Yoo*, Olvert A Berkhemer*, Puck S S Fransen, Lucie A van den Berg, Debbie Beumer, Hester F Lingsma, Wouter J Schonewille, Marieke E S Sprengers, René van den Berg, Marianne A A van Walderveen, Ludo F M Beenen, Marieke J H Wermer, Geert J Lycklama à Nijeholt, Jelis Boiten, Sjoerd F M Jenniskens, Joseph C J Bot, Anna M M Boers, Henk A Marquering, Yvo B W E M Roos†, Robert J van Oostenbrugge†, Diederik W J Dippel†, Aad van der Lugt†, Wim H van Zwam†, Charles B L M Majoie†, for the MR CLEAN investigators
+
+Summary
+
+Background Whether infarct size modifi es intra-arterial treatment eff ect is not certain, particularly in patients with large infarcts. We examined the eff ect of the baseline Alberta Stroke Program Early CT Score (ASPECTS) on the safety and effi cacy of intra-arterial treatment in a subgroup analysis of the Multicenter Randomized Clinical Trial of Endovascular Treatment for Acute Ischemic Stroke in the Netherlands (MR CLEAN).
+
+Methods MR CLEAN was a randomised, controlled, open-label, phase 3 trial of intra-arterial treatment in patients (aged ≥18 years from the Netherlands) with proximal arterial occlusion of the anterior circulation, given intraarterial treatment within 6 h of stroke onset. The primary outcome was 90 day modifi ed Rankin Scale (mRS) score. We estimated the intra-arterial treatment eff ect for all patients in MR CLEAN who had ASPECTS graded by using multivariable ordinal logistic regression analysis (a proportional odds model) to calculate the adjusted common odds ratio for a shift towards a better functional outcome according to the mRS for intra-arterial treatment and usual care than for usual care alone. We entered an interaction term into the model to test for interaction with prespecifi ed ASPECTS subgroups: 0-4 (large infarct) versus 5-7 (moderate infarct) versus 8-10 (small infarct). MR CLEAN is registered with the Netherlands Trial Registry, number NTR1804, and the ISRCTN Registry, number ISRCTN10888758.
+
+Findings 496 patients-232 (47%) in the intra-arterial treatment and usual care group and 264 (53%) in the usual care alone group-were included in the analysis. We noted no signifi cant diff erence in intra-arterial treatment eff ect between the ASPECTS subgroups according to 90 day ordinal mRS (adjusted common odds ratio interaction term relative to ASPECTS 8-10: ASPECTS 0-4: 0·79 [95% CI 0·20-3·19], p=0·740; and ASPECTS 5-7: 1·02 [0·44-2·35], p=0·966). Intra-arterial treatment did not cause a signifi cant increase in the proportion of patients with at least one serious adverse event in any of the ASPECTS subgroups (ASPECTS 0-4: eight [73%] of 11 patients in treatment and usual care group vs 11 [58%] of 19 in usual care alone group, p=0·42; ASPECTS 5-7: 32 [59%] of 54 vs 19 [49%] of 39, p=0·31; ASPECTS 8-10: 70 [42%] of 167 vs 82 [40%] of 206; p=0·68). For death within 7 days or within 30 days and hemicraniectomy, the diff erences between the intra-arterial treatment and usual care versus usual care alone groups were not signifi cant by ASPECTS subgroups. A signifi cantly higher proportion of patients had recurrent ischaemic stroke in the intra-arterial treatment plus usual care group than in the usual care alone group in the ASPECTS 8-10 subgroup (eight [5%] vs one [<1%]; p=0·007).
+
+Interpretation Contrary to fi ndings from previous studies suggesting that only patients with non-contrast CT ASPECTS of more than 7 benefi t from intra-arterial treatment, data from this study suggest that patients with ASPECTS 5-7 should be treated. Further evidence is needed for patients with ASPECTS 0-4, for whom treatment might yield only marginal absolute benefi t.
+
+Funding Dutch Heart Foundation, AngioCare, Medtronic/Covidien/EV3, Medac/Lamepro, Penumbra, Stryker, and Top Medical.
+
+Introduction
+
+Evidence suggests that infarct size at baseline can be used to predict functional outcome after intra-arterial treatment. 1,2 Patients with smaller infarcts at baseline have better long-term functional independence, lower incidence of reperfusion haemorrhage, and lower mortality than do those with larger infarcts. 1,2 Whether baseline infarct size modifi es intra-arterial treatment eff ect, particularly whether patients with large infarcts benefi t from catheterbased reperfusion therapy, is not clear. 3,4
+
+Despite the availability of advanced imaging systems, non-contrast CT is widely used for patient assessment before intra-arterial treatment. 5,6 The Alberta Stroke Program Early CT Score (ASPECTS) is a semiquantitative method of estimation of infarct size with non-contrast CT during the acute phase. Findings Lancet Neurol 2016; 15: 685-94
+
+See Comment page 651
+
+*Contributed equally
+
+†Contributed equally
+
+Texas Stroke Institute, Plano,
+
+TX, USA (A J Yoo MD) ;
+
+Department of Radiology
+
+(O A Berkhemer MD,
+
+M E S Sprengers MD,
+
+R van den Berg MD,
+
+L F M Beenen MD,
+
+H A Marquering PhD,
+
+Prof C B L M Majoie MD) ,
+
+Department of Neurology
+
+(L A van den Berg MD,
+
+Prof Y B W E M Roos MD) , and
+
+Department of Biomedical
+
+Engineering and Physics
+
+(A M M Boers MSc,
+
+H A Marquering) , Academic Medical Center, Amsterdam, Netherlands; Department of Neurology (O A Berkhemer, P S S Fransen MD, D Beumer MD, Prof D W J Dippel MD) ,
+
+Department of Radiology (P S S Fransen,
+
+Prof A van der Lugt MD) , and Department of Public Health (H F Lingsma PhD) , Erasmus University Medical Center, Rotterdam, Netherlands; Department of Neurology
+
+(D Beumer,
+
+Prof R J van Oostenbrugge MD) and Department of Radiology (W H van Zwam MD) ,
+
+Cardiovascular Research
+
+Institute Maastricht,
+
+Maastricht University Medical
+
+Center, Maastricht,
+
+Netherlands; Department of
+
+Neurology, St Antonius
+
+Hospital, Nieuwegein,
+
+Netherlands
+
+(W J Schonewille MD) ; Department of Radiology (M A A van Walderveen MD) and Department of Neurology (M J H Wermer MD) , Leiden University Medical Center, Leiden, Netherlands; Department of Radiology (G J Lycklama à Nijeholt MD) and
+
+Department of Neurology
+
+www.thelancet.com/neurology Vol 15 June 2016
+
+685
+
+[DOCLING_PAGE 2]
+
+Articles
+
+(J Boiten MD) , Medical Center Haaglanden, Haaglanden, The Hague, Netherlands; Department of Radiology (S F M Jenniskens MD) , Radboud University Medical Center, Nijmegen, Netherlands; and Department of Radiology, Vanderbilt University Medical Center, Amsterdam, Netherlands (J C J Bot MD)
+
+Correspondence to: Dr Albert J Yoo, Texas Stroke Institute, 1600 Coit Rd, Suite #104, Plano, TX 75075, USA ajyoo74@gmail.com
+
+Research in context
+
+Evidence before this study
+
+We searched the Cochrane Stroke Trials Registry and MEDLINE from Jan 1, 1990, to June 10, 2015, to identify all randomised controlled trials of intra-arterial treatment versus control in acute ischaemic stroke. We used the search terms 'acute ischaemic stroke', 'intra-arterial', 'mechanical thrombectomy', 'randomised controlled trial', 'prospective', or related keywords, with no language restrictions. We found 13 randomised controlled trials that included patients with anterior circulation strokes. Overall, 2826 patients were included. Alberta Stroke Program Early CT Score (ASPECTS) on baseline non-contrast CT was used as an exclusion criterion in three studies: REVASCAT excluded patients with ASPECTS of lower than 7 and ESCAPE and SWIFT-PRIME excluded those with ASPECTS of lower than 6 (with SWIFT-PRIME using this criterion after the fi rst 71 patients were enrolled using perfusion imaging criteria). The other studies that used noncontrast CT for infarct assessment used less precise criteria for infarct extent (eg, less than one-third of the middle cerebral artery territory rule [IMS III and EXTEND-IA]) or more descriptive criteria (SYNTHESIS Expansion) for imaging-based exclusion than did the previous three studies. Notably, investigators of IMS III suggested use of ASPECTS less than or equal to 4 as a guide for identifi cation of large infarcts, but this suggestion was not mandated. Also, IMS III quantifi ed only clear hypodensity versus early ischaemic changes. Finally, MR RESCUE, SWIFT PRIME (for the fi rst 71 patients), and EXTEND-IA used advanced imaging-either MRI or CT perfusion-to exclude large infarcts and verify the presence of an imaging mismatch (ie, penumbral marker). Retrospective
+
+from a post-hoc analysis of the PROACT II trial 3 showed an interaction of baseline ASPECTS (>7 vs ≤7) with intra-arterial treatment eff ect. However, in a similar analysis of the IMS III trial, 4 no interaction was noted between ASPECTS and intra-arterial treatment eff ect, which might have been confounded by the overall neutral trial results. Additionally, data have suggested that a larger infarct threshold (ASPECTS 0-4) might better defi ne patients likely to have a poor response to intra-arterial treatment than the previous ASPECTS threshold of 7. 7
+
+The results from the Multicenter Randomized Clinical Trial of Endovascular Treatment for Acute Ischemic Stroke in the Netherlands (MR CLEAN) 8,9 provide a unique opportunity to further examine use of noncontrast CT for intra-arterial treatment selection because of its randomised controlled design, the positive overall eff ect of intra-arterial treatment in the trial, and the absence of explicit imaging exclusion criteria for infarct size. We sought to examine the eff ect of baseline ASPECTS (0-4 vs 5-7 vs 8-10) on the safety and effi cacy of intra-arterial treatment eff ect in this prespecifi ed subgroup analysis of MR CLEAN.
+
+analyses of PROACT II and IMS III assessed for an ASPECTS-by-treatment interaction, with confl icting results.
+
+Added value of this study
+
+MR CLEAN was the only randomised trial of mechanical thrombectomy that both showed a benefi t of intra-arterial treatment and did not exclude patients with large infarcts. As such, it provides the best data to examine intra-arterial treatment eff ect across the entire range of infarct sizes. In this prespecifi ed subgroup analysis, ASPECTS was graded on the qualifying baseline non-contrast CT by masked readers in a core imaging laboratory and trichotomised as small (ASPECTS 8-10), moderate (ASPECTS 5-7), or large (ASPECTS 0-4) infarction. Non-contrast CT is a standard imaging examination that is done by virtually all centres that provide intra-arterial treatment, and ASPECTS is a validated and reliable method of quantifi cation of infarct burden. Therefore, these results are generalisable to clinical practice. Contrary to fi ndings from previous studies suggesting that only patients with noncontrast CT ASPECTS of more than 7 benefi t from intra-arterial treatment, data from this study suggest that patients with ASPECTS 5-7 should be treated.
+
+Implications of all the available evidence
+
+Further research is needed to examine whether treatment of large infarcts is cost-eff ective. Findings from this study showed no safety concerns with treatment of large infarcts. Further data are needed to better understand intra-arterial treatment eff ect in patients with ASPECTS 0-4 than at present. Based on the poor outcomes of patients in this subgroup, the absolute intra-arterial treatment benefi t might be marginal.
+
+Methods
+
+Study design and patients
+
+MR CLEAN was a randomised, controlled, open-label, phase 3 trial of intra-arterial treatment and usual care versus usual care alone in patients from 16 centres in the Netherlands who were 18 years of age or older with a proximal arterial occlusion in the anterior circulation shown with vessel imaging, treated within 6 h of symptom onset. The study methods and patient eligibility criteria have been reported previously. 8,9 In this subgroup analysis, we included all patients who had ASPECTS graded.
+
+Imaging criteria for inclusion were a CT or MRI scan ruling out haemorrhage and CT, magnetic (MR), or digital subtraction angiography showing occlusion of the intracranial internal carotid artery, middle cerebral artery (M1 or M2 segments), or anterior cerebral artery (A1 or A2 segments). No imaging exclusion criteria based on ASPECTS or the extent of early ischaemic changes on non-contrast CT were used. All patients or their legal representatives provided written informed consent before randomisation. The study protocol was approved by a central medical ethics committee and the research board of each participating centre.
+
+686
+
+www.thelancet.com/neurology Vol 15 June 2016
+
+[DOCLING_PAGE 3]
+
+Articles
+
+Procedures
+
+Given that ASPECTS is a score based on a topographical map of the middle cerebral artery territory, we restricted this analysis to patients with occlusions of the intracranial internal carotid artery or the middle cerebral artery territory (ie, territory at risk involves the middle cerebral artery territory). After closure of the MR CLEAN trial database, we identifi ed additional baseline non-contrast CT scans for three patients that were closer in time to randomisation than were the original scans used in the MR CLEAN primary analysis. We assessed these scans for ASPECTS and used them for the analysis of these three patients because they better refl ect the baseline infarct size before treatment than do the original scans.
+
+We graded ASPECTS on baseline non-contrast CT images using previously described methods. 7 We scored early ischaemic changes, such as hypodensity within the basal ganglia and loss of grey-white matter distinction in the cortical regions, according to the ten ASPECTS regions of the middle cerebral artery territory. For each involved region, we subtracted one point from a total possible score of ten (ie, higher ASPECTS signifi es a smaller infarct). Each non-contrast CT scan was read by two independent readers from a panel of experts who were masked to treatment allocation and fi nal outcome. A third reader provided a fi nal adjudication in cases of discrepancies between readers in assignment of the trichotomised ASPECTS: 0-4 versus 5-7 versus 8-10.
+
+We graded collateral fl ow with baseline CT angiography using a 4 point scale, with 0 representing absent collateral fl ow (absent fi lling of the occluded territory), 1 representing poor collateral fl ow (less than 50% fi lling of the occluded territory), 2 representing intermediate collateral fl ow (between 50% and 100% fi lling of the occluded territory), and 3 representing excellent collateral fl ow (100% fi lling of the occluded territory). We assessed arterial recanalisation status with follow-up CT angiography 24 h after symptom onset. We assessed follow-up infarct volume on non-contrast CT 5-7 days after symptom onset. 10
+
+Outcomes
+
+The primary outcome of MR CLEAN was the score on the modifi ed Rankin Scale (mRS) at 90 days. The mRS is a 7 point scale: 0 indicates no symptoms, 1 indicates no clinically signifi cant disability, 2 indicates slight disability (able to look after own aff airs without assistance, but unable to carry out all previous activities), 3 indicates moderate disability (requires some help, but able to walk unassisted), 4 indicates moderately severe disability (unable to attend to bodily needs without assistance and unable to walk unassisted), 5 indicates severe disability (requires constant nursing care and attention), and 6 indicates that the patient is dead. A score of 2 points or fewer indicates functional independence. 11
+
+Secondary outcomes were 90 day functional independence (mRS score of 0-2), neurological assessment with the National Institutes of Health Stroke Score (NIHSS) at 24 h and at 5-7 days or at discharge if patients were discharged before 5-7 days, activities of daily living
+
+Figure 1: Trial profi le
+
+233 intra-arterial treatment and usual care
+
+1 excluded
+
+1 anterior cerebral artery stroke
+
+232 intra-arterial treatment and usual care
+
+17 treatment withheld
+
+8 clinical improvement before start of intervention
+
+6 protocol violations by local investigators
+
+1 no femoral access
+
+1 withdrew consent for intra-arterial treatment
+
+1 haemodynamically unstable
+
+215 intra-arterial treatment and usual care
+
+232 included in subgroup analysis
+
+267 usual care alone
+
+3 excluded
+
+2 anterior cerebral artery stroke
+
+1 missing NCCT
+
+264 usual care alone
+
+1 excluded (requested intra-arterial treatment and
+
+usual care)
+
+263 usual care alone
+
+264 included in subgroup analysis
+
+500 patients randomised
+
+NCCT=non-contrast CT.
+
+www.thelancet.com/neurology Vol 15 June 2016
+
+687
+
+[DOCLING_PAGE 4]
+
+Articles
+
+See Online for appendix
+
+measured with the Barthel index, and health-related quality of life measured with the EuroQol Group 5-Dimension Self-Report Questionnaire at 90 days.
+
+Radiological outcomes were arterial recanalisation measured with CT angiography or MR angiography at 24 h, modifi ed Thrombolysis in Cerebral Infarction (mTICI) score with digital subtraction angiography, and fi nal infarct volume with non-contrast CT at 5-7 days. The mTICI score is a 5 point scale, which ranges from 0 (no reperfusion) to 3 (complete antegrade reperfusion of the previously ischaemic territory, with absence of visualised occlusion in all distal branches). 12
+
+Prespecifi ed safety outcomes were haemorrhagic complications, progression of ischaemic stroke, recurrent ischaemic stroke, and death. Symptomatic intracranial haemorrhage was defi ned as neurological deterioration of 4 or more points on the NIHSS and confi rmed with neuroimaging. Procedure-related safety variables were vessel perforations and dissections and new embolus outside of the target downstream territory. 12
+
+Statistical analysis
+
+For the relation between baseline ASPECTS and functional outcome, we used multivariable ordinal logistic regression analysis (a proportional odds model) to calculate the adjusted common odds ratio (acOR) for a shift in direction towards a better functional outcome on the mRS for intra-arterial treatment and usual care than for usual care alone. The common odds ratio (OR) is thus a proportional OR. For the relation between baseline ASPECTS and intra-arterial treatment eff ect, we entered an interaction term into the model to test for interaction between treatment and the prespecifi ed baseline ASPECTS subgroups: 0-4 versus 5-7 versus 8-10 (as a categorical variable). 7 Furthermore, we tested for interaction between treatment allocation and baseline numerical ASPECTS (as a continuous variable) for optimal statistical power. We adjusted the acOR and all secondary eff ect parameters for potential imbalances in major prespecifi ed prognostic variables adapted from the original MR CLEAN trial protocol statistical analysis plan: age, stroke severity (NIHSS) at baseline, time since onset to randomisation, previous stroke, atrial fi brillation, diabetes, and internal carotid artery terminus occlusion. We analysed the independent eff ect of baseline ASPECTS on functional outcome and mortality with multivariable ordinal logistic regression analysis adjusted for the same prespecifi ed variables and treatment allocation.
+
+[DOCLING_TABLE rows=20 columns=5]
+|  | ASPECTS 0-4 (n=30) | ASPECTS 5-7 (n=93) | ASPECTS 8-10 (n=373) | p value |
+| Age (years) | 62 (52-69) | 61 (52-71) | 67 (57-77) | 0·001 |
+| Male sex | 20 (67%) | 61 (66%) | 209 (56%) | 0·069 |
+| NIHSS | 21 (17-22) | 19 (17-22) | 17 (13-21) | 0·0001 |
+| Clinical localisation: left hemisphere | 17 (57%) | 58 (62%) | 190 (51%) | 0·110 |
+| Atrial fi brillation | 5 (17%) | 21 (23%) | 109 (29%) | 0·063 |
+| History |  |  |  |  |
+| Ischaemic stroke | 1 (3%) | 13 (14%) | 40 (11%) | 0·680 |
+| Hypertension | 15 (50%) | 36 (39%) | 174 (47%) | 0·600 |
+| Diabetes | 4 (13%) | 9 (10%) | 54 (14%) | 0·405 |
+| Myocardial infarction | 6 (20%) | 13 (14%) | 56 (15%) | 0·686 |
+| Peripheral artery disease | 1 (3%) | 6 (6%) | 17 (5%) | 0·829 |
+| Hyperlipidaemia | 11 (37%) | 22 (24%) | 95 (25%) | 0·423 |
+| Smoking | 11 (37%) | 26 (28%) | 105 (28%) | 0·471 |
+| Current |  |  |  |  |
+| Statin use | 10 (33%) | 23 (25%) | 109 (29%) | 0·890 |
+| Anticoagulant use | 0 (0%) | 9 (10%) | 30 (8%) | 0·382 |
+| Antiplatelet use | 9 (30%) | 24 (26%) | 111 (30%) | 0·680 |
+| Systolic blood pressure (mm Hg) | 141·5 (19) | 145·9 (26) | 145·6 (26) | 0·546 |
+|  |  |  | (Table 1 continues on next page) | (Table 1 continues on next page) |
+[/DOCLING_TABLE]
+
+We report acORs and unadjusted common ORs with 95% CIs. We analysed binary outcomes with logistic regression and reported them as adjusted and unadjusted ORs with 95% CIs. We analysed continuous outcomes with linear regression and reported adjusted and unadjusted β with 95% CIs. We measured inter-observer agreement for trichotomised ASPECTS scoring using the weighted κ statistic with quadratic weighting. We assessed agreement for baseline ASPECTS using the concordance correlation coeffi cient. We calculated means and SDs of diff erences in ASPECTS scores. Interpretation of these statistics followed the proposed standards of Landis and Koch. 13 All p values are two sided, with signifi cance at less than 0·05. We did statistical analyses with Stata (version 13.1).
+
+MR CLEAN is registered with the Netherlands Trial Registry, number NTR1804, and the ISRCTN Registry, number ISRCTN10888758.
+
+Role of the funding source
+
+The funders of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report. The corresponding author had full access to all the data in the study and had fi nal responsibility for the decision to submit for publication.
+
+Results
+
+Figure 1 shows the trial profi le. Treatments in the intra-arterial treatment group were mechanical thrombectomy (195 [84%] of 233 patients, of which 190 [97%] had stent retrievers and 24 [12%] received an additional intra-arterial thrombolytic agent), an intraarterial thrombolytic agent alone (one [<1%]), and no intervention (37 [16%]). 496 patients-232 (47%) in the intra-arterial treatment and usual care group and 264 (53%) in the usual care alone group-were included in the prespecifi ed subgroup analysis of MR CLEAN. ASPECTS was not graded in four (1%) of 500 patients in the MR CLEAN trial (one [<1%] in the intra-arterial treatment and usual care group [anterior cerebral artery stroke] and three [1%] in the usual care alone group [two (1%) had an anterior cerebral artery stroke and one (<1%) had missing non-contrast CT]) and these patients were excluded from the subgroup analysis. The baseline characteristics of the patients are summarised in table 1 and the appendix. 30 (6%) of 496 patients had ASPECTS 0-4 (11 [37%] in the intra-arterial treatment and usual care group vs 19 [63%] in the usual care alone group), 93 (19%) had ASPECTS 5-7 (54 [58%] vs 39 [42%]), and 373 (75%) had ASPECTS 8-10 (167 [45%] vs 206 [55%]). Patients with lower ASPECTS had higher median NIHSS, worse CT angiography collateral grades (combined grades 0-1 16 [55%] of 29 patients with ASPECTS 0-4, 34 [37%] of 91 with ASPECTS 5-7, and 110 [30%] of 371 with ASPECTS 8-10), higher rates of transfer from an outside hospital, longer median times from stroke onset to non-contrast CT imaging, and a higher incidence of internal carotid artery terminus occlusions (table 1).
+
+688
+
+www.thelancet.com/neurology Vol 15 June 2016
+
+[DOCLING_PAGE 5]
+
+Articles
+
+We noted no diff erences in the proportion of patients who were treated with intravenous alteplase or the time to intravenous alteplase treatment between groups (table 1). However, for patients with lower ASPECTS, we noted signifi cantly faster times from qualifying non-contrast CT imaging to intra-arterial treatment and to angiographic reperfusion or fi nal angiogram. Nevertheless, overall times from stroke onset to intra-arterial treatment and to reperfusion or fi nal angiogram were longer with lower ASPECTS (table 1). Successful intra-arterial revascularisation (fi nal mTICI 2B-3) was achieved in four (40%) of ten patients with ASPECTS 0-4, 29 (59%) of 49 patients with ASPECTS 5-7, and 81 (60%) of 136 patients with ASPECTS 8-10 (p=0·48).
+
+We noted no signifi cant treatment-by-trichotomised ASPECTS interaction for the primary endpoint of ordinal mRS (acOR interaction term relative to ASPECTS 8-10: ASPECTS 0-4: 0·79 [95% CI 0·20-3·19], p=0·740; ASPECTS 5-7: 1·02 [0·44-2·35], p=0∙966; table 2 and appendix). We also noted no interaction between ASPECTS and intra-arterial treatment eff ect when we analysed by numerical ASPECTS (adjusted p for interaction=0·51 [data not shown]). acORs for improvement in 90 day mRS with intra-arterial treatment were 1·3 (95% CI 0·2-9·3) for ASPECTS 0-4, 1·9 (0·9-4·1) for ASPECTS 5-7, and 1·6 (1·1-2·3) for ASPECTS 8-10; fi gure 2A). With the exception of the 24 h NIHSS, we noted no signifi cant treatment-by-trichotomised ASPECTS interaction for any of the other secondary endpoints (table 2 and appendix). In the adjusted analysis, 24 h NIHSS score was greater in the intra-arterial treatment and usual care group than in the usual care alone group for ASPECTS 0-4, whereas it was lower in the intra-arterial treatment group for ASPECTS 8-10 (table 2). We noted no signifi cant interaction for NIHSS score at 5-7 days (table 2).
+
+The distribution of 90 day mRS scores is provided by both treatment allocation and ASPECTS subgroup in Data are median (IQR), number (%), mean (SD), or median (IQR); number of patients with available data. ASPECTS=Alberta Stroke Program Early CT Score. NIHSS=National Institutes of Health Stroke Score. NCCT=non-contrast CT. *One patient with ASPECTS 0-4 did not have pretreatment vessel imaging.
+
+[DOCLING_TABLE rows=28 columns=5]
+|  | ASPECTS 0-4 (n=30) | ASPECTS 5-7 (n=93) | ASPECTS 8-10 (n=373) | p value |
+| (Continued from previous page) |  |  |  |  |
+| Prestroke modifi ed Rankin Scale score |  |  |  | 0·62 |
+| 0 | 28 (93%) | 79 (85%) | 294 (79%) |  |
+| 1 | 1 (3%) | 10 (11%) | 39 (10%) |  |
+| ≥2 | 1 (3%) | 4 (4%) | 40 (11%) |  |
+| Level of occlusion* |  |  |  | 0·10 |
+| Internal carotid artery | 0 (0%) | 0 (0%) | 4 (1%) |  |
+| Internal carotid artery, terminus | 12 (40%) | 35 (38%) | 87 (23%) |  |
+| M1 | 17 (57%) | 55 (59%) | 246 (66%) |  |
+| M2 | 0 (0%) | 3 (3%) | 36 (10%) |  |
+| Collateral grade |  |  |  | 0·02 |
+| 0 | 3 (10%) | 8 (9%) | 15 (4%) |  |
+| 1 | 13 (45%) | 26 (29%) | 95 (26%) |  |
+| 2 | 11 (38%) | 38 (42%) | 149 (40%) |  |
+| 3 | 2 (7%) | 19 (21%) | 112 (30%) |  |
+| Transferred from outside hospital | 26 (87%) | 65 (70%) | 127 (34%) | 0·0001 |
+| Treatment with intravenous alteplase | 26 (87%) | 83 (89%) | 333 (89%) | 0·739 |
+| Onset to |  |  |  |  |
+| Intravenous alteplase (min) | 90 (60-135) | 83 (65-120) | 85 (66-110) | 0·988 |
+| Randomisation (min) | 269 (219-308) | 234 (192-276) | 188 (145-246) | <0·0001 |
+| Intra-arterial treatment (min) | 360 (240-381); 11 | 286 (240-315); 51 | 243 (205-300); 153 | <0·0001 |
+| Reperfusion or last angiogram (min) | 434 (378-467); 10 | 354 (303-404); 50 | 319 (260-389); 140 | 0·0006 |
+| Qualifying NCCT (min) | 241 (177-291); 30 | 178 (99-229); 93 | 93 (64-172); 373 | 0·0001 |
+| Qualifying NCCT to |  |  |  |  |
+| Randomisation (min) | 26 (21-35); 30 | 39 (24-73); 93 | 64 (37-100); 371 | 0·0001 |
+| Intra-arterial treatment (min) | 62 (55-83); 12 | 96 (64-141); 51 | 121 (77-164); 153 | 0·0001 |
+| Reperfusion or last angiogram (min) | 149 (121-167); 11 | 171 (132-215); 50 | 182 (150-251); 140 | 0·004 |
+[/DOCLING_TABLE]
+
+Table 1: Baseline characteristics
+
+fi gure 2B. Intra-arterial treatment and usual care increased the proportion of patients with mRS 0-2 scores by 9% (95% CI not applicable) for ASPECTS 0-4, 19% (2-35) for ASPECTS 5-7, and 12% (3-21) for ASPECTS 8-10, compared with usual care alone. Similarly, intraarterial treatment resulted in an increase in mRS 0-3 scores of 2% (-26 to 30) for ASPECTS 0-4, 18% (-2 to 38) for ASPECTS 5-7, and 15% (5-25) for ASPECTS 8-10. For intra-arterial treatment and usual care compared with usual care alone, we noted a reduction at 90 days in mortality of 6% (-30 to 42) for ASPECTS 0-4 (four [36%] of 11 vs eight [42%] of 19), 2% (-16 to 19) for ASPECTS 5-7 (13 [24%] of 54 vs ten [26%] of 39), and 0% (-8 to 8) for ASPECTS 8-10 (32 [19%] of 167 vs 40 [19%] of 206).
+
+www.thelancet.com/neurology Vol 15 June 2016
+
+689
+
+[DOCLING_PAGE 6]
+
+Articles
+
+[DOCLING_TABLE rows=14 columns=12]
+|  | Eff ect parameter | ASPECTS 0-4 unadjusted eff ect (95% CI) | ASPECTS 0-4 adjusted eff ect (95% CI) | ASPECTS 5-7 unadjusted eff ect (95% CI) | ASPECTS 5-7 adjusted eff ect (95% CI) | ASPECTS 8-10 unadjusted eff ect (95% CI) | ASPECTS 8-10 adjusted eff ect (95% CI) | Unadjusted p value for interaction 0-4 vs 8-10 | Unadjusted p value for interaction 5-7 vs 8-10 | Adjusted p value for interaction 0-4 vs 8-10 | Adjusted p value for interaction 5-7 vs 8-10 |
+| Primary outcome | Primary outcome | Primary outcome | Primary outcome | Primary outcome | Primary outcome | Primary outcome | Primary outcome | Primary outcome | Primary outcome | Primary outcome | Primary outcome |
+| mRS at 90 days | cOR* | 1·3 (0·3 to 5·2) | 1·3 (0·2 to 9·3) | 1·7 (0·8 to 3·5) | 1·9 (0·9 to 4·1) | 1·7 (1·2 to 2·4) | 1·6 (1·1 to 2·3) | 0·694 | 0·916 | 0·740 | 0·966 |
+| Secondary clinical outcomes | Secondary clinical outcomes | Secondary clinical outcomes | Secondary clinical outcomes | Secondary clinical outcomes | Secondary clinical outcomes | Secondary clinical outcomes | Secondary clinical outcomes | Secondary clinical outcomes | Secondary clinical outcomes | Secondary clinical outcomes | Secondary clinical outcomes |
+| mRS 0-1 | OR† | ‡ | ‡ | 0·7 (0·1 to 3·7) | 0·6 (0·1 to 4·1) | 2·5 (1·2 to 5·1) | 2·4 (1·1 to 4·9) | ‡ | 0·170 | ‡ | 0·153 |
+| mRS 0-2 | OR† | ‡ | ‡ | 3·1 (1 to 9·4) | 3 (0·9 to 9·6) | 1·9 (1·2 to 2·9) | 1·8 (1·1 to 3) | ‡ | 0·391 | ‡ | 0·358 |
+| mRS 0-3 | OR† | 1·2 (0·2 to 8·5) | 1·2 (0 to 44) | 2·1 (0·9 to 4·8) | 2·3 (0·9 to 5·8) | 1·9 (1·2 to 2·8) | 1·9 (1·2 to 3·1) | 0·660 | 0·823 | 0·825 | 0·757 |
+| NIHSS after 24 h | β§ | 6·4 (0·6 to 12·3) | 5·2 (-2·6 to 13·1) | -5·1 (-8·2 to -2) | -4·7 (-7·5 to -1·9) | -2·6 (-4·3 to -0·9) | -2 (-3·4 to -0·6) | 0·005 | 0·207 | 0·003 | 0·142 |
+| NIHSS at 5-7 days or discharge | β§ | 0·8 (-7·5 to 9) | -2·1 (-15 to 10·9) | -5·2 (-9 to -1·3) | -4·6 (-8·4 to -0·8) | -3·1 (-4·9 to -1·4) | -2·4 (-4 to -0·9) | 0·311 | 0·340 | 0·529 | 0·166 |
+| Secondary radiological outcomes | Secondary radiological outcomes | Secondary radiological outcomes | Secondary radiological outcomes | Secondary radiological outcomes | Secondary radiological outcomes | Secondary radiological outcomes | Secondary radiological outcomes | Secondary radiological outcomes | Secondary radiological outcomes | Secondary radiological outcomes | Secondary radiological outcomes |
+| CTA follow-up available |  | 21/30 | 21/30 | 67/93 | 67/93 | 302/373 | 302/373 |  |  |  |  |
+| No intra-cranial occlusion on follow- up CTA | OR† | 4·9 (0·7 to 35) | ‡ | 6·1 (2·1 to 18·1) | 7·4 (2·2 to 25·3) | 6·6 (3·9 to 10·9) | 7 (4·1 to 12) | 0·776 | 0·912 | 0·967 | 0·712 |
+| NCCT follow-up evaluable for fi nal infarct volume |  | 11/30 | 11/30 | 48/93 | 48/93 | 245/373 | 245/373 |  |  |  |  |
+| Final infarct volume determinable on NCCT follow-up (mL) | β§ | -29·0 (-127·6 to 69·7) | 1·0 (-166·0 to 167·9) | -37·4 (-83·7 to 9) | -41·4 (-87·4 to 4·5) | -16·3 (-34 to 1·3) | -12·3 (-29·6 to 5) | 0·820 | 0·368 | 0·562 | 0·153 |
+[/DOCLING_TABLE]
+
+Data are n/N, unless otherwise indicated. ASPECTS=Alberta Stroke Program Early CT Score. mRS=modifi ed Rankin Scale. cOR=common odds ratio. OR=odds ratio. NIHSS=National Institutes of Health Stroke Score. CTA=CT angiography. NCCT=non-contrast CT. *Odds of improved functional outcome (ie, shift to lower mRS) with intra-arterial treatment. †Odds of achievement of endpoint with intra-arterial treatment. ‡Not enough data available to calculate statistical parameter. §Mean diff erence in variable (intra-arterial treatment and usual care value minus usual care alone value).
+
+Table 2: Intra-arterial treatment eff ect by ASPECTS subgroup
+
+Figure 2: Treatment eff ect for improvement at 90 day mRS for the entire population and trichotomised ASPECTS subgroups (A) and by treatment group per ASPECTS subgroup (B) The numbers and percentages of patients in the ASPECTS subgroups on part B are shown according to the distribution of the mRS. ASPECTS=Alberta Stroke Program Early CT Score. mRS=modifi ed Rankin Scale.
+
+Overall
+
+ASPECTS
+
+0-4
+
+5-7
+
+8-10
+
+500
+
+30
+
+93
+
+373
+
+0·51 (0·19 to 0·83)
+
+0·23 (-1·77 to 2·23)
+
+0·63 (-0·16 to 1·41)
+
+0·48 (0·11 to 0·85)
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+Log common odds ratio
+
+n
+
+Log common odds
+
+ratio (95% CI)
+
+Favours
+
+usual care
+
+alone
+
+Favours
+
+intra-arterial
+
+treatment and
+
+usual care
+
+Intra-arterial
+
+treatment and
+
+usual care (n=11)
+
+Usual care
+
+alone (n=19)
+
+B
+
+Intra-arterial
+
+treatment and
+
+usual care (n=54)
+
+Usual care
+
+alone (n=39)
+
+Intra-arterial
+
+treatment and
+
+usual care (n=167)
+
+Usual care
+
+alone (n=206)
+
+4 (36%)
+
+ASPECTS 0-4
+
+ASPECTS 5-7
+
+ASPECTS 8-10
+
+1 (9%)
+
+4 (36%)
+
+1 (9%)
+
+1 (9%)
+
+8 (42%)
+
+2 (11%)
+
+6 (32%)
+
+3 (16%)
+
+13 (24%)
+
+10 (19%)
+
+12 (22%)
+
+14 (26%)
+
+2 (4%)
+
+3 (6%)
+
+10 (26%)
+
+13 (33%)
+
+9 (23%)
+
+2 (5%)
+
+2 (5%)
+
+3 (8%)
+
+32 (19%)
+
+38 (23%)
+
+30 (18%)
+
+33 (20%)
+
+10 (6%)
+
+18 (11%)
+
+6 (4%)
+
+40 (19%)
+
+62 (30%)
+
+31 (15%)
+
+32 (16%)
+
+28 (14%)
+
+12 (6%)
+
+1 (<1%)
+
+20
+
+40
+
+100
+
+60
+
+80
+
+0
+
+Patients with mRS score (%)
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+mRS score
+
+A
+
+690
+
+www.thelancet.com/neurology Vol 15 June 2016
+
+[DOCLING_PAGE 7]
+
+Articles
+
+The overall (combined intra-arterial treatment and usual care and usual care alone) number of patients with a 90 day mRS score of 0-2 was one (3%) of 30 in ASPECTS 0-4, 20 (22%) of 93 in ASPECTS 5-7, and 102 (27%) of 373 in ASPECTS 8-10. Similarly, the number of patients with a 90 day mRS score of 0-3 was fi ve (17%) of 30 for ASPECTS 0-4, 41 (44%) of 93 for ASPECTS 5-7, and 163 (44%) of 373 for ASPECTS 8-10. For both mRS scores of 0-2 and 0-3, only the ASPECTS 0-4 subgroup was signifi cantly diff erent from the other subgroups in pairwise comparisons (mRS 0-2: ASPECTS 0-4 vs 5-7 p=0·02, ASPECTS 0-4 vs 8-10 p=0·004; mRS 0-3: ASPECTS 0-4 vs 5-7 p=0·009, ASPECTS 0-4 vs 8-10 p=0·004). In a multivariable analysis including adjustment for treatment allocation, higher baseline trichotomised ASPECTS was associated with better 90 day ordinal mRS score (relative to ASPECTS 8-10: ASPECTS 0-4 acOR: 0·38 [95% CI 0·16-0·89]; ASPECTS 5-7: 0·90 [0·48-1·67]). Trichotomised ASPECTS was also an independent predictor of 90 day mortality (relative to ASPECTS 8-10: ASPECTS 0-4: 5·84 [1·87-18·22]; ASPECTS 5-7: 1·92 [0·77-4·84]), with 12 (40%) deaths in ASPECTS 0-4, 23 (25%) in ASPECTS 5-7, and 72 (19%) in ASPECTS 8-10 subgroups. Median fi nal infarct volumes were 143 mL (IQR 138-207) in ASPECTS 0-4, 79 mL (41-143) in ASPECTS 5-7, and 56 mL (24-107) in ASPECTS 8-10 subgroups (p=0·001).
+
+Overall , more patients in the lower ASPECTS subgroups died within 7 days and within 30 days, had hemicraniectomy, and had at least one serious adverse event (table 3). Among the serious adverse events, we noted more cases of ischaemic stroke progression in patients with worse ASPECTS. We noted no signifi cant diff erences in symptomatic intracerebral haemorrhage between ASPECTS subgroups.
+
+For death within 7 days or within 30 days and hemicraniectomy, the diff erences between the intraarterial treatment and usual care versus usual care alone groups were not signifi cant for any of the ASPECTS subgroups (appendix). Intra-arterial treatment did not result in a signifi cant increase in patients with at least one serious adverse event in any of the ASPECTS subgroups (ASPECTS 0-4: eight [73%] of 11 patients in treatment and usual care group vs 11 [58%] of 19 for usual care alone group, p=0·42; ASPECTS 5-7: 32 [59%] of 54 vs 19 [49%] of 39, p=0·31; ASPECTS 8-10: 70 [42%] of 167 vs 82 [40%] of 206; p=0·68; appendix). A signifi cantly higher proportion of patients had recurrent ischaemic stroke in the intra-arterial treatment plus usual care group than in the usual care alone group in the ASPECTS 8-10 subgroup (eight [5%] patients vs one [<1%] patient; p=0·007; appendix).
+
+The observed agreement for trichotomised ASPECTS was 384 (78%) of 494, yielding a weighted κ of 0·56 (SE 0·04). The concordance correlation coeffi cient for numerical ASPECTS was 0·62 (95% CI 0·57-0·67). The mean diff erence in scores was 0·0 (SD 1·7).
+
+[DOCLING_TABLE rows=22 columns=5]
+|  | ASPECTS 0-4 (n=30) | ASPECTS 5-7 (n=93) | ASPECTS 8-10 (n=373) | p value |
+| Safety outcomes |  |  |  |  |
+| Death within 7 days | 10 (33%) | 18 (19%) | 31 (8%) | <0·0001 |
+| Death within 30 days | 10 (33%) | 22 (24%) | 60 (16%) | 0·007 |
+| Hemicraniectomy | 5 (17%) | 6 (6%) | 16 (4%) | 0·009 |
+| Serious adverse events |  |  |  |  |
+| Patients with at least one serious adverse event | 19 (63%) | 51 (55%) | 152 (41%) | 0·001 |
+| Symptomatic intracerebral haemorrhage | 2 (7%) | 8 (9%) | 25 (7%) | 0·715 |
+| Parenchymal haematoma type 1 | 0 | 0 | 2 (1%) | 0·051 |
+| Parenchymal haematoma type 2 | 1 (3%) | 7 (7%) | 20 (5%) | 0·748 |
+| Haemorrhagic infarction type 1 | 0 | 0 | 1 (<1%) | 0·593 |
+| Haemorrhagic infarction type 2 | 0 | 1 (1%) | 1 (<1%) | 0·639 |
+| Subarachnoid haemorrhage | 1 (3%) | 0 | 1 (<1%) | 0·090 |
+| Recurrent ischaemic stroke | 2 (7%) | 3 (3%) | 9 (2%) | 0·209 |
+| Progression of ischaemic stroke | 12 (40%) | 24 (26%) | 57 (15%) | 0·0001 |
+| Pneumonia | 1 (3%) | 13 (14%) | 56 (15%) | 0·141 |
+| Other infection | 1 (3%) | 3 (3%) | 22 (6%) | 0·293 |
+| Cardiac ischaemia | 0 | 0 | 5 (1%) | 0·231 |
+| Extracranial haemorrhage | 0 | 1 (1%) | 1 (<1%) | 0·639 |
+| Allergic reaction | 0 | 1 (1%) | 0 | 0·231 |
+| Other complication | 4 (13%) | 19 (20%) | 42 (11%) | 0·110 |
+| Data are number (%). ASPECTS=Alberta Stroke Program Early CT Score. | Data are number (%). ASPECTS=Alberta Stroke Program Early CT Score. | Data are number (%). ASPECTS=Alberta Stroke Program Early CT Score. | Data are number (%). ASPECTS=Alberta Stroke Program Early CT Score. | Data are number (%). ASPECTS=Alberta Stroke Program Early CT Score. |
+[/DOCLING_TABLE]
+
+Discussion
+
+This prespecifi ed subgroup analysis of MR CLEAN does not support exclusion of patients from intra-arterial treatment on the basis of infarct volume assessed with use of ASPECTS on baseline non-contrast CT. Specifi cally, we found no signifi cant modifi cation of intra-arterial treatment eff ect by trichotomised ASPECTS. Additionally, we did not fi nd an interaction for the primary endpoint when we analysed by numerical ASPECTS. Moreover, baseline infarct volumes did not aff ect the safety of intraarterial treatment.
+
+The PROACT II investigators found evidence of an ASPECTS-by-treatment interaction using dichotomised ASPECTS (>7 vs ≤7). 3 A fi ve-times higher proportion of patients with small infarcts (ASPECTS >7) had good functional outcome with intra-arterial treatment than did controls, whereas patients with large infarcts (ASPECTS ≤7) had no treatment benefi t. Data from IMS III 4 did not substantiate these fi ndings, although the reason that these results might not have agreed could have been related to the overall neutral results of the trial as well as the early timing of the non-contrast CT scans, which could have impaired the reliability of infarct assessment. 14
+
+Unlike the PROACT II analysis, 3 our fi ndings suggest that patients with baseline ASPECTS 5-7 (ie, moderatesized infarcts) have a treatment benefi t. In addition to the principal fi nding that no signifi cant modifi cation of intraarterial treatment eff ect exists between ASPECTS 5-7 and
+
+www.thelancet.com/neurology Vol 15 June 2016
+
+691
+
+[DOCLING_PAGE 8]
+
+Articles
+
+8-10, we also noted a signifi cant benefi t of intra-arterial therapy in the ASPECTS 5-7 subgroup for a 90 day mRS score of 0-2 in the unadjusted analysis. Although these results are encouraging, they should be substantiated in a future study. In terms of overall prognosis, slightly fewer patients with ASPECTS 5-7 had good functional outcome than in the ASPECTS 8-10 group and an equivalent number had moderate functional outcome, consistent with an analysis of the pooled PICS and Pivotal dataset 7 and further highlighting their similar clinical behaviour. These fi ndings have immediate relevance to clinical practice, because up to 40% of centres that use ASPECTS grading have a threshold of 7 (or higher) for treatment exclusion. 6 Notably, many of these patients were excluded in randomised intra-arterial treatment trials. The REVASCAT 15 trial excluded patients with non-contrast CT ASPECTS of lower than 7, whereas ESCAPE 16 and SWIFT PRIME 17 excluded patients with ASPECTS less than 6.
+
+On the basis of previous work, we anticipated that patients with ASPECTS 0-4 would have a markedly reduced benefi t of intra-arterial treatment. 7 Ample evidence in patients who had a stroke and anterior circulation proximal occlusions supports the idea that large fi nal infarct volumes are determinants of long-term dependence or death. 18,19 Because the direct goal of early reperfusion therapy is to prevent infarct growth and thus limit fi nal infarct size, patients who present with extensive infarcts at baseline would seem to be unlikely to benefi t from reperfusion and might even be harmed. 7,20,21 Nevertheless, the absence of a signifi cant treatment-byASPECTS interaction in this study prohibits the recommendation to exclude patients with ASPECTS 0-4 from intra-arterial treatment. Conversely, one should be wary of acceptance of a potentially false-negative result (ie, falsely accepting that a homogeneous treatment benefi t exists across the ASPECTS subgroups when in fact a heterogeneous response exists). In light of the strong a-priori justifi cation for a reduced treatment eff ect among large infarcts and the small number of patients with ASPECTS 0-4 in MR CLEAN, our analysis is very likely to be underpowered to adequately test treatment modifi cation in this group. This problem prevails in subgroup analyses, given that trials are powered on the basis of overall treatment eff ect rather than interaction eff ects. 22,23 Moreover, the false-negative risk is particularly high when more than two subgroups exist and unequal subgroup sizes exist, as in this case. 23 Indeed, in the ASPECTS 0-4 subgroup, the 9% absolute diff erence in good outcome in favour of intra-arterial treatment represented a diff erence of only one patient. Furthermore, for moderate outcome, the absolute benefi t of intraarterial treatment was only 2% and represented a diff erence of only one patient between groups. Further data are needed to precisely estimate the intra-arterial treatment eff ect among patients with ASPECTS 0-4.
+
+The diff erence between relative and absolute benefi t is another crucial issue with regard to the ASPECTS 0-4
+
+subgroup. Absolute benefi t is a more clinically relevant measure of treatment eff ect than relative benefi t because it establishes the number needed to treat. 22 Even if a relative treatment benefi t was shown for patients with ASPECTS 0-4, the absolute benefi t would be very likely to be marginal given the overall poor prognosis of these patients despite treatment. Trichotomised ASPECTS was an independent predictor of functional outcome and mortality in MR CLEAN, owing primarily to the dismal outcomes in the ASPECTS 0-4 group. Overall, fewer than 5% of patients with ASPECTS 0-4 achieved independence, and 40% were dead by 3 months, which was a consequence of the large fi nal infarct volumes in this population. This fi nding was mirrored in the pooled PICS and Pivotal dataset, 7 for which the proportion of independence was 5% and mortality was 55% of 40 patients with ASPECTS 0-4 who had thrombectomy. Similarly, the IMS III investigators found that baseline ASPECTS was a strong prognostic variable, with patients with ASPECTS 0-4 faring the worst. 4 However, they found a good functional outcome proportion of 21% of 92 patients with ASPECTS 0-4, which was much higher than they expected. Further data are needed to understand this heterogeneity, but infarct measurement in IMS III could possibly have been impaired by the early imaging timepoints and substantial variability in imaging quality that was noted by the investigators. If the good functional outcome proportion is confi rmed to be very low, the absolute treatment benefi t would necessarily have to be small, further raising the question of whether intra-arterial treatment is costeff ective in this population. Finally, no benefi t of intraarterial treatment in PROACT II in the ASPECTS subgroup of less than or equal to 7 might be related to a high proportion of patients with ASPECTS 0-4 in that study.
+
+As expected, baseline ASPECTS was associated with several markers of stroke severity, including NIHSS, collateral strength, and the presence of terminus occlusion in the internal carotid artery. However, the only modifi able risk factor was longer time from stroke onset to noncontrast CT. Patients with ASPECTS 0-4 had much longer times from stroke onset to non-contrast CT imaging than did the other two groups, providing direct evidence that the deleterious eff ect of delayed treatment is mediated through infarct expansion. This delay is probably due, in part, to interfacility transfer time, as patients with lower ASPECTS had a signifi cantly higher proportion of transfers from an outside hospital. Patient transfer from primary to comprehensive stroke centres for consideration of intra-arterial treatment might take as long as a median of 90-100 min, and during this time patients might move outside of the treatment window or sustain greater infarct burden than those who present directly to a comprehensive stroke centre. 24,25 These fi ndings underscore the importance of identifi cation of the most appropriate triage mechanisms for patients with stroke. In many circumstances, those patients deemed likely to have a proximal artery occlusion would be best served by bypassing the primary stroke centre and going directly to the nearest comprehensive stroke centre for possible intra-arterial treatment.
+
+692
+
+www.thelancet.com/neurology Vol 15 June 2016
+
+[DOCLING_PAGE 9]
+
+Articles
+
+An important consideration for adoption of ASPECTS scoring for intra-arterial treatment selection in clinical practice is the issue of inter-observer agreement. Similar to a previous study 26 of patients with large-vessel occlusion who had intra-arterial therapy, we found substantial inter-observer agreement along the entire ASPECTS scale. Agreement for trichotomised categories was moderate. These results are encouraging, but probably overestimate the reliability of ASPECTS in the real-world setting, given that the reads in MR CLEAN were done by highly experienced neuro radiologists without the time pressures encountered in the acute setting. Further work is necessary to improve interobserver agreement in clinical practice, and adoption of standards for training and certifi cation should be the ultimate goal.
+
+The main limitation of this analysis is the small number of patients in the ASPECTS 0-4 category, which probably resulted in an underpowered test for interaction between ASPECTS and treatment allocation. However, because MR CLEAN was the only intra-arterial treatment trial that did not have an explicit imaging exclusion criterion based on the extent of parenchymal ischaemic changes, our study population was the largest with ASPECTS 0-4 among the recent randomised trials of intra-arterial therapy. Despite this limitation, we had suffi cient numbers to show that trichotomised ASPECTS was an independent predictor of functional outcome and mortality.
+
+This prespecifi ed subgroup analysis of MR CLEAN suggests that patients with baseline ASPECTS 5-7 should not be excluded from intra-arterial treatment, as investigators of other studies have proposed. Further data are needed to better estimate intra-arterial treatment eff ect in patients with ASPECTS 0-4. Our fi ndings show a high probability of poor outcome in this group regardless of treatment, which might constrain the potential absolute treatment benefi t and limit the costeff ectiveness of intra-arterial treatment in these patients.
+
+Contributors
+
+AJY, OAB, YBWEMR, RJvO, DWJD, AvdL, WHvZ, and CBLMM designed the study. AJY and OAB drafted the fi rst version of the manuscript and collected data. PSSF, LAvdB, DB, HFL, WJS, MESS, RvdB, MAAvW, LFMB, MJHW, GJLàN, JB, SFMJ, JCJB, AMMB, HAM, YBWEMR, RJvO, DWJD, AvdL, WHvZ, and CBLMM collected data and made critical revisions to the manuscript. AJY, OAB, and DWJD analysed and interpreted data. HFL gave statistical advice and interpreted data.
+
+Declaration of interests
+
+AJY reports grants from Penumbra and Neuravi outside the submitted work. DWJD reports grants from the Dutch Heart Foundation, Medtronic, Covidien, EV3, AngioCare, Stryker Neurovascular, Medac, Lamepro, Penumbra, Top Medical, and Concentric during the conduct of the study, and other consultations from Stryker Neurovascular and Bracco Imaging outside the submitted work. AvdL reports grants from the Dutch Heart Foundation, AngioCare, Medtronic/Covidien/EV3, Medac /Lamepro, Penumbra, and Stryker during the conduct of the study. WHvZ reports personal fees from Stryker outside the submitted work. CBLMM reports payment for lectures to his institution (Academic Medical Center, Amsterdam, Netherlands) from Stryker outside the submitted work. RvdB reports travel expenses from Codman/DePuy Synthes outside the submitted work. The other authors declare no competing interests.
+
+Acknowledgments
+
+MR CLEAN was funded by the Dutch Heart Foundation and unrestricted grants from AngioCare, Medtronic/Covidien/EV3, Medac/ Lamepro, Penumbra, Stryker, and Top Medical.
+
+References
+
+1 Yoo AJ, Verduzco LA, Schaefer PW, Hirsch JA, Rabinov JD, Gonzalez RG. MRI-based selection for intra-arterial stroke therapy: value of pretreatment diff usion-weighted imaging lesion volume in selecting patients with acute stroke who will benefi t from early recanalization. Stroke 2009; 40: 2046-54.
+
+2 Olivot JM, Mosimann PJ, Labreuche J, et al. Impact of diff usion-weighted imaging lesion volume on the success of endovascular reperfusion therapy. Stroke 2013; 44: 2205-11.
+
+3 Hill MD, Rowley HA, Adler F, et al. Selection of acute ischemic stroke patients for intra-arterial thrombolysis with pro-urokinase by using ASPECTS. Stroke 2003; 34: 1925-31.
+
+4 Hill MD, Demchuk AM, Goyal M, et al. Alberta Stroke Program early computed tomography score to select patients for endovascular treatment: Interventional Management of Stroke (IMS)-III trial. Stroke 2014; 45: 444-49.
+
+5 Sheth KN, Terry JB, Nogueira RG, et al. Advanced modality imaging evaluation in acute ischemic stroke may lead to delayed endovascular reperfusion therapy without improvement in clinical outcomes. J Neurointerv Surg 2013; 5 (suppl 1) : i62-65.
+
+6 Mehta B, Leslie-Mazwi TM, Chandra RV, et al. Assessing variability in neurointerventional practice patterns for acute ischemic stroke. J Neurointerv Surg 2013; 5 (suppl 1) : i52-57 .
+
+7 Yoo AJ, Zaidat OO, Chaudhry ZA, et al. Impact of pretreatment noncontrast CT Alberta Stroke Program Early CT Score on clinical outcome after intra-arterial stroke therapy. Stroke 2014; 45: 746-51.
+
+8 Fransen PS, Beumer D, Berkhemer OA, et al. MR CLEAN, a multicenter randomized clinical trial of endovascular treatment for acute ischemic stroke in the Netherlands: study protocol for a randomized controlled trial. Trials 2014; 15: 343.
+
+9 Berkhemer OA, Fransen PS, Beumer D, et al. A randomized trial of intraarterial treatment for acute ischemic stroke. N Engl J Med 2015; 372: 11-20.
+
+10 Boers AM, Marquering HA, Jochem JJ, et al. Automated cerebral infarct volume measurement in follow-up noncontrast CT scans of patients with acute ischemic stroke. AJNR Am J Neuroradiol 2013; 34: 1522-27 .
+
+11 van Swieten JC, Koudstaal PJ, Visser MC, Schouten HJ, van Gijn J. Interobserver agreement for the assessment of handicap in stroke patients. Stroke 1988; 19: 604-07 .
+
+12 Zaidat OO, Yoo AJ, Khatri P, et al. Recommendations on angiographic revascularization grading standards for acute ischemic stroke: a consensus statement. Stroke 2013; 44: 2650-63.
+
+13 Landis JR, Koch GG. The measurement of observer agreement for categorical data. Biometrics 1977; 33: 159-74.
+
+14 Bal S, Bhatia R, Menon BK, et al. Time dependence of reliability of noncontrast computed tomography in comparison to computed tomography angiography source image in acute ischemic stroke. Int J Stroke 2015; 10: 55-60.
+
+15 Jovin TG, Chamorro A, Cobo E, et al. Thrombectomy within 8 hours after symptom onset in ischemic stroke. N Engl J Med 2015; 372: 2296-306.
+
+16 Goyal M, Demchuk AM, Menon BK, et al. Randomized assessment of rapid endovascular treatment of ischemic stroke. N Engl J Med 2015; 372: 1019-30.
+
+17 Saver JL, Goyal M, Bonafe A, et al. Solitaire with the Intention for Thrombectomy as Primary Endovascular Treatment for Acute Ischemic Stroke (SWIFT PRIME) trial: protocol for a randomized, controlled, multicenter study comparing the Solitaire revascularization device with IV tPA with IV tPA alone in acute ischemic stroke. Int J Stroke 2015; 10: 439-48.
+
+18 Yoo AJ, Chaudhry ZA, Nogueira RG, et al. Infarct volume is a pivotal biomarker after intra-arterial stroke therapy. Stroke 2012; 43: 1323-30.
+
+www.thelancet.com/neurology Vol 15 June 2016
+
+693
+
+[DOCLING_PAGE 10]
+
+Articles
+
+19 Zaidi SF, Aghaebrahim A, Urra X, et al. Final infarct volume is a stronger predictor of outcome than recanalization in patients with proximal middle cerebral artery occlusion treated with endovascular therapy. Stroke 2012; 43: 3238-44.
+
+20 Singer OC, Humpich MC, Fiehler J, et al. Risk for symptomatic intracerebral hemorrhage after thrombolysis assessed by diff usion-weighted magnetic resonance imaging. Ann Neurol 2008; 63: 52-60.
+
+21 Lansberg MG, Thijs VN, Bammer R, et al. Risk factors of symptomatic intracerebral hemorrhage after tPA therapy for acute stroke. Stroke 2007; 38: 2275-78.
+
+22 Kent DM, Rothwell PM, Ioannidis JP, Altman DG, Hayward RA. Assessing and reporting heterogeneity in treatment eff ects in clinical trials: a proposal. Trials 2010; 11: 85.
+
+23 Brookes ST, Whitely E, Egger M, Smith GD, Mulheran PA, Peters TJ. Subgroup analyses in randomized trials: risks of subgroup-specifi c analyses; power and sample size for the interaction test. J Clin Epidemiol 2004; 57: 229-36.
+
+24 Prabhakaran S, Ward E, John S, et al. Transfer delay is a major factor limiting the use of intra-arterial treatment in acute ischemic stroke. Stroke 2011; 42: 1626-30.
+
+25 Sun CH, Connelly K, Nogueira RG, et al. ASPECTS decay during inter-facility transfer predicts patient outcomes in endovascular reperfusion for ischemic stroke: a unique assessment of dynamic physiologic change over time. J Neurointerv Surg 2015; 7: 22-26.
+
+26 Gupta AC, Schaefer PW, Chaudhry ZA, et al. Interobserver reliability of baseline noncontrast CT Alberta Stroke Program Early CT Score for intra-arterial stroke treatment selection. AJNR Am J Neuroradiol 2012; 33: 1046-49.
+
+694
+
+www.thelancet.com/neurology Vol 15 June 2016

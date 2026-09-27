@@ -1,0 +1,328 @@
+[DOCLING_PAGE 1]
+
+Received: 4 June 2018 | DOI: 10.1002/ppul.24267
+
+Accepted: 19 December 2018
+
+ORIGINAL ARTICLE: OUTCOMES
+
+A pilot study of heated and humidified low flow oxygen therapy: An assessment in infants with mild and moderate bronchiolitis (HHOT AIR study)
+
+Diana Y. Chen MD 1
+
+|
+
+Eric D. Zee MD 2
+
+|
+
+Ginny Gildengorin PhD 3
+
+Edward W. Fong MD 4
+
+1 Department of Pediatrics, Division of Pediatric Pulmonology, David Geffen School of Medicine at UCLA, Los Angeles, California
+
+2 Department of Pediatrics, Division of Pulmonology, Stanford University School of Medicine, Palo Alto, California
+
+3 Department of Statistics, UCSF Benioff Children's Hospital, Oakland, California
+
+4 Department of Pediatrics, Section of Pediatric Pulmonology, Kapiolani Medical Center for Women and Children, Honolulu, Hawaii
+
+Correspondence
+
+Diana Chen, MD, Division of Pediatric Pulmonology, David Geffen School of Medicine at UCLA, 10833 Le Conte Ave., 22-387B, Los Angeles, CA 90095. Email: dychen@mednet.ucla.edu
+
+1 | I NTRODUCTION
+
+Bronchiolitis is the leading cause of acute respiratory illness and hospitalization in children 2 years of age and younger. Approximately 150 000 children are hospitalized annually, amounting to estimated $1.4 billion in hospital charges. 1 For the minority of cases with
+
+Abstract
+
+Background: Heated and humidified high flow nasal cannula oxygen therapy has been used in children with severe bronchiolitis. No data exists in children with mild to moderatebronchiolitis requiring lower flows of heated and humidified oxygen therapy. Methods: Weconductedaprospective,randomizedpilot study of standard dry oxygen (control) versus heated and humidified low flow nasal cannula (HHLFNC), <4 liters per minute (LPM) oxygen, (treatment) in healthy children ≤ 24 months old with bronchiolitis. Clinical assessments were made using Respiratory Distress Assessment Instrument (RDAI), respiratory rate (RR), and oxygen saturation.
+
+Results: Thirty-two children were enrolled (16 participants in each group). There was no significant difference in mean RDAI over time between groups. There was a significant difference in mean RDAI over time within control group, at hour 12, and treatment group, at hour 1, compared to baseline. RDAI in the treatment group was overall lower over time compared to control group. There was no significant difference in mean RR over time between or within groups, between mean length of stay and duration of oxygen requirement. Subgroup analyses showed lower RDAI in subjects that had RSV infection, male gender, and non-black race.
+
+Conclusions: The use of HHLFNC oxygen therapy may provide more comfort and may result in more rapid improvements in RDAI compared to standard dry oxygen therapy over time. HHFLNC is safe and well tolerated compared to standard dry oxygen. Larger studies are needed to assess the clinical efficacy of HHLFNC oxygen therapy.
+
+KEYWORDS
+
+hypoxia, pediatrics, RDAI RSV, respiratory distress
+
+respiratory failure, intubation and mechanical ventilation increased from 1.9 to 2.3% between 2000 and 2009. 2
+
+Bronchiolitis consists of bronchiolar obstruction that results in increased airflow resistance, air trapping, and eventually atelectasis. 3,4 Currently, there are no proven treatments for bronchiolitis. The American Academy of Pediatrics (AAP) clinical practice guideline for
+
+|
+
+620
+
+© 2019 Wiley Periodicals, Inc.
+
+wileyonlinelibrary.com/journal/ppul
+
+Pediatric Pulmonology. 2019;54:620-627.
+
+[DOCLING_PAGE 2]
+
+CHEN ET AL.
+
+| 3 621
+
+10990496, 2019, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ppul.24267 by LI Chenke - HONG KONG POLYTECHNIC UNIVERSITY HU NG HOM , Wiley Online Library on [08/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+bronchiolitis recommends supportive care as mainstay treatment. 5,6 Supplemental oxygen is the key therapeutic intervention for those who present with variable hypoxemia due to ventilation-perfusion mismatch and impaired diffusion across the blood-gas barrier. 3
+
+Heat and humidification of inspired gas are important in respiratory tract function. Normal airways successfully condition inspired gas in the pharynx and trachea achieving core temperature of 37°C, 100% relative humidity to optimize functions of the lower respiratory tract, specifically mucociliary clearance, which is beneficial for diseases with increased mucus production, such as bronchiolitis. 7 In an in vitro study measuring ciliary beat frequency (CBF) and mucus transport velocity (MTV) in an ovine tracheal model, reduction in gas temperature from 37 to 34°C caused a progressive decline in CBF and MTV with minimal activity by 3 h. When gas temperature was further reduced to 30°C, both CBF and MTV stopped completely by 3 h, with no surviving cilia by 4 h. 8 In another in vitro model, human bronchiolar epithelium was exposed to dry and humidified high flow gas environments. Results showed that effects of humidification helped to enhance monolayer integrity, which helped to maintain cellular structure and function, improve cell viability and morphology, and decrease airway inflammation. 9 Addition of heat to humidified inspired gas can reduce the metabolic work needed for gas conditioning to maintain mucociliary clearance and inhibit nasopulmonary bronchocontrictor reflex, normally triggered by cold and dry air. 10,11
+
+In recent years, the use of heated and humidified oxygen systems at high flows via nasal cannula (HHHFNC) have been used as an alternative for non-invasive positive pressure ventilation, better tolerated than continuous positive airway pressure (CPAP) devices. 12,13 Retrospective studies were performed after HHHFNC was introduced in pediatric emergency departments and intensive care units (PICU), compared to historical cohorts who were treated with standard care using supplemental oxygen, non-invasive ventilation (CPAP or BiPAP), and mechanical ventilation, for management of acute respiratory distress due to various defined reasons. These studies, including two that looked specifically at subjects with viral bronchiolitis, showed decreased intubation rates after implementation of HHHFNC. 14 -17 Previously, a Cochrane study concluded insufficient evidence to determine the effectiveness of HHHFNC in treating children with bronchiolitis. 18 However, more recent and larger prospective studies show significantly fewer children requiring escalation of care due to treatment failure when HHHFNC was used compared to standard oxygen therapy. 19,20
+
+Children requiring HHHFNC support usually have moderately severe bronchiolitis and PICU admissions. High flows using 100% oxygen potentially places higher oxidative stress on cells. The majority of children admitted for bronchiolitis have mild to moderate disease and thus, do not require high flows of oxygen. However, they may still gain the same benefits of heated and humidified oxygen at low flow rates, and thus lower oxidative stress, as well as lower oxygen concentrations, which can be adjusted with oxygen blenders on the heated and humidified systems. Unlike HHHFNC, though, there have been no studies evaluating the use of heated and humidified low flow (HHLFNC) oxygen therapy, nor its use in children with bronchiolitis. In this randomized controlled pilot study, we assessed the efficacy of HHLFNC oxygen compared to standard dry oxygen in children ≤ 24 months old hospitalized with mild to moderate bronchiolitis.
+
+2 | MATERIALS AND METHODS
+
+2.1 | Study protocol
+
+We conducted a prospective, randomized controlled pilot study of standard dry oxygen versus HHLFNC oxygen therapy in children diagnosed with bronchiolitis and hypoxemia requiring <4 liters per minute (LPM) oxygen. This pilot study was conducted during two consecutive winter seasons (December 2013-March 2015). Candidates eligible for the study were children ≤ 24 months old with physician-diagnosed bronchiolitis, oxygen saturation (SpO2) <92%, oxygen requirement <4 LPM, and admission to the pediatric wards. Exclusion criteria included birth <37 weeks gestational age, admission to PICU, oxygen requirement ≥ 4 LPM (defined as high flow), and with chronic medical conditions, including chronic cardiorespiratory disease (eg, bronchopulmonary dysplasia, cystic fibrosis, ciliary dyskinesia, unrepaired cardiac abnormalities), neuromuscular disorders, chromosomal defects, metabolic disorders, and immunodeficiencies.
+
+Participants who met inclusion criteria were invited to participate in the study and written informed consent was obtained from the parent/guardian. Participants were enrolled within 8 h of starting oxygen. Enrolled participants were randomly assigned to receive standard oxygen (control group) or HHLFNC oxygen (treatment group). Randomization of participants was achieved using a computerized randomization scheme by our statistician. Sealed and sequentially numbered envelopes containing group assignments were opened once eligibility criteria was met and consent was signed. Investigators were blinded to randomization of group assignments but masking of the assigned treatment was not possible due to visual differences between the two interventions. Once participants were assigned a group, oxygen was removed and initial baseline assessment was performed in room air using respiratory distress assessment instrument (RDAI), respiratory rate (RR), and SpO2. Participants then resumed their original liter flow of oxygen using either standard dry oxygen via regular nasal cannula or HHLFNC oxygen using the Fisher Paykel MR850 humidification system via OptiFlow Junior nasal cannula. Size of nasal cannula was chosen so that not more than half of the nasal orifice was obstructed with visual inspection. Assessments of RDAI, RR, and SpO2 were repeated every 4 ± 1 h until discontinuation of oxygen. No further assessments were made if participants did not require oxygen for ≥ 6 h or if they required higher level of care, such as SpO2 ≥ 4 LPM and/or transfer to the PICU. Laboratory tests, such as blood draws, respiratory viral cultures, and radiographic images were left to the discretion of the treating physician. Weaning of oxygen and patient discharge were also left to the discretion of the treating physician. At the time of our study, our hospital did not have standardized guidelines for oxygen weaning and discharge criteria for bronchiolitis. Most physician adhered to the practical discharge criteria of adequate oral intake and weight gain and no oxygen requirement for ≥ 24 h prior to discharge. Primary outcome measures were change in RDAI and RR over time. Secondary outcome measures were LOS and duration of oxygen requirement during hospitalization. This study was approved by UCSF Benioff Children's Hospital Oakland's institutional review board (Protocol ID 2013 -066). ClinicalTrials.gov No.: NCT02094664.
+
+[DOCLING_PAGE 3]
+
+CHEN ET AL.
+
+10990496, 2019, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ppul.24267 by LI Chenke - HONG KONG POLYTECHNIC UNIVERSITY HU NG HOM , Wiley Online Library on [08/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2 | 622
+
+2.2 | Clinical score
+
+Clinical assessments of participants were measured using RDAI, RR, and SpO2. RDAI is a validated clinical scoring system used to assess respiratory distress in several bronchiolitis studies. 21 -28 RDAI is based on two variables, wheezing and retractions, in which points are applied to give a score ranging from 0 to 17 (Table 1). The higher the total score, the worse the subject was clinically. 21 RR was measured by counting respirations for 1 min. SpO2 was determined by the value on pulse oximetry with appropriate waveform. Inter-rater variability between investigators of the research team was measured prior to the start of the study. The research team consisted of physicians and respiratory therapists. Team members met and went through a validity test to correlate their RDAI assessment skills. Team members were assigned the same set of 3-5 hospitalized patients to assess. Patients assessed were admitted for various respiratory reasons and were not part of our study. Assessments were done individually but within no more than 5 min of each other. The number of patients available for assessment depended on the inpatient census at the time. Primary investigator was present at all meetings and participated in assessments of all patients assigned. Interclass correlation coefficient (ICC) was 0.86-0.93 (perfect agreement = 1).
+
+2.3 | Data analysis
+
+The analysis was done using SAS version 9.4 (SAS Institute Inc, 2015, Cary, NC). Descriptive statistics were computed for all the measures by group (control and treatment). Initial bivariate comparisons between the controls and the interventions were done using chi-square or Fisher's exact test for categorical data and t -tests for continuous data. When appropriate, the non-parametric Wilcoxon test was done on continuous measures to compare the groups.
+
+[DOCLING_TABLE rows=9 columns=6]
+| Variables | 0 | 1 | 2 | 3 | 4 |
+| Wheezing |  |  |  |  |  |
+| Expiratory | None | End expiratory | First half | First three quarters | Throughout |
+| Inspiratory | None | Part | Throughout | - | - |
+| Location | None | Segmental <2-4 lung fields | Diffuse >3-4 lung fields | - | - |
+| Retractions |  |  |  |  |  |
+| Supraclavicular | None | Mild | Moderate | Marked | - |
+| Intercostal | None | Mild | Moderate | Marked | - |
+| Subcostal | None | Mild | Moderate | Marked | - |
+[/DOCLING_TABLE]
+
+For the outcome measures, RDAI and RR, a general linear model was used to assess any differences in the groups over time. The methods of general estimating equations were used to account for correlations within each patient. The models included effects of group, time and group by time interactions. If a significant interaction or difference over time was found, TukeyKramer's method of adjustment for multiple comparison was applied to examine any pairwise differences. A significance level of 0.05 was used for all statistical tests.
+
+2.4 | Power calculation
+
+Although this is a pilot study, sample size calculations were done using t -test on primary outcomes, change in RDAI and respiratory rate, to obtain a power of 80% and alpha of 0.05 with a 1:1 proportion of control to intervention groups. Several randomized controlled studies assessing change in RDAI in children with bronchiolitis treated with racemic epinephrine compared to placebo showed ≥ 3 point change as significant. Sample size yielded 32 subjects. The change in respiratory rate was based on a retrospective chart review that compared heated high flow nasal cannula therapy in infants with bronchiolitis compared to the season prior to introduction of heated high flow therapy. They noted a change in 18 breaths/min in the intervention group compared to subjects treated with other types of respiratory support (room air, blow-by oxygen, standard nasal cannula, simple facemask, nonrebreather mask, nasal CPAP). This yielded a total sample size of 24. Given these studies, we chose to recruit a minimum of 32 subjects.
+
+3 | RESULTS
+
+Data collection occurred over two consecutive winters (2013-2015). Thirty-two children were enrolled in the study. Eighty-three families were approached; 44 of them did not meet inclusion criteria, mostly due to lack of hypoxemia; 7 parents/guardians declined to participate in the study. One subject in the control group and two subjects in the treatment group required escalation of care to HHHFNC oxygen therapy and/or transfer to the PICU. These 3 subjects were analyzed as intention to treat (Figure 1).
+
+[DOCLING_PAGE 4]
+
+CHEN ET AL.
+
+10990496, 2019, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ppul.24267 by LI Chenke - HONG KONG POLYTECHNIC UNIVERSITY HU NG HOM , Wiley Online Library on [08/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+FIGURE 1 CONSORT flow diagram
+
+| 3 623
+
+Of the 32 subjects in the study, there was an equal assignment of subjects to control and treatment groups. Of our study population, 20 (63%) were boys, of which nine were in the control group and 11 were in the treatment group. At enrollment, there was no significant difference between the control and treatment groups with respect to the patient characteristics and degree of illness. There was no significant difference in respiratory syncytial virus (RSV) status, family history of asthma, and smoke exposure at home (Table 2).
+
+3.1 | Primary outcome measures
+
+There was no significant difference in mean RDAI over time between groups ( P = 0.56, Figure 2A). There was a significant difference in mean RDAI over time within control group ( P = 0.02, Figure 3A) and within treatment group ( P = 0.04, Figure 3B). The period of greatest change occurred within the first 24 h. During this time period, the control group had a significant change in RDAI at hour 12 and treatment group had a significant change in RDAI at hour 1, both compared to baseline hour 0. There was no significant difference in mean RR over time between groups ( P = 0.38, Figure 2B) or within groups (control group P = 0.58; treatment group P = 0.66). Subgroup analyses were performed; results can be found in supplemental online Figure 4.
+
+[DOCLING_TABLE rows=12 columns=4]
+| Characteristics | Control ( n =16) | Treatment ( n = 16) | P -value |
+| Mean age (months) | 5 ± 5.2 | 5.5 ± 5.6 | 0.8 |
+| Race | White 1/16 Black 4/16 Hispanic 6/16 Other 5/16 | White 5/16 Black 1/16 Hispanic 6/16 Other 4/16 | 0.21 |
+| Males | 9 (56%) | 11 (69%) | 0.72 |
+| Mean RDA1 | 5.38 ± 3.65 | 4.44 ± 2.61 | 0.41 |
+| Mean RR | 45.44 ± 12.74 | 48.19 ±11.3 | 0.52 |
+| Mean sick days | 4.56 ± 1.36 | 4.25 ± 1.43 | 0.53 |
+| RSV positive | 11 (69%) | 13 (81%) | 0.69 |
+| Family history of asthma | 6 (38%) | 8 (50%) | 0.72 |
+| Smoke exposure at home | 6 (38%) | 3 (19%v) | 0.43 |
+| Inhaled albuterol in ED | 10 (63%) | 9 (56%) | 1.0 |
+| Systemic steroids in ED | 5 (31%) | 6 (38%) | 1.0 |
+[/DOCLING_TABLE]
+
+3.2 | Secondary outcome measures
+
+There was no significant difference between mean LOS (control 4.44 days; treatment 4.56 days; P = 0.92) and duration of O2 requirement
+
+[DOCLING_PAGE 5]
+
+CHEN ET AL.
+
+10990496, 2019, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ppul.24267 by LI Chenke - HONG KONG POLYTECHNIC UNIVERSITY HU NG HOM , Wiley Online Library on [08/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+FIGURE 2 A, Mean RDAI over time between groups. B, Mean RR over time between groups. (Single black line is SD for control group. Bold gray scale line is SD for treatment group)
+
+2 | 624
+
+(control 60.02 h; treatment 72.11 h; P = 0.59) during hospitalization between groups.
+
+4 | DISCUSSION
+
+This randomized controlled pilot study demonstrated that children ≤ 24 months old hospitalized with bronchiolitis secondary to hypoxemia had improvement of their RDAI over time on oxygen delivered either via standard dry or HHLFNC oxygen therapies. Bronchiolitis is a selflimited illness that responds to supportive care. The natural course of bronchiolitis is typically worsening symptoms by approximately days 3-5 of illness, with gradual improvement thereafter. 29,30 The improvement in RDAI was seen sooner within the treatment group (at 1 h) compared to within the control group (at 12 h). A similar trend was also seen between subjects in control and treatment groups with RSV positive bronchiolitis. This could suggest that, in children whose symptoms are severe enough to require hospitalization, once they are at the peak symptoms of bronchiolitis, its natural course is clinical improvement by at least 12 h after presenting to medical care. If this trend could be extrapolated, then there may potentially be cost savings to hospitals due to less resources used and shorter duration of oxygen required once patients are admitted.
+
+There was no significant difference with RDAI and RR between groups over time, therefore, treatment with HHLFNC did not appear to be inferior to standard dry oxygen given our small sample sized pilot study. The lack of difference seen could be due to small sample size over time; as patients clinically improved over time, they exited their assigned group, leading to smaller sample size over time. The trend towards improvement in RDAI over time between groups was smaller than expected; to elucidate a significant difference would likely require larger recruitment sample size. When subgroup analyses were done using individual variables, subjects with RSV infection appeared to have lower clinical scores compared to no RSV infection; male subjects had higher clinical scores initially but declined more rapidly over time compared their female counterparts; and non-black subjects had lower clinical scores compared to black subjects. Similarly, these trends may also be elucidated further with a larger study population.
+
+There are many studies that explored various treatment modalities for acute bronchiolitis but none has been shown to be considerably effective. 14,18,22 -25,27,28,31 -37 Supportive care remains as the mainstay treatment for bronchiolitis. Since heated and humidified oxygen has been an emerging method for general respiratory supportive care, it is natural to see a crossover of its use in children with bronchiolitis. Most studies evaluating the use of HHHFNC oxygen with bronchiolitis have been retrospective. One study showed improvement in RR, work of breathing, pH, and PCO2 within 1 h of use. 7 Other studies have shown a reduction in the need for intubation and mechanical ventilation but not a decreased rate of admission to or LOS in the PICU. 14,15,38 More recently, a few prospective studies have emerged. Two studies in children with moderately severe bronchiolitis showed a higher oxygen concentration requirement and no difference in duration of oxygen requirement or LOS in the HHHFNC group, suggesting early use of HHHFNC does not modify the underlying disease process in bronchiolitis. 19,39 The most recent and larger prospective study to date showed significantly fewer children requiring escalation of care when HHHFNC was used compared to standard oxygen therapy. For those who had treatment failure with standard oxygen and were offered HHHFNC therapy, majority of them responded to this rescue treatment. Similar to previous studies, this study also did not show a significant reduction in LOS or duration of O2 therapy between groups. 20 The lack of difference in LOS and duration of oxygen requirement between control and treatment groups in all these studies was similarly seen in our study.
+
+FIGURE 3 A, Trend of mean RDAI over time within control group within first 24 h. B, Trend of mean RDAI over time within treatment group within first 24 h
+
+[DOCLING_PAGE 6]
+
+CHEN ET AL.
+
+10990496, 2019, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ppul.24267 by LI Chenke - HONG KONG POLYTECHNIC UNIVERSITY HU NG HOM , Wiley Online Library on [08/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+FIGURE 4 A and B, Mean RDAI and RR over time in RSV versus non-RSV subjects, respectively. C and D, Mean RDAI and RR over time in male versus female subjects, respectively. E and F, Mean RDAI and RR over time in black versus non-black subject, respectively
+
+| 3 625
+
+One of the strengths of our study was the use of a clinical scoring system for children with bronchiolitis. It is a valuable tool for monitoring patients ' clinical status during illness and with medication administration, including the use of oxygen. The use of RDAI elucidated that the actual practice of weaning oxygen often had nothing to do with how clinically well the participant was doing, but more of how the medical staff felt the child was doing or how busy their shift was. While there may be inherent bias in any clinical scoring system, the use of RDAI for clinical scoring has been demonstrated to have good inter-observer reliability. 21 We proved this to be true in our study as well; our ICC remained fairly high throughout both winters. There were no serious adverse events that occurred in our study.
+
+Oneofthelimitations of our study is that there are no prior studies using HHLFNC to treat children with bronchiolitis. Power calculation was challenging to do for a pilot study. As stated previously, we attempted a power calculation based on prior bronchiolitis studies that used RDAI and RR as assessment tools. However, these studies were evaluating different treatment modalities that were not comparable enough to extrapolate to our treatment modality. Therefore, our power calculation of 32 subjects may have been enough to see trends but too low to detect statistical significance. These trends are important to stratify for in the design of future studies. Although our ICC remained fairly high throughout the study, the use of RDAI as our scoring system could be reviewed among the study team more frequently throughout the duration of our study due to the inherent bias in any clinical scoring system.
+
+Duetothedifferences in appearance of the standard nasal cannula versus low flow nasal cannula, and the presence of a heating and humidifying unit, our study could not be blinded. With the lack of blinding, we discovered that some nurses did not attempt to wean oxygen because these HHLFNC units were mistaken for HHHFNC units, which are only managed by physicians and respiratory therapists in our institution. This could have also caused unconscious bias for investigators during times of RDAI assessments, for example, if oxygen was not weaned by nurses due to misunderstanding or because participants appeared more comfortable, then RDAI scores could be artificially higher because they were on oxygen longer or artificially lower because investigators knew what intervention was being received.
+
+The study group did not make any medical decisions for the study participants, including weaning or escalating oxygen. Even though subjects appear to be ready and able to wean from oxygen, it was noted that nurses would not wean through an 8-h shift if desaturation occurred once during their shift; or they would not wean overnight as they admitted to having ' alarm fatigue. ' Similarly, we were also subject to resident physicians not weaning oxygen if their patient census was high. Finally, although nurses and residents were less inclined to wean oxygen, they were quick to increase oxygen flow if they subjectively felt patients had increased work of breathing.
+
+[DOCLING_PAGE 7]
+
+CHEN ET AL.
+
+10990496, 2019, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ppul.24267 by LI Chenke - HONG KONG POLYTECHNIC UNIVERSITY HU NG HOM , Wiley Online Library on [08/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2 | 626
+
+There was no universal oxygen weaning protocol at our institution at the time of our study; therefore, all persons on the medical team had different methods of weaning oxygen. Given the variability in medical management, an oxygen weaning protocol should be developed and incorporated in future studies to help standardize care for each patient and train and improve comfort of medical staff.
+
+Both nurses and subjects ' caretakers commented on how they thought their patients/children appeared more comfortable on HHLFNC oxygen. Therefore, they wanted to keep these subjects on oxygen longer. All this could explain the finding that those subjects on HHLFNC were, on average, on oxygen for 12 h longer than those on standard dry oxygen, and had wide variation in standard deviation.
+
+In putting this to a larger study, these are some of the limitations we found that would have to be addressed if a larger study were to be undertaken in the future. Proposed changes and upgrades to the study protocol for larger study include but are not limited to: 1) multicenter study, 2) larger study population using data gathered from this pilot study in order to further elucidate the trends and whether they have any statistical significance, 3) clearer definition of primary study outcomes that can account for patients who require escalation of care, 4) stratifying our sample given the trends that were seen within subgroup variables; 5) universal oxygen weaning guideline, 6) blinding observers from treatment interventions of both groups, 7) improving training of healthcare workers caring for study enrollees, 8) obtaining viral panel in all subjects to determine specific virus/viruses causing symptoms, 9) documenting frequency of nasal suctioning as heated and humidified air should help with mucociliary clearance and thus decrease need for nasal suctioning; 10) adjusting oxygen concentration instead of, or in addition to, adjusting oxygen flows.
+
+ACKNOWLEDGMENTS
+
+A special acknowledgement to the respiratory therapists in the study group, Ken Toch, Rodney Franklin, Sanghamitra Kunche, Evan Summers, Angela Gray, Caleb Schrader, Liz Bellows, and Elaine Freitas; and to pediatric resident Mikhal Gold.
+
+CONFLICT OF INTEREST
+
+The authors have indicated they have no potential conflicts of interest and financial relationships relevant to this article to disclose.
+
+FUNDING/SUPPORT
+
+No external funding. Fisher & Paykel Healthcare donated equipment for this study; they had no involvement in the design and conduct of the study, the analysis of the data, or in the preparation of the manuscript and decision to submit for publication.
+
+ORCID
+
+REFERENCES
+
+Pelletier AJ, Mansbach JM, Camargo CA. Direct medical costs of bronchiolitis hospitalizations in the United States. Pediatrics . 2006;118: 2418 -2423.
+
+Hasegawa K, Tsugawa Y, Brown DF, Mansbach JM, Camargo CA. Trends in bronchiolitis hospitalizations in the United States, 2000 -2009. Pediatrics . 2013;132: 28 -36.
+
+Wagner T. Bronchiolitis. Pediatrics Review . 2009;30:386 -395.
+
+Kliegman RM, Behrman RE, Jenson HB, Stanton BF. Nelson textbook of pediatrics . 18th ed. Philadelphia, PA: Saunders, Elsevier Inc; 2007.
+
+Nagakumar P, Doull I. Current therapy for bronchiolitis. Arch Dis Child . 2012;97: 827 -830.
+
+American Academy of Pediatrics Subcommittee on Diagnosis and Management of Bronchiolitis. Diagnosis and management of bronchiolitis. Pediatrics . 2006;118:1774 -1793.
+
+Williams R, Rankin N, Smith T, Galler D, Seakins P. Relationship between the humidity and temperature of inspired gas and the function of the airway mucosa. Crit Care Med . 1996;24: 1920 -1929.
+
+Kilgour E, Rankin N, Ryan S, Pack R. Mucociliary function deteriorates in the clinical range of inspired air temperature and humidity. Intensive Care Med . 2004;30: 1491 -1494.
+
+Chidekel A, Zhu Y, Wang J, Mosko JJ, Rodriguez E, Shaffer TH. The effects of gas humidification with high-flow nasal cannula on cultured human airway epithelial cells. Pulm Med . 2012;2012: 380 -686.
+
+Dysart K, Miller TL, Wolfson MR, Shaffer TH. Research in high flow therapy: mechanisms of action. Respir Med . 2009;103: 1400 -1405.
+
+Spentzas T, Minarik M, Patters AB, Vinson B, Stidham G. Children with respiratory distress treated with high-flow nasal cannula. J Intensive Care Med . 2009;24: 323 -328.
+
+Yong SC, Chen SJ, Boo NY. Incidence of nasal trauma associated with nasal prong versus nasal mask during continuous positive airway pressure treatment in very low birthweight infants: a randomised control study. Arch Dis Child Fetal Neonatal Ed . 2005; 90:F480 -F483.
+
+Holleman-Duray D, Kaupie D, Weiss MG. Heated humidified highflow nasal cannula: use and a neonatal early extubation protocol. J Perinatol . 2007;27: 776 -781.
+
+McKiernan C, Chua LC, Visintainer PF, Allen H. High flow nasal cannulae therapy in infants with bronchiolitis. J Pediatr . 2010;156: 634 -638.
+
+Schibler A, Pham TM, Dunster KR, et al. Reduced intubation rates for infants after introduction of high-flow nasal prong oxygen delivery. Intensive Care Med . 2011;37: 847 -852.
+
+Wing R, James C, Maranda LS, Armsby CC. Use of high-flow nasal cannula support in the emergency department reduces the need for intubation in pediatric acute respiratory insufficiency. Pediatr Emerg Care . 2012;28: 1117 -1123.
+
+Kawaguchi A, Yasui Y, deCaen A, Garros D. The clinical impact of heated humidified high-Flow nasal cannula on pediatric respiratory distress. Pediatr Crit Care Med . 2017;18: 112 -119.
+
+Beggs S, Wong ZH, Kaul S, Ogden KJ, Walters JA. High-flow nasal cannula therapy for infants with bronchiolitis. Cochrane Database Syst Rev . 2014;1:CD009609.
+
+Kepreotes E, Whitehead B, Attia J, et al. High-flow warm humidified oxygen versus standard low-flow nasal cannula oxygen for moderate bronchiolitis (HFWHO RCT): an open, phase 4, randomised controlled trial. Lancet . 2017;389: 930 -939.
+
+Franklin D, Babl FE, Schlapbach LJ, et al. A randomized trial of highFlow oxygen therapy in infants with bronchiolitis. N Engl J Med . 2018;378: 1121 -1131.
+
+Lowell DI, Lister G, Von Koss H, McCarthy P. Wheezing in infants: the response to epinephrine. Pediatrics . 1987;79: 939 -945.
+
+Diana Y. Chen
+
+http://orcid.org/0000-0002-3549-435X
+
+[DOCLING_PAGE 8]
+
+CHEN ET AL.
+
+| 3 627
+
+Reijonen T, Korppi M, Pitkäkangas S, Tenhola S, Remes K. The clinical efficacy of nebulized racemic epinephrine and albuterol in acute bronchiolitis. Arch Pediatr Adolesc Med . 1995;149: 686 -692.
+
+Wu S, Baker C, Lang ME, et al. Nebulized hypertonic saline for bronchiolitis: a randomized clinical trial. JAMA Pediatr . 2014;168: 657 -663.
+
+Corneli HM, Zorc JJ, Mahajan P, et al. A multicenter, randomized, controlled trial of dexamethasone for bronchiolitis. N Engl J Med . 2007;357: 331 -339.
+
+Bueno Campaña M, Olivares Ortiz J, Notario Muñoz C, et al. High flow therapy versus hypertonic saline in bronchiolitis: randomised controlled trial. Arch Dis Child . 2014;99: 511 -515.
+
+Corneli HM, Zorc JJ, Holubkov R, et al. Bronchiolitis: clinical characteristics associated with hospitalization and length of stay. Pediatr Emerg Care . 2012;28: 99 -103.
+
+Mull CC, Scarfone RJ, Ferri LR, et al. A randomized trial of nebulized epinephrine vs albuterol in the emergency department treatment of bronchiolitis. Arch Pediatr Adolesc Med . 2004;158: 113 -118.
+
+Grewal S, Ali S, McConnell DW, Vandermeer B, Klassen TP. Arandomized trial of nebulized 3% hypertonic saline with epinephrine in the treatment of acute bronchiolitis in the emergency department. Arch Pediatr Adolesc Med . 2009;163: 1007 -1012.
+
+Swingler GH, Hussey GD, Zwarenstein M. Duration of illness in ambulatory children diagnosed with bronchiolitis. Arch Pediatr Adolesc Med . 2000;154: 997 -1000.
+
+Petruzella FD, Gorelick MH. Duration of illness in infants with bronchiolitis evaluated in the emergency department. Pediatrics . 2010;126: 285 -290.
+
+Chowdhury MM, McKenzie SA, Pearson CC, et al. Heliox therapy in bronchiolitis: phase III multicenter double-blind randomized controlled trial. Pediatrics . 2013;131: 661 -669.
+
+Jacobs JD, Foster M, Wan J, Pershad J. 7% Hypertonic saline in acute bronchiolitis: a randomized controlled trial. Pediatrics . 2014;133: e8 -e13.
+
+Milési C, Matecki S, Jaber S, et al. 6 cmH2O continuous positive airway pressure versus conventional oxygen therapy in severe
+
+viral bronchiolitis: a randomized trial. Pediatr Pulmonol . 2013;48: 45 -51.
+
+Kim IK, Phrampus E, Sikes K, et al. Helium-oxygen therapy for infants with bronchiolitis: a randomized controlled trial. Arch Pediatr Adolesc Med . 2011;165: 1115 -1122.
+
+Hollman G, Shen G, Zeng L, et al. Helium-oxygen improves Clinical Asthma Scores in children with acute bronchiolitis. Crit Care Med . 1998;26: 1731 -1736.
+
+Cambonie G, Milési C, Fournier-Favre S, et al. Clinical effects of heliox administration for acute bronchiolitis in young infants. Chest . 2006;129: 676 -682.
+
+Pham TM, O'Malley L, Mayfield S, Martin S, Schibler A. The effect of high flow nasal cannula therapy on the work of breathing in infants with bronchiolitis. Pediatr Pulmonol . 2015;50: 713 -720.
+
+Goh CT, Kirby LJ, Schell DN, Egan JR. Humidified high-flow nasal cannula oxygen in bronchiolitis reduces need for invasive ventilation but not intensive care admission. J Paediatr Child Health . 2017.
+
+Hilliard TN, Archer N, Laura H, et al. Pilot study of vapotherm oxygen delivery in moderately severe bronchiolitis. Arch Dis Child . 2012;97: 182 -183.
+
+SUPPORTING INFORMATION
+
+Additional supporting information may be found online in the Supporting Information section at the end of the article.
+
+How to cite this article: Chen D, Zee E, Gildengorin G, Fong E. A pilot study of heated and humidified low flow oxygen therapy: An assessment in infants with mild and moderate bronchiolitis (HHOT AIR study). Pediatr Pulmonol . 2019;1 -8. https://doi.org/10.1002/ppul.24267 2019;54:620-627. https://doi.org/10.1002/ppul.24267 Pediatric Pulmonology.
+
+10990496, 2019, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ppul.24267 by LI Chenke - HONG KONG POLYTECHNIC UNIVERSITY HU NG HOM , Wiley Online Library on [08/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

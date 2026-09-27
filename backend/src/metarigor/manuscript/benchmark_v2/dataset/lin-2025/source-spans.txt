@@ -1,0 +1,2314 @@
+BEGIN V1_FACT fact-lin-2025-identity {"content_sha256": "7bcdcb39c459b51c654f2e7139643fd5d0fbc1ef8d22902585553f4384575fa0", "upstream_artifact_refs": ["source-review-lin-2025"]}
+This manuscript reports a systematic review with an eligible headline synthesis.
+END V1_FACT fact-lin-2025-identity
+BEGIN V1_FACT fact-lin-2025-objective {"content_sha256": "1ac3c624587a67bf552fa358509c2a0c56604d5bc85b58207ffd836227aa1990", "upstream_artifact_refs": ["accepted-protocol-lin-2025"]}
+In adults with acute large-core ischemic stroke, compare endovascular thrombectomy plus medical care with medical care alone for the efficacy and safety outcomes defined in the Review methods.
+END V1_FACT fact-lin-2025-objective
+BEGIN V1_FACT fact-lin-2025-eligibility {"content_sha256": "d35714564adaf0efa1861ee3d851c7dd73dee28474011d6863cc36350346a249", "upstream_artifact_refs": ["accepted-protocol-lin-2025"]}
+Eligibility criteria were prespecified in the accepted Protocol.
+END V1_FACT fact-lin-2025-eligibility
+BEGIN V1_FACT fact-lin-2025-search {"content_sha256": "12643868dd4d9c876c8a29b25dcb3d764fc7f0892180fd18f5d41eea3caaa1cf", "upstream_artifact_refs": ["source-review-lin-2025"]}
+六项 trial 的 primary-outcome funnel 未见 major asymmetry。
+END V1_FACT fact-lin-2025-search
+BEGIN V1_FACT fact-lin-2025-method-basis {"content_sha256": "444a2fcfc9dd6398adf3e689e7996df90025f9d925e1e452951f801520dabb88", "upstream_artifact_refs": ["accepted-protocol-lin-2025", "ec-catalog"]}
+Review Figure 2 给出唯一六项 pooled claim；RESCUE-Japan LIMIT Review 7/102 与 primary 8/102 的 row discrepancy 保留 Issue。
+END V1_FACT fact-lin-2025-method-basis
+BEGIN V1_FACT fact-lin-2025-selection {"content_sha256": "e80c849235e70a77fc788b5d666252865db65ea5c84fd55fb38fea2451c2a6d0", "upstream_artifact_refs": ["ec-catalog"]}
+The headline synthesis included 6 studies; other selection-flow counts were not exposed in the curated V1 reference.
+END V1_FACT fact-lin-2025-selection
+BEGIN V1_FACT fact-lin-2025-studies {"content_sha256": "cba11e9f9b7a1e3ea48d8226a31bc3997b110deeb8e716b4ad49d4a6bd96b59f", "upstream_artifact_refs": ["ec-catalog", "de-request-lin-2025"]}
+六项 individual parallel RCT、1870 人比较 EVT+medical care 与 medical care。
+END V1_FACT fact-lin-2025-studies
+BEGIN V1_FACT fact-lin-2025-outcome {"content_sha256": "cb5aed71f57bd009dca9ca37eaaab02615e6ebf836075602a895a58f0c642ca9", "upstream_artifact_refs": ["ec-catalog", "de-reference-lin-2025"]}
+六项 published RR 均偏向 EVT benefit；point estimate 1.64–6.89，CI 有重叠且没有方向冲突。
+END V1_FACT fact-lin-2025-outcome
+BEGIN V1_FACT fact-lin-2025-synthesis {"content_sha256": "ef779231c5e6c9c9d0e17534800c5f583a40fc557be5cfa1dffa90305d67676f", "upstream_artifact_refs": ["ec-catalog"]}
+六项 trial 的 published RR=2.53 [1.95,3.29]、I²=0%，N=1870，control risk=69/930。
+END V1_FACT fact-lin-2025-synthesis
+BEGIN V1_FACT fact-lin-2025-risk-of-bias {"content_sha256": "22d8d69a6087cbd4b4c8ce10a4dd729d9b04c42335cdbc81d916e64bff0c13c5", "upstream_artifact_refs": ["ec-catalog"]}
+六项 contributor 的逐研究 RoB profile 与 evidence-body concern。
+END V1_FACT fact-lin-2025-risk-of-bias
+BEGIN V1_FACT fact-lin-2025-certainty {"content_sha256": "5c5b73cf3e968178aa1ef547b7c90255a2b8254d01eb1510f4a33c87a3ba1386", "upstream_artifact_refs": ["ec-gold"]}
+RoB 与 imprecision 各明确降一级。Population/core-definition close call 不在缺乏 effect-modification 证据时再额外降级，避免与已计入的不确定性重复，整体降两级。
+END V1_FACT fact-lin-2025-certainty
+BEGIN V1_FACT fact-lin-2025-context {"content_sha256": "71e3a0d4a90ed1d60e595cbfe60f76f727e1616b859bf5b3fe42718b2a13947c", "upstream_artifact_refs": ["ec-catalog"]}
+六项 trial 的 evidence-side PICO、time horizon、setting 与 core-definition variation。
+END V1_FACT fact-lin-2025-context
+BEGIN V1_FACT fact-lin-2025-limitation {"content_sha256": "76e0ed91eaa2302352a25f03d32de88d3de272ff626809bce345dd30eec54e1f", "upstream_artifact_refs": ["ec-catalog"]}
+Review Figure 2 给出唯一六项 pooled claim；RESCUE-Japan LIMIT Review 7/102 与 primary 8/102 的 row discrepancy 保留 Issue。
+END V1_FACT fact-lin-2025-limitation
+BEGIN DE_EVIDENCE rescue_japan_limit result.functional_independence.mrs_0_2.day90 {"canonical_field": "intervention_events", "document_key": "rescue_japan_limit.fulltext", "source_path": "originals/rescue-japan-limit-primary/publisher.pdf", "source_sha256": "7012a5856d67d044a352eebe90544839306433d5047cbd714e4ef4228e8b98c5", "view_sha256": "bbbcb1c9af860c842fca203e832d4e7cee30ee11eb4f92740db4a4f94ca21bfd"}
+| Modified Rankin scale score of 0 to 2 at 90 days | 14 (14.0) | 8 (7.8) | 1.79 (0.78-4.07) |  |
+END DE_EVIDENCE rescue_japan_limit result.functional_independence.mrs_0_2.day90
+BEGIN DE_EVIDENCE rescue_japan_limit result.functional_independence.mrs_0_2.day90 {"canonical_field": "intervention_group_size", "document_key": "rescue_japan_limit.fulltext", "source_path": "originals/rescue-japan-limit-primary/publisher.pdf", "source_sha256": "7012a5856d67d044a352eebe90544839306433d5047cbd714e4ef4228e8b98c5", "view_sha256": "bbbcb1c9af860c842fca203e832d4e7cee30ee11eb4f92740db4a4f94ca21bfd"}
+| Table 2. Trial Outcomes. Outcome | Endovascular- Therapy Group (N = 100) | Medical-Care Group (N = 102) | Treatment Effect (95% CI)* | P Value |
+END DE_EVIDENCE rescue_japan_limit result.functional_independence.mrs_0_2.day90
+BEGIN DE_EVIDENCE rescue_japan_limit result.ambulation.mrs_0_3.day90 {"canonical_field": "intervention_events", "document_key": "rescue_japan_limit.fulltext", "source_path": "originals/rescue-japan-limit-primary/publisher.pdf", "source_sha256": "7012a5856d67d044a352eebe90544839306433d5047cbd714e4ef4228e8b98c5", "view_sha256": "bbbcb1c9af860c842fca203e832d4e7cee30ee11eb4f92740db4a4f94ca21bfd"}
+| Modified Rankin scale score of 0 to 3 at 90 days | 31 (31.0) | 13 (12.7) | 2.43 (1.35-4.37) | 0.002 |
+END DE_EVIDENCE rescue_japan_limit result.ambulation.mrs_0_3.day90
+BEGIN DE_EVIDENCE rescue_japan_limit result.ambulation.mrs_0_3.day90 {"canonical_field": "intervention_group_size", "document_key": "rescue_japan_limit.fulltext", "source_path": "originals/rescue-japan-limit-primary/publisher.pdf", "source_sha256": "7012a5856d67d044a352eebe90544839306433d5047cbd714e4ef4228e8b98c5", "view_sha256": "bbbcb1c9af860c842fca203e832d4e7cee30ee11eb4f92740db4a4f94ca21bfd"}
+| Table 2. Trial Outcomes. Outcome | Endovascular- Therapy Group (N = 100) | Medical-Care Group (N = 102) | Treatment Effect (95% CI)* | P Value |
+END DE_EVIDENCE rescue_japan_limit result.ambulation.mrs_0_3.day90
+BEGIN DE_EVIDENCE rescue_japan_limit result.nondisabled.mrs_0_1.day90 {"canonical_field": "intervention_events", "document_key": "rescue_japan_limit.fulltext", "source_path": "originals/rescue-japan-limit-primary/publisher.pdf", "source_sha256": "7012a5856d67d044a352eebe90544839306433d5047cbd714e4ef4228e8b98c5", "view_sha256": "bbbcb1c9af860c842fca203e832d4e7cee30ee11eb4f92740db4a4f94ca21bfd"}
+| Modified Rankin scale score of 0 or 1 at 90 days | 5 (5.0) | 3 (2.9) | 1.70 (0.42-6.93) |  |
+END DE_EVIDENCE rescue_japan_limit result.nondisabled.mrs_0_1.day90
+BEGIN DE_EVIDENCE rescue_japan_limit result.nondisabled.mrs_0_1.day90 {"canonical_field": "intervention_group_size", "document_key": "rescue_japan_limit.fulltext", "source_path": "originals/rescue-japan-limit-primary/publisher.pdf", "source_sha256": "7012a5856d67d044a352eebe90544839306433d5047cbd714e4ef4228e8b98c5", "view_sha256": "bbbcb1c9af860c842fca203e832d4e7cee30ee11eb4f92740db4a4f94ca21bfd"}
+| Table 2. Trial Outcomes. Outcome | Endovascular- Therapy Group (N = 100) | Medical-Care Group (N = 102) | Treatment Effect (95% CI)* | P Value |
+END DE_EVIDENCE rescue_japan_limit result.nondisabled.mrs_0_1.day90
+BEGIN DE_EVIDENCE rescue_japan_limit result.early_neurologic_improvement {"canonical_field": "intervention_events", "document_key": "rescue_japan_limit.fulltext", "source_path": "originals/rescue-japan-limit-primary/publisher.pdf", "source_sha256": "7012a5856d67d044a352eebe90544839306433d5047cbd714e4ef4228e8b98c5", "view_sha256": "bbbcb1c9af860c842fca203e832d4e7cee30ee11eb4f92740db4a4f94ca21bfd"}
+| Improvement of ≥8 points on the NIHSS at 48 hr | 31 (31.0) | 9 (8.8) | 3.51 (1.76-7.00) |  |
+END DE_EVIDENCE rescue_japan_limit result.early_neurologic_improvement
+BEGIN DE_EVIDENCE rescue_japan_limit result.early_neurologic_improvement {"canonical_field": "intervention_group_size", "document_key": "rescue_japan_limit.fulltext", "source_path": "originals/rescue-japan-limit-primary/publisher.pdf", "source_sha256": "7012a5856d67d044a352eebe90544839306433d5047cbd714e4ef4228e8b98c5", "view_sha256": "bbbcb1c9af860c842fca203e832d4e7cee30ee11eb4f92740db4a4f94ca21bfd"}
+| Table 2. Trial Outcomes. Outcome | Endovascular- Therapy Group (N = 100) | Medical-Care Group (N = 102) | Treatment Effect (95% CI)* | P Value |
+END DE_EVIDENCE rescue_japan_limit result.early_neurologic_improvement
+BEGIN DE_EVIDENCE rescue_japan_limit result.constant_care_or_death.mrs_5_6.day90 {"canonical_field": "intervention_events", "document_key": "rescue_japan_limit.fulltext", "source_path": "originals/rescue-japan-limit-primary/publisher.pdf", "source_sha256": "7012a5856d67d044a352eebe90544839306433d5047cbd714e4ef4228e8b98c5", "view_sha256": "bbbcb1c9af860c842fca203e832d4e7cee30ee11eb4f92740db4a4f94ca21bfd"}
+Endovascular-therapy group - no. (%)
+
+Medical-care group - no. (%)
+
+2 (2.0)
+
+0
+
+3 (3.0)
+
+3 (2.9)
+
+9 (9.0)
+
+5 (4.9)
+
+17 (17.0)
+
+5 (4.9)
+
+33 (33.0)
+
+25 (24.5)
+
+18 (18.0)
+
+24 (23.5)
+
+18 (18.0)
+
+40 (39.2)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+0
+
+Modified Rankin Scale Score at 90 Days
+END DE_EVIDENCE rescue_japan_limit result.constant_care_or_death.mrs_5_6.day90
+BEGIN DE_EVIDENCE rescue_japan_limit result.death.day90 {"canonical_field": "intervention_events", "document_key": "rescue_japan_limit.fulltext", "source_path": "originals/rescue-japan-limit-primary/publisher.pdf", "source_sha256": "7012a5856d67d044a352eebe90544839306433d5047cbd714e4ef4228e8b98c5", "view_sha256": "bbbcb1c9af860c842fca203e832d4e7cee30ee11eb4f92740db4a4f94ca21bfd"}
+| Death within 90 days | 18 (18.0) | 24 (23.5) | 0.77 (0.44-1.32) | 0.33 |
+END DE_EVIDENCE rescue_japan_limit result.death.day90
+BEGIN DE_EVIDENCE rescue_japan_limit result.death.day90 {"canonical_field": "intervention_group_size", "document_key": "rescue_japan_limit.fulltext", "source_path": "originals/rescue-japan-limit-primary/publisher.pdf", "source_sha256": "7012a5856d67d044a352eebe90544839306433d5047cbd714e4ef4228e8b98c5", "view_sha256": "bbbcb1c9af860c842fca203e832d4e7cee30ee11eb4f92740db4a4f94ca21bfd"}
+| Table 2. Trial Outcomes. Outcome | Endovascular- Therapy Group (N = 100) | Medical-Care Group (N = 102) | Treatment Effect (95% CI)* | P Value |
+END DE_EVIDENCE rescue_japan_limit result.death.day90
+BEGIN DE_EVIDENCE rescue_japan_limit result.early_symptomatic_intracranial_hemorrhage {"canonical_field": "intervention_events", "document_key": "rescue_japan_limit.fulltext", "source_path": "originals/rescue-japan-limit-primary/publisher.pdf", "source_sha256": "7012a5856d67d044a352eebe90544839306433d5047cbd714e4ef4228e8b98c5", "view_sha256": "bbbcb1c9af860c842fca203e832d4e7cee30ee11eb4f92740db4a4f94ca21bfd"}
+| Symptomatic intracranial hemorrhage within 48 hr | 9 (9.0) | 5 (4.9) | 1.84 (0.64-5.29) | 0.25 |
+END DE_EVIDENCE rescue_japan_limit result.early_symptomatic_intracranial_hemorrhage
+BEGIN DE_EVIDENCE rescue_japan_limit result.early_symptomatic_intracranial_hemorrhage {"canonical_field": "intervention_group_size", "document_key": "rescue_japan_limit.fulltext", "source_path": "originals/rescue-japan-limit-primary/publisher.pdf", "source_sha256": "7012a5856d67d044a352eebe90544839306433d5047cbd714e4ef4228e8b98c5", "view_sha256": "bbbcb1c9af860c842fca203e832d4e7cee30ee11eb4f92740db4a4f94ca21bfd"}
+| Table 2. Trial Outcomes. Outcome | Endovascular- Therapy Group (N = 100) | Medical-Care Group (N = 102) | Treatment Effect (95% CI)* | P Value |
+END DE_EVIDENCE rescue_japan_limit result.early_symptomatic_intracranial_hemorrhage
+BEGIN DE_EVIDENCE angel_aspect result.functional_independence.mrs_0_2.day90 {"canonical_field": "intervention_events", "document_key": "angel_aspect.fulltext", "source_path": "originals/angel-aspect-primary/publisher.pdf", "source_sha256": "e424fd73b5175f2239b4931f8671d75f24f1af7b9c71036da0841bdc11a1a507", "view_sha256": "f889a8bfc2ca17a1434c9c37f6d9db4f4faf69134e09f4e017d3cc4cc8c9258f"}
+| 0 to 2 | 69 (30.0) | 26 (11.6) | 2.62 (1.69 to 4.06) |  |
+END DE_EVIDENCE angel_aspect result.functional_independence.mrs_0_2.day90
+BEGIN DE_EVIDENCE angel_aspect result.functional_independence.mrs_0_2.day90 {"canonical_field": "intervention_group_size", "document_key": "angel_aspect.fulltext", "source_path": "originals/angel-aspect-primary/publisher.pdf", "source_sha256": "e424fd73b5175f2239b4931f8671d75f24f1af7b9c71036da0841bdc11a1a507", "view_sha256": "f889a8bfc2ca17a1434c9c37f6d9db4f4faf69134e09f4e017d3cc4cc8c9258f"}
+| Outcome | Endovascular Therapy (N = 230) | Medical Management (N = 225) | Treatment Effect (95% CI)* | P Value |
+END DE_EVIDENCE angel_aspect result.functional_independence.mrs_0_2.day90
+BEGIN DE_EVIDENCE angel_aspect result.ambulation.mrs_0_3.day90 {"canonical_field": "intervention_events", "document_key": "angel_aspect.fulltext", "source_path": "originals/angel-aspect-primary/publisher.pdf", "source_sha256": "e424fd73b5175f2239b4931f8671d75f24f1af7b9c71036da0841bdc11a1a507", "view_sha256": "f889a8bfc2ca17a1434c9c37f6d9db4f4faf69134e09f4e017d3cc4cc8c9258f"}
+6.
+
+1279
+
+[DOCLING_PAGE 9]
+
+The new england journal o f medicine
+
+[DOCLING_TABLE rows=16 columns=5]
+| Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. |
+| Outcome | Endovascular Therapy (N = 230) | Medical Management (N = 225) | Treatment Effect (95% CI)* | P Value |
+| Primary outcome |  |  |  |  |
+| Score on the modified Rankin scale at 90 days† | 4 (2 to 5) | 4 (3 to 5) | 1.37 (1.11 to 1.69) | 0.004 |
+| Secondary outcomes |  |  |  |  |
+| Score on the modified Rankin scale at 90 days - no. (%)† |  |  |  |  |
+| 0 to 2 | 69 (30.0) | 26 (11.6) | 2.62 (1.69 to 4.06) |  |
+| 0 to 3 | 108 (47.0) | 75 (33.3) | 1.50 (1.17 to 1.91) |  |
+| NIHSS score of 0 or 1 or improvement in score by ≥10 points at 36 hr - no. (%)‡ | 13 (5.7) | 4 (1.8) | 4.29 (1.28 to 14.46) |  |
+| Change from baseline in infarct-core volume§ | 61.7 (29.7 to 136.5) | 90.5 (40.7 to 150.8) | -6.63 (-23.38 to 10.11) |  |
+| Target-artery recanalization at 36 hr - no. (%)¶ | 169 (85.8) | 67 (36.4) | 2.46 (1.96 to 3.08) |  |
+| Safety outcomes |  |  |  |  |
+| Symptomatic intracranial hemorrhage within 48 hr - no. (%)‖ | 14 (6.1) | 6 (2.7) | 2.07 (0.79 to 5.41) | 0.12 |
+| Any intracranial hemorrhage within 48 hr - no. (%) | 113 (49.1) | 39 (17.3) | 2.71 (1.91 to 3.84) | <0.001 |
+| Death within 90 days - no. (%) | 50 (21.7) | 45 (20.0) | 1.00 (0.65 to 1.54) | 0.99 |
+| Decompressive hemicraniectomy during hospitaliza- tion - no. (%) | 17 (7.4) | 8 (3.6) | 1.92 (0.78 to 4.73) | 0.15 |
+[/DOCLING_TABLE]
+
+In secondary analyses, the previously conducted SELECT study 6 and the International Stroke Perfusion Imaging Registry (INSPIRE) study 19 showed that endovascular therapy may have benefited patients with infarct-core volumes of 50 to 100 ml and of 70 to 100 ml, respectively. The RESCUE-Japan LIMIT trial involving patients with large infarctions showed that Japanese patients with an ASPECTS value of 3 to 5 had better functional outcomes with endovascular therapy than with medical care alone but had more intracranial hemorrhages. 3 Our trial showed that the benefit with endovascular therapy in patients with low ASPECTS values (larger infarctions) within 24 hours after symptom onset in a Chinese population was similar to that in the RESCUEJapan LIMIT trial. A trial of endovascular treatment for large strokes enrolled patients with large core on different imaging methods has shown results that are generally similar to those of our trial. 20
+
+In addition to patients with an ASPECTS value of 3 to 5, some patients with an ASPECTS value of 0 to 2, indicating very large infarct cores, were also enrolled in our trial as a result of the alternate enrollment criterion allowing the inclusion of patients with an infarct-core volume of 70 to Shown is the subgroup analysis of the primary outcome indicating the odds that the trial patients would have better functional recovery at 90 days. The trial was not powered to allow definite conclusions based on the results of the subgroup analyses. The M1 segme
+END DE_EVIDENCE angel_aspect result.ambulation.mrs_0_3.day90
+BEGIN DE_EVIDENCE angel_aspect result.nondisabled.mrs_0_1.day90 {"canonical_field": "intervention_events", "document_key": "angel_aspect.fulltext", "source_path": "originals/angel-aspect-primary/publisher.pdf", "source_sha256": "e424fd73b5175f2239b4931f8671d75f24f1af7b9c71036da0841bdc11a1a507", "view_sha256": "f889a8bfc2ca17a1434c9c37f6d9db4f4faf69134e09f4e017d3cc4cc8c9258f"}
+arge Infarct
+
+Figure 2. Distribution of Scores on the Modified Rankin Scale at 90 Days among Patients Presenting with a Large ­ Infarct Core within 24 Hours after Symptom Onset.
+
+1
+
+0
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Score on Modified Rankin Scale
+
+Medical Management
+
+(N=225)
+
+Endovascular Therapy
+
+(N=230)
+
+3.9
+
+(N=9)
+
+8.3
+
+(N=19)
+
+3.6
+
+(N=8)
+
+17.8
+
+(N=41)
+
+17.0
+
+(N=39)
+
+21.8
+
+(N=49)
+
+19.6
+
+(N=45)
+
+26.7
+
+(N=60)
+
+11.7
+
+(N=27)
+
+20.0
+
+(N=45)
+
+21.7
+
+(N=50)
+
+20.0
+
+(N=45)
+
+8.0
+
+(N=18)
+
+0
+
+10
+
+70
+
+60
+
+50
+
+100
+
+90
+
+80
+
+40
+
+30
+
+20
+
+Percentage of Patients
+
+A score of 0 on the modified Rankin scale indicates no symptoms; a score of 1, no clinically significant disability; a score of 2, slight disability (patients are able to look after their own affairs without assistance but are unable to carry out all previous activities); a score of 3, moderate disability (patients require some help but are able to walk unassisted); a score of 4, moderately severe disability (patients are unable to attend to bodily needs without assistance and are unable to walk unassisted); a score of 5, severe disability (patients require constant nursing care and attention); and a score of 6, death. In the primary outcome analysis, a shift in the distribution of scores on the modified Rankin scale at 90 days toward better outcomes was observed in favor of endovascular therapy over medical management alone (generalized odds ratio, 1.37; 95% CI, 1.11 to 1.69; P = 0.004). Percentages may not total 100 ­ because of rounding.
+
+The efficacy of endovascular therapy with respect to the primary outcome was similar across predefined subgroups (Fig. 3) and across all trial sites, but the trial was underpowered for these analyses. The results for the primary outcome in the per-protocol sensitivity analysis were similar to those in the intention-to-treat analysis (Fig. S3 and Table S5). The post hoc mixed-effect model analysis indicated that the trial site effects were significant (Table S6).
+
+Safety Outcomes
+
+Symptomatic intracranial hemorrhage within 48 hours after randomization (the primary safety outcome) occurred in 14 patients (6.1%) in the endovascular-therapy group and in 6 patients (2.7%) in the medical-management group (relative risk, 2.07; 95% CI, 0.79 to 5.41; P = 0.12) (Table 2). Any intracranial hemorrhage within 48 hours occurred in 113 patients (49.1%) in the endovascular-therapy group and in 39 patients (17.3%) in the medical-management group (relative risk, 2.71; 95% CI, 1.91 to 3.84; P<0.001). Numerically more patients underwent hemicraniectomy in the endovascular-therapy group than in the medical-management group (7.4% vs. 3.6%;
+
+relative risk, 1.92; 95% CI, 0.78 to 4.73; P = 0.15). Mortality within 90 days was 21.7% in the endovascular-therapy group and 20.0% in the medical-management group. Other serious adverse events occurred in 92 patients (40.0%) in the endovascular-therapy group and in 86 patients (38.2%) in the medical-management group (P = 0.70) (Table S8). Arterial dissection or perforation each occurred in approximately 1% of the patients in the endovascular-therapy group.
+
+Discussion
+
+In this trial conducted in China, patients with acute stroke with a large cerebral infarction caused by large-vessel occlusion in the anterior circulation had better functional recovery at 90 days with endovascular therapy administered within 24 hours after stroke onset than with usual medical management. More events of any intracranial hemorrhage occurred in the endovascular-therapy group than in the medicalmanagement group. The incidence of symptomatic intracranial hemorrhage did not differ significantly between the two groups, but such events were numerically more common in the endovascular-therapy group than in the medicalmanagement group. The results for any intracranial hemorrhage and symptomatic intracranial hemorrhage in our trial were similar to those in the RESCUE-Japan LIMIT trial, as was mortality. 3
+
+n engl j med 388;14 nejm.org April 6, 2023
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+1279
+
+[DOCLING_PAGE 9]
+
+The new england journal o f medicine
+
+[DOCLING_TABLE rows=16 columns=5]
+| Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. |
+| Outcome | Endovascular Therapy (N = 230) | Medical Management (N = 225) | Treatment Effect (95% CI)* | P Value |
+| Primary outcome |  |  |  |  |
+| Score on the modified Rankin scale at 90 days† | 4 (2 to 5) | 4 (3 to 5) | 1.37 (1.11 to 1.69) | 0.004 |
+| Secondary outcomes |  |  |  |  |
+| Score on the modified Rankin scale at 90 days - no. (%)† |  |  |  |  |
+| 0 to 2 | 69 (30.0) | 26 (11.6) | 2.62 (1.69 to 4.06) |  |
+| 0 to 3 | 108 (47.0) | 75 (33.3) | 1.50 (1.17 to 1.91) |  |
+| NIHSS score of 0 or 1 or improvement in score by ≥10 points at 36 hr - no. (%)‡ | 13 (5.7) | 4 (1.8) | 4.29 (1.28 to 14.46) |  |
+| Change from baseline in infarct-core volume§ | 61.7 (29.7 to 136.5) | 90.5 (40.7 to 150.8) | -6.63 (-23.38 to 10.11) |  |
+| Target-artery recanalization at 36 hr - no. (%)¶ | 169 
+END DE_EVIDENCE angel_aspect result.nondisabled.mrs_0_1.day90
+BEGIN DE_EVIDENCE angel_aspect result.early_neurologic_improvement {"canonical_field": "intervention_events", "document_key": "angel_aspect.fulltext", "source_path": "originals/angel-aspect-primary/publisher.pdf", "source_sha256": "e424fd73b5175f2239b4931f8671d75f24f1af7b9c71036da0841bdc11a1a507", "view_sha256": "f889a8bfc2ca17a1434c9c37f6d9db4f4faf69134e09f4e017d3cc4cc8c9258f"}
+6.
+
+1279
+
+[DOCLING_PAGE 9]
+
+The new england journal o f medicine
+
+[DOCLING_TABLE rows=16 columns=5]
+| Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. |
+| Outcome | Endovascular Therapy (N = 230) | Medical Management (N = 225) | Treatment Effect (95% CI)* | P Value |
+| Primary outcome |  |  |  |  |
+| Score on the modified Rankin scale at 90 days† | 4 (2 to 5) | 4 (3 to 5) | 1.37 (1.11 to 1.69) | 0.004 |
+| Secondary outcomes |  |  |  |  |
+| Score on the modified Rankin scale at 90 days - no. (%)† |  |  |  |  |
+| 0 to 2 | 69 (30.0) | 26 (11.6) | 2.62 (1.69 to 4.06) |  |
+| 0 to 3 | 108 (47.0) | 75 (33.3) | 1.50 (1.17 to 1.91) |  |
+| NIHSS score of 0 or 1 or improvement in score by ≥10 points at 36 hr - no. (%)‡ | 13 (5.7) | 4 (1.8) | 4.29 (1.28 to 14.46) |  |
+| Change from baseline in infarct-core volume§ | 61.7 (29.7 to 136.5) | 90.5 (40.7 to 150.8) | -6.63 (-23.38 to 10.11) |  |
+| Target-artery recanalization at 36 hr - no. (%)¶ | 169 (85.8) | 67 (36.4) | 2.46 (1.96 to 3.08) |  |
+| Safety outcomes |  |  |  |  |
+| Symptomatic intracranial hemorrhage within 48 hr - no. (%)‖ | 14 (6.1) | 6 (2.7) | 2.07 (0.79 to 5.41) | 0.12 |
+| Any intracranial hemorrhage within 48 hr - no. (%) | 113 (49.1) | 39 (17.3) | 2.71 (1.91 to 3.84) | <0.001 |
+| Death within 90 days - no. (%) | 50 (21.7) | 45 (20.0) | 1.00 (0.65 to 1.54) | 0.99 |
+| Decompressive hemicraniectomy during hospitaliza- tion - no. (%) | 17 (7.4) | 8 (3.6) | 1.92 (0.78 to 4.73) | 0.15 |
+[/DOCLING_TABLE]
+
+In secondary analyses, the previously conducted SELECT study 6 and the International Stroke Perfusion Imaging Registry (INSPIRE) study 19 showed that endovascular therapy may have benefited patients with infarct-core volumes of 50 to 100 ml and of 70 to 100 ml, respectively. The RESCUE-Japan LIMIT trial involving patients with large infarctions showed that Japanese patients with an ASPECTS value of 3 to 5 had better functional outcomes with endovascular therapy than with medical care alone but had more intracranial hemorrhages. 3 Our trial showed that the benefit with endovascular therapy in patients with low ASPECTS values (larger infarctions) within 24 hours after symptom onset in a Chinese population was similar to that in the RESCUEJapan LIMIT trial. A trial of endovascular treatment for large strokes enrolled patients with large core on different imaging methods has shown results that are generally similar to those of our trial. 20
+
+In addition to patients with an ASPECTS value of 3 to 5, some patients with an ASPECTS value of 0 to 2, indicating very large infarct cores, were also enrolled in our trial as a result of the alternate enrollment criterion allowing the inclusion of patients with an infarct-core volume of 70 to Shown is the subgroup analysis of the primary outcome indicating the odds that the trial patients would have better functional recovery at 90 days. The trial was not powered to allow definite conclusions based on the results of the subgroup analyses. The M1 segme
+END DE_EVIDENCE angel_aspect result.early_neurologic_improvement
+BEGIN DE_EVIDENCE angel_aspect result.constant_care_or_death.mrs_5_6.day90 {"canonical_field": "intervention_events", "document_key": "angel_aspect.fulltext", "source_path": "originals/angel-aspect-primary/publisher.pdf", "source_sha256": "e424fd73b5175f2239b4931f8671d75f24f1af7b9c71036da0841bdc11a1a507", "view_sha256": "f889a8bfc2ca17a1434c9c37f6d9db4f4faf69134e09f4e017d3cc4cc8c9258f"}
+arge Infarct
+
+Figure 2. Distribution of Scores on the Modified Rankin Scale at 90 Days among Patients Presenting with a Large ­ Infarct Core within 24 Hours after Symptom Onset.
+
+1
+
+0
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Score on Modified Rankin Scale
+
+Medical Management
+
+(N=225)
+
+Endovascular Therapy
+
+(N=230)
+
+3.9
+
+(N=9)
+
+8.3
+
+(N=19)
+
+3.6
+
+(N=8)
+
+17.8
+
+(N=41)
+
+17.0
+
+(N=39)
+
+21.8
+
+(N=49)
+
+19.6
+
+(N=45)
+
+26.7
+
+(N=60)
+
+11.7
+
+(N=27)
+
+20.0
+
+(N=45)
+
+21.7
+
+(N=50)
+
+20.0
+
+(N=45)
+
+8.0
+
+(N=18)
+
+0
+
+10
+
+70
+
+60
+
+50
+
+100
+
+90
+
+80
+
+40
+
+30
+
+20
+
+Percentage of Patients
+
+A score of 0 on the modified Rankin scale indicates no symptoms; a score of 1, no clinically significant disability; a score of 2, slight disability (patients are able to look after their own affairs without assistance but are unable to carry out all previous activities); a score of 3, moderate disability (patients require some help but are able to walk unassisted); a score of 4, moderately severe disability (patients are unable to attend to bodily needs without assistance and are unable to walk unassisted); a score of 5, severe disability (patients require constant nursing care and attention); and a score of 6, death. In the primary outcome analysis, a shift in the distribution of scores on the modified Rankin scale at 90 days toward better outcomes was observed in favor of endovascular therapy over medical management alone (generalized odds ratio, 1.37; 95% CI, 1.11 to 1.69; P = 0.004). Percentages may not total 100 ­ because of rounding.
+
+The efficacy of endovascular therapy with respect to the primary outcome was similar across predefined subgroups (Fig. 3) and across all trial sites, but the trial was underpowered for these analyses. The results for the primary outcome in the per-protocol sensitivity analysis were similar to those in the intention-to-treat analysis (Fig. S3 and Table S5). The post hoc mixed-effect model analysis indicated that the trial site effects were significant (Table S6).
+
+Safety Outcomes
+
+Symptomatic intracranial hemorrhage within 48 hours after randomization (the primary safety outcome) occurred in 14 patients (6.1%) in the endovascular-therapy group and in 6 patients (2.7%) in the medical-management group (relative risk, 2.07; 95% CI, 0.79 to 5.41; P = 0.12) (Table 2). Any intracranial hemorrhage within 48 hours occurred in 113 patients (49.1%) in the endovascular-therapy group and in 39 patients (17.3%) in the medical-management group (relative risk, 2.71; 95% CI, 1.91 to 3.84; P<0.001). Numerically more patients underwent hemicraniectomy in the endovascular-therapy group than in the medical-management group (7.4% vs. 3.6%;
+
+relative risk, 1.92; 95% CI, 0.78 to 4.73; P = 0.15). Mortality within 90 days was 21.7% in the endovascular-therapy group and 20.0% in the medical-management group. Other serious adverse events occurred in 92 patients (40.0%) in the endovascular-therapy group and in 86 patients (38.2%) in the medical-management group (P = 0.70) (Table S8). Arterial dissection or perforation each occurred in approximately 1% of the patients in the endovascular-therapy group.
+
+Discussion
+
+In this trial conducted in China, patients with acute stroke with a large cerebral infarction caused by large-vessel occlusion in the anterior circulation had better functional recovery at 90 days with endovascular therapy administered within 24 hours after stroke onset than with usual medical management. More events of any intracranial hemorrhage occurred in the endovascular-therapy group than in the medicalmanagement group. The incidence of symptomatic intracranial hemorrhage did not differ significantly between the two groups, but such events were numerically more common in the endovascular-therapy group than in the medicalmanagement group. The results for any intracranial hemorrhage and symptomatic intracranial hemorrhage in our trial were similar to those in the RESCUE-Japan LIMIT trial, as was mortality. 3
+
+n engl j med 388;14 nejm.org April 6, 2023
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+1279
+
+[DOCLING_PAGE 9]
+
+The new england journal o f medicine
+
+[DOCLING_TABLE rows=16 columns=5]
+| Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. |
+| Outcome | Endovascular Therapy (N = 230) | Medical Management (N = 225) | Treatment Effect (95% CI)* | P Value |
+| Primary outcome |  |  |  |  |
+| Score on the modified Rankin scale at 90 days† | 4 (2 to 5) | 4 (3 to 5) | 1.37 (1.11 to 1.69) | 0.004 |
+| Secondary outcomes |  |  |  |  |
+| Score on the modified Rankin scale at 90 days - no. (%)† |  |  |  |  |
+| 0 to 2 | 69 (30.0) | 26 (11.6) | 2.62 (1.69 to 4.06) |  |
+| 0 to 3 | 108 (47.0) | 75 (33.3) | 1.50 (1.17 to 1.91) |  |
+| NIHSS score of 0 or 1 or improvement in score by ≥10 points at 36 hr - no. (%)‡ | 13 (5.7) | 4 (1.8) | 4.29 (1.28 to 14.46) |  |
+| Change from baseline in infarct-core volume§ | 61.7 (29.7 to 136.5) | 90.5 (40.7 to 150.8) | -6.63 (-23.38 to 10.11) |  |
+| Target-artery recanalization at 36 hr - no. (%)¶ | 169 
+END DE_EVIDENCE angel_aspect result.constant_care_or_death.mrs_5_6.day90
+BEGIN DE_EVIDENCE angel_aspect result.death.day90 {"canonical_field": "intervention_events", "document_key": "angel_aspect.fulltext", "source_path": "originals/angel-aspect-primary/publisher.pdf", "source_sha256": "e424fd73b5175f2239b4931f8671d75f24f1af7b9c71036da0841bdc11a1a507", "view_sha256": "f889a8bfc2ca17a1434c9c37f6d9db4f4faf69134e09f4e017d3cc4cc8c9258f"}
+6.
+
+1279
+
+[DOCLING_PAGE 9]
+
+The new england journal o f medicine
+
+[DOCLING_TABLE rows=16 columns=5]
+| Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. |
+| Outcome | Endovascular Therapy (N = 230) | Medical Management (N = 225) | Treatment Effect (95% CI)* | P Value |
+| Primary outcome |  |  |  |  |
+| Score on the modified Rankin scale at 90 days† | 4 (2 to 5) | 4 (3 to 5) | 1.37 (1.11 to 1.69) | 0.004 |
+| Secondary outcomes |  |  |  |  |
+| Score on the modified Rankin scale at 90 days - no. (%)† |  |  |  |  |
+| 0 to 2 | 69 (30.0) | 26 (11.6) | 2.62 (1.69 to 4.06) |  |
+| 0 to 3 | 108 (47.0) | 75 (33.3) | 1.50 (1.17 to 1.91) |  |
+| NIHSS score of 0 or 1 or improvement in score by ≥10 points at 36 hr - no. (%)‡ | 13 (5.7) | 4 (1.8) | 4.29 (1.28 to 14.46) |  |
+| Change from baseline in infarct-core volume§ | 61.7 (29.7 to 136.5) | 90.5 (40.7 to 150.8) | -6.63 (-23.38 to 10.11) |  |
+| Target-artery recanalization at 36 hr - no. (%)¶ | 169 (85.8) | 67 (36.4) | 2.46 (1.96 to 3.08) |  |
+| Safety outcomes |  |  |  |  |
+| Symptomatic intracranial hemorrhage within 48 hr - no. (%)‖ | 14 (6.1) | 6 (2.7) | 2.07 (0.79 to 5.41) | 0.12 |
+| Any intracranial hemorrhage within 48 hr - no. (%) | 113 (49.1) | 39 (17.3) | 2.71 (1.91 to 3.84) | <0.001 |
+| Death within 90 days - no. (%) | 50 (21.7) | 45 (20.0) | 1.00 (0.65 to 1.54) | 0.99 |
+| Decompressive hemicraniectomy during hospitaliza- tion - no. (%) | 17 (7.4) | 8 (3.6) | 1.92 (0.78 to 4.73) | 0.15 |
+[/DOCLING_TABLE]
+
+In secondary analyses, the previously conducted SELECT study 6 and the International Stroke Perfusion Imaging Registry (INSPIRE) study 19 showed that endovascular therapy may have benefited patients with infarct-core volumes of 50 to 100 ml and of 70 to 100 ml, respectively. The RESCUE-Japan LIMIT trial involving patients with large infarctions showed that Japanese patients with an ASPECTS value of 3 to 5 had better functional outcomes with endovascular therapy than with medical care alone but had more intracranial hemorrhages. 3 Our trial showed that the benefit with endovascular therapy in patients with low ASPECTS values (larger infarctions) within 24 hours after symptom onset in a Chinese population was similar to that in the RESCUEJapan LIMIT trial. A trial of endovascular treatment for large strokes enrolled patients with large core on different imaging methods has shown results that are generally similar to those of our trial. 20
+
+In addition to patients with an ASPECTS value of 3 to 5, some patients with an ASPECTS value of 0 to 2, indicating very large infarct cores, were also enrolled in our trial as a result of the alternate enrollment criterion allowing the inclusion of patients with an infarct-core volume of 70 to Shown is the subgroup analysis of the primary outcome indicating the odds that the trial patients would have better functional recovery at 90 days. The trial was not powered to allow definite conclusions based on the results of the subgroup analyses. The M1 segme
+END DE_EVIDENCE angel_aspect result.death.day90
+BEGIN DE_EVIDENCE angel_aspect result.early_symptomatic_intracranial_hemorrhage {"canonical_field": "intervention_events", "document_key": "angel_aspect.fulltext", "source_path": "originals/angel-aspect-primary/publisher.pdf", "source_sha256": "e424fd73b5175f2239b4931f8671d75f24f1af7b9c71036da0841bdc11a1a507", "view_sha256": "f889a8bfc2ca17a1434c9c37f6d9db4f4faf69134e09f4e017d3cc4cc8c9258f"}
+6.
+
+1279
+
+[DOCLING_PAGE 9]
+
+The new england journal o f medicine
+
+[DOCLING_TABLE rows=16 columns=5]
+| Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. | Table 2. Efficacy and Safety Outcomes. |
+| Outcome | Endovascular Therapy (N = 230) | Medical Management (N = 225) | Treatment Effect (95% CI)* | P Value |
+| Primary outcome |  |  |  |  |
+| Score on the modified Rankin scale at 90 days† | 4 (2 to 5) | 4 (3 to 5) | 1.37 (1.11 to 1.69) | 0.004 |
+| Secondary outcomes |  |  |  |  |
+| Score on the modified Rankin scale at 90 days - no. (%)† |  |  |  |  |
+| 0 to 2 | 69 (30.0) | 26 (11.6) | 2.62 (1.69 to 4.06) |  |
+| 0 to 3 | 108 (47.0) | 75 (33.3) | 1.50 (1.17 to 1.91) |  |
+| NIHSS score of 0 or 1 or improvement in score by ≥10 points at 36 hr - no. (%)‡ | 13 (5.7) | 4 (1.8) | 4.29 (1.28 to 14.46) |  |
+| Change from baseline in infarct-core volume§ | 61.7 (29.7 to 136.5) | 90.5 (40.7 to 150.8) | -6.63 (-23.38 to 10.11) |  |
+| Target-artery recanalization at 36 hr - no. (%)¶ | 169 (85.8) | 67 (36.4) | 2.46 (1.96 to 3.08) |  |
+| Safety outcomes |  |  |  |  |
+| Symptomatic intracranial hemorrhage within 48 hr - no. (%)‖ | 14 (6.1) | 6 (2.7) | 2.07 (0.79 to 5.41) | 0.12 |
+| Any intracranial hemorrhage within 48 hr - no. (%) | 113 (49.1) | 39 (17.3) | 2.71 (1.91 to 3.84) | <0.001 |
+| Death within 90 days - no. (%) | 50 (21.7) | 45 (20.0) | 1.00 (0.65 to 1.54) | 0.99 |
+| Decompressive hemicraniectomy during hospitaliza- tion - no. (%) | 17 (7.4) | 8 (3.6) | 1.92 (0.78 to 4.73) | 0.15 |
+[/DOCLING_TABLE]
+
+In secondary analyses, the previously conducted SELECT study 6 and the International Stroke Perfusion Imaging Registry (INSPIRE) study 19 showed that endovascular therapy may have benefited patients with infarct-core volumes of 50 to 100 ml and of 70 to 100 ml, respectively. The RESCUE-Japan LIMIT trial involving patients with large infarctions showed that Japanese patients with an ASPECTS value of 3 to 5 had better functional outcomes with endovascular therapy than with medical care alone but had more intracranial hemorrhages. 3 Our trial showed that the benefit with endovascular therapy in patients with low ASPECTS values (larger infarctions) within 24 hours after symptom onset in a Chinese population was similar to that in the RESCUEJapan LIMIT trial. A trial of endovascular treatment for large strokes enrolled patients with large core on different imaging methods has shown results that are generally similar to those of our trial. 20
+
+In addition to patients with an ASPECTS value of 3 to 5, some patients with an ASPECTS value of 0 to 2, indicating very large infarct cores, were also enrolled in our trial as a result of the alternate enrollment criterion allowing the inclusion of patients with an infarct-core volume of 70 to Shown is the subgroup analysis of the primary outcome indicating the odds that the trial patients would have better functional recovery at 90 days. The trial was not powered to allow definite conclusions based on the results of the subgroup analyses. The M1 segme
+END DE_EVIDENCE angel_aspect result.early_symptomatic_intracranial_hemorrhage
+BEGIN DE_EVIDENCE select2 result.functional_independence.mrs_0_2.day90 {"canonical_field": "intervention_events", "document_key": "select2.fulltext", "source_path": "originals/select2-primary/publisher.pdf", "source_sha256": "ee9f60a2ec0573dd43f19ada1b771adfc635550e476d4c964a416aaeb0c05b72", "view_sha256": "1f8edb27bebd973df66ea3c9e390e7ae4f3f5b884feb0cc3acb6f6c048d91989"}
+| Functional independence at 90 days - no./total no. (%)§ | 36/177 (20.3) | 12/171 (7.0) | 2.97 (1.60 to 5.51)¶ |
+END DE_EVIDENCE select2 result.functional_independence.mrs_0_2.day90
+BEGIN DE_EVIDENCE select2 result.functional_independence.mrs_0_2.day90 {"canonical_field": "intervention_group_size", "document_key": "select2.fulltext", "source_path": "originals/select2-primary/publisher.pdf", "source_sha256": "ee9f60a2ec0573dd43f19ada1b771adfc635550e476d4c964a416aaeb0c05b72", "view_sha256": "1f8edb27bebd973df66ea3c9e390e7ae4f3f5b884feb0cc3acb6f6c048d91989"}
+| Variable | Endovascular Thrombectomy (N = 178) | Medical Care (N = 174) | Effect Size (95% CI) |
+END DE_EVIDENCE select2 result.functional_independence.mrs_0_2.day90
+BEGIN DE_EVIDENCE select2 result.ambulation.mrs_0_3.day90 {"canonical_field": "intervention_events", "document_key": "select2.fulltext", "source_path": "originals/select2-primary/publisher.pdf", "source_sha256": "ee9f60a2ec0573dd43f19ada1b771adfc635550e476d4c964a416aaeb0c05b72", "view_sha256": "1f8edb27bebd973df66ea3c9e390e7ae4f3f5b884feb0cc3acb6f6c048d91989"}
+| Independent ambulation at 90 days - no./total no. (%)‖ | 67/177 (37.9) | 32/171 (18.7) | 2.06 (1.43 to 2.96)¶ |
+END DE_EVIDENCE select2 result.ambulation.mrs_0_3.day90
+BEGIN DE_EVIDENCE select2 result.ambulation.mrs_0_3.day90 {"canonical_field": "intervention_group_size", "document_key": "select2.fulltext", "source_path": "originals/select2-primary/publisher.pdf", "source_sha256": "ee9f60a2ec0573dd43f19ada1b771adfc635550e476d4c964a416aaeb0c05b72", "view_sha256": "1f8edb27bebd973df66ea3c9e390e7ae4f3f5b884feb0cc3acb6f6c048d91989"}
+| Variable | Endovascular Thrombectomy (N = 178) | Medical Care (N = 174) | Effect Size (95% CI) |
+END DE_EVIDENCE select2 result.ambulation.mrs_0_3.day90
+BEGIN DE_EVIDENCE select2 result.nondisabled.mrs_0_1.day90 {"canonical_field": "intervention_events", "document_key": "select2.fulltext", "source_path": "originals/select2-primary/publisher.pdf", "source_sha256": "ee9f60a2ec0573dd43f19ada1b771adfc635550e476d4c964a416aaeb0c05b72", "view_sha256": "1f8edb27bebd973df66ea3c9e390e7ae4f3f5b884feb0cc3acb6f6c048d91989"}
+Figure 1. Distribution of Scores on the Modified Rankin Scale at 90 Days (Intention-to-Treat Population).
+
+Endovascular Thrombectomy
+
+(N=178)
+
+Medical Care
+
+(N=174)
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Percentage of Patients
+
+Score on Modified Rankin Scale
+
+3
+
+2
+
+1
+
+0
+
+4
+
+5
+
+6
+
+40.8
+
+(N=71)
+
+38.2
+
+(N=68)
+
+8.4
+
+(N=15)
+
+18.4
+
+(N=32)
+
+15.2
+
+(N=27)
+
+17.4
+
+(N=31)
+
+11.5
+
+(N=20)
+
+1.1
+
+(N=2)
+
+5.1
+
+(N=9)
+
+1.7
+
+(N=3)
+
+14.0
+
+(N=25)
+
+20.7
+
+(N=36)
+
+5.2
+
+(N=9)
+
+0
+
+(N=0)
+
+A modified Rankin scale score of 0 indicates no symptoms; a score of 1, no clinically significant disability (patients are able to perform usual work, leisure, and school activities); a score of 2, slight disability (patients are able to look after their own affairs without assistance but are unable to carry out all previous activities); a score of 3, moderate disability (patients require some help but are able to walk unassisted); a score of 4, moderately severe disability; a score of 5, severe disability (patients are bedridden and require constant care); and a score of 6, death. Percentages may not total 100 because of rounding.
+END DE_EVIDENCE select2 result.nondisabled.mrs_0_1.day90
+BEGIN DE_EVIDENCE select2 result.early_neurologic_improvement {"canonical_field": "intervention_events", "document_key": "select2.fulltext", "source_path": "originals/select2-primary/publisher.pdf", "source_sha256": "ee9f60a2ec0573dd43f19ada1b771adfc635550e476d4c964a416aaeb0c05b72", "view_sha256": "1f8edb27bebd973df66ea3c9e390e7ae4f3f5b884feb0cc3acb6f6c048d91989"}
+| Early neurologic improvement - no./total no. (%)†† | 20/174 (11.5) | 13/172 (7.6) | 1.47 (0.76 to 2.87)¶ |
+END DE_EVIDENCE select2 result.early_neurologic_improvement
+BEGIN DE_EVIDENCE select2 result.early_neurologic_improvement {"canonical_field": "intervention_group_size", "document_key": "select2.fulltext", "source_path": "originals/select2-primary/publisher.pdf", "source_sha256": "ee9f60a2ec0573dd43f19ada1b771adfc635550e476d4c964a416aaeb0c05b72", "view_sha256": "1f8edb27bebd973df66ea3c9e390e7ae4f3f5b884feb0cc3acb6f6c048d91989"}
+| Variable | Endovascular Thrombectomy (N = 178) | Medical Care (N = 174) | Effect Size (95% CI) |
+END DE_EVIDENCE select2 result.early_neurologic_improvement
+BEGIN DE_EVIDENCE select2 result.constant_care_or_death.mrs_5_6.day90 {"canonical_field": "intervention_events", "document_key": "select2.fulltext", "source_path": "originals/select2-primary/publisher.pdf", "source_sha256": "ee9f60a2ec0573dd43f19ada1b771adfc635550e476d4c964a416aaeb0c05b72", "view_sha256": "1f8edb27bebd973df66ea3c9e390e7ae4f3f5b884feb0cc3acb6f6c048d91989"}
+Figure 1. Distribution of Scores on the Modified Rankin Scale at 90 Days (Intention-to-Treat Population).
+
+Endovascular Thrombectomy
+
+(N=178)
+
+Medical Care
+
+(N=174)
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Percentage of Patients
+
+Score on Modified Rankin Scale
+
+3
+
+2
+
+1
+
+0
+
+4
+
+5
+
+6
+
+40.8
+
+(N=71)
+
+38.2
+
+(N=68)
+
+8.4
+
+(N=15)
+
+18.4
+
+(N=32)
+
+15.2
+
+(N=27)
+
+17.4
+
+(N=31)
+
+11.5
+
+(N=20)
+
+1.1
+
+(N=2)
+
+5.1
+
+(N=9)
+
+1.7
+
+(N=3)
+
+14.0
+
+(N=25)
+
+20.7
+
+(N=36)
+
+5.2
+
+(N=9)
+
+0
+
+(N=0)
+
+A modified Rankin scale score of 0 indicates no symptoms; a score of 1, no clinically significant disability (patients are able to perform usual work, leisure, and school activities); a score of 2, slight disability (patients are able to look after their own affairs without assistance but are unable to carry out all previous activities); a score of 3, moderate disability (patients require some help but are able to walk unassisted); a score of 4, moderately severe disability; a score of 5, severe disability (patients are bedridden and require constant care); and a score of 6, death. Percentages may not total 100 because of rounding.
+END DE_EVIDENCE select2 result.constant_care_or_death.mrs_5_6.day90
+BEGIN DE_EVIDENCE select2 result.death.day90 {"canonical_field": "intervention_events", "document_key": "select2.fulltext", "source_path": "originals/select2-primary/publisher.pdf", "source_sha256": "ee9f60a2ec0573dd43f19ada1b771adfc635550e476d4c964a416aaeb0c05b72", "view_sha256": "1f8edb27bebd973df66ea3c9e390e7ae4f3f5b884feb0cc3acb6f6c048d91989"}
+| Death from any cause within 90 days - no./total no. (%) | 68/177 (38.4) | 71/171 (41.5) | 0.91 (0.71 to 1.18) |
+END DE_EVIDENCE select2 result.death.day90
+BEGIN DE_EVIDENCE select2 result.early_symptomatic_intracranial_hemorrhage {"canonical_field": "intervention_events", "document_key": "select2.fulltext", "source_path": "originals/select2-primary/publisher.pdf", "source_sha256": "ee9f60a2ec0573dd43f19ada1b771adfc635550e476d4c964a416aaeb0c05b72", "view_sha256": "1f8edb27bebd973df66ea3c9e390e7ae4f3f5b884feb0cc3acb6f6c048d91989"}
+| Symptomatic intracranial hemorrhage within 24 hr - no. (%)† | 1 (0.6) | 2 (1.1) | 0.49 (0.04 to 5.36) |
+END DE_EVIDENCE select2 result.early_symptomatic_intracranial_hemorrhage
+BEGIN DE_EVIDENCE select2 result.early_symptomatic_intracranial_hemorrhage {"canonical_field": "intervention_group_size", "document_key": "select2.fulltext", "source_path": "originals/select2-primary/publisher.pdf", "source_sha256": "ee9f60a2ec0573dd43f19ada1b771adfc635550e476d4c964a416aaeb0c05b72", "view_sha256": "1f8edb27bebd973df66ea3c9e390e7ae4f3f5b884feb0cc3acb6f6c048d91989"}
+| Outcome | Endovascular Thrombectomy (N = 178) | Medical Care (N = 174) | Relative Risk (95% CI) |
+END DE_EVIDENCE select2 result.early_symptomatic_intracranial_hemorrhage
+BEGIN DE_EVIDENCE tesla result.functional_independence.mrs_0_2.day90 {"canonical_field": "intervention_events", "document_key": "tesla.fulltext", "source_path": "originals/tesla-primary/publisher.pdf", "source_sha256": "d1eab9382bb75f083227b447107946901c815a1a272145949d77f19a069308c7", "view_sha256": "99f352c95c470c9b84601695f3ef2c5d3b0dc27779863da0d6b84545bb100cc5"}
+| 0-2, No. (%) | 22/151 (14.6) | 13/146 (8.9) | 5.7 (-1.6 to 12.9) h | 1.64 (0.86 to 3.12) | .09 g,i |
+END DE_EVIDENCE tesla result.functional_independence.mrs_0_2.day90
+BEGIN DE_EVIDENCE tesla result.ambulation.mrs_0_3.day90 {"canonical_field": "intervention_events", "document_key": "tesla.fulltext", "source_path": "originals/tesla-primary/publisher.pdf", "source_sha256": "d1eab9382bb75f083227b447107946901c815a1a272145949d77f19a069308c7", "view_sha256": "99f352c95c470c9b84601695f3ef2c5d3b0dc27779863da0d6b84545bb100cc5"}
+terior probability of superiority, .96) ( Table 2 ; eTable 3 in Supplement 2).
+
+Secondary Outcomes
+
+Results of secondary outcomes are presented in Table 2 and Figure 2 . The common odds ratio for the effect of thrombectomy on improvement in 90-day mRS was 1.40 (95% CI, 0.91 to2.16).Forinterventionvscontrolpatients,therespectiveproportion of 90-day mRS score range of 0 to 2 was 14.6% (22 of 151) vs 8.9% (13 of 146; absolute risk difference, 5.7%; 95% CI, -1.6%to12.9%);andtherespectiveproportionof90-daymRS score range of 0 to 3 (independent ambulation) was 29.8% (45 of 151) vs 19.9% (29 of 146; absolute difference, 9.9%; 95% CI, 0.2%to 19.7%). Major neurological improvement at day 6 oc-
+
+jama.com curred in 25.8% (39 of 151) of the intervention group vs 12.9% (19of147)ofthecontrolgroup(absolutedifference,12.9%;95% CI, 4.1% to 22%). The median90-dayEQ-5Dscorewas60(IQR, 30-75) for the intervention group vs 50 (IQR, 23.5-65) for the control group (absolute difference, 10 points; 95% CI, 0 to 15). Substantial reperfusion (mTICI score 2b to 3) was achieved in 73.3% (107 of 146) of intervention patients (Table 2).
+
+Adverse Event Outcomes
+
+In the as-treated adverse events population, there was no significant between-group difference in 90-day all-cause mortality (35.3% [53 of 150] in the intervention group vs 33.3% [49 of 147] in the control group; absolute difference, 2.0%; 95% CI, -8.8%to13%)norintheratesofsymptomaticintracranialhemorrhage at 24 hours, neurological deterioration within 6 days, or decompressive hemicraniectomy ( Table 3 ). Endovascular thrombectomy resulted in higher rates of parenchymal hematomas and subarachnoid hemorrhage. Endovascular procedure complications in the intervention group included 5 patients (3.3%) with emboli to new territory, 5 (3.3%) with arterial perforation, and 2 (1.3%) with arterial dissection. Overall, 9 patients (6%) had a procedural complication; 1 patient had all 3 complicationtypes,andanotherhadarterialperforationanddissection (eTable 4 in Supplement 2).
+
+A summary of all site-reported adverse events is provided in eTables 5 and 6 in Supplement 2. There were 334 serious adverse events in total, with 175 occurring in the intervention group and 159 occurring in the control group. Nine serious adverse events were related to the thrombectomy procedure. One hundred patients in each group experienced at least 1 serious adverse event.
+
+Subgroup and Sensitivity Analyses
+
+There was no compelling evidence of modification of endovascular thrombectomy effect among the prespecified subgroups (eFigure 4 in Supplement 2). For perfusion mismatch analysis, CT perfusion imaging was available for less than half the population.
+
+Results of the sensitivity analyses in the primary efficacy analysis population restricted to core laboratory-determined ASPECTSscorerangeof2to5(eTables7and8,eFigures5-7in Supplement 2) and in the per-protocol population (eTables 9 and 10, eFigures 8-10 in Supplement 2) were in the same direction as those of the main analyses. In the prespecified primaryendpointanalysisfortheprimaryefficacyanalysispopulation with study-eligible core laboratory ASPECTS, the 
+END DE_EVIDENCE tesla result.ambulation.mrs_0_3.day90
+BEGIN DE_EVIDENCE tesla result.nondisabled.mrs_0_1.day90 {"canonical_field": "intervention_events", "document_key": "tesla.fulltext", "source_path": "originals/tesla-primary/publisher.pdf", "source_sha256": "d1eab9382bb75f083227b447107946901c815a1a272145949d77f19a069308c7", "view_sha256": "99f352c95c470c9b84601695f3ef2c5d3b0dc27779863da0d6b84545bb100cc5"}
+esearch Original Investigation
+
+Thrombectomy for Stroke With Large Infarct on Noncontrast CT
+
+1362
+
+Figure 2. Modified Rankin Scale Scores at 90 Days in the Primary Efficacy Analysis Population
+
+Modified Rankin Scale score at 90 d
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+No symptoms Death
+
+0
+
+90
+
+80
+
+70
+
+60
+
+50
+
+100
+
+40
+
+30
+
+Patients, %
+
+20
+
+10
+
+Thrombectomy
+
+(n = 151)
+
+Medical therapy
+
+alone (n = 146)
+
+1.4
+
+4.0
+
+4.1
+
+5.3
+
+3.4
+
+5.3
+
+11.0
+
+15.2
+
+24.0
+
+19.9
+
+22.6
+
+15.2
+
+33.6
+
+35.1
+
+The 90-day ordinal modified Rankin Scale (mRS) score was a secondary efficacy end point. The distribution of the scores is shown by treatment group. Scores range from 0 to 6, with 0 indicating no symptoms, 1 no clinically significant disability, 2 slight disability (patient is able to look after own affairs without assistance but is unable to carry out all previous activities), 3 moderate disability (patient requires some help but is able to walk unassisted), 4 moderately severe disability (patient is unable to attend to bodily needs without assistance and unable to walk unassisted), 5 severe disability (patient requires constant nursing
+
+Table 3. Adverse Events Outcomes (As-Treated Population)
+
+care and attention), and 6 death. The unadjusted common odds ratio for improvement on the mRS score at 90 days with intervention was 1.40 (95% CI, 0.91 to 2.16). In the thrombectomy group, 1 participant was lost to follow-up at 90days, yielding 151 patients with available 90-day mRS scores. For the primary analysis, this participant's 30-day mRS score was imputed for the 90-day analysis. In the medical therapy alone group, 1 participant was lost to follow-up at 90 days, and 1 participant withdrew consent at the day-6 visit, yielding 146 patients with available 90-day mRS scores.
+
+[DOCLING_TABLE rows=18 columns=5]
+| Outcome | Thrombectomy (n = 151) a | Medical therapy alone (n = 149) a | Absolute difference (95% CI),% | Risk ratio (95% CI) |
+| Primary adverse event end point |  |  |  |  |
+| Death from any cause at 90 d, No./total (%) | 53/150 (35.3) | 49/147 (33.3) | 2.0 (-8.8 to 12.8) | 1.06 (0.77 to 1.45) |
+| Secondary adverse events end points, No. (%) |  |  |  |  |
+| Symptomatic intracranial hemorrhage at 24 h b | 6 (4.0) | 2 (1.3) | 2.6 (-1.0 to 6.3) | 2.96 (0.61 to 14.43) |
+| Neurological deterioration within 5 to 7 d or discharge | 23 (15.3) | 24 (16.1) | -0.9 (-9.1 to 7.4) | 0.95 (0.56 to 1.60) |
+| Decompressive hemicraniectomy | 33 (21.9) | 22 (14.8) | 7.1 (-1.6 to 15.8) | 1.48 (0.91 to 2.42) |
+| Emboli to new territory | 5 (3.3) | NA | NA | NA |
+| Arterial perforation | 5 (3.3) | NA | NA | NA |
+| Arterial dissection | 2 (1.3) | NA | NA | NA |
+| Hemorrhage events c |  |  |  |  |
+| Parenchymal hematoma d |  |  |  |  |
+| Type 1 | 14/148 (9.5) | 4/146 (2.7) | 6.7 (1.3 to 12.1) | 3.45 (1.16 to 10.24) |
+| Type 2 | 14/148 (9.5) | 5/146 (3.4) | 6.0 (0.5 to 11.6) | 2.76 (1.02 to 7.47) |
+| Hemorrhagic infarction e |  |  |  |  |
+| Type 1 | 26/148 (17.6) | 32/146 (21.9) | -4.4 (-13.4 to 4.7) | 0.80 (0.50 to 1.28) |
+| Type 2 | 32/148 (21.6) | 6/146 (4.1) | 17.5 (10.1 to 24.9) | 5.26 (2.27 to 12.20) |
+| Subarachnoid hemorrhage | 24/148 (16.2) | 9/146 (6.2) | 10.1 (3.0 to 17.2) | 2.63 (1.27 to 5.47) |
+[/DOCLING_TABLE]
+
+Abbreviations: NA, not applicable; NIHSS, National Institutes of Health Stroke Scale.
+
+a One patient in the thrombectomy group was randomized to the control group but underwent thrombectomy procedure. Two patients in the medical therapy group were randomized to the intervention group but did not undergo vessel puncture for thrombectomy procedure.
+
+b Symptomatic intracranial hemorrhage is defined as parenchymal hematoma type 2 (PH2) with 4 points or more NIHSS worsening (from immediate predeterioration NIHSS) at 24 hours (16-36 hours) from randomization.
+
+c As read by the imaging core laboratory. There were 148 scans in the
+
+3.8 vs 3.6 hours in the RESCUE-Japan LIMIT study, 5 7.6 vs 7.7 hours in the ANGEL ASPECTS study, 6 and 9.8 vs 9.1 hours in the SELECT2 study, 7 respectively. Half of the patients in the currenttrial wouldhavebeenineligiblefortheTENSIONtrial 13 based on that study's 11-hour randomization time limit.
+
+JAMA October 22/29, 2024 Volume 332, Number 16
+
+(Reprinted)
+
+thrombectomy group and 146 scans in the medical therapy alone group, which were evaluable for intracranial hemorrhage.
+
+d Parenchymal hematoma type 1 was defined as a hematoma occupying less than 30% of the infarct and causing slight mass effect. Type 2 was defined as a hematoma occupying 30% or more of the infarct and causing substantial mass effect.
+
+e Hemorrhagic infarction type 1 was defined as small petechiae within the infarct and without mass effect. Type 2 was defined as more confluent petechiae within the infarct and without mass effect.
+
+The point estimate of the difference in 90-day UW-mRS score (0.626) was twice the minimum clinically important difference (0.3), and the lower limit of the 95% CrI (-0.091) excluded a clinically important worsening of outcome with thrombectomy.Thissignalextendedtomultiplesecondaryend points across varying outcome domains; however, secondary analyses were not adjusted for multipl
+END DE_EVIDENCE tesla result.nondisabled.mrs_0_1.day90
+BEGIN DE_EVIDENCE tesla result.early_neurologic_improvement {"canonical_field": "intervention_events", "document_key": "tesla.fulltext", "source_path": "originals/tesla-primary/publisher.pdf", "source_sha256": "d1eab9382bb75f083227b447107946901c815a1a272145949d77f19a069308c7", "view_sha256": "99f352c95c470c9b84601695f3ef2c5d3b0dc27779863da0d6b84545bb100cc5"}
+terior probability of superiority, .96) ( Table 2 ; eTable 3 in Supplement 2).
+
+Secondary Outcomes
+
+Results of secondary outcomes are presented in Table 2 and Figure 2 . The common odds ratio for the effect of thrombectomy on improvement in 90-day mRS was 1.40 (95% CI, 0.91 to2.16).Forinterventionvscontrolpatients,therespectiveproportion of 90-day mRS score range of 0 to 2 was 14.6% (22 of 151) vs 8.9% (13 of 146; absolute risk difference, 5.7%; 95% CI, -1.6%to12.9%);andtherespectiveproportionof90-daymRS score range of 0 to 3 (independent ambulation) was 29.8% (45 of 151) vs 19.9% (29 of 146; absolute difference, 9.9%; 95% CI, 0.2%to 19.7%). Major neurological improvement at day 6 oc-
+
+jama.com curred in 25.8% (39 of 151) of the intervention group vs 12.9% (19of147)ofthecontrolgroup(absolutedifference,12.9%;95% CI, 4.1% to 22%). The median90-dayEQ-5Dscorewas60(IQR, 30-75) for the intervention group vs 50 (IQR, 23.5-65) for the control group (absolute difference, 10 points; 95% CI, 0 to 15). Substantial reperfusion (mTICI score 2b to 3) was achieved in 73.3% (107 of 146) of intervention patients (Table 2).
+
+Adverse Event Outcomes
+
+In the as-treated adverse events population, there was no significant between-group difference in 90-day all-cause mortality (35.3% [53 of 150] in the intervention group vs 33.3% [49 of 147] in the control group; absolute difference, 2.0%; 95% CI, -8.8%to13%)norintheratesofsymptomaticintracranialhemorrhage at 24 hours, neurological deterioration within 6 days, or decompressive hemicraniectomy ( Table 3 ). Endovascular thrombectomy resulted in higher rates of parenchymal hematomas and subarachnoid hemorrhage. Endovascular procedure complications in the intervention group included 5 patients (3.3%) with emboli to new territory, 5 (3.3%) with arterial perforation, and 2 (1.3%) with arterial dissection. Overall, 9 patients (6%) had a procedural complication; 1 patient had all 3 complicationtypes,andanotherhadarterialperforationanddissection (eTable 4 in Supplement 2).
+
+A summary of all site-reported adverse events is provided in eTables 5 and 6 in Supplement 2. There were 334 serious adverse events in total, with 175 occurring in the intervention group and 159 occurring in the control group. Nine serious adverse events were related to the thrombectomy procedure. One hundred patients in each group experienced at least 1 serious adverse event.
+
+Subgroup and Sensitivity Analyses
+
+There was no compelling evidence of modification of endovascular thrombectomy effect among the prespecified subgroups (eFigure 4 in Supplement 2). For perfusion mismatch analysis, CT perfusion imaging was available for less than half the population.
+
+Results of the sensitivity analyses in the primary efficacy analysis population restricted to core laboratory-determined ASPECTSscorerangeof2to5(eTables7and8,eFigures5-7in Supplement 2) and in the per-protocol population (eTables 9 and 10, eFigures 8-10 in Supplement 2) were in the same direction as those of the main analyses. In the prespecified primaryendpointanalysisfortheprimaryefficacyanalysispopulation with study-eligible core laboratory ASPECTS, the 
+END DE_EVIDENCE tesla result.early_neurologic_improvement
+BEGIN DE_EVIDENCE tesla result.constant_care_or_death.mrs_5_6.day90 {"canonical_field": "intervention_events", "document_key": "tesla.fulltext", "source_path": "originals/tesla-primary/publisher.pdf", "source_sha256": "d1eab9382bb75f083227b447107946901c815a1a272145949d77f19a069308c7", "view_sha256": "99f352c95c470c9b84601695f3ef2c5d3b0dc27779863da0d6b84545bb100cc5"}
+esearch Original Investigation
+
+Thrombectomy for Stroke With Large Infarct on Noncontrast CT
+
+1362
+
+Figure 2. Modified Rankin Scale Scores at 90 Days in the Primary Efficacy Analysis Population
+
+Modified Rankin Scale score at 90 d
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+No symptoms Death
+
+0
+
+90
+
+80
+
+70
+
+60
+
+50
+
+100
+
+40
+
+30
+
+Patients, %
+
+20
+
+10
+
+Thrombectomy
+
+(n = 151)
+
+Medical therapy
+
+alone (n = 146)
+
+1.4
+
+4.0
+
+4.1
+
+5.3
+
+3.4
+
+5.3
+
+11.0
+
+15.2
+
+24.0
+
+19.9
+
+22.6
+
+15.2
+
+33.6
+
+35.1
+
+The 90-day ordinal modified Rankin Scale (mRS) score was a secondary efficacy end point. The distribution of the scores is shown by treatment group. Scores range from 0 to 6, with 0 indicating no symptoms, 1 no clinically significant disability, 2 slight disability (patient is able to look after own affairs without assistance but is unable to carry out all previous activities), 3 moderate disability (patient requires some help but is able to walk unassisted), 4 moderately severe disability (patient is unable to attend to bodily needs without assistance and unable to walk unassisted), 5 severe disability (patient requires constant nursing
+
+Table 3. Adverse Events Outcomes (As-Treated Population)
+
+care and attention), and 6 death. The unadjusted common odds ratio for improvement on the mRS score at 90 days with intervention was 1.40 (95% CI, 0.91 to 2.16). In the thrombectomy group, 1 participant was lost to follow-up at 90days, yielding 151 patients with available 90-day mRS scores. For the primary analysis, this participant's 30-day mRS score was imputed for the 90-day analysis. In the medical therapy alone group, 1 participant was lost to follow-up at 90 days, and 1 participant withdrew consent at the day-6 visit, yielding 146 patients with available 90-day mRS scores.
+
+[DOCLING_TABLE rows=18 columns=5]
+| Outcome | Thrombectomy (n = 151) a | Medical therapy alone (n = 149) a | Absolute difference (95% CI),% | Risk ratio (95% CI) |
+| Primary adverse event end point |  |  |  |  |
+| Death from any cause at 90 d, No./total (%) | 53/150 (35.3) | 49/147 (33.3) | 2.0 (-8.8 to 12.8) | 1.06 (0.77 to 1.45) |
+| Secondary adverse events end points, No. (%) |  |  |  |  |
+| Symptomatic intracranial hemorrhage at 24 h b | 6 (4.0) | 2 (1.3) | 2.6 (-1.0 to 6.3) | 2.96 (0.61 to 14.43) |
+| Neurological deterioration within 5 to 7 d or discharge | 23 (15.3) | 24 (16.1) | -0.9 (-9.1 to 7.4) | 0.95 (0.56 to 1.60) |
+| Decompressive hemicraniectomy | 33 (21.9) | 22 (14.8) | 7.1 (-1.6 to 15.8) | 1.48 (0.91 to 2.42) |
+| Emboli to new territory | 5 (3.3) | NA | NA | NA |
+| Arterial perforation | 5 (3.3) | NA | NA | NA |
+| Arterial dissection | 2 (1.3) | NA | NA | NA |
+| Hemorrhage events c |  |  |  |  |
+| Parenchymal hematoma d |  |  |  |  |
+| Type 1 | 14/148 (9.5) | 4/146 (2.7) | 6.7 (1.3 to 12.1) | 3.45 (1.16 to 10.24) |
+| Type 2 | 14/148 (9.5) | 5/146 (3.4) | 6.0 (0.5 to 11.6) | 2.76 (1.02 to 7.47) |
+| Hemorrhagic infarction e |  |  |  |  |
+| Type 1 | 26/148 (17.6) | 32/146 (21.9) | -4.4 (-13.4 to 4.7) | 0.80 (0.50 to 1.28) |
+| Type 2 | 32/148 (21.6) | 6/146 (4.1) | 17.5 (10.1 to 24.9) | 5.26 (2.27 to 12.20) |
+| Subarachnoid hemorrhage | 24/148 (16.2) | 9/146 (6.2) | 10.1 (3.0 to 17.2) | 2.63 (1.27 to 5.47) |
+[/DOCLING_TABLE]
+
+Abbreviations: NA, not applicable; NIHSS, National Institutes of Health Stroke Scale.
+
+a One patient in the thrombectomy group was randomized to the control group but underwent thrombectomy procedure. Two patients in the medical therapy group were randomized to the intervention group but did not undergo vessel puncture for thrombectomy procedure.
+
+b Symptomatic intracranial hemorrhage is defined as parenchymal hematoma type 2 (PH2) with 4 points or more NIHSS worsening (from immediate predeterioration NIHSS) at 24 hours (16-36 hours) from randomization.
+
+c As read by the imaging core laboratory. There were 148 scans in the
+
+3.8 vs 3.6 hours in the RESCUE-Japan LIMIT study, 5 7.6 vs 7.7 hours in the ANGEL ASPECTS study, 6 and 9.8 vs 9.1 hours in the SELECT2 study, 7 respectively. Half of the patients in the currenttrial wouldhavebeenineligiblefortheTENSIONtrial 13 based on that study's 11-hour randomization time limit.
+
+JAMA October 22/29, 2024 Volume 332, Number 16
+
+(Reprinted)
+
+thrombectomy group and 146 scans in the medical therapy alone group, which were evaluable for intracranial hemorrhage.
+
+d Parenchymal hematoma type 1 was defined as a hematoma occupying less than 30% of the infarct and causing slight mass effect. Type 2 was defined as a hematoma occupying 30% or more of the infarct and causing substantial mass effect.
+
+e Hemorrhagic infarction type 1 was defined as small petechiae within the infarct and without mass effect. Type 2 was defined as more confluent petechiae within the infarct and without mass effect.
+
+The point estimate of the difference in 90-day UW-mRS score (0.626) was twice the minimum clinically important difference (0.3), and the lower limit of the 95% CrI (-0.091) excluded a clinically important worsening of outcome with thrombectomy.Thissignalextendedtomultiplesecondaryend points across varying outcome domains; however, secondary analyses were not adjusted for multipl
+END DE_EVIDENCE tesla result.constant_care_or_death.mrs_5_6.day90
+BEGIN DE_EVIDENCE tesla result.death.day90 {"canonical_field": "intervention_events", "document_key": "tesla.fulltext", "source_path": "originals/tesla-primary/publisher.pdf", "source_sha256": "d1eab9382bb75f083227b447107946901c815a1a272145949d77f19a069308c7", "view_sha256": "99f352c95c470c9b84601695f3ef2c5d3b0dc27779863da0d6b84545bb100cc5"}
+ assistance and unable to walk unassisted), 5 severe disability (patient requires constant nursing
+
+Table 3. Adverse Events Outcomes (As-Treated Population)
+
+care and attention), and 6 death. The unadjusted common odds ratio for improvement on the mRS score at 90 days with intervention was 1.40 (95% CI, 0.91 to 2.16). In the thrombectomy group, 1 participant was lost to follow-up at 90days, yielding 151 patients with available 90-day mRS scores. For the primary analysis, this participant's 30-day mRS score was imputed for the 90-day analysis. In the medical therapy alone group, 1 participant was lost to follow-up at 90 days, and 1 participant withdrew consent at the day-6 visit, yielding 146 patients with available 90-day mRS scores.
+
+[DOCLING_TABLE rows=18 columns=5]
+| Outcome | Thrombectomy (n = 151) a | Medical therapy alone (n = 149) a | Absolute difference (95% CI),% | Risk ratio (95% CI) |
+| Primary adverse event end point |  |  |  |  |
+| Death from any cause at 90 d, No./total (%) | 53/150 (35.3) | 49/147 (33.3) | 2.0 (-8.8 to 12.8) | 1.06 (0.77 to 1.45) |
+| Secondary adverse events end points, No. (%) |  |  |  |  |
+| Symptomatic intracranial hemorrhage at 24 h b | 6 (4.0) | 2 (1.3) | 2.6 (-1.0 to 6.3) | 2.96 (0.61 to 14.43) |
+| Neurological deterioration within 5 to 7 d or discharge | 23 (15.3) | 24 (16.1) | -0.9 (-9.1 to 7.4) | 0.95 (0.56 to 1.60) |
+| Decompressive hemicraniectomy | 33 (21.9) | 22 (14.8) | 7.1 (-1.6 to 15.8) | 1.48 (0.91 to 2.42) |
+| Emboli to new territory | 5 (3.3) | NA | NA | NA |
+| Arterial perforation | 5 (3.3) | NA | NA | NA |
+| Arterial dissection | 2 (1.3) | NA | NA | NA |
+| Hemorrhage events c |  |  |  |  |
+| Parenchymal hematoma d |  |  |  |  |
+| Type 1 | 14/148 (9.5) | 4/146 (2.7) | 6.7 (1.3 to 12.1) | 3.45 (1.16 to 10.24) |
+| Type 2 | 14/148 (9.5) | 5/146 (3.4) | 6.0 (0.5 to 11.6) | 2.76 (1.02 to 7.47) |
+| Hemorrhagic infarction e |  |  |  |  |
+| Type 1 | 26/148 (17.6) | 32/146 (21.9) | -4.4 (-13.4 to 4.7) | 0.80 (0.50 to 1.28) |
+| Type 2 | 32/148 (21.6) | 6/146 (4.1) | 17.5 (10.1 to 24.9) | 5.26 (2.27 to 12.20) |
+| Subarachnoid hemorrhage | 24/148 (16.2) | 9/146 (6.2) | 10.1 (3.0 to 17.2) | 2.63 (1.27 to 5.47) |
+[/DOCLING_TABLE]
+
+Abbreviations: NA, not applicable; NIHSS, National Institutes of Health Stroke Scale.
+
+a One patient in the thrombectomy group was randomized to the control group but underwent thrombectomy procedure. Two patients in the medical therapy group were randomized to the intervention group but did not undergo vessel puncture for thrombectomy procedure.
+
+b Symptomatic intracranial hemorrhage is defined as parenchymal hematoma type 2 (PH2) with 4 points or more NIHSS worsening (from immediate predeterioration NIHSS) at 24 hours (16-36 hours) from randomization.
+
+c As read by the imaging core laboratory. There were 148 scans in the
+
+3.8 vs 3.6 hours in the RESCUE-Japan LIMIT study, 5 7.6 vs 7.7 hours in the ANGEL ASPECTS study, 6 and 9.8 vs 9.1 hours in the SELECT2 study, 7 respectively. Half of the patients in the currenttrial wouldhavebeenineligiblefortheTENSIONtrial 13 based on that study's 11-hour randomization time limit.
+
+JAMA October 22/29, 2024 Volume 332, Number 16
+
+(Reprinted)
+
+thrombectomy group and 146 scans in the medical therapy alone group, which were evaluable for intracranial hemorrhage.
+
+d Parenchymal hematoma type 1 was defined as a hematoma occupying less than 30% of the infarct and causing slight mass effect. Type 2 was defined as a hematoma occupying 30% or more of the infarct and causing substantial mass effect.
+
+e Hemorrhagic infarction type 1 was defined as small petechiae within the infarct and without mass effect. Type 2 was defined as more confluent petechiae within the infarct and without mass effect.
+
+The point estimate of the difference in 90-day UW-mRS score (0.626) was twice the minimum clinically important difference (0.3), and the lower limit of the 95% CrI (-0.091) excluded a clinically important worsening of outcome with thrombectomy.Thissignalextendedtomultiplesecondaryend points across varying outcome domains; however, secondary analyses were not adjusted for multiple testing and should be viewedasexploratory. Patients in the intervention group had numerically higher rates of functional recovery to independentambulationandmajorneurologicalimprovementat6days andhadhigherqualityoflifeat90days.Othersecondaryoutcomes,includingfollow-upinfarctvolumeat24hours,didnot show an appreciable difference between the study groups.
+
+© 2024 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Maastricht University user on 11/26/2024
+
+jama.com
+
+[DOCLING_PAGE 10]
+
+Thrombectomy for Stroke With Large Infarct on Noncontrast CT
+
+Original Investigation Research
+
+Theseresultsapplytothepopulationofpatientswithlarge infarcts that were identified using noncontrast CT alone within 24 hours from stroke onset. Given the widespread availability and routine use of noncontrast CT in stroke evaluation, the study findings are generalizable to most if not all stroke centers performing stroke thrombectomy, including community hospitals. The TENSIO
+END DE_EVIDENCE tesla result.death.day90
+BEGIN DE_EVIDENCE tesla result.early_symptomatic_intracranial_hemorrhage {"canonical_field": "intervention_events", "document_key": "tesla.fulltext", "source_path": "originals/tesla-primary/publisher.pdf", "source_sha256": "d1eab9382bb75f083227b447107946901c815a1a272145949d77f19a069308c7", "view_sha256": "99f352c95c470c9b84601695f3ef2c5d3b0dc27779863da0d6b84545bb100cc5"}
+ assistance and unable to walk unassisted), 5 severe disability (patient requires constant nursing
+
+Table 3. Adverse Events Outcomes (As-Treated Population)
+
+care and attention), and 6 death. The unadjusted common odds ratio for improvement on the mRS score at 90 days with intervention was 1.40 (95% CI, 0.91 to 2.16). In the thrombectomy group, 1 participant was lost to follow-up at 90days, yielding 151 patients with available 90-day mRS scores. For the primary analysis, this participant's 30-day mRS score was imputed for the 90-day analysis. In the medical therapy alone group, 1 participant was lost to follow-up at 90 days, and 1 participant withdrew consent at the day-6 visit, yielding 146 patients with available 90-day mRS scores.
+
+[DOCLING_TABLE rows=18 columns=5]
+| Outcome | Thrombectomy (n = 151) a | Medical therapy alone (n = 149) a | Absolute difference (95% CI),% | Risk ratio (95% CI) |
+| Primary adverse event end point |  |  |  |  |
+| Death from any cause at 90 d, No./total (%) | 53/150 (35.3) | 49/147 (33.3) | 2.0 (-8.8 to 12.8) | 1.06 (0.77 to 1.45) |
+| Secondary adverse events end points, No. (%) |  |  |  |  |
+| Symptomatic intracranial hemorrhage at 24 h b | 6 (4.0) | 2 (1.3) | 2.6 (-1.0 to 6.3) | 2.96 (0.61 to 14.43) |
+| Neurological deterioration within 5 to 7 d or discharge | 23 (15.3) | 24 (16.1) | -0.9 (-9.1 to 7.4) | 0.95 (0.56 to 1.60) |
+| Decompressive hemicraniectomy | 33 (21.9) | 22 (14.8) | 7.1 (-1.6 to 15.8) | 1.48 (0.91 to 2.42) |
+| Emboli to new territory | 5 (3.3) | NA | NA | NA |
+| Arterial perforation | 5 (3.3) | NA | NA | NA |
+| Arterial dissection | 2 (1.3) | NA | NA | NA |
+| Hemorrhage events c |  |  |  |  |
+| Parenchymal hematoma d |  |  |  |  |
+| Type 1 | 14/148 (9.5) | 4/146 (2.7) | 6.7 (1.3 to 12.1) | 3.45 (1.16 to 10.24) |
+| Type 2 | 14/148 (9.5) | 5/146 (3.4) | 6.0 (0.5 to 11.6) | 2.76 (1.02 to 7.47) |
+| Hemorrhagic infarction e |  |  |  |  |
+| Type 1 | 26/148 (17.6) | 32/146 (21.9) | -4.4 (-13.4 to 4.7) | 0.80 (0.50 to 1.28) |
+| Type 2 | 32/148 (21.6) | 6/146 (4.1) | 17.5 (10.1 to 24.9) | 5.26 (2.27 to 12.20) |
+| Subarachnoid hemorrhage | 24/148 (16.2) | 9/146 (6.2) | 10.1 (3.0 to 17.2) | 2.63 (1.27 to 5.47) |
+[/DOCLING_TABLE]
+
+Abbreviations: NA, not applicable; NIHSS, National Institutes of Health Stroke Scale.
+
+a One patient in the thrombectomy group was randomized to the control group but underwent thrombectomy procedure. Two patients in the medical therapy group were randomized to the intervention group but did not undergo vessel puncture for thrombectomy procedure.
+
+b Symptomatic intracranial hemorrhage is defined as parenchymal hematoma type 2 (PH2) with 4 points or more NIHSS worsening (from immediate predeterioration NIHSS) at 24 hours (16-36 hours) from randomization.
+
+c As read by the imaging core laboratory. There were 148 scans in the
+
+3.8 vs 3.6 hours in the RESCUE-Japan LIMIT study, 5 7.6 vs 7.7 hours in the ANGEL ASPECTS study, 6 and 9.8 vs 9.1 hours in the SELECT2 study, 7 respectively. Half of the patients in the currenttrial wouldhavebeenineligiblefortheTENSIONtrial 13 based on that study's 11-hour randomization time limit.
+
+JAMA October 22/29, 2024 Volume 332, Number 16
+
+(Reprinted)
+
+thrombectomy group and 146 scans in the medical therapy alone group, which were evaluable for intracranial hemorrhage.
+
+d Parenchymal hematoma type 1 was defined as a hematoma occupying less than 30% of the infarct and causing slight mass effect. Type 2 was defined as a hematoma occupying 30% or more of the infarct and causing substantial mass effect.
+
+e Hemorrhagic infarction type 1 was defined as small petechiae within the infarct and without mass effect. Type 2 was defined as more confluent petechiae within the infarct and without mass effect.
+
+The point estimate of the difference in 90-day UW-mRS score (0.626) was twice the minimum clinically important difference (0.3), and the lower limit of the 95% CrI (-0.091) excluded a clinically important worsening of outcome with thrombectomy.Thissignalextendedtomultiplesecondaryend points across varying outcome domains; however, secondary analyses were not adjusted for multiple testing and should be viewedasexploratory. Patients in the intervention group had numerically higher rates of functional recovery to independentambulationandmajorneurologicalimprovementat6days andhadhigherqualityoflifeat90days.Othersecondaryoutcomes,includingfollow-upinfarctvolumeat24hours,didnot show an appreciable difference between the study groups.
+
+© 2024 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Maastricht University user on 11/26/2024
+
+jama.com
+
+[DOCLING_PAGE 10]
+
+Thrombectomy for Stroke With Large Infarct on Noncontrast CT
+
+Original Investigation Research
+
+Theseresultsapplytothepopulationofpatientswithlarge infarcts that were identified using noncontrast CT alone within 24 hours from stroke onset. Given the widespread availability and routine use of noncontrast CT in stroke evaluation, the study findings are generalizable to most if not all stroke centers performing stroke thrombectomy, including community hospitals. The TENSIO
+END DE_EVIDENCE tesla result.early_symptomatic_intracranial_hemorrhage
+BEGIN DE_EVIDENCE tension result.functional_independence.mrs_0_2.day90 {"canonical_field": "intervention_events", "document_key": "tension.fulltext", "source_path": "originals/tension-primary/publisher.html", "source_sha256": "23927f0aee5eb43251416516a95f0c92a42bf43487192408f378d70cf8333b86", "view_sha256": "e77fdc6b31ab1d92bc17a131ab59b34274b51dade432bc701e2d030b4ddfcb10"}
+Independent neurological outcome (mRS ≤2) at 90 (±14) days (%), n/N | 21/124 (17%) | 3/122 (2%) | 7·16 (2·12–24·21) | 0·0016
+END DE_EVIDENCE tension result.functional_independence.mrs_0_2.day90
+BEGIN DE_EVIDENCE tension result.ambulation.mrs_0_3.day90 {"canonical_field": "intervention_events", "document_key": "tension.fulltext", "source_path": "originals/tension-primary/publisher.html", "source_sha256": "23927f0aee5eb43251416516a95f0c92a42bf43487192408f378d70cf8333b86", "view_sha256": "e77fdc6b31ab1d92bc17a131ab59b34274b51dade432bc701e2d030b4ddfcb10"}
+ar thrombectomy group and six patients in the medical treatment group. Missing values were imputed.
+Table 2 . Efficacy outcomes (intention-to-treat population)
+Empty Cell | Endovascular thrombectomy (N=125) | Medical treatment (N=128) | Treatment effect (95% CI) | p value
+Primary outcome
+Median score on modified Rankin Scale at 90 (±14; IQR) days (%) * | 4 (3–6) | 6 (4–6) | 2·58 (1·60–4·15) | 0·0001
+Secondary outcomes
+Independent neurological outcome (mRS ≤2) at 90 (±14) days (%), n/N | 21/124 (17%) | 3/122 (2%) | 7·16 (2·12–24·21) | 0·0016
+Moderate neurological outcome (mRS ≤3) with 90 (±14) days (%), n/N | 39/124 (31%) | 16/122 (13%) | 2·84 (1·48–5·47) | 0·0018
+Decompressive craniotomy | 11 (9%) | 9 (7%) | .. | 0·65
+Successful recanalisation (mTICI 2b or better) † | 104 (83%) | .. | 83% (76–89) | ..
+Distal embolisation ‡ | 4 (3%) | .. | 3% (1–8) | ..
+Mean infarct volume at 24 (±6) h (CT or MRI) after randomisation (SD), mL § | 205·8 (139·1) | 227·7 (107·2) | 0·93 (0·80–1·08) | 0·35
+Median EQ-5D index at 90 (±14) days (IQR) | 0·6 (0·3–0·9) | 0·4 (0·2–0·6) | .. | 0·0060
+Median health status VAS at 90 (±14) days (IQR) | 50 (30–70) | 40 (20–58) | .. | 0·13
+Median PROMIS-10 physical health at 90 (±14) days, T-score (IQR) | 39·8 (34·9–50·8) | 34·9 (29·6–37·4) | .. | 0·0008
+Median PROMIS-10 mental health at 90 (±14) days (IQR), T-score | 43·5 (36·3–50·8) | 38·8 (32·6–43·5) | .. | 0·025
+PHQ-4 anxiety (%), n/N | 12/52 (23%) | 18/35 (51%) | .. | 0·011
+PHQ-4 depression (%), n/N | 14/52 (27%) | 11/35 (31%) | .. | 0·81
+Data are n (%) unless specified. The treatment effect was reported for the primary outcome as OR (95% CI) for the ordinal shift in the distribution of scores on the modified Rankin Scale towards a better outcome with imputation of missing values. Infarct volume at 24 h after randomisation was reported as coefficient from an adjusted log-linear model. PROMIS-10 and EQ-5D were reported as Wilcoxon rank sum test . Other outcomes were reported as the adjusted OR (95% CI) or as Fisher's exact test for small numbers. The rate of successful restoration of flow of the occluded target arterial vessel, defined as mTICI 2b or better, was reported descriptively for the group that received thrombectomy with 95% CIs based on the Wald method. The rate of embolisation , either distal to the target occlusion or to previously unaffected territories, was reported descriptively for the group that received thrombectomy with 95% CIs based on the Clopper-Pearson method. The CIs for the secondary outcomes were not adjusted for multiple comparisons and can not be used for hypothesis testing. EQ-5D=EuroQol-5 Dimensions questionnaire. PHQ-4=poststroke anxiety and depression evaluated by the Patient Health Questionnaire-4. PROMIS 10=Patient-Reported Outcomes Measurement Information System 10-item. VAS=visual analogue scale.
+*
+Scores on the modified Rankin Scale range from 0 to 6, with higher scores indicating greater disability.
+†
+Successful reperfusion was defined as grade 2b to 3 on the modified Thrombectomy in the Cerebral Ischemia system ranging from 0–3, with higher grades indicating increased reperfusion; grade 2b indicates reperfusion of ≥50% of the occluded middle cerebral artery territory; and grade 3 indicates reperfusion of 100% of the occluded middle cerebral artery territory at the end of the thrombectomy procedure.
+‡
+Assessed by the image core lab.
+§
+Mean infarct volume was assessed using CT in 101 (83%) of 121 patients assigned to endovascular thrombectomy and 96 (85%) of 113 patients assigned to medical treatment.
+In the secondary outcome analysis, 21 (17%) of 124 patients in the endovascular thrombectomy group achieved a score of 0–2 on the mRS at 90 days as compared with three (2%) of 122 patients in the medical treatment group (adjusted OR 7·16 [95% CI 2·12–24·21; p=0·0016; appendix p 31 ). 39 (31%) of 124 patients in the endovascular thrombectomy group had a score of 0–3 on the mRS at 90 days versus 16 (13%) of 122 in the medical treatment group (adjusted OR 2·84 [95% CI 1·48–5·47]; p=0·0018; appendix p 31 ).
+Analysis of patient-reported outcomes revealed higher PROMIS-10 values for physical health (median T score 39·8 [IQR 34·9–50·8] vs 34·9 [29·6–37·4]; p<0·0008) and mental health (median T score 43·5 [IQR 36·3–50·8] vs 38·8 [32·6–43·5]; p=0·025) at 90 days in patients assigned to endovascular thrombectomy as compared with those assigned to medical treatment.
+In the safety population, death at 90 days occurred in 49 (40%) of 122 patients receiving endovascular thrombectomy and 63 (51%) of 123 patients receiving medical treatment alone. Endovascular thrombectomy was associated with lower mortality (HR for death censored at 90 days 0·67 [95% CI 0·46–0·98]; p=0·038; figure 3 and table 3 ). Death or dependency (modified Rankin Scale 4–6) at 90 days was observed in 88 (69%) of 127 patients receiving endovascular thrombectomy and in 103 (87%) of 119 patients receiving medical treatment only (adjusted OR 0·34 [95% CI 0·18–0·65]; p=0·0011; appendix p 33 ).
+- Download: Download high-res image (264KB)
+- Download: Download full-size image
+Figure 3 . Kaplan-Meier analysis for mortality at 90 days
+Analysis of mortality at 90 days was done in the safety population, including 128 patients who had received endovascular thrombectomy and 125 patients who had received medical treatment alone. HR=hazard ratio.
+Table 3 . Safety outcomes (safety population)
+Empty Cell | Endovascular thrombectomy (N=128) | Medical treatment (N=125) | Treatment effect (95% CI) | p value
+Death or dependency (modified Rankin Scale 4–6) at 90 (±14) days (%), n/N | 88/127 (69%) | 103/119 (87%) | 0·34 (0·18–0·65) | 0·0011
+Mortality (censored at 90 days; %), n/N | 49/122 (40%) | 63/123 (51%) | 0·67 (0·46–0·98) | 0·038
+Mortality at 7 days or discharge | 30 (23%) | 36 (29%) | 0·75 (0·42–1·32) | 0·31
+Stroke-related death (%), n/N | 33/127 (26%) | 36/119 (30%) | 0·80 (0·46–1·41) | 0·44
+New ischaemic stroke | 17 (13%) | 20 (16%) | 0·80 (0·39–1·60) | 0·52
+Space-occupying infarction | 21 (16%) | 17 (14%) | 1·26 (0·63–2·54) | 0·52
+Parenchymal haemorrhage type 2 (%), n/N * | 11/124 (9%) | 10/116 (9%) | .. | 0·95
+Symptomatic intracranial haemorrhage † | 7 (5%) | 6 (5%) | .. | 1·00
+Fatal symptomatic intracranial haemorrhage | 3 (2%) | 4 (3%) | .. | 0·72
+At least one serious adverse event | 71 (55%) | 88 (70%) | .. | 0·014
+Data are n (%) unless specified. The treatment effect is reported for death (censored at 90 days), as an adjusted hazard ratio (95% CI). Other outcomes were reported as the adjusted OR (95% CI) or as Fisher's exact test for small numbers. NIHSS=National Institutes of Health Stroke Scale.
+*
+Parenchymal haemorrhage type 2 was defined as an intracranial haemorrhage that involved more than 30% of the infarcted area with a substantial space-occupying effect or that was remote from the original infarcted area.
+†
+Symptomatic intracranial haemorrhage was defined as an increase in the NIHSS score of ≥4 points or an increase in the score for an NIHSS subcategory of ≥2 points with presence of parenchymal haemorrhage type 2.
+Symptomatic intracranial haemorrhage occurred in seven (5%) of 128 of patients given endovascular thrombectomy and in six (5%) of 125 given medical treatment alone. Parenchymal haemorrhage type 2 was observed in 11 (9%) patients receiving endovascular thrombectomy and ten (9%) patients receiving medical treatment ( appendix p 33 ). In patients receiving endovascular thrombectomy, at least one serious adverse event was reported in 71 patients (56%), compared with 88 patients (70%) in the medical treatment group. A detailed list of serious adverse events is provided in the appendix (pp 35–38 ).
+The results of subgroup analyses were generally supportive of the primary analysis ( appendix p 21, 30 ), although the trial was not powered for subgroup analyses. The per-protocol analysis included 97 patients in the endovascular thrombectomy group and 89 patients in the medical treatment group, and results were consistent with those of the primary intention-to-treat analysis ( appendix p 18, 27 ). The sensitivity analyses (best-case scenario and worst-case scenario) were also consistent with the primary outcome analysis ( appendix pp 17–18, 26–27 ). Given the imbalance in baseline ASPECTS among and between groups, we did an exploratory (not prespecified) analysis of the primary endpoint in the intention-to-treat population, adjusting for baseline ASPECTS, which was also consistent with the primary outcome analysis ( appendix pp 28–29 ).
+## Discussion
+The TENSION trial conducted in Europe and Canada showed that endovascular thrombectomy in addition to medical treatment resulted in improved functional outcome and lower mortality compared with medical treatment alone in patients presenting with a large brain infarction due to large vessel occlusion of the anterior brain circulation . Importantly, presence of a large infarction was identified by visual assessment of the infarct size mostly on unenhanced CT images without applying advanced imaging techniques or post-processing tools. The trial was st
+END DE_EVIDENCE tension result.ambulation.mrs_0_3.day90
+BEGIN DE_EVIDENCE tension result.nondisabled.mrs_0_1.day90 {"canonical_field": "intervention_events", "document_key": "tension.appendix", "source_path": "originals/tension-appendix/publisher.pdf", "source_sha256": "2bc3b46734dfa4ba93ce73aa8b434bfe59815dbf542e474504a181b0d5989104", "view_sha256": "d00c61718ae975535dcf9e087d22e19d03ca89eb69549c5959bb1f92d768d4a0"}
+| 0 | 4/124 (3.2%) | 0/122 (0.0%) |
+| 1 | 6/124 (4.8%) | 2/122 (1.6%) |
+END DE_EVIDENCE tension result.nondisabled.mrs_0_1.day90
+BEGIN DE_EVIDENCE tension result.nondisabled.mrs_0_1.day90 {"canonical_field": "intervention_group_size", "document_key": "tension.appendix", "source_path": "originals/tension-appendix/publisher.pdf", "source_sha256": "2bc3b46734dfa4ba93ce73aa8b434bfe59815dbf542e474504a181b0d5989104", "view_sha256": "d00c61718ae975535dcf9e087d22e19d03ca89eb69549c5959bb1f92d768d4a0"}
+| MRS Score, n (%) | Endovascular thrombectomy group (N=125)* | Best medical treatment group (N=128)* |
+END DE_EVIDENCE tension result.nondisabled.mrs_0_1.day90
+BEGIN DE_CELL tension result.early_neurologic_improvement {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The primary and companion reports do not report an early neurologic improvement result.","study_key":"tension","target_id":"result.early_neurologic_improvement","values":null}
+END DE_CELL tension result.early_neurologic_improvement
+BEGIN DE_EVIDENCE tension result.constant_care_or_death.mrs_5_6.day90 {"canonical_field": "intervention_events", "document_key": "tension.appendix", "source_path": "originals/tension-appendix/publisher.pdf", "source_sha256": "2bc3b46734dfa4ba93ce73aa8b434bfe59815dbf542e474504a181b0d5989104", "view_sha256": "d00c61718ae975535dcf9e087d22e19d03ca89eb69549c5959bb1f92d768d4a0"}
+| 5 | 15/124 (12.1%) | 24/122 (19.7%) |
+| 6 | 46/124 (37.1%) | 66/122 (54.1%) |
+END DE_EVIDENCE tension result.constant_care_or_death.mrs_5_6.day90
+BEGIN DE_EVIDENCE tension result.constant_care_or_death.mrs_5_6.day90 {"canonical_field": "intervention_group_size", "document_key": "tension.appendix", "source_path": "originals/tension-appendix/publisher.pdf", "source_sha256": "2bc3b46734dfa4ba93ce73aa8b434bfe59815dbf542e474504a181b0d5989104", "view_sha256": "d00c61718ae975535dcf9e087d22e19d03ca89eb69549c5959bb1f92d768d4a0"}
+| MRS Score, n (%) | Endovascular thrombectomy group (N=125)* | Best medical treatment group (N=128)* |
+END DE_EVIDENCE tension result.constant_care_or_death.mrs_5_6.day90
+BEGIN DE_EVIDENCE tension result.death.day90 {"canonical_field": "intervention_events", "document_key": "tension.fulltext", "source_path": "originals/tension-primary/publisher.html", "source_sha256": "23927f0aee5eb43251416516a95f0c92a42bf43487192408f378d70cf8333b86", "view_sha256": "e77fdc6b31ab1d92bc17a131ab59b34274b51dade432bc701e2d030b4ddfcb10"}
+ar thrombectomy group and six patients in the medical treatment group. Missing values were imputed.
+Table 2 . Efficacy outcomes (intention-to-treat population)
+Empty Cell | Endovascular thrombectomy (N=125) | Medical treatment (N=128) | Treatment effect (95% CI) | p value
+Primary outcome
+Median score on modified Rankin Scale at 90 (±14; IQR) days (%) * | 4 (3–6) | 6 (4–6) | 2·58 (1·60–4·15) | 0·0001
+Secondary outcomes
+Independent neurological outcome (mRS ≤2) at 90 (±14) days (%), n/N | 21/124 (17%) | 3/122 (2%) | 7·16 (2·12–24·21) | 0·0016
+Moderate neurological outcome (mRS ≤3) with 90 (±14) days (%), n/N | 39/124 (31%) | 16/122 (13%) | 2·84 (1·48–5·47) | 0·0018
+Decompressive craniotomy | 11 (9%) | 9 (7%) | .. | 0·65
+Successful recanalisation (mTICI 2b or better) † | 104 (83%) | .. | 83% (76–89) | ..
+Distal embolisation ‡ | 4 (3%) | .. | 3% (1–8) | ..
+Mean infarct volume at 24 (±6) h (CT or MRI) after randomisation (SD), mL § | 205·8 (139·1) | 227·7 (107·2) | 0·93 (0·80–1·08) | 0·35
+Median EQ-5D index at 90 (±14) days (IQR) | 0·6 (0·3–0·9) | 0·4 (0·2–0·6) | .. | 0·0060
+Median health status VAS at 90 (±14) days (IQR) | 50 (30–70) | 40 (20–58) | .. | 0·13
+Median PROMIS-10 physical health at 90 (±14) days, T-score (IQR) | 39·8 (34·9–50·8) | 34·9 (29·6–37·4) | .. | 0·0008
+Median PROMIS-10 mental health at 90 (±14) days (IQR), T-score | 43·5 (36·3–50·8) | 38·8 (32·6–43·5) | .. | 0·025
+PHQ-4 anxiety (%), n/N | 12/52 (23%) | 18/35 (51%) | .. | 0·011
+PHQ-4 depression (%), n/N | 14/52 (27%) | 11/35 (31%) | .. | 0·81
+Data are n (%) unless specified. The treatment effect was reported for the primary outcome as OR (95% CI) for the ordinal shift in the distribution of scores on the modified Rankin Scale towards a better outcome with imputation of missing values. Infarct volume at 24 h after randomisation was reported as coefficient from an adjusted log-linear model. PROMIS-10 and EQ-5D were reported as Wilcoxon rank sum test . Other outcomes were reported as the adjusted OR (95% CI) or as Fisher's exact test for small numbers. The rate of successful restoration of flow of the occluded target arterial vessel, defined as mTICI 2b or better, was reported descriptively for the group that received thrombectomy with 95% CIs based on the Wald method. The rate of embolisation , either distal to the target occlusion or to previously unaffected territories, was reported descriptively for the group that received thrombectomy with 95% CIs based on the Clopper-Pearson method. The CIs for the secondary outcomes were not adjusted for multiple comparisons and can not be used for hypothesis testing. EQ-5D=EuroQol-5 Dimensions questionnaire. PHQ-4=poststroke anxiety and depression evaluated by the Patient Health Questionnaire-4. PROMIS 10=Patient-Reported Outcomes Measurement Information System 10-item. VAS=visual analogue scale.
+*
+Scores on the modified Rankin Scale range from 0 to 6, with higher scores indicating greater disability.
+†
+Successful reperfusion was defined as grade 2b to 3 on the modified Thrombectomy in the Cerebral Ischemia system ranging from 0–3, with higher grades indicating increased reperfusion; grade 2b indicates reperfusion of ≥50% of the occluded middle cerebral artery territory; and grade 3 indicates reperfusion of 100% of the occluded middle cerebral artery territory at the end of the thrombectomy procedure.
+‡
+Assessed by the image core lab.
+§
+Mean infarct volume was assessed using CT in 101 (83%) of 121 patients assigned to endovascular thrombectomy and 96 (85%) of 113 patients assigned to medical treatment.
+In the secondary outcome analysis, 21 (17%) of 124 patients in the endovascular thrombectomy group achieved a score of 0–2 on the mRS at 90 days as compared with three (2%) of 122 patients in the medical treatment group (adjusted OR 7·16 [95% CI 2·12–24·21; p=0·0016; appendix p 31 ). 39 (31%) of 124 patients in the endovascular thrombectomy group had a score of 0–3 on the mRS at 90 days versus 16 (13%) of 122 in the medical treatment group (adjusted OR 2·84 [95% CI 1·48–5·47]; p=0·0018; appendix p 31 ).
+Analysis of patient-reported outcomes revealed higher PROMIS-10 values for physical health (median T score 39·8 [IQR 34·9–50·8] vs 34·9 [29·6–37·4]; p<0·0008) and mental health (median T score 43·5 [IQR 36·3–50·8] vs 38·8 [32·6–43·5]; p=0·025) at 90 days in patients assigned to endovascular thrombectomy as compared with those assigned to medical treatment.
+In the safety population, death at 90 days occurred in 49 (40%) of 122 patients receiving endovascular thrombectomy and 63 (51%) of 123 patients receiving medical treatment alone. Endovascular thrombectomy was associated with lower mortality (HR for death censored at 90 days 0·67 [95% CI 0·46–0·98]; p=0·038; figure 3 and table 3 ). Death or dependency (modified Rankin Scale 4–6) at 90 days was observed in 88 (69%) of 127 patients receiving endovascular thrombectomy and in 103 (87%) of 119 patients receiving medical treatment only (adjusted OR 0·34 [95% CI 0·18–0·65]; p=0·0011; appendix p 33 ).
+- Download: Download high-res image (264KB)
+- Download: Download full-size image
+Figure 3 . Kaplan-Meier analysis for mortality at 90 days
+Analysis of mortality at 90 days was done in the safety population, including 128 patients who had received endovascular thrombectomy and 125 patients who had received medical treatment alone. HR=hazard ratio.
+Table 3 . Safety outcomes (safety population)
+Empty Cell | Endovascular thrombectomy (N=128) | Medical treatment (N=125) | Treatment effect (95% CI) | p value
+Death or dependency (modified Rankin Scale 4–6) at 90 (±14) days (%), n/N | 88/127 (69%) | 103/119 (87%) | 0·34 (0·18–0·65) | 0·0011
+Mortality (censored at 90 days; %), n/N | 49/122 (40%) | 63/123 (51%) | 0·67 (0·46–0·98) | 0·038
+Mortality at 7 days or discharge | 30 (23%) | 36 (29%) | 0·75 (0·42–1·32) | 0·31
+Stroke-related death (%), n/N | 33/127 (26%) | 36/119 (30%) | 0·80 (0·46–1·41) | 0·44
+New ischaemic stroke | 17 (13%) | 20 (16%) | 0·80 (0·39–1·60) | 0·52
+Space-occupying infarction | 21 (16%) | 17 (14%) | 1·26 (0·63–2·54) | 0·52
+Parenchymal haemorrhage type 2 (%), n/N * | 11/124 (9%) | 10/116 (9%) | .. | 0·95
+Symptomatic intracranial haemorrhage † | 7 (5%) | 6 (5%) | .. | 1·00
+Fatal symptomatic intracranial haemorrhage | 3 (2%) | 4 (3%) | .. | 0·72
+At least one serious adverse event | 71 (55%) | 88 (70%) | .. | 0·014
+Data are n (%) unless specified. The treatment effect is reported for death (censored at 90 days), as an adjusted hazard ratio (95% CI). Other outcomes were reported as the adjusted OR (95% CI) or as Fisher's exact test for small numbers. NIHSS=National Institutes of Health Stroke Scale.
+*
+Parenchymal haemorrhage type 2 was defined as an intracranial haemorrhage that involved more than 30% of the infarcted area with a substantial space-occupying effect or that was remote from the original infarcted area.
+†
+Symptomatic intracranial haemorrhage was defined as an increase in the NIHSS score of ≥4 points or an increase in the score for an NIHSS subcategory of ≥2 points with presence of parenchymal haemorrhage type 2.
+Symptomatic intracranial haemorrhage occurred in seven (5%) of 128 of patients given endovascular thrombectomy and in six (5%) of 125 given medical treatment alone. Parenchymal haemorrhage type 2 was observed in 11 (9%) patients receiving endovascular thrombectomy and ten (9%) patients receiving medical treatment ( appendix p 33 ). In patients receiving endovascular thrombectomy, at least one serious adverse event was reported in 71 patients (56%), compared with 88 patients (70%) in the medical treatment group. A detailed list of serious adverse events is provided in the appendix (pp 35–38 ).
+The results of subgroup analyses were generally supportive of the primary analysis ( appendix p 21, 30 ), although the trial was not powered for subgroup analyses. The per-protocol analysis included 97 patients in the endovascular thrombectomy group and 89 patients in the medical treatment group, and results were consistent with those of the primary intention-to-treat analysis ( appendix p 18, 27 ). The sensitivity analyses (best-case scenario and worst-case scenario) were also consistent with the primary outcome analysis ( appendix pp 17–18, 26–27 ). Given the imbalance in baseline ASPECTS among and between groups, we did an exploratory (not prespecified) analysis of the primary endpoint in the intention-to-treat population, adjusting for baseline ASPECTS, which was also consistent with the primary outcome analysis ( appendix pp 28–29 ).
+## Discussion
+The TENSION trial conducted in Europe and Canada showed that endovascular thrombectomy in addition to medical treatment resulted in improved functional outcome and lower mortality compared with medical treatment alone in patients presenting with a large brain infarction due to large vessel occlusion of the anterior brain circulation . Importantly, presence of a large infarction was identified by visual assessment of the infarct size mostly on unenhanced CT images without applying advanced imaging techniques or post-processing tools. The trial was st
+END DE_EVIDENCE tension result.death.day90
+BEGIN DE_EVIDENCE tension result.early_symptomatic_intracranial_hemorrhage {"canonical_field": "intervention_events", "document_key": "tension.fulltext", "source_path": "originals/tension-primary/publisher.html", "source_sha256": "23927f0aee5eb43251416516a95f0c92a42bf43487192408f378d70cf8333b86", "view_sha256": "e77fdc6b31ab1d92bc17a131ab59b34274b51dade432bc701e2d030b4ddfcb10"}
+ar thrombectomy group and six patients in the medical treatment group. Missing values were imputed.
+Table 2 . Efficacy outcomes (intention-to-treat population)
+Empty Cell | Endovascular thrombectomy (N=125) | Medical treatment (N=128) | Treatment effect (95% CI) | p value
+Primary outcome
+Median score on modified Rankin Scale at 90 (±14; IQR) days (%) * | 4 (3–6) | 6 (4–6) | 2·58 (1·60–4·15) | 0·0001
+Secondary outcomes
+Independent neurological outcome (mRS ≤2) at 90 (±14) days (%), n/N | 21/124 (17%) | 3/122 (2%) | 7·16 (2·12–24·21) | 0·0016
+Moderate neurological outcome (mRS ≤3) with 90 (±14) days (%), n/N | 39/124 (31%) | 16/122 (13%) | 2·84 (1·48–5·47) | 0·0018
+Decompressive craniotomy | 11 (9%) | 9 (7%) | .. | 0·65
+Successful recanalisation (mTICI 2b or better) † | 104 (83%) | .. | 83% (76–89) | ..
+Distal embolisation ‡ | 4 (3%) | .. | 3% (1–8) | ..
+Mean infarct volume at 24 (±6) h (CT or MRI) after randomisation (SD), mL § | 205·8 (139·1) | 227·7 (107·2) | 0·93 (0·80–1·08) | 0·35
+Median EQ-5D index at 90 (±14) days (IQR) | 0·6 (0·3–0·9) | 0·4 (0·2–0·6) | .. | 0·0060
+Median health status VAS at 90 (±14) days (IQR) | 50 (30–70) | 40 (20–58) | .. | 0·13
+Median PROMIS-10 physical health at 90 (±14) days, T-score (IQR) | 39·8 (34·9–50·8) | 34·9 (29·6–37·4) | .. | 0·0008
+Median PROMIS-10 mental health at 90 (±14) days (IQR), T-score | 43·5 (36·3–50·8) | 38·8 (32·6–43·5) | .. | 0·025
+PHQ-4 anxiety (%), n/N | 12/52 (23%) | 18/35 (51%) | .. | 0·011
+PHQ-4 depression (%), n/N | 14/52 (27%) | 11/35 (31%) | .. | 0·81
+Data are n (%) unless specified. The treatment effect was reported for the primary outcome as OR (95% CI) for the ordinal shift in the distribution of scores on the modified Rankin Scale towards a better outcome with imputation of missing values. Infarct volume at 24 h after randomisation was reported as coefficient from an adjusted log-linear model. PROMIS-10 and EQ-5D were reported as Wilcoxon rank sum test . Other outcomes were reported as the adjusted OR (95% CI) or as Fisher's exact test for small numbers. The rate of successful restoration of flow of the occluded target arterial vessel, defined as mTICI 2b or better, was reported descriptively for the group that received thrombectomy with 95% CIs based on the Wald method. The rate of embolisation , either distal to the target occlusion or to previously unaffected territories, was reported descriptively for the group that received thrombectomy with 95% CIs based on the Clopper-Pearson method. The CIs for the secondary outcomes were not adjusted for multiple comparisons and can not be used for hypothesis testing. EQ-5D=EuroQol-5 Dimensions questionnaire. PHQ-4=poststroke anxiety and depression evaluated by the Patient Health Questionnaire-4. PROMIS 10=Patient-Reported Outcomes Measurement Information System 10-item. VAS=visual analogue scale.
+*
+Scores on the modified Rankin Scale range from 0 to 6, with higher scores indicating greater disability.
+†
+Successful reperfusion was defined as grade 2b to 3 on the modified Thrombectomy in the Cerebral Ischemia system ranging from 0–3, with higher grades indicating increased reperfusion; grade 2b indicates reperfusion of ≥50% of the occluded middle cerebral artery territory; and grade 3 indicates reperfusion of 100% of the occluded middle cerebral artery territory at the end of the thrombectomy procedure.
+‡
+Assessed by the image core lab.
+§
+Mean infarct volume was assessed using CT in 101 (83%) of 121 patients assigned to endovascular thrombectomy and 96 (85%) of 113 patients assigned to medical treatment.
+In the secondary outcome analysis, 21 (17%) of 124 patients in the endovascular thrombectomy group achieved a score of 0–2 on the mRS at 90 days as compared with three (2%) of 122 patients in the medical treatment group (adjusted OR 7·16 [95% CI 2·12–24·21; p=0·0016; appendix p 31 ). 39 (31%) of 124 patients in the endovascular thrombectomy group had a score of 0–3 on the mRS at 90 days versus 16 (13%) of 122 in the medical treatment group (adjusted OR 2·84 [95% CI 1·48–5·47]; p=0·0018; appendix p 31 ).
+Analysis of patient-reported outcomes revealed higher PROMIS-10 values for physical health (median T score 39·8 [IQR 34·9–50·8] vs 34·9 [29·6–37·4]; p<0·0008) and mental health (median T score 43·5 [IQR 36·3–50·8] vs 38·8 [32·6–43·5]; p=0·025) at 90 days in patients assigned to endovascular thrombectomy as compared with those assigned to medical treatment.
+In the safety population, death at 90 days occurred in 49 (40%) of 122 patients receiving endovascular thrombectomy and 63 (51%) of 123 patients receiving medical treatment alone. Endovascular thrombectomy was associated with lower mortality (HR for death censored at 90 days 0·67 [95% CI 0·46–0·98]; p=0·038; figure 3 and table 3 ). Death or dependency (modified Rankin Scale 4–6) at 90 days was observed in 88 (69%) of 127 patients receiving endovascular thrombectomy and in 103 (87%) of 119 patients receiving medical treatment only (adjusted OR 0·34 [95% CI 0·18–0·65]; p=0·0011; appendix p 33 ).
+- Download: Download high-res image (264KB)
+- Download: Download full-size image
+Figure 3 . Kaplan-Meier analysis for mortality at 90 days
+Analysis of mortality at 90 days was done in the safety population, including 128 patients who had received endovascular thrombectomy and 125 patients who had received medical treatment alone. HR=hazard ratio.
+Table 3 . Safety outcomes (safety population)
+Empty Cell | Endovascular thrombectomy (N=128) | Medical treatment (N=125) | Treatment effect (95% CI) | p value
+Death or dependency (modified Rankin Scale 4–6) at 90 (±14) days (%), n/N | 88/127 (69%) | 103/119 (87%) | 0·34 (0·18–0·65) | 0·0011
+Mortality (censored at 90 days; %), n/N | 49/122 (40%) | 63/123 (51%) | 0·67 (0·46–0·98) | 0·038
+Mortality at 7 days or discharge | 30 (23%) | 36 (29%) | 0·75 (0·42–1·32) | 0·31
+Stroke-related death (%), n/N | 33/127 (26%) | 36/119 (30%) | 0·80 (0·46–1·41) | 0·44
+New ischaemic stroke | 17 (13%) | 20 (16%) | 0·80 (0·39–1·60) | 0·52
+Space-occupying infarction | 21 (16%) | 17 (14%) | 1·26 (0·63–2·54) | 0·52
+Parenchymal haemorrhage type 2 (%), n/N * | 11/124 (9%) | 10/116 (9%) | .. | 0·95
+Symptomatic intracranial haemorrhage † | 7 (5%) | 6 (5%) | .. | 1·00
+Fatal symptomatic intracranial haemorrhage | 3 (2%) | 4 (3%) | .. | 0·72
+At least one serious adverse event | 71 (55%) | 88 (70%) | .. | 0·014
+Data are n (%) unless specified. The treatment effect is reported for death (censored at 90 days), as an adjusted hazard ratio (95% CI). Other outcomes were reported as the adjusted OR (95% CI) or as Fisher's exact test for small numbers. NIHSS=National Institutes of Health Stroke Scale.
+*
+Parenchymal haemorrhage type 2 was defined as an intracranial haemorrhage that involved more than 30% of the infarcted area with a substantial space-occupying effect or that was remote from the original infarcted area.
+†
+Symptomatic intracranial haemorrhage was defined as an increase in the NIHSS score of ≥4 points or an increase in the score for an NIHSS subcategory of ≥2 points with presence of parenchymal haemorrhage type 2.
+Symptomatic intracranial haemorrhage occurred in seven (5%) of 128 of patients given endovascular thrombectomy and in six (5%) of 125 given medical treatment alone. Parenchymal haemorrhage type 2 was observed in 11 (9%) patients receiving endovascular thrombectomy and ten (9%) patients receiving medical treatment ( appendix p 33 ). In patients receiving endovascular thrombectomy, at least one serious adverse event was reported in 71 patients (56%), compared with 88 patients (70%) in the medical treatment group. A detailed list of serious adverse events is provided in the appendix (pp 35–38 ).
+The results of subgroup analyses were generally supportive of the primary analysis ( appendix p 21, 30 ), although the trial was not powered for subgroup analyses. The per-protocol analysis included 97 patients in the endovascular thrombectomy group and 89 patients in the medical treatment group, and results were consistent with those of the primary intention-to-treat analysis ( appendix p 18, 27 ). The sensitivity analyses (best-case scenario and worst-case scenario) were also consistent with the primary outcome analysis ( appendix pp 17–18, 26–27 ). Given the imbalance in baseline ASPECTS among and between groups, we did an exploratory (not prespecified) analysis of the primary endpoint in the intention-to-treat population, adjusting for baseline ASPECTS, which was also consistent with the primary outcome analysis ( appendix pp 28–29 ).
+## Discussion
+The TENSION trial conducted in Europe and Canada showed that endovascular thrombectomy in addition to medical treatment resulted in improved functional outcome and lower mortality compared with medical treatment alone in patients presenting with a large brain infarction due to large vessel occlusion of the anterior brain circulation . Importantly, presence of a large infarction was identified by visual assessment of the infarct size mostly on unenhanced CT images without applying advanced imaging techniques or post-processing tools. The trial was st
+END DE_EVIDENCE tension result.early_symptomatic_intracranial_hemorrhage
+BEGIN DE_EVIDENCE laste result.functional_independence.mrs_0_2.day90 {"canonical_field": "intervention_events", "document_key": "laste.fulltext", "source_path": "originals/laste-primary/publisher.pdf", "source_sha256": "dcdcce08bf4cdc6ed97e6a3b1457cd357b43e7fcc06bfb427552f62065ba6ea4", "view_sha256": "c0c104fb8bb8c572b8bd4202a13668c15bc435dcaf9882bc79d49214eef48a6a"}
+| 0 to 2 | 21/158 (13.3) | 8/164 (4.9) | 2.39 (1.18 to 6.22)§ |
+END DE_EVIDENCE laste result.functional_independence.mrs_0_2.day90
+BEGIN DE_EVIDENCE laste result.ambulation.mrs_0_3.day90 {"canonical_field": "intervention_events", "document_key": "laste.fulltext", "source_path": "originals/laste-primary/publisher.pdf", "source_sha256": "dcdcce08bf4cdc6ed97e6a3b1457cd357b43e7fcc06bfb427552f62065ba6ea4", "view_sha256": "c0c104fb8bb8c572b8bd4202a13668c15bc435dcaf9882bc79d49214eef48a6a"}
+6.
+
+1681
+
+[DOCLING_PAGE 6]
+
+The new england journal o f medicine
+
+[DOCLING_TABLE rows=31 columns=4]
+| Table 2. Efficacy and Safety Outcomes.* |  |  |  |
+| Primary outcome |  |  |  |
+| Median modified Rankin scale score at 90 days (IQR)† | 4 (3-6) | 6 (4-6) | 1.63 (1.29 to 2.06)‡ |
+| Secondary outcomes |  |  |  |
+| Modified Rankin scale score at 90 days - no./total no. (%) |  |  |  |
+| 0 to 2 | 21/158 (13.3) | 8/164 (4.9) | 2.39 (1.18 to 6.22)§ |
+| 0 to 3 | 53/158 (33.5) | 20/164 (12.2) | 2.62 (1.72 to 4.36)§ |
+| Modified Rankin scale score at 180 days |  |  |  |
+| Median (IQR) | 4 (3-6) | 6 (4-6) | 1.71 (1.35 to 2.18)‡ |
+| 0 to 2 - no./total no. (%) | 29/157 (18.5) | 8/162 (4.9) | 3.26 (1.67 to 8.46)§ |
+| 0 to 3 - no./total no. (%) | 58/157 (36.9) | 21/162 (13.0) | 2.67 (1.79 to 4.41)§ |
+| Utility-weighted modified Rankin scale score |  |  |  |
+| At 90 days | 0.30±0.32 | 0.16±0.25 | 0.144 (0.08 to 0.20)¶ |
+| At 180 days | 0.33±0.34 | 0.17±0.26 | 0.164 (0.10 to 0.23)¶ |
+| EQ-5D-5L utility index‖ |  |  |  |
+| At 90 days | 0.30±0.43 | 0.10±0.32 | 0.51 (0.26 to 0.75)** |
+| At 180 days | 0.32±0.41 | 0.14±0.34 | 0.51 (0.28 to 0.75)** |
+| Decompressive craniectomy within 7 days - no. (%) | 14 (8.8) | 19 (11.5) | 0.81 (0.37 to 1.74)†† |
+| Early neurologic improvement - no./total no. (%)‡‡ | 47/153 (30.7) | 18/158 (11.4) | 2.62 (1.70 to 4.56)§ |
+| Mean change in infarct volume from baseline at 24 hr (95% CI) - ml | 51.6 (39.9 to 63.2) | 119.5 (107.9 to 131.1) | -67.9 (-84.1 to -51.6)¶ |
+| Safety outcomes |  |  |  |
+| Death from any cause at 90 days - no./total no. (%) | 57/158 (36.1) | 91/164 (55.5) | 0.65 (0.50 to 0.84)§ |
+| Symptomatic intracerebral hemorrhage within 24 hr - no./total no. (%)§§ |  |  |  |
+| According to the Heidelberg bleeding classification | 15/157 (9.6) | 9/157 (5.7) | 1.73 (0.78 to 4.68)§ |
+| According to the SITS-MOST criteria | 5/157 (3.2) | 4/157 (2.5) | 1.29 (0.21 to 16.39)§ |
+| Early neurologic worsening - no./total no. (%)¶¶ | 49/153 (32.0) | 57/158 (36.1) | 0.89 (0.64 to 1.21)§ |
+| Adverse event related to the procedure or device - no. (%)‖‖ |  |  |  |
+| Embolization in a previously uninvolved territory | 1 (0.6) | NA | - |
+| Arterial dissection | 2 (1.3) | NA | - |
+| Arterial perforation | 2 (1.3) | NA | - |
+| Other | 6 (3.8) | NA | - |
+[/DOCLING_TABLE]
+
+1682
+
+n engl j med 390;18 nejm.org May 9, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+[DOCLING_PAGE 7]
+
+Thrombectomy for Stroke with a Large Infarct
+
+Table 2. (Continued.)
+
+ Plus-minus values are means ±SD. Effect sizes are adjusted for prognostic factors used in the randomization procedure, with an additional adjustment on baseline infarct values for the change in infarct volume at 24 hours. The widths of the confidence intervals for secondary outcomes were not adjusted for multiple comparisons and should not be used for hypothesis testing. NA denotes not applicable.
+
+†  Missing modified Rankin scale scores (for one patient in each group) were handled with the use of single imputation. The analysis that included all the patients with available data is shown in Table S9 in the Supplementary Appendix.
+
+‡  The value is a generalized odds ratio (with its 95% confidence interval) for the ordinal shift in the distribution of the modified Rankin scale score toward better functional outcomes (favoring thrombectomy) at 90 days. Scores of 5 and 6 were combined into one score in the analysis.
+
+§  The value is an adjusted relative risk (with its 95% confidence interval).
+
+¶  The value is an adjusted mean difference (with its 95% confidence interval).
+
+‖  The EuroQol Group 5-Dimension 5-Level self-report questionnaire (EQ-5D-5L) is a standardized instrument for the measurement of health status. Scores range from -0.526 to 1.00, with higher scores indicating better quality of life and death coded as 0. Missing data at 90 days (for 39 patients in the thrombectomy group and 36 in the control group) and missing data at 180 days (for 28 patients in the thrombectomy group and 29 in the control group) were handled with the use of multiple imputation (m = 20 imputations). Results of the complete case analysis and scores on the specific items in the EQ-5D-5L for surviving patients are provided in Tables S10 and S11.
+
+**  The value is a standardized difference (with its 95% confidence interval) applied to rank-transformed data.
+
+††  The value is an adjusted subdistribution hazard ratio (with its 95% confidence interval), with death treated as a competing risk.
+
+‡‡  Early neurologic improvement was defined as a decrease of at least 8 points in the NIHSS score from the time of presentation to a thrombectomy-capable center to either day 7 or the time of hospital discharge (whichever occurred first). Death within 7 days was considered to indicate neurologic worsening.
+
+§§  Symptomatic intracerebral hemorrhage at 24 hours was defined primarily according to the Heidelberg bleeding classification and secondarily according to the Safe Implementation of Thrombolysis in Stroke
+END DE_EVIDENCE laste result.ambulation.mrs_0_3.day90
+BEGIN DE_EVIDENCE laste result.nondisabled.mrs_0_1.day90 {"canonical_field": "intervention_events", "document_key": "laste.fulltext", "source_path": "originals/laste-primary/publisher.pdf", "source_sha256": "dcdcce08bf4cdc6ed97e6a3b1457cd357b43e7fcc06bfb427552f62065ba6ea4", "view_sha256": "c0c104fb8bb8c572b8bd4202a13668c15bc435dcaf9882bc79d49214eef48a6a"}
+lyses generally favored thrombectomy, including the percentage of patients with modified Rankin scale scores of 0 to 2 at 90 days (13.3% in the thrombectomy group and 4.9% in the control group; adjusted relative risk, 2.39; 95% CI, 1.18 to 6.22), a difference that was sustained at 180 days (18.5% and 4.9%, respectively; adjusted relative risk, 3.26; 95% CI, 1.67 to 8.46) (Table 2). Imaging showed a smaller increase in the infarct volume between baseline and 24 hours in the thrombectomy group than in the control group (adjusted mean difference in the increase, -67.9 ml; 95% CI, -84.1 to -51.6) (Fig. S7).
+
+Safety
+
+Death from any cause at 90 days occurred in a smaller percentage of patients in the thrombectomy group than in the control group (36.1% vs. 55.5%; adjusted relative risk, 0.65; 95% CI, 0.50 to 0.84; P<0.001) (Table 2), a finding that was similar to that at 180 days (Fig. S6). Symptomatic intracerebral hemorrhage within 24 hours was observed in 9.6% of the patients in the thrombectomy group and in 5.7% of those in the control group (adjusted relative risk, 1.73; 95% CI, 0.78 to 4.68), as defined according to the Heidelberg bleeding classification, 14 and in 3.2% and 2.5%, respectively (adjusted relative risk, 1.29; 95% CI, 0.21 to 16.39), as defined according to the SITS-MOST criteria. 15 Procedure-related complications, including arterial dissection, per- foration, and embolization in a previously uninvolved territory, and complications at the vascular access site, occurred in 11 patients (6.9%) in the thrombectomy group, and medical complications were similar in the two trial groups (Table 2 and Tables S3 and S4).
+
+1684
+
+n engl j med 390;18 nejm.org May 9, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+[DOCLING_PAGE 9]
+
+Thrombectomy for Stroke with a Large Infarct
+
+The results of the prespecified subgroup analyses are presented in Figure 3. The relatively small sample size limited the power of these analyses.
+
+Discussion
+
+Our trial showed that among patients with large baseline infarcts of unrestricted size, the use of thrombectomy plus medical care within 7 hours after symptom onset led to a lower score on the modified Rankin scale at 90 days after randomization than medical care alone. This finding corresponds to a number needed to treat of 4 (95% CI, 3 to 8) for 1 patient to have a decreased modified Rankin scale score at 90 days with thrombectomy plus medical care as compared with medical care alone. We also found that death from any cause at 90 days occurred in a smaller percentage of patients in the thrombectomy group than in the control group. The benefits observed at 180 days were similar to those observed at 90 days. The lower mortality in the thrombectomy group was not associated with a higher percentage of patients with severe disability with complete dependence (modified Rankin scale score, 5). The results for the secondary outcomes were generally in the same direction as those of the primary outcome analysis. Thrombectomy was associated with procedural complications, and the percentage of patients with symptomatic intracerebral hemorrhage was higher in the thrombectomy group than in the control group.
+
+The extent of benefit derived from thrombectomy is time sensitive. In a trial that included patients with small or moderate infarct sizes as assessed primarily on noncontrast CT, benefit could only be shown when treatment was initiated within 7 hours after symptom onset. 17 On the basis of these findings, we restricted enrollment to patients who could start treatment during this interval. This included patients with an
+
+Thrombectomy
+
+(N=159)
+
+Control
+
+(N=165)
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+10
+
+30
+
+50
+
+70
+
+90
+
+Percentage of Patients
+
+A All Patients
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Score on the Modified Rankin Scale:
+
+1
+
+0
+
+2
+
+7
+
+5
+
+14
+
+13
+
+32
+
+35
+
+32
+
+18
+
+17
+
+91
+
+57
+
+B Patients with Baseline ASPECTS Value ≤2
+
+Figure 2. Modified Rankin Scale Scores at 90 Days Overall and According to Baseline ASPECTS Value.
+
+Control
+
+(N=95)
+
+Thrombectomy
+
+(N=86)
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+10
+
+30
+
+50
+
+70
+
+90
+
+Percentage of Patients
+
+4
+
+3
+
+3
+
+6
+
+20
+
+18
+
+18
+
+12
+
+8
+
+56
+
+33
+
+0
+
+0
+
+Control
+
+(N=70)
+
+C Patients with Baseline ASPECTS Value ≥3
+
+Thrombectomy
+
+(N=73)
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+10
+
+30
+
+50
+
+70
+
+90
+
+Percentage of Patients
+
+2
+
+3
+
+2
+
+11
+
+7
+
+12
+
+17
+
+14
+
+6
+
+9
+
+35
+
+24
+
+0
+
+1
+
+Shown is the distribution of the modified Rankin scale scores at 90 days after randomization in all the patients (Panel A), in patients with a baseline Alberta Stroke Program Early Computed Tomographic Score (ASPECTS) value of 2 or less (Panel B), and in patients with a baseline ASPECTS value of 3 or more. The modified Rankin scale is a measure of disability; scores range from 0 to 6, with a score of 0 i
+END DE_EVIDENCE laste result.nondisabled.mrs_0_1.day90
+BEGIN DE_EVIDENCE laste result.nondisabled.mrs_0_1.day90 {"canonical_field": "intervention_group_size", "document_key": "laste.fulltext", "source_path": "originals/laste-primary/publisher.pdf", "source_sha256": "dcdcce08bf4cdc6ed97e6a3b1457cd357b43e7fcc06bfb427552f62065ba6ea4", "view_sha256": "c0c104fb8bb8c572b8bd4202a13668c15bc435dcaf9882bc79d49214eef48a6a"}
+6.
+
+1681
+
+[DOCLING_PAGE 6]
+
+The new england journal o f medicine
+
+[DOCLING_TABLE rows=31 columns=4]
+| Table 2. Efficacy and Safety Outcomes.* |  |  |  |
+| Primary outcome |  |  |  |
+| Median modified Rankin scale score at 90 days (IQR)† | 4 (3-6) | 6 (4-6) | 1.63 (1.29 to 2.06)‡ |
+| Secondary outcomes |  |  |  |
+| Modified Rankin scale score at 90 days - no./total no. (%) |  |  |  |
+| 0 to 2 | 21/158 (13.3) | 8/164 (4.9) | 2.39 (1.18 to 6.22)§ |
+| 0 to 3 | 53/158 (33.5) | 20/164 (12.2) | 2.62 (1.72 to 4.36)§ |
+| Modified Rankin scale score at 180 days |  |  |  |
+| Median (IQR) | 4 (3-6) | 6 (4-6) | 1.71 (1.35 to 2.18)‡ |
+| 0 to 2 - no./total no. (%) | 29/157 (18.5) | 8/162 (4.9) | 3.26 (1.67 to 8.46)§ |
+| 0 to 3 - no./total no. (%) | 58/157 (36.9) | 21/162 (13.0) | 2.67 (1.79 to 4.41)§ |
+| Utility-weighted modified Rankin scale score |  |  |  |
+| At 90 days | 0.30±0.32 | 0.16±0.25 | 0.144 (0.08 to 0.20)¶ |
+| At 180 days | 0.33±0.34 | 0.17±0.26 | 0.164 (0.10 to 0.23)¶ |
+| EQ-5D-5L utility index‖ |  |  |  |
+| At 90 days | 0.30±0.43 | 0.10±0.32 | 0.51 (0.26 to 0.75)** |
+| At 180 days | 0.32±0.41 | 0.14±0.34 | 0.51 (0.28 to 0.75)** |
+| Decompressive craniectomy within 7 days - no. (%) | 14 (8.8) | 19 (11.5) | 0.81 (0.37 to 1.74)†† |
+| Early neurologic improvement - no./total no. (%)‡‡ | 47/153 (30.7) | 18/158 (11.4) | 2.62 (1.70 to 4.56)§ |
+| Mean change in infarct volume from baseline at 24 hr (95% CI) - ml | 51.6 (39.9 to 63.2) | 119.5 (107.9 to 131.1) | -67.9 (-84.1 to -51.6)¶ |
+| Safety outcomes |  |  |  |
+| Death from any cause at 90 days - no./total no. (%) | 57/158 (36.1) | 91/164 (55.5) | 0.65 (0.50 to 0.84)§ |
+| Symptomatic intracerebral hemorrhage within 24 hr - no./total no. (%)§§ |  |  |  |
+| According to the Heidelberg bleeding classification | 15/157 (9.6) | 9/157 (5.7) | 1.73 (0.78 to 4.68)§ |
+| According to the SITS-MOST criteria | 5/157 (3.2) | 4/157 (2.5) | 1.29 (0.21 to 16.39)§ |
+| Early neurologic worsening - no./total no. (%)¶¶ | 49/153 (32.0) | 57/158 (36.1) | 0.89 (0.64 to 1.21)§ |
+| Adverse event related to the procedure or device - no. (%)‖‖ |  |  |  |
+| Embolization in a previously uninvolved territory | 1 (0.6) | NA | - |
+| Arterial dissection | 2 (1.3) | NA | - |
+| Arterial perforation | 2 (1.3) | NA | - |
+| Other | 6 (3.8) | NA | - |
+[/DOCLING_TABLE]
+
+1682
+
+n engl j med 390;18 nejm.org May 9, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+[DOCLING_PAGE 7]
+
+Thrombectomy for Stroke with a Large Infarct
+
+Table 2. (Continued.)
+
+ Plus-minus values are means ±SD. Effect sizes are adjusted for prognostic factors used in the randomization procedure, with an additional adjustment on baseline infarct values for the change in infarct volume at 24 hours. The widths of the confidence intervals for secondary outcomes were not adjusted for multiple comparisons and should not be used for hypothesis testing. NA denotes not applicable.
+
+†  Missing modified Rankin scale scores (for one patient in each group) were handled with the use of single imputation. The analysis that included all the patients with available data is shown in Table S9 in the Supplementary Appendix.
+
+‡  The value is a generalized odds ratio (with its 95% confidence interval) for the ordinal shift in the distribution of the modified Rankin scale score toward better functional outcomes (favoring thrombectomy) at 90 days. Scores of 5 and 6 were combined into one score in the analysis.
+
+§  The value is an adjusted relative risk (with its 95% confidence interval).
+
+¶  The value is an adjusted mean difference (with its 95% confidence interval).
+
+‖  The EuroQol Group 5-Dimension 5-Level self-report questionnaire (EQ-5D-5L) is a standardized instrument for the measurement of health status. Scores range from -0.526 to 1.00, with higher scores indicating better quality of life and death coded as 0. Missing data at 90 days (for 39 patients in the thrombectomy group and 36 in the control group) and missing data at 180 days (for 28 patients in the thrombectomy group and 29 in the control group) were handled with the use of multiple imputation (m = 20 imputations). Results of the complete case analysis and scores on the specific items in the EQ-5D-5L for surviving patients are provided in Tables S10 and S11.
+
+**  The value is a standardized difference (with its 95% confidence interval) applied to rank-transformed data.
+
+††  The value is an adjusted subdistribution hazard ratio (with its 95% confidence interval), with death treated as a competing risk.
+
+‡‡  Early neurologic improvement was defined as a decrease of at least 8 points in the NIHSS score from the time of presentation to a thrombectomy-capable center to either day 7 or the time of hospital discharge (whichever occurred first). Death within 7 days was considered to indicate neurologic worsening.
+
+§§  Symptomatic intracerebral hemorrhage at 24 hours was defined primarily according to the Heidelberg bleeding classification and secondarily according to the Safe Implementation of Thrombolysis in Stroke
+END DE_EVIDENCE laste result.nondisabled.mrs_0_1.day90
+BEGIN DE_EVIDENCE laste result.early_neurologic_improvement {"canonical_field": "intervention_events", "document_key": "laste.fulltext", "source_path": "originals/laste-primary/publisher.pdf", "source_sha256": "dcdcce08bf4cdc6ed97e6a3b1457cd357b43e7fcc06bfb427552f62065ba6ea4", "view_sha256": "c0c104fb8bb8c572b8bd4202a13668c15bc435dcaf9882bc79d49214eef48a6a"}
+6.
+
+1681
+
+[DOCLING_PAGE 6]
+
+The new england journal o f medicine
+
+[DOCLING_TABLE rows=31 columns=4]
+| Table 2. Efficacy and Safety Outcomes.* |  |  |  |
+| Primary outcome |  |  |  |
+| Median modified Rankin scale score at 90 days (IQR)† | 4 (3-6) | 6 (4-6) | 1.63 (1.29 to 2.06)‡ |
+| Secondary outcomes |  |  |  |
+| Modified Rankin scale score at 90 days - no./total no. (%) |  |  |  |
+| 0 to 2 | 21/158 (13.3) | 8/164 (4.9) | 2.39 (1.18 to 6.22)§ |
+| 0 to 3 | 53/158 (33.5) | 20/164 (12.2) | 2.62 (1.72 to 4.36)§ |
+| Modified Rankin scale score at 180 days |  |  |  |
+| Median (IQR) | 4 (3-6) | 6 (4-6) | 1.71 (1.35 to 2.18)‡ |
+| 0 to 2 - no./total no. (%) | 29/157 (18.5) | 8/162 (4.9) | 3.26 (1.67 to 8.46)§ |
+| 0 to 3 - no./total no. (%) | 58/157 (36.9) | 21/162 (13.0) | 2.67 (1.79 to 4.41)§ |
+| Utility-weighted modified Rankin scale score |  |  |  |
+| At 90 days | 0.30±0.32 | 0.16±0.25 | 0.144 (0.08 to 0.20)¶ |
+| At 180 days | 0.33±0.34 | 0.17±0.26 | 0.164 (0.10 to 0.23)¶ |
+| EQ-5D-5L utility index‖ |  |  |  |
+| At 90 days | 0.30±0.43 | 0.10±0.32 | 0.51 (0.26 to 0.75)** |
+| At 180 days | 0.32±0.41 | 0.14±0.34 | 0.51 (0.28 to 0.75)** |
+| Decompressive craniectomy within 7 days - no. (%) | 14 (8.8) | 19 (11.5) | 0.81 (0.37 to 1.74)†† |
+| Early neurologic improvement - no./total no. (%)‡‡ | 47/153 (30.7) | 18/158 (11.4) | 2.62 (1.70 to 4.56)§ |
+| Mean change in infarct volume from baseline at 24 hr (95% CI) - ml | 51.6 (39.9 to 63.2) | 119.5 (107.9 to 131.1) | -67.9 (-84.1 to -51.6)¶ |
+| Safety outcomes |  |  |  |
+| Death from any cause at 90 days - no./total no. (%) | 57/158 (36.1) | 91/164 (55.5) | 0.65 (0.50 to 0.84)§ |
+| Symptomatic intracerebral hemorrhage within 24 hr - no./total no. (%)§§ |  |  |  |
+| According to the Heidelberg bleeding classification | 15/157 (9.6) | 9/157 (5.7) | 1.73 (0.78 to 4.68)§ |
+| According to the SITS-MOST criteria | 5/157 (3.2) | 4/157 (2.5) | 1.29 (0.21 to 16.39)§ |
+| Early neurologic worsening - no./total no. (%)¶¶ | 49/153 (32.0) | 57/158 (36.1) | 0.89 (0.64 to 1.21)§ |
+| Adverse event related to the procedure or device - no. (%)‖‖ |  |  |  |
+| Embolization in a previously uninvolved territory | 1 (0.6) | NA | - |
+| Arterial dissection | 2 (1.3) | NA | - |
+| Arterial perforation | 2 (1.3) | NA | - |
+| Other | 6 (3.8) | NA | - |
+[/DOCLING_TABLE]
+
+1682
+
+n engl j med 390;18 nejm.org May 9, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+[DOCLING_PAGE 7]
+
+Thrombectomy for Stroke with a Large Infarct
+
+Table 2. (Continued.)
+
+ Plus-minus values are means ±SD. Effect sizes are adjusted for prognostic factors used in the randomization procedure, with an additional adjustment on baseline infarct values for the change in infarct volume at 24 hours. The widths of the confidence intervals for secondary outcomes were not adjusted for multiple comparisons and should not be used for hypothesis testing. NA denotes not applicable.
+
+†  Missing modified Rankin scale scores (for one patient in each group) were handled with the use of single imputation. The analysis that included all the patients with available data is shown in Table S9 in the Supplementary Appendix.
+
+‡  The value is a generalized odds ratio (with its 95% confidence interval) for the ordinal shift in the distribution of the modified Rankin scale score toward better functional outcomes (favoring thrombectomy) at 90 days. Scores of 5 and 6 were combined into one score in the analysis.
+
+§  The value is an adjusted relative risk (with its 95% confidence interval).
+
+¶  The value is an adjusted mean difference (with its 95% confidence interval).
+
+‖  The EuroQol Group 5-Dimension 5-Level self-report questionnaire (EQ-5D-5L) is a standardized instrument for the measurement of health status. Scores range from -0.526 to 1.00, with higher scores indicating better quality of life and death coded as 0. Missing data at 90 days (for 39 patients in the thrombectomy group and 36 in the control group) and missing data at 180 days (for 28 patients in the thrombectomy group and 29 in the control group) were handled with the use of multiple imputation (m = 20 imputations). Results of the complete case analysis and scores on the specific items in the EQ-5D-5L for surviving patients are provided in Tables S10 and S11.
+
+**  The value is a standardized difference (with its 95% confidence interval) applied to rank-transformed data.
+
+††  The value is an adjusted subdistribution hazard ratio (with its 95% confidence interval), with death treated as a competing risk.
+
+‡‡  Early neurologic improvement was defined as a decrease of at least 8 points in the NIHSS score from the time of presentation to a thrombectomy-capable center to either day 7 or the time of hospital discharge (whichever occurred first). Death within 7 days was considered to indicate neurologic worsening.
+
+§§  Symptomatic intracerebral hemorrhage at 24 hours was defined primarily according to the Heidelberg bleeding classification and secondarily according to the Safe Implementation of Thrombolysis in Stroke
+END DE_EVIDENCE laste result.early_neurologic_improvement
+BEGIN DE_EVIDENCE laste result.constant_care_or_death.mrs_5_6.day90 {"canonical_field": "intervention_events", "document_key": "laste.fulltext", "source_path": "originals/laste-primary/publisher.pdf", "source_sha256": "dcdcce08bf4cdc6ed97e6a3b1457cd357b43e7fcc06bfb427552f62065ba6ea4", "view_sha256": "c0c104fb8bb8c572b8bd4202a13668c15bc435dcaf9882bc79d49214eef48a6a"}
+lyses generally favored thrombectomy, including the percentage of patients with modified Rankin scale scores of 0 to 2 at 90 days (13.3% in the thrombectomy group and 4.9% in the control group; adjusted relative risk, 2.39; 95% CI, 1.18 to 6.22), a difference that was sustained at 180 days (18.5% and 4.9%, respectively; adjusted relative risk, 3.26; 95% CI, 1.67 to 8.46) (Table 2). Imaging showed a smaller increase in the infarct volume between baseline and 24 hours in the thrombectomy group than in the control group (adjusted mean difference in the increase, -67.9 ml; 95% CI, -84.1 to -51.6) (Fig. S7).
+
+Safety
+
+Death from any cause at 90 days occurred in a smaller percentage of patients in the thrombectomy group than in the control group (36.1% vs. 55.5%; adjusted relative risk, 0.65; 95% CI, 0.50 to 0.84; P<0.001) (Table 2), a finding that was similar to that at 180 days (Fig. S6). Symptomatic intracerebral hemorrhage within 24 hours was observed in 9.6% of the patients in the thrombectomy group and in 5.7% of those in the control group (adjusted relative risk, 1.73; 95% CI, 0.78 to 4.68), as defined according to the Heidelberg bleeding classification, 14 and in 3.2% and 2.5%, respectively (adjusted relative risk, 1.29; 95% CI, 0.21 to 16.39), as defined according to the SITS-MOST criteria. 15 Procedure-related complications, including arterial dissection, per- foration, and embolization in a previously uninvolved territory, and complications at the vascular access site, occurred in 11 patients (6.9%) in the thrombectomy group, and medical complications were similar in the two trial groups (Table 2 and Tables S3 and S4).
+
+1684
+
+n engl j med 390;18 nejm.org May 9, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+[DOCLING_PAGE 9]
+
+Thrombectomy for Stroke with a Large Infarct
+
+The results of the prespecified subgroup analyses are presented in Figure 3. The relatively small sample size limited the power of these analyses.
+
+Discussion
+
+Our trial showed that among patients with large baseline infarcts of unrestricted size, the use of thrombectomy plus medical care within 7 hours after symptom onset led to a lower score on the modified Rankin scale at 90 days after randomization than medical care alone. This finding corresponds to a number needed to treat of 4 (95% CI, 3 to 8) for 1 patient to have a decreased modified Rankin scale score at 90 days with thrombectomy plus medical care as compared with medical care alone. We also found that death from any cause at 90 days occurred in a smaller percentage of patients in the thrombectomy group than in the control group. The benefits observed at 180 days were similar to those observed at 90 days. The lower mortality in the thrombectomy group was not associated with a higher percentage of patients with severe disability with complete dependence (modified Rankin scale score, 5). The results for the secondary outcomes were generally in the same direction as those of the primary outcome analysis. Thrombectomy was associated with procedural complications, and the percentage of patients with symptomatic intracerebral hemorrhage was higher in the thrombectomy group than in the control group.
+
+The extent of benefit derived from thrombectomy is time sensitive. In a trial that included patients with small or moderate infarct sizes as assessed primarily on noncontrast CT, benefit could only be shown when treatment was initiated within 7 hours after symptom onset. 17 On the basis of these findings, we restricted enrollment to patients who could start treatment during this interval. This included patients with an
+
+Thrombectomy
+
+(N=159)
+
+Control
+
+(N=165)
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+10
+
+30
+
+50
+
+70
+
+90
+
+Percentage of Patients
+
+A All Patients
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Score on the Modified Rankin Scale:
+
+1
+
+0
+
+2
+
+7
+
+5
+
+14
+
+13
+
+32
+
+35
+
+32
+
+18
+
+17
+
+91
+
+57
+
+B Patients with Baseline ASPECTS Value ≤2
+
+Figure 2. Modified Rankin Scale Scores at 90 Days Overall and According to Baseline ASPECTS Value.
+
+Control
+
+(N=95)
+
+Thrombectomy
+
+(N=86)
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+10
+
+30
+
+50
+
+70
+
+90
+
+Percentage of Patients
+
+4
+
+3
+
+3
+
+6
+
+20
+
+18
+
+18
+
+12
+
+8
+
+56
+
+33
+
+0
+
+0
+
+Control
+
+(N=70)
+
+C Patients with Baseline ASPECTS Value ≥3
+
+Thrombectomy
+
+(N=73)
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+10
+
+30
+
+50
+
+70
+
+90
+
+Percentage of Patients
+
+2
+
+3
+
+2
+
+11
+
+7
+
+12
+
+17
+
+14
+
+6
+
+9
+
+35
+
+24
+
+0
+
+1
+
+Shown is the distribution of the modified Rankin scale scores at 90 days after randomization in all the patients (Panel A), in patients with a baseline Alberta Stroke Program Early Computed Tomographic Score (ASPECTS) value of 2 or less (Panel B), and in patients with a baseline ASPECTS value of 3 or more. The modified Rankin scale is a measure of disability; scores range from 0 to 6, with a score of 0 i
+END DE_EVIDENCE laste result.constant_care_or_death.mrs_5_6.day90
+BEGIN DE_EVIDENCE laste result.constant_care_or_death.mrs_5_6.day90 {"canonical_field": "intervention_group_size", "document_key": "laste.fulltext", "source_path": "originals/laste-primary/publisher.pdf", "source_sha256": "dcdcce08bf4cdc6ed97e6a3b1457cd357b43e7fcc06bfb427552f62065ba6ea4", "view_sha256": "c0c104fb8bb8c572b8bd4202a13668c15bc435dcaf9882bc79d49214eef48a6a"}
+6.
+
+1681
+
+[DOCLING_PAGE 6]
+
+The new england journal o f medicine
+
+[DOCLING_TABLE rows=31 columns=4]
+| Table 2. Efficacy and Safety Outcomes.* |  |  |  |
+| Primary outcome |  |  |  |
+| Median modified Rankin scale score at 90 days (IQR)† | 4 (3-6) | 6 (4-6) | 1.63 (1.29 to 2.06)‡ |
+| Secondary outcomes |  |  |  |
+| Modified Rankin scale score at 90 days - no./total no. (%) |  |  |  |
+| 0 to 2 | 21/158 (13.3) | 8/164 (4.9) | 2.39 (1.18 to 6.22)§ |
+| 0 to 3 | 53/158 (33.5) | 20/164 (12.2) | 2.62 (1.72 to 4.36)§ |
+| Modified Rankin scale score at 180 days |  |  |  |
+| Median (IQR) | 4 (3-6) | 6 (4-6) | 1.71 (1.35 to 2.18)‡ |
+| 0 to 2 - no./total no. (%) | 29/157 (18.5) | 8/162 (4.9) | 3.26 (1.67 to 8.46)§ |
+| 0 to 3 - no./total no. (%) | 58/157 (36.9) | 21/162 (13.0) | 2.67 (1.79 to 4.41)§ |
+| Utility-weighted modified Rankin scale score |  |  |  |
+| At 90 days | 0.30±0.32 | 0.16±0.25 | 0.144 (0.08 to 0.20)¶ |
+| At 180 days | 0.33±0.34 | 0.17±0.26 | 0.164 (0.10 to 0.23)¶ |
+| EQ-5D-5L utility index‖ |  |  |  |
+| At 90 days | 0.30±0.43 | 0.10±0.32 | 0.51 (0.26 to 0.75)** |
+| At 180 days | 0.32±0.41 | 0.14±0.34 | 0.51 (0.28 to 0.75)** |
+| Decompressive craniectomy within 7 days - no. (%) | 14 (8.8) | 19 (11.5) | 0.81 (0.37 to 1.74)†† |
+| Early neurologic improvement - no./total no. (%)‡‡ | 47/153 (30.7) | 18/158 (11.4) | 2.62 (1.70 to 4.56)§ |
+| Mean change in infarct volume from baseline at 24 hr (95% CI) - ml | 51.6 (39.9 to 63.2) | 119.5 (107.9 to 131.1) | -67.9 (-84.1 to -51.6)¶ |
+| Safety outcomes |  |  |  |
+| Death from any cause at 90 days - no./total no. (%) | 57/158 (36.1) | 91/164 (55.5) | 0.65 (0.50 to 0.84)§ |
+| Symptomatic intracerebral hemorrhage within 24 hr - no./total no. (%)§§ |  |  |  |
+| According to the Heidelberg bleeding classification | 15/157 (9.6) | 9/157 (5.7) | 1.73 (0.78 to 4.68)§ |
+| According to the SITS-MOST criteria | 5/157 (3.2) | 4/157 (2.5) | 1.29 (0.21 to 16.39)§ |
+| Early neurologic worsening - no./total no. (%)¶¶ | 49/153 (32.0) | 57/158 (36.1) | 0.89 (0.64 to 1.21)§ |
+| Adverse event related to the procedure or device - no. (%)‖‖ |  |  |  |
+| Embolization in a previously uninvolved territory | 1 (0.6) | NA | - |
+| Arterial dissection | 2 (1.3) | NA | - |
+| Arterial perforation | 2 (1.3) | NA | - |
+| Other | 6 (3.8) | NA | - |
+[/DOCLING_TABLE]
+
+1682
+
+n engl j med 390;18 nejm.org May 9, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+[DOCLING_PAGE 7]
+
+Thrombectomy for Stroke with a Large Infarct
+
+Table 2. (Continued.)
+
+ Plus-minus values are means ±SD. Effect sizes are adjusted for prognostic factors used in the randomization procedure, with an additional adjustment on baseline infarct values for the change in infarct volume at 24 hours. The widths of the confidence intervals for secondary outcomes were not adjusted for multiple comparisons and should not be used for hypothesis testing. NA denotes not applicable.
+
+†  Missing modified Rankin scale scores (for one patient in each group) were handled with the use of single imputation. The analysis that included all the patients with available data is shown in Table S9 in the Supplementary Appendix.
+
+‡  The value is a generalized odds ratio (with its 95% confidence interval) for the ordinal shift in the distribution of the modified Rankin scale score toward better functional outcomes (favoring thrombectomy) at 90 days. Scores of 5 and 6 were combined into one score in the analysis.
+
+§  The value is an adjusted relative risk (with its 95% confidence interval).
+
+¶  The value is an adjusted mean difference (with its 95% confidence interval).
+
+‖  The EuroQol Group 5-Dimension 5-Level self-report questionnaire (EQ-5D-5L) is a standardized instrument for the measurement of health status. Scores range from -0.526 to 1.00, with higher scores indicating better quality of life and death coded as 0. Missing data at 90 days (for 39 patients in the thrombectomy group and 36 in the control group) and missing data at 180 days (for 28 patients in the thrombectomy group and 29 in the control group) were handled with the use of multiple imputation (m = 20 imputations). Results of the complete case analysis and scores on the specific items in the EQ-5D-5L for surviving patients are provided in Tables S10 and S11.
+
+**  The value is a standardized difference (with its 95% confidence interval) applied to rank-transformed data.
+
+††  The value is an adjusted subdistribution hazard ratio (with its 95% confidence interval), with death treated as a competing risk.
+
+‡‡  Early neurologic improvement was defined as a decrease of at least 8 points in the NIHSS score from the time of presentation to a thrombectomy-capable center to either day 7 or the time of hospital discharge (whichever occurred first). Death within 7 days was considered to indicate neurologic worsening.
+
+§§  Symptomatic intracerebral hemorrhage at 24 hours was defined primarily according to the Heidelberg bleeding classification and secondarily according to the Safe Implementation of Thrombolysis in Stroke
+END DE_EVIDENCE laste result.constant_care_or_death.mrs_5_6.day90
+BEGIN DE_EVIDENCE laste result.death.day90 {"canonical_field": "intervention_events", "document_key": "laste.fulltext", "source_path": "originals/laste-primary/publisher.pdf", "source_sha256": "dcdcce08bf4cdc6ed97e6a3b1457cd357b43e7fcc06bfb427552f62065ba6ea4", "view_sha256": "c0c104fb8bb8c572b8bd4202a13668c15bc435dcaf9882bc79d49214eef48a6a"}
+6.
+
+1681
+
+[DOCLING_PAGE 6]
+
+The new england journal o f medicine
+
+[DOCLING_TABLE rows=31 columns=4]
+| Table 2. Efficacy and Safety Outcomes.* |  |  |  |
+| Primary outcome |  |  |  |
+| Median modified Rankin scale score at 90 days (IQR)† | 4 (3-6) | 6 (4-6) | 1.63 (1.29 to 2.06)‡ |
+| Secondary outcomes |  |  |  |
+| Modified Rankin scale score at 90 days - no./total no. (%) |  |  |  |
+| 0 to 2 | 21/158 (13.3) | 8/164 (4.9) | 2.39 (1.18 to 6.22)§ |
+| 0 to 3 | 53/158 (33.5) | 20/164 (12.2) | 2.62 (1.72 to 4.36)§ |
+| Modified Rankin scale score at 180 days |  |  |  |
+| Median (IQR) | 4 (3-6) | 6 (4-6) | 1.71 (1.35 to 2.18)‡ |
+| 0 to 2 - no./total no. (%) | 29/157 (18.5) | 8/162 (4.9) | 3.26 (1.67 to 8.46)§ |
+| 0 to 3 - no./total no. (%) | 58/157 (36.9) | 21/162 (13.0) | 2.67 (1.79 to 4.41)§ |
+| Utility-weighted modified Rankin scale score |  |  |  |
+| At 90 days | 0.30±0.32 | 0.16±0.25 | 0.144 (0.08 to 0.20)¶ |
+| At 180 days | 0.33±0.34 | 0.17±0.26 | 0.164 (0.10 to 0.23)¶ |
+| EQ-5D-5L utility index‖ |  |  |  |
+| At 90 days | 0.30±0.43 | 0.10±0.32 | 0.51 (0.26 to 0.75)** |
+| At 180 days | 0.32±0.41 | 0.14±0.34 | 0.51 (0.28 to 0.75)** |
+| Decompressive craniectomy within 7 days - no. (%) | 14 (8.8) | 19 (11.5) | 0.81 (0.37 to 1.74)†† |
+| Early neurologic improvement - no./total no. (%)‡‡ | 47/153 (30.7) | 18/158 (11.4) | 2.62 (1.70 to 4.56)§ |
+| Mean change in infarct volume from baseline at 24 hr (95% CI) - ml | 51.6 (39.9 to 63.2) | 119.5 (107.9 to 131.1) | -67.9 (-84.1 to -51.6)¶ |
+| Safety outcomes |  |  |  |
+| Death from any cause at 90 days - no./total no. (%) | 57/158 (36.1) | 91/164 (55.5) | 0.65 (0.50 to 0.84)§ |
+| Symptomatic intracerebral hemorrhage within 24 hr - no./total no. (%)§§ |  |  |  |
+| According to the Heidelberg bleeding classification | 15/157 (9.6) | 9/157 (5.7) | 1.73 (0.78 to 4.68)§ |
+| According to the SITS-MOST criteria | 5/157 (3.2) | 4/157 (2.5) | 1.29 (0.21 to 16.39)§ |
+| Early neurologic worsening - no./total no. (%)¶¶ | 49/153 (32.0) | 57/158 (36.1) | 0.89 (0.64 to 1.21)§ |
+| Adverse event related to the procedure or device - no. (%)‖‖ |  |  |  |
+| Embolization in a previously uninvolved territory | 1 (0.6) | NA | - |
+| Arterial dissection | 2 (1.3) | NA | - |
+| Arterial perforation | 2 (1.3) | NA | - |
+| Other | 6 (3.8) | NA | - |
+[/DOCLING_TABLE]
+
+1682
+
+n engl j med 390;18 nejm.org May 9, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+[DOCLING_PAGE 7]
+
+Thrombectomy for Stroke with a Large Infarct
+
+Table 2. (Continued.)
+
+ Plus-minus values are means ±SD. Effect sizes are adjusted for prognostic factors used in the randomization procedure, with an additional adjustment on baseline infarct values for the change in infarct volume at 24 hours. The widths of the confidence intervals for secondary outcomes were not adjusted for multiple comparisons and should not be used for hypothesis testing. NA denotes not applicable.
+
+†  Missing modified Rankin scale scores (for one patient in each group) were handled with the use of single imputation. The analysis that included all the patients with available data is shown in Table S9 in the Supplementary Appendix.
+
+‡  The value is a generalized odds ratio (with its 95% confidence interval) for the ordinal shift in the distribution of the modified Rankin scale score toward better functional outcomes (favoring thrombectomy) at 90 days. Scores of 5 and 6 were combined into one score in the analysis.
+
+§  The value is an adjusted relative risk (with its 95% confidence interval).
+
+¶  The value is an adjusted mean difference (with its 95% confidence interval).
+
+‖  The EuroQol Group 5-Dimension 5-Level self-report questionnaire (EQ-5D-5L) is a standardized instrument for the measurement of health status. Scores range from -0.526 to 1.00, with higher scores indicating better quality of life and death coded as 0. Missing data at 90 days (for 39 patients in the thrombectomy group and 36 in the control group) and missing data at 180 days (for 28 patients in the thrombectomy group and 29 in the control group) were handled with the use of multiple imputation (m = 20 imputations). Results of the complete case analysis and scores on the specific items in the EQ-5D-5L for surviving patients are provided in Tables S10 and S11.
+
+**  The value is a standardized difference (with its 95% confidence interval) applied to rank-transformed data.
+
+††  The value is an adjusted subdistribution hazard ratio (with its 95% confidence interval), with death treated as a competing risk.
+
+‡‡  Early neurologic improvement was defined as a decrease of at least 8 points in the NIHSS score from the time of presentation to a thrombectomy-capable center to either day 7 or the time of hospital discharge (whichever occurred first). Death within 7 days was considered to indicate neurologic worsening.
+
+§§  Symptomatic intracerebral hemorrhage at 24 hours was defined primarily according to the Heidelberg bleeding classification and secondarily according to the Safe Implementation of Thrombolysis in Stroke
+END DE_EVIDENCE laste result.death.day90
+BEGIN DE_EVIDENCE laste result.early_symptomatic_intracranial_hemorrhage {"canonical_field": "intervention_events", "document_key": "laste.fulltext", "source_path": "originals/laste-primary/publisher.pdf", "source_sha256": "dcdcce08bf4cdc6ed97e6a3b1457cd357b43e7fcc06bfb427552f62065ba6ea4", "view_sha256": "c0c104fb8bb8c572b8bd4202a13668c15bc435dcaf9882bc79d49214eef48a6a"}
+6.
+
+1681
+
+[DOCLING_PAGE 6]
+
+The new england journal o f medicine
+
+[DOCLING_TABLE rows=31 columns=4]
+| Table 2. Efficacy and Safety Outcomes.* |  |  |  |
+| Primary outcome |  |  |  |
+| Median modified Rankin scale score at 90 days (IQR)† | 4 (3-6) | 6 (4-6) | 1.63 (1.29 to 2.06)‡ |
+| Secondary outcomes |  |  |  |
+| Modified Rankin scale score at 90 days - no./total no. (%) |  |  |  |
+| 0 to 2 | 21/158 (13.3) | 8/164 (4.9) | 2.39 (1.18 to 6.22)§ |
+| 0 to 3 | 53/158 (33.5) | 20/164 (12.2) | 2.62 (1.72 to 4.36)§ |
+| Modified Rankin scale score at 180 days |  |  |  |
+| Median (IQR) | 4 (3-6) | 6 (4-6) | 1.71 (1.35 to 2.18)‡ |
+| 0 to 2 - no./total no. (%) | 29/157 (18.5) | 8/162 (4.9) | 3.26 (1.67 to 8.46)§ |
+| 0 to 3 - no./total no. (%) | 58/157 (36.9) | 21/162 (13.0) | 2.67 (1.79 to 4.41)§ |
+| Utility-weighted modified Rankin scale score |  |  |  |
+| At 90 days | 0.30±0.32 | 0.16±0.25 | 0.144 (0.08 to 0.20)¶ |
+| At 180 days | 0.33±0.34 | 0.17±0.26 | 0.164 (0.10 to 0.23)¶ |
+| EQ-5D-5L utility index‖ |  |  |  |
+| At 90 days | 0.30±0.43 | 0.10±0.32 | 0.51 (0.26 to 0.75)** |
+| At 180 days | 0.32±0.41 | 0.14±0.34 | 0.51 (0.28 to 0.75)** |
+| Decompressive craniectomy within 7 days - no. (%) | 14 (8.8) | 19 (11.5) | 0.81 (0.37 to 1.74)†† |
+| Early neurologic improvement - no./total no. (%)‡‡ | 47/153 (30.7) | 18/158 (11.4) | 2.62 (1.70 to 4.56)§ |
+| Mean change in infarct volume from baseline at 24 hr (95% CI) - ml | 51.6 (39.9 to 63.2) | 119.5 (107.9 to 131.1) | -67.9 (-84.1 to -51.6)¶ |
+| Safety outcomes |  |  |  |
+| Death from any cause at 90 days - no./total no. (%) | 57/158 (36.1) | 91/164 (55.5) | 0.65 (0.50 to 0.84)§ |
+| Symptomatic intracerebral hemorrhage within 24 hr - no./total no. (%)§§ |  |  |  |
+| According to the Heidelberg bleeding classification | 15/157 (9.6) | 9/157 (5.7) | 1.73 (0.78 to 4.68)§ |
+| According to the SITS-MOST criteria | 5/157 (3.2) | 4/157 (2.5) | 1.29 (0.21 to 16.39)§ |
+| Early neurologic worsening - no./total no. (%)¶¶ | 49/153 (32.0) | 57/158 (36.1) | 0.89 (0.64 to 1.21)§ |
+| Adverse event related to the procedure or device - no. (%)‖‖ |  |  |  |
+| Embolization in a previously uninvolved territory | 1 (0.6) | NA | - |
+| Arterial dissection | 2 (1.3) | NA | - |
+| Arterial perforation | 2 (1.3) | NA | - |
+| Other | 6 (3.8) | NA | - |
+[/DOCLING_TABLE]
+
+1682
+
+n engl j med 390;18 nejm.org May 9, 2024
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org on August 16, 2026.
+
+[DOCLING_PAGE 7]
+
+Thrombectomy for Stroke with a Large Infarct
+
+Table 2. (Continued.)
+
+ Plus-minus values are means ±SD. Effect sizes are adjusted for prognostic factors used in the randomization procedure, with an additional adjustment on baseline infarct values for the change in infarct volume at 24 hours. The widths of the confidence intervals for secondary outcomes were not adjusted for multiple comparisons and should not be used for hypothesis testing. NA denotes not applicable.
+
+†  Missing modified Rankin scale scores (for one patient in each group) were handled with the use of single imputation. The analysis that included all the patients with available data is shown in Table S9 in the Supplementary Appendix.
+
+‡  The value is a generalized odds ratio (with its 95% confidence interval) for the ordinal shift in the distribution of the modified Rankin scale score toward better functional outcomes (favoring thrombectomy) at 90 days. Scores of 5 and 6 were combined into one score in the analysis.
+
+§  The value is an adjusted relative risk (with its 95% confidence interval).
+
+¶  The value is an adjusted mean difference (with its 95% confidence interval).
+
+‖  The EuroQol Group 5-Dimension 5-Level self-report questionnaire (EQ-5D-5L) is a standardized instrument for the measurement of health status. Scores range from -0.526 to 1.00, with higher scores indicating better quality of life and death coded as 0. Missing data at 90 days (for 39 patients in the thrombectomy group and 36 in the control group) and missing data at 180 days (for 28 patients in the thrombectomy group and 29 in the control group) were handled with the use of multiple imputation (m = 20 imputations). Results of the complete case analysis and scores on the specific items in the EQ-5D-5L for surviving patients are provided in Tables S10 and S11.
+
+**  The value is a standardized difference (with its 95% confidence interval) applied to rank-transformed data.
+
+††  The value is an adjusted subdistribution hazard ratio (with its 95% confidence interval), with death treated as a competing risk.
+
+‡‡  Early neurologic improvement was defined as a decrease of at least 8 points in the NIHSS score from the time of presentation to a thrombectomy-capable center to either day 7 or the time of hospital discharge (whichever occurred first). Death within 7 days was considered to indicate neurologic worsening.
+
+§§  Symptomatic intracerebral hemorrhage at 24 hours was defined primarily according to the Heidelberg bleeding classification and secondarily according to the Safe Implementation of Thrombolysis in Stroke
+END DE_EVIDENCE laste result.early_symptomatic_intracranial_hemorrhage

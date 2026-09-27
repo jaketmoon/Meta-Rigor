@@ -1,0 +1,406 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02436655",
+      "orgStudyIdInfo": {
+        "id": "FWA00011929"
+      },
+      "organization": {
+        "fullName": "Clinical Centre of Serbia",
+        "class": "OTHER"
+      },
+      "briefTitle": "Aortic Valve Replacement Versus Conservative Treatment in Asymptomatic Severe Aortic Stenosis",
+      "officialTitle": "Aortic Valve Replacement Versus Conservative Treatment in Asymptomatic Severe Aortic Stenosis: (AVATAR Trial): A Multicentre Randomized Controlled Trial",
+      "acronym": "AVATAR"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2021-12",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2015-06",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2021-05",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2021-05",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2015-04-30",
+      "studyFirstSubmitQcDate": "2015-05-04",
+      "studyFirstPostDateStruct": {
+        "date": "2015-05-07",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2021-12-23",
+      "lastUpdatePostDateStruct": {
+        "date": "2022-01-12",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Marko Banovic",
+        "investigatorTitle": "MD PhD, FESC, FACC, Assistant Professor",
+        "investigatorAffiliation": "Clinical Centre of Serbia"
+      },
+      "leadSponsor": {
+        "name": "Clinical Centre of Serbia",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "Whether to intervene in asymptomatic patients with severe aortic stenosis and normal left ventricular ejection fraction remains controversial. The investigators therefore try to compare clinical outcomes of elective aortic valve replacement to conventional treatment and watchful waiting strategy in a prospective randomized trial.",
+      "detailedDescription": "Aortic valve replacement (AVR) therapy is obvious choice in symptomatic severe aortic stenosis (AS) patients, because it improves symptoms, LV function and survival. Therefore, the accurate diagnosis of the disease, determination of its severity and precise evaluation of patients' clinical status is essential. However, the treatment decisions and indication for AVR in asymptomatic patients with severe AS and normal left ventricular ejection fraction (LV EF) are vague and the subject of ongoing debate. The most recent European and American guidelines have class I indication for AVR in asymptomatic severe AS patients with normal LV EF only in patients already scheduled for other cardiac surgery (for example by-pass surgery). In the case of symptom positive stress test American and European guideline differs, with European guidelines having class I indication and American guidelines only IIb indication. In all those cases of asymptomatic severe AS patients with normal LV EF the level of evidence is C, in other words there are no randomized trials. The consequence is that the decisions are made individually, patient by patient, and for this reason a patient with identical echocardiographic/clinical characteristics might be operated in USA but not in Europe (or any other part in the world), and vice-versa.\n\nWith the experience that has accumulated so far, there are retrospective and observational data that elective AVR might lead to favorable outcome compared to late (after symptom onset) surgery. This may especially come to attention with the understanding that annual risk of sudden cardiac death in asymptomatic severe AS patients with normal LV EF might be very similar or even a bit higher than operative mortality in experienced cardiac surgery centers.\n\nNevertheless, the majority of cardiologist worldwide are reluctant to send their asymptomatic patient with isolated severe AS and normal LV EF to AVR, and it will probably stay like that till randomized trials give us an answer whether elective AVR is beneficial."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Aortic Stenosis"
+      ],
+      "keywords": [
+        "aortic stenosis",
+        "normal ejection fraction",
+        "asymptomatic"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 157,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "conventional drug treatment",
+          "type": "NO_INTERVENTION",
+          "description": "conservative treatment and watchful waiting till symptom onset (then aortic valve replacement). Other indications for aortic valve replacement include reduced left ventricular systolic function"
+        },
+        {
+          "label": "elective aortic valve replacement",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "elective aortic valve surgery (replacement) within 4 weeks after randomization",
+          "interventionNames": [
+            "Procedure: surgical aortic valve replacement"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "surgical aortic valve replacement",
+          "description": "open heart aortic valve replacement",
+          "armGroupLabels": [
+            "elective aortic valve replacement"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "all cause death, Major Adverse Cardiac Event (MACE) including: ( Acute Myocardial Infarction - AMI, Stroke - CVI, unplanned hospitalization for Heart failure (HF) needing intravenous treatment",
+          "timeFrame": "36 months"
+        },
+        {
+          "measure": "all cause death, Major Adverse Cardiac Event (MACE) including: ( Acute Myocardial Infarction - AMI, Stroke - CVI, unplanned hospitalization for Heart failure (HF) needing intravenous treatment",
+          "timeFrame": "5 years"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "in-hospital and 30 days operative mortality in operated patients in both groups",
+          "timeFrame": "30 days"
+        },
+        {
+          "measure": "repeat aortic valve surgery in operated patients in both groups",
+          "timeFrame": "5 years"
+        },
+        {
+          "measure": "major bleeding according to consensus report from the Bleeding Academic Research Consortium",
+          "timeFrame": "5 years"
+        },
+        {
+          "measure": "thromboembolic complications based on clinical symptoms, signs and imaging studies",
+          "timeFrame": "5 years"
+        },
+        {
+          "measure": "repeated major adverse cardiovascular events",
+          "timeFrame": "5 years"
+        },
+        {
+          "measure": "all-cause death + heart failure hospitalization",
+          "timeFrame": "5 years"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* men and women of any ethnic origin aged ≥18 years\n* Written informed consent\n* V max across the aortic valve \\> 4m/s or Pmean ≥ 40mmHg and AVA ≤ 1cm2 or AVAi ≤ 0.6cm2/m2 at rest\n* Without reported symptoms\n* Society of Thoracic Surgeons (STS) score \\< 8%\n\nExclusion Criteria:\n\n* Participation in another clinical trial within 30 days prior randomization\n* Pregnant or nursing women\n* Mental condition rendering the patient unable to understand the nature, scope and possible consequences of the study or to follow the protocol\n* Positive stress-test defined as:\n\n  1. Anginal chest pain during testing\n  2. Syncope, dizziness during testing\n  3. Decrease in systolic blood pressure during exercise ≥ 20mmHg\n  4. Malignant arrhythmia during exercise testing (VT or VF)\n* Left ventricular ejection fraction \\< 50% at rest\n* Very severe AS (defined as Vmax \\> 5.5 m/s at rest)\n* Significant disease of other valves (Mitral stenosis with Pmean \\> 5mg, or any significant regurgitation ≥ 3+\n* Recent AMI (\\< 1 year)\n* Need for additional by-pass surgery or for aortic root replacement (i.e Bentall) or ascending aorta in asymptomatic patients undergoing AVR\n* Previous by-pass surgery\n* Previous any heart valve surgery\n* Impaired renal function, i.e. creatinine \\>200 µmol/L or glomerular filtration rate \\< 30 mL/min/1.73 m2\n* Significant pulmonary hypertension at rest (PASP \\> 50mmHg)\n* Uncontrolled hypertension at rest (systolic \\>180 mmHg and diastolic \\>100 mmHg)\n* Significant co-morbidity with reduced life expectance (\\< 3 years)\n* Uncontrolled Diabetes Mellitus (HbA1C \\> 9 %)\n* Significant COPD (FEV1 \\< 70% of predicted value)\n* Permanent or paroxysmal atrial fibrillation",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Marko Banovic, MD, PhD, FESC, FACC",
+          "affiliation": "Cardiology Department, University Clinical Centre of Serbia",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Svetozar Putnik, MD, PhD",
+          "affiliation": "Cardiac Surgery Department, University Clinical Centre of Serbia",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Cardiovascular Center Aalst",
+          "city": "Aalst",
+          "zip": "9320",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.93604,
+            "lon": 4.0355
+          }
+        },
+        {
+          "facility": "University Clinical Center \"Rebro\"",
+          "city": "Zagreb",
+          "country": "Croatia",
+          "geoPoint": {
+            "lat": 45.81444,
+            "lon": 15.97798
+          }
+        },
+        {
+          "facility": "University Clinical Center ''Sestre milosrdnice''",
+          "city": "Zagreb",
+          "country": "Croatia",
+          "geoPoint": {
+            "lat": 45.81444,
+            "lon": 15.97798
+          }
+        },
+        {
+          "facility": "University Hospital Brno",
+          "city": "Brno",
+          "zip": "62500",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 49.19522,
+            "lon": 16.60796
+          }
+        },
+        {
+          "facility": "Institute for Clinical and Experimental Medicine (IKEM)",
+          "city": "Prague",
+          "zip": "14021",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.08804,
+            "lon": 14.42076
+          }
+        },
+        {
+          "facility": "Hôpital Cardiologique de Haut Lévèque",
+          "city": "Pessac",
+          "zip": "33604",
+          "country": "France",
+          "geoPoint": {
+            "lat": 44.80565,
+            "lon": -0.6324
+          }
+        },
+        {
+          "facility": "University Hospital Galway",
+          "city": "Galway",
+          "country": "Ireland",
+          "geoPoint": {
+            "lat": 53.27245,
+            "lon": -9.05095
+          }
+        },
+        {
+          "facility": "Città della Salute e della Scienza di Torino",
+          "city": "Turin",
+          "state": "Piedmont",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.07049,
+            "lon": 7.68682
+          }
+        },
+        {
+          "facility": "Vilnius University Hospital Santariskiu klinikos",
+          "city": "Vilnius",
+          "zip": "08661",
+          "country": "Lithuania",
+          "geoPoint": {
+            "lat": 54.68916,
+            "lon": 25.2798
+          }
+        },
+        {
+          "facility": "Medical University of Silesia",
+          "city": "Katowice",
+          "zip": "40005",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.2597,
+            "lon": 19.02173
+          }
+        },
+        {
+          "facility": "Cardiovascular Center 'Dedinje\"",
+          "city": "Belgrade",
+          "zip": "11000",
+          "country": "Serbia",
+          "geoPoint": {
+            "lat": 44.80401,
+            "lon": 20.46513
+          }
+        },
+        {
+          "facility": "CCSerbia",
+          "city": "Belgrade",
+          "zip": "11000",
+          "country": "Serbia",
+          "geoPoint": {
+            "lat": 44.80401,
+            "lon": 20.46513
+          }
+        },
+        {
+          "facility": "University Clinical Centre Zvezdara",
+          "city": "Belgrade",
+          "zip": "11000",
+          "country": "Serbia",
+          "geoPoint": {
+            "lat": 44.80401,
+            "lon": 20.46513
+          }
+        },
+        {
+          "facility": "Insitute for Cardiovascular Diseases \"Sremska Kamenica\"",
+          "city": "Novi Sad",
+          "country": "Serbia",
+          "geoPoint": {
+            "lat": 45.25167,
+            "lon": 19.83694
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "26995381",
+          "type": "BACKGROUND",
+          "citation": "Banovic M, Iung B, Bartunek J, Asanin M, Beleslin B, Biocina B, Casselman F, da Costa M, Deja M, Gasparovic H, Kala P, Labrousse L, Loncar Z, Marinkovic J, Nedeljkovic I, Nedeljkovic M, Nemec P, Nikolic SD, Pencina M, Penicka M, Ristic A, Sharif F, Van Camp G, Vanderheyden M, Wojakowski W, Putnik S. Rationale and design of the Aortic Valve replAcemenT versus conservative treatment in Asymptomatic seveRe aortic stenosis (AVATAR trial): A randomized multicenter controlled event-driven trial. Am Heart J. 2016 Apr;174:147-53. doi: 10.1016/j.ahj.2016.02.001. Epub 2016 Feb 9."
+        },
+        {
+          "pmid": "29224644",
+          "type": "BACKGROUND",
+          "citation": "Banovic M, Iung B, Bartunek J, Penicka M, Vanderheyden M, Casselman F, van Camp G, Nikolic S, Putnik S. The Aortic Valve replAcemenT versus conservative treatment in Asymptomatic seveRe aortic stenosis (AVATAR trial): A protocol update. Am Heart J. 2018 Jan;195:153-154. doi: 10.1016/j.ahj.2017.10.005. Epub 2017 Oct 14. No abstract available."
+        },
+        {
+          "pmid": "34779220",
+          "type": "RESULT",
+          "citation": "Banovic M, Putnik S, Penicka M, Doros G, Deja MA, Kockova R, Kotrc M, Glaveckaite S, Gasparovic H, Pavlovic N, Velicki L, Salizzoni S, Wojakowski W, Van Camp G, Nikolic SD, Iung B, Bartunek J; AVATAR Trial Investigators*. Aortic Valve Replacement Versus Conservative Treatment in Asymptomatic Severe Aortic Stenosis: The AVATAR Trial. Circulation. 2022 Mar;145(9):648-658. doi: 10.1161/CIRCULATIONAHA.121.057639. Epub 2021 Nov 13."
+        },
+        {
+          "pmid": "39217448",
+          "type": "DERIVED",
+          "citation": "Banovic M, Putnik S, Da Costa BR, Penicka M, Deja MA, Kotrc M, Kockova R, Glaveckaite S, Gasparovic H, Pavlovic N, Velicki L, Salizzoni S, Wojakowski W, Van Camp G, Gradinac S, Laufer M, Tomovic S, Busic I, Bojanic M, Ristic A, Klasnja A, Matkovic M, Boskovic N, Zivic K, Jovanovic M, Nikolic SD, Iung B, Bartunek J. Aortic valve replacement vs. conservative treatment in asymptomatic severe aortic stenosis: long-term follow-up of the AVATAR trial. Eur Heart J. 2024 Nov 8;45(42):4526-4535. doi: 10.1093/eurheartj/ehae585."
+        },
+        {
+          "pmid": "32774184",
+          "type": "DERIVED",
+          "citation": "Zelis JM, Tonino PAL, Pijls NHJ, De Bruyne B, Kirkeeide RL, Gould KL, Johnson NP. Coronary Microcirculation in Aortic Stenosis: Pathophysiology, Invasive Assessment, and Future Directions. J Interv Cardiol. 2020 Jul 22;2020:4603169. doi: 10.1155/2020/4603169. eCollection 2020."
+        }
+      ]
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2021-01-04",
+          "uploadDate": "2021-01-14T12:03",
+          "filename": "SAP_000.pdf",
+          "size": 58967
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-08-28",
+      "removedCountries": [
+        "Spain"
+      ]
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001024",
+          "term": "Aortic Valve Stenosis"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000082862",
+          "term": "Aortic Valve Disease"
+        },
+        {
+          "id": "D006349",
+          "term": "Heart Valve Diseases"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D014694",
+          "term": "Ventricular Outflow Obstruction"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

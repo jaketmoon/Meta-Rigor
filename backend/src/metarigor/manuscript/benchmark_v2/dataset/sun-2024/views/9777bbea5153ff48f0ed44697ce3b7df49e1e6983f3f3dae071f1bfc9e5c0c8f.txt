@@ -1,0 +1,395 @@
+[DOCLING_PAGE 1]
+
+Journal of Clinical Anesthesia 67 (2020) 110032
+
+Original Contribution
+
+Outcomes of individualized goal-directed therapy based on cerebral oxygen balance in high-risk patients undergoing cardiac surgery: A randomized controlled trial
+
+Xin-qi Cheng (MD) a,1, ⁎ , Jun-yan Zhang (PhD) b,1 , Hao Wu (MM) a , You-mei Zuo (MD) a , Li-li Tang (MM) a , Qing Zhao (MM) a , Er-wei Gu (MD) a, ⁎
+
+a Department of Anesthesiology, First Affiliated Hospital of Anhui Medical University, 230022 Hefei, China
+
+b Department of Pharmacology, Anhui Medical University, 230032 Hefei, China
+
+A R T I C L E I N F O
+
+Keywords: Goal-directed therapy Cerebral oxygen saturation Mean arterial pressure Bispectral index Cardiopulmonary bypass
+
+1. Introduction
+
+Morbidity following cardiac surgery has increased in high-risk patients undergoing complex procedures [1]. Many studies [2,3] have demonstrated that perioperative goal-directed therapy (GDT) aimed at hemodynamic goals can decrease postoperative morbidity during major surgery. However, using GDT to increase oxygen delivery, in an effort to reduce oxygen debt (a cumulative deficit of oxygen available for oxidative metabolism) and morbidity following cardiac surgery, is controversial [4,5].
+
+A B S T R A C T
+
+Study objective: To investigate whether optimizing individualized goal-directed therapy (GDT) based on cerebral oxygen balance in high-risk surgical patients would reduce postoperative morbidity. Design: This was a prospective, randomized, controlled study.
+
+Setting: The study was performed in the First Affiliated Hospital of Anhui Medical University, Hefei, China, from April 2017 to July 2018.
+
+Patients: 146 high-risk adult patients undergoing valve replacements or coronary artery bypass surgery with cardiopulmonary bypass (CPB) were enrolled.
+
+Intervention: Patients were randomized to an individualized GDT group or usual care group. Individualized GDT was targeted to achieve the following goals: A less than 20% decline in the regional cerebral oxygen saturation (rScO2) level from baseline; a less than 20% decline in the mean arterial pressure (MAP) from baseline, as well as a bispectral index (BIS) of 45-60 before and after CPB and 40-45 during CPB.
+
+Measurements: The primary outcome was a composite endpoint of 30-day mortality and major postoperative complications.
+
+Main results: 128 completed the trial and were included in the modified intention-to-treat analysis. Early morbidity was similar between the GDT (25 [39%] of 65 patients) and usual care groups (33 [53%] of 63 patients) (relative risk 0.73, 95% CI 0.50-1.08; P = 0.15). Secondary analysis showed that 75 (59%) of 128 patients achieved individual targets (irrespective of intervention) and sustained less morbidity (relative risk 3.41, 95% CI 2.19-5.31; P < 0.001).
+
+Conclusions: In high-risk patients undergoing cardiac surgery, individualized GDT therapy did not yield better outcomes, however, the achievement of preoperative individual targets may be associated with less morbidity. Trial registration: Clinicaltrials.gov identifier: NCT03103633. Registered on 1 April 2017.
+
+Regional cerebral oxygen saturation (rScO2) is widely used as a noninvasive continuous index of the cerebral oxygen balance during cardiac surgery [6] and optimizing rScO2 would potentially improve neurologic outcomes [7]. Combining changes in the mean arterial pressure (MAP) and rScO2 levels to predict patient outcomes following cardiac surgery has been extensively investigated [8]. For example, two prospective observational trials [9,10] showed that absolute values of rScO2 ≤ 50% and MAP thresholds of < 65 mmHg were associated with an increased risk of postoperative organ dysfunction in cardiac surgery patients. However, targeting an optimal MAP [11] and rScO2 [12] level
+
+⁎ Corresponding author at: 218 Jixi Road, Shushan, Hefei 230022, Anhui, China.
+
+E-mail addresses: ay_mz_cheng@126.com (X.-q. Cheng), ay_guew_mz@163.com (E.-w. Gu).
+
+1 Contributed equally to this work.
+
+Contents lists available at ScienceDirect
+
+Journal of Clinical Anesthesia
+
+journal homepage: www.elsevier.com/locate/jclinane
+
+T
+
+https://doi.org/10.1016/j.jclinane.2020.110032
+
+Received 16 May 2020; Received in revised form 16 August 2020; Accepted 23 August 2020 Available online 01 September 2020
+
+0952-8180/ © 2020 Elsevier Inc. All rights reserved.
+
+[DOCLING_PAGE 2]
+
+X.-q. Cheng, et al.
+
+Journal of Clinical Anesthesia 67 (2020) 110032
+
+during cardiopulmonary bypass (CPB) is up for debate. A highly individualized approach (e.g., < 20% deviation from a patient's individual baseline) is likely to be optimal [13].
+
+Increasing the depth of anesthesia target goals to decrease oxygen consumption is also effective in optimizing the cerebral oxygen balance [14]. Unfortunately, deep anesthesia, demonstrated by a low bispectral index score (BIS; cumulative time with a BIS < 45), has been independently associated with postoperative mortality following cardiac surgery [15]. Our observational study showed that the BIS should be maintained at > 45 in high-risk patients [16]. However, 50%-75% of high-risk patients experienced one or more episodes of rScO2 desaturation during CPB [17]. Thus, to optimize cerebral oxygen balance, a BIS of 40-45 during CPB may be better [18].
+
+Previous studies [8,9] have shown the benefits of preventing decreases in rScO2 levels during cardiac surgery in general patients, but not in high-risk populations (who underwent combined surgery, or multiple valve replacement and/or redo surgery). For example, a multicenter prospective study [17] failed to show that reversing decreases in rScO2 levels could benefit high-risk patients undergoing CPB. A systematic review [19] did not support the hypothesis that goal-directed optimization of rScO2 has clinical benefits in cardiac surgery. However, no data have shown an association between a comprehensive strategy(an individualized GDT based on cerebral oxygen balance) and postoperative morbidity and mortality. Here, individualized GDT defined as individualized targets of a less than 20% decline in the rScO2/ MAP level from baseline and a BIS of 45-60 during non-CPB as well as a BIS of 40-45 during CPB. To address this issue, we conducted a randomized, controlled, prospective study designed to investigate whether the implementation of a new individualized therapy protocol in highrisk patients undergoing cardiac surgery could yield better outcomes than standard care.
+
+2. Methods
+
+2.1. Study design
+
+This study followed the Consolidated Standards of Reporting Trials (CONSORT) reporting guidelines. A patient flow diagram is shown in Fig. 1. The individualized goal-directed therapy in cardiac surgery trial was a prospective, randomized, controlled trial conducted from April 2017 to July 2018 at the Heart Institute, First Affiliated Hospital of Anhui Medical University. Ethical approval for this study (Ethical Committee No. 20170027) was provided by the Ethical Committee of First Affiliated Hospital of Anhui Medical University, Hefei, China (Chairperson Prof Zhu) on 1 March 2017. This trial was registered at ClinicalTrials.gov (NCT03103633).
+
+2.2. Participants
+
+Patients who were 18 years old or older and scheduled for cardiac surgery were screened for enrollment. Patients undergoing valvular surgery and/or coronary artery bypass grafting with CPB who met one of the following high-risk criteria were included: A European System for Cardiac Operative Risk Evaluation score ≥ 6, a left ventricular ejection fraction < 50%, or a combined cardiac surgical procedure. Patients were excluded from the trial if one of the following was present: Emergency surgery; ventricular assist device implantation; stage five chronic kidney disease; a history of anesthesia awareness; or refusal of consent.
+
+2.3. Randomization and blinding
+
+The trial protocol can be found in Supplement S1. Randomization was performed on a 1:1 ratio using a computer-generated random number table in blocks of four and then concealed in an envelope. Research technicians recruited and allocated patients into interventions.
+
+In the usual care group, the cerebral oximetry and BIS monitoring screens were electronically blinded and anesthesiologists relied on standard monitoring for management. For both groups, the rScO2 and BIS data were stored on a dedicated computer for consequent analysis. Participants and outcome assessors were blinded to study-group assignments.
+
+2.4. Standard treatment
+
+For all patients, bilateral near-infrared spectroscopy sensors (INVOS TM 5100C; Covidien, USA) were used to measure the rScO2 levels and the BIS values were measured with a BIS monitor (VISTA, Covidien, USA). For patients in the usual care group, intraoperative hemodynamic management was performed according to institutional protocols based on standard measures to achieve the following: A heart rate in the range of 60-100 beats/min; central venous oxygen saturation (ScVO2) > 70%; lactate levels < 3 mmol/L; hematocrit values > 28%; and urinary output > 0.5 mL/kg/h. Interventions included a fluid resuscitation with lactated Ringer's solution, administration of norepinephrine or dobutamine (if the cardiac index remained below 3.0 L/ min/m 2 ), and a red blood cell (RBC) transfusion. A target MAP of 65 mmHg was maintained.
+
+2.5. Study treatments
+
+In the individualized GDT group, interventions were performed by the anesthesiologist in the operating room. The intraoperative intervention was aimed to meet the following goals: A less than 20% decline in the rScO2 level from baseline; a less than 20% decline in the MAP from baseline; a BIS of 45-60 before and after CPB; and a BIS of 40-45 during CPB.
+
+rScO2 intervention commenced following an algorithm (Supplement S2) as proposed by Murkin et al. [14] if the rScO2 value decreased below 80% from baseline for 1 min or longer. During CPB, it included the pump flow was increased to 2.5 L/min/m 2 if a cardiac index was < 2.0 L/min/m 2 ; checking head position and venous cannula position to ensure adequate venous drainage; maintaining jugular venous pressure < 10 mmHg by repositioning the heart during bypass; the increasing fraction of inspiration O2 to 1.0; increasing depth of anesthesia to decrease cerebral oxygen consumption; optimizing PaCO2 (maintain PaCO2 close to 5.3 kPa). A similar intervention was performed to adjust MAP to a less than 20% decline from baseline values. Initially, a continuous infusion of 2-4 mL/kg/h lactated Ringer solution was used. After a maximum of 0.1 μg/kg/min norepinephrine intravenous infusion, fluid resuscitation was provided by administration of 150-200 mL of lactated Ringer solution boluses if the stroke volume index was less than 35 mL/m 2 . If the cardiac index remained below 3.0 L/min/m 2 , dobutamine infusion was started at 5 μg/kg/min. If these interventions did not result in a cardiac index greater than 3.0 L/ min/m 2 , red blood cells (RBCs) were transfused 1 unit at a time to achieve a hematocrit value higher than 28%. To optimize cerebral oxygen balance, propofol concentrations were adjusted to maintain a BIS in the range of 45-60 before and after CPB and of 40-45 during CPB.
+
+2.6. Anesthesia and CPB management
+
+Baseline hemodynamic data were obtained 10 min after a small amount of midazolam (0.02 mg/kg) was administered. Baseline rScO2 values were obtained after the patients had been resting quietly for at least 1 min while receiving 3-5 L/min of O2 by nasal cannula with a stabilized signal. General anesthesia was usually induced with 1 μg/kg of sufentanil, a smooth target-controlled infusion of propofol (with an initial target concentration of 1.0 μg/mL), and 0.6 mg/kg rocuronium. Before the intervention period, a specialist in echocardiography measured the cardiac index with the use of a transesophageal echocardiogram. A cardiac output monitor (LiDCOrapid, London, United Kingdom) was connected to the arterial cable, and The LiDCOrapid was calibrated at baseline by inputting the cardiac index value obtained by the echocardiogram. During CPB, pump flow was kept at a rate of 2.0-2.5 L/min/m 2 , with rectal temperature in the range of 32 °C-35 °C during α-stat pH management, and a PaO2 in the range of 150-200 mmHg. After surgery, all patients were transferred still intubated to the intensive care unit (ICU).
+
+2
+
+[DOCLING_PAGE 3]
+
+X.-q. Cheng, et al.
+
+Journal of Clinical Anesthesia 67 (2020) 110032
+
+Fig. 1. Flow diagram.
+
+2.7. Study outcomes
+
+The primary outcome was a composite endpoint of 30-day mortality and major postoperative complications [17], including low cardiac output syndrome (characterized by decreased heart pump function, leading to reduced oxygen delivery and subsequent tissue hypoxia [20]), stroke, myocardial ischemia, infection, reoperation, and need for dialysis or hemofiltration. Secondary outcomes were delirium (defined by the Diagnostic and Statistical Manual of Mental Disorders criteria and diagnosed by a psychiatrist), acute kidney injury, venous thromboembolism, tachyarrhythmia, bradyarrhythmia, and the lengths of ICU and hospital stay, as defined by Osawa et al. [21].
+
+2.8. Statistical analysis
+
+To achieve significance, we calculated that a sample of 128 patients would be required for a reduction in the composite endpoint incidence from 50% in the usual care group [21] to 25% in the GDT group (accounting for a two-sided α-level of 0.05, a statistical power of 80%, and allowing for a loss to follow-up of 10%).
+
+A modified intention-to-treat analysis was conducted, including all randomized participants who had at least one post-baseline measurement of the primary outcome, with exclusions for missing data and deviations from the protocol. Continuous variables were reported as medians with interquartile ranges (IQRs). Categorical variables were reported as proportions. Continuous variables were compared with a Student t -test (parametric) or Mann-Whitney U test (non-parametric), and categorical variables were subjected to Pearson chi-square analysis, Fisher's exact test, or likelihood ratio tests. Primary and secondary outcomes are reported as relative risk (RR) with 95% confidence intervals (CI). Kaplan-Meier curves were constructed to analyze eventfree survival probabilities for 30 days following surgery. To determine the predictors of postoperative major complications, a post-hoc logistic regression model using a backward stepwise methodology was used. The threshold for inclusion in the model was selected at P < 0.05. The Hosmer-Lemeshow goodness-of-fit test was used to assess the fit of the model, while the performance of the model was assessed using the receiver operating characteristic (ROC) curve and the associated c-statistic.
+
+3
+
+[DOCLING_PAGE 4]
+
+X.-q. Cheng, et al.
+
+Journal of Clinical Anesthesia 67 (2020) 110032
+
+The secondary post-hoc analysis of data focused on the achievement of preoperative individual targets. We defined the achievement of these preoperative individual targets by analyzing the mean rScO2 levels , MAPs, and BISs throughout the intervention period, and relating these value to several predefined targets every 10 min during the intervention to explore whether the intraoperative rScO2 levels, MAP, and BIS met or exceeded the preoperative target values. Two-sided P values of less than 0.05 were considered statistically significant.
+
+3. Results
+
+A total of 286 patients were screened for eligibility, and 146 patients were ultimately enrolled and randomized. Data on the primary outcome were available for 128 patients (65 patients in the individualized GDT group and 63 patients in the usual care group) and were included in the modified intention-to-treat analysis (Fig. 1). Baseline characteristics were similar between the two groups (Table 1). The trend of the intraoperative time course for the MAP, BIS, and rScO2 level was similar in each group and the per-group difference in different time points ( P < 0.05, P < 0.01), as well as the area under the curve (AUC) for a cumulative duration of desaturation( P < 0.01), were shown in Fig. 2.
+
+The median dosages of dobutamine and norepinephrine were greater in the individualized GDT group than the usual care group ( P = 0.004 and P < 0.001). During the intervention period, 31% of patients in the individualized GDT group received RBC transfusions as compared to 16% of patients in the usual care group ( P = 0.06; Table 2).
+
+The primary outcome criterion, a composite of 30-day mortality and major complications, was reached by 39% (25/65) of patients in the individualized GDT group and 52% (33/63) of patients in the usual care
+
+Table 1
+
+Characteristics of the patients at baseline.
+
+[DOCLING_TABLE rows=22 columns=4]
+| Variable | Individualized GDT (n = 65) | Usual care (n= 63) | P value |
+| Age, y, median (IQR) | 67.0 (59.5-70.5) | 67.0 (62.0-71.0) | 0.53 |
+| Male sex, n (%) | 33 (51) | 28 (44) | 0.47 |
+| Body-mass index (kg/m 2 ) | 22.0 (19.0-25.0) | 21.0 (19.0-23.4) | 0.26 |
+| Comorbidities, n (%) | 51 (79) | 53 (84) | 0.50 |
+| Previous myocardial infarction | 14 (22) | 16 (25) | 0.68 |
+| Hypertension | 45 (69) | 50 (79) | 0.23 |
+| Diabetes | 7 (11) | 5 (8) | 0.76 |
+| Chronic pulmonary obstructive disease | 3 (5) | 2 (3) | >0.99 |
+| Previous stroke | 4 (6) | 2 (3) | 0.68 |
+| Peripheral artery disease | 2 (3) | 1 (2) | >0.99 |
+| Smoking | 27 (42) | 23 (37) | 0.59 |
+| Left ventricular ejection fraction <50%, n (%) | 46 (71) | 48 (77) | 0.55 |
+| European System for Cardiac Operative Risk Evaluation, median (IQR) | 4 (3-6) | 4 (3-5) | 0.38 |
+| Type of surgery, n (%) |  |  | 0.84 |
+| Valve replacement | 44 (68) | 43 (68) |  |
+| CABG | 14 (22) | 15 (24) |  |
+| Combined | 7 (11) | 5 (8) |  |
+| Surgical time, min, median (IQR) | 229.0 (198.5-267.0) | 241.0 (210.0-270.0) | 0.27 |
+| Anesthesia time, min, median (IQR) | 270.0 (230.5-301.5) | 275.0 (249.0-310.0) | 0.16 |
+| CPB, min, median (IQR) | 103.0 (82.0-133.0) | 110.0 (90.0-134.0) | 0.09 |
+| Aortic cross clamping, min, median (IQR) | 74.0 (54.5-99.0) | 85.0 (58.0-106.0) | 0.09 |
+[/DOCLING_TABLE]
+
+Data are shown as the number of patients (percentages) or medians with interquartile range. IQR, interquartile range; GDT, goal-directed therapy; CABG, coronary artery bypass grafting; CPB, cardiopulmonary bypass.
+
+group (RR, 0.73 [95% CI, 0.50-1.08]; P =0.15). In the analysis of the following components of the primary outcome, the individualized GDT group did not differ from controls: There was no significant difference between the groups in 30-day mortality rates (3% vs. 5%, respectively; P = 0.68), infection (12% vs. 32%; P = 0.06), stroke (2% vs. 10%; P = 0.06), low cardiac output syndrome (8% vs. 14%, P = 0.27), myocardial ischemia (6% vs. 5%; p > 0.99), reoperation (5% vs. 2%, p =0.62), and dialysis (3% vs. 6%, P =0.44). The duration of ICU and hospital stays were also similar between the two groups (Table 3). According to multivariable analysis, European System for Cardiac Operative Risk Evaluation and CPB time were found to be independent predictors of major complications (Supplement S3). The logistic model was a good fit, based on a non-significant Hosmer-Lemeshow statistic ( P =0.90), and performed well with a c-statistic of 0.79. The sensitive analysis showed the AUC (95%CI) for low MAP, low BIS and low rScO2 was 0.65 (0.55-0.75), 0.66(0.56-0.76), and 0.69 (0.59-0.78), respectively. There was no significant difference between them(Supplement S4).
+
+A greater portion of patients achieved their preoperative individual targets in the individualized GDT group (47/65 [72%]) as compared to the control group (28/63 [44%]). Our secondary analysis showed that the achievement of a patient's predefined target, adjusted for a group, was associated with a reduction in major morbidity risk in the 30-day postoperative period (RR 3.41, 95% CI 2.19-5.31, P < 0.001; Table 4). Furthermore, the achievement of oxygen balance targets was associated with reduced incidences of infection, low cardiac output syndrome, stroke, and delirium morbidity in the 30-day postoperative period. Moreover, the achievement of oxygen balance targets reduced the length of the ICU ( P =0.001) and hospital stays ( P < 0.001), with no difference in mortality (1% vs. 9%, respectively; P = 0.16). Log-rank test analyses of the Kaplan-Meier curves for 30-day event-free survival probability (Fig. 3) demonstrated better survival rates among the oxygen balance target achievers than the non-achievers ( P < 0.001), but not for the individualized GDT group relative to the usual care group ( P = 0.24).
+
+4. Discussion
+
+The principal finding is that the achievement of individualized targets in high-risk patients during cardiac surgery was associated with a reduction in major complications. Notably, this reduction was independent of the intraoperative GDT intervention.
+
+4
+
+[DOCLING_PAGE 5]
+
+X.-q. Cheng, et al.
+
+Journal of Clinical Anesthesia 67 (2020) 110032
+
+Fig. 2. Supplement S2. Intraoperative changes in intervention variables. * P < 0.05, ** P < 0.01, compared with the usual care group. AUC, area under the curve; GDT, goal-directed therapy.
+
+To predict oxygen consumption response following fluid infusion, only ScVO2 and cerebral rScO2 could serve as markers of tissue hypoxia [22]. Cardiac surgery patients with a significant decrease in rScO2 levels from baseline are at an increased risk of major organ dysfunction [14]. This finding has led to clinicians seeking strategies to reverse the decrease in rScO2 levels during cardiac surgery, with the aim of enhancing cerebral oxygenation and global tissue perfusion to reduce the incidence of postoperative complications [23]. For example, absolute cerebral desaturation is an important predictor of postoperative delirium [24]. The main effective therapeutic measures to restore cerebral desaturation include increasing the MAP and adjusting the depth of anesthesia [9]. However, a previous study [25] showed that a low MAP and BIS during cardiac surgery were each independently associated with poorer outcomes. Therefore, we selected a comprehensive strategy of simultaneously optimizing the MAP, BIS, and rScO2 levels for our patient cohort.
+
+Based on previous literature [15,16], the low threshold value for the BIS is 45, whereas the lower cutoffs for MAP and rScO2 levels remain uncertain. The lower limits for cerebral autoregulation have been reported to include a MAP range of 43-90 mmHg, determined by a linear correlation coefficient between MAP and rScO2 [26]. Recent evidence [27] has suggested that there is a lower degree of cerebral oxygen Oxygen dynamics interventions during the study.
+
+5
+
+[DOCLING_PAGE 6]
+
+X.-q. Cheng, et al.
+
+Journal of Clinical Anesthesia 67 (2020) 110032
+
+Table 2
+
+[DOCLING_TABLE rows=8 columns=4]
+| Variable | individualized GDT (n= 65) | Usual care (n= 63) | P value |
+| Crystalloid (mL), median (IQR) | 550 (500-660) | 540 (500-630) | 0.16 |
+| Colloid (mL), median (IQR) | 390 (340-500) | 370 (330-460) | 0.07 |
+| RBC transfusion, n (%) | 20 (31) | 10 (16) | 0.06 |
+| Norepinephrine infusion, n (%) | 58 (89) | 53 (84) | 0.32 |
+| Median dosage of norepinephrine (μg/kg/min) | 0.06 (0.04-0.07) | 0.05 (0.04-0.06) | <0.001 |
+| Dobutamine infusion, n (%) | 63 (97) | 59 (94) | 0.44 |
+| Median dosage of dobutamine (μg/kg/min) | 5 (3-6) | 4 (3-5) | 0.004 |
+[/DOCLING_TABLE]
+
+Data are shown as number of patients (percentages) or medians with interquartile range. IQR, interquartile range; GDT: goal-directed therapy; RBC, red blood cells.
+
+Table 3
+
+Study outcomes following goal-directed therapy for high-risk cardiac surgery.
+
+[DOCLING_TABLE rows=21 columns=5]
+| Variable | Individualized GDT (n = 65) | Usual care (n = 63) | P value | RR (95% CI) |
+| Primary outcome, n (%) |  |  |  |  |
+| Composite endpoint | 25 (39) | 33 (52) | 0.15 | 0.73 (0.50-1.08) |
+| Infection | 11 (17) | 20 (32) | 0.06 | 0.53 (0.28-1.02) |
+| Pneumonia | 3 (5) | 6 (10) |  |  |
+| Sternal wound infection | 7 (11) | 14 (22) |  |  |
+| Catheter related infection | 1 (2) | 0 (0) |  |  |
+| Myocardial ischemia | 4 (6) | 3 (5) | >0.99 | 1.30 (0.30-5.55) |
+| Low cardiac output syndrome | 5 (8) | 9 (14) | 0.27 | 0.54 (0.19-1.52) |
+| Stroke | 1 (2) | 6 (10) | 0.06 | 0.16 (0.02-1.31) |
+| Reoperation | 3 (5) | 1 (2) | 0.62 | 2.91 (0.31-27.2) |
+| Dialysis | 4 (6) | 4 (6) | 0.96 | 0.97 (0.25-3.71) |
+| Death | 2 (3) | 3 (5) | 0.68 | 0.65 (0.11-3.74) |
+| Secondary outcomes, n (%) |  |  |  |  |
+| Delirium | 18 (28) | 28 (44) | 0.07 | 0.65 (0.39-1.01) |
+| Acute kidney injury | 22 (34) | 25 (40) | 0.58 | 0.85 (0.54-1.35) |
+| Bradyarrhythmia | 1 (2) | 2 (3) | 0.62 | 0.48 (0.05-5.22) |
+| Tachyarrhythmia | 6 (9) | 12 (19) | 0.13 | 0.48 (0.19-1.21) |
+| Venous thromboembolism | 1 (2) | 1 (2) | >0.99 | 0.97 (0.06-15.17) |
+| Length of ICU stay (d) | 2.0 (2.0-3.0) | 2.0 (2.0-2.0) | 0.98 |  |
+| Length of hospital stay (d) | 12.0 (10.0-16.0) | 13.0 (10.0-17.0) | 0.63 |  |
+[/DOCLING_TABLE]
+
+Data are shown as the number of patients (percentages) or medians with interquartile range. IQR, interquartile range; RR, relative risk; GDT, goal-directed therapy; ICU, intensive care unit.
+
+[DOCLING_TABLE rows=21 columns=5]
+| Variable | Non-achiever (n= 53) | Achiever (n= 75) | P value | RR (95% CI) |
+| Primary outcome, n (%) |  |  |  |  |
+| Composite endpoint | 41 (77) | 17 (23) | <0.001 | 3.41 (2.19-5.31) |
+| Infection | 27 (51) | 4 (5) | <0.001 | 9.55 (3.55-25.70) |
+| Pneumonia | 8 (15) | 1 (1) | 0.004 |  |
+| Sternal wound infection | 18 (34) | 3 (4) | <0.001 |  |
+| Catheter related infection | 1 (2) | 0 (0) | 0.41 |  |
+| Myocardial ischemia | 5 (9) | 2 (3) | 0.13 | 3.54 (0.71-17.56) |
+| Low cardiac output syndrome | 11 (21) | 3 (4) | 0.008 | 5.00 (1.46-17.08) |
+| Stroke | 6 (11) | 1 (1) | 0.02 | 8.49 (1.05-68.52) |
+| Reoperation | 1 (2) | 3 (4) | 0.64 | 0.47 (0.05-4.41) |
+| Dialysis | 4 (8) | 4 (5) | 0.89 | 1.42 (0.37-5.41) |
+| Death | 4 (9) | 1 (1) | 0.16 | 5.66 (0.65-49.24) |
+| Secondary outcomes, n (%) |  |  |  |  |
+| Delirium | 28 (53) | 18 (24) | 0.001 | 2.20 (1.37-3.55) |
+| Acute kidney injury | 24 (45) | 23 (31) | 0.09 | 1.48 (0.94-2.32) |
+| Bradyarrhythmia | 2 (4) | 1 (1) | 0.57 | 2.83 (0.26-30.4) |
+| Tachyarrhythmia | 10 (19) | 8 (11) | 0.21 | 1.77 (0.75-4.18) |
+| Venous thromboembolism | 1 (2) | 1 (2) | >0.99 | 1.42 (0.09-22.14) |
+| Length of ICU stay (d) | 2.0 (2.0-4.0) | 2.0 (2.0-2.0) | 0.001 |  |
+| Length of hospital stay (d) | 16.0 (12.0-21.5) | 11.0 (9.0-13.0) | <0.001 |  |
+[/DOCLING_TABLE]
+
+Data are shown as number of patients (percentages) or medians with interquartile range. IQR, interquartile range; RR, relative risk; GDT, goal-directed therapy; ICU, intensive care unit.
+
+6
+
+[DOCLING_PAGE 7]
+
+X.-q. Cheng, et al.
+
+Journal of Clinical Anesthesia 67 (2020) 110032
+
+Fig. 3. Kaplan-Meier event-free survival probabilities for 30 days after surgery. (A) Among the individualized GDT and usual care group; (B) among the achiever and non-achiever groups. GDT, goal-directed therapy.
+
+desaturation during CPB with a lower MAP (40-50 mmHg) as compared to a higher MAP (70-80 mmHg). However, in this study, we could not determine whether a patient's MAP value was below the lower limit for cerebral autoregulation due to high inter-individual variability. Currently available evidence [28] suggests that adjustments in MAP, within the allowable range based on the patient's baseline and risks of organ ischemia during CPB, will provide the best patient outcome. Moreover, provisional considerations have been proposed to determine appropriate MAP targets for individual surgical patients before and after CPB. Hence, we believe that individualized GDT may improve survival and reduce postoperative complications for patients undergoing high-risk cardiac surgery.
+
+New evidence [8] suggests that the optimal tissue oximetry index, derived from the optimal MAP and rScO2 level, is linked to better neurological outcomes. Secondary analysis showed that 72% of patients in the individualized GDT group achieved their individual target, as compared to only 44% of patients in the usual care group. We speculated that CPB and hypothermia may be a major contributor to a large number of non-achievers. Several trials [29,30] of high-risk surgical patients have suggested that individualized adequate postoperative oxygen delivery is associated with improved outcomes. Consistent with these data, we have shown that the achievement of preoperative individual targets is sufficient to cause a reduction in morbidity, with fewer patients developing an infection, low cardiac output syndrome, and stroke, irrespective of the intraoperative intervention.
+
+Similarly to previous reports [21,31], we found that the treatment group mortality rates did not differ from the controls. This finding could be explained by the relatively low mortality rates of modern cardiac surgery and consequently identifies the need to include a larger number of patients to demonstrate potential net survival benefits. Nevertheless, our data suggested that the achievement of individual targets based on cerebral oxygen balance might reduce complications in high-risk patients.
+
+Furthermore, patients in the control group received standard treatment which may result in optimized oxygen delivery. However, as Osawa et al.'s study [21], major complications were reached by 45% of patients in standard treatment, including a higher incidence of infection and stroke. It was unclear whether oxygen delivery in this optimized control group can be improved more by target-controlled optimization of regional cerebral tissue oxygenation.
+
+The strengths of this study include its innovative trial design, which focused on comprehensive strategies. Prior trials [32,33] have not used systematically individualized GDT based on oxygen balance targets, and rather employed the population-based values associated with improved clinical outcomes from observational studies. Furthermore, in the current study, a secondary analysis was used to compare the outcomes between the target achievers and non-achievers. We have demonstrated that the achievement of individual targets based on cerebral oxygen balance is potentially associated with reduced postoperative morbidity. These data suggest that an enhanced mechanistic understanding of the consequences of oxygen balance management could reveal novel strategies to improve surgical critical care outcomes.
+
+This study does have several limitations. Firstly, as an a priori assumption, we hypothesized a 50% reduction in the incidence of overall complications, according to a similar reduction suggested from several previous studies [9,14,21]. However, it was hard to expect an effect of this magnitude. Indeed, if we had instead aimed for a reduction in the composite endpoint (i.e., of 10% or 15%), the sample size would have been increased and it would have been highly likely that some of the primary outcomes, such as infection or stroke, would have then become significant based on the existence of very strong trends towards significance within the lower sample size. This is an important limitation and warrants further investigation. Secondly, in secondary analysis, we added some patients from the control group to the interventional group and significant differences were found between the newly developed groups. Although this was interesting, the power of the trial is a matter of concern. However, assuming a significance level of 5% and a power of 80%, 46 patients per group would be needed to detect a clinically important 50% absolute reduction in morbidity (the morbidity in the non-achiever group was more than 70%). This factor did not reduce the power of the trial. Moreover, the crossover of intraoperative predefined targets achievers in the control group was substantially higher than we had anticipated. This factor alone reduced the power of the trial but did not alter several key observations. A large-scale randomized controlled trial would be needed to confirm the benefit of individualized targets based on oxygen balance in this population of patients.
+
+5. Conclusion
+
+No difference was shown between individualized GDT and standard treatment in high-risk patients undergoing cardiac surgery, however, the achievement of individualized targets based on cerebral oxygen balance might result in better clinical outcomes, regardless of how that was done.
+
+Supplementary data to this article can be found online at https:// doi.org/10.1016/j.jclinane.2020.110032.
+
+7
+
+[DOCLING_PAGE 8]
+
+X.-q. Cheng, et al.
+
+Journal of Clinical Anesthesia 67 (2020) 110032
+
+Funding disclosures
+
+This work was supported by Wu Jieping Medical Foundation, China (320.6750.18286) and Natural Science Research Project of Colleges in Anhui Province (No. KJ2019A0226) and the National Natural Science Foundation of China (81770298).
+
+CRediT authorship contribution statement
+
+Xin-qi Cheng: Conceptualization, Methodology, Software. Jun-yan Zhang: Conceptualization, Methodology, Software. Hao Wu: Data curation, Writing -original draft. You-mei Zuo: Visualization, Investigation. Li-li Tang: Supervision. Qing Zhao: Software, Validation. Er-wei Gu: Writing - review & editing.
+
+Declaration of competing interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+Acknowledgments
+
+We would like to thank professor Zhi-Hua Zhang (one biostatistician from Anhui Medical University) for his assistance in statistical analysis.
+
+References
+
+Curiel-Balsera E, Mora-Ordon˜ez JM, Castillo-Lorente E, Benitez-Parejo J, HerruzoAvilés A, Ravina-Sanz JJ, et al. Mortality and complications in elderly patients undergoing cardiac surgery. J Crit Care 2013;28:397-404. https://doi.org/10. 1016/j.jcrc. 2012.12.011.
+
+Aya HD, Cecconi M, Hamilton M, Rhodes A. Goal-directed therapy in cardiac surgery: a systematic review and meta-analysis. Br J Anaesth 2013;110:510-7. https:// doi.org/10.1093/bja/aet020.
+
+Thomson R, Meeran H, Valencia O, Al-Subaie N. Goal-directed therapy after cardiac surgery and the incidence of acute kidney injury. J Crit Care 2014;29:997-1000. https://doi.org/10.1016/j.jcrc.2014.06.011.
+
+Walker LJ, Young PJ. Fluid administration, vasopressor use and patient outcomes in a group of high-risk cardiac surgical patients receiving postoperative goal-directed haemodynamic therapy: a pilot study. Anaesth Intensive Care 2015;43:617-27. https://doi.org/10.1177/0310057X1504300511.
+
+Kapoor PM, Kakani M, Chowdhury U, Choudhury M, Lakshmy KU. Early goal-directed therapy in moderate to high-risk cardiac surgery patients. Ann Card Anaesth 2008;11:27-34. https://doi.org/10.4103/0971-9784.38446.
+
+Murkin JM. Is it better to shine a light, or rather to curse the darkness? Cerebral near-infrared spectroscopy and cardiac surgery. Eur J Cardiothorac Surg 2013;43:1081-3. https://doi.org/10.1093/ejcts/ezt186.
+
+Zheng F, Sheinberg R, Yee MS, Ono M, Zheng Y, Hogue CW. Cerebral near-infrared spectroscopy monitoring and neurologic outcomes in adult cardiac surgery patients: a systematic review. Anesth Analg 2013;116:663-76. https://doi.org/10.1213/ ANE. 0b013e318277a255.
+
+Chan B, Aneman A. A prospective, observational study of cerebrovascular autoregulation and its association with delirium following cardiac surgery. Anaesthesia 2019;74:33-44. https://doi.org/10.1111/anae.14457.
+
+Lei L, Katznelson R, Fedorko L, Carroll J, Poonawala H, Machina M, et al. Cerebral oximetry and postoperative delirium after cardiac surgery: a randomised, controlled trial. Anaesthesia 2017;72:1456-66. https://doi.org/10.1111/anae.14056.
+
+Hori D, Hogue C, Adachi H, Max L, Price J, Sciortino C, et al. Perioperative optimal blood pressure as determined by ultrasound tagged near infrared spectroscopy and its association with postoperative acute kidney injury in cardiac surgery patients. Interact Cardiovasc Thorac Surg 2016;22:445-51. https://doi.org/10.1093/icvts/ ivv371.
+
+Vedel AG, Holmgaard F, Rasmussen LS, Langkilde A, Paulson OB, Lange T, et al. High-target versus low-target blood pressure management during cardiopulmonary bypass to prevent cerebral injury in cardiac surgery patients: a randomized controlled trial. Circulation 2018;137:1770-80. https://doi.org/10.1161/ CIRCULATIONAHA.117. 030308.
+
+Holmgaard F, Vedel AG, Rasmussen LS, Paulson OB, Nilsson JC, Ravn HB. The association between postoperative cognitive dysfunction and cerebral oximetry during cardiac surgery: a secondary analysis of a randomised trial. Br J Anaesth
+
+2019;123:196-205. https://doi.org/10.1016/j.bja.2019.03.045.
+
+Futier E, Lefrant JY, Guinot PG, Godet T, Lorne E, Cuvillon P, et al. Effect of individualized vs standard blood pressure management strategies on postoperative organ dysfunction among high-risk patients undergoing major surgery: a randomized clinical trial. JAMA 2017;318:1346-57. https://doi.org/10.1001/jama.2017. 14172.
+
+Murkin JM, Adams SJ, Novick RJ, Quantz M, Bainbridge D, Iglesias I, et al. Monitoring brain oxygen saturation during coronary bypass surgery: a randomized, prospective study. Anesth Analg 2007;104:51-8. https://doi.org/10.1213/01.ane. 0000246814.29362.f4.
+
+Kertai MD, Pal N, Palanca BJ, Lin N, Searleman SA, Zhang L, et al. Association of perioperative risk factors and cumulative duration of low bispectral index with intermediate-term mortality after cardiac surgery in the B-Unaware Trial. Anesthesiology 2010;112:1116-27. https://doi.org/10.1097/ALN. 0b013e3181d5e0a3.
+
+Cheng XQ, Wu H, Zuo YM, Mei B, Zhang L, Cai YZ, et al. Perioperative risk factors and cumulative duration of 'triple-low' state associated with worse 30-day mortality of cardiac valvular surgery. J Clin Monit Comput 2017;31:387-95. https:// doi.org/10.1007/s10877-016-9856-2.
+
+Deschamps A, Hall R, Grocott H, Mazer CD, Choi PT, Turgeon AF, et al. Cerebral oximetry monitoring to maintain normal cerebral oxygen saturation during highrisk cardiac surgery: a randomized controlled feasibility trial. Anesthesiology 2016;124:826-36. https://doi.org/10.1097/ALN.0000000000001029.
+
+Mathew PJ, Puri GD, Dhaliwal RS. Propofol requirement titrated to bispectral index: a comparison between hypothermic and normothermic cardiopulmonary bypass. Perfusion 2009;24:27-32. https://doi.org/10.1177/0267659109106071.
+
+Serraino GF, Murphy GJ. Effects of cerebral near-infrared spectroscopy on the outcome of patients undergoing cardiac surgery: a systematic review of randomised trials. BMJ Open 2017;7:e016613https://doi.org/10.1136/bmjopen-2017-016613.
+
+Vincent JL, De Backer D. Circulatory shock. N Engl J Med 2013;369:1726-34. https://doi.org/10.1056/NEJMra1208943.
+
+Osawa EA, Rhodes A, Landoni G, Galas FR, Fukushima JT, Park CH, et al. Effect of perioperative goal-directed hemodynamic resuscitation therapy on outcomes following cardiac surgery: a randomized clinical trial and systematic review. Crit Care Med 2016;44:724-33. https://doi.org/10.1097/CCM.0000000000001479.
+
+Fischer MO, Bonnet V, Lorne E, Lefrant JY, Rebet O, Courteille B, et al. Assessment of macro- and micro-oxygenation parameters during fractional fluid infusion: a pilot study. J Crit Care 2017;40:91-8. https://doi.org/10.1016/j.jcrc.2017.03.021.
+
+Murkin JM. Cerebral oximetry: monitoring the brain as the index organ. Anesthesiology 2011;114:12-3. https://doi.org/10.1097/ALN.0b013e3181fef5d2.
+
+Pieri M, De Simone A, Rose S, De Domenico P, Lembo R, Denaro G, et al. Trials focusing on prevention and treatment of delirium after cardiac surgery: a systematic review of randomized evidence. J Cardiothorac Vasc Anesth 2020;34:1641-54. https://doi.org/10.1053/j.jvca.2019.09.028.
+
+Maheshwari A, McCormick PJ, Sessler DI, Reich DL, You J, Mascha EJ, et al. Prolonged concurrent hypotension and low bispectral index ('double low') are associated with mortality, serious complications, and prolonged hospitalization after cardiac surgery. Br J Anaesth 2017;119:40-9. https://doi.org/10.1093/bja/aex095.
+
+Joshi B, Ono M, Brown C, Brady K, Easley RB, Yenokyan G, et al. Predicting the limits of cerebral autoregulation during cardiopulmonary bypass. Anesth Analg 2012;114:503-10. https://doi.org/10.1213/ANE.0b013e31823d292a.
+
+Holmgaard F, Vedel AG, Lange T, Nilsson JC, Ravn HB. Impact of 2 distinct levels of mean arterial pressure on near-infrared spectroscopy during cardiac surgery: secondary outcome from a randomized clinical trial. Anesth Analg 2019;128:1081-8. https://doi.org/10.1213/ANE.0000000000003418.
+
+Meng L, Yu W, Wang T, Zhang L, Heerdt PM, Gelb AW. Blood pressure targets in perioperative care. Hypertension 2018;72:806-17. https://doi.org/10.1161/ HYPERTENSIONAHA.118.11688.
+
+Ackland GL, Iqbal S, Paredes LG, Toner A, Lyness C, Jenkins N, et al. Individualized oxygen delivery targeted haemodynamic therapy in high-risk surgical patients: a multicentre, randomized, double-blind, controlled, mechanistic trial. Lancet Respir Med 2015;3:33-41. https://doi.org/10.1016/S2213-2600(14)70205-X.
+
+Goepfert MS, Richter HP, Zu Eulenburg C, Gruetzmacher J, Rafflenbeul E, Roeher K, et al. Individually optimized hemodynamic therapy reduced complications and length of stay in the intensive care unit. A prospective, randomized controlled trial. Anesthesiology 2013;119:824-36. https://doi.org/10.1097/ALN. 0b013e31829bd770.
+
+McKendry M, McGloin H, Saberi D, Caudwell L, Brady AR, Singer M. Randomized controlled trial assessing the impact of a nurse delivered, flow monitored protocol for optimisation of circulatory status after cardiac surgery. BMJ 2004;329:258. https://doi.org/10.1136/bmj.38156.767118.7C.
+
+Jhanji S, Vivian-Smith A, Lucena-Amaro S, Watson D, Hinds CJ, Pearse RM. Haemodynamic optimisation improves tissue microvascular flow and oxygenation after major surgery: a randomised controlled trial. Crit Care 2010;14:R151. https:// doi.org/10.1186/cc9220.
+
+Dunham AM, Grega MA, Brown 4th CH, McKhann GM, Baumgartner WA, Gottesman RF. Perioperative low arterial oxygenation is associated with increased stroke risk in cardiac surgery. Anesth Analg 2017;125:38-43. https://doi.org/10. 1213/ANE.0000000000002157.
+
+8

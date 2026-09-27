@@ -1,0 +1,2227 @@
+{
+  "case_id": "song-2025",
+  "targets": [
+    {
+      "study_key": "avatar",
+      "target_id": "result.all_cause_mortality.longest_followup",
+      "domains": [
+        {
+          "domain": "D1",
+          "questions": [
+            {
+              "question_id": "1.1",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：注册标题和 allocation 字段明确为随机试验，但未给出序列生成算法。 B：主报告明确说明通过 web-based interactive response system 随机分配；现有来源无非随机分配迹象。",
+              "anchors": [
+                {
+                  "document_key": "avatar.registry.ctgov",
+                  "source_sha256": "393586fc7951fbfad9200695bd5b8005cfeafc42e8d5230c91de7c365811c547",
+                  "representation_sha256": "9a2b51a6cf81d7a8804f46ac871a74dd44f0ea7bbc47f068bd1de87058505769",
+                  "start_offset": 507,
+                  "end_offset": 548,
+                  "exact_text": "A Multicentre Randomized Controlled Trial"
+                },
+                {
+                  "document_key": "avatar.primary.fulltext",
+                  "source_sha256": "04ca2a82b6c4cc3145cdd2f57d8e6cef4d2b3e1666266bccecd6399486b0c20f",
+                  "representation_sha256": "4ca656319b1ed72fa8882ba450c051bd48c5da1d4910a99ce11eb4c546b593e9",
+                  "start_offset": 10035,
+                  "end_offset": 10156,
+                  "exact_text": "Patients were randomly assigned to early surgery or conservative treatment using a web-based interactive response system."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.2",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：允许来源没有说明分配序列在入组和分组前的隐藏机制。 B：允许来源未说明 allocation concealment、central randomization 或等效机制。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "avatar-supplement",
+                  "source_sha256": "e7f7319bafb190be1b589f47e2cf4d2b6f8badfa9b5a91822cb04e2f27ec34de",
+                  "representation_sha256": "4805b31d3e4fded187603b40d6b5c34e569e1fdab3b14cfe7a85dfb07c2d9354"
+                },
+                {
+                  "document_key": "avatar.registry.ctgov",
+                  "source_sha256": "393586fc7951fbfad9200695bd5b8005cfeafc42e8d5230c91de7c365811c547",
+                  "representation_sha256": "9a2b51a6cf81d7a8804f46ac871a74dd44f0ea7bbc47f068bd1de87058505769"
+                },
+                {
+                  "document_key": "avatar.sap",
+                  "source_sha256": "a0a89920266b027b4795d68ce4811b14b5ebbcf5b42a8811185edf55ffe34c54",
+                  "representation_sha256": "58e864355692126391d1e4aa12989f356ea1f20516b8f0f1d8cecab2a071f6d8"
+                }
+              ]
+            },
+            {
+              "question_id": "1.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：所选最长随访报告本体缺失，supplement 也未提供随机组基线比较表。 B：允许来源中没有按随机组给出的完整 baseline characteristics，无法判断是否存在提示随机化问题的基线差异。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "avatar-supplement",
+                  "source_sha256": "e7f7319bafb190be1b589f47e2cf4d2b6f8badfa9b5a91822cb04e2f27ec34de",
+                  "representation_sha256": "4805b31d3e4fded187603b40d6b5c34e569e1fdab3b14cfe7a85dfb07c2d9354"
+                },
+                {
+                  "document_key": "avatar.registry.ctgov",
+                  "source_sha256": "393586fc7951fbfad9200695bd5b8005cfeafc42e8d5230c91de7c365811c547",
+                  "representation_sha256": "9a2b51a6cf81d7a8804f46ac871a74dd44f0ea7bbc47f068bd1de87058505769"
+                },
+                {
+                  "document_key": "avatar.sap",
+                  "source_sha256": "a0a89920266b027b4795d68ce4811b14b5ebbcf5b42a8811185edf55ffe34c54",
+                  "representation_sha256": "58e864355692126391d1e4aa12989f356ea1f20516b8f0f1d8cecab2a071f6d8"
+                }
+              ]
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        },
+        {
+          "domain": "D2",
+          "questions": [
+            {
+              "question_id": "2.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：registry 明确记录 masking 为 NONE，且患者接受手术或保守治疗，参与者知晓分组。 B：Registry 将 masking 记为 NONE，且比较手术与保守治疗，参与者会知晓分配。",
+              "anchors": [
+                {
+                  "document_key": "avatar.registry.ctgov",
+                  "source_sha256": "393586fc7951fbfad9200695bd5b8005cfeafc42e8d5230c91de7c365811c547",
+                  "representation_sha256": "9a2b51a6cf81d7a8804f46ac871a74dd44f0ea7bbc47f068bd1de87058505769",
+                  "start_offset": 4808,
+                  "end_offset": 4812,
+                  "exact_text": "NONE"
+                },
+                {
+                  "document_key": "avatar.registry.ctgov",
+                  "source_sha256": "393586fc7951fbfad9200695bd5b8005cfeafc42e8d5230c91de7c365811c547",
+                  "representation_sha256": "9a2b51a6cf81d7a8804f46ac871a74dd44f0ea7bbc47f068bd1de87058505769",
+                  "start_offset": 4796,
+                  "end_offset": 4813,
+                  "exact_text": "\"masking\": \"NONE\""
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：无掩盲且干预为主动瓣膜手术，照护和实施人员知晓分组。 B：Registry 将 masking 记为 NONE；实施手术或保守随访的人员会知晓分配。",
+              "anchors": [
+                {
+                  "document_key": "avatar.registry.ctgov",
+                  "source_sha256": "393586fc7951fbfad9200695bd5b8005cfeafc42e8d5230c91de7c365811c547",
+                  "representation_sha256": "9a2b51a6cf81d7a8804f46ac871a74dd44f0ea7bbc47f068bd1de87058505769",
+                  "start_offset": 5435,
+                  "end_offset": 5513,
+                  "exact_text": "elective aortic valve surgery (replacement) within 4 weeks after randomization"
+                },
+                {
+                  "document_key": "avatar.registry.ctgov",
+                  "source_sha256": "393586fc7951fbfad9200695bd5b8005cfeafc42e8d5230c91de7c365811c547",
+                  "representation_sha256": "9a2b51a6cf81d7a8804f46ac871a74dd44f0ea7bbc47f068bd1de87058505769",
+                  "start_offset": 4796,
+                  "end_offset": 4813,
+                  "exact_text": "\"masking\": \"NONE\""
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "YES",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "COVID-19 导致的手术延迟虽被记为 protocol deviation，但属于外部公共卫生事件，不是因试验情境产生的偏离。",
+              "anchors": [
+                {
+                  "document_key": "avatar.sap",
+                  "source_sha256": "a0a89920266b027b4795d68ce4811b14b5ebbcf5b42a8811185edf55ffe34c54",
+                  "representation_sha256": "58e864355692126391d1e4aa12989f356ea1f20516b8f0f1d8cecab2a071f6d8",
+                  "start_offset": 481,
+                  "end_offset": 538,
+                  "exact_text": "an anticipated minor deviation from the clinical protocol"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.4",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "唯一明确偏离是轻微 COVID 延迟，且不满足 2.3 的 trial-context 条件；现有来源不支持其影响所选死亡结果。",
+              "anchors": [
+                {
+                  "document_key": "avatar.sap",
+                  "source_sha256": "a0a89920266b027b4795d68ce4811b14b5ebbcf5b42a8811185edf55ffe34c54",
+                  "representation_sha256": "58e864355692126391d1e4aa12989f356ea1f20516b8f0f1d8cecab2a071f6d8",
+                  "start_offset": 451,
+                  "end_offset": 477,
+                  "exact_text": "this delay will be defined"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.5",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：该手术延迟只可能发生在被分配手术者中，因此若按偏离处理并非组间平衡；程序会因 2.3 为 NO 将本题规范化为不适用。 B：已识别的延迟手术 deviation 明确只发生在随机至 AVR surgery 的参与者中，未在两组平衡发生。",
+              "anchors": [
+                {
+                  "document_key": "avatar.sap",
+                  "source_sha256": "a0a89920266b027b4795d68ce4811b14b5ebbcf5b42a8811185edf55ffe34c54",
+                  "representation_sha256": "58e864355692126391d1e4aa12989f356ea1f20516b8f0f1d8cecab2a071f6d8",
+                  "start_offset": 283,
+                  "end_offset": 346,
+                  "exact_text": "Patients randomized to AVR surgery who received delayed surgery"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.6",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：target plan 的最长随访结果来源锚点明确按随机分组执行 ITT。 B：目标计划绑定的 long-term report Source Span 明确说明所有分析按 ITT、依随机分组纳入。",
+              "anchors": [
+                {
+                  "document_key": "avatar.long_term.fulltext",
+                  "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c",
+                  "representation_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd",
+                  "start_offset": 23430,
+                  "end_offset": 23576,
+                  "exact_text": "We conducted all analyses according to the intention-to-treat principle, where all patients were included in the analysis as they were randomized."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.7",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：所有患者按随机分组纳入分析，不存在未按原随机组分析而实质影响结果的迹象。 B：ITT 描述明确所有患者按随机分组分析，没有显示因未按随机组分析而可能产生实质影响。",
+              "anchors": [
+                {
+                  "document_key": "avatar.long_term.fulltext",
+                  "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c",
+                  "representation_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd",
+                  "start_offset": 23509,
+                  "end_offset": 23575,
+                  "exact_text": "all patients were included in the analysis as they were randomized"
+                },
+                {
+                  "document_key": "avatar.long_term.fulltext",
+                  "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c",
+                  "representation_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd",
+                  "start_offset": 23430,
+                  "end_offset": 23576,
+                  "exact_text": "We conducted all analyses according to the intention-to-treat principle, where all patients were included in the analysis as they were randomized."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D3",
+          "questions": [
+            {
+              "question_id": "3.1",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "长期报告明确全部患者进入分析，仅一名患者失访，满足 all or nearly all。",
+              "anchors": [
+                {
+                  "document_key": "avatar.long_term.fulltext",
+                  "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c",
+                  "representation_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd",
+                  "start_offset": 25916,
+                  "end_offset": 25959,
+                  "exact_text": "All patients were included in the analysis."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.2",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "唯一失访者在最后可用信息时 censor 并保留于 ITT，比例极小，支持结果未受缺失偏倚。",
+              "anchors": [
+                {
+                  "document_key": "avatar.long_term.fulltext",
+                  "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c",
+                  "representation_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd",
+                  "start_offset": 26100,
+                  "end_offset": 26319,
+                  "exact_text": "One patient, who was randomized to early surgery, has been lost to follow-up, and this patient was censored when the last follow-up information was available and included in the intention-to-treat analysis ( Figure 1 )."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.3",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：所有随机患者纳入分析，未见按死亡风险选择性排除的迹象。 B：仅 1 名患者失访并在最后已知时点 censor；没有证据显示该 missingness 依赖真实死亡状态。",
+              "anchors": [
+                {
+                  "document_key": "avatar.long_term.fulltext",
+                  "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c",
+                  "representation_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd",
+                  "start_offset": 23509,
+                  "end_offset": 23575,
+                  "exact_text": "all patients were included in the analysis as they were randomized"
+                },
+                {
+                  "document_key": "avatar.long_term.fulltext",
+                  "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c",
+                  "representation_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd",
+                  "start_offset": 26100,
+                  "end_offset": 26319,
+                  "exact_text": "One patient, who was randomized to early surgery, has been lost to follow-up, and this patient was censored when the last follow-up information was available and included in the intention-to-treat analysis ( Figure 1 )."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.4",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：现有证据不支持缺失很可能依赖真实死亡状态；本题会在 3.1 为正向答案后被确定性规范化为不适用。 B：唯一失访患者仍进入 ITT 并在最后随访时点 censor，没有迹象表明失访很可能由真实死亡状态造成。",
+              "anchors": [
+                {
+                  "document_key": "avatar.long_term.fulltext",
+                  "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c",
+                  "representation_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd",
+                  "start_offset": 23509,
+                  "end_offset": 23575,
+                  "exact_text": "all patients were included in the analysis as they were randomized"
+                },
+                {
+                  "document_key": "avatar.long_term.fulltext",
+                  "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c",
+                  "representation_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd",
+                  "start_offset": 26100,
+                  "end_offset": 26319,
+                  "exact_text": "One patient, who was randomized to early surgery, has been lost to follow-up, and this patient was censored when the last follow-up information was available and included in the intention-to-treat analysis ( Figure 1 )."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D4",
+          "questions": [
+            {
+              "question_id": "4.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：全因死亡是客观结局；supplement 逐例列出死亡及时间。 B：Long-term report 直接报告两组死亡人数；死亡事件本身是适当且客观的 outcome measure。",
+              "anchors": [
+                {
+                  "document_key": "avatar-supplement",
+                  "source_sha256": "e7f7319bafb190be1b589f47e2cf4d2b6f8badfa9b5a91822cb04e2f27ec34de",
+                  "representation_sha256": "4805b31d3e4fded187603b40d6b5c34e569e1fdab3b14cfe7a85dfb07c2d9354",
+                  "start_offset": 17743,
+                  "end_offset": 17773,
+                  "exact_text": "Case Fatalities in both groups"
+                },
+                {
+                  "document_key": "avatar.long_term.fulltext",
+                  "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c",
+                  "representation_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd",
+                  "start_offset": 34342,
+                  "end_offset": 34476,
+                  "exact_text": "Forty patients died during follow-up: 13/78 (16.7%) in the early surgery group and 27/79 (34.17%) in the conservative treatment group."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：死亡病例在两组以同一表格结构记录，没有显示按组采用不同死亡确认方法。 B：补充材料以同一 case-fatality 表呈现两组死亡，没有显示组间使用不同的 ascertainment。",
+              "anchors": [
+                {
+                  "document_key": "avatar-supplement",
+                  "source_sha256": "e7f7319bafb190be1b589f47e2cf4d2b6f8badfa9b5a91822cb04e2f27ec34de",
+                  "representation_sha256": "4805b31d3e4fded187603b40d6b5c34e569e1fdab3b14cfe7a85dfb07c2d9354",
+                  "start_offset": 17743,
+                  "end_offset": 17773,
+                  "exact_text": "Case Fatalities in both groups"
+                },
+                {
+                  "document_key": "avatar-supplement",
+                  "source_sha256": "e7f7319bafb190be1b589f47e2cf4d2b6f8badfa9b5a91822cb04e2f27ec34de",
+                  "representation_sha256": "4805b31d3e4fded187603b40d6b5c34e569e1fdab3b14cfe7a85dfb07c2d9354",
+                  "start_offset": 17719,
+                  "end_offset": 17773,
+                  "exact_text": "Supplementary Table 4.  Case Fatalities in both groups"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "主报告明确 DSMB 在事件复核时未对 treatment allocation 盲化，属于知晓分组的结局复核者。",
+              "anchors": [
+                {
+                  "document_key": "avatar.primary.fulltext",
+                  "source_sha256": "04ca2a82b6c4cc3145cdd2f57d8e6cef4d2b3e1666266bccecd6399486b0c20f",
+                  "representation_sha256": "4ca656319b1ed72fa8882ba450c051bd48c5da1d4910a99ce11eb4c546b593e9",
+                  "start_offset": 12375,
+                  "end_offset": 12454,
+                  "exact_text": "DSMB members were not blinded to the treatment allocation during events review."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.4",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：是否死亡是客观状态，评估者知晓手术分组不能合理改变该状态。 B：即使 assessor 知晓分组，死亡发生这一客观事实通常不能被该知识改变。",
+              "anchors": [
+                {
+                  "document_key": "avatar-supplement",
+                  "source_sha256": "e7f7319bafb190be1b589f47e2cf4d2b6f8badfa9b5a91822cb04e2f27ec34de",
+                  "representation_sha256": "4805b31d3e4fded187603b40d6b5c34e569e1fdab3b14cfe7a85dfb07c2d9354",
+                  "start_offset": 17743,
+                  "end_offset": 17773,
+                  "exact_text": "Case Fatalities in both groups"
+                },
+                {
+                  "document_key": "avatar-supplement",
+                  "source_sha256": "e7f7319bafb190be1b589f47e2cf4d2b6f8badfa9b5a91822cb04e2f27ec34de",
+                  "representation_sha256": "4805b31d3e4fded187603b40d6b5c34e569e1fdab3b14cfe7a85dfb07c2d9354",
+                  "start_offset": 17719,
+                  "end_offset": 17773,
+                  "exact_text": "Supplementary Table 4.  Case Fatalities in both groups"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.5",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：没有机制或来源证据表明分组知识很可能改变全因死亡判断。 B：没有证据表明对客观死亡结局的评定实际受到分组知识影响。",
+              "anchors": [
+                {
+                  "document_key": "avatar.registry.ctgov",
+                  "source_sha256": "393586fc7951fbfad9200695bd5b8005cfeafc42e8d5230c91de7c365811c547",
+                  "representation_sha256": "9a2b51a6cf81d7a8804f46ac871a74dd44f0ea7bbc47f068bd1de87058505769",
+                  "start_offset": 6010,
+                  "end_offset": 6251,
+                  "exact_text": "\"measure\": \"all cause death, Major Adverse Cardiac Event (MACE) including: ( Acute Myocardial Infarction - AMI, Stroke - CVI, unplanned hospitalization for Heart failure (HF) needing intravenous treatment\",\n          \"timeFrame\": \"36 months\""
+                },
+                {
+                  "document_key": "avatar-supplement",
+                  "source_sha256": "e7f7319bafb190be1b589f47e2cf4d2b6f8badfa9b5a91822cb04e2f27ec34de",
+                  "representation_sha256": "4805b31d3e4fded187603b40d6b5c34e569e1fdab3b14cfe7a85dfb07c2d9354",
+                  "start_offset": 17719,
+                  "end_offset": 17773,
+                  "exact_text": "Supplementary Table 4.  Case Fatalities in both groups"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D5",
+          "questions": [
+            {
+              "question_id": "5.1",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "可用 SAP 只是 COVID 延迟 amendment，登记日期也不能替代最长随访死亡结果的完整揭盲前分析计划。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "avatar-supplement",
+                  "source_sha256": "e7f7319bafb190be1b589f47e2cf4d2b6f8badfa9b5a91822cb04e2f27ec34de",
+                  "representation_sha256": "4805b31d3e4fded187603b40d6b5c34e569e1fdab3b14cfe7a85dfb07c2d9354"
+                },
+                {
+                  "document_key": "avatar.registry.ctgov",
+                  "source_sha256": "393586fc7951fbfad9200695bd5b8005cfeafc42e8d5230c91de7c365811c547",
+                  "representation_sha256": "9a2b51a6cf81d7a8804f46ac871a74dd44f0ea7bbc47f068bd1de87058505769"
+                },
+                {
+                  "document_key": "avatar.sap",
+                  "source_sha256": "a0a89920266b027b4795d68ce4811b14b5ebbcf5b42a8811185edf55ffe34c54",
+                  "representation_sha256": "58e864355692126391d1e4aa12989f356ea1f20516b8f0f1d8cecab2a071f6d8"
+                }
+              ]
+            },
+            {
+              "question_id": "5.2",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：registry 事先列出含全因死亡的结局及 36 月和 5 年节点，目标按最长随访而非效应方向选择；未见基于结果挑选死亡定义。 B：Long-term report 明确这是预定 trial 的 5-year extended follow-up；本 target 又按 longest-follow-up 规则选择，没有基于结果方向选择 measurement 的迹象。",
+              "anchors": [
+                {
+                  "document_key": "avatar.registry.ctgov",
+                  "source_sha256": "393586fc7951fbfad9200695bd5b8005cfeafc42e8d5230c91de7c365811c547",
+                  "representation_sha256": "9a2b51a6cf81d7a8804f46ac871a74dd44f0ea7bbc47f068bd1de87058505769",
+                  "start_offset": 6010,
+                  "end_offset": 6251,
+                  "exact_text": "\"measure\": \"all cause death, Major Adverse Cardiac Event (MACE) including: ( Acute Myocardial Infarction - AMI, Stroke - CVI, unplanned hospitalization for Heart failure (HF) needing intravenous treatment\",\n          \"timeFrame\": \"36 months\""
+                },
+                {
+                  "document_key": "avatar.registry.ctgov",
+                  "source_sha256": "393586fc7951fbfad9200695bd5b8005cfeafc42e8d5230c91de7c365811c547",
+                  "representation_sha256": "9a2b51a6cf81d7a8804f46ac871a74dd44f0ea7bbc47f068bd1de87058505769",
+                  "start_offset": 6283,
+                  "end_offset": 6522,
+                  "exact_text": "\"measure\": \"all cause death, Major Adverse Cardiac Event (MACE) including: ( Acute Myocardial Infarction - AMI, Stroke - CVI, unplanned hospitalization for Heart failure (HF) needing intravenous treatment\",\n          \"timeFrame\": \"5 years\""
+                },
+                {
+                  "document_key": "avatar.long_term.fulltext",
+                  "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c",
+                  "representation_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd",
+                  "start_offset": 15515,
+                  "end_offset": 15597,
+                  "exact_text": "We now report the results of the AVATAR trial after extended follow-up at 5 years."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.3",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：最长随访报告明确使用所有患者按随机分组的 ITT 分析，未见根据结果从不同分析人群中挑选。 B：目标结果按 ITT 报告，且未发现根据结果在多个 eligible analyses 中择优的证据。",
+              "anchors": [
+                {
+                  "document_key": "avatar.long_term.fulltext",
+                  "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c",
+                  "representation_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd",
+                  "start_offset": 23430,
+                  "end_offset": 23501,
+                  "exact_text": "We conducted all analyses according to the intention-to-treat principle"
+                },
+                {
+                  "document_key": "avatar.long_term.fulltext",
+                  "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c",
+                  "representation_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd",
+                  "start_offset": 23430,
+                  "end_offset": 23576,
+                  "exact_text": "We conducted all analyses according to the intention-to-treat principle, where all patients were included in the analysis as they were randomized."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        }
+      ],
+      "overall_judgment": "SOME_CONCERNS"
+    },
+    {
+      "study_key": "early_tavr",
+      "target_id": "result.all_cause_mortality.longest_followup",
+      "domains": [
+        {
+          "domain": "D1",
+          "questions": [
+            {
+              "question_id": "1.1",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：protocol 规定 1:1 随机并通过指定电子系统取得分组；未给出序列生成器细节，因此取 PROBABLY_YES。 B：Protocol/SAP 规定 1:1 randomization 并按 site 和 stress-test ability 分层，支持随机序列。",
+              "anchors": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 223296,
+                  "end_offset": 223347,
+                  "exact_text": "Randomization will be done 1:1 for test and control"
+                },
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 294760,
+                  "end_offset": 294806,
+                  "exact_text": "Randomization will be 1:1 for test and control"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.2",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：研究中心在电子系统录入受试者后才取得 treatment assignment，支持中央分配在分组前隐藏。 B：Site 在纳入后通过指定电子系统取得 treatment assignment，支持分配在指派前被中央系统隐藏。",
+              "anchors": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 223491,
+                  "end_offset": 223572,
+                  "exact_text": "subject into the designated electronic system and obtain the treatment assignment"
+                },
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 295077,
+                  "end_offset": 295234,
+                  "exact_text": "To randomize a patient, the\ninvestigative site will enter the subject into the designated electronic system and obtain the\ntreatment assignment (TAVR or CS)."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：允许来源只有 protocol/SAP，没有实际随机组基线比较结果。 B：允许来源只有 protocol/SAP，没有实际 baseline characteristics 表，无法检查组间基线差异。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93"
+                }
+              ]
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D2",
+          "questions": [
+            {
+              "question_id": "2.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "TAVR 与 clinical surveillance 是明显不同的治疗路径，参与者会知道所分配策略。",
+              "anchors": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 186993,
+                  "end_offset": 187030,
+                  "exact_text": "randomized 1:1 to receive either TAVR"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "实施 TAVR 或临床监测的照护人员必然知道 treatment assignment。",
+              "anchors": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 223541,
+                  "end_offset": 223572,
+                  "exact_text": "obtain the treatment assignment"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "协议允许 surveillance 后 AVR，但缺实际 result report，无法排除其他由试验情境产生的实际偏离。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93"
+                }
+              ]
+            },
+            {
+              "question_id": "2.4",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "没有闭合实际 trial-context deviation，因此也无法判断其是否影响死亡结果。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93"
+                }
+              ]
+            },
+            {
+              "question_id": "2.5",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "缺少实际偏离的分组资料，不能判断平衡性；不能用条件分支将 raw answer 猜成肯定。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93"
+                }
+              ]
+            },
+            {
+              "question_id": "2.6",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：SAP 明确把所有随机患者按原随机组纳入 ITT，且这是 trial-arm comparison 的 primary population。 B：Protocol/SAP 明确将全部随机患者纳入 ITT population，并按 randomized trial arms 分析。",
+              "anchors": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 295571,
+                  "end_offset": 295643,
+                  "exact_text": "The Intent to Treat (ITT) population consists of all randomized patients"
+                },
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 146733,
+                  "end_offset": 146773,
+                  "exact_text": "analyzed in their randomized trial arms."
+                },
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 295571,
+                  "end_offset": 295777,
+                  "exact_text": "The Intent to Treat (ITT) population consists of all randomized patients, analyzed in their\n           randomized trial arms.  This population is the primary population for trial arm\n           comparisons."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.7",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：预先指定的主分析按原随机组纳入所有随机患者，没有未按随机组分析造成实质影响的依据。 B：全部随机患者进入 ITT，且 CS arm 后续 AVR 仍保留在 CS arm，未显示因偏离随机组分析而产生实质影响。",
+              "anchors": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 295721,
+                  "end_offset": 295753,
+                  "exact_text": "primary population for trial arm"
+                },
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 297775,
+                  "end_offset": 297811,
+                  "exact_text": "these patients remain in the CS arm."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        },
+        {
+          "domain": "D3",
+          "questions": [
+            {
+              "question_id": "3.1",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "目标结果两组分母合计覆盖 901 名随机患者，且 protocol 把全部随机者纳入 ITT。",
+              "anchors": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 295571,
+                  "end_offset": 295777,
+                  "exact_text": "The Intent to Treat (ITT) population consists of all randomized patients, analyzed in their\n           randomized trial arms.  This population is the primary population for trial arm\n           comparisons."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.2",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "完整目标分母与对失访者查询死亡登记的程序共同支持缺失没有造成结果偏倚。",
+              "anchors": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 255239,
+                  "end_offset": 255308,
+                  "exact_text": "search the Social Security Death Index and/or other death registries."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.3",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "目标分母完整并使用死亡登记补充 vital status，不存在依赖真实死亡值的 outcome missingness。",
+              "anchors": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 255239,
+                  "end_offset": 255308,
+                  "exact_text": "search the Social Security Death Index and/or other death registries."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.4",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "没有实际结局缺失，且死亡登记追踪进一步排除 missingness likely 依赖真实值。",
+              "anchors": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 255239,
+                  "end_offset": 255308,
+                  "exact_text": "search the Social Security Death Index and/or other death registries."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D4",
+          "questions": [
+            {
+              "question_id": "4.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标是全因死亡，protocol 还规定通过死亡登记和死亡证明确认，不是不适当的测量方法。 B：Protocol 将 all-cause death 定义为 endpoint component；死亡是适当且客观的测量。",
+              "anchors": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 131237,
+                  "end_offset": 131273,
+                  "exact_text": "Death (all cause and cardiovascular)"
+                },
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 299350,
+                  "end_offset": 299365,
+                  "exact_text": "all-cause death"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：死亡状态追踪程序面向失访或退出患者，没有按随机组采用不同测量方法的规定。 B：同一 CEC 对 endpoint events 进行 adjudication，没有证据显示两组采用不同 ascertainment。",
+              "anchors": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 255239,
+                  "end_offset": 255307,
+                  "exact_text": "search the Social Security Death Index and/or other death registries"
+                },
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 312987,
+                  "end_offset": 313026,
+                  "exact_text": "The CEC will adjudicate endpoint events"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：protocol 说明 CEC adjudication，但允许摘录未说明全因死亡评估者是否对随机分组盲法。 B：Protocol 说明 CEC adjudication，但没有说明 CEC 是否对 intervention allocation 盲法。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93"
+                }
+              ]
+            },
+            {
+              "question_id": "4.4",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "死亡登记或死亡证明确认的全因死亡是客观事件，分组知识不能合理改变其评定。",
+              "anchors": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 255372,
+                  "end_offset": 255400,
+                  "exact_text": "obtain the death certificate"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.5",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "基于登记和死亡证明的客观确认没有受到分组知识实际影响的合理路径。",
+              "anchors": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 255291,
+                  "end_offset": 255307,
+                  "exact_text": "death registries"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D5",
+          "questions": [
+            {
+              "question_id": "5.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：2021 年定稿的 protocol/SAP 在结果报告前明确规定全因死亡、ITT 人群和分析时间尺度。 B：Protocol/SAP 预先定义 all-cause death、ITT population 及 endpoint analysis，支持按预先计划分析。",
+              "anchors": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 1792,
+                  "end_offset": 1952,
+                  "exact_text": "Page 1 of 82\n\nEARLY TAVR Clinical Protocol\n2016-07;                                                                                   Version 5.0, June 16, 2021"
+                },
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 131237,
+                  "end_offset": 131273,
+                  "exact_text": "Death (all cause and cardiovascular)"
+                },
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 299350,
+                  "end_offset": 299365,
+                  "exact_text": "all-cause death"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.2",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "protocol 预先定义全因死亡，longest-follow-up target 规则与结果方向无关，没有结果驱动的测量选择。",
+              "anchors": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 299350,
+                  "end_offset": 299365,
+                  "exact_text": "all-cause death"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.3",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "Protocol/SAP 预先指定按随机组的 ITT 为主要 trial-arm comparison population，未见按结果择优分析。",
+              "anchors": [
+                {
+                  "document_key": "early-tavr-protocol-sap",
+                  "source_sha256": "14e33ab1cfe36f7d46f082d9cb7f11560ef07eb395094c0380b39f8caf0b1eae",
+                  "representation_sha256": "3aa769ddf3d6ec5055c6d48cecc75666eed98ab849ad891b34026a6eccedcb93",
+                  "start_offset": 295571,
+                  "end_offset": 295777,
+                  "exact_text": "The Intent to Treat (ITT) population consists of all randomized patients, analyzed in their\n           randomized trial arms.  This population is the primary population for trial arm\n           comparisons."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        }
+      ],
+      "overall_judgment": "SOME_CONCERNS"
+    },
+    {
+      "study_key": "evolved",
+      "target_id": "result.all_cause_mortality.longest_followup",
+      "domains": [
+        {
+          "domain": "D1",
+          "questions": [
+            {
+              "question_id": "1.1",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：registry 明确记录 randomized parallel trial，但未提供序列生成算法。 B：主报告摘要明确将研究描述为 multicenter randomized clinical trial；虽无序列生成细节，现有来源无非随机分配迹象。",
+              "anchors": [
+                {
+                  "document_key": "evolved.registry.ctgov",
+                  "source_sha256": "14cb5c13321b0c90bbabca09ffe9170ce6970be16a01c51ed0679222b99390bb",
+                  "representation_sha256": "5053586b8719fa8368bb3ef0656ef75734d2c09643437d767bfcd1b8fbc97f00",
+                  "start_offset": 4454,
+                  "end_offset": 4608,
+                  "exact_text": "Participants who have mid wall fibrosis (heart scarring) are randomised to receive either early surgical intervention (group A) or routine care (group B)."
+                },
+                {
+                  "document_key": "evolved.abstract_results",
+                  "source_sha256": "837f08b933afdd56774f83c4b6975d98617b61d8a5e1a6ac17a293ffb956047f",
+                  "representation_sha256": "19b626dbc15773db743a82b261090de2ccd78c89f88cdbbfc6da1e12385e62fe",
+                  "start_offset": 4866,
+                  "end_offset": 5279,
+                  "exact_text": "In this multicenter randomized clinical trial of 224 patients with asymptomatic severe aortic stenosis and myocardial fibrosis, there was no significant difference in the primary composite end point of all-cause death or unplanned aortic stenosis–related hospitalization in patients randomized to receive early intervention vs patients randomized to receive guideline-directed conservative management: 18% vs 23%."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.2",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：允许来源未说明 EVOLVED 分配序列在入组和分组前的隐藏机制；EASY-AS 共入组者沿用另一试验分配也未补足该信息。 B：允许来源未说明 allocation concealment 或随机分配系统在 enrollment 前后的隐藏机制。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "evolved-supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "5128fbd626b18d775f90f64e8cd0a3ec2580bceaab83d077cbbf48fce7a27cc8"
+                },
+                {
+                  "document_key": "evolved.registry.ctgov",
+                  "source_sha256": "14cb5c13321b0c90bbabca09ffe9170ce6970be16a01c51ed0679222b99390bb",
+                  "representation_sha256": "5053586b8719fa8368bb3ef0656ef75734d2c09643437d767bfcd1b8fbc97f00"
+                },
+                {
+                  "document_key": "evolved.supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "c727ff3282fd935e7b7916083b221e19975dfad88712a0e350f0fafe788b6166"
+                }
+              ]
+            },
+            {
+              "question_id": "1.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：允许来源没有实际的随机组基线特征比较。 B：允许来源没有完整的按随机组 baseline characteristics，无法判断基线差异是否提示随机化问题。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "evolved-supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "5128fbd626b18d775f90f64e8cd0a3ec2580bceaab83d077cbbf48fce7a27cc8"
+                },
+                {
+                  "document_key": "evolved.registry.ctgov",
+                  "source_sha256": "14cb5c13321b0c90bbabca09ffe9170ce6970be16a01c51ed0679222b99390bb",
+                  "representation_sha256": "5053586b8719fa8368bb3ef0656ef75734d2c09643437d767bfcd1b8fbc97f00"
+                },
+                {
+                  "document_key": "evolved.supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "c727ff3282fd935e7b7916083b221e19975dfad88712a0e350f0fafe788b6166"
+                }
+              ]
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        },
+        {
+          "domain": "D2",
+          "questions": [
+            {
+              "question_id": "2.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "registry 明确 Group A unblinded，早期 intervention 与 routine care 的差异也使参与者知晓分配。",
+              "anchors": [
+                {
+                  "document_key": "evolved.registry.ctgov",
+                  "source_sha256": "14cb5c13321b0c90bbabca09ffe9170ce6970be16a01c51ed0679222b99390bb",
+                  "representation_sha256": "5053586b8719fa8368bb3ef0656ef75734d2c09643437d767bfcd1b8fbc97f00",
+                  "start_offset": 4979,
+                  "end_offset": 5004,
+                  "exact_text": "Group A will be unblinded"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "负责选择和实施瓣膜干预的临床团队会知道早期干预分配。",
+              "anchors": [
+                {
+                  "document_key": "evolved.registry.ctgov",
+                  "source_sha256": "14cb5c13321b0c90bbabca09ffe9170ce6970be16a01c51ed0679222b99390bb",
+                  "representation_sha256": "5053586b8719fa8368bb3ef0656ef75734d2c09643437d767bfcd1b8fbc97f00",
+                  "start_offset": 7384,
+                  "end_offset": 7528,
+                  "exact_text": "The choice of either surgical aortic valve replacement or transcatheter aortic valve implantation (TAVI) will be made by the local clinical team"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：supplement 报告早期组 7 人未接受干预，但没有给出原因，不能判定是否由试验情境引起。 B：Supplement 报告 intervention receipt，但未说明未接受 intervention 是否由 trial context 引起，不能把依从性差异直接判作该类 deviation。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "evolved-supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "5128fbd626b18d775f90f64e8cd0a3ec2580bceaab83d077cbbf48fce7a27cc8"
+                },
+                {
+                  "document_key": "evolved.registry.ctgov",
+                  "source_sha256": "14cb5c13321b0c90bbabca09ffe9170ce6970be16a01c51ed0679222b99390bb",
+                  "representation_sha256": "5053586b8719fa8368bb3ef0656ef75734d2c09643437d767bfcd1b8fbc97f00"
+                },
+                {
+                  "document_key": "evolved.supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "c727ff3282fd935e7b7916083b221e19975dfad88712a0e350f0fafe788b6166"
+                }
+              ]
+            },
+            {
+              "question_id": "2.4",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：由于未能识别试验情境偏离，无法判断其是否影响全因死亡。 B：未确认实际 trial-context deviation，无法判断其是否影响全因死亡。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "evolved-supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "5128fbd626b18d775f90f64e8cd0a3ec2580bceaab83d077cbbf48fce7a27cc8"
+                },
+                {
+                  "document_key": "evolved.registry.ctgov",
+                  "source_sha256": "14cb5c13321b0c90bbabca09ffe9170ce6970be16a01c51ed0679222b99390bb",
+                  "representation_sha256": "5053586b8719fa8368bb3ef0656ef75734d2c09643437d767bfcd1b8fbc97f00"
+                },
+                {
+                  "document_key": "evolved.supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "c727ff3282fd935e7b7916083b221e19975dfad88712a0e350f0fafe788b6166"
+                }
+              ]
+            },
+            {
+              "question_id": "2.5",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：没有按原因比较两组 trial-context deviations 的资料。 B：没有可归类为 trial-context deviation 的分组数据，无法评估平衡性。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "evolved-supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "5128fbd626b18d775f90f64e8cd0a3ec2580bceaab83d077cbbf48fce7a27cc8"
+                },
+                {
+                  "document_key": "evolved.registry.ctgov",
+                  "source_sha256": "14cb5c13321b0c90bbabca09ffe9170ce6970be16a01c51ed0679222b99390bb",
+                  "representation_sha256": "5053586b8719fa8368bb3ef0656ef75734d2c09643437d767bfcd1b8fbc97f00"
+                },
+                {
+                  "document_key": "evolved.supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "c727ff3282fd935e7b7916083b221e19975dfad88712a0e350f0fafe788b6166"
+                }
+              ]
+            },
+            {
+              "question_id": "2.6",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：分析明确排除了两名已随机者，因此不是完整的 effect-of-assignment ITT；虽各组仅一名，仍取 PROBABLY_NO。 B：分析采用 modified ITT，并在随机后排除两名参与者，因此并非严格按全部随机对象估计 assignment effect。",
+              "anchors": [
+                {
+                  "document_key": "evolved-supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "5128fbd626b18d775f90f64e8cd0a3ec2580bceaab83d077cbbf48fce7a27cc8",
+                  "start_offset": 26438,
+                  "end_offset": 26474,
+                  "exact_text": "modified intention-to-treat analysis"
+                },
+                {
+                  "document_key": "evolved.supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "c727ff3282fd935e7b7916083b221e19975dfad88712a0e350f0fafe788b6166",
+                  "start_offset": 14239,
+                  "end_offset": 14368,
+                  "exact_text": "One participant who was randomized to early aortic valve intervention was excluded from the modified intention-to-treat analysis."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.7",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：仅两名随机者被排除，且一名来自每组；相对 224 名分析者，不太可能对死亡结果产生 substantial impact。 B：仅两名随机参与者因随机前已不合格或测试站误操作被排除，其中一人未完成任何 follow-up；数量极少且原因与死亡结果无关，不足以产生实质影响。",
+              "anchors": [
+                {
+                  "document_key": "evolved-supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "5128fbd626b18d775f90f64e8cd0a3ec2580bceaab83d077cbbf48fce7a27cc8",
+                  "start_offset": 25566,
+                  "end_offset": 25648,
+                  "exact_text": "One participant who was randomized to early aortic valve intervention was excluded"
+                },
+                {
+                  "document_key": "evolved-supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "5128fbd626b18d775f90f64e8cd0a3ec2580bceaab83d077cbbf48fce7a27cc8",
+                  "start_offset": 25872,
+                  "end_offset": 25949,
+                  "exact_text": "A second participant randomized to guideline-directed conservative management"
+                },
+                {
+                  "document_key": "evolved.supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "c727ff3282fd935e7b7916083b221e19975dfad88712a0e350f0fafe788b6166",
+                  "start_offset": 14239,
+                  "end_offset": 14368,
+                  "exact_text": "One participant who was randomized to early aortic valve intervention was excluded from the modified intention-to-treat analysis."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        },
+        {
+          "domain": "D3",
+          "questions": [
+            {
+              "question_id": "3.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：死亡表覆盖 113 与 111 名分析者；supplement 只说明两名随机者被排除，故数据对几乎全部随机患者可用。 B：目标结果覆盖 224 名参与者；来源只记录两名随机后因明确 eligibility/randomization error 排除，故数据可用于几乎全部随机参与者。",
+              "anchors": [
+                {
+                  "document_key": "evolved-supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "5128fbd626b18d775f90f64e8cd0a3ec2580bceaab83d077cbbf48fce7a27cc8",
+                  "start_offset": 38091,
+                  "end_offset": 38136,
+                  "exact_text": "( n = 11 3 )                          (n=111)"
+                },
+                {
+                  "document_key": "evolved-supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "5128fbd626b18d775f90f64e8cd0a3ec2580bceaab83d077cbbf48fce7a27cc8",
+                  "start_offset": 43054,
+                  "end_offset": 43090,
+                  "exact_text": "Total number of deaths during follow"
+                },
+                {
+                  "document_key": "evolved.supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "c727ff3282fd935e7b7916083b221e19975dfad88712a0e350f0fafe788b6166",
+                  "start_offset": 14239,
+                  "end_offset": 14368,
+                  "exact_text": "One participant who was randomized to early aortic valve intervention was excluded from the modified intention-to-treat analysis."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：仅两名随机者被排除且各组一名，死亡结果仍覆盖几乎全部随机者，支持结果未被缺失数据偏倚。 B：仅两项缺失均有与 outcome 无关的明确随机/eligibility 原因，且占比不足 1%，支持结果未受 missing outcome data 偏倚。",
+              "anchors": [
+                {
+                  "document_key": "evolved-supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "5128fbd626b18d775f90f64e8cd0a3ec2580bceaab83d077cbbf48fce7a27cc8",
+                  "start_offset": 25566,
+                  "end_offset": 25648,
+                  "exact_text": "One participant who was randomized to early aortic valve intervention was excluded"
+                },
+                {
+                  "document_key": "evolved-supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "5128fbd626b18d775f90f64e8cd0a3ec2580bceaab83d077cbbf48fce7a27cc8",
+                  "start_offset": 25872,
+                  "end_offset": 25949,
+                  "exact_text": "A second participant randomized to guideline-directed conservative management"
+                },
+                {
+                  "document_key": "evolved.supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "c727ff3282fd935e7b7916083b221e19975dfad88712a0e350f0fafe788b6166",
+                  "start_offset": 14239,
+                  "end_offset": 14368,
+                  "exact_text": "One participant who was randomized to early aortic valve intervention was excluded from the modified intention-to-treat analysis."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.3",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "排除源于既往转诊手术和测试站点随机错误，而不是参与者真实死亡状态。",
+              "anchors": [
+                {
+                  "document_key": "evolved.supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "c727ff3282fd935e7b7916083b221e19975dfad88712a0e350f0fafe788b6166",
+                  "start_offset": 14545,
+                  "end_offset": 14714,
+                  "exact_text": "A second participant randomized to guideline-directed conservative management was initially randomized in error on the test site rather than the live randomization site."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.4",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "无随访者的记录原因是 eligibility/randomization error，没有迹象表明缺失实际依赖死亡值。",
+              "anchors": [
+                {
+                  "document_key": "evolved.supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "c727ff3282fd935e7b7916083b221e19975dfad88712a0e350f0fafe788b6166",
+                  "start_offset": 15006,
+                  "end_offset": 15044,
+                  "exact_text": "without any follow-up being completed."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D4",
+          "questions": [
+            {
+              "question_id": "4.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：全因死亡为客观结局，supplement 直接列出两组总死亡数及死因。 B：主报告摘要直接报告两组 all-cause death；死亡是适当且客观的 outcome measure。",
+              "anchors": [
+                {
+                  "document_key": "evolved-supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "5128fbd626b18d775f90f64e8cd0a3ec2580bceaab83d077cbbf48fce7a27cc8",
+                  "start_offset": 43054,
+                  "end_offset": 43090,
+                  "exact_text": "Total number of deaths during follow"
+                },
+                {
+                  "document_key": "evolved.abstract_results",
+                  "source_sha256": "837f08b933afdd56774f83c4b6975d98617b61d8a5e1a6ac17a293ffb956047f",
+                  "representation_sha256": "19b626dbc15773db743a82b261090de2ccd78c89f88cdbbfc6da1e12385e62fe",
+                  "start_offset": 7282,
+                  "end_offset": 7625,
+                  "exact_text": "All-cause death occurred in 16 of 113 patients (14%) in the early intervention group and 14 of 111 (13%) in the guideline-directed group (hazard ratio, 1.22 [95% CI, 0.59-2.51]) and unplanned aortic stenosis hospitalization occurred in 7 of 113 patients (6%) and 19 of 111 patients (17%), respectively (hazard ratio, 0.37 [95% CI, 0.16-0.88])."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：同一 death table 同时报告两组，没有按组使用不同死亡测量方法的迹象。 B：同一全因死亡定义适用于两组，没有证据显示组间 ascertainment 不同。",
+              "anchors": [
+                {
+                  "document_key": "evolved-supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "5128fbd626b18d775f90f64e8cd0a3ec2580bceaab83d077cbbf48fce7a27cc8",
+                  "start_offset": 43211,
+                  "end_offset": 43281,
+                  "exact_text": "16 (14)                                                        14 (13)"
+                },
+                {
+                  "document_key": "evolved.abstract_results",
+                  "source_sha256": "837f08b933afdd56774f83c4b6975d98617b61d8a5e1a6ac17a293ffb956047f",
+                  "representation_sha256": "19b626dbc15773db743a82b261090de2ccd78c89f88cdbbfc6da1e12385e62fe",
+                  "start_offset": 7282,
+                  "end_offset": 7625,
+                  "exact_text": "All-cause death occurred in 16 of 113 patients (14%) in the early intervention group and 14 of 111 (13%) in the guideline-directed group (hazard ratio, 1.22 [95% CI, 0.59-2.51]) and unplanned aortic stenosis hospitalization occurred in 7 of 113 patients (6%) and 19 of 111 patients (17%), respectively (hazard ratio, 0.37 [95% CI, 0.16-0.88])."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.3",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：registry 明确说明需 adjudication 的组别中 outcome assessors 对 allocation 盲法。 B：Registry 说明需要 adjudication 的 A/B/C groups outcome assessors 对 allocation 盲法。",
+              "anchors": [
+                {
+                  "document_key": "evolved.registry.ctgov",
+                  "source_sha256": "14cb5c13321b0c90bbabca09ffe9170ce6970be16a01c51ed0679222b99390bb",
+                  "representation_sha256": "5053586b8719fa8368bb3ef0656ef75734d2c09643437d767bfcd1b8fbc97f00",
+                  "start_offset": 5299,
+                  "end_offset": 5389,
+                  "exact_text": "Outcome assessors will be blinded to allocation in all groups where outcome is adjudicated"
+                },
+                {
+                  "document_key": "evolved.registry.ctgov",
+                  "source_sha256": "14cb5c13321b0c90bbabca09ffe9170ce6970be16a01c51ed0679222b99390bb",
+                  "representation_sha256": "5053586b8719fa8368bb3ef0656ef75734d2c09643437d767bfcd1b8fbc97f00",
+                  "start_offset": 5299,
+                  "end_offset": 5409,
+                  "exact_text": "Outcome assessors will be blinded to allocation in all groups where outcome is adjudicated (groups A, B and C)"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.4",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：无论是否需要 adjudication，死亡状态这一客观结果不能合理地被分组知识改变。 B：全因死亡客观，且需 adjudication 的 assessor 被盲化，assessment 不太可能受 intervention knowledge 影响。",
+              "anchors": [
+                {
+                  "document_key": "evolved.registry.ctgov",
+                  "source_sha256": "14cb5c13321b0c90bbabca09ffe9170ce6970be16a01c51ed0679222b99390bb",
+                  "representation_sha256": "5053586b8719fa8368bb3ef0656ef75734d2c09643437d767bfcd1b8fbc97f00",
+                  "start_offset": 9116,
+                  "end_offset": 9135,
+                  "exact_text": "All-cause mortality"
+                },
+                {
+                  "document_key": "evolved.registry.ctgov",
+                  "source_sha256": "14cb5c13321b0c90bbabca09ffe9170ce6970be16a01c51ed0679222b99390bb",
+                  "representation_sha256": "5053586b8719fa8368bb3ef0656ef75734d2c09643437d767bfcd1b8fbc97f00",
+                  "start_offset": 5299,
+                  "end_offset": 5409,
+                  "exact_text": "Outcome assessors will be blinded to allocation in all groups where outcome is adjudicated (groups A, B and C)"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.5",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：评估者盲法加上结局客观性，使分组知识很可能影响全因死亡判断的可能性很低。 B：来源未显示客观死亡结局的评定实际受到分组知识影响。",
+              "anchors": [
+                {
+                  "document_key": "evolved.registry.ctgov",
+                  "source_sha256": "14cb5c13321b0c90bbabca09ffe9170ce6970be16a01c51ed0679222b99390bb",
+                  "representation_sha256": "5053586b8719fa8368bb3ef0656ef75734d2c09643437d767bfcd1b8fbc97f00",
+                  "start_offset": 5299,
+                  "end_offset": 5346,
+                  "exact_text": "Outcome assessors will be blinded to allocation"
+                },
+                {
+                  "document_key": "evolved.abstract_results",
+                  "source_sha256": "837f08b933afdd56774f83c4b6975d98617b61d8a5e1a6ac17a293ffb956047f",
+                  "representation_sha256": "19b626dbc15773db743a82b261090de2ccd78c89f88cdbbfc6da1e12385e62fe",
+                  "start_offset": 7282,
+                  "end_offset": 7625,
+                  "exact_text": "All-cause death occurred in 16 of 113 patients (14%) in the early intervention group and 14 of 111 (13%) in the guideline-directed group (hazard ratio, 1.22 [95% CI, 0.59-2.51]) and unplanned aortic stenosis hospitalization occurred in 7 of 113 patients (6%) and 19 of 111 patients (17%), respectively (hazard ratio, 0.37 [95% CI, 0.16-0.88])."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D5",
+          "questions": [
+            {
+              "question_id": "5.1",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：registry 当前快照和 supplement 没有提供可证明在未盲结局数据可用前定稿的、针对所选全因死亡数值的完整分析计划。 B：Registry 预列 outcome，但允许来源没有足以核对已报告数值所用 analysis plan 的 protocol/SAP，也没有 main result report。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "evolved-supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "5128fbd626b18d775f90f64e8cd0a3ec2580bceaab83d077cbbf48fce7a27cc8"
+                },
+                {
+                  "document_key": "evolved.registry.ctgov",
+                  "source_sha256": "14cb5c13321b0c90bbabca09ffe9170ce6970be16a01c51ed0679222b99390bb",
+                  "representation_sha256": "5053586b8719fa8368bb3ef0656ef75734d2c09643437d767bfcd1b8fbc97f00"
+                },
+                {
+                  "document_key": "evolved.supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "c727ff3282fd935e7b7916083b221e19975dfad88712a0e350f0fafe788b6166"
+                }
+              ]
+            },
+            {
+              "question_id": "5.2",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：registry 明确预列全因死亡及从随机化到研究完成的时间范围，supplement 完整列出总死亡，未见按结果选择某一死亡定义。 B：主报告将 all-cause death 预先列为 composite component/secondary outcome，target selection 又由 review 的 longest-follow-up 规则确定，未见结果驱动选择。",
+              "anchors": [
+                {
+                  "document_key": "evolved.registry.ctgov",
+                  "source_sha256": "14cb5c13321b0c90bbabca09ffe9170ce6970be16a01c51ed0679222b99390bb",
+                  "representation_sha256": "5053586b8719fa8368bb3ef0656ef75734d2c09643437d767bfcd1b8fbc97f00",
+                  "start_offset": 9116,
+                  "end_offset": 9135,
+                  "exact_text": "All-cause mortality"
+                },
+                {
+                  "document_key": "evolved.registry.ctgov",
+                  "source_sha256": "14cb5c13321b0c90bbabca09ffe9170ce6970be16a01c51ed0679222b99390bb",
+                  "representation_sha256": "5053586b8719fa8368bb3ef0656ef75734d2c09643437d767bfcd1b8fbc97f00",
+                  "start_offset": 9162,
+                  "end_offset": 9229,
+                  "exact_text": "Randomisation through to study completion, an average of 2.75 years"
+                },
+                {
+                  "document_key": "evolved.abstract_results",
+                  "source_sha256": "837f08b933afdd56774f83c4b6975d98617b61d8a5e1a6ac17a293ffb956047f",
+                  "representation_sha256": "19b626dbc15773db743a82b261090de2ccd78c89f88cdbbfc6da1e12385e62fe",
+                  "start_offset": 6432,
+                  "end_offset": 6707,
+                  "exact_text": "The primary outcome was a composite of all-cause death or unplanned aortic stenosis–related hospitalization in a time-to-first-event intention-to-treat analysis. There were 9 secondary outcomes, including the components of the primary outcome and symptom status at 12 months."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：允许来源没有所选全因死亡结果的预先分析方法，且实际采用 modified ITT，不能排除多个合格分析中的选择。 B：允许来源未提供该死亡数值的完整 prespecified analysis options 与实际 main-report analysis，无法排除多个 eligible analyses 中的选择。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "evolved-supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "5128fbd626b18d775f90f64e8cd0a3ec2580bceaab83d077cbbf48fce7a27cc8"
+                },
+                {
+                  "document_key": "evolved.registry.ctgov",
+                  "source_sha256": "14cb5c13321b0c90bbabca09ffe9170ce6970be16a01c51ed0679222b99390bb",
+                  "representation_sha256": "5053586b8719fa8368bb3ef0656ef75734d2c09643437d767bfcd1b8fbc97f00"
+                },
+                {
+                  "document_key": "evolved.supplement",
+                  "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+                  "representation_sha256": "c727ff3282fd935e7b7916083b221e19975dfad88712a0e350f0fafe788b6166"
+                }
+              ]
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        }
+      ],
+      "overall_judgment": "SOME_CONCERNS"
+    },
+    {
+      "study_key": "recovery",
+      "target_id": "result.all_cause_mortality.longest_followup",
+      "domains": [
+        {
+          "domain": "D1",
+          "questions": [
+            {
+              "question_id": "1.1",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：注册记录明确把试验描述为随机比较，但未报告序列生成的具体随机方法，因此取 PROBABLY_YES。 B：主报告明确说明 computer-generated、按中心分层且使用 variable permuted blocks 的随机分配序列。",
+              "anchors": [
+                {
+                  "document_key": "recovery.registry.ctgov",
+                  "source_sha256": "d27049248c95facd8eafaabd8cc7898f4bd131fa976f469ce2abcc46d7813520",
+                  "representation_sha256": "67c9b6caee55e434246d2f2a4c88f6775eac72a398949c77f848f0d8c0aa1825",
+                  "start_offset": 369,
+                  "end_offset": 468,
+                  "exact_text": "Randomized Comparison of Early Surgery Versus Conventional Treatment in Very Severe Aortic Stenosis"
+                },
+                {
+                  "document_key": "recovery.fulltext",
+                  "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6",
+                  "representation_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c",
+                  "start_offset": 7204,
+                  "end_offset": 7382,
+                  "exact_text": "The assignment to each treatment group was computer-generated and stratified according to the participating center by means of a permuted-block sequence with variable block size."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.2",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：允许来源未报告分配序列在入组和分组前如何隐藏。 B：唯一允许的 RECOVERY 来源是 registry，未说明 allocation concealment。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "recovery.registry.ctgov",
+                  "source_sha256": "d27049248c95facd8eafaabd8cc7898f4bd131fa976f469ce2abcc46d7813520",
+                  "representation_sha256": "67c9b6caee55e434246d2f2a4c88f6775eac72a398949c77f848f0d8c0aa1825"
+                }
+              ]
+            },
+            {
+              "question_id": "1.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：允许来源闭包中没有 RECOVERY 基线组间表或基线失衡叙述。 B：Registry 不含按随机组 baseline characteristics，无法判断基线差异。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "recovery.registry.ctgov",
+                  "source_sha256": "d27049248c95facd8eafaabd8cc7898f4bd131fa976f469ce2abcc46d7813520",
+                  "representation_sha256": "67c9b6caee55e434246d2f2a4c88f6775eac72a398949c77f848f0d8c0aa1825"
+                }
+              ]
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        },
+        {
+          "domain": "D2",
+          "questions": [
+            {
+              "question_id": "2.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：注册记录把 masking 记为 NONE，且比较手术与常规治疗，参与者会知道实际接受的策略。 B：主报告明确将试验描述为 open-label，且早期手术与常规治疗差异明显，参与者知晓分配。",
+              "anchors": [
+                {
+                  "document_key": "recovery.registry.ctgov",
+                  "source_sha256": "d27049248c95facd8eafaabd8cc7898f4bd131fa976f469ce2abcc46d7813520",
+                  "representation_sha256": "67c9b6caee55e434246d2f2a4c88f6775eac72a398949c77f848f0d8c0aa1825",
+                  "start_offset": 4463,
+                  "end_offset": 4467,
+                  "exact_text": "NONE"
+                },
+                {
+                  "document_key": "recovery.fulltext",
+                  "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6",
+                  "representation_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c",
+                  "start_offset": 4184,
+                  "end_offset": 4424,
+                  "exact_text": "We conducted this multicenter, randomized, parallel-group, open-label trial involving asymptomatic patients with very severe aortic stenosis who were candidates for either early surgery or conservative care at four medical centers in Korea."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：注册记录明确无掩盲，实施手术或常规治疗的人员会知道分组。 B：试验为 open-label；实施手术或常规治疗的人员知晓分配。",
+              "anchors": [
+                {
+                  "document_key": "recovery.registry.ctgov",
+                  "source_sha256": "d27049248c95facd8eafaabd8cc7898f4bd131fa976f469ce2abcc46d7813520",
+                  "representation_sha256": "67c9b6caee55e434246d2f2a4c88f6775eac72a398949c77f848f0d8c0aa1825",
+                  "start_offset": 4344,
+                  "end_offset": 4374,
+                  "exact_text": "early aortic valve replacement"
+                },
+                {
+                  "document_key": "recovery.fulltext",
+                  "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6",
+                  "representation_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c",
+                  "start_offset": 4184,
+                  "end_offset": 4424,
+                  "exact_text": "We conducted this multicenter, randomized, parallel-group, open-label trial involving asymptomatic patients with very severe aortic stenosis who were candidates for either early surgery or conservative care at four medical centers in Korea."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：允许来源未提供实际的、由试验情境引起的干预偏离记录。 B：Registry 描述 conventional group 的 protocol-allowed surgery indications，但没有实际 deviation 数据。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "recovery.registry.ctgov",
+                  "source_sha256": "d27049248c95facd8eafaabd8cc7898f4bd131fa976f469ce2abcc46d7813520",
+                  "representation_sha256": "67c9b6caee55e434246d2f2a4c88f6775eac72a398949c77f848f0d8c0aa1825"
+                }
+              ]
+            },
+            {
+              "question_id": "2.4",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：未识别出可评价其对全因死亡影响的试验情境偏离。 B：没有已识别的实际 trial-context deviation，无法判断其对全因死亡的影响。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "recovery.registry.ctgov",
+                  "source_sha256": "d27049248c95facd8eafaabd8cc7898f4bd131fa976f469ce2abcc46d7813520",
+                  "representation_sha256": "67c9b6caee55e434246d2f2a4c88f6775eac72a398949c77f848f0d8c0aa1825"
+                }
+              ]
+            },
+            {
+              "question_id": "2.5",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：允许来源没有按随机组比较试验情境偏离。 B：没有实际 deviation 的分组数据，无法判断平衡性。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "recovery.registry.ctgov",
+                  "source_sha256": "d27049248c95facd8eafaabd8cc7898f4bd131fa976f469ce2abcc46d7813520",
+                  "representation_sha256": "67c9b6caee55e434246d2f2a4c88f6775eac72a398949c77f848f0d8c0aa1825"
+                }
+              ]
+            },
+            {
+              "question_id": "2.6",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：target plan 中结果报告的来源锚点明确说明按 intention-to-treat 分析。 B：目标计划绑定的 result-report Source Span 明确说明 analyses 使用 intention-to-treat basis。",
+              "anchors": [
+                {
+                  "document_key": "recovery.fulltext",
+                  "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6",
+                  "representation_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c",
+                  "start_offset": 9208,
+                  "end_offset": 9263,
+                  "exact_text": "Analyses were performed on an intention-to-treat basis."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.7",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告所述 ITT 分析没有显示未按随机组分析而可能实质影响结果。 B：ITT analysis 没有显示未按随机组分析会对结果产生实质影响。",
+              "anchors": [
+                {
+                  "document_key": "recovery.fulltext",
+                  "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6",
+                  "representation_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c",
+                  "start_offset": 9208,
+                  "end_offset": 9263,
+                  "exact_text": "Analyses were performed on an intention-to-treat basis."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        },
+        {
+          "domain": "D3",
+          "questions": [
+            {
+              "question_id": "3.1",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "允许来源中的主报告明确说明没有患者失访，死亡结局覆盖全部随机参与者。",
+              "anchors": [
+                {
+                  "document_key": "recovery.fulltext",
+                  "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6",
+                  "representation_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c",
+                  "start_offset": 16866,
+                  "end_offset": 16901,
+                  "exact_text": "No patients were lost to follow-up."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.2",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "主报告明确无失访并采用 ITT，支持结果未受 missing outcome data 偏倚。",
+              "anchors": [
+                {
+                  "document_key": "recovery.fulltext",
+                  "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6",
+                  "representation_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c",
+                  "start_offset": 16866,
+                  "end_offset": 16901,
+                  "exact_text": "No patients were lost to follow-up."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "没有患者失访，不存在依赖真实死亡状态的 missingness。",
+              "anchors": [
+                {
+                  "document_key": "recovery.fulltext",
+                  "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6",
+                  "representation_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c",
+                  "start_offset": 16866,
+                  "end_offset": 16901,
+                  "exact_text": "No patients were lost to follow-up."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.4",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "没有 outcome missingness，因此不可能出现很可能依赖真实死亡值的缺失。",
+              "anchors": [
+                {
+                  "document_key": "recovery.fulltext",
+                  "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6",
+                  "representation_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c",
+                  "start_offset": 16866,
+                  "end_offset": 16901,
+                  "exact_text": "No patients were lost to follow-up."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D4",
+          "questions": [
+            {
+              "question_id": "4.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：全因死亡是明确且客观的结局，不属于不适当的测量方法。 B：主报告直接报告两组全因死亡人数；死亡是适当且客观的 outcome measure。",
+              "anchors": [
+                {
+                  "document_key": "recovery.registry.ctgov",
+                  "source_sha256": "d27049248c95facd8eafaabd8cc7898f4bd131fa976f469ce2abcc46d7813520",
+                  "representation_sha256": "67c9b6caee55e434246d2f2a4c88f6775eac72a398949c77f848f0d8c0aa1825",
+                  "start_offset": 6329,
+                  "end_offset": 6344,
+                  "exact_text": "All-cause death"
+                },
+                {
+                  "document_key": "recovery.fulltext",
+                  "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6",
+                  "representation_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c",
+                  "start_offset": 19272,
+                  "end_offset": 19482,
+                  "exact_text": "A total of 5 deaths from any cause (7% of the patients) occurred in the early-surgery group and 15 deaths from any cause (21%) occurred in the conservative-care group (hazard ratio, 0.33; 95% CI, 0.12 to 0.90)."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：两组目标均为任何原因死亡，没有证据显示死亡状态的确定方法按组不同。 B：同一全因死亡定义适用于两组，没有证据显示组间采用不同 ascertainment。",
+              "anchors": [
+                {
+                  "document_key": "recovery.registry.ctgov",
+                  "source_sha256": "d27049248c95facd8eafaabd8cc7898f4bd131fa976f469ce2abcc46d7813520",
+                  "representation_sha256": "67c9b6caee55e434246d2f2a4c88f6775eac72a398949c77f848f0d8c0aa1825",
+                  "start_offset": 6329,
+                  "end_offset": 6344,
+                  "exact_text": "All-cause death"
+                },
+                {
+                  "document_key": "recovery.fulltext",
+                  "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6",
+                  "representation_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c",
+                  "start_offset": 19272,
+                  "end_offset": 19482,
+                  "exact_text": "A total of 5 deaths from any cause (7% of the patients) occurred in the early-surgery group and 15 deaths from any cause (21%) occurred in the conservative-care group (hazard ratio, 0.33; 95% CI, 0.12 to 0.90)."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "试验明确未盲，临床人员知晓 treatment；事件记录与复核没有提供独立盲法闭包。",
+              "anchors": [
+                {
+                  "document_key": "recovery.fulltext",
+                  "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6",
+                  "representation_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c",
+                  "start_offset": 23964,
+                  "end_offset": 24121,
+                  "exact_text": "Third, since this trial was not blinded, the nonfatal outcomes could have been influenced by the clinician’s knowledge of the treatment the patient received."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.4",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：即使知晓分组，客观的全因死亡状态本身不能合理地被这种知识改变。 B：死亡发生是客观事实，即使 assessor 知晓分组，通常不能被该知识改变。",
+              "anchors": [
+                {
+                  "document_key": "recovery.registry.ctgov",
+                  "source_sha256": "d27049248c95facd8eafaabd8cc7898f4bd131fa976f469ce2abcc46d7813520",
+                  "representation_sha256": "67c9b6caee55e434246d2f2a4c88f6775eac72a398949c77f848f0d8c0aa1825",
+                  "start_offset": 6329,
+                  "end_offset": 6344,
+                  "exact_text": "All-cause death"
+                },
+                {
+                  "document_key": "recovery.fulltext",
+                  "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6",
+                  "representation_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c",
+                  "start_offset": 19272,
+                  "end_offset": 19482,
+                  "exact_text": "A total of 5 deaths from any cause (7% of the patients) occurred in the early-surgery group and 15 deaths from any cause (21%) occurred in the conservative-care group (hazard ratio, 0.33; 95% CI, 0.12 to 0.90)."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.5",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：没有合理机制使分组知识影响是否死亡这一客观判断。 B：没有证据表明客观死亡 outcome 的 assessment 实际受到分组知识影响。",
+              "anchors": [
+                {
+                  "document_key": "recovery.registry.ctgov",
+                  "source_sha256": "d27049248c95facd8eafaabd8cc7898f4bd131fa976f469ce2abcc46d7813520",
+                  "representation_sha256": "67c9b6caee55e434246d2f2a4c88f6775eac72a398949c77f848f0d8c0aa1825",
+                  "start_offset": 6329,
+                  "end_offset": 6344,
+                  "exact_text": "All-cause death"
+                },
+                {
+                  "document_key": "recovery.fulltext",
+                  "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6",
+                  "representation_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c",
+                  "start_offset": 19272,
+                  "end_offset": 19482,
+                  "exact_text": "A total of 5 deaths from any cause (7% of the patients) occurred in the early-surgery group and 15 deaths from any cause (21%) occurred in the conservative-care group (hazard ratio, 0.33; 95% CI, 0.12 to 0.90)."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D5",
+          "questions": [
+            {
+              "question_id": "5.1",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：当前 registry 快照不能证明所选全因死亡数值的分析计划在未盲结局数据可用前已定稿，且没有 SAP。 B：允许来源只有当前 registry，没有 protocol/SAP 或 result report 可核对该数值是否按未盲结果前 finalized 的分析计划产生。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "recovery.registry.ctgov",
+                  "source_sha256": "d27049248c95facd8eafaabd8cc7898f4bd131fa976f469ce2abcc46d7813520",
+                  "representation_sha256": "67c9b6caee55e434246d2f2a4c88f6775eac72a398949c77f848f0d8c0aa1825"
+                }
+              ]
+            },
+            {
+              "question_id": "5.2",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：registry 明确列出全因死亡并指定整个随访期，目标又按最长随访确定，未见按结果方向挑选死亡测量的迹象。 B：主报告明确把 death from any cause 列为 prespecified secondary endpoint；target 又按 longest-follow-up 规则选择，未见结果驱动 measurement selection。",
+              "anchors": [
+                {
+                  "document_key": "recovery.registry.ctgov",
+                  "source_sha256": "d27049248c95facd8eafaabd8cc7898f4bd131fa976f469ce2abcc46d7813520",
+                  "representation_sha256": "67c9b6caee55e434246d2f2a4c88f6775eac72a398949c77f848f0d8c0aa1825",
+                  "start_offset": 6329,
+                  "end_offset": 6344,
+                  "exact_text": "All-cause death"
+                },
+                {
+                  "document_key": "recovery.registry.ctgov",
+                  "source_sha256": "d27049248c95facd8eafaabd8cc7898f4bd131fa976f469ce2abcc46d7813520",
+                  "representation_sha256": "67c9b6caee55e434246d2f2a4c88f6775eac72a398949c77f848f0d8c0aa1825",
+                  "start_offset": 6317,
+                  "end_offset": 6412,
+                  "exact_text": "\"measure\": \"All-cause death\",\n          \"timeFrame\": \"Entire follow-up (a minimum of 10 years)\""
+                },
+                {
+                  "document_key": "recovery.fulltext",
+                  "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6",
+                  "representation_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c",
+                  "start_offset": 8224,
+                  "end_offset": 8405,
+                  "exact_text": "Prespecified secondary end points included death from any cause, repeat aortic-valve surgery, clinical thromboembolic events, and hospitalization for heart failure during follow-up."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：除 ITT 声明外没有足够的预先指定分析细节，不能排除从多个合格分析中选择数值。 B：Registry 未提供该死亡数值的完整分析方法或可选 analyses，无法判断是否存在结果驱动的 analysis selection。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "recovery.registry.ctgov",
+                  "source_sha256": "d27049248c95facd8eafaabd8cc7898f4bd131fa976f469ce2abcc46d7813520",
+                  "representation_sha256": "67c9b6caee55e434246d2f2a4c88f6775eac72a398949c77f848f0d8c0aa1825"
+                }
+              ]
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        }
+      ],
+      "overall_judgment": "SOME_CONCERNS"
+    }
+  ]
+}

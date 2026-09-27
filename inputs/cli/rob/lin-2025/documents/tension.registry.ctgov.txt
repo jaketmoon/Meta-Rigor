@@ -1,0 +1,922 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03094715",
+      "orgStudyIdInfo": {
+        "id": "TENSION"
+      },
+      "organization": {
+        "fullName": "University Hospital Heidelberg",
+        "class": "OTHER"
+      },
+      "briefTitle": "Efficacy and Safety of Thrombectomy in Stroke With Extended Lesion and Extended Time Window",
+      "officialTitle": "Efficacy and Safety of Thrombectomy in Stroke With Extended Lesion and Extended Time Window: a Randomized, Controlled Trial",
+      "acronym": "Tension"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2023-11",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "Publication of results of competing trials SELECT2 \\& Angel Aspect",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2018-06-20",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-05-31",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2023-11-15",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2017-03-16",
+      "studyFirstSubmitQcDate": "2017-03-22",
+      "studyFirstPostDateStruct": {
+        "date": "2017-03-29",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2023-11-28",
+      "lastUpdatePostDateStruct": {
+        "date": "2023-12-05",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Martin Bendszus",
+        "investigatorTitle": "Central trial management, Coordinating investigator",
+        "investigatorAffiliation": "University Hospital Heidelberg"
+      },
+      "leadSponsor": {
+        "name": "University Hospital Heidelberg",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Karolinska University Hospital",
+          "class": "OTHER"
+        },
+        {
+          "name": "Eppdata GmbH Hamburg, Germany",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "Aarhus University Hospital",
+          "class": "OTHER"
+        },
+        {
+          "name": "Medical University Innsbruck",
+          "class": "OTHER"
+        },
+        {
+          "name": "Groupe Hospitalier Pitie-Salpetriere",
+          "class": "OTHER"
+        },
+        {
+          "name": "Oslo University Hospital",
+          "class": "OTHER"
+        },
+        {
+          "name": "University Hospital, Martin",
+          "class": "OTHER"
+        },
+        {
+          "name": "Charles University, Czech Republic",
+          "class": "OTHER"
+        },
+        {
+          "name": "Hospices Civils de Lyon",
+          "class": "OTHER"
+        },
+        {
+          "name": "CHU de Reims",
+          "class": "OTHER"
+        },
+        {
+          "name": "Epidemiological and Clinical Research Information Network",
+          "class": "OTHER"
+        },
+        {
+          "name": "STROKE ALLIANCE FOR EUROPE",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "International Consortium for Health Outcome Measurement, Inc.",
+          "class": "OTHER"
+        },
+        {
+          "name": "Europan Society for Minimally Invasive Neurological Therapy",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "Universitätsklinikum Hamburg-Eppendorf",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": true,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "TENSION (Efficacy and safety of ThrombEctomy iN Stroke with extended leSION and extended time window) is a prospective, open label, blinded endpoint (PROBE), European two-arm, randomized, controlled, post-market study to compare the safety and effectiveness of endovascular thrombectomy as compared to best medical care alone in the treatment of acute ischemic stroke patients with extended stroke lesions defined by an Alberta Stroke Program Early CT Score (ASPECTS) score of 3-5 and in an extended time window (up to 12 hours or unknown time of symptom onset). Up to 665 subjects will be randomized. Primary endpoint will be functional outcome assessed by the modified Rankin scale at 90 days post-stroke (\"mRS shift analysis\"). By this, TENSION will provide evidence of efficacy and safety of thrombectomy in an acute stroke population with uncertain benefit of endovascular stroke treatment.",
+      "detailedDescription": "This study is a prospective, open label, blinded endpoint (PROBE),European, two-arm, randomized, controlled, post-market study to compare the safety and effectiveness of endovascular thrombectomy as compared to best medical care alone in the treatment of acute ischemic stroke (AIS) in patients with extended stroke lesions defined by an ASPECT score of 3-5 and in an extended time window (up to 12 hours, or unknown time of symptom onset). This is an adaptive design study, with prospectively stated interim analyses with specified stopping rules allowing for the possibility early termination based on either a determination of study success or futility.\n\nUp to 665 subjects will be enrolled in the study and randomized for the Intention to treat analysis set. The randomization will be stratified by time from symptom onset (0-6h and 6-11h/wake up stroke), and stroke severity (NIHSS ≤18, NIHSS \\>18).\n\nInterim data analysis is planned after the primary endpoint has been obtained for one third and two thirds of the patients. At each of these sample sizes, the available 90-day mRS data for each treatment arm will be evaluated. Safety interim analysis will be performed after one third and two thirds of the patients have been included.\n\nSubjects who meet the inclusion criteria will be randomized in a 1:1 ratio to one of the following two treatment arms:\n\nArm 1: best medical care Arm 2: endovascular thrombectomy and best medical care The primary objective of this study is to test efficacy and safety of thrombectomy in acute stroke patients with uncertain benefit of endovascular stroke treatment, i.e. extended ischemic lesion size with an ASPECT score of 3-5 or late (up to 12 hours) or unknown time window as compared to best medical care alone.\n\nApproximately 40 sites in Up to 20 sites in 8-10 European countries Patients presenting with acute ischemic stroke (AIS) based on focal occlusion in the M1 segment of the middle cerebral artery (MCA), and/or the intracranial segment of the distal internal carotid artery (ICA), determined by Magnetic Resonance Angiography (MRA) or Computed Tomographic Angiography (CTA), and who meet all eligibility criteria will be considered for study enrollment."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Stroke, Acute",
+        "Cerebral Stroke",
+        "Cerebrovascular Stroke",
+        "Apoplexy; Brain"
+      ],
+      "keywords": [
+        "Mechanical thrombectomy",
+        "Endovascular thrombectomy"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "prospective, open label, blinded endpoint (PROBE), European, two-arm, randomized, controlled, post-market study",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 253,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Thrombectomy",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Endovascular thrombectomy and best medical care",
+          "interventionNames": [
+            "Device: Thrombectomy"
+          ]
+        },
+        {
+          "label": "Best medical care",
+          "type": "OTHER",
+          "description": "Best medical treatment",
+          "interventionNames": [
+            "Other: Best medical care"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Thrombectomy",
+          "description": "Mechanical thrombectomy with state of the art thrombectomy devices (i.e. stent-retrievers, aspiration catheters). Devices will be used per instructions for use (IFU).",
+          "armGroupLabels": [
+            "Thrombectomy"
+          ],
+          "otherNames": [
+            "Mechanical thrombectomy"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Best medical care",
+          "description": "Best medical treatment will be performed as detailed in established Standard Operating Procedures, following regional guidelines (American Heart Association (AHA), European Stroke Organisation (ESO), Deutsche Schlaganfall-Gesellschaft (DSG), local country, etc.). If applicable, the reason for iv tissue plasminogen activator (tPA) ineligibility has to be documented on the eCRF.",
+          "armGroupLabels": [
+            "Best medical care"
+          ],
+          "otherNames": [
+            "Control group"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Clinical outcome-modified Rankin Scale at 90 days",
+          "description": "The primary endpoint of the trial is the modified Rankin Scale (mRS) outcome at 90 days post-stroke. The primary effectiveness endpoint analysis is a chi-square test of the difference in linear trends in ordinal mRS outcomes at 90 days post-procedure between treatment groups (\"mRS shift analysis\").",
+          "timeFrame": "90 days"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Independence - modified Rankin Scale≤2 at 90 days",
+          "description": "Independent neurological outcomes with 90-day mRS≤2",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Moderate Outcome - modified Rankin Scale≤3 at 90 days",
+          "description": "Moderate neurological outcome with 90-day mRS≤3",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Infarct volume 24 hours post procedure",
+          "description": "Infarct volume at 24 hours on post-procedure imaging",
+          "timeFrame": "18-36 hours"
+        },
+        {
+          "measure": "Infarct growth",
+          "description": "Difference of infarct volume from infarct volume as predicted by pre-treatment imaging",
+          "timeFrame": "18-36 hours"
+        },
+        {
+          "measure": "Functional neurological outcome at 12 months - modified Rankin Scale",
+          "description": "Functional neurological outcome at 12 months (±14 days) after stroke (simplified modified Rankin Scale questionnaire, smRSq)",
+          "timeFrame": "12 month"
+        },
+        {
+          "measure": "Quality of life - PROMIS-10",
+          "description": "Patient-Reported Outcomes Measurement Information System (PROMIS)-10 questionaire at 90 (±14) days. PROMIS Global-10 short form consists of 10 items that assess general domains of health and functioning including overall physical health, mental health, social health, pain, fatigue, and overall perceived quality of life.",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Quality of life - EQ-5D",
+          "description": "Patient-reported functional health status and quality of life 90 (±14) days. EuroQol five-dimension scale. A standardised instrument created by the EuroQol Group as a measure of health outcome. EQ-5D is a descriptive system of health-related quality of life states consisting of 5 dimensions (mobility, self-care, usual activities, pain/discomfort, anxiety/depression), each of which can take one of three responses reflecting severity (no problems/some or moderate problems/extreme problems).",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Post-stroke depression - Patient Health Questionnaire-4",
+          "description": "Post-stroke depression 90 (±14) days after stroke based on the Patient Health Questionnaire-4 (PHQ-4), Patient Health Questionnaire-4, Psychological distress in PHQ-4 is being rated based on 4 questions as none (0-2\") mild (3-5) moderate (6-8) severe (9-12)",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Parenchymal hemorrhage type 2",
+          "description": "blood clots in \\>30% of the infarcted area with a substantial space-occupying effect.",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "modified Rankin Scale between 4-6",
+          "description": "Death or dependency",
+          "timeFrame": "12 month"
+        },
+        {
+          "measure": "Frequencies of Adverse Events (AE) in both treatment arms within the first 7 days",
+          "description": "Serious AEs (SAEs), overall (all-cause mortality) and stroke-related death (i.e., related to intracranial bleeding, midline shift, brain herniation, progression of stroke symptoms, or systemic complications from stroke such as pneumonia).\n\n* Space-occupying infarction (malignant brain edema)\n* New ischemic stroke",
+          "timeFrame": "7 days"
+        },
+        {
+          "measure": "Serious AEs",
+          "description": "Serious AEs (SAEs), overall (all-cause mortality) and stroke-related death (i.e., related to intracranial bleeding, midline shift, brain herniation, progression of stroke symptoms, or systemic complications from stroke such as pneumonia).",
+          "timeFrame": "12 month"
+        },
+        {
+          "measure": "Space-occupying infarction",
+          "description": "Malignant brain edema after treatment",
+          "timeFrame": "18-36 hours"
+        },
+        {
+          "measure": "New ischemic stroke",
+          "description": "New AIS after treatment",
+          "timeFrame": "12 month"
+        },
+        {
+          "measure": "Symptomatic intracranial hemorrhage (sICH) at 24 (18-36) hours (CT or MRI)",
+          "description": "sICH as defined in Safe Implementation of Treatments in Stroke-Monitoring Study (SITS-MOST)\n\n* parenchymal hemorrhage type 2 (PH-2)\n* Frequencies of Adverse Events (AE) in both treatment arms within the first 7 days after treatment\n* Serious AEs (SAEs), overall (all-cause mortality) and stroke-related death (i.e., related to intracranial bleeding, midline shift, brain herniation, progression of stroke symptoms, or systemic complications from stroke such as pneumonia).\n* Space-occupying infarction (malignant brain edema)\n* New ischemic stroke",
+          "timeFrame": "18-36 hours"
+        },
+        {
+          "measure": "Cost Utility Assessment",
+          "description": "Assessment of costs from the time of randomization to the 12-months follow-up, including costs of hospitalization, institutionalized living, outpatient care, informal care provided by relatives and cost of lost productivity",
+          "timeFrame": "12 month"
+        },
+        {
+          "measure": "Quality of life - PROMIS-10",
+          "description": "Patient-Reported Outcomes Measurement Information System (PROMIS)-10 questionaire at 12 month (±14 days). PROMIS Global-10 short form consists of 10 items that assess general domains of health and functioning including overall physical health, mental health, social health, pain, fatigue, and overall perceived quality of life.",
+          "timeFrame": "12 month"
+        },
+        {
+          "measure": "Quality of life - EQ-5D",
+          "description": "Health related quality of life assessment at 12 months (±14 days). EuroQol five-dimension scale. A standardised instrument created by the EuroQol Group as a measure of health outcome. EQ-5D is a descriptive system of health-related quality of life states consisting of 5 dimensions (mobility, self-care, usual activities, pain/discomfort, anxiety/depression), each of which can take one of three responses reflecting severity (no problems/some or moderate problems/extreme problems).",
+          "timeFrame": "12 month"
+        },
+        {
+          "measure": "Post-stroke depression - Patient Health Questionnaire-4",
+          "description": "Health related quality of life assessment at 12 months (±14 days) to assess post stroke depression - Patient Health Questionnaire-4 (PHQ-4) Psychological distress in PHQ-4 is being rated based on 4 questions as none (0-2\") mild (3-5) moderate (6-8) severe (9-12)",
+          "timeFrame": "12 month"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Randomization within 11 hours after stroke onset (if known) or last seen well.\n* Endovascular treatment is expected to be finished within 12 hours after known symptom onset or last seen well by judgment of the interventional neuroradiologist in charge (if stroke onset is known).\n* Patient must demonstrate clinical signs and symptoms attributable to target area of occlusion consistent with the diagnosis of ischemic stroke, including impairment of the following: language, motor function, sensation, cognition, gaze, and/or vision for at least 30 minutes without relevant improvement.\n* Female and male patient above 18 years of age\n* NIHSS Score of \\<26\n* Signed informed consent (IC) form by patient or legal guardian, or inclusion of patient's presumptive will by investigator under emergency situation, but after consultation of an independent physician who is familiar with these types of illness if the other options are not possible according to local approval.\n* Prior to new focal neurological deficit, mRS score was ≤2.\n\nImaging Inclusion Criteria\n\n* A new focal occlusion confirmed by imaging (MRA/CTA) to be accessible to the thrombectomy device, and located in the M1 of the middle cerebral artery (MCA) and/or the intracranial segment of the distal internal carotid artery (ICA).\n* CT (non-contrast CT) or DWI with an ASPECT score of 3-5\n\nClinical exclusion criteria\n\n* Patient is an active participant in another drug or device treatment trial for any disease state or patient is expected to start participation in another drug or device treatment trial while enrolled in this protocol, unless approved by Sponsor.\n* Patient has pre-existing neurological or psychiatric disease that could impede the study results or would confound the neurological or functional evaluations.\n* Patient has vascular disease preventing endovascular treatment (e.g. aortic dissection or aneurysm, no arterial transfemoral access)\n* Patient has history of contraindication for contrast medium.\n* Patient is known to have infective endocarditis\n* Patient's anticipated life expectancy is less than 6 Months12 months\n\nImaging exclusion criteria\n\n* ExtracaranialExtracranial CT scan or MR angiography showing high grade stenosis expected to require acute stent placement (especially e.g. ICAACI stenting) during the procedure to get access to the occlusion\n* CT or MRI with evidence of: Mass mass effect or intracranial tumor, or hypodensity on unenhanced CT and\n* If CT perfusion is done per institutional standard: CBV drop on CBV maps on CTP, or, alternatively as with an ASPECT score of 0-2\n* If DWI is done per institutional standard,: restricted diffusion on DWI with an ASPECT score of 0-2, or above 5",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Götz Thomalla, MD",
+          "affiliation": "Coordination and Project Management Tension, Neurology, UKE Hamburg, Germany",
+          "role": "STUDY_CHAIR"
+        },
+        {
+          "name": "Martin Bendszus, MD",
+          "affiliation": "Central Trial Management Tension, Neuroradiology, UHHeidelberg, Germany",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Division of Neuroradiology, Vascular and Interventional Radiology, Department of Radiology, Medical University Graz",
+          "city": "Graz",
+          "zip": "8036",
+          "country": "Austria",
+          "geoPoint": {
+            "lat": 47.06733,
+            "lon": 15.44197
+          }
+        },
+        {
+          "facility": "Medical University Innsbruck",
+          "city": "Innsbruck",
+          "zip": "6020",
+          "country": "Austria",
+          "geoPoint": {
+            "lat": 47.26266,
+            "lon": 11.39454
+          }
+        },
+        {
+          "facility": "Neuroradiology, Keppler University Hospital Linz",
+          "city": "Linz",
+          "zip": "4020",
+          "country": "Austria",
+          "geoPoint": {
+            "lat": 48.30639,
+            "lon": 14.28611
+          }
+        },
+        {
+          "facility": "Department of Neurology, Reseach Institute of Neurointervention, Christian Doppler Clinic, Paracelsus Medical University Salzburg",
+          "city": "Salzburg",
+          "zip": "5020",
+          "country": "Austria",
+          "geoPoint": {
+            "lat": 47.79941,
+            "lon": 13.04399
+          }
+        },
+        {
+          "facility": "University of Calgary",
+          "city": "Calgary",
+          "state": "Alberta",
+          "zip": "T2N 1N4",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 51.05011,
+            "lon": -114.08529
+          }
+        },
+        {
+          "facility": "St. Anne's University Hospital Brno",
+          "city": "Brno",
+          "zip": "65691",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 49.19522,
+            "lon": 16.60796
+          }
+        },
+        {
+          "facility": "Faculty Hospital Hradec Kralove",
+          "city": "Hradec Králové",
+          "zip": "50005",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.20923,
+            "lon": 15.83277
+          }
+        },
+        {
+          "facility": "Comprehensive stroke center,University Hospital Ostrava",
+          "city": "Ostrava",
+          "zip": "70852",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 49.83465,
+            "lon": 18.28204
+          }
+        },
+        {
+          "facility": "Homolka Hospital Prague",
+          "city": "Prague",
+          "zip": "150 30",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.08804,
+            "lon": 14.42076
+          }
+        },
+        {
+          "facility": "Dept. of Radiology, Masaryk hospital",
+          "city": "Ústí nad Labem",
+          "zip": "40003",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.6607,
+            "lon": 14.03227
+          }
+        },
+        {
+          "facility": "Aalborg University Hospital",
+          "city": "Aalborg",
+          "zip": "9000",
+          "country": "Denmark",
+          "geoPoint": {
+            "lat": 57.048,
+            "lon": 9.9187
+          }
+        },
+        {
+          "facility": "Aarhus University Hospital",
+          "city": "Aarhus",
+          "zip": "8000",
+          "country": "Denmark",
+          "geoPoint": {
+            "lat": 56.15674,
+            "lon": 10.21076
+          }
+        },
+        {
+          "facility": "University Hospital Rigshospitalet",
+          "city": "Copenhagen",
+          "zip": "2100",
+          "country": "Denmark",
+          "geoPoint": {
+            "lat": 55.67594,
+            "lon": 12.56553
+          }
+        },
+        {
+          "facility": "CHU Gabriel Montpied, Clermont-Ferrand",
+          "city": "Clermont-Ferrand",
+          "zip": "63000",
+          "country": "France",
+          "geoPoint": {
+            "lat": 45.77969,
+            "lon": 3.08682
+          }
+        },
+        {
+          "facility": "Hôpiteaux Universitaires Paris-Sud, Hôpital Bicêtre",
+          "city": "Le Kremlin-Bicêtre",
+          "zip": "94270",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.81471,
+            "lon": 2.36073
+          }
+        },
+        {
+          "facility": "Hôpital Pitié-Salpêtrière",
+          "city": "Paris",
+          "zip": "75013",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.85341,
+            "lon": 2.3488
+          }
+        },
+        {
+          "facility": "Université Reims Champagne Ardenne/ Department of Neuroradiology, Hôpital Maison Blanche",
+          "city": "Reims",
+          "zip": "51100",
+          "country": "France",
+          "geoPoint": {
+            "lat": 49.26526,
+            "lon": 4.02853
+          }
+        },
+        {
+          "facility": "CHU de Rennes/Centre Urgences-Réanimations",
+          "city": "Rennes",
+          "zip": "35033",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.11109,
+            "lon": -1.67431
+          }
+        },
+        {
+          "facility": "CHRU Hôpiteaux de Tours / Hôpital Bretonneau",
+          "city": "Tours",
+          "zip": "37044",
+          "country": "France",
+          "geoPoint": {
+            "lat": 47.39484,
+            "lon": 0.70398
+          }
+        },
+        {
+          "facility": "Universitätsinstitut für Diagnostische Radiologie, Neuroradiologie und Nuklearmedizin Johannes Wesling Klinikum Minden",
+          "city": "Minden",
+          "state": "North Rhine-Westphalia",
+          "zip": "32429",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.28953,
+            "lon": 8.91455
+          }
+        },
+        {
+          "facility": "Otto-von-Guericke-University Magdeburg",
+          "city": "Magdeburg",
+          "state": "Saxony-Anhalt",
+          "zip": "39120",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.13129,
+            "lon": 11.63189
+          }
+        },
+        {
+          "facility": "Universitätsklinikum KK Bochum-Langendreer Institut für Diagnostische und Interventionelle Radiologie, Neuroradiologie und Nuklearmedizin",
+          "city": "Bochum",
+          "zip": "44892",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.48165,
+            "lon": 7.21648
+          }
+        },
+        {
+          "facility": "Universitätsklinikum Bonn",
+          "city": "Bonn",
+          "zip": "53127",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 50.73438,
+            "lon": 7.09549
+          }
+        },
+        {
+          "facility": "Gesundheit Nord gGmbH Klinikverbund Bremen",
+          "city": "Bremen",
+          "zip": "28211",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 53.07582,
+            "lon": 8.80717
+          }
+        },
+        {
+          "facility": "Klinik für Radiologie und Neuroradiologie am Klinikum Mitte",
+          "city": "Dortmund",
+          "zip": "44137",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.51494,
+            "lon": 7.466
+          }
+        },
+        {
+          "facility": "Universitätsklinikum Carl Gustav Carus Dresden",
+          "city": "Dresden",
+          "zip": "01307",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.05089,
+            "lon": 13.73832
+          }
+        },
+        {
+          "facility": "Alfried Krupp Krankenhaus Rüttenscheid",
+          "city": "Essen",
+          "zip": "45131",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.45657,
+            "lon": 7.01228
+          }
+        },
+        {
+          "facility": "Diakonissenkrankenhaus Flensburg",
+          "city": "Flensburg",
+          "zip": "24939",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 54.78805,
+            "lon": 9.43722
+          }
+        },
+        {
+          "facility": "Universitätsklinikum Hamburg-Eppendorf",
+          "city": "Hamburg",
+          "zip": "20251",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 53.55073,
+            "lon": 9.99302
+          }
+        },
+        {
+          "facility": "Neuroradiologie Universitätsklinikum Heidelberg",
+          "city": "Heidelberg",
+          "zip": "69120",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 49.40768,
+            "lon": 8.69079
+          }
+        },
+        {
+          "facility": "Universitätsklinikum Leipzig AöR",
+          "city": "Leipzig",
+          "zip": "04103",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.33962,
+            "lon": 12.37129
+          }
+        },
+        {
+          "facility": "UKSH Universitätsklinikum Schleswig-Holstein Campus Lübeck",
+          "city": "Lübeck",
+          "zip": "23538",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 53.86893,
+            "lon": 10.68729
+          }
+        },
+        {
+          "facility": "Klinikum der Universität München",
+          "city": "München",
+          "zip": "81377",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.60698,
+            "lon": 13.31243
+          }
+        },
+        {
+          "facility": "Technische Universität München / Klinikum rechts der Isar",
+          "city": "München",
+          "zip": "81675",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.60698,
+            "lon": 13.31243
+          }
+        },
+        {
+          "facility": "Universitätsklinikum Würzburg",
+          "city": "Würzburg",
+          "zip": "97080",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 49.79391,
+            "lon": 9.95121
+          }
+        },
+        {
+          "facility": "Haukeland University Hospital",
+          "city": "Bergen",
+          "zip": "5021",
+          "country": "Norway",
+          "geoPoint": {
+            "lat": 60.39299,
+            "lon": 5.32415
+          }
+        },
+        {
+          "facility": "Oslo University Hospital",
+          "city": "Oslo",
+          "zip": "NO-0407",
+          "country": "Norway",
+          "geoPoint": {
+            "lat": 59.91273,
+            "lon": 10.74609
+          }
+        },
+        {
+          "facility": "The Arctic University of Norway",
+          "city": "Tromsø",
+          "zip": "9038",
+          "country": "Norway",
+          "geoPoint": {
+            "lat": 69.6489,
+            "lon": 18.95508
+          }
+        },
+        {
+          "facility": "Comenius University's Jessenius Faculty of Medicine and University Hospital",
+          "city": "Martin",
+          "zip": "03659",
+          "country": "Slovakia",
+          "geoPoint": {
+            "lat": 49.06651,
+            "lon": 18.92399
+          }
+        },
+        {
+          "facility": "Faculty Hospital Trnava",
+          "city": "Trnava",
+          "zip": "91775",
+          "country": "Slovakia",
+          "geoPoint": {
+            "lat": 48.37773,
+            "lon": 17.58603
+          }
+        },
+        {
+          "facility": "La Paz University Hospital",
+          "city": "Madrid",
+          "zip": "28046",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "University Hospital Basel",
+          "city": "Basel",
+          "zip": "CH-4031",
+          "country": "Switzerland",
+          "geoPoint": {
+            "lat": 47.55839,
+            "lon": 7.57327
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "30156479",
+          "type": "BACKGROUND",
+          "citation": "Bendszus M, Bonekamp S, Berge E, Boutitie F, Brouwer P, Gizewski E, Krajina A, Pierot L, Randall G, Simonsen CZ, Zelenak K, Fiehler J, Thomalla G. A randomized controlled trial to test efficacy and safety of thrombectomy in stroke with extended lesion and extended time window. Int J Stroke. 2019 Jan;14(1):87-93. doi: 10.1177/1747493018798558. Epub 2018 Aug 29."
+        },
+        {
+          "pmid": "37837989",
+          "type": "RESULT",
+          "citation": "Bendszus M, Fiehler J, Subtil F, Bonekamp S, Aamodt AH, Fuentes B, Gizewski ER, Hill MD, Krajina A, Pierot L, Simonsen CZ, Zelenak K, Blauenfeldt RA, Cheng B, Denis A, Deutschmann H, Dorn F, Flottmann F, Gellissen S, Gerber JC, Goyal M, Haring J, Herweh C, Hopf-Jensen S, Hua VT, Jensen M, Kastrup A, Keil CF, Klepanec A, Kurca E, Mikkelsen R, Mohlenbruch M, Muller-Hulsbeck S, Munnich N, Pagano P, Papanagiotou P, Petzold GC, Pham M, Puetz V, Raupach J, Reimann G, Ringleb PA, Schell M, Schlemm E, Schonenberger S, Tennoe B, Ulfert C, Valis K, Vitkova E, Vollherbst DF, Wick W, Thomalla G; TENSION Investigators. Endovascular thrombectomy for acute ischaemic stroke with established large infarct: multicentre, open-label, randomised trial. Lancet. 2023 Nov 11;402(10414):1753-1763. doi: 10.1016/S0140-6736(23)02032-9. Epub 2023 Oct 11."
+        },
+        {
+          "pmid": "33502563",
+          "type": "RESULT",
+          "citation": "van Horn N, Kniep H, Broocks G, Meyer L, Flottmann F, Bechstein M, Gotz J, Thomalla G, Bendszus M, Bonekamp S, Pfaff JAR, Dellani PR, Fiehler J, Hanning U. ASPECTS Interobserver Agreement of 100 Investigators from the TENSION Study. Clin Neuroradiol. 2021 Dec;31(4):1093-1100. doi: 10.1007/s00062-020-00988-x. Epub 2021 Jan 27."
+        },
+        {
+          "pmid": "42261979",
+          "type": "DERIVED",
+          "citation": "Schlemm E, Jensen M, Schell M, Fiehler J, Subtil F, Bonekamp S, Aamodt AH, Fuentes B, Gizewski ER, Hill MD, Krajina A, Pierot L, Simonsen CZ, Zelenak K, Blauenfeldt RA, Denis A, Deutschmann H, Dorn F, Flottmann F, Gellissen S, Gerber JC, Goyal M, Haring J, Herweh C, Hopf-Jensen S, Hua VT, Kastrup A, Keil CF, Klepanec A, Kurca E, Meyer L, Mikkelsen R, Mohlenbruch M, Muller-Hulsbeck S, Munnich N, Pagano P, Papanagiotou P, Petzold GC, Pham M, Puetz V, Raupach J, Reimann G, Ringleb PA, Schonenberger S, Tennoe B, Ulfert C, Valis K, Vitkova E, Vollherbst DF, Wick W, Bendszus M, Cheng B, Thomalla G; TENSION Investigators *. Large Core Stroke Thrombectomy Is Safe and Effective Regardless of Prior Antithrombotic or Thrombolytic Treatment: A Secondary Analysis of the Randomized TENSION Trial. J Am Heart Assoc. 2026 Jun 16;15(12):e047192. doi: 10.1161/JAHA.125.047192. Epub 2026 Jun 9."
+        },
+        {
+          "pmid": "41186468",
+          "type": "DERIVED",
+          "citation": "Broocks G, Bendszus M, Simonsen CZ, Thomalla G, Gizewski ER, Aamodt AH, Krajina A, Pierot L, Zelenak K, Fuentes B, Hill MD, Kemmling A, Gellissen S, Fiehler J, Meyer L, Kniep H; TENSION investigators; Tension Investigators. Net Water Uptake at CT Predicts the Treatment Effect of Thrombectomy for Low ASPECTS Stroke. Radiology. 2025 Nov;317(2):e250708. doi: 10.1148/radiol.250708."
+        },
+        {
+          "pmid": "39998372",
+          "type": "DERIVED",
+          "citation": "Winkelmeier L, Kniep H, Thomalla G, Bendszus M, Subtil F, Bonekamp S, Aamodt AH, Fuentes B, Gizewski ER, Hill MD, Krajina A, Pierot L, Simonsen CZ, Zelenak K, Blauenfeldt RA, Cheng B, Denis A, Deutschmann H, Dorn F, Gellissen S, Gerber JC, Goyal M, Haring J, Herweh C, Hopf-Jensen S, Hua VT, Jensen M, Kastrup A, Keil CF, Klepanec A, Kurca E, Mikkelsen R, Mohlenbruch M, Muller-Hulsbeck S, Munnich N, Pagano P, Papanagiotou P, Petzold GC, Pham M, Puetz V, Raupach J, Reimann G, Ringleb PA, Schell M, Schlemm E, Schonenberger S, Tennoe B, Ulfert C, Valis K, Vitkova E, Vollherbst DF, Wick W, Fiehler J, Flottmann F; TENSION Investigators. Arterial Collaterals and Endovascular Treatment Effect in Acute Ischemic Stroke with Large Infarct: A Secondary Analysis of the TENSION Trial. Radiology. 2025 Feb;314(2):e242401. doi: 10.1148/radiol.242401."
+        },
+        {
+          "pmid": "39074480",
+          "type": "DERIVED",
+          "citation": "Thomalla G, Fiehler J, Subtil F, Bonekamp S, Aamodt AH, Fuentes B, Gizewski ER, Hill MD, Krajina A, Pierot L, Simonsen CZ, Zelenak K, Blauenfeldt RA, Cheng B, Denis A, Deutschmann H, Dorn F, Flottmann F, Gellissen S, Gerber JC, Goyal M, Haring J, Herweh C, Hopf-Jensen S, Hua VT, Jensen M, Kastrup A, Keil CF, Klepanec A, Kurca E, Mikkelsen R, Mohlenbruch M, Muller-Hulsbeck S, Munnich N, Pagano P, Papanagiotou P, Petzold GC, Pham M, Puetz V, Raupach J, Reimann G, Ringleb PA, Schell M, Schlemm E, Schonenberger S, Tennoe B, Ulfert C, Valis K, Vitkova E, Vollherbst DF, Wick W, Bendszus M; TENSION Investigators. Endovascular thrombectomy for acute ischaemic stroke with established large infarct (TENSION): 12-month outcomes of a multicentre, open-label, randomised trial. Lancet Neurol. 2024 Sep;23(9):883-892. doi: 10.1016/S1474-4422(24)00278-3. Epub 2024 Jul 26."
+        },
+        {
+          "pmid": "34125952",
+          "type": "DERIVED",
+          "citation": "Roaldsen MB, Jusufovic M, Berge E, Lindekleiv H. Endovascular thrombectomy and intra-arterial interventions for acute ischaemic stroke. Cochrane Database Syst Rev. 2021 Jun 14;6(6):CD007574. doi: 10.1002/14651858.CD007574.pub3."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "SAP",
+        "CSR"
+      ],
+      "url": "https://tension-study.com"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-08-28",
+      "removedCountries": [
+        "Sweden"
+      ],
+      "submissionTracking": {
+        "estimatedResultsFirstSubmitDate": "2024-04-15",
+        "submissionInfos": [
+          {
+            "releaseDate": "2024-04-15",
+            "resetDate": "2024-05-08",
+            "mcpReleaseN": 10
+          },
+          {
+            "releaseDate": "2024-05-13",
+            "resetDate": "2024-06-10",
+            "mcpReleaseN": 11
+          }
+        ]
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D020521",
+          "term": "Stroke"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D017131",
+          "term": "Thrombectomy"
+        },
+        {
+          "id": "D035061",
+          "term": "Control Groups"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014656",
+          "term": "Vascular Surgical Procedures"
+        },
+        {
+          "id": "D013504",
+          "term": "Cardiovascular Surgical Procedures"
+        },
+        {
+          "id": "D013514",
+          "term": "Surgical Procedures, Operative"
+        },
+        {
+          "id": "D015340",
+          "term": "Epidemiologic Research Design"
+        },
+        {
+          "id": "D004812",
+          "term": "Epidemiologic Methods"
+        },
+        {
+          "id": "D008919",
+          "term": "Investigative Techniques"
+        },
+        {
+          "id": "D012107",
+          "term": "Research Design"
+        },
+        {
+          "id": "D008722",
+          "term": "Methods"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,2172 @@
+{
+  "case_id": "qazi-2026",
+  "targets": [
+    {
+      "study_key": "chablis_t2",
+      "target_id": "result.mrs_0_1.day90",
+      "domains": [
+        {
+          "domain": "D1",
+          "questions": [
+            {
+              "question_id": "1.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：采用中心网站实施的 permuted-block randomization，足以确认序列为随机生成。 B：中心网站采用 permuted blocks 生成并实施随机分配序列。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 11072,
+                  "end_offset": 11251,
+                  "exact_text": "This randomization process was conducted via a centralized website, Easy Random Trial, developed by Trial Data Pharmaceutical Technology (Shanghai) Co, Ltd, using permuted blocks."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：分配由中心网站执行，入组中心不能预先获知下一分配。 B：中心化网站在纳入后返回分配，支持分配序列在分配前保持隐藏。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 11072,
+                  "end_offset": 11251,
+                  "exact_text": "This randomization process was conducted via a centralized website, Easy Random Trial, developed by Trial Data Pharmaceutical Technology (Shanghai) Co, Ltd, using permuted blocks."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.3",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：关键人口学和基线卒中严重度相近；少数病史差异未形成一致的预后失衡模式。 B：可见关键基线 NIHSS 分布接近，未见提示随机化失败的系统性差异。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 25758,
+                  "end_offset": 25922,
+                  "exact_text": "| Age, y, mean (SD) | 64.2 (10.4) | 63.6 (11.0) |\n| Male sex, n (%) | 80 (72.1%) | 80 (70.8%) |\n| NIHSS score at randomization, median (IQR) | 9 (5-14) | 9 (6-16) |"
+                },
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 25856,
+                  "end_offset": 25920,
+                  "exact_text": "NIHSS score at randomization, median (IQR) | 9 (5-14) | 9 (6-16)"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D2",
+          "questions": [
+            {
+              "question_id": "2.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：试验明确为 open-label，参与者可知分配。 B：试验明确为 open-label，参与者可知分配。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 11368,
+                  "end_offset": 11505,
+                  "exact_text": "Treatment allocation was open-label, with subsequent radiological and clinical evaluations performed by raters blinded to the allocation."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：试验明确为 open-label，治疗人员可知分配。 B：试验明确为 open-label，实施治疗人员可知分配。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 11368,
+                  "end_offset": 11505,
+                  "exact_text": "Treatment allocation was open-label, with subsequent radiological and clinical evaluations performed by raters blinded to the allocation."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.3",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：对照组有 2 人 crossover 接受 tenecteplase，属于随机后偏离分配治疗。 B：对照组有参与者 crossover 接受 tenecteplase，属于 intended intervention 的偏离。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 27822,
+                  "end_offset": 27938,
+                  "exact_text": "For patients in the best medical treatment group, n=29, including 2 patients crossed over to tenecteplase treatment."
+                },
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 27821,
+                  "end_offset": 27938,
+                  "exact_text": "*For patients in the best medical treatment group, n=29, including 2 patients crossed over to tenecteplase treatment."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.4",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "裁决选择评估者 A：crossover 仅 2/113，且目标结局对全部随机者均有分母，较不可能实质改变该结果。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 27822,
+                  "end_offset": 27938,
+                  "exact_text": "For patients in the best medical treatment group, n=29, including 2 patients crossed over to tenecteplase treatment."
+                },
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 31111,
+                  "end_offset": 31173,
+                  "exact_text": "mRS score 0-1 at 90 d, n (%) | 44/111 (39.6%) | 41/113 (36.3%)"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.5",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：已报告 crossover 发生在对照组，偏离并非组间平衡。 B：已报告的 crossover 位于 best medical treatment 组，未显示组间平衡。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 27822,
+                  "end_offset": 27938,
+                  "exact_text": "For patients in the best medical treatment group, n=29, including 2 patients crossed over to tenecteplase treatment."
+                },
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 27821,
+                  "end_offset": 27938,
+                  "exact_text": "*For patients in the best medical treatment group, n=29, including 2 patients crossed over to tenecteplase treatment."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.6",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：主要分析按 intention-to-treat population 执行。 B：主分析明确按 intention-to-treat population 执行。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 15360,
+                  "end_offset": 15476,
+                  "exact_text": "The primary analysis was conducted based on the intention-totreat population, and the missing data remained missing."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.7",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：90 日 mRS 0-1 的分析分母等于两组随机人数，不存在未按随机组分析造成实质影响的空间。 B：主分析保留随机分组的完整目标结局分母，未见错误分析造成实质影响。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 31111,
+                  "end_offset": 31173,
+                  "exact_text": "mRS score 0-1 at 90 d, n (%) | 44/111 (39.6%) | 41/113 (36.3%)"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        },
+        {
+          "domain": "D3",
+          "questions": [
+            {
+              "question_id": "3.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标结局分母为 111/111 与 113/113，覆盖全部随机者。 B：90 日 mRS 0–1 对两组分别使用全部 111 与 113 名随机参与者。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 31111,
+                  "end_offset": 31173,
+                  "exact_text": "mRS score 0-1 at 90 d, n (%) | 44/111 (39.6%) | 41/113 (36.3%)"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标结局没有缺失，结果不会由 missing outcome data 导致偏倚。 B：目标结局表的分母与两组随机人数一致，支持结果未受缺失数据偏倚。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 31111,
+                  "end_offset": 31173,
+                  "exact_text": "mRS score 0-1 at 90 d, n (%) | 44/111 (39.6%) | 41/113 (36.3%)"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标结局无缺失，missingness 不可能依赖真实值。 B：目标结局数据完整，缺失不可能依赖其真实值。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 31111,
+                  "end_offset": 31173,
+                  "exact_text": "mRS score 0-1 at 90 d, n (%) | 44/111 (39.6%) | 41/113 (36.3%)"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.4",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标结局无缺失，不存在 missingness 很可能依赖真实值的情形。 B：目标结局无缺失，因此不存在缺失依赖真实值的可能路径。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 31111,
+                  "end_offset": 31173,
+                  "exact_text": "mRS score 0-1 at 90 d, n (%) | 44/111 (39.6%) | 41/113 (36.3%)"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D4",
+          "questions": [
+            {
+              "question_id": "4.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：90 日 mRS 0-1 是明确、标准化的功能结局定义，测量方法适合该目标。 B：目标采用预定义的 90 日 mRS 0–1 功能结局，测量方法适当。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 13388,
+                  "end_offset": 13552,
+                  "exact_text": "The secondary clinical efficacy outcomes were excellent functional outcome (mRS score 0-1), good functional outcome (mRS score 0-2), and mRS distribution at 90 days"
+                },
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 13388,
+                  "end_offset": 13553,
+                  "exact_text": "The secondary clinical efficacy outcomes were excellent functional outcome (mRS score 0-1), good functional outcome (mRS score 0-2), and mRS distribution at 90 days;"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：两组后续临床评价由对分配盲法的 raters 完成，没有组间差异测量依据。 B：两组后续临床评价均由对分配盲法的评定者完成。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 11368,
+                  "end_offset": 11505,
+                  "exact_text": "Treatment allocation was open-label, with subsequent radiological and clinical evaluations performed by raters blinded to the allocation."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：结局评估者对分配保持盲法。 B：报告明确评价者对 allocation 盲法。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 11368,
+                  "end_offset": 11505,
+                  "exact_text": "Treatment allocation was open-label, with subsequent radiological and clinical evaluations performed by raters blinded to the allocation."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.4",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：盲法 raters 使用同一临床结局定义，知识影响评估的可能性低。 B：盲法评定使 90 日 mRS 判断不易被治疗知识影响。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 11368,
+                  "end_offset": 11505,
+                  "exact_text": "Treatment allocation was open-label, with subsequent radiological and clinical evaluations performed by raters blinded to the allocation."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.5",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：没有迹象显示盲法结局评估实际受到治疗知识影响。 B：没有证据表明盲法结局评价实际受到分配知识影响。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 11368,
+                  "end_offset": 11505,
+                  "exact_text": "Treatment allocation was open-label, with subsequent radiological and clinical evaluations performed by raters blinded to the allocation."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D5",
+          "questions": [
+            {
+              "question_id": "5.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "裁决选择评估者 B：SAP 被报告为在 database lock 前完成，且目标结果按预定义 90 日 mRS 结局分析。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 15119,
+                  "end_offset": 15266,
+                  "exact_text": "The comprehensive statistical analysis plan is specified in the Supplemental Material and has been ratified and completed before the database lock."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：mRS 0-1 at 90 days 在预设 secondary clinical outcomes 中明确列出，结果并非从多个测量中事后挑选。 B：90 日 mRS 0–1 是明确列出的单一 excellent functional outcome，未见按结果选择测量。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 13388,
+                  "end_offset": 13552,
+                  "exact_text": "The secondary clinical efficacy outcomes were excellent functional outcome (mRS score 0-1), good functional outcome (mRS score 0-2), and mRS distribution at 90 days"
+                },
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 13388,
+                  "end_offset": 13553,
+                  "exact_text": "The secondary clinical efficacy outcomes were excellent functional outcome (mRS score 0-1), good functional outcome (mRS score 0-2), and mRS distribution at 90 days;"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "裁决选择评估者 A：该二分类 mRS 结果使用预设 covariates 的 modified Poisson analysis，未见按结果选择分析。",
+              "anchors": [
+                {
+                  "document_key": "chablis_t2.fulltext",
+                  "source_sha256": "8a3d516c4f371fdea73f5c570805cd818b23ab98f984ecf34097d3db80bda584",
+                  "representation_sha256": "313ebccb5798e07d07eb53226a1e1d5192266afbc71c85e705fb84bd6847302d",
+                  "start_offset": 17176,
+                  "end_offset": 17449,
+                  "exact_text": "The differences in the proportions of patients achieving mRS scores of 0 to 1, 0 to 2, and 5 to 6 at 90 days, as well as major neurological improvement at 24 to 48 hours, were evaluated using modified Poisson regression with a log-link function and robust error estimation."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        }
+      ],
+      "overall_judgment": "SOME_CONCERNS"
+    },
+    {
+      "study_key": "option",
+      "target_id": "result.mrs_0_1.day90",
+      "domains": [
+        {
+          "domain": "D1",
+          "questions": [
+            {
+              "question_id": "1.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：使用预先指定分层因素的 minimization randomization。 B：随机化采用按预设因素分层的 minimization process。",
+              "anchors": [
+                {
+                  "document_key": "option-design-report",
+                  "source_sha256": "2ff196b2ac59019f525a744fc0d40a967f434e8cd40c12ff01b2b6f75cf0f4c0",
+                  "representation_sha256": "63f7c41117a24501c206d5c2fe61c04ede960bc9228937d4a305ac6a5e80b439",
+                  "start_offset": 14281,
+                  "end_offset": 14567,
+                  "exact_text": "Patients are randomized, in a 1 : 1 ratio, using a minimization process to receive either intravenous tenecteplase or standard medical treatment, stratified by vessel occlusion location (anterior or posterior circulation), age (<65 or ≥65 years), baseline NIHSS (<16 or ≥16) and center."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：分配由 computerized central interactive web response system 执行，具备中心 concealment。 B：分配通过 computerized central interactive web response system 实施，支持 concealment。",
+              "anchors": [
+                {
+                  "document_key": "option-design-report",
+                  "source_sha256": "2ff196b2ac59019f525a744fc0d40a967f434e8cd40c12ff01b2b6f75cf0f4c0",
+                  "representation_sha256": "63f7c41117a24501c206d5c2fe61c04ede960bc9228937d4a305ac6a5e80b439",
+                  "start_offset": 14568,
+                  "end_offset": 14657,
+                  "exact_text": "The randomization will be done by a computerized central interactive web response system."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "裁决选择评估者 A：可用结果来源只有 abstract 与 supplementary addenda，未提供完整的随机组 baseline characteristics 表，无法判断是否存在提示随机化问题的基线差异。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "option-appendix",
+                  "source_sha256": "d1e7e6c360a42f464a8dbb52c03e138d473a928a71b40941d810302db212cd23",
+                  "representation_sha256": "51322c0d478da9f49457a41a0b3406ce6ff309ce9a56e2892c677a9e6a0c09a9"
+                },
+                {
+                  "document_key": "option-design-report",
+                  "source_sha256": "2ff196b2ac59019f525a744fc0d40a967f434e8cd40c12ff01b2b6f75cf0f4c0",
+                  "representation_sha256": "63f7c41117a24501c206d5c2fe61c04ede960bc9228937d4a305ac6a5e80b439"
+                },
+                {
+                  "document_key": "option-protocol",
+                  "source_sha256": "524713193a34f19d61aaf778a3f1d33120ec56420abc006d9a70b96a10388588",
+                  "representation_sha256": "ce3cc640d800f3d94efd3dbd39fedbfa785d944e27c4a4ccc421c578488526fa"
+                },
+                {
+                  "document_key": "option-sap",
+                  "source_sha256": "4bc00a46144d9232101fb9d4c3e8657fbd9e68ebf646d602227e5137b33c6130",
+                  "representation_sha256": "1b2e02771745787f3f67042b1754e8e5c2b2692926a8c82a449cba9a3b96dbda"
+                },
+                {
+                  "document_key": "option.abstract",
+                  "source_sha256": "369bd5314205a0fce907822be82e5225c35f846f581ee792c9eba66949404017",
+                  "representation_sha256": "af4197c8b913716a6a3cca5eafcd8f1a231ccc63f33600a2e171141fd035c508"
+                }
+              ]
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D2",
+          "questions": [
+            {
+              "question_id": "2.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：试验为 open-label，参与者知道分配。 B：试验明确为 open-label，参与者可知治疗分配。",
+              "anchors": [
+                {
+                  "document_key": "option.abstract",
+                  "source_sha256": "369bd5314205a0fce907822be82e5225c35f846f581ee792c9eba66949404017",
+                  "representation_sha256": "af4197c8b913716a6a3cca5eafcd8f1a231ccc63f33600a2e171141fd035c508",
+                  "start_offset": 555,
+                  "end_offset": 654,
+                  "exact_text": "This randomized, open-label, blinded end-point clinical trial was conducted at 48 centers in China."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：试验为 open-label，治疗人员知道分配。 B：试验明确为 open-label，治疗实施者可知治疗分配。",
+              "anchors": [
+                {
+                  "document_key": "option.abstract",
+                  "source_sha256": "369bd5314205a0fce907822be82e5225c35f846f581ee792c9eba66949404017",
+                  "representation_sha256": "af4197c8b913716a6a3cca5eafcd8f1a231ccc63f33600a2e171141fd035c508",
+                  "start_offset": 555,
+                  "end_offset": 654,
+                  "exact_text": "This randomized, open-label, blinded end-point clinical trial was conducted at 48 centers in China."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.3",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "裁决选择评估者 B：随机后 rescue endovascular treatment 在两组发生，构成可能影响 assigned intervention 的附加干预。",
+              "anchors": [
+                {
+                  "document_key": "option-appendix",
+                  "source_sha256": "d1e7e6c360a42f464a8dbb52c03e138d473a928a71b40941d810302db212cd23",
+                  "representation_sha256": "51322c0d478da9f49457a41a0b3406ce6ff309ce9a56e2892c677a9e6a0c09a9",
+                  "start_offset": 25659,
+                  "end_offset": 25713,
+                  "exact_text": "Rescue endovascular treatment, No. (%) 6 (2.1) 1 (0.4)"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.4",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "裁决选择评估者 A：偏离比例小（13/566；未接受分配治疗 4 人），且 rescue EVT sensitivity analysis 与主效应方向一致，较不可能实质改变目标结果。",
+              "anchors": [
+                {
+                  "document_key": "option-appendix",
+                  "source_sha256": "d1e7e6c360a42f464a8dbb52c03e138d473a928a71b40941d810302db212cd23",
+                  "representation_sha256": "51322c0d478da9f49457a41a0b3406ce6ff309ce9a56e2892c677a9e6a0c09a9",
+                  "start_offset": 22848,
+                  "end_offset": 23013,
+                  "exact_text": "Protocol violations were reported in 13 of 566 patients\n(2.3%); of these patients, 9 were enrolled inappropriately, and 4 did not receive the allocated intervention."
+                },
+                {
+                  "document_key": "option-appendix",
+                  "source_sha256": "d1e7e6c360a42f464a8dbb52c03e138d473a928a71b40941d810302db212cd23",
+                  "representation_sha256": "51322c0d478da9f49457a41a0b3406ce6ff309ce9a56e2892c677a9e6a0c09a9",
+                  "start_offset": 33531,
+                  "end_offset": 33592,
+                  "exact_text": "Absence of endovascular treatment effect? 1.27 (1.03-1.56) 03"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.5",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：rescue EVT 为 6 比 1，随机组间不平衡。 B：rescue treatment 为 6 对 1，明显不平衡。",
+              "anchors": [
+                {
+                  "document_key": "option-appendix",
+                  "source_sha256": "d1e7e6c360a42f464a8dbb52c03e138d473a928a71b40941d810302db212cd23",
+                  "representation_sha256": "51322c0d478da9f49457a41a0b3406ce6ff309ce9a56e2892c677a9e6a0c09a9",
+                  "start_offset": 25659,
+                  "end_offset": 25713,
+                  "exact_text": "Rescue endovascular treatment, No. (%) 6 (2.1) 1 (0.4)"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.6",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_YES",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "裁决选择评估者 A：主要分析依随机分配组执行，但 570 名随机者中仅 566 名进入 primary analysis，因此不是无保留的完整 ITT。",
+              "anchors": [
+                {
+                  "document_key": "option-sap",
+                  "source_sha256": "4bc00a46144d9232101fb9d4c3e8657fbd9e68ebf646d602227e5137b33c6130",
+                  "representation_sha256": "1b2e02771745787f3f67042b1754e8e5c2b2692926a8c82a449cba9a3b96dbda",
+                  "start_offset": 60975,
+                  "end_offset": 61169,
+                  "exact_text": "The ITT population will be the primary analysis population for the\nefficacy endpoints and patients will be analyzed according to the treatment group to\nwhich they were assigned at randomization."
+                },
+                {
+                  "document_key": "option.abstract",
+                  "source_sha256": "369bd5314205a0fce907822be82e5225c35f846f581ee792c9eba66949404017",
+                  "representation_sha256": "af4197c8b913716a6a3cca5eafcd8f1a231ccc63f33600a2e171141fd035c508",
+                  "start_offset": 1445,
+                  "end_offset": 1521,
+                  "exact_text": "Among the 570 patients randomized, 566 were included in the primary analysis"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.7",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "裁决选择评估者 A：仅 4/570 未进入 primary analysis，不足以对该结果造成 substantial impact。",
+              "anchors": [
+                {
+                  "document_key": "option.abstract",
+                  "source_sha256": "369bd5314205a0fce907822be82e5225c35f846f581ee792c9eba66949404017",
+                  "representation_sha256": "af4197c8b913716a6a3cca5eafcd8f1a231ccc63f33600a2e171141fd035c508",
+                  "start_offset": 1445,
+                  "end_offset": 1521,
+                  "exact_text": "Among the 570 patients randomized, 566 were included in the primary analysis"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        },
+        {
+          "domain": "D3",
+          "questions": [
+            {
+              "question_id": "3.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：566/570（99.3%）随机者进入目标结局分析，属于 nearly all。 B：566/570（99.3%）随机参与者进入主分析，属于 nearly all。",
+              "anchors": [
+                {
+                  "document_key": "option.abstract",
+                  "source_sha256": "369bd5314205a0fce907822be82e5225c35f846f581ee792c9eba66949404017",
+                  "representation_sha256": "af4197c8b913716a6a3cca5eafcd8f1a231ccc63f33600a2e171141fd035c508",
+                  "start_offset": 1445,
+                  "end_offset": 1521,
+                  "exact_text": "Among the 570 patients randomized, 566 were included in the primary analysis"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.2",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：缺失仅 4/570，数量过小，结果较不可能被 missing outcome data 实质偏倚。 B：仅 4/570 未进入主分析，缺失比例极低，结果不太可能因此偏倚。",
+              "anchors": [
+                {
+                  "document_key": "option.abstract",
+                  "source_sha256": "369bd5314205a0fce907822be82e5225c35f846f581ee792c9eba66949404017",
+                  "representation_sha256": "af4197c8b913716a6a3cca5eafcd8f1a231ccc63f33600a2e171141fd035c508",
+                  "start_offset": 1445,
+                  "end_offset": 1521,
+                  "exact_text": "Among the 570 patients randomized, 566 were included in the primary analysis"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "裁决选择评估者 A：可用结果来源没有闭合 4 名未进入 primary analysis 者的逐组原因，无法判断其 missingness 是否可能依赖真实 mRS。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "option-appendix",
+                  "source_sha256": "d1e7e6c360a42f464a8dbb52c03e138d473a928a71b40941d810302db212cd23",
+                  "representation_sha256": "51322c0d478da9f49457a41a0b3406ce6ff309ce9a56e2892c677a9e6a0c09a9"
+                },
+                {
+                  "document_key": "option-design-report",
+                  "source_sha256": "2ff196b2ac59019f525a744fc0d40a967f434e8cd40c12ff01b2b6f75cf0f4c0",
+                  "representation_sha256": "63f7c41117a24501c206d5c2fe61c04ede960bc9228937d4a305ac6a5e80b439"
+                },
+                {
+                  "document_key": "option-protocol",
+                  "source_sha256": "524713193a34f19d61aaf778a3f1d33120ec56420abc006d9a70b96a10388588",
+                  "representation_sha256": "ce3cc640d800f3d94efd3dbd39fedbfa785d944e27c4a4ccc421c578488526fa"
+                },
+                {
+                  "document_key": "option-sap",
+                  "source_sha256": "4bc00a46144d9232101fb9d4c3e8657fbd9e68ebf646d602227e5137b33c6130",
+                  "representation_sha256": "1b2e02771745787f3f67042b1754e8e5c2b2692926a8c82a449cba9a3b96dbda"
+                },
+                {
+                  "document_key": "option.abstract",
+                  "source_sha256": "369bd5314205a0fce907822be82e5225c35f846f581ee792c9eba66949404017",
+                  "representation_sha256": "af4197c8b913716a6a3cca5eafcd8f1a231ccc63f33600a2e171141fd035c508"
+                }
+              ]
+            },
+            {
+              "question_id": "3.4",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "裁决选择评估者 A：缺少 4 名排除者的实际原因与结局状态，无法判断 missingness 很可能依赖真实值。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "option-appendix",
+                  "source_sha256": "d1e7e6c360a42f464a8dbb52c03e138d473a928a71b40941d810302db212cd23",
+                  "representation_sha256": "51322c0d478da9f49457a41a0b3406ce6ff309ce9a56e2892c677a9e6a0c09a9"
+                },
+                {
+                  "document_key": "option-design-report",
+                  "source_sha256": "2ff196b2ac59019f525a744fc0d40a967f434e8cd40c12ff01b2b6f75cf0f4c0",
+                  "representation_sha256": "63f7c41117a24501c206d5c2fe61c04ede960bc9228937d4a305ac6a5e80b439"
+                },
+                {
+                  "document_key": "option-protocol",
+                  "source_sha256": "524713193a34f19d61aaf778a3f1d33120ec56420abc006d9a70b96a10388588",
+                  "representation_sha256": "ce3cc640d800f3d94efd3dbd39fedbfa785d944e27c4a4ccc421c578488526fa"
+                },
+                {
+                  "document_key": "option-sap",
+                  "source_sha256": "4bc00a46144d9232101fb9d4c3e8657fbd9e68ebf646d602227e5137b33c6130",
+                  "representation_sha256": "1b2e02771745787f3f67042b1754e8e5c2b2692926a8c82a449cba9a3b96dbda"
+                },
+                {
+                  "document_key": "option.abstract",
+                  "source_sha256": "369bd5314205a0fce907822be82e5225c35f846f581ee792c9eba66949404017",
+                  "representation_sha256": "af4197c8b913716a6a3cca5eafcd8f1a231ccc63f33600a2e171141fd035c508"
+                }
+              ]
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D4",
+          "questions": [
+            {
+              "question_id": "4.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：90 日 mRS 0-1 是明确、标准化且适合卒中功能结局的测量。 B：90 日 mRS 通过 standardized telephone interview 评价，方法适当。",
+              "anchors": [
+                {
+                  "document_key": "option.abstract",
+                  "source_sha256": "369bd5314205a0fce907822be82e5225c35f846f581ee792c9eba66949404017",
+                  "representation_sha256": "af4197c8b913716a6a3cca5eafcd8f1a231ccc63f33600a2e171141fd035c508",
+                  "start_offset": 1189,
+                  "end_offset": 1324,
+                  "exact_text": "The primary efficacy outcome was an excellent functional outcome, defined as a score of 0 or 1 on the modified Rankin Scale at 90 days."
+                },
+                {
+                  "document_key": "option-design-report",
+                  "source_sha256": "2ff196b2ac59019f525a744fc0d40a967f434e8cd40c12ff01b2b6f75cf0f4c0",
+                  "representation_sha256": "63f7c41117a24501c206d5c2fe61c04ede960bc9228937d4a305ac6a5e80b439",
+                  "start_offset": 16923,
+                  "end_offset": 17074,
+                  "exact_text": "At 90 (±7) days, mRS, EuroQoL 5-Dimensions 5-Level questionnaire (EQ-5D-5L) and Barthel Index (BI) are assessed via a standardized telephone interview."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：所有 endpoints 由独立且不知道治疗组的 investigator 评价，组间评估方式一致。 B：所有 endpoints 由独立且不知治疗组的评估者评价，两组方法一致。",
+              "anchors": [
+                {
+                  "document_key": "option-design-report",
+                  "source_sha256": "2ff196b2ac59019f525a744fc0d40a967f434e8cd40c12ff01b2b6f75cf0f4c0",
+                  "representation_sha256": "63f7c41117a24501c206d5c2fe61c04ede960bc9228937d4a305ac6a5e80b439",
+                  "start_offset": 14658,
+                  "end_offset": 14759,
+                  "exact_text": "All endpoints will be evaluated by an independent investigator who is unaware of the treatment group."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：独立结局评估者不知道治疗组。 B：独立评估者明确 unaware of the treatment group。",
+              "anchors": [
+                {
+                  "document_key": "option-design-report",
+                  "source_sha256": "2ff196b2ac59019f525a744fc0d40a967f434e8cd40c12ff01b2b6f75cf0f4c0",
+                  "representation_sha256": "63f7c41117a24501c206d5c2fe61c04ede960bc9228937d4a305ac6a5e80b439",
+                  "start_offset": 14658,
+                  "end_offset": 14759,
+                  "exact_text": "All endpoints will be evaluated by an independent investigator who is unaware of the treatment group."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.4",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：独立盲法评估和明确的 mRS 阈值使治疗知识影响判断的可能性低。 B：结局评估者盲法降低 mRS 评价受治疗知识影响的可能。",
+              "anchors": [
+                {
+                  "document_key": "option-design-report",
+                  "source_sha256": "2ff196b2ac59019f525a744fc0d40a967f434e8cd40c12ff01b2b6f75cf0f4c0",
+                  "representation_sha256": "63f7c41117a24501c206d5c2fe61c04ede960bc9228937d4a305ac6a5e80b439",
+                  "start_offset": 14658,
+                  "end_offset": 14759,
+                  "exact_text": "All endpoints will be evaluated by an independent investigator who is unaware of the treatment group."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.5",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：未见盲法结局评估实际受到干预知识影响的证据。 B：没有证据表明盲法评估实际受到治疗知识影响。",
+              "anchors": [
+                {
+                  "document_key": "option-design-report",
+                  "source_sha256": "2ff196b2ac59019f525a744fc0d40a967f434e8cd40c12ff01b2b6f75cf0f4c0",
+                  "representation_sha256": "63f7c41117a24501c206d5c2fe61c04ede960bc9228937d4a305ac6a5e80b439",
+                  "start_offset": 14658,
+                  "end_offset": 14759,
+                  "exact_text": "All endpoints will be evaluated by an independent investigator who is unaware of the treatment group."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D5",
+          "questions": [
+            {
+              "question_id": "5.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：来源明确规定 SAP 在 database lock 和 unblinding 前定稿，且结果按该预设主分析报告。 B：原始 SAP 日期早于 2023 年开始招募，且程序在 unblinding 前使用假分配完成核验。",
+              "anchors": [
+                {
+                  "document_key": "option-design-report",
+                  "source_sha256": "2ff196b2ac59019f525a744fc0d40a967f434e8cd40c12ff01b2b6f75cf0f4c0",
+                  "representation_sha256": "63f7c41117a24501c206d5c2fe61c04ede960bc9228937d4a305ac6a5e80b439",
+                  "start_offset": 23663,
+                  "end_offset": 23827,
+                  "exact_text": "All statistical analyses will be performed following a statistical analysis plan (SAP) which will be finalised before the database lock and unblinding of the trial."
+                },
+                {
+                  "document_key": "option-sap",
+                  "source_sha256": "4bc00a46144d9232101fb9d4c3e8657fbd9e68ebf646d602227e5137b33c6130",
+                  "representation_sha256": "1b2e02771745787f3f67042b1754e8e5c2b2692926a8c82a449cba9a3b96dbda",
+                  "start_offset": 517,
+                  "end_offset": 570,
+                  "exact_text": "Version: Original version 1.0\nDate: December 24, 2022"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：mRS 0-1 at 90 days 被预先固定为 primary outcome，不是从多个结局测量中选择。 B：90 日 mRS 0–1 在事前设计中明确为 primary efficacy outcome。",
+              "anchors": [
+                {
+                  "document_key": "option-design-report",
+                  "source_sha256": "2ff196b2ac59019f525a744fc0d40a967f434e8cd40c12ff01b2b6f75cf0f4c0",
+                  "representation_sha256": "63f7c41117a24501c206d5c2fe61c04ede960bc9228937d4a305ac6a5e80b439",
+                  "start_offset": 19222,
+                  "end_offset": 19333,
+                  "exact_text": "The primary outcome is the proportion of excellent functional outcome defined as an mRS of 0-1 at 90 (±7) days."
+                },
+                {
+                  "document_key": "option-design-report",
+                  "source_sha256": "2ff196b2ac59019f525a744fc0d40a967f434e8cd40c12ff01b2b6f75cf0f4c0",
+                  "representation_sha256": "63f7c41117a24501c206d5c2fe61c04ede960bc9228937d4a305ac6a5e80b439",
+                  "start_offset": 1947,
+                  "end_offset": 2029,
+                  "exact_text": "The primary efficacy outcome is excellent functional outcome (mRS 0-1) at 90 days."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：预先明确 ITT、modified Poisson、RR 与 prespecified adjusted analysis；主报告给出的 crude RR 对应该方案。 B：统计程序在揭盲前以假分配独立开发和核对，不支持基于结果选择分析。",
+              "anchors": [
+                {
+                  "document_key": "option-design-report",
+                  "source_sha256": "2ff196b2ac59019f525a744fc0d40a967f434e8cd40c12ff01b2b6f75cf0f4c0",
+                  "representation_sha256": "63f7c41117a24501c206d5c2fe61c04ede960bc9228937d4a305ac6a5e80b439",
+                  "start_offset": 21603,
+                  "end_offset": 22048,
+                  "exact_text": "The analysis population for the efficacy analyses will be performed on the intention-to-treat (ITT) population. For the primary outcome, the proportions of mRS 0-1 at 90 (±7) days will be compared between two treatment groups using a modified Poisson regression. The risk ratio (RR) and its 95% confidence interval (CI) will be reported. We will also perform adjusted analysis of the primary outcome with adjustment for pre-specified covariates."
+                },
+                {
+                  "document_key": "option-appendix",
+                  "source_sha256": "d1e7e6c360a42f464a8dbb52c03e138d473a928a71b40941d810302db212cd23",
+                  "representation_sha256": "51322c0d478da9f49457a41a0b3406ce6ff309ce9a56e2892c677a9e6a0c09a9",
+                  "start_offset": 19076,
+                  "end_offset": 19287,
+                  "exact_text": "Statistical programs for generating tables and figures were developed independently by both internal\nand external statisticians before unblinding the trial using a faked treatment allocation in the same\ndataset."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        }
+      ],
+      "overall_judgment": "SOME_CONCERNS"
+    },
+    {
+      "study_key": "rose",
+      "target_id": "result.mrs_0_1.day90",
+      "domains": [
+        {
+          "domain": "D1",
+          "questions": [
+            {
+              "question_id": "1.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告明确为 computer-made randomization sequence，block size 为 4。 B：使用 computer-made randomization sequence 和固定 block size。",
+              "anchors": [
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 5108,
+                  "end_offset": 5247,
+                  "exact_text": "eligible patients were randomly allocated (1:1) using a computer-made randomization sequence with a block size of four and sealed envelopes"
+                },
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 5108,
+                  "end_offset": 5304,
+                  "exact_text": "eligible patients were randomly allocated (1:1) using a computer-made randomization sequence with a block size of four and sealed envelopes into either an intravenous TNK group or a control group."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.2",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：使用 sealed envelopes 支持 concealment，但可用报告未说明 envelopes 是否 sequentially numbered/opaque，故保守评为 probably yes。 B：序列通过 sealed envelopes 实施，支持分配前隐藏，但未进一步说明不透明和顺序编号。",
+              "anchors": [
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 5108,
+                  "end_offset": 5247,
+                  "exact_text": "eligible patients were randomly allocated (1:1) using a computer-made randomization sequence with a block size of four and sealed envelopes"
+                },
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 5108,
+                  "end_offset": 5304,
+                  "exact_text": "eligible patients were randomly allocated (1:1) using a computer-made randomization sequence with a block size of four and sealed envelopes into either an intravenous TNK group or a control group."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告明确称两组 baseline characteristics balanced，并列出关键预后变量相近。 B：报告明确称两组 baseline characteristics balanced。",
+              "anchors": [
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 10072,
+                  "end_offset": 10137,
+                  "exact_text": "The baseline characteristics were balanced between the two groups"
+                },
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 10072,
+                  "end_offset": 10149,
+                  "exact_text": "The baseline characteristics were balanced between the two groups ( Table 1 )"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D2",
+          "questions": [
+            {
+              "question_id": "2.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告明确为 open-label，参与者可知分配。 B：研究者明确承认 trial 为 open-label。",
+              "anchors": [
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 16251,
+                  "end_offset": 16416,
+                  "exact_text": "Another limitation was the open-label design of this trial; however, blinded endpoint evaluations were used to reduce bias in the assessment of the primary endpoint."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告明确为 open-label，治疗人员可知分配。 B：open-label 设计意味着实施治疗人员知晓分配。",
+              "anchors": [
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 16251,
+                  "end_offset": 16416,
+                  "exact_text": "Another limitation was the open-label design of this trial; however, blinded endpoint evaluations were used to reduce bias in the assessment of the primary endpoint."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：完整可用 bundle 未报告 crossover、non-adherence 或因试验情境产生的 intended-intervention deviation，不能把未检出等同于不存在。 B：现有 Result Report、Protocol 与 Supplement 未明确报告是否存在由 trial context 引起的 intended-intervention deviations。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "rose-appendix",
+                  "source_sha256": "3dd14f285a15f2d3b99b2519650b673e5b3db9c45b5059d96485318c53222047",
+                  "representation_sha256": "cb7253c34b9346b5c96aaf0358d2006ad3c13077e212e6c4e58c48d31e027a3f"
+                },
+                {
+                  "document_key": "rose-protocol",
+                  "source_sha256": "b15e915509d7e499a92d3792220edd5fce0d005f9bda162c7643e5d76251c1f8",
+                  "representation_sha256": "5bcb42fb99d60fb720915de08a72e2d775e528b28090884dd60760caf7a76f35"
+                },
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85"
+                }
+              ]
+            },
+            {
+              "question_id": "2.4",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：因实际 deviations 未被来源闭合，无法判断其是否可能影响目标结局。 B：由于 trial-context deviations 本身未报告，无法判断其是否可能影响 90 日 mRS。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "rose-appendix",
+                  "source_sha256": "3dd14f285a15f2d3b99b2519650b673e5b3db9c45b5059d96485318c53222047",
+                  "representation_sha256": "cb7253c34b9346b5c96aaf0358d2006ad3c13077e212e6c4e58c48d31e027a3f"
+                },
+                {
+                  "document_key": "rose-protocol",
+                  "source_sha256": "b15e915509d7e499a92d3792220edd5fce0d005f9bda162c7643e5d76251c1f8",
+                  "representation_sha256": "5bcb42fb99d60fb720915de08a72e2d775e528b28090884dd60760caf7a76f35"
+                },
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85"
+                }
+              ]
+            },
+            {
+              "question_id": "2.5",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：因实际 deviations 未被来源闭合，无法判断组间是否平衡。 B：由于 trial-context deviations 本身未报告，无法判断其组间平衡。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "rose-appendix",
+                  "source_sha256": "3dd14f285a15f2d3b99b2519650b673e5b3db9c45b5059d96485318c53222047",
+                  "representation_sha256": "cb7253c34b9346b5c96aaf0358d2006ad3c13077e212e6c4e58c48d31e027a3f"
+                },
+                {
+                  "document_key": "rose-protocol",
+                  "source_sha256": "b15e915509d7e499a92d3792220edd5fce0d005f9bda162c7643e5d76251c1f8",
+                  "representation_sha256": "5bcb42fb99d60fb720915de08a72e2d775e528b28090884dd60760caf7a76f35"
+                },
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85"
+                }
+              ]
+            },
+            {
+              "question_id": "2.6",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告明确按 intention-to-treat principle 分析。 B：分析明确按 intention-to-treat principle，且目标结果覆盖随机分配的 40/40。",
+              "anchors": [
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 7876,
+                  "end_offset": 7954,
+                  "exact_text": "Statistical analyses were performed based on the intention-to-treat principle."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.7",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：80 名随机者的目标结局均以 40/40 为分母，未按随机组分析不可能造成 substantial impact。 B：80 名随机参与者均进入 40/40 的目标结局，未见错误分组分析造成 substantial impact。",
+              "anchors": [
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 908,
+                  "end_offset": 1040,
+                  "exact_text": "Of the randomly assigned 80 patients, the primary endpoint occurred in 52.5% (21/40) of TNK group and 50.0% (20/40) of control group"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        },
+        {
+          "domain": "D3",
+          "questions": [
+            {
+              "question_id": "3.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标结局覆盖全部 80 名随机者（40/40 与 40/40）。 B：随机分配 80 名，目标结局按 21/40 与 20/40 报告，数据完整。",
+              "anchors": [
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 908,
+                  "end_offset": 1040,
+                  "exact_text": "Of the randomly assigned 80 patients, the primary endpoint occurred in 52.5% (21/40) of TNK group and 50.0% (20/40) of control group"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标结局无缺失，因此有直接证据表明结果不受 missing outcome data 偏倚。 B：目标结局覆盖全部随机参与者，支持结果未受缺失数据偏倚。",
+              "anchors": [
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 908,
+                  "end_offset": 1040,
+                  "exact_text": "Of the randomly assigned 80 patients, the primary endpoint occurred in 52.5% (21/40) of TNK group and 50.0% (20/40) of control group"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标结局无缺失，missingness 不可能依赖真实值。 B：目标结局无缺失，缺失不可能依赖真实值。",
+              "anchors": [
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 908,
+                  "end_offset": 1040,
+                  "exact_text": "Of the randomly assigned 80 patients, the primary endpoint occurred in 52.5% (21/40) of TNK group and 50.0% (20/40) of control group"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.4",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标结局无缺失，不存在 missingness 很可能依赖真实值的情形。 B：目标结局无缺失，不存在缺失依赖真实值的实际路径。",
+              "anchors": [
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 908,
+                  "end_offset": 1040,
+                  "exact_text": "Of the randomly assigned 80 patients, the primary endpoint occurred in 52.5% (21/40) of TNK group and 50.0% (20/40) of control group"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D4",
+          "questions": [
+            {
+              "question_id": "4.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：90 日 mRS 0-1 是明确且适当的功能结局测量。 B：90 日 mRS 由 qualified person 按 standardized approach 评价，方法适当。",
+              "anchors": [
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 6770,
+                  "end_offset": 6850,
+                  "exact_text": "The primary outcome was an excellent functional outcome (90-day mRS scores 0–1)."
+                },
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 5305,
+                  "end_offset": 5468,
+                  "exact_text": "The final 90-day mRS score was evaluated by a qualified person who was blinded to the treatment allocation according to a standardized approach at each local site."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：两组使用 standardized approach，且评估者对分配盲法，未见组间差异测量。 B：两组采用相同标准化评价，且评定者对 allocation 盲法。",
+              "anchors": [
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 5305,
+                  "end_offset": 5468,
+                  "exact_text": "The final 90-day mRS score was evaluated by a qualified person who was blinded to the treatment allocation according to a standardized approach at each local site."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：90 日 mRS 评估者对治疗分配保持盲法。 B：报告明确 90 日 mRS 评定者对 treatment allocation 盲法。",
+              "anchors": [
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 5305,
+                  "end_offset": 5468,
+                  "exact_text": "The final 90-day mRS score was evaluated by a qualified person who was blinded to the treatment allocation according to a standardized approach at each local site."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.4",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：盲法且标准化的 mRS 评估不太可能受干预知识影响。 B：盲法且标准化的 mRS 评价不易受治疗知识影响。",
+              "anchors": [
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 5305,
+                  "end_offset": 5468,
+                  "exact_text": "The final 90-day mRS score was evaluated by a qualified person who was blinded to the treatment allocation according to a standardized approach at each local site."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.5",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：没有证据表明结局评估实际受干预知识影响。 B：没有证据表明盲法评价实际受到治疗知识影响。",
+              "anchors": [
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 5469,
+                  "end_offset": 5621,
+                  "exact_text": "The clinical and safety outcomes were centrally adjudicated by physicians who were unaware of the treatment assignment or detailed clinical information."
+                },
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 5305,
+                  "end_offset": 5468,
+                  "exact_text": "The final 90-day mRS score was evaluated by a qualified person who was blinded to the treatment allocation according to a standardized approach at each local site."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D5",
+          "questions": [
+            {
+              "question_id": "5.1",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "裁决选择评估者 A：可用 protocol 预先规定目标结局和 ITT 分析；但没有独立、带最终定稿时间的 SAP，故保守为 probably yes。",
+              "anchors": [
+                {
+                  "document_key": "rose-protocol",
+                  "source_sha256": "b15e915509d7e499a92d3792220edd5fce0d005f9bda162c7643e5d76251c1f8",
+                  "representation_sha256": "5bcb42fb99d60fb720915de08a72e2d775e528b28090884dd60760caf7a76f35",
+                  "start_offset": 1604,
+                  "end_offset": 1692,
+                  "exact_text": "excellent functional outcome,\n\ndefined as modified Rankin Scale score 0 to 1 at 90 days."
+                },
+                {
+                  "document_key": "rose-protocol",
+                  "source_sha256": "b15e915509d7e499a92d3792220edd5fce0d005f9bda162c7643e5d76251c1f8",
+                  "representation_sha256": "5bcb42fb99d60fb720915de08a72e2d775e528b28090884dd60760caf7a76f35",
+                  "start_offset": 11449,
+                  "end_offset": 11535,
+                  "exact_text": "All efficacy analyses will be performed according to the intention-to-treat principle,"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：protocol 已把 mRS 0-1 at 90 days 固定为 primary efficacy outcome，未见按结果选择测量。 B：目标 mRS 0–1 at 90 days 在 protocol 中明确为 primary efficacy outcome。",
+              "anchors": [
+                {
+                  "document_key": "rose-protocol",
+                  "source_sha256": "b15e915509d7e499a92d3792220edd5fce0d005f9bda162c7643e5d76251c1f8",
+                  "representation_sha256": "5bcb42fb99d60fb720915de08a72e2d775e528b28090884dd60760caf7a76f35",
+                  "start_offset": 1604,
+                  "end_offset": 1692,
+                  "exact_text": "excellent functional outcome,\n\ndefined as modified Rankin Scale score 0 to 1 at 90 days."
+                },
+                {
+                  "document_key": "rose-protocol",
+                  "source_sha256": "b15e915509d7e499a92d3792220edd5fce0d005f9bda162c7643e5d76251c1f8",
+                  "representation_sha256": "5bcb42fb99d60fb720915de08a72e2d775e528b28090884dd60760caf7a76f35",
+                  "start_offset": 1635,
+                  "end_offset": 1692,
+                  "exact_text": "defined as modified Rankin Scale score 0 to 1 at 90 days."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.3",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "裁决选择评估者 B：报告同时给出 unadjusted 与 adjusted 结果，未见按结果隐藏或选择分析。",
+              "anchors": [
+                {
+                  "document_key": "rose.fulltext",
+                  "source_sha256": "5d294827ec2e456c30dedf4e728b31332d79743ec291c8d6c59735839b19b32a",
+                  "representation_sha256": "8e415c5542b7e934d25aed6dce4bceb8e48c492bee7f0d1665a91650c6a86d85",
+                  "start_offset": 10424,
+                  "end_offset": 10656,
+                  "exact_text": "The primary outcome occurred in 52.5% (21/40) of the TNK group and 50.0% (20/40) of the control group with no difference between groups (unadjusted OR: 1.11, 95% CI: 0.46–2.66, P =0.82; adjusted OR: 1.10, 95% CI: 0.41–2.97, P =0.85)"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        }
+      ],
+      "overall_judgment": "SOME_CONCERNS"
+    },
+    {
+      "study_key": "trace_iii",
+      "target_id": "result.mrs_0_1.day90",
+      "domains": [
+        {
+          "domain": "D1",
+          "questions": [
+            {
+              "question_id": "1.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：采用 centralized permuted-block randomization，随机序列明确。 B：采用 centralized permuted-block randomization，block size 为 4。",
+              "anchors": [
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 10552,
+                  "end_offset": 10708,
+                  "exact_text": "Randomization was conducted by means of a centralized permuted-block method with blocks of four and was stratified according to the site of vessel occlusion"
+                },
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 10552,
+                  "end_offset": 10825,
+                  "exact_text": "Randomization was conducted by means of a centralized permuted-block method with blocks of four and was stratified according to the site of vessel occlusion (internal carotid artery vs. M1 segment of the middle cerebral artery vs. M2 segment of the middle cerebral artery)."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：中心随机系统在分配前维持 concealment。 B：中心化随机化方法支持分配在纳入前保持隐藏。",
+              "anchors": [
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 10552,
+                  "end_offset": 10708,
+                  "exact_text": "Randomization was conducted by means of a centralized permuted-block method with blocks of four and was stratified according to the site of vessel occlusion"
+                },
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 10552,
+                  "end_offset": 10825,
+                  "exact_text": "Randomization was conducted by means of a centralized permuted-block method with blocks of four and was stratified according to the site of vessel occlusion (internal carotid artery vs. M1 segment of the middle cerebral artery vs. M2 segment of the middle cerebral artery)."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告明确两组 baseline demographic、clinical 与 imaging characteristics 相似。 B：报告明确两组 demographic、clinical 与 imaging baseline characteristics similar。",
+              "anchors": [
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 19072,
+                  "end_offset": 19185,
+                  "exact_text": "The demographic, clinical, and imaging characteristics of the patients were similar in the two groups at baseline"
+                },
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 19072,
+                  "end_offset": 19284,
+                  "exact_text": "The demographic, clinical, and imaging characteristics of the patients were similar in the two groups at baseline and were largely representative of the expected patient population (Table 1 and Tables S1 and S2)."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D2",
+          "questions": [
+            {
+              "question_id": "2.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：试验为 open-label，参与者可知分配。 B：试验明确为 open-label，参与者可知分配。",
+              "anchors": [
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 6503,
+                  "end_offset": 6679,
+                  "exact_text": "We conducted this phase 3, multicenter, prospective, open-label, randomized, blinded-outcomeassessment (also known as blinded-end-pointevaluation) trial at 58 centers in China."
+                },
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 35379,
+                  "end_offset": 35540,
+                  "exact_text": "This trial has several limitations. First, the trial was open-label, although outcomes were assessed by clinicians who were unaware of the treatment assignments."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：试验为 open-label，治疗人员可知分配。 B：试验明确为 open-label，治疗实施人员可知分配。",
+              "anchors": [
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 6503,
+                  "end_offset": 6679,
+                  "exact_text": "We conducted this phase 3, multicenter, prospective, open-label, randomized, blinded-outcomeassessment (also known as blinded-end-pointevaluation) trial at 58 centers in China."
+                },
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 35379,
+                  "end_offset": 35540,
+                  "exact_text": "This trial has several limitations. First, the trial was open-label, although outcomes were assessed by clinicians who were unaware of the treatment assignments."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.3",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "裁决选择评估者 B：正文称 28 人存在 protocol violations，但详细内容仅指向未纳入 Study Source Bundle 的 Supplementary Appendix，无法判断是否为 trial-context deviations。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "trace-iii-design-report",
+                  "source_sha256": "20826ce377566b820d8d399d8dc464caecdabb0df23b8872acbafe8ebc73ef6b",
+                  "representation_sha256": "f1c317ec45f8eaeb26152387766de9a3d1286e47787b76e8be7b71b706f22cc5"
+                },
+                {
+                  "document_key": "trace-iii.registry.ctgov",
+                  "source_sha256": "1b92734a7be5a214596e7c84577c611e07818644ccb333b6b766ebad7f9181d2",
+                  "representation_sha256": "30c0da7176a916a28cb692c82fca2d54ec460cbbf53e2783c6dddf75f8b5d15a"
+                },
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca"
+                }
+              ]
+            },
+            {
+              "question_id": "2.4",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "裁决选择评估者 B：缺少 protocol violations 的完整类型与时序，无法判断其是否可能影响目标结局。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "trace-iii-design-report",
+                  "source_sha256": "20826ce377566b820d8d399d8dc464caecdabb0df23b8872acbafe8ebc73ef6b",
+                  "representation_sha256": "f1c317ec45f8eaeb26152387766de9a3d1286e47787b76e8be7b71b706f22cc5"
+                },
+                {
+                  "document_key": "trace-iii.registry.ctgov",
+                  "source_sha256": "1b92734a7be5a214596e7c84577c611e07818644ccb333b6b766ebad7f9181d2",
+                  "representation_sha256": "30c0da7176a916a28cb692c82fca2d54ec460cbbf53e2783c6dddf75f8b5d15a"
+                },
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca"
+                }
+              ]
+            },
+            {
+              "question_id": "2.5",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：rescue thrombectomy 接近平衡，但 28 名 protocol violations 的逐组分布未在可用 bundle 中报告，无法判断全部偏离是否平衡。 B：缺少 protocol violations 的逐组完整明细，无法判断 deviations 是否平衡。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "trace-iii-design-report",
+                  "source_sha256": "20826ce377566b820d8d399d8dc464caecdabb0df23b8872acbafe8ebc73ef6b",
+                  "representation_sha256": "f1c317ec45f8eaeb26152387766de9a3d1286e47787b76e8be7b71b706f22cc5"
+                },
+                {
+                  "document_key": "trace-iii.registry.ctgov",
+                  "source_sha256": "1b92734a7be5a214596e7c84577c611e07818644ccb333b6b766ebad7f9181d2",
+                  "representation_sha256": "30c0da7176a916a28cb692c82fca2d54ec460cbbf53e2783c6dddf75f8b5d15a"
+                },
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca"
+                }
+              ]
+            },
+            {
+              "question_id": "2.6",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：main analysis 按 intention-to-treat 且纳入全部随机者。 B：main analysis 按 intention-to-treat 并纳入所有 randomized patients。",
+              "anchors": [
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 14828,
+                  "end_offset": 15003,
+                  "exact_text": "The main analysis of the efficacy and safety outcomes was performed according to the intentionto-treat principle and included all the patients who had undergone randomization."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.7",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：全部随机者均纳入 main analysis，不存在未按随机组分析造成 substantial impact。 B：所有随机参与者均按 ITT 纳入，未见错误分析造成 substantial impact。",
+              "anchors": [
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 14828,
+                  "end_offset": 15003,
+                  "exact_text": "The main analysis of the efficacy and safety outcomes was performed according to the intentionto-treat principle and included all the patients who had undergone randomization."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        },
+        {
+          "domain": "D3",
+          "questions": [
+            {
+              "question_id": "3.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告明确 main efficacy analyses 数据完整。 B：main efficacy analyses 数据完整，无需 missing-data imputation。",
+              "anchors": [
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 16379,
+                  "end_offset": 16487,
+                  "exact_text": "The data for the main efficacy analyses were complete; therefore, no imputation for missing data was needed."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标结局数据完整，无 missing outcome data 偏倚。 B：报告明确主效应分析数据完整，支持结果未受缺失数据偏倚。",
+              "anchors": [
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 16379,
+                  "end_offset": 16487,
+                  "exact_text": "The data for the main efficacy analyses were complete; therefore, no imputation for missing data was needed."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标结局无缺失，missingness 不可能依赖真实值。 B：目标结局数据完整，缺失不可能依赖真实值。",
+              "anchors": [
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 16379,
+                  "end_offset": 16487,
+                  "exact_text": "The data for the main efficacy analyses were complete; therefore, no imputation for missing data was needed."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.4",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标结局无缺失，不存在 missingness 很可能依赖真实值。 B：目标结局无缺失，不存在缺失依赖真实值的实际路径。",
+              "anchors": [
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 16379,
+                  "end_offset": 16487,
+                  "exact_text": "The data for the main efficacy analyses were complete; therefore, no imputation for missing data was needed."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D4",
+          "questions": [
+            {
+              "question_id": "4.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：90 日 mRS 0-1 是清楚定义且适当的卒中功能结局。 B：90 日 mRS 通过面访或电话按既定方式评价，方法适当。",
+              "anchors": [
+                {
+                  "document_key": "trace-iii-design-report",
+                  "source_sha256": "20826ce377566b820d8d399d8dc464caecdabb0df23b8872acbafe8ebc73ef6b",
+                  "representation_sha256": "f1c317ec45f8eaeb26152387766de9a3d1286e47787b76e8be7b71b706f22cc5",
+                  "start_offset": 15067,
+                  "end_offset": 15148,
+                  "exact_text": "Proportion of excellent functional outcome defined as an mRS score ≤1 at 90 days."
+                },
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 14572,
+                  "end_offset": 14671,
+                  "exact_text": "the score on the modified Rankin scale at 90 days was assessed at in-person visits or by telephone."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：各中心 qualified physicians 以同一流程评估，且对分配盲法。 B：两组 outcome assessments 均由不知分配的 certified clinicians 完成。",
+              "anchors": [
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 10826,
+                  "end_offset": 11048,
+                  "exact_text": "The assessments of the trial outcomes were performed by qualified physicians, and the outcome events were adjudicated by members of a dedicated adjudication committee, all of whom were unaware of the treatment assignments."
+                },
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 13881,
+                  "end_offset": 14001,
+                  "exact_text": "Outcome assessments were performed by certified clinicians at each center who were unaware of the treatment assignments."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：结局评估和 adjudication 人员均不知道治疗分配。 B：报告明确 outcome assessors unaware of treatment assignments。",
+              "anchors": [
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 10826,
+                  "end_offset": 11048,
+                  "exact_text": "The assessments of the trial outcomes were performed by qualified physicians, and the outcome events were adjudicated by members of a dedicated adjudication committee, all of whom were unaware of the treatment assignments."
+                },
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 13881,
+                  "end_offset": 14001,
+                  "exact_text": "Outcome assessments were performed by certified clinicians at each center who were unaware of the treatment assignments."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.4",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：盲法评估使治疗知识影响 mRS 判断的可能性低。 B：评估者盲法降低 mRS 评价受治疗知识影响的可能。",
+              "anchors": [
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 10826,
+                  "end_offset": 11048,
+                  "exact_text": "The assessments of the trial outcomes were performed by qualified physicians, and the outcome events were adjudicated by members of a dedicated adjudication committee, all of whom were unaware of the treatment assignments."
+                },
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 13881,
+                  "end_offset": 14001,
+                  "exact_text": "Outcome assessments were performed by certified clinicians at each center who were unaware of the treatment assignments."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.5",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：没有证据显示盲法结局判断实际受治疗知识影响。 B：没有证据表明盲法 mRS 评价实际受到治疗知识影响。",
+              "anchors": [
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 10826,
+                  "end_offset": 11048,
+                  "exact_text": "The assessments of the trial outcomes were performed by qualified physicians, and the outcome events were adjudicated by members of a dedicated adjudication committee, all of whom were unaware of the treatment assignments."
+                },
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 13881,
+                  "end_offset": 14001,
+                  "exact_text": "Outcome assessments were performed by certified clinicians at each center who were unaware of the treatment assignments."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D5",
+          "questions": [
+            {
+              "question_id": "5.1",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "裁决选择评估者 B：Result Report 说明 SAP 随 protocol 可得，但当前 Study Source Bundle 未包含 SAP，且 design report 与最终模型表述不同，无法核验最终分析是否依照揭盲前计划。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "trace-iii-design-report",
+                  "source_sha256": "20826ce377566b820d8d399d8dc464caecdabb0df23b8872acbafe8ebc73ef6b",
+                  "representation_sha256": "f1c317ec45f8eaeb26152387766de9a3d1286e47787b76e8be7b71b706f22cc5"
+                },
+                {
+                  "document_key": "trace-iii.registry.ctgov",
+                  "source_sha256": "1b92734a7be5a214596e7c84577c611e07818644ccb333b6b766ebad7f9181d2",
+                  "representation_sha256": "30c0da7176a916a28cb692c82fca2d54ec460cbbf53e2783c6dddf75f8b5d15a"
+                },
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca"
+                }
+              ]
+            },
+            {
+              "question_id": "5.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标测量 mRS ≤1 at 90 days 在预先 design report 中固定为 primary outcome。 B：90 日 mRS 0–1 明确为单一 primary outcome，未见基于结果选择多个 eligible measurements。",
+              "anchors": [
+                {
+                  "document_key": "trace-iii-design-report",
+                  "source_sha256": "20826ce377566b820d8d399d8dc464caecdabb0df23b8872acbafe8ebc73ef6b",
+                  "representation_sha256": "f1c317ec45f8eaeb26152387766de9a3d1286e47787b76e8be7b71b706f22cc5",
+                  "start_offset": 15067,
+                  "end_offset": 15148,
+                  "exact_text": "Proportion of excellent functional outcome defined as an mRS score ≤1 at 90 days."
+                },
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca",
+                  "start_offset": 12007,
+                  "end_offset": 12128,
+                  "exact_text": "The primary outcome was the absence of disability (defined as a score of 0 or 1 on the modified Rankin scale) at 90 days."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "裁决选择评估者 A：可用来源显示预先 design report 与最终分析方法不一致，但缺少报告所称的最终 SAP，无法判断 numerical result 是否因结果而从多个 eligible analyses 中选择。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "trace-iii-design-report",
+                  "source_sha256": "20826ce377566b820d8d399d8dc464caecdabb0df23b8872acbafe8ebc73ef6b",
+                  "representation_sha256": "f1c317ec45f8eaeb26152387766de9a3d1286e47787b76e8be7b71b706f22cc5"
+                },
+                {
+                  "document_key": "trace-iii.registry.ctgov",
+                  "source_sha256": "1b92734a7be5a214596e7c84577c611e07818644ccb333b6b766ebad7f9181d2",
+                  "representation_sha256": "30c0da7176a916a28cb692c82fca2d54ec460cbbf53e2783c6dddf75f8b5d15a"
+                },
+                {
+                  "document_key": "trace_iii.fulltext",
+                  "source_sha256": "d967be8d8b388b1725a825aacbd6ac35d8e89cced10b290e2301ab0a093c4cec",
+                  "representation_sha256": "bb1d24756efc979f07d7971feaf95646dc2842d4b03261df4950e3f92ed254ca"
+                }
+              ]
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        }
+      ],
+      "overall_judgment": "SOME_CONCERNS"
+    }
+  ]
+}

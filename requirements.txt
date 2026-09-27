@@ -1,0 +1,6 @@
+claude-agent-sdk==0.2.134
+deepseek-tokenizer==0.3.0
+httpx==0.28.1
+jsonschema==4.26.0
+pydantic==2.13.4
+tiktoken==0.14.0

@@ -1,0 +1,478 @@
+[DOCLING_PAGE 1]
+
+Received: 12 October 2023
+
+Revised: 5 March 2024
+
+Accepted: 9 March 2024
+
+https://doi.org/10.1016/j.jtha.2024.03.011
+
+ORIGINAL ARTICLE
+
+Extending venous thromboembolism secondary prevention with apixaban in cancer patients. The EVE trial
+
+Robert D. McBane II 1 | Charles L. Loprinzi 2 | Tyler Zemla 3 | Alfonso Tafur 4 | Kristen San fi lippo 5 | Jane Jijun Liu 6 | David A. Garcia 7 | James Heun 8 | Krishna Gundabolu 9 | Adedayo A. Onitilo 10 | Usha Perepu 11 | Monic R. Drescher 12 | Stanislav Henkin 12 | Damon Houghton 1 | Aneel Ashrani 13 | Henny Billett 14 | Shaylene A. McCue 3 | Minji K. Lee 3 | Jennifer G. Le-Rademacher 3 | Waldemar E. Wysokinski 1 | on behalf of the EVE trial investigators
+
+1 Vascular Medicine Division, Gonda Vascular Center, Mayo Clinic, Rochester, Minnesota, USA
+
+2 Department of Medical Oncology, Mayo Clinic, Rochester, Minnesota, USA
+
+3 Clinical Trials and Biostatistics, Mayo Clinic, Rochester, Minnesota, USA
+
+4 Cardiovascular Division, North Shore University Health System, Evanston, Illinois, USA
+
+5 Hematology and Medical Oncology, Siteman Cancer Center, Washington University, St. Louis, Missouri, USA
+
+6 Hematology and Medical Oncology, Illinois Cancer Care, Peoria, Illinois, USA
+
+7 Hematology Division, University of Washington, Seattle, Washington, USA
+
+8 Dean Hematology and Medical Oncology Group, Madison, Wisconsin, USA
+
+9 Hematology and Medical Oncology, University of Nebraska Medical Center, Omaha, Nebraska, USA
+
+10 Hematology and Medical Oncology, Cancer Care & Research Center, Marsh fi eld Clinic, Marsh fi eld, Wisconsin, USA
+
+11 Hematology and Medical Oncology, University of Iowa/Holden Comprehensive Cancer Center, Iowa City, Iowa, USA
+
+12 Cardiovascular Medicine, Dartmouth Hitchcock Medical Center, Lebanon, New Hampshire, USA
+
+Manuscript handled by: Sabine Eichinger
+
+Final decision: Sabine Eichinger, 11 March 2024
+
+Abstract presentation at the International Society of Thrombosis Hemostasis, Montreal, Quebec, Canada, June 27, 2023.
+
+Preprint Server Disclosure: No preliminary report of this work has been previously published.
+
+© 2024 International Society on Thrombosis and Haemostasis. Published by Elsevier Inc. All rights reserved.
+
+-
+
+Abstract
+
+Background: Cancer-associated venous thromboembolism (VTE) management guideline recommendations include continued therapeutic anticoagulation while active cancer persists. The Federal Drug Administration label for apixaban for secondary VTE prevention includes a dose reduction to 2.5 mg twice daily after 6 months of treatment. Objectives: The study ' s purpose was to determine whether this dose reduction is advisable for cancer-associated VTE.
+
+Methods: A randomized, double-blind trial compared apixaban 2.5 mg with 5 mg twice daily for 12 months among cancer patients with VTE who had completed 6 to 12 months of anticoagulation therapy. The primary outcome was combined major bleeding plus clinically relevant nonmajor bleeding.
+
+Results: Of 370 patients recruited, 360 were included in the intention-to-treat analyses. Major plus clinically relevant nonmajor bleeding occurred in 16 of 179 patients (8.9%) in the apixaban 2.5 mg group compared with 22 of 181 patients (12.2%) in the 5 mg group (hazard ratio [HR], 0.72; 95% CI, 0.38-1.37; P = .39). Major bleeding occurred in 2.8% of the apixaban 2.5 mg group and in 2.2% of the 5 mg group (HR, 1.26; 95% CI, 0.34-4.66; P = .73). Recurrent VTE or arterial thrombosis occurred in 9 of 179 patients (5.0%) in the apixaban 2.5 mg group and 9 of 181 patients (5.0%) in the 5 mg group (HR, 1.0; 95% CI, 0.40-2.53; P = 1.00). All-cause mortality rates were similar between groups, 13% vs 12% (HR, 1.14; 95% CI, 0.63-2.04; P = .67).
+
+Conclusion: For secondary prevention of cancer-associated VTE, apixaban 2.5 mg compared with 5 mg twice daily did not lower combined bleeding events (EVE trial NCT03080883).
+
+1704
+
+jthjournal.org
+
+J Thromb Haemost . 2024;22:1704 -1714
+
+[DOCLING_PAGE 2]
+
+MCBANE ET AL.
+
+1705
+
+13 Hematology Division, Mayo Clinic, Rochester, Minnesota, USA
+
+14 Montefi ore Medical Center, Bronx, New York, USA
+
+Correspondence
+
+Robert D. McBane II, Vascular Medicine Division, Gonda Vascular Center, Mayo Clinic, 200 First Street SW, Rochester, MN 55905, USA.
+
+Email: mcbane.robert@mayo.edu
+
+Funding information
+
+This work was supported by a grant from the Bristol-Myers Squibb-P fi zer Alliance.
+
+1 | I NTRODUCTION
+
+Managing patients with cancer-associated venous thromboembolism (VTE) can be challenging to balance the risk of VTE recurrence against the risk of major bleeding. Several factors increase the risk of thrombotic recurrence, including cancer-speci fi c procoagulant activity, chemotherapy, immobility associated with hospitalization, surgery, central venous catheters, and a number of environmental and genetic prothrombotic factors unrelated to cancer [1 -3]. The counterbalance includes a number of factors that increase anticoagulantrelated bleeding complications, including tissue friability, invasive procedures, thrombocytopenia, and renal and liver impairment [4].
+
+While randomized controlled trials have informed decisionmaking during the initial 6 months of management for these patients, there is a paucity of trial data and decision support tools to inform decision-making beyond 6 months. While current guidelines favor extending anticoagulant therapy beyond 6 months for patients with active cancer, these recommendations are conditional and based on a low-to-very low level of certainty [5 -10].
+
+Apixaban, an oral factor Xa inhibitor, has been studied for the management of patients with acute VTE in both cancer and noncancer settings. The Apixaban for Extended Treatment of Venous Thromboembolism (AMPLIFY-EXT) trial compared 2 doses of apixaban (2.5 mg and 5 mg twice daily) with placebo in patients with VTE who had completed 6 to 12 months of anticoagulant therapy for whom there was clinical equipoise regarding continuation of anticoagulation [11]. This trial of extended anticoagulation showed a reduced risk of VTE recurrence compared with placebo without signi fi cantly increasing the rate of major bleeding and has informed decision-making for noncancer patients. While the outcomes comparing apixaban 2.5 mg vs 5 mg twice daily were similar for thrombus recurrence and bleeding outcomes, the United States Food and Drug Administration label for extended therapy with apixaban includes a dose reduction to 2.5 mg twice daily for those patients who completed 6 months of therapy. Whether this dose reduction should apply to cancer-associated VTE is unknown.
+
+KEYWORDS
+
+apixaban, cancer, secondary prevention, venous thromboembolism
+
+In the current Extending Venous Thromboembolism Secondary Prevention with Apixaban in Cancer Patients (EVE trial), rates of major bleeding plus clinically relevant nonmajor bleeding (CRNMB) were compared for apixaban 2.5 mg twice daily and 5 mg twice daily for patients with active cancer and VTE who had completed 6 to 12 months of anticoagulant therapy [12]. We also sought to determine VTE recurrence and arterial thrombosis rates among patients randomized to receive the lower dose of apixaban compared with standard dosing.
+
+2 | METHODS
+
+2.1 | Study design and oversight
+
+The EVE trial is an investigator-initiated phase 3, multicenter, randomized, double-blind study comparing the ef fi cacy and safety of 2 doses of apixaban for the extended treatment of VTE among patients with active cancer as previously described [12]. Study participants, care providers, and the endpoint adjudication team were blinded to the study drug dosing assignment. Participating centers were chosen from the Academic and Community Cancer Research United (ACCRU) research consortium, comprised of more than 90 oncology centers in the United States and Canada. The Bristol-Myers Squibb-P fi zer Alliance provided study medication and trial funding but played no role in study design, data collection, analysis, or manuscript preparation.
+
+The steering committee, comprised of academic authors, had full responsibility for the design of the study, the development of the protocol, the oversight of the study, the veri fi cation of the data, and the analysis. The protocol was approved by the institutional review board at each participating center (EVE trial; NCT03080883). An independent committee blinded to study group assignments adjudicated the qualifying initial diagnosis, and all reported bleeding and thrombotic outcomes. An independent data safety monitoring committee periodically reviewed the study outcomes. All members of the steering committee contributed to the interpretation of the results, wrote and approved the fi nal manuscript, and made the decision to submit it for publication.
+
+-
+
+[DOCLING_PAGE 3]
+
+1706
+
+MCBANE ET AL.
+
+-
+
+2.2 | Study population
+
+Eligible subjects had to be at least 18 years of age and have active cancer at the time of study enrollment, de fi ned as any evidence of cancer on computerized tomography (CT) or positron emission tomography imaging, cancer-related surgery, chemotherapy, or radiation therapy within the past 6 months. The qualifying acute VTE had to be objectively con fi rmed by an imaging study, and the patient must have had completed 6 months (but no more than 12 months) of therapeutic anticoagulation prior to enrollment. Venous thrombi acceptable for inclusion included proximal or distal lower extremity deep vein thrombosis (DVT); upper extremity DVT; pulmonary embolism (PE); cerebral venous sinus thrombosis; or splanchnic (hepatic, portal, splenic, mesenteric, renal, gonadal) vein thrombosis. Subjects had to have had an Eastern Cooperative Oncology Group performance status of 2 or below and have had a life expectancy ≥ 6 months. Required laboratory data included platelet count ≥ 50 000/mm 3 , liver function tests (aspartate aminotransferase or alanine transaminase) < 3-fold the upper limit of normal, a calculated creatinine clearance ≥ 30 mL/min (Cockcroft-Gault), and a negative serum or urine pregnancy test for women of childbearing potential.
+
+Exclusion criteria included therapeutic anticoagulation for less than 6 months or more than 12 months prior to randomization. Patients with severe liver disease (Child-Pugh class B or C), active hepatitis, mechanical heart valve prosthesis, bacterial endocarditis, use of thienopyridine therapy (P2Y12 inhibitors), or strong CYP3A4 inducers or inhibitors were also excluded. Patients with atrial fi brillation who would otherwise require therapeutic anticoagulation for stroke prevention were not eligible. Patients with active bleeding or known bleeding disorder were also excluded. Patients with documented anticoagulant failure de fi ned as clear thrombus recurrence or propagation while actively receiving therapeutic anticoagulation were ineligible to participate. Pregnant or nursing women or individuals unwilling to use adequate contraception were excluded.
+
+2.3 | Randomization
+
+Electronic randomization was performed using the ACCRU randomization application process. Subjects were strati fi ed by cancer stage, cancer-speci fi c thrombosis risk using the Khorana score, and thrombus location (eg, DVT, PE, atypical venous thrombus location).
+
+Patients were randomly assigned to either apixaban 5 mg twice daily or apixaban 2.5 mg twice daily. The intended duration of treatments was 12 months or until a study endpoint was reached. Patients were blinded to study drug assignment, and tablet shape, color, and size were identical for each dose.
+
+2.4 | Outcomes measures
+
+The primary endpoint was the composite of major bleeding and CRNMB. The study intervention was to lower the dose of apixaban to determine whether bleeding outcomes could be reduced. Each endpoint was independently adjudicated by a committee blinded to study assignment. Major bleeding was de fi ned as overt bleeding plus a hemoglobin decrease of ≥ 2 g/dL or transfusion of ≥ 2 units of packed red blood cells or intracranial, intraspinal/epidural, intraocular, retroperitoneal, pericardial, intra-articular, intramuscular with compartment syndrome, or fatal bleeding using the International Society on Thrombosis and Haemostasis (ISTH) criteria [13]. Intracranial hemorrhage included intracerebral (hemorrhagic stroke), subarachnoid, and subdural bleeds. CRNMB was defined as overt bleeding not meeting the criteria for major bleeding but associated with medical intervention, unscheduled contact with a member of the health care team, or temporary cessation of study treatment according to ISTH criteria [14].
+
+A secondary endpoint of this study was thrombus recurrence, which included DVT (lower extremity, upper extremity, and splanchnic or cerebral veins), PE, fatal PE, or arterial thromboembolism. Recurrent DVT had to be con fi rmed by Duplex ultrasonography, venography, CT, or magnetic resonance imaging. A recurrent DVT was distinguished from the original thrombus by comparing serial imaging modalities. To be classi fi ed as a recurrent event, a new fi lling defect must have been evident in a second study that was not appreciated on the original images or an interval study clearly showing thrombus resolution. Recurrent PE had to be con fi rmed by CT, magnetic resonance imaging, conventional pulmonary angiography, or ventilation perfusion scan perfusion imaging. A recurrent PE must have been distinguished from the original thrombus by comparing serial imaging modalities. In order to be classi fi ed as a recurrent event, there must have been a new fi lling defect evident in the second study that was not appreciated on the original images or an interval study clearly showing thrombus resolution. Fatal PE was defi ned as death not attributable to an alternative cause [15]. Incidental VTE recurrences had to be distinguished from the original thrombus by comparing serial imaging modalities. Arterial thromboembolism included myocardial infarction, stroke, transient ischemic attack, or peripheral arterial embolism.
+
+2.5 | Surveillance and follow-up
+
+Following an initial clinical assessment at randomization, subjects were assessed every 30 days for safety and ef fi cacy endpoints, medication compliance, adverse events, and Eastern Cooperative Oncology Group performance. These visits were performed in person whenever feasible or by scripted telephone surveys. Subjects were followed for 12 months.
+
+2.6 | Temporary anticoagulation cessation
+
+The protocol allowed for temporary discontinuation of anticoagulants for invasive procedures, renal impairment, or thrombocytopenia [12]. For procedures with moderate to high bleeding risk, apixaban was to be discontinued 48 hours prior to the elective surgery or invasive procedure with no drug given on the day of the procedure. For procedures associated with a low bleeding risk, apixaban was to be discontinued 24 hours prior to the procedure. Postprocedure, the patient was to have received appropriate DVT prophylaxis. This could have included prophylactic apixaban (open-label dose of 2.5 mg twice daily) dosing for 48 hours; the fi rst prophylactic dose could have been given 24 hours after the procedure. Prophylactic doses of low-molecularweight or unfractionated heparin were permissible. The study drug was withheld for 48 hours after the procedure and not initiated until adequate hemostasis was con fi rmed.
+
+[DOCLING_PAGE 4]
+
+MCBANE ET AL.
+
+Patients with calculated creatinine clearance ≤ 30 mL/min (using the Cockcroft-Gault formula) were instructed to hold treatment until renal function improved to a creatinine clearance > 30 mL/min. For thrombocytopenia ( < 50 000/ μ L), apixaban was to be withheld until platelet count recovery occurred.
+
+2.7 | Statistical analyses
+
+The primary objective of this trial was to test the hypothesis that apixaban 2.5 mg twice daily is associated with a lower combined rate of major bleeding plus CRNMB compared with apixaban 5 mg twice daily for the secondary prevention of VTE in patients with active cancer and con fi rmed VTE who had completed at least 6 months (but no more than 12 months) of anticoagulant therapy. Based on previously published data, we estimated a combined rate of major bleeding plus CRNMB to be 18% for the 5 mg dose of apixaban [16]. A 50% risk reduction in combined bleeding events for the 2.5 mg dose of apixaban was chosen. A sample size of 352 patients (176 per arm) was required to achieve 70% power at a 2-sided type I error of 5% to detect a difference in combined major bleeding and CRNMB rate of 9% with 2.5 mg of apixaban twice daily compared with the rate of 18% with 5 mg twice daily. The sample size was in fl ated by 5% to a total of 370 (185/arm) to account for screen failures and study dropouts.
+
+All patients who received at least 1 dose of study medication (either apixaban 2.5 mg or apixaban 5 mg) were included in the primary modi fi ed intention-to-treat analysis. The analysis of major plus CRNMB included events occurring during treatment or within 7 days following treatment discontinuation.
+
+For the primary analysis, the incidence of major bleeding and CRNMB was estimated using the cumulative incidence function with death without major bleeding or CRNMB and with adverse events that result in termination of treatment (including vascular events) as competing risks. The time to event was de fi ned as the time from randomization to the fi rst occurrence of a major bleeding, CRNMB, death without major bleeding or CRNMB, or an adverse event that results in termination of treatment (including vascular events). Patients who were lost to follow-up or who withdrew informed consent before the end of the prede fi ned study duration were censored on the last day the patient had a complete assessment for study outcomes within the intended study period. For the secondary endpoint analysis, the time to the fi rst event of the composite thrombotic outcomes was analyzed using this same statistical methodology. For this outcome, death without VTE and adverse events leading to termination of treatment were treated as competing risks. Outcomes were compared using a 2-sample Z-test proportions with a 2-sided alternative at a 5% signi fi cance level Fisher ' s exact test with a 95% CI.
+
+-
+
+1707
+
+3 | RESULTS
+
+From July 2017 to June 2021, 370 patients were enrolled at 49 sites in the United States (Consort Diagram, Figure 1; Supplementary Table S1). Five patients from each study arm were excluded from the analysis because they did not start treatment. Therefore, 360 patients (179 patients assigned to apixaban 2.5 mg and 181 assigned to apixaban 5 mg) were available for the modi fi ed intention-to-treat analysis. Patient demographics were similar between study groups (Table 1). The mean age of study participants was 64 years (SD, ±10.8 years); 55.3% were female, and most were non-Hispanic (96.4%) and White (93.6%). The qualifying VTE event was PE in over half (53.3%). The 4 most common tumor sites were gastrointestinal (26.1%), lung (11.9%), hematologic (13.9%), and gynecologic malignancies (10.0%). Metastatic disease was present in 59.7% of patients at the time of study enrollment.
+
+3.1 | Primary endpoint
+
+During the 12-month study period, the primary endpoint, a composite bleeding outcome event (Figure 2A), occurred in 16 of 179 patients who were receiving apixaban 2.5 mg (8.9%) compared with 22 of 181 patients who were receiving apixaban 5 mg (12.2%). The estimated cumulative incidence of the composite primary endpoint at 12 months was 9.6% in the 2.5 mg group and 13.5% in the 5 mg group (hazard ratio [HR],0.72; 95% CI, 0.38-1.37; P = .39; Table 2).
+
+Major bleeding occurred in 5 patients receiving apixaban 2.5 mg (2.8%) and 4 patients receiving apixaban 5 mg (2.2%) (Figure 2B). The estimated cumulative incidence of the major bleeding at 12 months was 3% for the 2.5 mg group and 2.4% for the 5 mg group (HR, 1.26; 95% CI, 0.34-4.66; P = .73). Sites of major bleeding included gastrointestinal ( n = 4), genitourinary ( n = 2), and intracranial ( n = 3) (Table 2). No fatal bleeding events occurred in either group. For all patients with gastrointestinal bleeding events, the primary tumor site was gastrointestinal. For the 3 patients with intracranial hemorrhage, the tumor sites were breast, gastrointestinal, and lung. Genitourinary bleeding events occurred in patients with hematologic and gynecologic malignancy ( n = 1 each).
+
+CRNMB occurred in 12 patients receiving apixaban in the 2.5 mg group (6.7%) and 18 patients receiving apixaban in the 5 mg group (9.9%) (Table 2; Figure 2C). The estimated cumulative incidence of the major bleeding at 12 months was 7.2% for the 2.5 mg group and 11.2% for the 5 mg group (HR, 0.66; 95% CI, 0.32-1.37; P = .26). One patient experienced both a major bleeding and CRNMB event.
+
+[DOCLING_PAGE 5]
+
+MCBANE ET AL.
+
+F I G U R E 1 Consort diagram. The intention-to-treat analysis included all the patients who had undergone randomization and received at least 1 dose of the assigned treatment.
+
+1708
+
+-
+
+The difference in proportions of patients who experienced the primary endpoint within the 6 months of beginning the treatment was not statistically signi fi cant ( P = .83). The estimated odds ratio was 0.83 (95% CI, 0.31-2.17).
+
+Combined arterial and venous thrombotic event rates did not differ between groups.
+
+3.3 | Death
+
+Forty- fi ve deaths occurred over the 12-month treatment period: 24 patients receiving apixaban 2.5 mg (13%) and 21 patients receiving 5 mg (12%) (HR, 1.14; 95% CI, 0.63-2.04; P = .67; Figure 4). There were no fatal bleeding, venous thromboembolic, or arterial events.
+
+3.4 | Temporary drug interruptions
+
+Over the course of the trial, temporary anticoagulation interruptions were allowed for invasive procedures, severe thrombocytopenia, or acute kidney injury. These temporary interruptions occurred in 131 patients randomized to receive apixaban 2.5 mg and 133 patients randomized to receive apixaban 5 mg (Table 3).
+
+3.2 | Thromboembolism
+
+Over the study period, 9 patients receiving apixaban 2.5 mg (5.0%) and 8 patients receiving apixaban 5 mg (4.4%) experienced a recurrent VTE event (HR, 1.00; 95% CI, 0.40-2.53; P = 1.0; Figure 3). The underlying cancer for these 17 patients was gastrointestinal ( n = 5), renal ( n = 2), lung ( n = 4), uterine ( n = 5), and sarcoma ( n = 1). Among these patients, 2 patients also experienced a CRNMB.
+
+Over the same period, 1 patient (0.6%) from each group experienced an arterial thrombotic event. Both arterial events occurred among patients with uterine cancer. One patient receiving apixaban 2.5 mg suffered a myocardial infarction, and 1 patient receiving apixaban 5 mg had a peripheral artery embolism.
+
+[DOCLING_PAGE 6]
+
+MCBANE ET AL.
+
+[DOCLING_TABLE rows=35 columns=3]
+| Demographics | Apixaban 2.5 mg ( N = 179) a | Apixaban 5 mg ( N = 181) a |
+| Age, y (SD) | 63.6 (11.0) | 64.3 (10.7) |
+| Female gender, n (%) | 92 (51.4) | 107 (59.1) |
+| Creatinine clearance mL/min, mean (SD) | 91.4 (35.4) | 91.7 (38.0) |
+| BMI, mean (SD) | 29.2 (6.6) | 29.5 (6.8) |
+| Range | 17.1, 64.6 | 13.8, 52.7 |
+| Qualifying thrombus, n (%) |  |  |
+| Any PE | 106 (59.2) | 102 (56.4) |
+| Leg DVT | 71 (39.7) | 72 (39.8) |
+| Upper extremity DVT | 17 (9.5) | 20 (11.0) |
+| Cerebral venous sinus thrombosis | 2 (1.1) | 0 (0.0) |
+| Splanchnic vein thrombosis | 10 (5.6) | 12 (6.6) |
+| ECOG score, n (%) |  |  |
+| 0 | 97 (54.2) | 96 (53.0) |
+| 1 | 73 (40.8) | 80 (44.2) |
+| 2 | 9 (5.0) | 5 (2.8) |
+| Distant metastasis, n (%) | 104 (58.1) | 111 (61.3) |
+| Concurrent systemic cancer therapy, n (%) | 108 (73.5) | 110 (74.3) |
+| Radiation therapy, n (%) | 67 (37.4) | 83 (45.9) |
+| Solid tumor, n (%) |  |  |
+| Brain | 3 (1.7) | 5 (2.8) |
+| Breast | 10 (5.6) | 25 (13.8) |
+| Colorectal/pancreas/stomach | 44 (24.6) | 45 (24.9) |
+| Ear, nose, throat | 0 (0.0) | 1 (0.6) |
+| Genitourinary/kidney/ bladder | 8 (4.5) | 12 (6.6) |
+| Gynecologic | 19 (10.6) | 17 (9.4) |
+| Leukemia/lymphoma/ myeloma | 34 (19.0) | 16 (8.8) |
+| Lung | 26 (14.5) | 17 (9.4) |
+| Melanoma | 1 (0.6) | 0 (0.0) |
+| Neuroendocrine | 2 (1.4) | 3 (1.7) |
+| Prostate | 5 (2.8) | 6 (3.3) |
+| Sarcoma | 5 (2.8) | 4 (2.2) |
+| Thyroid | 2 (1.4) | 3 (1.7) |
+| Upper gastrointestinal | 3 (1.7) | 2 (1.1) |
+| Other | 4 (2.2) | 3 (1.7) |
+[/DOCLING_TABLE]
+
+(Continues)
+
+[DOCLING_TABLE rows=22 columns=3]
+| Demographics | Apixaban 2.5 mg ( N = 179) a | Apixaban 5 mg ( N = 181) a |
+| Tumor status, n (%) |  |  |
+| Resected with no residual | 33 (18.4) | 33 (18.2) |
+| Resected with known residual | 146 (81.6) | 148 (81.7) |
+| Thrombus risk (based on Khorana score) |  |  |
+| High ( ≥ 3) | 21 (11.7) | 20 (11.0) |
+| Low ( < 3) | 158 (88.3) | 161 (89.0) |
+| Prior history of VTE, n (%) | 18 (10.1) | 16 (8.8) |
+| Family history of thrombosis, n (%) | 14 (7.8) | 15 (8.3) |
+| Prior history of miscarriage, n (%) | 6 (3.4) | 8 (4.4) |
+| Race, n (%) |  |  |
+| White | 168 (93.9) | 169 (93.4) |
+| Black or African American | 7 (3.9) | 9 (5.0) |
+| Asian | 0 (0.0) | 1 (0.6) |
+| Not reported: patient refused or was not available | 2 (1.1) | 1 (0.6) |
+| Multiracial | 1 (0.6) | 0 (0.0) |
+| Native American | 1 (0.6) | 1 (0.6) |
+| Ethnicity, n (%) |  |  |
+| Hispanic or Latino | 5 (2.8) | 2 (1.1) |
+| Non-Hispanic | 171 (95.5) | 176 (97.2) |
+| Not reported | 2 (1.1) | 2 (1.1) |
+| Unknown | 1 (0.6) | 1 (0.6) |
+[/DOCLING_TABLE]
+
+BMI, body mass index; DVT, deep vein thrombosis; ECOG, European Cooperative Oncology Group; PE, pulmonary embolism; VTE, venous thromboembolism.
+
+a Unless otherwise speci fi ed.
+
+Invasive procedures were performed in 102 patients receiving apixaban 2.5 mg, of which 45 were deemed high bleeding risk (Supplementary Table S2). For those receiving apixaban 5 mg, 99 subjects underwent an invasive procedure, of which 57 were considered high bleeding risk. During the 30 days following the invasive procedure, combined major bleeding plus CRNMB occurred in 2 patients receiving apixaban 2.5 mg and 5 patients receiving apixaban 5 mg (Table 3). Major bleeding events occurred in no patients receiving apixaban 2.5 mg and 1 patient receiving apixaban 5 mg and CRNMB occurred in 2 and 4 patients, respectively.
+
+There were no periprocedural venous thrombotic events during the 30-day postprocedural time interval. One patient receiving apixaban 5 mg experienced peripheral arterial thromboembolism during this time window.
+
+-
+
+1709
+
+[DOCLING_PAGE 7]
+
+MCBANE ET AL.
+
+1710
+
+-
+
+4 | DISCUSSION
+
+The principal fi nding of this study is that no differences in combined bleeding or thromboembolic rates were found on comparing apixaban 2.5 mg twice daily with 5 mg twice daily among patients with active cancer who have completed 6 to 12 months of anticoagulant treatment for acute VTE. Both the methodology and results parallel the AMPLIFY-EXT trial, which reported similar bleeding and VTE
+
+recurrence rates for these 2 apixaban doses among primarily noncancer patients [11]. In contrast to the AMPLIFY-EXT, a placebo group was not included as clinical equipoise was not felt to be appropriate in the cancer setting. It is also noteworthy that AMPLIFY-EXT trial recruited a total of 42 patients with active cancer.
+
+Given these trial results, one might consider adopting a management strategy of reducing apixaban dosing to 2.5 mg twice daily for all cancer patients completing 6 to 12 months of anticoagulation therapy for VTE. This implies similar risk of bleeding or thrombosis irrespective of tumor type, stage, or location. Previous studies have found considerable cancer-speci fi c differences in these outcomes. In a population-based study of 681 patients with cancer-associated VTE, a Arterial thrombotic events occurred in patients suffering from concurrent VTE and were thus already accounted for.
+
+F I G U R E 2 Bleeding outcomes. The primary safety outcome was the cumulative incidence of major bleeding plus clinically relevant nonmajor bleeding (A). No differences in combined bleeding outcomes comparing apixaban 2.5 mg twice daily (blue solid line) with apixaban 5 mg twice daily (red dashed line) were identi fi ed. No differences in major bleeding (B) or clinically relevant nonmajor bleeding (C) at 12 months were found between treatment groups. The panel insets show the same data on an expanded y-axis.
+
+[DOCLING_PAGE 8]
+
+MCBANE ET AL.
+
+[DOCLING_TABLE rows=33 columns=5]
+| Outcomes | Apixaban 2.5 mg ( N = 179) | Apixaban 5 mg ( N = 181) a | Hazard ratio (95% CI) | P value |
+| Days on anticoagulants |  |  |  | .31 |
+| Mean | 235 | 243 |  |  |
+| SD | 56.4 | 57.4 |  |  |
+| Median | 215 | 222 |  |  |
+| Range | 39, 365 | 179, 367 |  |  |
+| Primary endpoint, n (%) |  |  |  |  |
+| Major plus CRNMB | 16 (8.9) | 22 (12.2) | 0.72 (0.38-1.37) | .39 |
+| Major bleed | 5 (2.8) | 4 (2.2) | 1.26 (0.34-4.66) | .73 |
+| CRNMB | 12 (6.7) | 18 (9.9) | 0.66 (0.32-1.37) | .26 |
+| Site of major bleeding, n (%) |  |  |  |  |
+| Gastrointestinal | 2 (1.1) | 2 (1.1) |  |  |
+| Genitourinary | 2 (1.1) | 0 (0.0) |  |  |
+| Intracranial | 1 (0.6) | 2 (1.1) |  |  |
+| Fatal | 0 (0.0) | 0 (0.0) |  |  |
+| Site of CRNMB, n (%) |  |  |  |  |
+| Gastrointestinal | 3 (1.7) | 2 (1.1) |  |  |
+| Genitourinary | 2 (1.1) | 7 (3.9) |  |  |
+| Epistaxis | 1 (0.6) | 0 (0.0) |  |  |
+| Hemoptysis | 1 (0.6) | 2 (1.6) |  |  |
+| Hematuria | 0 (0.0) | 1 (0.6) |  |  |
+| Anemia | 0 (0.0) | 1 (0.6) |  |  |
+| Multiple sites | 3 (1.7) | 1 (0.6) |  |  |
+| Unknown | 2 (1.1) | 4 (2.2) |  |  |
+| Secondary endpoint, n (%) |  |  |  |  |
+| Venous thromboembolism, n (%) | 9 (5.0) | 8 (4.4) | 1.00 (0.40-2.53) | 1.00 |
+| PE | 4 (2.2) | 5 (2.8) |  |  |
+| Lower extremity DVT | 3 (1.7) | 4 (2.2) |  |  |
+| Upper extremity DVT | 0 (0.0) | 0 (0.0) |  |  |
+| Splanchnic vein thrombosis | 2 (1.1) | 1 (0.6) |  |  |
+| Cerebral venous sinus thrombosis | 0 (0.0) | 0 (0.0) |  |  |
+| Arterial thrombosis | 1 (0.6) | 1 (0.6) |  |  |
+| Mortality, n (%) | 24 (13) | 21 (12) | 1.14 (0.63-2.04) | .67 |
+[/DOCLING_TABLE]
+
+CRNMB; clinically relevant nonmajor bleeding; DVT, deep vein thrombosis; PE, pulmonary embolism.
+
+a Unless otherwise speci fi ed.
+
+risk prediction model based on a number of cancer-speci fi c predictors identi fi ed those at increased 10-year risk of VTE recurrence or bleeding outcomes [17]. A prospective registry of 1702 cancer patients with VTE was followed forward in time to assess VTE recurrence, bleeding, and mortality outcomes by tumor location [18]. Patients with hepatobiliary cancer experienced the highest rates of VTE recurrence, followed by genitourinary, pancreatic, and hematologic malignancies. In contrast, those with renal cancer had the highest rates of anticoagulant-related major bleeding. Beyond simply assessing the cancer site, the Registro Informatizado Enfermedad Tromboemb ´ olica
+
+-
+
+1711
+
+[DOCLING_PAGE 9]
+
+1712
+
+MCBANE ET AL.
+
+-
+
+F I G U R E 3 Thromboembolism outcomes. The ef fi cacy outcomes included venous thromboembolism recurrence or arterial thrombosis. There was no difference in combined venous thrombosis recurrence plus arterial thrombosis comparing apixaban 2.5 mg twice daily (blue solid line) with apixaban 5 mg twice daily (red dashed line). The panel insets show the same data on an expanded y-axis.
+
+(RIETE) registry was used to assess clinical outcomes of lung cancer patients with VTE according to tumor histology [19]. Of 482 lung cancer patients, those with adenocarcinoma experienced higher rates of VTE recurrence and lower rates of major hemorrhage compared with other tumor types. As such, a nuanced approach to decisionmaking for anticoagulation therapy among cancer patients appears feasible. Currently available tools, such as the Ottawa Score, have not been deemed suf fi ciently accurate for this purpose [20 -23]. Yet, both VTE recurrence and bleeding outcomes negatively impact survival among cancer patients receiving anticoagulant therapy for VTE. Adverse outcomes such as VTE recurrence, major bleeding, or CRNMB increased mortality risk by 40% to 80% among 1812 cancer patients receiving anticoagulant therapy for VTE [24]. Identifying variables predicting adverse outcomes may help risk-stratify patients with poor prognosis. Development of tools and decision support algorithms capable of parsing patient-speci fi c cancers and other comorbidities by bleeding and thrombotic risk to assist long-term anticoagulation management decision-making remains a clinical priority.
+
+The current trial results are similar to a recent multicenter singlearm Norwegian trial of 196 cancer patients treated with apixaban 2.5 mg twice daily for 30 months after completing 6 months of therapeutic anticoagulants for VTE indication [25]. For months 7 to 18, there were 11 recurrent VTE events (5.6%) and 4 major bleeding events (2.0%). CRNMB events were not collected. While an apixaban 5 mg arm was not included, the reported percentages are very similar to the EVE results for the 2.5 mg arm.
+
+There are several study limitations which should be noted. First, the power and sample size calculation was based on published data available at the time of trial design with an anticipated rate for combined major bleeding plus CRNMB of 18% for the apixaban 5 mg arm [16]. In retrospect, this anticipated rate for combined bleeding for the apixaban 5 mg arm was an overestimate relative to the observed rate of 12.2%. The 50% risk reduction projection for the apixaban 2.5 mg arm was also an overestimate. While the proposed rate of 9% for the 2.5 mg arm was only an estimate, this was remarkably close to the observed rate of 8.9%. Like other studies, patients with a history of CRNMB, clinically relevant nonmajor bleeding.
+
+F I G U R E 4 All-cause mortality. All-cause mortality was similar for both treatment arms: apixaban 2.5 mg twice daily (blue solid line) vs apixaban 5 mg twice daily (red dashed line). The panel insets show the same data on an expanded y-axis.
+
+[DOCLING_PAGE 10]
+
+MCBANE ET AL.
+
+[DOCLING_TABLE rows=11 columns=4]
+| Outcomes | Apixaban 2.5 mg ( N = 179) | Apixaban 5 mg ( N = 181) | P value |
+| Patients with temporary interruption | 131 (73.2) | 133 (73.5) | .95 |
+| Patients with an invasive procedure, n (%) | 102 (56.9) | 99 (54.7) | .85 |
+| High bleeding risk, n | 45 | 57 |  |
+| Low bleeding risk, n | 57 | 42 |  |
+| 30-d outcomes following procedure, n (%) |  |  |  |
+| Major bleeding or CRNMB | 2 (1.9) | 5 (5.1) |  |
+| Major bleed | 0 (0.0) | 1 (1.0) |  |
+| CRNMB | 2 (1.9) | 4 (4.0) |  |
+| Venous thrombosis | 0 (0.0) | 0 (0.0) |  |
+| Arterial thrombosis | 0 (0.0) | 1 (1.0) |  |
+[/DOCLING_TABLE]
+
+a Unless otherwise speci fi ed.
+
+major bleeding within the last 6 months were excluded from trial participation. This exclusion may have reduced the anticipated bleeding rates for the 5 mg arm. The APIxaban Cancer Associated Thrombosis trial (APICAT) study, with a very similar trial design, has completed enrollment of 1722 subjects and will shed further light on this issue [26]. Second, there were nonstatistically signi fi cant numerical differences in tumor type between study arms, including breast, genitourinary, hematologic, and lung malignancies. It is unlikely that these small differences had meaningful impact on either bleeding or thrombotic outcomes. Third, the Khorana score, used to balance cancer-speci fi c thrombotic risk between groups, was neither designed nor validated for use in secondary VTE risk prediction. The lack of an alternative, well-validated, and accepted scoring tool prompted its use in addition to cancer stage and thrombus location. Fourth, recurrent pulmonary emboli were not categorized as symptomatic or incidental as knowledge of the importance of this distinction was not available at the time of trial design. Lastly, the majority of recruited subjects were non-Hispanic Whites. This may limit applicability for other racial and ethnic groups.
+
+In conclusion, in this study of secondary prevention of cancerassociated VTE, treatment with apixaban 2.5 mg twice daily did not signi fi cantly lower the rate of combined bleeding events compared with 5 mg twice daily. Furthermore, we did not fi nd signi fi cant differences in thrombotic outcomes among those patients receiving apixaban 2.5 mg twice daily compared with 5 mg twice daily. These results are similar to the AMPLIFY-EXT trial of secondary prevention among primarily noncancer patients. A universal recommendation to adopt this dose reduction to apixaban 2.5 mg for all cancer patients seems imprudent at the present time. More data are required to determine whether a more nuanced dosing choice may be bene fi cial depending on both cancer-speci fi c and patient-speci fi c clinical variables.
+
+AUTHOR CONTRIBUTIONS
+
+R.D.M., C.L.L., T.Z., J.G.L.R., and W.E.W. designed the research methods. R.D.M., A.F., K.S., J.J.L., D.A.G., J.H., K.G., A.A.O., U.P., M.R.D., S.H., D.H., A.A., and W.E.W. helped with patient recruitment. R.D.M., C.L.L., W.E.W., T.Z., M.K.L., and S.M. analyzed the results and made a signi fi cant contribution to the initial manuscript draft. R.D.M., C.L.L., W.E.W., T.Z., A.T., M.L., S.M., K.S., J.J.L., D.A.G., J.H., K.G., A.A.O., U.P., M.R.D., S.H., D.H., A.A., and W.E.W. analyzed the results and made critical revisions to the fi nal paper.
+
+DECLARATION OF COMPETING INTERESTS
+
+The authors declare no competing fi nancial interests.
+
+X, FORMERLY KNOWN AS TWITTER
+
+Robert D. McBane II @Robmcbane
+
+REFERENCES
+
+Hutten BA, Prins MH, Gent M, Ginsberg J, Tijssen JG, Buller HR. Incidence of recurrent thromboembolic and bleeding complications among patients with venous thromboembolism in relation to both malignancy and achieved international normalized ratio: a retrospective analysis. J Clin Oncol . 2000;18:3078 -83.
+
+Prandoni P, Lensing AW, Piccioli A, Bernardi E, Simioni P, Girolami B, Marchiori A, Sabbion P, Prins MH, Noventa F, Girolami A. Recurrent venous thromboembolism and bleeding complications during anticoagulant treatment in patients with cancer and venous thrombosis. Blood . 2002;100:3484 -8.
+
+Descourt R, Le Gal G, Couturaud F, Mottier D, Bressollette L, Robinet G, Rog ´ e C, Oger E, Leroyer C. Recurrent venous thromboembolism under anticoagulant therapy: a high risk in adenocarcinoma? Thromb Haemost . 2006;95:912 -3.
+
+Trujillo-Santos J, Ruiz-Gamietea A, Luque JM, Samperiz AL, GarciaBragado F, Todoli JA, Monreal M, RIETE Investigators. Predicting recurrences or major bleeding in women with cancer and venous
+
+-
+
+1713
+
+[DOCLING_PAGE 11]
+
+1714
+
+MCBANE ET AL.
+
+-
+
+thromboembolism. Findings from the RIETE Registry. Thromb Res . 2009;123:S10 -5.
+
+Khorana AA, Noble S, Lee AYY, Soff G, Meyer G, O ' Connell C, Carrier M. Role of direct oral anticoagulants in the treatment of cancer-associated venous thromboembolism: guidance from the SSC of the ISTH. J Thromb Haemost . 2018;16:1891 -4.
+
+Key NS, Khorana AA, Kuderer NM, Bohlke K, Lee AYY, Arcelus JI, Wong SL, Balaban EP, Flowers CR, Francis CW, Gates LE, Kakkar AK, Levine MN, Liebman HA, Tempero MA, Lyman GH, Falanga A. Venous thromboembolism prophylaxis and treatment in patients with cancer: ASCO Clinical Practice Guideline update. J Clin Oncol . 2020;38:496 -520.
+
+Lyman GH, Carrier M, Ay C, Di Nisio M, Hicks LK, Khorana AA, Leavitt AD, Lee AYY, Macbeth F, Morgan RL, Noble S, Sexton EA, Stenehjem D, Wiercioch W, Kahale LA, Alonso-Coello P. American Society of Hematology 2021 guidelines for management of venous thromboembolism: prevention and treatment in patients with cancer. Blood Adv . 2021;5:927 -74.
+
+Farge D, Frere C, Connors JM, Khorana AA, Kakkar A, Ay C, Mu ˜ noz A, Brenner B, Prata PH, Brilhante D, Antic D, Casais P, Guillermo Esposito MC, Ikezoe T, Abutalib SA, Meillon-García LA, Bounameaux H, Pabinger I, Douketis J, International Initiative on Thrombosis and Cancer (ITAC) advisory panel. International Initiative on Thrombosis and Cancer (ITAC) advisory panel. 2022 International Clinical Practice Guidelines for the treatment and prophylaxis of venous thromboembolism in patients with cancer, including patients with COVID-19. Lancet Oncol . 2022;23:e334 -47.
+
+Francis CW, Kessler CM, Goldhaber SZ, Kovacs MJ, Monreal M, Huisman MV, Bergqvist D, Turpie AG, Ortel TL, Spyropoulos AC, Pabinger I, Kakkar AK. Treatment of venous thromboembolism in cancer patients with dalteparin for up to 12 months: the DALTECAN Study. J Thromb Haemost . 2015;13:1028 -35.
+
+Jara-Palomares L, Solier-Lopez A, Elias-Hernandez T, AsensioCruz M, Blasco-Esquivias I, Marin-Barrera L, de la BorbollaArtacho MR, Praena-Fernandez JM, Montero-Romero E, NavarroHerrero S, Serrano-Gotarredona MP, S ´ anchez-Díaz JM, Palacios C, Otero R. Tinzaparin in cancer associated thrombosis beyond 6months: TiCAT Study. Thromb Res . 2017;157:90 -6.
+
+Agnelli G, Buller HR, Cohen A, Curto M, Gallus AS, Johnson M, Porcari A, Raskob GE, Weitz JI, AMPLIFY-EXT Investigators. Apixaban for extended treatment of venous thromboembolism. N Engl J Med . 2013;368:699 -708.
+
+McBane RD 2nd, Loprinzi CL, Ashrani A, Lenz CJ, Houghton D, Zemla T, Le-Rademacher JG, Wysokinski WE. Extending venous thromboembolism secondary prevention with apixaban in cancer patients: the EVE trial. Eur J Haematol . 2020;104:88 -96.
+
+Schulman S, Kearon C. De fi nition of major bleeding in clinical investigations of antihemostatic medicinal products in non-surgical patients. J Thromb Haemost . 2005;3:692 -4.
+
+Kaatz S, Ahmad D, Spyropoulos AC, Schulman S, Subcommittee on Control of Anticoagulation. De fi nition of clinically relevant non-major bleeding in studies of anticoagulants in atrial fi brillation and venous thromboembolic disease in non-surgical patients: communication from the SSC of the ISTH. J Thromb Haemost . 2015;13:2119 -26.
+
+Girard P, Penaloza A, Parent F, Gable B, Sanchez O, Durieux P, Hausfater P, Dambrine S, Meyer G, Roy PM. Reproducibility of clinical events adjudications in a trial of venous thromboembolism prevention. J Thromb Haemost . 2017;15:662 -9.
+
+Vedovati MC, Germini F, Agnelli G, Becattini C. Direct oral anticoagulants in patients with VTE and cancer: a systematic review and meta-analysis. Chest . 2015;147:475 -83.
+
+Chee CE, Ashrani AA, Marks RS, Petterson TM, Bailey KR, Melton LJ 3rd, Heit JA. Predictors of venous thromboembolism recurrence and bleeding among active cancer patients: a populationbased cohort study. Blood . 2014;123:3972 -8.
+
+Wysokinski WE, Houghton DE, Vlazny DT, Ashrani AA, Froehling DA, Kamath PS, Meverden RA, Hodge DO, Peterson LG, Lang TR, McBane RD, Casanegra AI. In fl uence of primary cancer site on clinical outcomes of anticoagulation for associated venous thromboembolism. Thromb Res . 2023;221: 37 -44.
+
+Ruiz-Artacho P, Lecumberri R, Trujillo-Santos J, Font C, L ´ opezNú ˜ nez JJ, Peris ML, Díaz Pedroche C, Lobo JL, L ´ opez Jim ´ enez L, L ´ opez Reyes R, Jara Palomares L, Pedrajas JM, Mah ´ e I, Monreal M. The Riete Investigators. Cancer histology and natural history of patients with lung cancer and venous thromboembolism. Cancers (Basel) . 2022;14:4127.
+
+Louzada ML, Carrier M, Lazo-Langner A, Dao V, Kovacs MJ, Ramsay TO, Rodger MA, Zhang J, Lee AY, Meyer G, Wells PS. Development of a clinical prediction rule for risk strati fi cation of recurrent venous thromboembolism in patients with cancerassociated venous thromboembolism. Circulation . 2012;126: 448 -54.
+
+Delluc A, Miranda S, Exter PD, Louzada M, Alatri A, Ahn S, Monreal M, Khorana A, Huisman MV, Wells PS, Carrier M. Accuracy of the Ottawa score in risk strati fi cation of recurrent venous thromboembolism in patients with cancer-associated venous thromboembolism: a systematic review and meta-analysis. Haematologica . 2020;105:1436 -42.
+
+Girard P, Laporte S, Chapelle C, Falvo N, Falchero L, Cloarec N, Monnet I, Burnod A, Tomasini P, Boulon C, Debourdeau P, Boutruche B, Scott ´ e F, Lamblin A, Meyer G. Failure of the Ottawa score to predict the risk of recurrent venous thromboembolism in cancer patients: the prospective PREDICARE Cohort Study. Thromb Haemost . 2022;122:151 -7.
+
+Mulder FI, Kraaijpoel N, Di Nisio M, Meyer G, Mah ´ e I, Mu ˜ noz A, Bertoletti L, Biosca M, Maraveyas A, Büller HR, van Es N. The Ottawa score performs poorly in cancer patients with incidental pulmonary embolism. Thromb Res . 2019;181:59 -63.
+
+McBane RD 2nd, Vlazny DT, Houghton D, Casanegra AI, Froehling D, Daniels P, Riaz IB, Hodge DO, Wysokinski WE. Survival implications of thrombus recurrence or bleeding in cancer patients receiving anticoagulation for venous thromboembolism treatment. Thromb Haemost . 2023;123:535 -44.
+
+Larsen TL, Garresori H, Brekke J, Enden T, Fr ø en H, Jacobsen EM, Quist-Paulsen P, Porojnicu AC, Ree AH, Torfoss D, Osvik Velle E, Skuterud Wik H, Ghanima W, Sandset PM, Dahm AEA. Low dose apixaban as secondary prophylaxis of venous thromboembolism in cancer patients - 30 months follow-up. J Thromb Haemost . 2022;20: 1166 -81.
+
+Mah ´ e I, Agnelli G, Ay C, Bamias A, Becattini C, Carrier M, Chapelle C, Cohen AT, Girard P, Huisman MV, Klok FA, L ´ opez-Nú ˜ nez JJ, Maraveyas A, Mayeur D, Mir O, Monreal M, Righini M, Samama CM, Syrigos K, Szmit S, et al. Extended anticoagulant treatment with fullor reduced-dose apixaban in patients with cancer-associated venous thromboembolism: rationale and design of the API-CAT Study. Thromb Haemost . 2022;122:646 -56.
+
+SUPPLEMENTARY MATERIAL
+
+The online version contains supplementary material available at https://doi.org/10.1016/j.jtha.2024.03.011

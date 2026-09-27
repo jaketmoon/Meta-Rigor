@@ -1,0 +1,521 @@
+[DOCLING_PAGE 1]
+
+European Journal of Radiology Open 11 (2023) 100536
+
+Contents lists available at ScienceDirect
+
+European Journal of Radiology Open
+
+journal homepage: www.elsevier.com/locate/ejro
+
+Current and future trends in acute ischemic stroke treatment: direct-to-angiography suite, middle vessel occlusion, large core, and minor strokes
+
+R ˘ azvan Alexandru Radu a,b,c , Gregory Gascou a , Paolo Machi d , Carolina Capirossi a,e , Vincent Costalat a , Federico Cagnazzo a,*
+
+a Department of Neuroradiology, Gui de Chauliac Hospital, Montpellier University Medical Center, Montpellier, France
+
+b Stroke Unit, Department of Neurology, University Emergency Hospital Bucharest, Bucharest, Romania
+
+c Department of Clinical Neurosciences, ' Carol Davila ' University of Medicine and Pharmacy, Bucharest, Romania
+
+d Department of Neuroradiology, University of Geneva Medical Center, Switzerland
+
+e Department of Neurointerventional Radiology, Careggi Hospital, Florence, Italy
+
+A R T I C L E I N F O
+
+Keywords: Thrombectomy Stroke DMVO Large core Minor stroke Direct-to-angio Door-to- groin
+
+1. Introduction
+
+Since endovascular treatment (EVT) for acute ischemic stroke (AIS) has been shown to be superior to best medical treatment for large vessel occlusion (LVO) stroke in 2015, the field of stroke treatment has seen a dramatic global rise in thrombectomy procedures [1]. Most of the initial studies showed benefits for EVT in the early time window, regardless of
+
+A B S T R A C T
+
+Since the publication of the landmark thrombectomy trials in 2015, the field of endovascular therapy for ischemic stroke has been rapidly growing. The very low number needed to treat to provide functional benefits shown by the initial randomized trials has led clinicians and investigators to seek to translate the benefits of endovascular therapy to other patient subgroups. Even if the treatment effect is diminished, currently available data has provided sufficient information to extend endovascular therapy to large infarct core patients. Recently, published data have also shown that sophisticated imaging is not necessary for late time- window patients. As a result, further research into patient selection and the stroke pathway now focuses on dramatically reducing doorto-groin times and improving outcomes by circumventing classical imaging paradigms altogether and employing a direct-to-angio suite approach for selected large vessel occlusion patients in the early time window. While the results of this approach mainly concern patients with severe deficits, there are further struggles to provide ev­ idence of the efficacy and safety of endovascular treatment in minor stroke and large vessel occlusion, as well as in patients with middle vessel occlusions. The current lack of good quality data regarding these patients provides significant challenges for accurately selecting potential candidates for endovascular treatment. However, current and future randomized trials will probably elucidate the efficacy of endovascular treatment in these patient populations.
+
+the tissue at risk. However, in 2018, further studies demonstrated that the procedure was safe and efficacious in patients with tissue at risk irrespective of the time window [2]. In 2022, after several failed at­ tempts, class I evidence for the efficiency of thrombectomy in basilar occlusions was provided by two Chinese trials [3,4]. Although these latter trials settled the question of the benefits of thrombectomy for LVO stroke worldwide, care systems are currently faced with the critical
+
+Abbreviations: ACA, anterior cerebral artery; AICA, anterior inferior cerebellar artery; AIS, acute ischemic stroke; ASPECTS, Alberta Stroke Program Easy CT Score; BA, basilar artery; BMT, best medical treatment; CTA, computed tomography angiography; CTP, computed tomography perfusion; DTCT, direct-to-CT; DTG, door-to-groin; DMVO, distal and medial vessel occlusion; DTAS, direct-to-angiography suite; EVT, endovascular treatment; ICA, interior carotid artery; LVO, large vessel occlusion; MCA, middle cerebral artery; MEVO, middle vessel occlusion; MRI, magnetic resonance imaging; mRS, modified Rankin Scale; PCA, posterior cerebral artery; PICA, posterior inferior cerebellar artery; SCA, superior cerebellar artery; tPA, tissue plasminogen activator; V4, vertebral artery intradural.
+
+* Corresponding author. E-mail address: f.cagnazzo86@gmail.com (F. Cagnazzo).
+
+https://doi.org/10.1016/j.ejro.2023.100536
+
+Received 28 May 2023; Received in revised form 18 September 2023; Accepted 24 October 2023
+
+2352-0477/© 2023 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+[DOCLING_PAGE 2]
+
+European Journal of Radiology Open 11 (2023) 100536 R.A. Radu et al.
+
+challenge to readjust and offer timely access to EVT in their catchment area.
+
+The thrombectomy revolution is expected to reduce overall ischemic stroke-associated disability in the coming years [5] However, clinicians and researchers still struggle to increase the number of potentially eligible patients and to improve patient outcomes by focusing on pre-hospital strategies (e.g., patient triage) in conjunction with skipping imaging (direct-to-angio suite [DTAS]), expanding the indication of EVT to LVO strokes with a large core, LVO with minor stroke severity, and to primary distal and medial vessel (DMVO) occlusions. Good quality data for these indications are partly available and several randomized trials are currently enrolling patients. This review aims to provide a practical review of current frontiers and future perspectives in EVT for AIS.
+
+2. DTAS
+
+2.1. Justification
+
+Since the advent of reperfusion therapy for ischemic stroke, pretreatment delays have been identified as a predictor of bad outcomes [6] This was especially evident in the early thrombolysis trials leading to several idioms such as ' time is brain ' or ' save a minute, save a day ' [7, 8]. Pre-hospital time delays account for a significant part of the time delay, but are notoriously more challenging to influence [9,10] How­ ever, in a previous, computed tomography angiography (CTA) was consistently shown to delay treatment with tissue plasminogen activator (tPA) by at least 13% [11 -13] This led historically to a focus on pre-hospital pre-notification, rapid neurological assessment, and direct-to-CT (DTCT) transfers as opposed to an emergency department passage for potential AIS, which permitted the initiation of tPA with a median door-to-needle time of 20 min [12,13].
+
+Despite the demonstrated clinical efficacy of rapid reperfusion, clinical trials have shown that reducing door-to-groin (DTG) times to less than the recommended 60 min is challenging, with less than 50% of EVT-eligible patients being punctured in the aforementioned DTG target.[10,14] In the HERMES meta-analysis, the reported DTG times varied from 81 to 116 min for transferred patients and 116 min for transferred and directly admitted patients [1]. Improvements in EVT logistics in the last decade have shown an improvement in the DTG times of around 12 min. However, the overall DTG in randomized trials and real-world registries is disappointingly long, with a mean time to puncture of 1.4 ± 0.8 h in patients included after 2017 [10].
+
+While a native brain scan is sufficient for tPA treatment, the further addition of vessel imaging was, and still is in most centers, a precondition for initiating an EVT protocol. Despite the subjective percep­ tion of timely vessel imaging evaluation by either magnetic resonance imaging (MRI) or especially CTA, current data show that patients in whom CTA is performed before transfer to the EVT center from a pri­ mary stroke center have a time delay of at least 62 min [15] This aligns with a 24 min delay reported by a high-volume, efficient, comprehen­ sive stroke center in Barcelona, Spain [16]. Furthermore, expected treatment delays with MR-based imaging are approximately 20 min more than for CT-based protocols [17].
+
+Given the critical association between time delays to reperfusion and the inherent difficulty in reducing these times, some authors have pro­ posed to skip CT/MRI imaging in a subset of patients and rely on conebeam CT acquisition to rule out hemorrhage and administer tPA in eligible patients. This strategy reduced the DTG puncture time by 43 min (from door-to-emergency department 90 ± 53 min to 60 ± 29 min in DTCT to 17 ± 8 min in DTAS) [18] In a recent systematic review of protocol interventions to reduce DTG times, DTAS managed to reduce DTG puncture from a mean of 208 -94 min with multimodal in­ terventions and from a mean of 61 -20 min for DTAS [19].
+
+2.2. Eligible population, necessary pre-hospital and hospital set-up
+
+DTAS is currently a strategy under evaluation and centers apply this protocol to a subset of their patients. Most institutions already perform DTAS for referrals from referring centers if the angio room is available and if the patient did not recover dramatically with good, reported re­ sults [20 -23] Thus, the discussion below on DTAS-eligible hospital set-up and patient characteristics refers to patients presenting directly to the EVT-capable center.
+
+Substantial evidence is already available that modern flat-panel de­ tectors can provide clinically reliable measures for collateral status both for flat-panel CTA and for flat-panel CTP. [24,25] Moreover, flat-panel imaging is constantly evolving, and diagnostic accuracies for haemor­ rhage and/or ischemic lesions are comparable to multidetector CT. However, limitations remain in the case of motion artifacts and in discerning between gray-white matter differentiation. [26].
+
+To consider initiating DTAS, several requirements in the local stroke pathway are ideally already in place or co-implemented. As evidenced by the studies discussed in the meta-analysis of Rangel et al., the initial DTG in the groups that reported results of DTAS was two-thirds of the DTG time reported in other studies following the implementation of multimodal interventions to reduce this time [19]. Thus, timely pre-hospital notification of a stroke team member who waits for the patient upon arrival is necessary [27,28] DTCT strategies should already be implemented [12,13] as they reduce the time to imaging as opposed to an MR-based process by reducing the need to change the patient and verify that an MRI is possible. Moreover, a ' no-return ' approach with eligible patients taken directly to the angio suite even if the neuro-intervention team is not ready has been shown to speed up the process dramatically [29,30] All unnecessary delays should be reduced and the anesthetic evaluation should occur as a parallel process or in the angio suite, keeping in mind that the ' availability of an anesthesia team ' should not delay EVT and that EVT may be safely performed under local anesthesia [19,31].
+
+A frequently cited problem with implementing DTAS is the local availability of angio suites. While it may not prompt responses in all healthcare systems, data already exist to show that DTAS is a highly costeffective strategy ( 2839 euros/per patient), mainly by its potential to reduce disability, but also by obviating the need to perform timely and costly diagnostic procedures [32] The necessary investment to provide a scenario in which selected stroke patients undergo a predominantly DTAS protocol was evaluated at 4 million euros and is expected to be compensated in three years [33] However, even if additional angio suites are not in question, when the DTAS protocol is activated in selected patients, it implies an available angio room. If this prerequisite is not possible due to another intervention being performed, the patient is expected to follow the usual pathway and would have to wait for the end of the procedure anyway.
+
+Two problems are essential when selecting patients for DTAS. First, to reduce the number of non-ischemic stroke patients admitted to the angio suite and second, to reduce the number of blind angiographies (no LVO found). Several pre-hospital alert systems have been developed to facilitate the reconnaissance of LVO stroke, but an initial quick (hospital door) neurological examination is a mandatory filter [38 -42]. The scales have a variable performance, probably influenced by the regional setting and training provided to paramedics and emergency medical system personnel. However, with a positive pre-hospital scale, LVO probability could be 50 -60% [43] All pre-hospital scales combine cortical signs with moderate-to-severe motor deficits. They usually achieve cut-offs in the moderate stroke severity zone corresponding to a National Institutes of Health Stroke Scale (NIHSS) of 8 -10 (a NIHSS ≥ 9 has a positive predictive value of 86.4%) [44,45] Thus, ideal candidates for DTAS are currently patients with known symptom onset presenting in the ≤ 6 h time-window, probably ≤ 80 years of age, without alteration of consciousness, hemodynamically stable, and with a positive pre-hospital scale and NIHSS of ≥ 8 -10 at admission.
+
+2
+
+[DOCLING_PAGE 3]
+
+European Journal of Radiology Open 11 (2023) 100536 R.A. Radu et al.
+
+2.3. Current state of the evidence
+
+Several meta-analyses have reviewed the results of the DTAS strategy on potential EVT patients compared to classical (DTCT, direct-toemergency department) pathways [46 -48]. All included mixed popu­ lation groups of transferred and directly mothership patients. Based on these meta-analyses, DTAS consistently reduced door-to-reperfusion times, leading to increased rates of good functional (odds ratio [OR] varying between 1.84 and 2.88) outcomes while not changing the sICH and mortality rate. However, when applying these results to mothership-admitted patients, caution should be recommended as the included studies reported percentages of direct admission between 23% and 56% [46].
+
+When applying DTAS for mothership patients, false-negative alarms are to be expected in 16 -32% of cases, depending on the study popu­ lation (see Table 1). Moreover, studies have excluded up to 30% of eligible patients in the DTAS, either due to the occupation of the angio suite or, less consistently reported, due to patient agitation, but separate percentages were not reported [36] Given the currently available data, concerns were expressed that admitting stroke patients directly to the angio suite will lead to unwanted program delays in the available angio suites for the subset of patients that will ultimately not get a throm­ bectomy, but whose passage will prompt a blockage of the angio suite for 45 -60 min (including the time to reclean the angio suite) [49].
+
+At present, available trials support the DTAS strategy for transfer patients. However, more data are required to address these issues and the ultimate benefit of DTAS in mothership patients. Several ongoing randomized trials are expected to shed light on the improvements in functional outcomes expected with this strategy. Currently, two trials are enrolling patients, i.e., WETRUST (NCT04701684) and DIREC­ TANGIO (NCT03969511). Of these, only DIRECTANGIO has published its protocol and focuses explicitly on direct transfers. They expect a 20% absolute increase in the modified Rankin Scale (mRS) 0 -2, corre­ sponding to a 1-h delay to reperfusion reduction [50]. Until the results of these trials are available, DTAS in mothership patients may be poten­ tially contemplated on a case-by-case basis, especially in centers where DTG times are unusually high and far from the recommended target of
+
+[DOCLING_TABLE rows=6 columns=12]
+| Author, year | Type (R/NR) | Number patients | of | Inclusion criteria | DTG (min) | DTG (min) | 90-day mRS 0 - 2 | 90-day mRS 0 - 2 | Door to reperfusion | Door to reperfusion | Mimics DTAS (%) |
+|  |  | DTAS | Control |  | DTAS | Control | DTAS | Control | DTAS | Control |  |
+| Psychogios et al., 2017 ¥ [34] | Prospective (NR) | 21 | 33 | 1) First 5 h from known symptom onset 2) NIHSS ≥ 10 3) Patients were excluded if the angio suite was not available 4) Low-ASPECT, not a | 25 | 59 | N.A | N.A | 62 | 106 | 16% |
+| Requena et al., 2020 ¥ [35] | Retrospective (CC) | 50 | 175 | 1) First 6 h from known symptom onset 2) RACE scale ≥ 4 3) NIHSS > 10 | 16 | 70 | 29% | 43% | 65 | 113 | 32% |
+| Pfaff et al., 2020 ◦ , ¥ [36] | Prospective (R) | 26 | 34 | 4) Angio suite available 1) NIHSS > 7 2) pre-stroke mRS ≤ 3 3) Angiosuite available | 41 | 40 | 61.5% | 76.5% | 80 | 78 | 13% |
+| Requena et al., 2021 ¥ [37] | Prospective (R) | 21 | 22 | 1) First 6 h from known symptom onset 2) RACE scale > 4 3) NIHSS > 10 4) pre-stroke mRS ≤ 2 5) Angio suite available | 18 | 42 | 43.6% | 28.8% | 57 | 84 | 16.9% |
+[/DOCLING_TABLE]
+
+< 60 min
+
+3. Distal and middle vessel occlusions
+
+Class I level evidence for EVT of LVOs (including the internal carotid artery [ICA], M1 segment of the middle cerebral artery [MCA], basilar artery [BA], and vertebral artery intradural [V4]) is now available, which led the field to the next frontier: answering if distal and middle vessel occlusions (DMVOs) or middle vessel occlusions (MEVOs) benefit from EVT [3,4,51]. These arteries are characterized by a more tortuous course, looping around brain structures and at least one additional branch step compared to LVOs. They range from 0.75 mm to 2 mm in size and typically include (M3-M5 for the MCA), A2-A5 for the anterior cerebral artery (ACA) and P2-P5 for the posterior cerebral artery (PCA), posterior inferior cerebellar artery (PICA), anterior inferior cerebellar artery (AICA), and superior cerebellar artery (SCA) [52].
+
+Varying definitions exist for the A1-ACA, M2-MCA, and P1-PCA segments, which may be included in the DMVO/MEVO groups or the LVOs groups, depending on publications and the branching anatomy [52,53]. M2 occlusions are challenging to categorize due to the branching pattern of the MCA and with only 8% included in the MR-CLEAN trial, there is yet no clear EVT evidence [54,55]. Although interesting, the debate is probably of lesser importance for P1 and A1 occlusions, which are notoriously rare (1.2% and 0.3% of all ischemic strokes) in isolation and for whom clinical severity widely differs, based on the presence of anterior and posterior communicating arteries [56] For simplicity ' s sake and due to the confounding literature on the sub­ ject, this review will discuss A1, P1, and M2 occlusions as part of MEVOs. This corresponds to the inclusion criteria in most ongoing DMVOs/MEVOs randomized trials (Table 2 ) .
+
+3.1. Justification
+
+Around 25 -40% of AIS is related to MEVOs [52]. Unlike LVOs, the median initial NIHSS of MEVOs is slightly lower (median NIHSS 17 vs. 7, respectively) [1,57]. The efficacy of intravenous tPA for MEVOs is higher than in LVOs, but less than 50% of patients achieve timely DISTAL: Endovascular therapy plus best medical treatment vs best medical treatment alone for medium vessel occlusion stroke -a pragmatic, international,multicenter randomized trial; ESCAPE-MeVO: Endovascular treatment to improve outcomes for medium vessel occlusions; DISCOUNT: Evaluation of mechanical thrombectomy in acute ischemic stroke related to a distal arterial occlusion; DISTALS: Distal ischemic stroke treatment with adjustable low-profile stentretriever; REVISAR: Recana­ lization of distal cerebral vessels in acute stroke using ApeRio; ¥ defined as above the mid-height of the insula; ◦ with disabling deficit; * not specified; Δ with isolated aphasia or hemianopsia; N.A: not applicable; mRS: modified Rankin Scale; ACA: anterior cerebral artery; PCA: posterior cerebral artery; MCA: middle cerebral artery.
+
+3
+
+[DOCLING_PAGE 4]
+
+European Journal of Radiology Open 11 (2023) 100536 R.A. Radu et al.
+
+[DOCLING_TABLE rows=11 columns=8]
+| Study name |  |  | DISTAL (NCT05029414) | ESCAPE-MeVO (NCT05151172) | DISCOUNT (NCT05030142) | DISTALS (NCT05152524) | REVISAR (NCT04479020) |
+| Primary outcome Time window Disability cut-off Upper age limit Occlusion location |  |  | mRS* ≤ 24 h NIHSS ≥ 4/disabling deficit No | mRS* ≤ 12 h NIHSS ≥ 5/NIHSS 3 - 5 No | mRS 0 - 2 at 90 days ≤ 6 h NIHSS ≥ 5 No | Successful reperfusion ≤ 24 h NIHSS 4 - 24/NIHSS 2 - 24 Δ 85 Yes | Successful reperfusion N.A N.A N.A |
+|  | ACA | A1 | Yes | No | Yes |  | Yes |
+|  |  | A2 | Yes | Yes | Yes | Yes | Yes |
+|  |  | A3 | Yes | Yes | Yes | Yes | Yes |
+|  | PCA | P1 | Yes | No | Yes | Yes | Yes |
+|  |  | P2 | Yes | Yes | Yes | Yes | Yes |
+|  |  | P3 | Yes | Yes | Yes | Yes | Yes |
+|  | MCA | M2 | Non/co-dominant M2 | Yes | Distal M2 ¥ | Non/co-dominant M2 | After bifurcation |
+|  |  | M3 | Yes | Yes | Yes | Yes | Yes |
+|  |  | M4 | Yes | No | No | No | N.A |
+[/DOCLING_TABLE]
+
+reperfusion, which is significantly associated with excellent outcomes (adjusted OR, 2.29 [95% CI, 1.23 -4.28]). However, despite better overall recanalization rates and lower initial severity, one in two pa­ tients with MEVOs do not achieve an excellent outcome at 90 days [57].
+
+The revolution of mechanical thrombectomy has brought about an important development of endovascular devices and enhanced clinical expertise leading to recently reported successful recanalization rates (defined as a TICI score of 2b-3) for up to 96% of LVOs in the setting of a randomized trial [58] Based on this high recanalization and low complication rate in LVOs, several trials have started to enroll MEVOs, given that the timely enhanced recanalization of eligible patients will translate to better functional outcomes at 90 days ( Table 2 ).
+
+3.2. Eligible population and imaging challenges for MeVOs
+
+As shown in Table 2, most current studies include patients with a minor-moderate or disabling deficit (NIHSS ≥ 4/5 + disabling deficits) within the < 6-h time window. Additional imaging criteria are required by trials enrolling patients in the late time window. Apart from ESCAPEMeVO, all other trials specified refined criteria for M2 occlusions. (source: ClinicalTrials.gov ).
+
+One of the crucial challenges of identifying potential MeVO candi­ dates for EVT is the identification of the occluded artery on initial im­ aging. It was reported that up to 82% of distal M2 occlusions may be missed on initial CTA evaluation and up to one-third of patients ulti­ mately undergoing EVT may have been missed if CTA was interpreted without the assistance of computed tomography perfusion (CTP) [59, 60] Depending on the initial imaging protocol in different stroke cen­ ters, several strategies have been proposed to enhance the detection of potentially treatable MeVOs. Thus, adding Tmax maps to CTA increases the sensitivity and specificity for detecting MeVOs from 70.7%/87.5 -96.8%/90.3%, respectively, thus dramatically reducing the time needed for imaging interpretation [61,62]. Moreover, for centers that do not routinely perform CTP, switching from single-phase to multiphase CTA (mCTA) may be a reasonable strategy for identifying more distal occlusions. Creating time-coded color maps of mCTA has been proposed as a reliable mode to enhance detection of MeVOs and large artery occlusions [63 -66].
+
+At the present time, commercially available post-processing software performs poorly in identifying distal occlusions [67] However, artificial intelligence software is constantly improving and further versions are expected to provide an enhanced detection of MeVOs by incorporating CTP data or analyzing native images [68,69].
+
+Regarding initial lesion location, two groups of MeVOs can be delineated, based on the follow-up infarct pattern, suggesting that these occlusions may represent a heterogeneous group. Thus, discrepant infarction in basal ganglia regions in M2 occlusions or unexpected Alberta Stroke Program Early CT Score (ASPECTS) regions was associ­ ated with worse outcomes compared with the non-discrepant pattern group (mRS 0 -2 at 90 days; 0 -2 56.7% vs. 70.9%, respectively)[70]. This suggested that (easily missed if CT imaging is initially performed) a subset of MeVOs with worse outcomes may be due to distal thrombus migration from an initial LVO [71].
+
+3.3. Current state of the evidence
+
+The core literature on MeVOs is based on retrospective studies. The only prospective randomized controlled trial of EVT vs. best medical treatment (BMT) that included M2 occlusions was MR-CLEAN, which represented 8% of the study population [72]. Direct comparisons be­ tween BMT and EVT are sparse and up to 83% of cases included in systematic reviews of MeVO occlusions are M2 occlusions[73]. In total, 67 EVT vs. 64 BMT patients with M2 occlusions were randomized by studies included in the HERMES collaboration. A subgroup analysis of this population showed significantly better good functional outcomes at 90 days in the EVT arm (58.2% vs. 39.7% respectively), but 61.5% of cases were dominant M2 branches [74]. Moreover, a recent retrospec­ tive review on distal and MEVOs identified a favorable functional outcome (mRS 0 -2) in one in two patients treated with EVT [73] Available data on M2 occlusions suggest that a combined technique may offer higher first-pass effect rates and lower complication rates than single-device techniques [73,75].
+
+Isolated occlusions of the PCA account for 5 -10% of AIS and are associated with a favorable clinical outcome in 29 -56% of cases depending on whether deep structures are involved [76]. The TOP-MOST (Treatment for primary distal, medium vessel occlusion stroke) case-control study included 243 patients with PCA occlusion stroke treated at multiple institutions; 58.8% received EVT, and 81% of occlusions were localized in the P2 segment. Successful recanalization was achieved in 87.4% of the EVT arm, with a favorable functional outcome (mRS 0 -2) at 3 months in 76.6% of patients in the EVT arm vs. 75.4% in the BMT arm [77]. Given that no significant benefit of thrombectomy was achieved, the investigators recommended consid­ ering EVT for patients who are not eligible for intravenous therapy and with a baseline NIHSS ≥ 10 points until further randomized data are published [77].
+
+ACA stroke is less frequent than PCA and MCA stroke and accounts for up to 3% of all ischemic strokes [78,79]. Good functional outcomes
+
+4
+
+[DOCLING_PAGE 5]
+
+European Journal of Radiology Open 11 (2023) 100536 R.A. Radu et al.
+
+(mRS 0 -2) at 3 months are expected in up to 60% of cases [79]. The vast majority of experience with ACA occlusion stroke stems from secondary ACA occlusion either after an initial carotid T occlusion or after a new distal embolus to the ACA territory during an EVT procedure for an MCA occlusion. Due to this confounding effect, the literature on ACA occlu­ sion is often challenging to interpret [80]. A recently published case-control study of EVT vs. BMT for ACA occlusions by the TOPMOST investigator included 154 patients. Similar to PCA occlusions, despite achieving a TICI score of 2b/3 in 88% of patients, the functional outcome at 3 months was not significantly different between EVT and BMT groups [81]. In this analysis, NIHSS was a primary driver of the outcome, suggesting that EVT, although safe and feasible, may provide the most benefit in patients with a more severe initial clinical presen­ tation. Given the yet unproven benefit of EVT in MeVOs, patient selec­ tion and consideration of operator experience are paramount before deciding in favor of EVT.
+
+4. Large core
+
+Patients with LVO and large core defined as an ASPECTS < 6 were generally excluded from the landmark clinical trials published in 2015 [1] Available ischemic stroke guidelines recommend thrombectomy in patients with an ASPECTS ≥ 6 [51,82] The HERMES group pooled data on 126 patients with an ASPECTS 0 -4 (7% of the EVT arm) and 99 patients (6% of the EVT arm) with an ASPECTS of 5 [1,83]. In these patient populations, there was no overall heterogeneity of treatment effect (OR 2.15 (1.06 -4.37; p = 0.054) and, according to an individu­ alized patient meta-analysis point estimate of treatment, the effect favored EVT for each ASPECTS category except 0 -2 [83].
+
+A meta-analysis of real-world studies further reinforced this
+
+[DOCLING_TABLE rows=16 columns=8]
+| Trial | Trial | JAPAN RESCUE [87] | SELECT 2[86] | ANGEL - ASPECT[85] | TESLA[89]* | TENSION [90] | LASTE[91] |
+| Geography | Geography | Japan | US, CA, AU, EU | China | US | EU | FRANCE |
+| Imaging | CT | ASPECTS 3 - 5 | ASPECTS 3 - 5 | ASPECTS 3 - 5 | ASPECTS 2 - 5 | ASPECTS 2 - 5 | ASPECTS 0 - 5 |
+|  | MRI | ASPECTS 3 - 5 | PCT/DWI core ≥ 50 ml | PCT/DWI core 70 - 100 ml | NA | ASPECTS 3 - 5 | ASPECTS 0 - 5 |
+| Primary outcome |  | mRS 0 - 3 | mRS shift/ mRS 0 - 2 | mRS shift | UW-mRS | mRS shift | mRS shift 6/ Mortality 3 m |
+| Median infarction | Median infarction | 94 (66 - 152) | 107 (70.5 - 152.5) | 60.5 (29 - 86) |  |  |  |
+| (ml) % CT only in the | (ml) % CT only in the | 12.8% | 97.1% | 83.4% |  |  |  |
+| % MRI only in the trial | % MRI only in the trial | 87.1% | 2.9% | 16.5% |  |  |  |
+| % of intravenous therapy | % of intravenous therapy | 26.4% | 20.8% | 28.7% |  |  |  |
+| Primary outcome | Primary outcome | 31% vs.13%, p = 0.002 | Median mRS 4 vs. 5 (OR 1.51 (1.2 - 1.9, p < 0.001) | Median mRS 4 vs. 4 (OR 1.37 (1.1 - 1.7, p = 0.004) | uwmRS (2.93 ± 3.39 vs 2.27 ± 2.98) p = .0.957 ( < 0.975) |  |  |
+| mRS 0 - 3 at 3 | mRS 0 - 3 at 3 | 31% vs. 13% | 37.9% vs. 18.7% | 47% vs. 33.3% | 30% vs. 20% (p = 0.03) |  |  |
+| months mRS 0 - 2 at 3 | months mRS 0 - 2 at 3 | 14% vs. 7.8% | 20% vs. 7% | 30% vs. 11.6% | 14% vs. 9% (p = 0.09) | NA | NA |
+| months Shift mRS | months Shift mRS | cOR 2.42 (95% CI, 1.46 - 4.01) | OR 1.51 (1.2 - 1.9, p < 0.001) | OR 1.37 (1.1 - 1.7, p = 0.004) | OR 1.40 (0.91 - 2.16, p = 0.06) |  |  |
+| sICH | sICH | 9% vs. 5% (p = 0.25) | 0.6% vs. 1.1% (p = 0.49) | 6.1% vs. 2.7% (p = 0.12) | 3.97% vs. 1.34% |  |  |
+| Decompressive craniotomy | Decompressive craniotomy | 10% vs. 13.7% (p = 0.41) | NA | 7.4% vs. 3.6% (p = 0.15) | 21.9% vs. 14.8% |  |  |
+| Mortality | Mortality | 18% vs. 23.5% (p = 0.33) | 38.4% vs. 41.5% | 21.7% vs. 20% (p = 0.99) | 35.3% vs. 33.3% |  |  |
+[/DOCLING_TABLE]
+
+ASPECTS: Alberta Stroke Program Early CT Score: CT: computed tomography; MRI: magnetic resonance imaging; mRS: modified Rankin Scale; UW-mRS: utility weighted mRS; NA: not applicable either because results were not provided or not yet available; PCT: perfusion CT; DWI: diffusion weighted imaging; ml: mililiter; cOR (common odds ratio); * Results of the TESLA trial are provided based on the trial result presentation at ESOC 2023 and may suffer modifications pending final publication.
+
+randomized controlled trial evidence and suggested that an mRS 0 -2 is achieved in approximately 30% of patients treated with EVT + BMT compared to 3.2% in the BMT arm. Moreover, it suggested that up to 14% of patients with an initial ASPECT of 0 -3 may regain functional independence in the EVT + BMT arm[84] The results of this analysis were confirmed by three randomized multicenter clinical trials (Table 3) [85 -87]. The only subgroup for which randomized trial data is still pending is the ASPECTS 0 -2 subgroup. Of note, this subgroup is essential as it is overrepresented in the real-world, both in the early and late time windows [88]. In one study of 232 patients, the diffusion weighted imaging (DWI) ASPECTS 0 -2 subgroup accounted.
+
+for 43.4% of the population of ASPECTS 0 -5, while in another study, it accounted for 30% of all ASPECTS < 6 patients in the late time win­ dow [92,93] Randomized evidence for this population is expected to be published soon as the LASTE trial[91] (NCT03811769) included pa­ tients with ASPECTS 0 -2 and has already stopped enrollment.
+
+4.1. Summary of already published large core trials
+
+Table 3 summarizes the results and designs of the already published large core trials. As expected and based on previously available data, the results of these trials are positive with regard to functional outcome at 90 days. Depending on the severity of the study population, between 14% and 30% will achieve a good functional outcome at 3 months [85 -87], although lower than the 46% reported by HERMES and the 45.9% reported by AURORA [1,2]. The median core volume in these trials ranged from 60 to 107 ml compared to 7.6 -9.4 ml in DAWN and DEFUSE-3 [94,95]. However, as recently supported by the acute basilar occlusion trials, the rate of mRS 0 -3 may seem a more proper target for patients with severe infarcts and, in this case, up to one in three to one in two patients may be expected to be in ambulatory care at 3 months.
+
+5
+
+[DOCLING_PAGE 6]
+
+European Journal of Radiology Open 11 (2023) 100536 R.A. Radu et al.
+
+For a long time, there was a debate about whether thrombectomy in large core patients is futile or not. This paradigm shift is about to change due to the publication of these trials [96]. The expected benefits of performing thrombectomy in large core patients are mainly derived from reducing by nearly one-half the number of patients in the mRS 5 category, thereby reducing the associated stroke costs and caregiver burden. Based on RESCUE-Japan data, a cost-effectiveness analysis shows that the treatment is expected to be cost-effective in eight developed European countries. [97]. However, further data is needed to optimally select patients with the highest gains in less developed healthcare systems, where the increase in case load might pose a prob­ lem with the overall costs associated with acute stroke treatment. With the future publication of the three remaining trials and a subsequent meta-analysis, guidelines will be prone to change as this is the only subgroup still pending results is the ASPECTS 0 -2 subgroup. Therefore, healthcare systems must adapt to a new paradigm shift of performing thrombectomy in all LVO stroke patients, regardless of the infarct core or initial severity.
+
+4.2. Imaging in LVO stroke patients -where do we stand?
+
+The already published trials included patients for up to 24 h, TEN­ SION (NCT03094715) and TESLA (NCT03805308), will provide further evidence for 12 h and 24 h from the last known well time-window. Among the unpublished large core trials, only LASTE (NCT03811769) includes patients in the early time-window and demands a mismatch [88] Furthermore, the MR-CLEAN LATE study recently showed evidence of benefit in the late-window by selecting patients that did not meet DAWN and DEFUSE-3 criteria, based only on the presence of collaterals [98] This change in the stroke treatment paradigm warrants a discussion as to the current and future place of perfusion and multimodal imaging in AIS patients.
+
+Previous treatment paradigms focused on identifying imaging prognostic factors of good outcomes and selecting patients more prone to benefit from EVT. However, with the change induced by large core trials and the MR-CLEAN LATE study, the need to select patients for EVT based on imaging is less clear. Thus, LVO patients may appear to benefit from thrombectomy, regardless of imaging factors. The only question still to be resolved is if the results of CT-ASPECTS are similar to DWIASPECTS, given that DWI is known to score on average one point lower than CT-ASPECTS [99]. However, real-world data about the usefulness of non-contrast CT alone for selecting patients for late-time window thrombectomy are already available. The imaging paradigm is expected to be further reduced if the DTAS strategy is proven to be efficient [100] Thus, guidelines on pre-intervention imaging selection will probably be changed so that thrombectomy can be indicated based on native CT only as tPA in most stroke patients.
+
+5. Minor stroke and large vessel occlusion
+
+More than half of ischemic stroke patients have mild neurological symptoms at presentation, which is one of the most frequent reasons not to give intravenous tPA [101] Although often used for patients with mild and non-disabling symptoms, minor stroke has variable clinical defini­ tions with heterogeneous associations to functional outcomes. Restrict­ ing the ' minor stroke ' to all patients with a score of 0 and 1 on every NIHSS item, except the level of consciousness (1a and 1b, which must be 0) and to all patients with an NIHSS ≤ 3 identifies a subgroup of patients with at least 90% probability of a good functional outcome at 3 months. However, if the term includes other combinations of motor and sensory symptoms without significant cortical deficits, such as language or vi­ sual deficits, the probability of a good functional outcome declines in the 80% range [102].
+
+The probability of a good clinical outcome rapidly declines if NIHSS scores at admission are ≥ 5 points. Thus, in clinical practice, most studies defined minor strokes as strokes without a disabling deficit (aphasia, hemianopsia) and a NIHSS score < 5 [102] Although treat­ ment with tPA was not proven to lead to superior functional outcomes in these patients, more than 20% do not achieve an excellent outcome [103] This reality, combined with the fact that a significant percentage of low NIHSS patients harbor large vessel occlusions that may subse­ quently deteriorate, has led clinicians to consider EVT for this patient subgroup.
+
+5.1. Justification
+
+Minor stroke patients were excluded from the landmark clinical trials of EVT for LVO large stroke. Only 10 patients were included in the MRCLEAN trial and four patients in EXTEND-IA, so the efficacy and safety of EVT in this patient subgroup are lacking [72,104,105] However, up to 30% of patients with an LVO can present with a minor stroke and the capacity of the NIHSS and other pre-hospital scales to rule out LVOs is diminished towards the lower spectrum [45,106] Due to the fact that at least 20% of patients presenting with a low initial NIHSS can subse­ quently deteriorate due to collateral failure, the indication of EVT in this subgroup remains a clinical conundrum [107].
+
+Given the lack of available evidence, an international survey asked 607 practitioners about the decision to offer thrombectomy to a low NIHSS LVO patient. Depending on the location, the decision to pursue EVT varied from 47% to 94% in ideal treatment scenarios unrelated to local reimbursement issues. The decision was significantly associated with center and personal EVT volume. This high physician-reported variability in decision-making leads to minor stroke EVT being per­ formed in up to 11% of all EVT, thus raising concerns about possible futile, beneficial or harmful procedures [108].
+
+5.2. Eligible population and treatment paradigm
+
+The physiological factor dictating EVT benefit in patients with mild stroke and LVO is related to the patient ' s arrival time and collaterals. Considering the overall good outcome in patients with mild stroke, the potential benefit of EVT may be derived from the subset of patients in which early EVT prevents a subsequent neurological deterioration due to collateral failure. Collateral failure over time strongly correlates to infarct growth and good collaterals with a significant diffusion perfusion mismatch are an essential predictor of subsequent infarct growth [109].
+
+As summarized in Fig. 1, EVT ' s paradigm in mild stroke with LVO is not really whether EVT as a first-line strategy is superior to BMT, but if EVT as a first-line strategy is superior to BMT + EVT as rescue therapy. From the standpoint of clinical decision-making, these patients have the most to gain from acute stroke unit treatment in a comprehensive stroke center and the most to lose from an unwanted complication during an EVT procedure. Moreover, periprocedural complications considered ' benign ' (such as subarachnoid hemorrhage) in the context of classical LVO thrombectomy may be associated with worse outcomes in mild stroke patients.
+
+Until the results of the two randomized trials enrolling mild stroke patients (MOSTE: NCT03796468 and ENDOLOW: NCT04167527) are published, caution should be advised in this population. Decisions to treat need to consider the patient ' s age, hypoperfusion volume, profes­ sion, lifestyle, and presumed treatment benefit for each individual [110] Moreover, operator experience, estimated technical difficulty (e.g., tandem occlusions arterial tortuosity, suspicion of intracranial stenosis) and local expertise in rapidly identifying clinical deterioration in hos­ pitalized patients should be essential drivers of the treatment decisions.
+
+5.3. Current state of the evidence
+
+Data concerning EVT for mild stroke is currently restricted to single or multicenter observational data with a high risk of bias. EVT for mild stroke LVO is technically feasible and provides a TICI score of 2b/3 for recanalization and sICH rates similar to previous stroke trials, i.e., 78 -97% and 0 -10%, respectively. Moreover, when a TICI 2b/3 was achieved, good functional outcomes were reported in more than 89% of cases [111].
+
+6
+
+[DOCLING_PAGE 7]
+
+European Journal of Radiology Open 11 (2023) 100536 R.A. Radu et al.
+
+Fig. 1. Evolution paradigm of minor stroke associated with large vessel occlusion. A. Good collaterals persist over time and the patient recovers without major severity. B. Collaterals fail and the deficit aggravates leading to increased disability.
+
+Several meta-analyses of retrospective studies investigating the impact of EVT + BMT vs. BMT treatment alone for patients with mild stroke and LVO have been published. The results are heterogeneous and depend on the quality of data. Two showed superior outcomes for EVT + BMT and two showed no difference [104,112 -114]. The studies on which these analyses were based are challenging to interpret due to heterogeneous study design, inclusion criteria and conflicting results. Given that a recently performed propensity-adjusted analysis may show even harm of EVT + intravenous therapy vs. intravenous therapy alone in this subgroup of patients, caution is advised until the publication of randomized controlled evidence [115]. This is the reason why caution is advised in the face of low NIHSS and LVO patients. Until the results of MOSTE and ENDOLOW are available, transferring, and careful stroke unit observation may be the most sensible strategy.
+
+6. Conclusions
+
+The field of endovascular stroke treatment is rapidly growing, with accumulating evidence that the benefit of EVT can extend to a wide range of previously guideline-ineligible stroke patients, thereby further reducing disability and dramatically increasing case volumes in already overcrowded stroke services.
+
+Funding
+
+No funding reported.
+
+CRediT authorship contribution statement
+
+Costalat Vincent: Writing -review & editing, Validation, Supervi­ sion, Project administration. Cagnazzo Federico: Writing -original draft, Visualization, Supervision, Project administration, Conceptuali­ zation. Machi Paolo: Writing -review & editing, Validation, Supervi­ sion, Resources, Project administration. Capirossi Carolina: Visualization, Resources, Methodology. Gascou Gr ´ egory: Visualization, Methodology. Radu R ˘ azvan Alexandru: Writing -original draft, Conceptualization.
+
+Declaration of Competing Interest
+
+The authors declare the following financial interests/personal re­ lationships which may be considered as potential competing interests: Vincent Costalat is a primary investigator of the LASTE trial. All other authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+References
+
+M. Goyal, B.K. Menon, W.H. Van Zwam, et al., Endovascular thrombectomy after large-vessel ischaemic stroke: a meta-analysis of individual patient data from five randomised trials, Lancet 387 (2016) 1723 -1731, https://doi.org/10.1016/ S0140-6736(16)00163-X.
+
+T.G. Jovin, R.G. Nogueira, M.G. Lansberg, et al., Thrombectomy for anterior circulation stroke beyond 6h from time last known well (AURORA): a systematic review and individual patient data meta-analysis, Lancet 399 (2022) 249 -258, https://doi.org/10.1016/S0140-6736(21)01341-6.
+
+T.G. Jovin, C. Li, L. Wu, et al., Trial of Thrombectomy 6 to 24 h after stroke due to basilar-artery occlusion, N. Engl. J. Med. 387 (2022) 1373 -1384, https://doi.org/ 10.1056/nejmoa2207576.
+
+C. Tao, R.G. Nogueira, Y. Zhu, et al., Trial of endovascular treatment of acute basilar-artery occlusion, N. Engl. J. Med. 387 (2022) 1361 -1372, https://doi.org/ 10.1056/nejmoa2206317.
+
+C. Foerch, M.A. Schaller-Paule, H. Steinmetz, et al., Reduction of ischemic stroke associated disability in the population: a state-wide stroke registry analysis over a decade, J. Clin. Med 11 (2022) 6942, https://doi.org/10.3390/jcm11236942.
+
+K.R. Lees, J. Emberson, L. Blackwell, et al., Effects of alteplase for acute stroke on the distribution of functional outcomes: a pooled analysis of 9 trials, Stroke 47 (9) (2016) 2373, https://doi.org/10.1161/STROKEAHA.116.013644.
+
+J.L. Saver, Time is brain - Quantified, Stroke 37 (2006) 263 -266, https://doi.org/ 10.1161/01.STR.0000196957.55928.ab.
+
+A. Meretoja, M. Keshtkaran, J.L. Saver, et al., Stroke thrombolysis: Save a minute, save a day, Stroke 45 (2014) 1053 -1058, https://doi.org/10.1161/ STROKEAHA.113.002910.
+
+E.O. Terecoas ˘ a, R.A. Radu, A. Negril ˘ a, et al., Pre-hospital delay in acute ischemic stroke care: current findings and future perspectives in a tertiary stroke center from romania -a cross-sectional study, Medicine 58 (2022) 1003, https://doi. org/10.3390/medicina58081003.
+
+C. Sun, O.O. Zaidat, A.C. Castonguay, et al., A decade of improvement in door-topuncture times for mechanical thrombectomy but ongoing stagnation in prehospital care, Stroke.: Vasc. Interv. Neurol. 3 (2023), https://doi.org/ 10.1161/svin.122.000561.
+
+A.M. Iglesias Mohedano, A. García Pastor, A. García Arratibel, et al., Factors associated with in-hospital delays in treating acute stroke with intravenous thrombolysis in a tertiary centre, Neurol. (Engl. Ed. ) 31 (2016) 452 -458, https:// doi.org/10.1016/j.nrleng.2014.12.012.
+
+A. Meretoja, D. Strbian, S. Mustanoja, et al., Reducing in-hospital delay to 20 min in stroke thrombolysis, Neurology 79 (2012) 306 -313, https://doi.org/10.1212/ WNL.0b013e31825d6011.
+
+A. Meretoja, L. Weir, M. Ugalde, et al., Helsinki model cut stroke thrombolysis delays to 25 min in Melbourne in only 4 months, Neurology 81 (2013) 1071 -1076, https://doi.org/10.1212/WNL.0b013e3182a4a4d2.
+
+R.A. McTaggart, S.A. Ansari, M. Goyal, et al., Initial hospital management of patients with emergent large vessel occlusion (ELVO): Report of the standards and guidelines committee of the Society of NeuroInterventional Surgery, J. Neurointerv Surg. 9 (2017) 316 -323, https://doi.org/10.1136/neurintsurg2015-011984.
+
+S. Al Kasab, E. Almallouhi, J. Harvey, et al., Door in door out and transportation times in 2 telestroke networks, Neurol. Clin. Pr. 9 (2019) 41 -47, https://doi.org/ 10.1212/CPJ.0000000000000570.
+
+M. Requena, M. Oliv ´ e-Gadea, M. Muchada, et al., Direct to angiography suite without stopping for computed tomography imaging for patients with acute stroke: a randomized clinical trial, JAMA Neurol. 78 (2021) 1099 -1107, https:// doi.org/10.1001/jamaneurol.2021.2385.
+
+7
+
+[DOCLING_PAGE 8]
+
+European Journal of Radiology Open 11 (2023) 100536 R.A. Radu et al.
+
+S. Krebs, A. Posekany, A. Pilz, et al., CT- versus MRI-based imaging for thrombolysis and mechanical thrombectomy in ischemic stroke: analysis from the austrian stroke registry, J. Stroke 24 (2022) 383 -389, https://doi.org/10.5853/ jos.2021.03846.
+
+M. Ribo, S. Boned, M. Rubiera, et al., Direct transfer to angiosuite to reduce doorto-puncture time in thrombectomy for acute stroke, J. Neurointerv Surg. 10 (2018) 221 -224, https://doi.org/10.1136/neurintsurg-2017-013038.
+
+I. Rangel, P. Palmisciano, V.K. Vanderhye, et al., Optimizing door-to-groin puncture time: the mayo clinic experience, Mayo Clin. Proc. Innov. Qual. Outcomes 6 (2022) 327 -336, https://doi.org/10.1016/j. mayocpiqo.2022.05.009.
+
+A. Sarraj, N. Goyal, M. Chen, et al., Direct to angiography vs repeated imaging approaches in transferred patients undergoing endovascular thrombectomy, JAMA Neurol. 78 (2021) 916 -926, https://doi.org/10.1001/ jamaneurol.2021.1707.
+
+M.N. Psychogios, I.L. Maier, I. Tsogkas, et al., One-stop management of 230 consecutive acute stroke patients: report of procedural times and clinical outcome, J. Clin. Med 8 (2019) 2185, https://doi.org/10.3390/jcm8122185.
+
+A.P. Jadhav, C.L. Kenmuir, A. Aghaebrahim, et al., Interfacility transfer directly to the neuroangiography suite in acute ischemic stroke patients undergoing thrombectomy. Stroke, Lippincott Williams and Wilkins,, 2017, pp. 1884 -1889, https://doi.org/10.1161/STROKEAHA.117.016946.
+
+M. Bouslama, D.C. Haussen, J.A. Grossberg, et al., Flat-panel detector CT assessment in stroke to reduce times to intra-arterial treatment: a study of multiphase computed tomography angiography in the angiography suite to bypass conventional imaging, Int. J. Stroke 16 (2021) 63 -72, https://doi.org/ 10.1177/1747493019895655.
+
+C.C. Kurmann, J. Kaesmacher, D.L. Cooke, et al., Evaluation of time-resolved whole brain flat panel detector perfusion imaging using RAPID ANGIO in patients with acute stroke: comparison with CT perfusion imaging, J. Neurointerv Surg. 15 (2023) 387, https://doi.org/10.1136/neurintsurg-2021-018464.
+
+C.C. Kurmann, J. Kaesmacher, S. Pilgram-Pastor, et al., Correlation of collateral scores derived from whole-brain time-resolved flat panel detector imaging in acute ischemic stroke, Published Online First: 6 October, Am. J. Neuroradiol. (2022), https://doi.org/10.3174/ajnr.A7657. Published Online First: 6 October.
+
+V.D. Petroulia, J. Kaesmacher, E.I. Piechowiak, et al., Evaluation of Sine Spin flat detector CT imaging compared with multidetector CT, J. Neurointerv Surg. 15 (2023) 292, https://doi.org/10.1136/neurintsurg-2021-018312.
+
+A.P. Kansagra, A.N. Wallace, D.R. Curfman, et al., Streamlined triage and transfer protocols improve door-to-puncture time for endovascular thrombectomy in acute ischemic stroke, Clin. Neurol. Neurosurg. 166 (2018) 71 -75, https://doi. org/10.1016/j.clineuro.2018.01.026.
+
+A. Aghaebrahim, C. Streib, S. Rangaraju, et al., Streamlining door to recanalization processes in endovascular stroke therapy, J. Neurointerv Surg. 9 (2017) 340 -345, https://doi.org/10.1136/neurintsurg-2016-012324.
+
+B.P. Mehta, T.M. Leslie-Mazwi, R.V. Chandra, et al., Reducing door-to-puncture times for intra-arterial stroke therapy: a pilot quality improvement project, J. Am. Heart Assoc. 3 (2014), https://doi.org/10.1161/JAHA.114.000963.
+
+A.I. Qureshi, H. Egila, M.M. Adil, et al., No turn back approach ' to reduce treatment time for endovascular treatment of acute ischemic stroke, J. Stroke Cerebrovasc. Dis. 23 (2014) e317 -e323, https://doi.org/10.1016/j. jstrokecerebrovasdis.2013.12.015.
+
+J.T. Marion, S.M. Seyedsaadat, J.J. Pasternak, et al., Association of local anesthesia versus conscious sedation with functional outcome of acute ischemic stroke patients undergoing embolectomy, Interv. Neuroradiol. 26 (2020) 396 -404, https://doi.org/10.1177/1591019920923831.
+
+M. Requena, H. Vanden Bavi ` ere, S. Verma, et al., Cost-utility of direct transfer to angiography suite (DTAS) bypassing conventional imaging for patients with acute ischemic stroke in Spain: results from the ANGIOCAT trial, jnis-2023-020275, J. Neurointerv Surg. 0 (2023), https://doi.org/10.1136/jnis-2023-020275.
+
+M. Requena, V. Seguel-Ravest, A. Vilaseca-Jolonch, et al., Evaluating the costutility of a direct transfer to angiosuite protocol within 6h of symptom onset in suspected large vessel occlusion patients, J. Med Econ. 25 (2022) 1076 -1084, https://doi.org/10.1080/13696998.2022.2113221.
+
+M.N. Psychogios, D. Behme, K. Schregel, et al., One-stop management of acute stroke patients minimizing door-to-reperfusion times, Stroke 48 (2017) 3152 -3155, https://doi.org/10.1161/STROKEAHA.117.018077.
+
+M. Requena, M. Oliv ´ e, ´ A. García-Tornel, et al., Time matters: adjusted analysis of the influence of direct transfer to angiography-suite protocol in functional outcome, Stroke (2020) 1766 -1771, https://doi.org/10.1161/ STROKEAHA.119.028586.
+
+J.A.R. Pfaff, S. Sch ¨ onenberger, C. Herweh, et al., Direct transfer to angio-suite versus computed tomography-transit in patients receiving mechanical thrombectomy: a randomized trial, Stroke (2020) 2630 -2638, https://doi.org/ 10.1161/STROKEAHA.120.029905.
+
+M. Requena, M. Oliv ´ e-Gadea, M. Muchada, et al., Direct to angiography suite without stopping for computed tomography imaging for patients with acute stroke: a randomized clinical trial, JAMA Neurol. 78 (2021) 1099 -1107, https:// doi.org/10.1001/jamaneurol.2021.2385.
+
+B. Nazliel, S. Starkman, D.S. Liebeskind, et al., A brief prehospital stroke severity scale identifies ischemic stroke patients harboring persisting large arterial occlusions, Stroke 39 (2008) 2264 -2267, https://doi.org/10.1161/ STROKEAHA.107.508127.
+
+H. Zhao, L. Pesavento, S. Coote, et al., Ambulance clinical triage for acute stroke treatment paramedic triage algorithm for large vessel occlusion, Stroke 49 (2018) 945 -951, https://doi.org/10.1161/STROKEAHA.117.019307.
+
+N.P. De La Ossa, D. Carrera, M. Gorchs, et al., Design and validation of a prehospital stroke scale to predict large arterial occlusion: The rapid arterial occlusion evaluation scale, Stroke 45 (2014) 87 -91, https://doi.org/10.1161/ STROKEAHA.113.003071.
+
+B.S. Katz, J.T. McMullan, H. Sucharew, et al., Design and validation of a prehospital scale to predict stroke severity: cincinnati prehospital stroke severity scale, Stroke 46 (2015) 1508 -1512, https://doi.org/10.1161/ STROKEAHA.115.008804.
+
+S. Hastrup, D. Damgaard, S.P. Johnsen, et al., Prehospital acute stroke severity scale to predict large artery occlusion: Design and comparison with other scales, Stroke 47 (2016) 1772 -1776, https://doi.org/10.1161/ STROKEAHA.115.012482.
+
+E.E. Smith, D.M. Kent, K.R. Bulsara, et al., Accuracy of prediction instruments for diagnosing large vessel occlusion in individuals with suspected stroke: a systematic review for the 2018 guidelines for the early management of patients with acute ischemic stroke, Stroke 49 (2018) e111 -e122, https://doi.org/ 10.1161/STR.0000000000000160.
+
+M.R. Heldner, C. Zubler, H.P. Mattle, et al., National institutes of health stroke scale score and vessel occlusion in 2152 patients with acute ischemic stroke, Stroke 44 (2013) 1153 -1157, https://doi.org/10.1161/ STROKEAHA.111.000604.
+
+M. Goyal, J.M. Ospel, B.J. Kim, et al., A bayesian framework to optimize performance of pre-hospital stroke triage scales, J. Stroke 23 (2021) 443 -448, https://doi.org/10.5853/jos.2021.01312.
+
+M. Galecio-Castillo, J. Vivanco-Suarez, C.B. Zevallos, et al., Direct to angiosuite strategy versus standard workflow triage for endovascular therapy: Systematic review and meta-analysis, J. Neurointerv Surg. (2022), https://doi.org/10.1136/ neurintsurg-2022-018895.
+
+A. Brehm, I. Tsogkas, J.M. Ospel, et al., Direct to angiography suite approaches for the triage of suspected acute stroke patients: a systematic review and metaanalysis, Ther. Adv. Neurol. Disord. 15 (2022), https://doi.org/10.1177/ 17562864221078177.
+
+M.H. Mohammaden, M.F. Doheim, M. Elfil, et al., Direct to angiosuite versus conventional imaging in suspected large vessel occlusion: a systemic review and meta-analysis, Stroke 53 (2022) 2478 -2487, https://doi.org/10.1161/ STROKEAHA.121.038221.
+
+F. Clarençon, C. Rosso, V. Degos, et al., Triage in the angiography suite for mechanical thrombectomy in acute ischemic stroke: not such a good idea, AJNR Am. J. Neuroradiol. 39 (2018) E59 -E60, https://doi.org/10.3174/ajnr.A5610.
+
+N. Riou-Comte, F. Zhu, A. Cherifi, et al., Direct transfer to angiosuite for patients with severe acute stroke treated with thrombectomy: The multicentre randomised controlled DIRECT ANGIO trial protocol, BMJ Open 11 (2021) 40522, https:// doi.org/10.1136/bmjopen-2020-040522.
+
+W.J. Powers, A.A. Rabinstein, T. Ackerson, et al., Guidelines for the early management of patients with acute ischemic stroke: 2019 update to the 2018 guidelines for the early management of acute ischemic stroke a guideline for healthcare professionals from the American Heart Association/American Stroke Association, Stroke 50 (2019) E344 -E418, https://doi.org/10.1161/ STR.0000000000000211.
+
+J.L. Saver, R. Chapot, R. Agid, et al., Thrombectomy for distal, medium vessel occlusions: a consensus statement on present knowledge and promising directions, Stroke (2020) 2872 -2884, https://doi.org/10.1161/ STROKEAHA.120.028956.
+
+M. Waqas, A.T. Rai, K. Vakharia, et al., Effect of definition and methods on estimates of prevalence of large vessel occlusion in acute ischemic stroke: A systematic review and meta-analysis, J. Neurointerv Surg. 12 (2020) 260 -265, https://doi.org/10.1136/neurintsurg-2019-015172.
+
+J.M. Ospel, M. Goyal, A review of endovascular treatment for medium vessel occlusion stroke, J. Neurointerv Surg. 13 (2021) 623 -630, https://doi.org/ 10.1136/neurintsurg-2021-017321.
+
+M. Goyal, B.K. Menon, T. Krings, et al., What constitutes the M1 segment of the middle cerebral artery? J. Neurointerv Surg. 8 (2016) 1273 -1277, https://doi. org/10.1136/neurintsurg-2015-012191.
+
+W.S. Smith, M.H. Lev, J.D. English, et al., Significance of large vessel intracranial occlusion causing acute ischemic stroke and tia, Stroke 40 (2009) 3834 -3840, https://doi.org/10.1161/STROKEAHA.109.561787.
+
+J.M. Ospel, B.K. Menon, A.M. Demchuk, et al., Clinical course of acute ischemic stroke due to medium vessel occlusion with and without intravenous alteplase treatment, Stroke (2020) 3232 -3240, https://doi.org/10.1161/ STROKEAHA.120.030227.
+
+U. Fischer, J. Kaesmacher, D. Strbian, et al., Thrombectomy alone versus intravenous alteplase plus thrombectomy in patients with stroke: an open-label, blinded-outcome, randomised non-inferiority trial, Lancet 400 (2022) 104 -115, https://doi.org/10.1016/S0140-6736(22)00537-2.
+
+B.A.C.M. Fasen, R.J.J. Heijboer, F.J.H. Hulsmans, et al., CT Angiography in evaluating large-vessel occlusion in acute anterior circulation ischemic stroke: Factors associated with diagnostic error in clinical practice, Am. J. Neuroradiol. 41 (2020) 607 -611, https://doi.org/10.3174/AJNR.A6469.
+
+M. Olive-Gadea, M. Requena, F. Diaz, et al., Systematic CT perfusion acquisition in acute stroke increases vascular occlusion detection and thrombectomy rates, J. Neurointerv Surg. 14 (2022) 1270 -1273, https://doi.org/10.1136/ neurintsurg-2021-018241.
+
+S.A. Amukotuwa, A. Wu, K. Zhou, et al., Distal medium vessel occlusions can be accurately and rapidly detected using tmax maps, Stroke (2021) 3308 -3317, https://doi.org/10.1161/STROKEAHA.120.032941.
+
+8
+
+[DOCLING_PAGE 9]
+
+European Journal of Radiology Open 11 (2023) 100536
+
+R.A. Radu et al.
+
+S.A. Amukotuwa, A. Wu, K. Zhou, et al., Time-to-maximum of the tissue residue function improves diagnostic performance for detecting distal vessel occlusions on CT angiography, Am. J. Neuroradiol. 42 (2021) 65 -72, https://doi.org/ 10.3174/ajnr.A6891.
+
+G.M. Hefferman, G.L. Baird, D.W. Swenson, et al., Effects of multiphase versus single-phase CT angiography for the detection of distal cerebral vessel occlusion, Emerg. Radio. 28 (2021) 891 -898, https://doi.org/10.1007/s10140-021-019332.
+
+S. Dundamadappa, K. Iyer, A. Agrawal, et al., Multiphase ct angiography: a useful technique in acute stroke imaging-collaterals and beyond, Am. J. Neuroradiol. 42 (2021) 221 -227, https://doi.org/10.3174/ajnr.A6889.
+
+J.M. Ospel, O. Volny, W. Qiu, et al., Displaying multiphase CT angiography using a time-variant color map: Practical considerations and potential applications in patients with acute stroke, Am. J. Neuroradiol. 41 (2020) 200 -205, https://doi. org/10.3174/ajnr.A6376.
+
+J.M. Ospel, M. Goyal, Improved visualization of medium vessel occlusion stroke with time-variant color-coded multiphase CT angiography maps: A technical note, Neurosci. Inform. 1 (2021), 100003, https://doi.org/10.1016/j. neuri.2021.100003.
+
+B.A.C.M. Fasen, R.C.M. Berendsen, R.M. Kwee, Artificial intelligence software for diagnosing intracranial arterial occlusion in patients with acute ischemic stroke, Neuroradiology 64 (2022) 1579 -1583, https://doi.org/10.1007/s00234-02202912-1.
+
+S. Dehkharghani, M. Lansberg, C. Venkatsubramanian, et al., High-performance automated anterior circulation ct angiographic clot detection in acute stroke: a multireader comparison, Radiology 298 (2021) 665 -670, https://doi.org/ 10.1148/radiol.2021202734.
+
+M. Olive-Gadea, C. Crespo, C. Granes, et al., Deep learning based software to identify large vessel occlusion on noncontrast computed tomography, Stroke (2020) 3133 -3137, https://doi.org/10.1161/STROKEAHA.120.030326.
+
+J.M. Ospel, P. Cimflova, M. Marko, et al., Prevalence and outcomes of medium vessel occlusions with discrepant infarct patterns, Stroke (2020) 2817 -2824, https://doi.org/10.1161/STROKEAHA.120.030041.
+
+M. Goyal, M. Kappelhof, R. McDonough, et al., Secondary medium vessel occlusions: when clots move north, Stroke 52 (2021) 1147 -1153, https://doi. org/10.1161/STROKEAHA.120.032799.
+
+O.A. Berkhemer, P.S.S. Fransen, D. Beumer, et al., A randomized trial of intraarterial treatment for acute ischemic stroke, N. Engl. J. Med. 372 (2015) 11 -20, https://doi.org/10.1056/NEJMOA1411587/SUPPL_FILE/ NEJMOA1411587_DISCLOSURES.PDF.
+
+C. Bilgin, N. Hardy, K. Hutchison, et al., First-line thrombectomy strategy for distal and medium vessel occlusions: a systematic review, Published Online First: 12 October, J. Neurointerv Surg. (2022), https://doi.org/10.1136/jnis-2022019344. Published Online First: 12 October.
+
+B.K. Menon, M.D. Hill, A. Davalos, et al., Efficacy of endovascular thrombectomy in patients with M2 segment middle cerebral artery occlusions: meta-analysis of data from the HERMES Collaboration, J. Neurointerv Surg. 11 (2019) 1065 -1069, https://doi.org/10.1136/NEURINTSURG-2018-014678.
+
+E.D.W. Loh, G.Y.R. Kwok, K.Z.X. Toh, et al., Thrombectomy for distal medium vessel occlusion stroke: Combined vs. single-device techniques - A systematic review and meta-analysis, Front. Stroke 2 (2023) 1, https://doi.org/10.3389/ FSTRO.2023.1126130.
+
+G. Ntaios, K. Spengos, A.M. Vemmou, et al., Long-term outcome in posterior cerebral artery stroke, Eur. J. Neurol. 18 (2011) 1074 -1080, https://doi.org/ 10.1111/J.1468-1331.2011.03384.X.
+
+L. Meyer, C.P. Stracke, N. Jungi, et al., Thrombectomy for primary distal posterior cerebral artery occlusion stroke: the TOPMOST study, JAMA Neurol. 78 (2021) 434 -444, https://doi.org/10.1001/jamaneurol.2021.0001.
+
+A. Arboix, L. García-Eroles, N. Sellar ´ es, et al., Infarction in the territory of the anterior cerebral artery: Clinical study of 51 patients, BMC Neurol. 9 (2009) 1 -7, https://doi.org/10.1186/1471-2377-9-30/TABLES/3.
+
+H. Park, Y.S. Jeong, S.H. Lee, et al., Clinical prognosis of isolated anterior cerebral artery territory infarction: a retrospective study, BMC Neurol. 21 (2021) 1 -9, https://doi.org/10.1186/S12883-021-02194-9/TABLES/2.
+
+M. Goyal, P. Cimflova, J.M. Ospel, et al., Endovascular treatment of anterior cerebral artery occlusions, J. Neurointerv Surg. 13 (11) (2021) 1007, https://doi. org/10.1136/NEURINTSURG-2021-017735.
+
+L. Meyer, P. Stracke, G. Broocks, et al., Thrombectomy versus medical management for isolated anterior Cerebral artery stroke: an international multicenter registry study, Radiol. Publ. (2023) 1, https://doi.org/10.1148/ RADIOL.220229/ASSET/IMAGES/LARGE/RADIOL.220229.VA.JPEG.
+
+G. Turc, P. Bhogal, U. Fischer, et al., European Stroke Organisation (ESO) European society for minimally invasive neurological therapy (esmint) guidelines on mechanical thrombectomy in acute ischemic stroke, neurintsurg-2018014569, J. Neurointerv Surg. (2019), https://doi.org/10.1136/neurintsurg-2018014569.
+
+L.S. Rom ´ an, B.K. Menon, J. Blasco, et al., Imaging features and safety and efficacy of endovascular stroke treatment: a meta-analysis of individual patient-level data, Lancet Neurol. 17 (2018) 895 -904, https://doi.org/10.1016/S1474-4422(18) 30242-4.
+
+F. Cagnazzo, I. Derraz, C. Dargazanli, et al., Mechanical thrombectomy in patients with acute ischemic stroke and ASPECTS ≤ 6: a meta-analysis, J. Neurointerv Surg. 12 (2020) 350 -355, https://doi.org/10.1136/NEURINTSURG-2019015237.
+
+X. Huo, G. Ma, X. Tong, et al., Trial of endovascular therapy for acute ischemic stroke with large infarct, N. Engl. J. Med. Publ. (2023) 6, https://doi.org/
+
+10.1056/NEJMOA2213379/SUPPL_FILE/NEJMOA2213379_DATA-SHARING. PDF.
+
+A. Sarraj, A.E. Hassan, M.G. Abraham, et al., Trial of endovascular thrombectomy for large ischemic strokes, N. Engl. J. Med. Publ. (2023) 6, https://doi.org/ 10.1056/NEJMOA2214403/SUPPL_FILE/NEJMOA2214403_DATA-SHARING. PDF.
+
+S. Yoshimura, N. Sakai, H. Yamagami, et al., Endovascular therapy for acute stroke with a large ischemic region, N. Engl. J. Med. 386 (2022) 1303 -1313, https://doi.org/10.1056/NEJMOA2118191/SUPPL_FILE/NEJMOA2118191_ DATA-SHARING.PDF.
+
+Z. Ren, X. Huo, J. Kumar, et al., Review of current large core volume stroke thrombectomy clinical trials: controversies and progress, Stroke.: Vasc. Interv. Neurol. 2 (2022), https://doi.org/10.1161/SVIN.121.000330.
+
+O.O. Zaidat, S.Al Kasab, S. Sheth, et al., TESLA trial: rationale, protocol, and design, Stroke.: Vasc. Interv. Neurol. 3 (2023), e000787, https://doi.org/ 10.1161/SVIN.122.000787.
+
+M. Bendszus, S. Bonekamp, E. Berge, et al., A randomized controlled trial to test efficacy and safety of thrombectomy in stroke with extended lesion and extended time window, Int. J. Stroke 14 (2018) 87 -93, https://doi.org/10.1177/ 1747493018798558.
+
+V. Costalat, B. Lapergue, J.F. Albucher, et al., Evaluation of acute mechanical revascularization in large stroke (ASPECTS ⩽ 5) and large vessel occlusion within 7 h of last-seen-well: The LASTE multicenter, randomized, clinical trial protocol, 17474930231191032, Int. J. Stroke (2023), https://doi.org/10.1177/ 17474930231191033.
+
+L. Lassalle, G. Turc, M. Tisserand, et al., ASPECTS (Alberta stroke program early CT Score) assessment of the perfusion-diffusion mismatch, Stroke 47 (2016) 2553 -2558, https://doi.org/10.1161/STROKEAHA.116.013676.
+
+S. Nannoni, F. Ricciardi, D. Strambo, et al., Correlation between ASPECTS and Core Volume on CT perfusion: impact of time since stroke onset and presence of large-vessel occlusion, Am. J. Neuroradiol. 42 (2021) 422 -428, https://doi.org/ 10.3174/AJNR.A6959.
+
+R.G. Nogueira, A.P. Jadhav, D.C. Haussen, et al., Thrombectomy 6 to 24 h after stroke with a mismatch between deficit and infarct, N. Engl. J. Med. 378 (2017) 11 -21, https://doi.org/10.1056/NEJMoa1706442.
+
+G.W. Albers, M.P. Marks, S. Kemp, et al., Thrombectomy for stroke at 6 to 16 h with selection by perfusion imaging, N. Engl. J. Med. 378 (2018) 708 -718, https://doi.org/10.1056/NEJMoa1713973.
+
+M. Chen, T.M. Leslie-Mazwi, J.A. Hirsch, et al., Large core stroke thrombectomy: paradigm shift or futile exercise? J. Neurointerv Surg. 15 (2023) 413 -414, https://doi.org/10.1136/JNIS-2023-020219.
+
+M. Moreu, R. Scarica, C. P ´ erez-García, et al., Mechanical thrombectomy is costeffective versus medical management alone around Europe in patients with low ASPECTS (Published Online First), J. Neurointerv Surg. (2022), https://doi.org/ 10.1136/JNIS-2022-019849 (Published Online First).
+
+S.G.H. Olthuis, F.A.V. Pirson, F.M.E. Pinckaers, et al., Endovascular treatment versus no endovascular treatment after 6 -24 h in patients with ischaemic stroke and collateral flow on CT angiography (MR CLEAN-LATE) in the Netherlands: a multicentre, open-label, blinded-endpoint, randomised, controlled, phase 3 trial, Lancet 401 (2023) 1371 -1380, https://doi.org/10.1016/S0140-6736(23)005755.
+
+T. Nezu, M. Koga, J. Nakagawara, et al., Early ischemic change on CT versus diffusion-weighted imaging for patients with stroke receiving intravenous recombinant tissue-type plasminogen activator therapy: Stroke acute management with urgent risk-factor assessment and improvement (SAMURAI) rtPA registry, Stroke 42 (2011) 2196 -2200, https://doi.org/10.1161/ STROKEAHA.111.614404.
+
+T.N. Nguyen, M. Abdalkader, S. Nagel, et al., Noncontrast computed tomography vs computed tomography perfusion or magnetic resonance imaging selection in late presentation of stroke with large-vessel occlusion, JAMA Neurol. 79 (2022) 22 -31, https://doi.org/10.1001/JAMANEUROL.2021.4082.
+
+S.R. Mess ´ e, P. Khatri, M.J. Reeves, et al., Why are acute ischemic stroke patients not receiving IV tPA? Neurology 87 (2016) 1565 -1574, https://doi.org/10.1212/ WNL.0000000000003198.
+
+U. Fischer, A. Baumgartner, M. Arnold, et al., What Is a minor stroke? Stroke 41 (2010) 661 -666, https://doi.org/10.1161/STROKEAHA.109.572883.
+
+P. Khatri, D.O. Kleindorfer, T. Devlin, et al., Effect of alteplase vs aspirin on functional outcome for patients with acute ischemic stroke and minor nondisabling neurologic deficits: the prisms randomized clinical trial, JAMA 320 (2018) 156 -166, https://doi.org/10.1001/JAMA.2018.8496.
+
+N. Goyal, G. Tsivgoulis, K. Malhotra, et al., Medical management vs mechanical thrombectomy for mild strokes: an international multicenter study and systematic review and meta-analysis, JAMA Neurol. 77 (2020) 16 -24, https://doi.org/ 10.1001/JAMANEUROL.2019.3112.
+
+B.C.V. Campbell, P.J. Mitchell, T.J. Kleinig, et al., Endovascular therapy for ischemic stroke with perfusion-imaging selection, N. Engl. J. Med. 372 (2015) 1009 -1018, https://doi.org/10.1056/NEJMOA1414792/SUPPL_FILE/ NEJMOA1414792_DISCLOSURES.PDF.
+
+M.B. Maas, K.L. Furie, M.H. Lev, et al., National institutes of health stroke scale score is poorly predictive of proximal occlusion in acute cerebral ischemia, Stroke 40 (2009) 2988 -2993, https://doi.org/10.1161/STROKEAHA.109.555664.
+
+Y. Saleem, R.G. Nogueira, G.M. Rodrigues, et al., Acute neurological deterioration in large vessel occlusions and mild symptoms managed medically, Stroke (2020) 1428 -1434, https://doi.org/10.1161/STROKEAHA.119.027011.
+
+9
+
+[DOCLING_PAGE 10]
+
+European Journal of Radiology Open 11 (2023) 100536 R.A. Radu et al.
+
+N. Asdaghi, D.R. Yavagal, K. Wang, et al., Patterns and outcomes of endovascular therapy in mild stroke: a Florida-puerto rico collaboration, Stroke 50 (2019) 2101 -2107, https://doi.org/10.1161/STROKEAHA.118.023893.
+
+B.C.V. Campbell, S. Christensen, B.M. Tress, et al., Failure of collateral blood flow is associated with infarct growth in ischemic stroke, J. Cereb. Blood Flow. Metab. 33 (2013) 1168 -1172, https://doi.org/10.1038/JCBFM.2013.77/ASSET/ IMAGES/LARGE/10.1038_JCBFM.2013.77-FIG3.JPEG.
+
+R. McDonough, P. Cimflova, N. Kashani, et al., Patient-relevant deficits dictate endovascular thrombectomy decision-making in patients with low nihss scores with medium-vessel occlusion stroke, Am. J. Neuroradiol. 42 (2021) 1834 -1838, https://doi.org/10.3174/AJNR.A7253.
+
+D.J. McCarthy, D.A. Tonetti, J. Stone, et al., More expansive horizons: a review of endovascular therapy for patients with low NIHSS scores, J. Neurointerv Surg. 13 (2021) 146 -151, https://doi.org/10.1136/NEURINTSURG-2020-016583.
+
+Y. Zhao, Y. Song, Y. Guo, et al., Endovascular thrombectomy vs. medical treatment for mild stroke patients: a systematic review and meta-analysis,
+
+Stroke Cerebrovasc. Dis. 29 (2020), 105258, https://doi.org/10.1016/J. JSTROKECEREBROVASDIS.2020.105258.
+
+C.J. Griessenauer, C. Medin, J. Maingard, et al., Endovascular mechanical thrombectomy in large-vessel occlusion ischemic stroke presenting with low national institutes of health stroke scale: systematic review and meta-analysis, World Neurosurg. 110 (2018) 263 -269, https://doi.org/10.1016/J. WNEU.2017.11.076.
+
+C.H. Lin, J.L. Saver, B. Ovbiagele, et al., Effects of endovascular therapy for mild stroke due to proximal or M2 occlusions: meta-analysis, J. Neurointerv Surg. 15 (2023) 350 -354, https://doi.org/10.1136/NEURINTSURG-2022-018662.
+
+G. Schwarz, S. Bonato, S. Lanfranconi, et al., Intravenous thrombolysis + endovascular thrombectomy versus thrombolysis alone in large vessel occlusion mild stroke: a propensity score matched analysis, Eur. J. Neurol. 30 (2023) 1312 -1319, https://doi.org/10.1111/ENE.15722.
+
+10

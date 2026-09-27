@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0.0",
+  "case_id": "song-2025",
+  "source_mode": "raw",
+  "selection_mode": "direct",
+  "repair_mode": "none",
+  "source_run_ids": [
+    "de-v3-song-2025-r1-20260826T190926Z-f7b293fe",
+    "de-v3-song-2025-r2-20260826T193033Z-59502903",
+    "de-v3-song-2025-r3-20260826T194904Z-2ff74cf6"
+  ],
+  "selected_run_id": "de-v3-song-2025-r1-20260826T190926Z-f7b293fe",
+  "documents": [
+    {
+      "document_key": "evolved.supplement",
+      "source_document_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806",
+      "snapshot_path": "frozen/evolved.supplement/source.docling.json",
+      "snapshot_sha256": "461b2f90a4e7f09219a3abbf4e3296146c365742edf2600f74f0b8360da27d56",
+      "media_type": "application/vnd.docling+json",
+      "converter": {
+        "name": "docling",
+        "version": "2.117.0",
+        "pipeline": "standard",
+        "do_ocr": false,
+        "do_table_structure": true,
+        "table_mode": "accurate"
+      },
+      "character_repair_applied": false,
+      "prepare_stage_output_sha256": "e6c7204eb6a609b62df3f4d3a1b11ab4f11893362333257ea8f6792e59d179b3",
+      "repair_stage_output_sha256s": [],
+      "repair_apply_stage_output_sha256": null
+    }
+  ]
+}

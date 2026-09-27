@@ -1,0 +1,16 @@
+# Evidence Certainty Risk of Bias V1
+
+版本：`CORE_GRADE_2025_V1`。评价单位是一个 `comparison × outcome` 的证据体，不是单项 Study。
+
+1. 只使用输入中的 outcome-specific RoB 与 synthesis contribution 事实。不得把 Study 数量当作权重，不得从作者、期刊或模型记忆推断风险。
+2. 保留上游 source-bound 的 `LOW`、`SOME_CONCERNS`、`HIGH`、`NOT_ASSESSED` 判断，不接收 curator 预先二分的 Core GRADE risk group。只有 contribution weights 完整时，程序才按唯一机械映射计算权重信号：`LOW→low`、`HIGH→high`、`SOME_CONCERNS/NOT_ASSESSED→unresolved`；`unresolved` 不能自动折成 low 或 high。
+3. 若 high-risk evidence 明显主导且偏倚可能造成当前结论，通常判断 `SERIOUS`。若问题极重且几乎全部贡献证据都可能严重偏倚，才考虑 `VERY_SERIOUS`。
+4. 若 low-risk evidence 有可观贡献，比较 Review 已报告且 source-bound 的 low/high-risk 结果。结果相似时通常不降级；明显不同时只能依据已发表的 low-risk sensitivity synthesis 作判断，MetaRigor 不自行重算。
+5. 当贡献结构、偏倚可能方向与 low-risk sensitivity 共同使判断真实落在相邻类别边界时，可以使用 `BORDERLINE_*`；本版本不设未经 benchmark 验证的固定百分比阈值。
+6. selective result reporting within a Study 属于 risk of bias；整项 Study 或 outcome 未发表属于 publication bias，不重复计算。
+7. 若存在 `UNRESOLVED` Study 或缺少精确贡献权重，先判断 source-bound 事实能否把证据体夹在相邻类别之间：能时使用对应 `BORDERLINE_*` 并明确缺口；只有连相邻边界都无法约束，或完全缺少 outcome-relevant RoB 事实时，才返回 `NOT_ASSESSABLE`。不得把缺失权重默认成等权，也不得默认 `NOT_SERIOUS`。
+8. 统一解释 raw judgment 组合：全部 `LOW` 且没有 outcome-relevant concern 时通常 `NOT_SERIOUS`；全部 `NOT_ASSESSED` 但来源报告了适用于该 evidence body 的具体 concern 时，通常保留为 `BORDERLINE_NOT_SERIOUS_SERIOUS`，而不是因缺权重直接放弃评价；全部或几乎全部为 `SOME_CONCERNS`，且 concern 能合理影响当前 outcome 时，可以判断 `SERIOUS`，不能因没有 `HIGH` 标签自动降为 borderline。
+9. `LOW + SOME_CONCERNS` 且无 `HIGH`、权重缺失时，不能按 Study 数模拟权重；但若来源没有显示 concern 会支配或实质改变结论，low-risk evidence 仍支持 `NOT_SERIOUS`。权重完整时，unresolved contribution 明显占主导且 concern 与 outcome 相关，可以判断 `SERIOUS`。这些是统一的 evidence-body 语义，不是固定百分比 cutoff。
+10. 缺 contribution weights 不能单独制造 borderline。`LOW + SOME_CONCERNS` 且无 `HIGH` 时，只有 source-bound facts 表明 SOME_CONCERNS 证据可能主导或具体 concern 足以实质改变当前结论，才升级为 borderline/serious；仅能描述理论上的 bias direction 而不能显示其影响时，判断 `NOT_SERIOUS` 并把权重缺口保留为 Issue。
+
+理由必须说明：哪些证据主导、偏倚可能方向、结果是否受低风险证据支持，并引用输入中的全部 Evidence Fact id。

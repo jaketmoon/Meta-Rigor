@@ -1,0 +1,322 @@
+# Cognitive Outcomes after DEXmedetomidine sedation in cardiac surgery: CODEX randomised controlled trial protocol
+
+## Introduction
+
+Older patients undergoing cardiac surgery carry the highest risk for developing major postoperative neurocognitive disorder (postoperative NCD or P-NCD) with up to 25% incidence 3 months after surgery. P-NCD is associated with significant morbidity, mortality, loss of independence, premature retirement and increased healthcare costs. This multicentre randomised trial is investigating the efficacy of postoperative dexmedetomidine sedation in reducing the incidence of major P-NCD after cardiac surgery compared with standard protocols. CODEX will be the largest interventional trial with major P-NCD as the primary outcome.
+
+## Methods and analysis
+
+CODEX is recruiting patients ≥60 years old, undergoing elective cardiac surgery and without pre-existing major cognitive dysfunction or dementia. Eligible participants are randomised to receive postoperative dexmedetomidine or standard institutional sedation protocols in the intensive care unit. Baseline preoperative cognitive function is assessed with the computer-based Cogstate Brief Battery. The primary outcome, major P-NCD, 3 months after surgery is defined as a decrease in cognitive function ≥1.96 SD below age-matched, non-operative controls. Secondary outcomes include delirium, major P-NCD at 6/12 months, depressive symptoms, mild P-NCD and quality of surgical recovery at 3/6/12 months. The specific diagnostic criteria used in this protocol are consistent with the recommendations for clinical assessment and management of NCD from the Nomenclature Consensus Working Group on perioperative cognitive changes. Intention-to-treat analysis will compare major P-NCD at 3 months between study groups.
+
+## Ethics and dissemination
+
+CODEX was approved by Sunnybrook Health Sciences Centre Research Ethics Board (REB) (Project ID 1743). This will be the first multicentre, randomised controlled trial to assess the efficacy of a pharmacological intervention to reduce the incidence of major P-NCD after cardiac surgery in patients ≥60 years old. Dissemination of the study results will include briefings of key findings and interpretation, conference presentations and peer-reviewed publications.
+
+## Trial registration number
+
+NCT04289142 .
+
+# Strengths and limitations of this study
+
+- First large multicentre, randomised controlled trial to investigate a pharmacological intervention to reduce postoperative major neurocognitive disorders (NCDs) as a primary outcome after cardiac surgery.
+- First trial to employ diagnostic criteria consistent with recently published nomenclature and best practice recommendations for clinical assessment and management of major postoperative NCD.
+- The neurocognitive testing using validated computer-based Cogstate Brief Battery test will provide important preoperative baseline data and will allow for prolonged cognitive follow-up.
+- Clinical team not blinded to the study drug.
+- Potential loss to follow-up for patients unable to complete cognitive test remotely due to postoperative NCD.
+## Introduction
+
+Over 300 million people undergo major surgical procedures annually. 1 A significant proportion of patients experiences perioperative neurocognitive disorders (NCDs) after surgery including delirium and postoperative neurocognitive disorder (P-NCD) (mild and major P-NCD). Various patient-related, surgery-related and anaesthetic-related risk factors are associated with postoperative cognitive decline including advanced age, complexity and duration of surgery, pre-existing cognitive deficits, delirium, depression, concomitant medications and inflammation. 2–4 Major P-NCD is a significant health issue with far-reaching socioeconomic implications that can affect anyone undergoing surgery. Dementia is a disorder with one of the highest socioeconomic burdens, and P-NCD has been associated with its development. 5
+
+P-NCD is not well studied because the symptoms can be subtle and challenging to diagnose, similar to the symptoms of early dementia. The lack of a formal definition of P-NCD until 2018 and mistakenly attributing changes in cognition to the normal ageing process further exacerbate the underdetection of this disorder. The absence of routine baseline cognitive assessment and heterogeneity with cognitive batteries increase the likelihood of misdiagnosis. 6 7 Unlike dementia, however, P-NCD has a clear starting point (time of surgery) where targeted intervention may be possible.
+
+Historically, perioperative cognitive changes and assessment of P-NCD in the elderly were not the focus of clinicians. 8 However, cognitive recovery after surgery and anaesthesia is now a major concern. The American Society of Anesthesiologists, through its Brain Health Initiative, released a position paper summarising the state of the nomenclature and science, calling for further research into effective therapeutic options. 9 In addition, in the perioperative cognition, the Nomenclature Consensus Working Group recently developed and published a unified nomenclature and recommendations for clinical assessment of cognitive changes associated with anaesthesia and surgery. 10 Postoperative cognitive dysfunction, a deficit in cognition ≥1.96 on the z-score measured by the Reliable Change Index (RCI) lasting 30 days or greater, is referred to as major P-NCD. Deficits between 1 and 1.96 z-score lasting 30 days or greater, previously known as mild cognitive impairment (MCI), are now termed mild P-NCD. Cognitive changes occurring within 30 days after surgery are referred to as delayed neurocognitive recovery.
+
+Major P-NCD occurs in about 10% of patients after non-cardiac surgery. 11 12 This disorder is strongly associated with negative patient outcomes including prolonged hospital stay, premature retirement, loss of independence, increased caregiver burden and death in elderly patients. 13–16 Patients who displayed combined deficits in memory and executive function 3 months following surgery experienced a higher degree of functional impairment, which they described as difficulties with ‘instrumental activities in daily life’. 15 Cardiac surgery carries the highest risk of major P-NCD with estimates of up to 80% at 3 weeks, 60% at 6 months and 26% at 1 and 3 years postoperatively. 17–20 These cognitive changes have been associated with the development of dementia. 21
+
+Initially, cardiopulmonary bypass required for coronary artery bypass grafting (CABG) or valve replacement was thought to be the primary aetiology of P-NCD. 17 19 Consequently, off-pump CABG was developed but did not affect cognitive outcomes. Trials comparing off-pump with on-pump techniques demonstrated no differences in early (delirium or delayed neurocognitive recovery) or late (mild or major P-NCD) postoperative cognition. 22–24 Surprisingly, those undergoing minimally invasive percutaneous coronary intervention demonstrated worse cognitive outcomes than those undergoing CABG. 25 26 This suggests that the pathophysiology of major P-NCD is multifactorial and anaesthetic medications are one of several contributory factors. In addition, inflammation in the central nervous system (CNS) (from underlying disease burden, surgical procedure or postoperative complications), 27 28 in conjunction with coronary artery disease (CAD) and cerebrovascular disease, has been postulated as contributory risks. Patients with significant systemic disease such as CAD, chronic obstructive pulmonary disease, diabetes and obstructive sleep apnoea demonstrate higher levels of circulating inflammatory cytokines and reveal more rapid cognitive decline than individuals without comorbidities. 29–32
+
+Major P-NCD has significant socioeconomic implications, and strategies or interventions to reduce the burden of disease are urgently needed. Previous studies have investigated several medications that could prevent or reduce postoperative cognitive complications. Dexamethasone had no effect, and lidocaine demonstrated limited effectiveness with trials examining cognitive deficits at 1 week. 33 34 Ketamine had comparable early effects as lidocaine. 35 Currently, there are no effective pharmacological strategies to prevent or treat persistent cognitive impairment after surgery.
+
+In recent years, dexmedetomidine (DEX) has gained attention for its potential perioperative therapeutic effects. DEX is a potent and selective α2 receptor (α2R) agonist approved for procedural sedation by anaesthesiologists or as a sedative in the intensive care unit (ICU). Recent studies indicate that DEX reduces postoperative delirium after cardiac and non-cardiac surgery. 36 37 In murine models, DEX reduces anaesthetic/surgery-induced learning and memory deficits from propofol, etomidate, benzodiazepines and halogenated inhalational anaesthetics. 38–40 These salutary effects on learning and memory have also been demonstrated when DEX is administered in murine models of sepsis without any surgical insult or anaesthetic exposure. 41 42 The mechanisms of DEX neuroprotection are proposed to be both direct and indirect. Directly, it has opioid/GABA-ergic drug-sparing effects. 43 Indirectly, it has anti-inflammatory effects in the CNS and is protective of neuro-apoptosis. 41 The synergistic anaesthetic sparing and anti-inflammatory effects of DEX in the CNS could reduce the incidence of major P-NCD after open cardiac surgery, the surgical population with the highest observed risk. Therefore, screening, diagnosing and preventative therapies for this population are crucial. The evidence for DEX reducing major P-NCD, while biologically plausible, is limited by suboptimal outcome measurement in terms of both neurocognitive assessments and the dose of DEX highlighting the need for a large, well-designed trial.
+
+With approximately 300 000 open cardiac procedures occurring yearly in North America, the burden of P-NCD is enormous. Currently, there are no interventions to prevent persistent cognitive impairment after surgery. Thus, effective mitigation strategies for major P-NCD are urgently needed. We hypothesise that postoperative sedation using DEX versus standard sedation protocols will reduce the incidence of persistent cognitive dysfunction (major P-NCD) 3 months after open cardiac surgery. To test our hypothesis, we launched a multicentre randomised trial, CODEX, designed to identify the first potential pharmacological intervention to prevent or reduce the incidence of major P-NCD after cardiac surgery. The use of DEX could lead to improved patient care and decreased length of hospital stay and cost.
+
+### Study objectives and outcomes
+
+#### Primary objective
+
+To test if DEX sedation in the ICU after open cardiac surgery (up to 24 hours) reduces the incidence of major P-NCD 3 months after surgery.
+
+#### Secondary objectives:
+
+To identify the influence of pre-existing MCI (mild NCD), pre-existing chronic inflammation, CNS pathology and delirium on major P-NCD at 3 months.
+
+### Outcomes and outcome measures
+
+#### Primary outcome
+
+Presence of major P-NCD at 3 months assessed by the Cogstate Brief Battery (CBB, cogstate.com). Major P-NCD is defined as CBB score ≥1.96 z-score (RCI cut-off) below age-matched controls from the general population.
+
+#### Outcome measure
+
+We will determine if DEX, compared with standard sedation protocols, is identified as the first intervention that successfully reduces the incidence of major P-NCD at 3 months after cardiac surgery. We expect that those receiving DEX will have superior cognitive outcomes and have a positive impact on quality of life after surgery.
+
+#### Secondary outcomes
+
+#### In hospital
+
+Delirium (assessed twice daily POD (Postoperative Day) 0–10 or hospital discharge with Confusion Assessment Method for the ICU (CAM-ICU)/ICDSC or CAM for extubated participants), death, haemodynamic instability requiring vasopressors (MAP <55 mm Hg), time to extubation (defined as arrival in ICU to removal of endotracheal tube), reintubation (and reason), length of stay (LOS) (in ICU and total hospital), depressive symptoms (Patient Health Questionnaire-9) between POD 4 and 10, postoperative complications (infection (surgical site, sepsis and pneumonia), myocardial infarction, CVA/TIA, acute kidney injury requiring renal replacement therapy and reoperation), cumulative opioid consumption (to POD 4) and in-hospital mortality.
+
+#### Post discharge
+
+Major P-NCD (6/12 months), depressive symptoms (3/6/12 months), mild P-NCD at 3/6/12 months (defined as 1–1.96 z-score below age-matched controls), persistent surgical site pain at sternotomy/thoracotomy/graft harvest site (Brief Pain Inventory, 3/6/12 months) and Quality of Recovery-40 (QoR-40) Scale (3/6/12 months).
+
+#### Outcome measure
+
+We will learn if the above factors increase the risk of major P-NCD at 3 months and better inform patients as to the risk of persistent cognitive changes after surgery.
+
+#### Specific outcomes and study feasibility (pilot trial)
+
+CODEX initially launched as a pilot trial at Sunnybrook Health Sciences Centre (SHSC) in September 2018 with the goal to assess the feasibility of a larger multicentre trial (ie, recruitment, protocol adherence and 3-month follow-up rate).
+
+#### Pilot trial overview
+
+Over 18 months, we successfully recruited 64 and randomised 44 (20 failed baseline CBB) participants (annual cardiac surgery volume ~600). Participants had no difficulties with remote administration of the baseline CBB test nor with follow-up tests regardless of previous experience with computers/tablets. Our preliminary data support the innovative study design with CBB remote administration. While remote cognitive screening is not used widely in primary care, the CBB is an option for patients in rural areas to reduce inequities in healthcare access. Inferential test and statistics will not be conducted on pilot trial data.
+
+CODEX is expanding to a large multicentre trial, with locations across Canada. Three additional sites, Toronto General Hospital, London Health Sciences Centre and Hamilton Health Sciences (combined cardiac surgery volume ~4200/year), have started recruiting participants. Four additional sites have confirmed feasibility and participation (St. Paul’s Hospital—Vancouver, Kingston Health Sciences Centre, Royal University Hospital and Université de Sherbrooke,~3700 cases/year). Additional study sites are being sought. We are aiming to recruit 2400 participants over approximately 5–7 years.
+
+## Methods and analysis
+
+### Study design, population and recruitment
+
+This is a pragmatic, participant-blinded, multicentre, parallel-group, randomised controlled trial with SHSC, a tertiary academic centre in Canada, as the coordinating site. The pilot trial demonstrated the ability to recruit 44 participants over 1 year and collect baseline and primary outcome data (ie, major P-NCD assessment at 3 months).
+
+The multicentre trial was launched in December 2019 with the unanalysed data from the pilot trial included in the full trial. Recruitment will be finished after 2400 participants have completed 1-year follow-up (projected 2027). Individuals awaiting elective cardiac surgery are approached either on the cardiology ward or in the preoperative anaesthesia clinic of the participating sites by trained personnel. Those providing informed, written consent are then screened using the preoperative baseline CBB. If pre-existing cognitive dysfunction is absent, participants are randomised to one of two treatment arms ( figure 1 and table 1 ). Participants will be able to withdraw from the study at their prerogative at any time, and no further data will be collected.
+
+CODEX trial workflow: schedule of enrolment, interventions and assessments. BPI, Brief Pain Inventory; CAM, Confusion Assessment Method; CBB, Cogstate Brief Battery;; HHS, Hamilton Health Sciences; LHSC, London Health Sciences Centre; NCD, neurocognitive disorder; PHQ, Patient Health Questionnaire; QoR-40, Quality of Recovery-40 Scale; TGH, Toronto General Hospital. *Current participating centres.
+
+Table 1
+Caption: Eligibility criteria
+Inclusion criteria | Exclusion criteria
+Age ≥60 years Elective CABG (±valve, including off-pump) or valve replacement | Lack of patient consent Medical history of the following: Pre-existing major cognitive dysfunction (CBB score <80 adjusted to general population’s age-matched controls). Contraindication to DEX (per product monograph). History of drug/alcohol abuse. Renal and hepatic dysfunction. Surgical procedures requiring deep hypothermic circulatory arrest Unlikely to comply with study assessments (ie, cannot complete cognitive tests at the follow-up time points)
+
+### Computer-based cognitive assessment (CBB test)
+
+CODEX is assessing cognitive performance with the CBB. CBB assesses four cognitive domains (psychomotor function, attention, learning and working memory). It has nearly infinite alternate forms (based on 52 deck playing cards) and a large database of sex-matched and age-matched test results against which to normalise, and it is relatively fast to administer (20 min). Importantly, it has been validated against traditional neuropsychological tests in a variety of clinical conditions and brain disorders across time. 44–46 A score of <80 on any of the four domains corresponds to major P-NCD (RCI >1.96). CBB allows assessment of cognitive status at multiple time points (preoperative, postoperative and three times post discharge) to identify cognitive trajectories without the need to adjust for learning effects up to 1 year after surgery ( figure 1 ). Additionally, CBB allows cognition to be assessed remotely reducing loss to follow-up and increasing accessibility. To our knowledge, this will be the first large study to screen and detect cognitive decline or perioperative NCDs using the CBB tool.
+
+### Inclusion and exclusion criteria
+
+#### Inclusion
+
+Patients ≥60 years old planned for CABG (±valve, including off-pump) or valve replacement via sternotomy/thoracotomy with planned postoperative ICU recovery.
+
+#### Exclusion
+
+Lack of consent, major preoperative cognitive dysfunction (defined as CBB score <80), contraindication to DEX (untreated second-degree type 2 or third-degree heart block (pacemaker), cirrhosis, HR <50, grade IV left ventricle dysfunction, renal failure or on renal replacement therapy), unlikely to comply with study assessments (eg, no fixed address, cannot complete cognitive tests at the 3/6/12-month time points) and procedures requiring circulatory arrest.
+
+### Randomisation
+
+Randomisation will be accomplished in advance of the surgical procedure through a centralised, secured, online REDCap database. Participants will be randomised (1:1) in permuted blocks of 4–8 to one of two study groups described below. The randomisation sequence will be computer generated and stratified by two factors: planned procedure (CABG/CABG+ valve or valve-only procedure) and study site.
+
+### Study groups
+
+#### DEX group (intervention)
+
+DEX will be loaded by the anaesthesiologist in the operating room at the completion of surgery (at the time of sternal closure, grafts complete and off cardiopulmonary bypass) prior to ICU transfer at 1.2 µg/kg/hour over approximately 20 min (up to 1 hour) followed by an infusion at 0.7 µg/kg/hour. The rate can be adjusted higher or lower at the discretion of the anaesthesiologist/intensive care physician for clinical indications (sedation requirements, extubation or haemodynamics) between 0.1 and 1.2 µg/kg/hour. If the maximum rate is reached and the participant requires further sedation, the ICU team can introduce additional sedatives at their discretion. After extubation, the infusion will continue in ICU to avoid excess sedation in the judgement of the clinical team up to 24 hours or until ready for discharge from ICU (whichever is earlier). The infusion can also be paused secondary to haemodynamic instability (hypotension—MAP <55 mm Hg requiring vasopressors, bradycardia—HR <50) or if acute kidney injury requiring dialysis develops. After 24 hours or ICU discharge (whichever is earlier), therapy will be at the discretion of the care team. DEX is approved for procedural sedation during surgery and mechanical ventilation in the ICU, and the proposed use in this trial falls within such indications (ie, on-label).
+
+#### Standard of care group (control)
+
+Non-DEX-based sedation protocols, at the discretion of the attending physician in the ICU, include fentanyl, midazolam or propofol while intubated. In extubated patients still in the ICU, this could also include antipsychotics such as quetiapine and haloperidol. All α2R agonist including DEX and clonidine are precluded from use.
+
+Intraoperative anaesthetic care (induction and maintenance medications/dosing) is at the discretion of the attending anaesthesiologist with restrictions precluding the use of intraoperative α2R agonist in participants randomised to the control group.
+
+### Blinding
+
+The clinical team will not be blinded to group allocation as propofol, the most commonly used sedative, has a distinctive white appearance, which renders blinding unfeasible. Study participants will effectively be blinded, as the intervention will be initiated when the participant is still intubated and emerging from anaesthesia. Once weaned from mechanical ventilation, propofol is discontinued; however, DEX, a clear solution, will be one of a number of infusions, and it will be difficult for participants to distinguish/identify specific medications. Data collectors and those administering postoperative cognitive tests will be blinded and will not be able to ascertain group allocation during follow-up visits as they occur after discontinuation of the intervention.
+
+### Study workflow
+
+Consenting participants that pass the baseline CBB testing (CBB ≥80) will be randomised (1:1) to receive either postoperative sedation with DEX infusion for 24 hours after surgery in the ICU or sedation per institutional practice. All other aspects of pre/intra/postoperative care will be in accordance with standard institutional practice at the discretion of the clinical team including specific induction/maintenance anaesthetic drugs, surgical care and postoperative care to reduce heterogeneity between study groups and increase generalisability. In addition to the primary and secondary outcome measures, the research team will record demographical data including age, gender, ASA (American Soceity of Anesthesiologists' Physical Status Classification) and highest level of education.
+
+### Perioperative NCD and study assessments
+
+Baseline assessments are scheduled within 1 month prior to surgery. Delirium (CAM-ICU/ICDSC) will be assessed daily while in hospital, and the CBB will be performed during the postoperative period (POD 4–10). The CBB will also be administered at 3, 6 and 12 months after surgery ( figure 1 ). In-hospital CBB assessments will be administered by trained research personnel who will also conduct the CAM. Delirium assessments are also conducted twice daily by clinical nursing staff, and this data will be abstracted from the chart.
+
+### Statistical analysis and sample size estimation
+
+#### Sample size calculation
+
+The sample size is based on the binary, primary outcome of major P-NCD at 3 months with the following assumptions and considerations:
+
+- α=0.05, two-sided and β=0.2.
+- Estimated incidence of major P-NCD at 3 months with standard care 25%.
+- Estimated effect size of DEX 20% (relative risk reduction 20% and absolute risk reduction 5% for major P-NCD).
+This yields a sample size of 1092 per group (2184 total). To account for loss to follow-up (estimated at ~10%), 1200 participants per group (2400 total) will be recruited. There is no minimally clinically important difference for the incidence of P-NCD. The estimated effect size was selected as a balance between clinical relevance and a pragmatic sample size.
+
+### Statistical analysis
+
+Data will be analysed on an intention-to-treat basis. Demographical data will be summarised and expressed using appropriate measures of central tendency and dispersion for continuous data and frequency for categorical data. Inferential testing will be two-sided, and p<0.05 will be considered statistically significant.
+
+Major P-NCD at 3 months will be compared between groups using the χ 2 test. In the unlikely event that randomisation was not able to reduce bias by balancing out confounders, we will assess for confounding factors. This will be carried out by assessing each potential confounder individually in relation to the key predictor (DEX) and determining if the potential confounder impacts the parameter estimate of DEX using the 10% change in estimate approach. The potential confounder would also need to be significantly related to the outcome (major P-NCD). Should any confounders exist, they will be included in a logistic regression analysis.
+
+Analysis of secondary outcomes will be considered exploratory in nature; therefore, no adjustments for multiple comparisons will be made. Categorical outcomes (delirium, death, haemodynamic instability and depression/chronic pain/mild P-NCD at 3 months) will be compared using χ 2 test (Fisher’s exact test where appropriate). Continuous outcomes (LOS, opioid use and QoR-40) will first be analysed with the Shapiro-Wilk test and visually to assess for normality. If approximately normal, the independent sample t test will be used. Otherwise, the Mann-Whitney U test will be employed.
+
+The secondary analysis will also include an analysis of the entire sample population and employ Cox proportional hazards to estimate the effect of mild P-NCD (MCI), DEX, gender, age, highest level of education, chronic inflammatory state, CNS disease (eg, previous CVA, multiple sclerosis and Parkinson’s) and postoperative delirium on the risk of developing major P-NCD at 3 months and 1 year. Missing data will be addressed using multiple imputation (or inverse probability weighting).
+
+Two interim analyses are planned at 800 and 1600 participants. Futility will be assessed at the interim analyses using the O’Brien-Flemming stopping boundaries. Inferential statistical testing on collected outcomes will not be performed after the pilot trial to allow for its transfer to the full trial.
+
+### Data management
+
+Data will be collected in a secure, customised, purpose-built REDCap database hosted by the Centre for Clinical Trials Services (CCTS) at SHSC and include range checks for data values. CCTS provides administrative and organisational support including central randomisation via REDCap and database programming/management. Study data are deidentified. The file linking personal information to participant ID is password-protected and stored on an encrypted hospital server.
+
+### Patient and public involvement
+
+This study was not initiated at the request of a particular patient, but was prompted by questions/concerns brought forward by patients and their families to the investigators. Patients were not involved in the design or recruitment/conduct of the study. The study results will be communicated to patients via publications.
+
+## Discussion
+
+CODEX is the first and largest randomised, multicentre trial powered to ascertain the effects of DEX as an intervention to prevent long-term major P-NCD. Should DEX be shown to have neuroprotective effects, it would have far-reaching implications in that exposure to DEX, used for its approved indication, can have long-lasting positive impacts on health-related quality of life for patients. It will also inform the incidence of major P-NCD at 1 year, which can form the basis of trials examining long-term P-NCD. CODEX is designed to demonstrate the potential neuroprotective effects of DEX, similar to what has been reported in murine models.
+
+We have successfully used the CBB to evaluate postoperative cognitive changes after hip and knee arthroplasty ( NCT03147937 ). 47 CODEX will assess the cardiac surgical population, which has the highest reported incidence of major P-NCD. CODEX initially launched as a pilot trial at SHSC in September 2018 and has recently expanded to a multicentre trial with three additional sites that have initiated recruitment. Additional sites have confirmed participation.
+
+Our study has several limitations. First, the biological plausibility for DEX reducing major P-NCD is supported by murine data and randomised trials that measure shorter-term cognitive outcomes (<1 month) including delirium. This will be the first major trial assessing longer-term cognitive outcomes, and while the assumptions regarding incidence are at the conservative levels in the reported literature, inaccuracies in existing estimates could still affect trial results. Second, while neuroinflammation, which DEX is proposed to attenuate, is a major inciting factor for P-NCD, other prognostic factors such as perioperative stroke can also contribute, 48 and this may mute the effect size of our intervention. Given that robust randomisation is employed, however, prognostic factors such as the above are anticipated to be distributed between study groups evenly. Third, with a long follow-up period, participant attrition is expected, and it is possible that the outcome of interest, major P-NCD, may contribute to this. To mitigate attrition, we have a robust follow-up protocol that involves multiple participant contacts with specific schedules and reminders. Fourth, the pilot trial demonstrated a 10% recruitment rate. To achieve the intended sample size, multiple additional recruiting sites will be necessary. Finally, 16%–51% of patients with CAD display element of preoperative cognitive impairment. 49 50 CODEX inclusion criteria allow randomisation of those with pre-existing MCI; however, those with severe preoperative cognitive dysfunction are excluded as these individuals would be expected to have the primary outcome of interest. Therefore, CODEX cannot assess whether DEX improves postoperative cognitive function.
+
+The strengths of CODEX include the large sample size across multiple institutions. This will increase generalisability and study procedures including robust randomisation will reduce bias. Furthermore, CODEX will expose participants in the intervention group to a prolonged duration of DEX (up to 24 hours), longer than previous studies that used infusions up to 6 hours. 51 52
+
+There are no established strategies for the detection or treatment of perioperative NCD as part of routine clinical practice. CODEX is the largest appropriately powered trial with rigorous perioperative neuropsychological assessment to date that will definitively identify an intervention and employ helpful preoperative screening methodology for major P-NCD so that clinicians may use preventative strategies perioperatively. While major P-NCD will still occur as a result of patient-related, surgery-related and anaesthetic-related risk factors, we strongly believe that the influence of neuroinflammation and anaesthetic medications can be mitigated. This study will also explore prognostic variables for cognitive deterioration using state-of-the-art computer-based cognitive testing. Our findings will assist patients and physicians in making informed decisions about the cognitive implications of surgery. It will also provide evidence to expand the investigation of DEX on cognitive outcomes in non-cardiac surgery patients.
+
+### Ethics and dissemination
+
+The study is conducted according to the principles of the Declaration of Helsinki and the Medical Research involving Human Subjects Act. The study will be monitored by Data and Safety Monitoring Board (DSMB), a group of experts (independent of the study investigators) responsible for evaluating any possible harmful effects of DEX and futility. The DSMB will meet twice, after each interim analysis, and advise the trial steering committee as to whether the trial should continue.
+
+There is a risk that the cognitive tests (part of the study protocol) may show previously unknown pre-existing cognitive impairment. These results of the tests will be carefully discussed with the study participants and sent to their general physician as per participants’ request. Additionally, participants will be informed that taking part in this study is voluntary and the study data will be stored and analysed with confidentiality. The protocol will be available on request. Anonymised data will be available on request after completion of the trial. All study investigators will follow the rules and guidelines of the International Committee of Medical Journal Editors ( http://www.icmje.org/ethical_1author.html ) and authorship of manuscripts and presentations. 53 54 The results will be published in a peer-reviewed journal. All coinvestigators will have access to the final study dataset following the final statistical analysis. The authors have no competing interests.
+
+The study was approved by the ethics committee of the Sunnybrook Health Sciences Centre (CTO Project ID 1743). Protocol modifications/amendments are approved by the REB and communicated to all sites.
+
+## Supplementary Material
+
+## Reviewer comments
+
+## Author's manuscript
+
+Footnote: Contributors: SC designed the study, contributed to statistical plan, obtained funding, was involved with study conduct and is the principal investigator of the study. SA designed study protocol, obtained funding and conducted trial preparations. AJ contributed to study design and conduct. LK contributed to trial preparation and conduct. JCSM and AS contributed to trial conduct. AK contributed to statistical plan. PJ, GD, SS, TS, FD, PH, RR and EC oversaw study conduct at study subsites. SW assisted with study design and implementation. BAO contributed to study design. SC and LK prepared and revised the manuscript and oversaw study conduct. All authors read and approved the final manuscript.
+
+Footnote: Funding: This study received funding from the Dana Foundation (17-13030) and was supported by the Sunnybrook AFP Association through the Innovation Fund of the Alternative Funding Plan from the Academic Health Sciences Centre of Ontario (SHS-18-010) and is also supported through research budget of the department of anesthesia, SHSC. The Sunnybrook Anesthesia Academic Partnership has provided to Dr Stephen Choi salary support (50% dedicated research time). In-kind support from Cogstate is provided for no-cost access to the cognitive testing software (US$5000/year). We are seeking additional funds and applying for grants to fund the balance of the trial.
+
+Footnote: Disclaimer: Funders have no role in the trial design, data collection, management or analysis.
+
+Footnote: Competing interests: None declared.
+
+Footnote: Patient and public involvement: Patients and/or the public were not involved in the design, conduct, reporting or dissemination plans of this research.
+
+Footnote: Provenance and peer review: Not commissioned; externally peer-reviewed.
+
+# References
+
+# Global surgery 2030: evidence and solutions for achieving health, welfare, and economic development
+
+# Postoperative cognitive dysfunction and noncardiac surgery
+
+# Postoperative delirium and postoperative cognitive dysfunction: overlap and divergence
+
+# Preoperative depression is a risk factor for postoperative short-term and long-term cognitive dysfunction in patients with diabetes mellitus
+
+# Dementia after delirium in patients with femoral neck fractures
+
+# Postoperative cognitive dysfunction
+
+# Brief cognitive screening instruments for early detection of Alzheimer’s disease: a systematic review
+
+# Perioperative management in order to minimise postoperative delirium and postoperative cognitive dysfunction: results from a Swedish web-based survey
+
+# State of the clinical science of perioperative brain health: report from the American Society of Anesthesiologists brain health Initiative Summit 2018
+
+# Recommendations for the nomenclature of cognitive change associated with anaesthesia and Surgery—2018
+
+# Long-Term postoperative cognitive dysfunction in the elderly: ISPOCD1 study
+
+# Predictors of cognitive dysfunction after major noncardiac surgery
+
+# Cognitive dysfunction, delirium, and stroke in cardiac surgery patients
+
+# Prevalence of dementia 7.5 years after coronary artery bypass graft surgery
+
+# Type and severity of cognitive decline in older adults after noncardiac surgery
+
+# Long-Term consequences of postoperative cognitive dysfunction
+
+# Postoperative cognitive dysfunction after cardiac surgery
+
+# Postoperative cognitive dysfunction: incidence and prevention
+
+# Neurocognitive complications after coronary artery bypass surgery
+
+# Early and long-term cognitive outcome after conventional cardiac valve surgery
+
+# Preoperative cognitive performance and postoperative delirium are independently associated with future dementia in older people who have undergone cardiac surgery
+
+# Cognitive outcomes in elderly high-risk patients after off-pump versus conventional coronary artery bypass grafting
+
+# Cognitive outcomes in elderly high-risk patients 1 year after off-pump versus on-pump coronary artery bypass grafting. A randomized trial
+
+# Cerebral ischemic injury and cognitive impairment after off-pump and on-pump coronary artery bypass grafting surgery
+
+# Neuropsychological outcome after percutaneous coronary intervention or coronary artery bypass grafting: results from the stent or surgery (SOS) trial
+
+# Cognitive outcomes after on- versus off-pump coronary artery bypass surgery
+
+# Genetic variants in P-selectin and C-reactive protein influence susceptibility to cognitive decline after cardiac surgery
+
+# Effect of dexmedetomidine on early postoperative cognitive dysfunction and peri-operative inflammation in elderly patients undergoing laparoscopic cholecystectomy
+
+# Inflammatory mechanisms in patients with chronic obstructive pulmonary disease
+
+# Evaluation of inflammatory markers in a large sample of obstructive sleep apnea patients without comorbidities
+
+# Increased proinflammatory cytokines in patients with chronic stable angina and their reduction by aspirin
+
+# Cardiovascular disease, the nitric oxide pathway and risk of cognitive impairment and dementia
+
+# Lidocaine dose-response effect on postoperative cognitive deficit: meta-analysis and meta-regression
+
+# Effects of dexamethasone on post-operative cognitive dysfunction and delirium in adults following general anaesthesia: a meta-analysis of randomised controlled trials
+
+# Intraoperative ketamine administration to prevent delirium or postoperative cognitive dysfunction: a systematic review and meta-analysis
+
+# Dexmedetomidine versus propofol sedation reduces delirium after cardiac surgery: a randomized controlled trial
+
+# Efficacy of perioperative dexmedetomidine on postoperative delirium: systematic review and meta-analysis with trial sequential analysis of randomised controlled trials
+
+# Dexmedetomidine improves early postoperative cognitive dysfunction in aged mice
+
+# Dexmedetomidine attenuates isoflurane-induced neurocognitive impairment in neonatal rats
+
+# Sustained increase in α5GABAA receptor function impairs memory after anesthesia
+
+# Dexmedetomidine controls systemic cytokine levels through the cholinergic anti-inflammatory pathway
+
+# The effect of dexmedetomidine on inflammatory response of septic rats
+
+# Preliminary UK experience of dexmedetomidine, a novel agent for postoperative sedation in the intensive care unit
+
+# Detection of cognitive decline after coronary surgery: a comparison of computerized and conventional tests
+
+# Clinical utility of the cogstate brief battery in identifying cognitive impairment in mild cognitive impairment and Alzheimer's disease
+
+# Validity of the CogState brief battery: relationship to standardized tests and sensitivity to cognitive impairment in mild traumatic brain injury, schizophrenia, and AIDS dementia complex
+
+# Protocol for a prospective cohort study of assessing postoperative cognitive changes after total hip and knee arthroplasty in the greater Toronto area
+
+# Perioperative covert stroke in patients undergoing non-cardiac surgery (NeuroVISION): a prospective cohort study
+
+# Cognitive function before and after left heart catheterization
+
+# Pre-Existing cognitive impairment as a factor influencing outcome after cardiac surgery
+
+# Intraoperative infusion of dexmedetomidine for prevention of postoperative delirium and cognitive dysfunction in elderly patients undergoing major elective noncardiac surgery
+
+# Effect of intravenous acetaminophen vs placebo combined with propofol or dexmedetomidine on postoperative delirium among older patients following cardiac surgery
+
+# Guidelines on authorship of medical papers
+
+# New information for authors and readers. group authorship, acknowledgements, and rejected manuscripts

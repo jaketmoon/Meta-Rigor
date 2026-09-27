@@ -1,0 +1,410 @@
+[DOCLING_PAGE 1]
+
+Downloaded from http://ahajournals.org by on September 5, 2026
+
+Stroke
+
+CLINICAL AND POPULATION SCIENCES
+
+Number of Passes of Endovascular Therapy for Stroke With a Large Ischemic Core: Secondary Analysis of RESCUE-Japan LIMIT
+
+Satoshi Namitome , MD; Kazutaka Uchida , MD, PhD; Seigo Shindo , MD, PhD; Shinichi Yoshimura , MD, PhD; Nobuyuki Sakai , MD, PhD; Hiroshi Yamagami , MD, PhD; Kazunori Toyoda , MD, PhD; Yuji Matsumaru , MD, PhD; Yasushi Matsumoto , MD; Kazumi Kimura , MD, PhD; Reiichi Ishikura, MD, PhD; Manabu Inoue , MD, PhD; Mikiya Beppu , MD, PhD; Fumihiro Sakakibara , MD, PhD; Manabu Shirakawa , MD, PhD; Mitsuharu Ueda , MD, PhD; Takeshi Morimoto , MD, PhD, MPH; for the RESCUE-Japan LIMIT Investigators
+
+BACKGROUND: The increased risk of intracranial hemorrhage with multiple passes in endovascular therapy (EVT) for large vessel occlusion with a large ischemic core is a concern. We explored the effect of the number of EVT passes on patients in a randomized clinical trial.
+
+METHODS: This post hoc study was the secondary analysis of RESCUE-Japan LIMIT, which was a randomized clinical trial comparing EVT and medical treatment alone for large vessel occlusion with large ischemic core. We grouped patients according to the number of passes with successful reperfusion (modified Thrombolysis in Cerebral Infarction score, ≥ 2b) in 1, 2, and 3 to 7 passes and failed reperfusion (modified Thrombolysis in Cerebral Infarction score, 0-2a) after any pass in the EVT group, and these groups were compared with medical treatment group. The primary outcome was modified Rankin Scale score of 0 to 3 at 90 days. Secondary outcomes were improvement in National Institutes of Health Stroke Scale score of ≥ 8 at 48 hours, mortality at 90 days, symptomatic intracranial hemorrhage, and any intracranial hemorrhage within 48 hours.
+
+RESULTS: The number of patients who received EVT with successful reperfusion after 1, 2, and 3 to 7 passes and failed reperfusion were 44, 23, 19, and 14, respectively, and 102 received medical treatment alone. The adjusted odds ratios (95% CIs) for the primary outcome relative to medical treatment were 5.52 (2.23-14.28) after 1 pass, 6.45 (2.22-19.30) after 2 passes, 1.03 (0.15-4.48) after 3 to 7 passes, and 1.17 (0.16-5.37) if reperfusion failed. The adjusted odds ratios (95% CIs) for any intracranial hemorrhage within 48 hours relative to medical treatment were 1.88 (0.90-3.93) after 1 pass, 5.14 (1.97-14.72) after 2 passes, 3.00 (1.09-8.58) after 3 to 7 passes, and 6.16 (1.87-24.27) if reperfusion failed.
+
+CONCLUSIONS: The successful reperfusion within 2 passes was associated with better clinical outcomes.
+
+REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT03702413.
+
+GRAPHIC ABSTRACT: A graphic abstract is available for this article.
+
+Key Words: cerebral infarction ◼ endovascular procedures ◼ ischemic stroke ◼ reperfusion
+
+E ndovascular therapy (EVT) has become the standard of care for acute ischemic stroke with large vessel occlusion (L VO). Several studies have shown that achieving successful reperfusion with a single pass leads to better clinical outcomes. 1-5 However, multiple passes were often required to achieve successful reperfusion. It had been reported that multiple passes to achieve successful reperfusion increased the risk of intracranial
+
+Correspondence to: Takeshi Morimoto, MD, PhD, MPH, Department of Clinical Epidemiology, Hyogo Medical University, 1-1 Mukogawa, Nishinomiya, Hyogo 6638501, Japan. Email morimoto@kuhp.kyoto-u.ac.jp
+
+Supplemental Material is available at https://www.ahajournals.org/doi/suppl/10.1161/STROKEAHA.123.042552.
+
+For Sources of Funding and Disclosures, see page 1991-1992.
+
+© 2023 American Heart Association, Inc.
+
+Stroke is available at www.ahajournals.org/journal/str
+
+Stroke. 2023;54:1985-1992. DOI: 10.1161/STROKEAHA.123.042552
+
+August 2023 1985
+
+[DOCLING_PAGE 2]
+
+CLINICAL AND POPULATION SCIENCES
+
+Downloaded from http://ahajournals.org by on September 5, 2026
+
+Namitome et al
+
+Number of EVT Passes for Large Ischemic Core
+
+Nonstandard Abbreviations and Acronyms
+
+[DOCLING_TABLE rows=11 columns=2]
+| AICH CT EVT ICA ICH LIC LVO | any intracranial hemorrhage computed tomography endovascular therapy |
+| NIHSS OR |  National Institutes of Health Stroke Scale odd ratio symptomatic intracranial hemorrhage |
+|  | internal carotid artery |
+|  | intracranial hemorrhage |
+|  | large ischemic core |
+|  | large vessel occlusion |
+| mRS | modified Rankin Scale |
+| mTICI |  modified Thrombolysis in Cerebral Infarction |
+| SICH |  |
+|  |  recombinant tissue-type plasminogen |
+| r-tPA | activator |
+[/DOCLING_TABLE]
+
+hemorrhage (ICH) and worsened clinical outcomes. 6-8 On the contrary, it was also reported that successful reperfusion was more important than the number of passes to obtain better functional outcomes. 9 Thus, it is unknown how many passes should be performed to achieve successful reperfusion to outweigh the benefits of better functional outcomes than the risk of ICH. 10 As far as we know, there have been no reports that examined the effect of the number of passes on outcome only in patients with acute L VO with a large ischemic core (LIC).
+
+Recently, we reported a randomized clinical trial showing the benefit of EVT for patients with L VO with LIC. 11,12 We thus investigated the association between the number of passes in EVT for these patients and clinical outcomes.
+
+METHODS
+
+Study Design and Population
+
+All supporting data are available from the corresponding author on reasonable request. This study was the secondary analysis of the RESCUE-Japan LIMIT (Recovery by Endovascular Salvage for Cerebral Ultra-Acute Embolism-Japan Large Ischemic Core Trial), 11,12 which was planned after the completion of the main trial and not described in the protocol. RESCUE-Japan LIMIT was a prospective, multicenter, non-industry-supported, open-label, randomized clinical trial evaluating the efficacy and safety of EVT compared with standard medical treatment alone in patients with acute L VO with LIC. This study was conducted in accordance with the Ethical Guidelines for Medical and Health Research Involving Human Subjects in Japan and the Declaration of Helsinki. The institutional review boards of Hyogo College of Medicine (approval number 3015) and 45 participating hospitals approved this study, and written informed consent was obtained from patients. We followed the CONSORT (Consolidated Standards of Reporting Trials) statement to report the findings. 13
+
+The key inclusion criteria of RESCUE-Japan LIMIT were patients with acute ischemic stroke due to L VO of the internal carotid artery (ICA) or horizontal segment of the middle cerebral artery (M1) and an Alberta Stroke Program Early Computed Tomography Score of 3 to 5 on CT or diffusion-weighted magnetic resonance imaging. The patients were aged ≥ 18 years, had a National Institutes of Health Stroke Scale (NIHSS) score of ≥ 6 on admission, modified Rankin Scale (mRS) sore of 0 to 1 before onset, and could be randomized within 6 hours from the time the patient was last known to be well, or 6 to 24 hours from the time the patient was last well known to be well, if there were no ischemic changes on fluid-attenuated inversion recovery imaging. Patients who met the inclusion criteria were randomly assigned to receive EVT or standard medical treatment alone in a 1:1 ratio with the use of a stochastic minimization algorithm with the electronic data capture system, which is used for enrollment, randomization, and data collection. A physician or physical therapist evaluated the mRS score at 90 days without knowledge of the treatment assignment.
+
+Patient Stratification
+
+Patients were categorized into 5 groups based on whether EVT or medical treatment was performed, and the total number of passes to achieve successful reperfusion if EVT was received. The number of passes was counted each time when stent retriever or aspiration catheter was used alone or in combination. Balloon angioplasty, intra-arterial thrombolysis, and stenting were treated as rescue therapies and were not counted as the passes. Because those with ≥ 3 passes were rare and a previous retrospective study on the efficacy of EVT for acute L VO with LIC reported that the number of passes >2 was not effective, 14 we grouped those with passes of 3 to 7 into 1 category. Some patients did not achieve successful reperfusion after several passes and were categorized as failed reperfusion.
+
+Measurements and Outcomes
+
+In patients who underwent EVT, the physician in charge evaluated the reperfusion status with modified Thrombolysis in Cerebral Infarction (mTICI). 15 Successful reperfusion was defined as mTICI score ≥ 2b, which meant that ischemic territory of the previously occluded target artery was reperfused by ≥ 50% and failed reperfusion was defined as mTICI score of 0 to 2a.
+
+Consistent with the main report, 12 the primary outcome of this study was the achievement of a mRS score of 0 to 3 at 90 days. Secondary outcomes included improvement in NIHSS score of ≥ 8 at 48 hours, mortality at 90 days, symptomatic ICH (SICH), and any ICH (AICH) within 48 hours.
+
+Statistical Analyses
+
+We described the characteristics of patients according to the 5 groups (successful reperfusion after 1 pass, 2 passes, 3-7 passes, failed reperfusion, and medical treatment). Categorical variables were expressed as frequencies and percentages, and continuous variables were reported as mean±SD or median with interquartile range. Comparisons of variables between groups were performed using ANOVA and Kruskal-Wallis test as appropriate, and categorical variables were analyzed using the χ 2 test.
+
+We compared the frequencies of clinical outcomes between the 5 groups. We constructed logistic regression models to estimate odds ratios (ORs) and 95% CIs for primary and secondary outcomes of successful reperfusion after 1 pass, 2 passes, 3 to 7 passes, and failed reperfusion compared with medical treatment. We constructed crude models and adjusted models with adjustments for age, sex, initial NIHSS on admission, and use of recombinant tissue-type plasminogen activator (r-tPA) because the number of passes were determined by the treating physician.
+
+1986 August 2023
+
+Stroke. 2023;54:1985-1992. DOI: 10.1161/STROKEAHA.123.042552
+
+[DOCLING_PAGE 3]
+
+Downloaded from http://ahajournals.org by on September 5, 2026
+
+Namitome et al
+
+Number of EVT Passes for Large Ischemic Core
+
+CLINICAL AND POPULATION SCIENCES
+
+Although the number of patients who achieved successful reperfusion after ≥ 3 passes was small, we conducted the sensitivity analyses for primary and secondary outcomes with breakdown of group of passes of 3 to 7 to those with 3, 4, and 5 to 7 passes. To assess the impact of complete or nearcomplete reperfusion within 2 passes on clinical outcomes, we compared the primary and secondary outcomes in patients who achieved mTICI score 2c/3 and 2b within 2 passes. We constructed the same crude and adjusted logistic regression models to estimate the ORs (95% CIs) for these analyses.
+
+All reported P values were 2 tailed, and statistical significance was set at P <0.05. Statistical analyses were performed using JMP 10.1 (SAS Institute, Inc, Cary, NC).
+
+RESULTS
+
+Patient Characteristics
+
+Among 203 enrolled patients in RESCUE-Japan LIMIT, 101 and 102 patients were assigned to the EVT and medical treatment groups, respectively (Figure 1). After excluding 1 patient who withdrew consent, 100 patients received EVT, and successful reperfusion was finally achieved in 86 patients (Table 1). Baseline characteristics and procedure techniques were generally similar across patients for each number of passes, but there were significant differences from door-to-reperfusion time and from puncture-to-reperfusion time. Two patients without procedure were included in the group of failed reperfusion because the initial contrast showed partial reperfusion mTICI score ≤ 2a. As the rescue therapies, intra-arterial thrombolysis was performed only in 2 patients with mTICI score ≥ 2b after 3 to 7 passes (Table S1).
+
+Primary Outcome
+
+An mRS score of 0 to 3 at 90 days was achieved in 16 (36.4%) patients who got successful reperfusion after 1 pass (Figure 2). Those who achieved an mRS score of 0 to 3 at 90 days were 11 (47 .8%), 2 (10.5%), and 2 (14.3%) patients who got successful reperfusion after 2, 3 to 7 passes, and failed reperfusion, respectively, compared with 13 (12.7%) who received medical treatment (Table 2). The adjusted ORs (95% CIs) for mRS score of 0 to 3 at 90 days of successful reperfusion after 1 and 2 passes were 5.52 (2.33-14.28) and 6.45 (2.22-19.30), respectively, compared with medical treatment (Table 2). Meanwhile, the likelihood of achieving an mRS score of 0 to 3 at 90 days was similar to that of medical treatment if patients had successful reperfusion after 3 to 7 passes (adjusted OR, 1.03 [95% CI, 0.15-4.48]) or failed reperfusion (adjusted OR, 1.17 [95% CI, 0.16-5.37]).
+
+The incidence of mRS score of 0 to 3 at 90 days was zero in patients who achieved successful reperfusion after 3 passes (Table S2). There were no significant differences in the mRS score of 0 to 3 at 90 days between patients who achieved mTICI score 2c/3 and 2b within 2 passes (Table S3).
+
+Secondary Outcomes
+
+An improvement in NIHSS score ≥ 8 at 48 hours was achieved in 20 (45.5%) patients who achieved successful reperfusion after 1 pass (Table 2). Those who got improvement of NIHSS score ≥ 8 were 6 (26.1%), 4 (21.1%), and 1 (7 .1%) patients who got successful reperfusion after 2, 3 to 7 passes, and who failed reperfusion, respectively, compared with 9 (8.8%) who received medical treatment. The adjusted ORs (95% CIs) for improvement of NIHSS score ≥ 8 of successful reperfusion after 1 and 2 passes were 9.28 (3.74-24.85) and 3.68 (1.08-11.95) compared with medical treatment.
+
+Mortality at 90 days occurred in 9 (20.5%), 3 (13.0%), 3 (15.8%), and 3 (21.4%) patients who achieved successful ASPECTS indicates Alberta Stroke Program Early Computed Tomography Score; ICA, internal carotid artery; IQR, interquartile range; IV r-tPA, intravenous recombinant tissue-type plasminogen activator; MCA, middle cerebral artery; MRI, magnetic resonance imaging; mTICI, modified Thrombolysis in Cerebral Infarction; NA, not applicable; and NIHSS, National Institutes of Health Stroke Scale.
+
+Figure 1. Study flowchart. mTICI indicates modified Thrombolysis in Cerebral Infarction.
+
+Stroke. 2023;54:1985-1992. DOI: 10.1161/STROKEAHA.123.042552
+
+August 2023 1987
+
+[DOCLING_PAGE 4]
+
+CLINICAL AND POPULATION SCIENCES
+
+Downloaded from http://ahajournals.org by on September 5, 2026
+
+Namitome et al
+
+Number of EVT Passes for Large Ischemic Core
+
+[DOCLING_TABLE rows=40 columns=7]
+| Variables | mTICI score ≥ 2b after 1 pass | mTICI score ≥ 2b after 2 passes | mTICI score ≥ 2b after 3-7 passes | Failed reperfusion | Medical treatment | P value |
+| No. of patients, n (%) | 44 (21.8) | 23 (11.4) | 19 (9.4) | 14 (6.9) | 102 (50.5) | … |
+| No. of passes, n (%) |  |  |  |  |  |  |
+|  0 | 0 | 0 | 0 | 2 (14.3) | 102 (100) | … |
+|  1 | 44 (100) | 0 | 0 | 2 (14.3) | 0 | … |
+|  2 | 0 | 23 (100) | 0 | 5 (35.7) | 0 | … |
+|  3 | 0 | 0 | 7 (36.8) | 3 (21.4) | 0 | … |
+|  4 | 0 | 0 | 7 (36.8) | 1 (7.1) | 0 | … |
+|  5 | 0 | 0 | 2 (10.5) | 0 | 0 | … |
+|  6 | 0 | 0 | 2 (10.5) | 1 (7.1) | 0 | … |
+|  7 | 0 | 0 | 1 (5.3) | 0 | 0 | … |
+| Age, y; mean (SD) | 76.6 (9.8) | 74.3 (12.4) | 77.9 (8.4) | 79.3 (7.8) | 75.7 (10.2) | 0.73 |
+| Men, n (%) | 24 (54.6) | 16 (69.6) | 7 (36.8) | 7 (50.0) | 58 (56.9) | 0.30 |
+| Medical history |  |  |  |  |  |  |
+|  Hypertension, n (%) | 28 (63.6) | 18 (78.3) | 15 (79.0) | 10 (71.4) | 70 (68.6) | 0.66 |
+|  Diabetes, n (%) | 12 (27.3) | 4 (17.4) | 4 (21.1) | 3 (21.4) | 20 (19.6) | 0.86 |
+|  Hyperlipidemia, n (%) | 13 (29.6) | 4 (17.4) | 5 (26.3) | 3 (21.4) | 24 (23.5) | 0.85 |
+|  Atrial fibrillation, n (%) | 26 (59.1) | 11 (47.8) | 13 (68.4) | 9 (64.3) | 60 (58.8) | 0.73 |
+| Current smoker, n (%) | 8 (18.2) | 3 (13.0) | 4 (21.1) | 3 (21.4) | 21 (20.6) | 0.94 |
+| Initial NIHSS, median (IQR) | 24 (19-27) | 20 (15-24) | 22 (18-29) | 18 (16-23) | 21 (17-25) | 0.04 |
+| Initial ASEPCTS, median (IQR) | 3 (3-4) | 3 (3-4) | 3 (3-4) | 3 (3-4) | 4 (3-4) | 0.83 |
+| ASPECTS on MRI, n (%) | 39 (88.6) | 20 (87.0) | 15 (79.0) | 13 (92.9) | 87 (85.3) | 0.80 |
+| Stroke classification |  |  |  |  |  |  |
+|  Cardioembolic, n (%) | 36 (81.8) | 16 (69.6) | 17 (89.5) | 14 (100) | 76 (74.5) | 0.37 |
+|  Atherothrombotic, n (%) | 3 (6.8) | 1 (4.4) | 0 | 0 | 8 (7.8) |  |
+|  Cryptogenic, n (%) | 4 (9.1) | 6 (26.1) | 2 (10.5) | 0 | 13 (12.8) |  |
+|  Others, n (%) | 1 (2.3) | 0 | 0 | 0 | 5 (4.9) |  |
+| Occlusion site |  |  |  |  |  |  |
+|  ICA, n (%) | 25 (56.8) | 9 (39.1) | 6 (31.6) | 6 (42.9) | 49 (48.0) | 0.38 |
+|  MCA M1 segment, n (%) | 29 (65.9) | 17 (73.9) | 14 (73.7) | 13 (92.9) | 70 (68.6) | 0.38 |
+|  MCA M2 segment, n (%) | 0 | 0 | 0 | 0 | 3 (2.9) | 0.56 |
+|  Tandem lesion of ICA and M1 segment, n (%) | 10 (22.7) | 3 (13.0) | 1 (5.3) | 5 (35.7) | 20 (19.6) | 0.22 |
+| IV r-tPA, n (%) | 12 (27.3) | 4 (17.4) | 5 (26.3) | 5 (35.7) | 29 (28.4) | 0.79 |
+| Contact aspiration alone, n (%) | 9 (20.5) | 1 (4.4) | 1 (5.3) | 0 | NA | 0.06 |
+| Stent retriever alone, n (%) | 3 (6.8) | 3 (13.0) | 2 (10.5) | 1 (7.1) | NA | 0.84 |
+| Combined technique, n (%) | 32 (72.7) | 19 (82.6) | 16 (84.2) | 11 (78.6) | NA | 0.70 |
+| No procedures, n (%) | 0 | 0 | 0 | 2 (14.3) | NA | 0.006 |
+| Onset to reperfusion time, min; median (IQR) | 295 (198-498) | 305 (205-375) | 355 (249-717) | NA | NA | 0.26 |
+| Door to reperfusion time, min; median (IQR) | 107 (75-136) | 110 (70-148) | 161 (142-204) | NA | NA | 0.0001 |
+| Puncture to reperfusion time, min; median (IQR) | 25 (20-37) | 37 (20-55) | 88 (55-118) | NA | NA | <0.0001 |
+[/DOCLING_TABLE]
+
+reperfusion after 1, 2, 3 to 7 passes, and who failed reperfusion, respectively, compared with 24 (23.5%) who received medical treatment. SICH within 48 hours occurred in 4 (9.1%), 0 (0%), 2 (10.5%), and 3 (21.4%) patients who achieved successful reperfusion after 1, 2, 3 to 7 passes, and failed reperfusion, respectively, compared with 5 (4.9%) who received medical treatment. Mortality and SICH were not significantly different between the groups.
+
+1988 August 2023
+
+Stroke. 2023;54:1985-1992. DOI: 10.1161/STROKEAHA.123.042552
+
+[DOCLING_PAGE 5]
+
+Downloaded from http://ahajournals.org by on September 5, 2026
+
+Namitome et al
+
+Number of EVT Passes for Large Ischemic Core
+
+CLINICAL AND POPULATION SCIENCES
+
+Figure 2. Distributions of modified Rankin Scale (mRS) at 90 d by the total number of passes with successful reperfusion, failed reperfusion, and medical treatment.
+
+mTICI indicates modified Thrombolysis in Cerebral Infarction.
+
+AICH within 48 hours occurred in 21 (47 .7%), 16 (69.6%), 11 (57.9%), and 10 (71.4%) patients who got successful reperfusion after 1, 2, 3 to 7 passes, and failed reperfusion, respectively, compared with 32 (31.4%) who received medical treatment. The adjusted ORs (95% CIs) for AICH within 48 hours of successful reperfusion after 1, 2, 3 to 7 passes, and failed reperfusion were 1.88 (0.90-3.93), 5.14 (1.97-14.72), 3.00 (1.09-8.58), and 6.16 (1.87-24.27), respectively.
+
+The effectiveness of successful reperfusion after 3 or 4 passes for the secondary outcomes was not observed (Table S2). The incidences of secondary outcomes were similar between patients who achieved mTICI score 2c/3 and 2b within 2 passes (Table S3).
+
+DISCUSSION
+
+We investigated the relationship between the number of EVT passes and clinical outcomes in patients with acute LVO with LIC. If such patients received EVT and achieved successful reperfusion within 2 passes, the mRS score at 90 days was significantly better than those with medical treatment alone without exacerbating the negative effects of AICH. The superiority of successful reperfusion within 2 passes was also observed in terms of 8-scale improvement of NIHSS at 48 hours compared with medical treatment. AICH that occurred within 48 hours was significantly higher in patients who achieved successful reperfusion after ≥ 2 passes than in those who received medical treatment.
+
+There have been several reports on the number of passes and clinical outcomes in patients with L VO, not limited to those with LIC. Successful reperfusion within 3 passes was reported to be associated with favorable effects on functional outcome. 16,17 Meanwhile, other reports suggested that functional outcome was better to achieve successful reperfusion regardless of the number of passes. 9 On the contrary, ICH was of great concern when multiple passes were conducted in such patients. Some reports revealed that ICH was increased if ≥ 4 passes were conducted in LVO to achieve reperfusion. 6,7 Considering the risk of ICH, it is desirable to achieve successful reperfusion within 3 passes, since the number of patients with a good outcome decreases with each pass in general patients with L VO 10 whose ischemic core is relatively small.
+
+Several reasons have been reported for the increased number of passes in EVT. Koge et al 18 reported that ICA tortuosity reduced likelihood of the first pass effect, which was defined as complete reperfusion with the first pass without rescue therapy, 1 and increased the time required for reperfusion. It also showed that the combined stent retriever and aspiration catheter technique was more beneficial than either alone in those without tortuous vessels but not in those with tortuous vessels. Thus, it is possible that the patients who required multiple passes for successful reperfusion had tortuous ICA despite the high rate of use of combined technique in the first procedure in this study. It was also reported that fibrin-rich hard clots increased the number of passes to AICH indicates any intracranial hemorrhage; mRS, modified Rankin Scale; mTICI, modified Thrombolysis in Cerebral Infarction; NA, not applicable; NIHSS, National Institutes of Health Stroke Scale; OR, odds ratio; and SICH, symptomatic intracranial hemorrhage.
+
+Stroke. 2023;54:1985-1992. DOI: 10.1161/STROKEAHA.123.042552
+
+August 2023
+
+1989
+
+[DOCLING_PAGE 6]
+
+CLINICAL AND POPULATION SCIENCES
+
+Downloaded from http://ahajournals.org by on September 5, 2026
+
+Namitome et al
+
+Number of EVT Passes for Large Ischemic Core
+
+[DOCLING_TABLE rows=31 columns=6]
+| Variables | Incidence, n (%) | Crude ORs (95% CIs) | P value | Adjusted ORs (95% CIs) | P value |
+| mRS score of 0-3 at 90 d |  |  |  |  |  |
+|  Medical treatment (n=102) | 13 (12.7) | … | … | … | … |
+|  mTICI score ≥ 2b after 1 pass (n=44) | 16 (36.4) | 3.91 (1.69-9.27) | 0.002 | 5.52 (2.23-14.28) | 0.0002 |
+|  mTICI score ≥ 2b after 2 passes (n=23) | 11 (47.8) | 6.45 (2.30-17.45) | 0.0004 | 6.45 (2.22-19.30) | 0.0007 |
+|  mTICI score ≥ 2b after 3-7 passes (n=19) | 2 (10.5) | 0.81 (0.12-3.28) | 0.78 | 1.03 (0.15-4.48) | 0.97 |
+|  Failed reperfusion (n=14) | 2 (14.3) | 1.14 (0.17-4.84) | 0.87 | 1.17 (0.16-5.37) | 0.86 |
+| Improvement of NIHSS score of ≥ 8 at 48 h |  |  |  |  |  |
+|  Medical treatment (n=102) | 9 (8.8) | … | … | … | … |
+|  mTICI score ≥ 2b after 1 pass (n=44) | 20 (45.5) | 8.61 (3.58-22.22) | <0.0001 | 9.28 (3.74-24.85) | <0.0001 |
+|  mTICI score ≥ 2b after 2 passes (n=23) | 6 (26.1) | 3.65 (1.10-11.52) | 0.03 | 3.68 (1.08-11.95) | 0.04 |
+|  mTICI score ≥ 2b after 3-7 passes (n=19) | 4 (21.1) | 2.76 (0.68-9.69) | 0.15 | 3.28 (0.78-12.09) | 0.10 |
+|  Failed reperfusion (n=14) | 1 (7.1) | 0.79 (0.04-4.77) | 0.83 | 0.90 (0.05-5.63) | 0.92 |
+| Mortality at 90 d |  |  |  |  |  |
+|  Medical treatment (n=102) | 24 (23.5) | … | … | … | … |
+|  mTICI score ≥ 2b after 1 pass (n=44) | 9 (20.5) | 0.84 (0.34-1.93) | 0.68 | 0.67 (0.26-1.60) | 0.38 |
+|  mTICI score ≥ 2b after 2 passes (n=23) | 3 (13.0) | 0.49 (0.11-1.58) | 0.49 | 0.55 (0.12-1.89) | 0.55 |
+|  mTICI score ≥ 2b after 3-7 passes (n=19) | 3 (15.8) | 0.61 (0.13-2.03) | 0.44 | 0.46 (0.10-1.63) | 0.24 |
+|  Failed reperfusion (n=14) | 3 (21.4) | 0.89 (0.19-3.12) | 0.86 | 0.97 (0.19-3.76) | 0.97 |
+| SICH within 48 h |  |  |  |  |  |
+|  Medical treatment (n=102) | 5 (4.9) | … | … | … | … |
+|  mTICI score ≥ 2b after 1 pass (n=44) | 4 (9.1) | 1.94 (0.46-7.70) | 0.35 | 2.09 (0.48-8.67) | 0.31 |
+|  mTICI score ≥ 2b after 2 passes (n=23) | 0 | NA | NA | NA | NA |
+|  mTICI score ≥ 2b after 3-7 passes (n=19) | 2 (10.5) | 2.28 (0.31-11.58) | 0.37 | 2.02 (0.27-10.60) | 0.45 |
+|  Failed reperfusion (n=14) | 3 (21.4) | 5.29 (0.98-24.79) | 0.052 | 5.45 (0.98-27.01) | 0.053 |
+| AICH within 48 h |  |  |  |  |  |
+|  Medical treatment (n=102) | 32 (31.4) | … | … | … | … |
+|  mTICI score ≥ 2b after 1 pass (n=44) | 21 (47.7) | 2.00 (0.97-4.14) | 0.06 | 1.88 (0.90-3.93) | 0.09 |
+|  mTICI score ≥ 2b after 2 passes (n=23) | 16 (69.6) | 5.00 (1.94-14.13) | 0.0008 | 5.14 (1.97-14.72) | 0.0007 |
+|  mTICI score ≥ 2b after 3-7 passes (n=19) | 11 (57.9) | 3.01 (1.11-8.47) | 0.03 | 3.00 (1.09-8.58) | 0.03 |
+|  Failed reperfusion (n=14) | 10 (71.4) | 5.47 (1.69-21.16) | 0.004 | 6.16 (1.87-24.27) | 0.003 |
+[/DOCLING_TABLE]
+
+achieve effective reperfusion. 19 Another possible cause of multiple passes could be the distal embolization. In this study, intra-arterial thrombolysis was only performed in patients who required 3 to 7 passes to achieve successful reperfusion, which could be due to distal embolization.
+
+To identify patients with risk of increased number of passes of EVT, evaluations of ICA tortuosity and hard clots could be considered. The grading systems were proposed to evaluate the vascular tortuosity for extracranial 20 and intracranial ICA. 21 The grade of ICA tortuosity was associated with the reduction of first pass effect and increase in ICH after EVT. By assessing the ICA tortuosity during angiography before EVT with these grading systems, it could reduce the number of passes for successful reperfusion by selecting bendable stent retrievers with segmented design 22 or aspiration catheter with steam shaped tip. 23 Another factor was clot characteristics, which could increase in passes for successful reperfusion. Hyperdense vessel sign on CT or susceptibility vessel sign on magnetic resonance imaging could evaluate the clots in which red blood cell dominated. 24 If these signs were absent, the clots were considered fibrin rich and hard. To retrieve such hard clot, special measures such as the Nimbus stent retriever (Cerenovus, Johnson & Johnson, New Brunswick, NJ) could be used to remove the fibrin-rich clots. 25
+
+In patients with LIC, there was no difference in mRS score 0 to 3 at 90 days between patients who achieved mTICI score 2c/3 and 2b in this study. It suggested that patients with LIC had a smaller residual functional parenchyma than those without, and therefore, even if an mTICI score of 2c/3 was not achieved, it could be sufficient to achieve an mTICI score of 2b, including artery that supplied the residual function territory. Therefore, the total number of passes could be reduced when additional passes to achieve an mTICI score of 2c/3 would not be necessary for patients with LIC rather than patients without LIC.
+
+1990 August 2023
+
+Stroke. 2023;54:1985-1992. DOI: 10.1161/STROKEAHA.123.042552
+
+[DOCLING_PAGE 7]
+
+Downloaded from http://ahajournals.org by on September 5, 2026
+
+Namitome et al
+
+Number of EVT Passes for Large Ischemic Core
+
+CLINICAL AND POPULATION SCIENCES
+
+In patients with acute L VO with LIC, the effect of the time required for successful reperfusion on clinical outcomes was likely to be greater than that in patients without LIC. Many LVO patients with LIC despite early onset are considered to have poor collateral blood circulation and early progression of cerebral infarction. Therefore, the impact of time required per pass was likely to be greater. Actually, the smaller the total number of passes to achieve successful reperfusion, the shorter the time from door to reperfusion and from puncture to reperfusion, which was significantly different in this study. As a result, successful reperfusion after 3 passes may not have contributed to improved clinical outcomes.
+
+Furthermore, several mechanisms should also be considered as a negative impact of multiple passes. 5 Repeated traumatic shearing forces and accumulated vascular damage by multiple passes could increase ICH. 26,27 As already mentioned, it was reported that AICH and SICH increased with >3 passes in patients not limited to extensive infarcts. 6,7 However, in this study, although AICH was significantly increased in patients who achieved an mTICI score ≥ 2b with ≥ 2 passes compared with patients who received medical treatment, there was no significant difference in SICH between the number of passes. One reason why SICH did not increase was that patients with acute L VO with LIC have a smaller residual functional parenchyma than those without LIC as noted above. If hemorrhagic changes do not occur around the residual functional parenchyma, they are likely asymptomatic. This could be the reason why the frequency of SICH was similar to that of multiple passes, in addition to the low frequency of SICH. This does not mean that it is nothing to be concerned about unless there is SICH. AICH including asymptomatic ICH and SICH has been reported to worsen clinical outcomes. 28,29 Therefore, the increase in AICH after 2 passes should be considered important.
+
+Study Limitation
+
+This study had several limitations inherent to the original study design. First, 174 (86.1%) patients were identified using diffusion-weighted imaging Alberta Stroke Program Early Computed Tomography Score to assess LIC, and diffusion-weighted imaging Alberta Stroke Program Early Computed Tomography Score was more accurate for identifying acute infarction than nonenhanced CT. 30 Second, r-tPA was administered to 55 (27.2%) patients. The use of r-tPA should contribute to reperfusion efficacy and the risk of ICH. The effect of the number of passes in a setting with the standard use of r-tPA should also be considered. Third, this study included patients who were within 6 hours of onset or those who were presumed to have early onset based on magnetic resonance imaging. Because patients with LIC >6 hours after onset are considered to have more cases of slow progression of cerebral infarction than those with ≤ 6 hours of onset, clinical outcomes may be significantly improved even in patients in whom successful reperfusion is achieved with >3 passes. Finally, the sample size was too small to evaluate the efficacy and safety of the number of passes. Further large-scale studies or pooled analyses should be performed to explore more reliable effect of number of passes on clinical outcomes in L VO patients with LIC.
+
+CONCLUSIONS
+
+The secondary analysis of the randomized clinical trial indicated that the number of passes to achieve successful reperfusion should be ≤ 2 in patients with acute L VO with LIC in terms of an mRS score of 0 to 3 at 90 days and AICH within 48 hours.
+
+ARTICLE INFORMATION
+
+Received January 10, 2023; final revision received May 15, 2023; accepted June 5, 2023.
+
+Affiliations
+
+Department of Neurology, Japanese Red Cross Kumamoto Hospital, Japan (S.N.). Department of Neurology, Kumamoto University, Japan (S.N.). Department of Neurosurgery (K.U., S.Y., M.B., F.S., M.S.) and Department of Clinical Epidemiology (K.U., F.S., T.M.), Hyogo Medical University, Nishinomiya, Japan. Department of Neurosurgery (N.S.) and Department of Diagnostic Radiology (R.I.), Kobe City Medical Center General Hospital, Japan. Department of Stroke Neurology, National Hospital Organization Osaka National Hospital, Japan (H.Y.). Department of Cerebrovascular Medicine, National Cerebral and Cardiovascular Center, Suita, Japan (K.T., M.I.). Division of Stroke Prevention and Treatment, Department of Neurosurgery, Faculty of Medicine, University of Tsukuba, Japan (Y. Matsumaru). Division of Development and Discovery of Interventional Therapy, Tohoku University Hospital, Sendai, Japan (Y. Matsumoto). Department of Neurology, Graduate School of Medicine, Nippon Medical School, Tokyo, Japan (K.K.). Department of Neurology, Kumamoto University, Japan (S.S., M.U.).
+
+Acknowledgments
+
+We thank all investigators in conducting RESCUE-Japan LIMIT.
+
+Sources of Funding
+
+This study was supported, in part, by the Mihara Cerebrovascular Disorder Research Promotion Fund and the Japanese Society for Neuroendovascular Therapy. The funding sources did not participate in any part of the study from conception to article preparation.
+
+Disclosures
+
+Dr Uchida reports lecturer fees from Daiichi Sankyo, Bristol Myers Squibb, Stryker, and Medtronic. Dr Shindo reports lecturer fees from Medtronic, Kaneka, Stryker, Daiichi Sankyo, Asahi Intec, Ezai, Bayer, Abbot Medical, Medico's Hirata, and Johnson and Johnson. Dr Yoshimura reports research grants from Asahi Intec, Asahi Kasei Medical, Bayer, Biomedical Solution, Bristol Myers Squibb, Chugai Pharmaceutical, CSL Behring, Daiichi Sankyo, Eisai, Healios, Kowa, Medico's Hirata, Medtronic, Miyano Medical Instrument, Otsuka, Sanofi, Siemens, Stryker, Takeda, Teijin, Terumo, and Unimedic and lecturer fees from Bayer, Boehringer Ingelheim, Bristol Myers Squibb, Daiichi Sankyo, Johnson & Johnson, Kaneka, Medtronic, Stryker, and Termo. Dr Sakai reports a research grant from Biomedical Solutions, Medtronic, and Terumo; lecturer fees from Asahi Intec, Biomedical Solutions, Medtronic, and Terumo; and membership on the advisory boards for Johnson & Johnson, Medtronic, and Terumo outside the submitted work. Dr Yamagami discloses research grants from Bristol Myers Squibb; lecturer fees from Stryker, Medtronic, Terumo, Johnson & Johnson, Biomedical Solutions, and Medico's Hirata; and membership of the advisory boards for Daiichi Sankyo. Dr Toyoda reports lecture fees from Otsuka, Novartis, Bayer, Daiichi Sankyo, Bristol Myers Squibb, and Abbott Medical. Dr Matsumaru reports lecturer fees from Medtronic, Stryker, Terumo, Johnson & Johnson, Kaneka, and Jimro. Dr Matsumoto reports lecturer fees from Kaneka, Medico's Hirata, Fuji Systems, GE Healthcare, Otsuka, Takeda, Century Medical, Terumo, Medtronic, and Stryker. Dr Kimura reports research grants from CSL Behring, EP-CRSU, Amgen Astellas BioPharma, Alexion, Eisai, Kyowa Kirin, Daiichi Sankyo, Teijin, Medtronic, Bristol Myers Squibb, Bayer, Boehringer Ingelheim, and Helios; and lecturer's fees from Daiichi Sankyo, Boehringer Ingelheim, Bristol Myers Squibb, Bayer, Takeda, Medtronic, Otsuka, FP pharmaceutical corporation, Alexion, Nippon, Chugai, Kyowa Kirin, Abbott, Shire PLC, Sanofi, CSL Behring, Novartis, Toa Eiyo, Medico's Hirata, and Helios. Dr Beppu reports manuscript fees from Medicus Shuppan. Dr Inoue reports lecturer fees from Bayer, Bristol Myers Squibb, and Medico's Hirata and manuscript fees from Gakken and Hokuryukan. Dr Sakakibara reports manuscript fees from Medicus Shuppan. Dr Shirakawa reports lecturer's fees from Stryker, Terumo, Johnson & Johnson, and Medtronic. Dr Ueda reports grants, personal fees, and nonfinancial support from Pfizer and Alnylam Pharmaceuticals outside the submitted work. Dr Morimoto reports lecturers' fees from AstraZeneca, Bristol Myers Squibb, Daiichi Sankyo, Japan Lifeline, Kowa, Toray, and Tsumura; manuscript fees from Bristol Myers Squibb and Kowa; and advisory board for Novartis and Teijin. The other authors report no conflicts.
+
+Stroke. 2023;54:1985-1992. DOI: 10.1161/STROKEAHA.123.042552
+
+August 2023 1991
+
+[DOCLING_PAGE 8]
+
+CLINICAL AND POPULATION SCIENCES
+
+Downloaded from http://ahajournals.org by on September 5, 2026
+
+Namitome et al
+
+Number of EVT Passes for Large Ischemic Core
+
+Supplemental Material
+
+Tables S1-S3 CONSORT Checklist
+
+REFERENCES
+
+Zaidat OO, Castonguay AC, Linfante I, Gupta R, Martin CO, Holloway WE, Mueller-Kronast NM, English JD, Dabus G, Malisch TW, et al. First pass effect: a new measure for stroke thrombectomy devices. Stroke . 2018;49:660666. doi: 10.1161/STROKEAHA.117.020315
+
+Nikoubashman O, Dekeyzer S, Riabikin A, Keulers A, Reich A, Mpotsaris A, Wiesmann M. True first-pass effect. Stroke . 2019;50:21402146. doi: 10.1161/STROKEAHA.119.025148
+
+Kang DH, Kim BM, Heo JH, Nam HS, Kim YD, Hwang YH, Kim YW, Kim DJ, Kim JW, Baek JH, et al. Effects of first pass recanalization on outcomes of contact aspiration thrombectomy. J Neurointerv Surg . 2020;12:466-470. doi: 10.1136/neurintsurg-2019-015221
+
+Ducroux C, Piotin M, Gory B, Labreuche J, Blanc R, Maacha MB, Lapergue B, Fahed R. First pass effect with contact aspiration and stent retrievers in the Aspiration Versus Stent Retriever (ASTER) trial. J Neurointerv Surg . 2020;12:386-391. doi: 10.1136/neurintsurg-2019-015215
+
+Bai X, Zhang X, Yang W, Zhang Y, Wang T, Xu R, Wang Y, Li L, Feng Y, Yang K, et al. Influence of first-pass effect on recanalization outcomes in the era of mechanical thrombectomy: a systemic review and meta-analysis. Neuroradiology . 2021;63:795-807. doi: 10.1007/s00234-020-02586-7
+
+Bourcier R, Saleme S, Labreuche J, Mazighi M, Fahed R, Blanc R, Gory B, Kyheng M, Marnat G, Bracard S, et al; ASTER Trial Investigators. More than three passes of stent retriever is an independent predictor of parenchymal hematoma in acute ischemic stroke. J Neurointerv Surg . 2019;11:625-629. doi: 10.1136/neurintsurg-2018-014380
+
+Maros ME, Brekenfeld C, Broocks G, Leischner H, McDonough R, Deb-Chatterji M, Alegiani A, Thomalla G, Fiehler J, Flottmann F; GSR Investigators*. Number of retrieval attempts rather than procedure time is associated with risk of symptomatic intracranial hemorrhage. Stroke . 2021;52:15801588. doi: 10.1161/STROKEAHA.120.031242
+
+Ringheanu VM, Tekle WG, Preston L, Sarraj A, Hassan AE. Higher number of stent-retriever thrombectomy passes significantly increases risk of mass effect, poor functional outcome, and mortality [published online May 30, 2022]. Interv Neuroradiol . doi: 10.1177/15910199221104624
+
+Tonetti DA, Desai SM, Casillo S, Stone J, Brown M, Jankowitz B, Jovin TG, Gross BA, Jadhav A. Successful reperfusion, rather than number of passes, predicts clinical outcome after mechanical thrombectomy. J Neurointerv Surg . 2020;12:548-551. doi: 10.1136/neurintsurg-2019-015330
+
+García-Tornel A, Requena M, Rubiera M, Muchada M, Pagola J, Rodriguez-Luna D, Deck M, Juega J, Rodríguez-Villatoro N, Boned S, et al. When to stop. Stroke . 2019;50:1781-1788. doi: 10.1161/STROKEAHA.119.025088
+
+Yoshimura S, Uchida K, Sakai N, Yamagami H, Inoue M, Toyoda K, Matsumaru Y, Matsumoto Y, Kimura K, Ishikura R, et al. Randomized clinical trial of endovascular therapy for acute large vessel occlusion with large ischemic core (RESCUE-Japan LIMIT): rationale and study protocol. Neurol Med Chir (Tokyo) . 2022;62:156-164. doi: 10.2176/nmc.rc.2021-0311
+
+Yoshimura S, Sakai N, Yamagami H, Uchida K, Beppu M, Toyoda K, Matsumaru Y, Matsumoto Y, Kimura K, Takeuchi M, et al. Endovascular therapy
+
+for acute stroke with a large ischemic region. N Engl J Med . 2022;386:13031313. doi: 10.1056/NEJMoa2118191
+
+Schulz KF, Altman DG, Moher D; CONSORT Group. CONSORT 2010 statement: updated guidelines for reporting parallel group randomized trials. BMJ . 2010;340:c332. doi: 10.1136/bmj.c332
+
+Meyer L, Bechstein M, Bester M, Hanning U, Brekenfeld C, Flottmann F, Kniep H, van Horn N, Deb-Chatterji M, Thomalla G, et al; German Stroke Registry-Endovascular Treatment (GSR-ET). Thrombectomy in extensive stroke may not be beneficial and is associated with increased risk for hemorrhage. Stroke . 2021;52:3109-3117. doi: 10.1161/STROKEAHA.120.033101
+
+Almekhlafi MA, Mishra S, Desai JA, Nambiar V, Volny O, Goel A, Eesa M, Demchuk AM, Menon BK, Goyal M. Not all 'successful' angiographic reperfusion patients are an equal validation of a modified TICI scoring system. Interv Neuroradiol . 2014;20:21-27. doi: 10.15274/INR-2014-10004
+
+Flottmann F, Brekenfeld C, Broocks G, Leischner H, McDonough R, Faizy TD, Deb-Chatterji M, Alegiani A, Thomalla G, Mpotsaris A, et al; GSR Investigators*. Good clinical outcome decreases with number of retrieval attempts in stroke thrombectomy: beyond the first-pass effect. Stroke . 2021;52:482490. doi: 10.1161/STROKEAHA.120.029830
+
+17 . Flottmann F, Leischner H, Broocks G, Nawabi J, Bernhardt M, Faizy TD, Deb-Chatterji M, Thomalla G, Fiehler J, Brekenfeld C. Recanalization rate per retrieval attempt in mechanical thrombectomy for acute ischemic stroke. Stroke . 2018;49:2523-2525. doi: 10.1161/STROKEAHA.118.022737
+
+Koge J, Tanaka K, Yoshimoto T, Shiozawa M, Kushi Y, Ohta T, Satow T, Kataoka H, Ihara M, Koga M, et al. Internal carotid artery tortuosity: impact on mechanical thrombectomy. Stroke . 2022;53:2458-2467. doi: 10.1161/STROKEAHA.121.037904
+
+Yuki I, Kan I, Vinters HV, Kim RH, Golshan A, Vinuela FA, Sayre JW, Murayama Y, Vinuela F. The impact of thromboemboli histology on the performance of a mechanical thrombectomy device. AJNR Am J Neuroradiol . 2012;33:643-648. doi: 10.3174/ajnr.A2842
+
+Nagata T, Masumoto K, Hayashi Y, Watanabe Y, Kato Y, Katou F. Three-dimensional computed tomographic analysis of variations of the carotid artery. J Craniomaxillofac Surg . 2016;44:734-742. doi: 10.1016/j.jcms.2016.02.011
+
+Lin LM, Colby GP, Jiang B, Uwandu C, Huang J, Tamargo R, Coon AL, et al. Classification of cavernous internal carotid artery tortuosity: a predictor of procedural complexity in pipeline embolization. J Neurointerv Surg . 2015;7:628-633. doi: 10.1136/neurintsurg-2014-011298
+
+Kaneko N, Komuro Y, Yokota H, Tateshima S. Stent retrievers with segmented design improve the efficacy of thrombectomy in tortuous vessels. J Neurointerv Surg . 2019;11:119-122. doi: 10.1136/neurintsurg-2018-014061
+
+Kang DH, Park J. Endovascular stroke therapy focused on stent retriever thrombectomy and direct clot aspiration: historical review and modern application. J Korean Neurosurg Soc . 2017;60:335-347. doi: 10.3340/jkns.2016.0809.005
+
+Liebeskind DS, Sanossian N, Yong WH, Starkman S, Tsang MP, Moya AL, Zheng DD, Abolian AM, Kim D, Ali LK, et al. CT and MRI early vessel signs reflect clot composition in acute stroke. Stroke . 2011;42:1237-1243. doi: 10.1161/STROKEAHA.110.605576
+
+Lehnen NC, Paech D, Zülow S, Bode FJ, Petzold GC, Radbruch A, Dorn F. First experience with the nimbus stentretriever: a novel device to handle fibrin-rich clots. Clin Neuroradiol . 2023;33:491-497. doi: 10.1007/s00062-022-01237-z
+
+Anadani M, Alawieh A, Vargas J, Chatterjee AR, Turk A, Spiotta A. First attempt recanalization with ADAPT: rate, predictors, and outcome. J Neurointerv Surg . 2019;11:641-645. doi: 10.1136/neurintsurg-2018-014294
+
+27 . Peschillo S, Diana F, Berge J, Missori P. A comparison of acute vascular damage caused by ADAPT versus a stent retriever device after thrombectomy in acute ischemic stroke: a histological and ultrastructural study in an animal model. J Neurointerv Surg . 2017;9:743-749. doi: 10.1136/neurintsurg-2016-012533
+
+Jiang F, Zhao W, Wu C, Zhang Z, Li C, Che R, Chen J, Hu W, Song H, Duan J, et al. Asymptomatic intracerebral hemorrhage may worsen clinical outcomes in acute ischemic stroke patients undergoing thrombectomy. J Stroke Cerebrovasc Dis . 2019;28:1752-1758. doi: 10.1016/j.jstrokecerebrovasdis.2019.02.006
+
+Kinjo N, Yoshimura S, Uchida K, Sakai N, Yamagami H, Morimoto T; RESCUE-Japan Registry 2 Investigators. Incidence and prognostic impact of intracranial hemorrhage after endovascular treatment for acute large vessel occlusion. Cerebrovasc Dis . 2020;49:540-549. doi: 10.1159/000510970
+
+Lansberg MG, Albers GW, Beaulieu C, Marks MP. Comparison of diffusionweighted MRI and CT in acute stroke. Neurology . 2000;54:1557-1561. doi: 10.1212/wnl.54.8.1557
+
+1992 August 2023
+
+Stroke. 2023;54:1985-1992. DOI: 10.1161/STROKEAHA.123.042552

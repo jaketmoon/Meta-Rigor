@@ -1,0 +1,442 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05141305",
+      "orgStudyIdInfo": {
+        "id": "MK02-2020-02"
+      },
+      "organization": {
+        "fullName": "Beijing Tiantan Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "Teneteplase Reperfusion Therapy in Acute Ischemic Cerebrovascular Events-III",
+      "officialTitle": "A Phase 3, Multicenter, Prospective, Randomized, Open-label, Blinded-endpoint (PROBE) Controlled Trial of Tenecteplase Versus Standard Medical Treatment for Acute Ischemic Stroke Due to Anterior Circulation Large Vessel Occlusion With Perfusion Mismatch up to 24 Hours of Symptom Onset",
+      "acronym": "TRACE III"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-04",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-01-19",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-01-29",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-02-09",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-11-19",
+      "studyFirstSubmitQcDate": "2021-11-19",
+      "studyFirstPostDateStruct": {
+        "date": "2021-12-02",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-04-28",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-04-30",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Yongjun Wang",
+        "investigatorTitle": "professor",
+        "investigatorAffiliation": "Beijing Tiantan Hospital"
+      },
+      "leadSponsor": {
+        "name": "Beijing Tiantan Hospital",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The trial is a phase 3, multicenter, prospective, randomized, open-label, blinded-endpoint (PROBE) controlled design. Patients with acute ischemic stroke due to anterior circulation large vessel occlusion within 4.5-24 hours from last known well (including wake-up stroke and unwitnessed stroke) will be randomized 1:1 to 0.25mg/kg intravenous tenecteplase or standard medical treatment.",
+      "detailedDescription": "The study will be a multicenter, prospective, randomized, open-label, blinded-endpoint (PROBE), controlled phase 3 trial (2 arms with 1:1 randomization) in ischemic stroke due to anterior circulation large vessel occlusion with perfusion mismatch up to 24 hours of symptom onset. The target mismatch profiles on CTP or MRI perfusion weighted imaging include ischemic core volume \\<70 mL, mismatch ratio≥1.8 and mismatch volume≥15 mL demonstrated by a certified automatic software. The minimum sample size is 516 patients."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Ischemic Stroke, Acute"
+      ],
+      "keywords": [
+        "tenecteplase",
+        "alteplase",
+        "ischemic stroke",
+        "phase 3 trial"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 516,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "tenecteplase ( 0.25 mg/kg, Max 25 mg )",
+          "type": "EXPERIMENTAL",
+          "description": "Tenecteplase (0.25 mg/kg) is given as a single, intravenous bolus (within 5-10 seconds) immediately upon randomization. Maximum dose 25mg.",
+          "interventionNames": [
+            "Drug: tenecteplase (0.25 mg/kg, Max 25 mg)"
+          ]
+        },
+        {
+          "label": "standard medical treatment",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Aspirin combined with clopidogrel, aspirin alone, or clopidogrel alone after randomization at the discretion of local investigators.",
+          "interventionNames": [
+            "Drug: standard medical treatment"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "tenecteplase (0.25 mg/kg, Max 25 mg)",
+          "description": "tenecteplase (0.25 mg/kg) is being used.",
+          "armGroupLabels": [
+            "tenecteplase ( 0.25 mg/kg, Max 25 mg )"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "standard medical treatment",
+          "description": "Aspirin combined with clopidogrel, aspirin alone, or clopidogrel alone are being used.",
+          "armGroupLabels": [
+            "standard medical treatment"
+          ],
+          "otherNames": [
+            "Aspirin, Clopidogrel"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Excellent functional outcome",
+          "description": "Proportion of excellent functional outcome defined as an mRS score ≤ 1 at 90 days",
+          "timeFrame": "90 days"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Ordinal distribution of mRS",
+          "description": "Ordinal distribution of mRS at 90 days.",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Favorable functional outcome",
+          "description": "Proportion of favorable functional outcome defined by an mRS score ≤ 2 point at 90 days",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Clinical response rate at 72 hours",
+          "description": "Clinical response rate at 72 hours defined by an improvement on NIHSS score ≥8 points compared with the initial deficit or a score ≤1.",
+          "timeFrame": "72 hours"
+        },
+        {
+          "measure": "The rate of improvement on reperfusion",
+          "description": "The rate of improvement on reperfusion at 24 hours (improved by 90% on Tmax\\>6s)",
+          "timeFrame": "24 hours"
+        },
+        {
+          "measure": "NIHSS change from baseline",
+          "description": "NIHSS change from baseline at 7 days",
+          "timeFrame": "7 days"
+        },
+        {
+          "measure": "Symptomatic intracranial hemorrhage",
+          "description": "Proportion of symptomatic intracranial hemorrhage (sICH) within 36 hours (as defined by The European Cooperative Acute Stroke Study III criteria \\[ECASSIII\\])",
+          "timeFrame": "36 hours"
+        },
+        {
+          "measure": "Mortality",
+          "description": "Rate of death from any cause within 90 days",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Systemic bleeding",
+          "description": "Rate of systemic bleeding at 90 days (as defined by The Global Utilisation of Streptokinase and Tissue Plasminogen Activator for Occluded Coronary Arteries \\[GUSTO\\]: moderate and severe bleeding)",
+          "timeFrame": "90 days"
+        },
+        {
+          "measure": "Adverse events ( AEs ) / serious adverse events ( SAEs )",
+          "description": "Rate of adverse events ( AEs ) / serious adverse events ( SAEs ) within 90 days",
+          "timeFrame": "90 days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age ≥18 years old;\n2. Acute ischemic stroke symptom onset between 4.5 to 24 hours prior to enrolment; including wake-up stroke and unwitnessed stroke, onset time refers to \"last-seen normal time\";\n3. Internal carotid artery, middle cerebral artery M1 or M2 occlusion confirmed by CTA/MRA, internal carotid artery, middle cerebral artery M1 or M2 being responsible for signs and symptoms of acute ischemic stroke;\n4. Pre-stroke modified Rankin scale (mRS) score≤1;\n5. Baseline National Institutes of Health Stroke Scale (NIHSS) 6-25 (inclusive);\n6. Neuroimaging: target mismatch profile on CTP or MRI+MR Perfusion (ischemic core volume \\<70 mL, mismatch ratio≥1.8 and mismatch volume≥15 mL;\n7. Written informed consent from patients or their legally authorized representatives.\n\nExclusion Criteria:\n\n1. Intended to proceed to endovascular treatment;\n2. Allergy to tenecteplase;\n3. Rapidly improving symptoms at the discretion of the investigator;\n4. NIHSS consciousness score 1a \\>2, or epileptic seizure, hemiplegia after seizures ( Todd's palsy ) or other neurological/mental illness such that the patient is not able to cooperate or unwilling to cooperate;\n5. Persistent blood pressure elevation (systolic ≥180 mmHg or diastolic ≥100 mmHg), despite blood pressure-lowering treatment;\n6. Blood glucose \\<2.8 or \\>22.2 mmol/L (point of care glucose testing is acceptable );\n7. Active internal bleeding or at high risk of bleeding, e.g., major surgery, trauma or gastrointestinal or urinary tract hemorrhage within the previous 21 days, or arterial puncture at a non-compressible site within the previous 7 days;\n8. Any known impairment in coagulation due to comorbid disease or anticoagulant use. If on warfarin, then INR \\>1.7 or prothrombin time \\>15 seconds; use of any direct thrombin inhibitors or direct factor Xa inhibitors during the last 48 hours unless reversal of effect can be achieved with a reversal agent; any full dose heparin/heparinoid during the last 24 hours or with an elevated aPTT greater than the upper limit of normal;\n9. Known defect of platelet function or platelet count below 100,000/mm3 (NB patients taking antiplatelet medication can be included);\n10. Ischemic stroke or myocardial infarction in previous 3 months, previous intracranial hemorrhage, severe traumatic brain injury or intracranial or intraspinal operation in previous 3 months, or known intracranial neoplasm, arteriovenous malformation or giant aneurysm;\n11. Any terminal illness such that the patient would not be expected to survive more than 1 year;\n12. Unable to perform CTP or PWI;\n13. Hypodensity in \\>1/3 MCA territory on non-contrast CT;\n14. Acute or past intracerebral hemorrhage (ICH) identified by CT or MRI;\n15. Multiple arterial occlusion (bilateral MCA occlusion, MCA occlusion accompanied with basilar occlusion);\n16. Pregnant women, nursing mothers, or reluctant to use effective contraceptive measures during the period of trial;\n17. Unlikely to adhere to the trial protocol or follow-up;\n18. Any condition that, in the judgment of the investigator could impose hazards to the patient if study therapy is initiated or affect the participation of the patient in the study;\n19. Participation in other interventional clinical trials within the previous 3 months.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Yongjun Wang, MD, PhD",
+          "affiliation": "Beijing Tiantan Hospital",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Beijing Tiantan Hospital, Capital Medical University",
+          "city": "Beijing",
+          "state": "Beijing Municipality",
+          "zip": "100000",
+          "country": "China",
+          "geoPoint": {
+            "lat": 39.9075,
+            "lon": 116.39723
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "42159994",
+          "type": "DERIVED",
+          "citation": "Wang H, Cao Z, Campbell BCV, Katsanos AH, Yin J, Fisher M, Wang Y, Xiong Y. Effects of Fibrinogen on Tenecteplase Treatment in Acute Ischaemic Stroke After 4.5 Hours of Symptom Onset: A Post Hoc Analysis of the TRACE-III Trial. Neurol Ther. 2026 Aug;15(4):1777-1788. doi: 10.1007/s40120-026-00958-4. Epub 2026 May 20."
+        },
+        {
+          "pmid": "41992212",
+          "type": "DERIVED",
+          "citation": "Lu Z, Wang Z, Jin A, Che F, Wang L, Zhou L, Dai H, Liu X, Cao Z, Wang L, Hao M, Ye W, Xiong Y, Wang Y. Clinical benefit of tenecteplase despite failed recanalization in late-window ischemic stroke: a post hoc analysis of the TRACE-3 trial. BMC Med. 2026 Apr 16;24(1):328. doi: 10.1186/s12916-026-04877-x."
+        },
+        {
+          "pmid": "38884324",
+          "type": "DERIVED",
+          "citation": "Xiong Y, Campbell BCV, Schwamm LH, Meng X, Jin A, Parsons MW, Fisher M, Jiang Y, Che F, Wang L, Zhou L, Dai H, Liu X, Pan Y, Duan C, Xu Y, Xu A, Zong L, Tan Z, Ye W, Wang H, Wang Z, Hao M, Cao Z, Wang L, Wu S, Li H, Li Z, Zhao X, Wang Y; TRACE-III Investigators. Tenecteplase for Ischemic Stroke at 4.5 to 24 Hours without Thrombectomy. N Engl J Med. 2024 Jul 18;391(3):203-212. doi: 10.1056/NEJMoa2402980. Epub 2024 Jun 14."
+        },
+        {
+          "pmid": "37247876",
+          "type": "DERIVED",
+          "citation": "Xiong Y, Campbell BCV, Fisher M, Schwamm LH, Parsons M, Li H, Pan Y, Meng X, Zhao X, Wang Y. Rationale and design of Tenecteplase Reperfusion Therapy in Acute Ischaemic Cerebrovascular Events III (TRACE III): a randomised, phase III, open-label, controlled trial. Stroke Vasc Neurol. 2024 Feb 27;9(1):82-89. doi: 10.1136/svn-2023-002310."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-08-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000083242",
+          "term": "Ischemic Stroke"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D020521",
+          "term": "Stroke"
+        },
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000077785",
+          "term": "Tenecteplase"
+        },
+        {
+          "id": "C499330",
+          "term": "MAX protein, human"
+        },
+        {
+          "id": "D001241",
+          "term": "Aspirin"
+        },
+        {
+          "id": "D000077144",
+          "term": "Clopidogrel"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D010959",
+          "term": "Tissue Plasminogen Activator"
+        },
+        {
+          "id": "D012697",
+          "term": "Serine Endopeptidases"
+        },
+        {
+          "id": "D010450",
+          "term": "Endopeptidases"
+        },
+        {
+          "id": "D010447",
+          "term": "Peptide Hydrolases"
+        },
+        {
+          "id": "D006867",
+          "term": "Hydrolases"
+        },
+        {
+          "id": "D004798",
+          "term": "Enzymes"
+        },
+        {
+          "id": "D045762",
+          "term": "Enzymes and Coenzymes"
+        },
+        {
+          "id": "D057057",
+          "term": "Serine Proteases"
+        },
+        {
+          "id": "D010960",
+          "term": "Plasminogen Activators"
+        },
+        {
+          "id": "D001779",
+          "term": "Blood Coagulation Factors"
+        },
+        {
+          "id": "D001798",
+          "term": "Blood Proteins"
+        },
+        {
+          "id": "D011506",
+          "term": "Proteins"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D012459",
+          "term": "Salicylates"
+        },
+        {
+          "id": "D062385",
+          "term": "Hydroxybenzoates"
+        },
+        {
+          "id": "D010636",
+          "term": "Phenols"
+        },
+        {
+          "id": "D001555",
+          "term": "Benzene Derivatives"
+        },
+        {
+          "id": "D006841",
+          "term": "Hydrocarbons, Aromatic"
+        },
+        {
+          "id": "D006844",
+          "term": "Hydrocarbons, Cyclic"
+        },
+        {
+          "id": "D006838",
+          "term": "Hydrocarbons"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D013988",
+          "term": "Ticlopidine"
+        },
+        {
+          "id": "D058924",
+          "term": "Thienopyridines"
+        },
+        {
+          "id": "D013876",
+          "term": "Thiophenes"
+        },
+        {
+          "id": "D013457",
+          "term": "Sulfur Compounds"
+        },
+        {
+          "id": "D011725",
+          "term": "Pyridines"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        },
+        {
+          "id": "D006574",
+          "term": "Heterocyclic Compounds, 2-Ring"
+        },
+        {
+          "id": "D000072471",
+          "term": "Heterocyclic Compounds, Fused-Ring"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

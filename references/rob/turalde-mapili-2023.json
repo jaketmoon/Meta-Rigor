@@ -1,0 +1,1235 @@
+{
+  "case_id": "turalde-mapili-2023",
+  "targets": [
+    {
+      "study_key": "trial03",
+      "target_id": "result.ma_rsv_lrti",
+      "domains": [
+        {
+          "domain": "D1",
+          "questions": [
+            {
+              "question_id": "1.1",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：研究明确由 IWRS 执行随机分组；未见随机序列生成算法的更细说明，因此采用概率性肯定。 B：方案明确由中央 IWRS 完成随机分组；虽未给出随机数生成算法细节，但该机制强烈支持随机序列。",
+              "anchors": [
+                {
+                  "document_key": "trial03.protocol",
+                  "source_sha256": "97d2a39a1ccbccec94394ecd7f8bee7a36a525ad8bfdbe7b443ea16097cbf339",
+                  "representation_sha256": "fd52b499e757bac74bda94e0a39317256115ed2b1df63e4c94ecef088c82f328",
+                  "start_offset": 92298,
+                  "end_offset": 92420,
+                  "exact_text": "An IWRS will be used for randomization to a treatment group and assignment of blinded\ninvestigational product kit numbers."
+                },
+                {
+                  "document_key": "trial03.protocol",
+                  "source_sha256": "97d2a39a1ccbccec94394ecd7f8bee7a36a525ad8bfdbe7b443ea16097cbf339",
+                  "representation_sha256": "fd52b499e757bac74bda94e0a39317256115ed2b1df63e4c94ecef088c82f328",
+                  "start_offset": 92298,
+                  "end_offset": 92383,
+                  "exact_text": "An IWRS will be used for randomization to a treatment group and assignment of blinded"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：研究者确认受试者符合资格后，IWRS 才返回 blinded kit assignment，支持分配在入组和分组前保持隐藏。 B：研究者确认受试者符合资格后，IWRS 才返回盲态药品编号，支持分配在入组前保持隐藏。",
+              "anchors": [
+                {
+                  "document_key": "trial03.protocol",
+                  "source_sha256": "97d2a39a1ccbccec94394ecd7f8bee7a36a525ad8bfdbe7b443ea16097cbf339",
+                  "representation_sha256": "fd52b499e757bac74bda94e0a39317256115ed2b1df63e4c94ecef088c82f328",
+                  "start_offset": 92421,
+                  "end_offset": 92654,
+                  "exact_text": "A subject is considered randomized into the study when\nthe investigator notifies the IWRS that the subject meets eligibility criteria and the IWRS\nprovides the assignment of blinded investigational product kit numbers to the subject."
+                },
+                {
+                  "document_key": "trial03.protocol",
+                  "source_sha256": "97d2a39a1ccbccec94394ecd7f8bee7a36a525ad8bfdbe7b443ea16097cbf339",
+                  "representation_sha256": "fd52b499e757bac74bda94e0a39317256115ed2b1df63e4c94ecef088c82f328",
+                  "start_offset": 92568,
+                  "end_offset": 92654,
+                  "exact_text": "provides the assignment of blinded investigational product kit numbers to the subject."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.3",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：结果报告明确说明两组基线特征相似，未见提示随机化过程异常的明显差异。 B：registry 报告的基线平均年龄几乎相同（placebo 3.28 月，MEDI8897 3.29 月），未见提示随机化失灵的明显差异；但可用基线变量有限，因此采用概率判断。",
+              "anchors": [
+                {
+                  "document_key": "trial03.fulltext",
+                  "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+                  "representation_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730",
+                  "start_offset": 13775,
+                  "end_offset": 13843,
+                  "exact_text": "Baseline characteristics were similar in the two groups ( Table 1 )."
+                },
+                {
+                  "document_key": "trial03.fulltext",
+                  "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+                  "representation_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730",
+                  "start_offset": 13775,
+                  "end_offset": 14022,
+                  "exact_text": "Baseline characteristics were similar in the two groups ( Table 1 ).\nVariable | Nirsevimab (N=969) | Placebo (N=484)\nHemisphere — no. (%) |  |\nNorthern | 659 (68) | 329 (68)\nSouthern | 310 (32) | 155 (32)\nAge |  |\nMean — mo | 3.29±2.22 | 3.28±2.31"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D2",
+          "questions": [
+            {
+              "question_id": "2.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：受试者或其法定代表在研究期间不知道分配的治疗。 B：方案规定受试者或其法定代理人不知道所接受的治疗。",
+              "anchors": [
+                {
+                  "document_key": "trial03.protocol",
+                  "source_sha256": "97d2a39a1ccbccec94394ecd7f8bee7a36a525ad8bfdbe7b443ea16097cbf339",
+                  "representation_sha256": "fd52b499e757bac74bda94e0a39317256115ed2b1df63e4c94ecef088c82f328",
+                  "start_offset": 94363,
+                  "end_offset": 94558,
+                  "exact_text": "Neither the\nsubject/legal representative nor any of the investigator or site staff who are involved in the\ntreatment or clinical evaluation of the subjects will be aware of the treatment received"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：参与治疗和临床评价的 investigator/site staff 保持盲法，仅由独立 unblinded product manager 配制药物。 B：参与治疗和临床评价的研究者及现场人员均维持盲态。",
+              "anchors": [
+                {
+                  "document_key": "trial03.protocol",
+                  "source_sha256": "97d2a39a1ccbccec94394ecd7f8bee7a36a525ad8bfdbe7b443ea16097cbf339",
+                  "representation_sha256": "fd52b499e757bac74bda94e0a39317256115ed2b1df63e4c94ecef088c82f328",
+                  "start_offset": 94363,
+                  "end_offset": 94558,
+                  "exact_text": "Neither the\nsubject/legal representative nor any of the investigator or site staff who are involved in the\ntreatment or clinical evaluation of the subjects will be aware of the treatment received"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.3",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "PROBABLY_NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "单次盲态给药在分组当日完成，完整来源未提示由试验情境产生的 intended-intervention deviation，较支持 probably no。",
+              "anchors": [
+                {
+                  "document_key": "trial03.protocol",
+                  "source_sha256": "97d2a39a1ccbccec94394ecd7f8bee7a36a525ad8bfdbe7b443ea16097cbf339",
+                  "representation_sha256": "fd52b499e757bac74bda94e0a39317256115ed2b1df63e4c94ecef088c82f328",
+                  "start_offset": 93608,
+                  "end_offset": 93728,
+                  "exact_text": "Investigational product (MEDI8897 or placebo) must be administered the same day the\ninvestigational product is assigned."
+                },
+                {
+                  "document_key": "trial03.protocol",
+                  "source_sha256": "97d2a39a1ccbccec94394ecd7f8bee7a36a525ad8bfdbe7b443ea16097cbf339",
+                  "representation_sha256": "fd52b499e757bac74bda94e0a39317256115ed2b1df63e4c94ecef088c82f328",
+                  "start_offset": 94293,
+                  "end_offset": 94362,
+                  "exact_text": "MEDI8897 and placebo are visually indistinguishable once in syringes."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.4",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：未识别出 2.3 所指的 trial-context deviation，来源也未单独报告其对该结局的影响；该条件题交由程序规范化。 B：未识别出可评价其是否影响该结局的实际试验情境偏离。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "trial03.fulltext",
+                  "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+                  "representation_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"
+                },
+                {
+                  "document_key": "trial03.protocol",
+                  "source_sha256": "97d2a39a1ccbccec94394ecd7f8bee7a36a525ad8bfdbe7b443ea16097cbf339",
+                  "representation_sha256": "fd52b499e757bac74bda94e0a39317256115ed2b1df63e4c94ecef088c82f328"
+                },
+                {
+                  "document_key": "trial03.registry.ctgov",
+                  "source_sha256": "baa264d9dd372f3563e913cd1ec91ca7282fb19555c1a10995ad7510cf26c954",
+                  "representation_sha256": "8872f0d5b3d2f636b44efe3f7d5e72a2716f03ce3be54ec262b6a4a948cd4751"
+                },
+                {
+                  "document_key": "trial03.sap",
+                  "source_sha256": "34199f2c0de09f94455ca7c0046fe308efb63633bc4d6eb0cf37360423f2e910",
+                  "representation_sha256": "4d36033e68ddb9904f0c273e4d652636eadb0854e6d5e1796ec9975ca9fde0c1"
+                }
+              ]
+            },
+            {
+              "question_id": "2.5",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：所检查来源未提供已识别 trial-context deviation 的分组比较；该条件题交由程序规范化。 B：未获得按随机组比较实际试验情境偏离的结果级资料。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "trial03.fulltext",
+                  "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+                  "representation_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"
+                },
+                {
+                  "document_key": "trial03.protocol",
+                  "source_sha256": "97d2a39a1ccbccec94394ecd7f8bee7a36a525ad8bfdbe7b443ea16097cbf339",
+                  "representation_sha256": "fd52b499e757bac74bda94e0a39317256115ed2b1df63e4c94ecef088c82f328"
+                },
+                {
+                  "document_key": "trial03.registry.ctgov",
+                  "source_sha256": "baa264d9dd372f3563e913cd1ec91ca7282fb19555c1a10995ad7510cf26c954",
+                  "representation_sha256": "8872f0d5b3d2f636b44efe3f7d5e72a2716f03ce3be54ec262b6a4a948cd4751"
+                },
+                {
+                  "document_key": "trial03.sap",
+                  "source_sha256": "34199f2c0de09f94455ca7c0046fe308efb63633bc4d6eb0cf37360423f2e910",
+                  "representation_sha256": "4d36033e68ddb9904f0c273e4d652636eadb0854e6d5e1796ec9975ca9fde0c1"
+                }
+              ]
+            },
+            {
+              "question_id": "2.6",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标结局的主分析使用全部随机受试者，并按随机分组分析，符合 effect of assignment。 B：疗效分析使用全部随机受试者，并按随机分组分析，适合估计 assignment effect。",
+              "anchors": [
+                {
+                  "document_key": "trial03.protocol",
+                  "source_sha256": "97d2a39a1ccbccec94394ecd7f8bee7a36a525ad8bfdbe7b443ea16097cbf339",
+                  "representation_sha256": "fd52b499e757bac74bda94e0a39317256115ed2b1df63e4c94ecef088c82f328",
+                  "start_offset": 98739,
+                  "end_offset": 98916,
+                  "exact_text": "The intent-to-treat (ITT) Population is defined as all subjects who are randomized. Subjects\nwill be included in the treatment group corresponding to their randomized treatment."
+                },
+                {
+                  "document_key": "trial03.fulltext",
+                  "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+                  "representation_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730",
+                  "start_offset": 11192,
+                  "end_offset": 11358,
+                  "exact_text": "Efficacy analyses were performed in the intention-to-treat population (all participants who underwent randomization) according to the randomized treatment assignment."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.7",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：主分析按随机分组纳入全部随机受试者；未见因未按随机组分析而对结果造成 substantial impact 的路径。 B：来源规定随机受试者留在 ITT 并按随机组分析，未显示因改按实际治疗或排除而可能对结果产生实质影响。",
+              "anchors": [
+                {
+                  "document_key": "trial03.fulltext",
+                  "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+                  "representation_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730",
+                  "start_offset": 11192,
+                  "end_offset": 11358,
+                  "exact_text": "Efficacy analyses were performed in the intention-to-treat population (all participants who underwent randomization) according to the randomized treatment assignment."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D3",
+          "questions": [
+            {
+              "question_id": "3.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：结果报告明确说明 97.5% 的随机受试者完成了 150 天 efficacy period，目标结局数据达到 nearly all。 B：全文报告 1417/1453（97.5%）随机受试者完成 150 天疗效期，结局数据可视为几乎全部可用。",
+              "anchors": [
+                {
+                  "document_key": "trial03.fulltext",
+                  "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+                  "representation_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730",
+                  "start_offset": 13477,
+                  "end_offset": 13617,
+                  "exact_text": "In the two groups combined, 97.5% of the participants (1417 participants) who underwent randomization completed the 150-day efficacy period;"
+                },
+                {
+                  "document_key": "trial03.fulltext",
+                  "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+                  "representation_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730",
+                  "start_offset": 13477,
+                  "end_offset": 13774,
+                  "exact_text": "In the two groups combined, 97.5% of the participants (1417 participants) who underwent randomization completed the 150-day efficacy period; 94.2% (913) of those randomly assigned to nirsevimab and 93.8% (454) of those randomly assigned to placebo completed the entire 360-day follow-up (Fig. S2)."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.2",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：结果按 ITT 分析，且预先规定对提前停止且此前无事件者使用基于 placebo event rate 的插补；这降低了缺失对干预效应产生有利偏倚的可能，但缺失人数闭包不足。 B：150 天完整随访率为 97.5%，且未完成者按预设的 placebo 观察事件率重复插补；低缺失比例与插补处理支持结果大概率未受缺失偏倚。",
+              "anchors": [
+                {
+                  "document_key": "trial03.protocol",
+                  "source_sha256": "97d2a39a1ccbccec94394ecd7f8bee7a36a525ad8bfdbe7b443ea16097cbf339",
+                  "representation_sha256": "fd52b499e757bac74bda94e0a39317256115ed2b1df63e4c94ecef088c82f328",
+                  "start_offset": 102037,
+                  "end_offset": 102202,
+                  "exact_text": "For subjects who do not have an\nRSV LRTI prior to discontinuation from participation, their event status will be imputed\nassuming the observed placebo RSV LRTI rate."
+                },
+                {
+                  "document_key": "trial03.fulltext",
+                  "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+                  "representation_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730",
+                  "start_offset": 13477,
+                  "end_offset": 13774,
+                  "exact_text": "In the two groups combined, 97.5% of the participants (1417 participants) who underwent randomization completed the 150-day efficacy period; 94.2% (913) of those randomly assigned to nirsevimab and 93.8% (454) of those randomly assigned to placebo completed the entire 360-day follow-up (Fig. S2)."
+                },
+                {
+                  "document_key": "trial03.fulltext",
+                  "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+                  "representation_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730",
+                  "start_offset": 12405,
+                  "end_offset": 12698,
+                  "exact_text": "For participants who did not have an RSV-associated lower respiratory tract infection and were not followed through 150 days after administration of the dose, their event status was considered missing and was imputed with the observed event rate in the placebo group, with repeated imputation."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.3",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：确有未随访至 150 天且无已观察事件的受试者；在缺少个体缺失原因与真实结局关系资料时，missingness 可能依赖真实值。 B：未随访至 150 天且无已观察事件者的真实结局需要插补，因此缺失可能与未观察到的真实事件状态有关。",
+              "anchors": [
+                {
+                  "document_key": "trial03.fulltext",
+                  "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+                  "representation_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730",
+                  "start_offset": 12405,
+                  "end_offset": 12698,
+                  "exact_text": "For participants who did not have an RSV-associated lower respiratory tract infection and were not followed through 150 days after administration of the dose, their event status was considered missing and was imputed with the observed event rate in the placebo group, with repeated imputation."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.4",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "150 日疗效期完成率 97.5%，没有迹象表明这一小比例缺失很可能由真实 RSV-LRTI 状态驱动。",
+              "anchors": [
+                {
+                  "document_key": "trial03.fulltext",
+                  "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+                  "representation_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730",
+                  "start_offset": 13477,
+                  "end_offset": 13774,
+                  "exact_text": "In the two groups combined, 97.5% of the participants (1417 participants) who underwent randomization completed the 150-day efficacy period; 94.2% (913) of those randomly assigned to nirsevimab and 93.8% (454) of those randomly assigned to placebo completed the entire 360-day follow-up (Fig. S2)."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D4",
+          "questions": [
+            {
+              "question_id": "4.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标结局使用预定义的客观临床 LRTI 标准，并要求中央实验室 RT-PCR 确认，测量方法适当。 B：结局由预定义客观临床标准与中央实验室验证的 RSV RT-PCR 共同确定，测量方法适当。",
+              "anchors": [
+                {
+                  "document_key": "trial03.fulltext",
+                  "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+                  "representation_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730",
+                  "start_offset": 8705,
+                  "end_offset": 9072,
+                  "exact_text": "According to the prespecified case definition, a lower respiratory tract infection was included in our analysis if an RSV test performed at the central laboratory (Viracor Eurofins Clinical Diagnostics) was positive, a physical examination indicated involvement of the lower respiratory tract, and there was at least one indicator of clinical severity (see Table S2)."
+                },
+                {
+                  "document_key": "trial03.fulltext",
+                  "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+                  "representation_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730",
+                  "start_offset": 18533,
+                  "end_offset": 18915,
+                  "exact_text": "The case definition for inclusion of the lower respiratory tract infection in the analysis of the end point required a positive result for RSV in a real-time, reverse-transcriptase–polymerase-chain-reaction assay performed at a central laboratory, a physical examination finding indicating involvement of the lower respiratory tract, and at least one indicator of clinical severity."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：两组使用相同的客观临床标准和中央实验室检测，未见按分组采用不同 ascertainment 的路径。 B：方案要求所有病例的呼吸道标本在中央实验室使用同一批准方法检测，未见组间采用不同测量方式的可能。",
+              "anchors": [
+                {
+                  "document_key": "trial03.protocol",
+                  "source_sha256": "97d2a39a1ccbccec94394ecd7f8bee7a36a525ad8bfdbe7b443ea16097cbf339",
+                  "representation_sha256": "fd52b499e757bac74bda94e0a39317256115ed2b1df63e4c94ecef088c82f328",
+                  "start_offset": 101528,
+                  "end_offset": 101674,
+                  "exact_text": "will be based on RSV test results (performed centrally via RT-PCR) and objective clinical\nLRTI criteria and will be summarized by treatment group."
+                },
+                {
+                  "document_key": "trial03.protocol",
+                  "source_sha256": "97d2a39a1ccbccec94394ecd7f8bee7a36a525ad8bfdbe7b443ea16097cbf339",
+                  "representation_sha256": "fd52b499e757bac74bda94e0a39317256115ed2b1df63e4c94ecef088c82f328",
+                  "start_offset": 78725,
+                  "end_offset": 78887,
+                  "exact_text": "Respiratory secretions in all cases will be tested in a central laboratory for RSV using the\nFDA-approved and CE-marked in vitro diagnostic real-time RT-PCR assay"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：参与临床评价的现场人员不知道治疗分配，registry 亦记录 outcomes assessor 被 masked。 B：参与临床评价的研究人员保持盲态。",
+              "anchors": [
+                {
+                  "document_key": "trial03.protocol",
+                  "source_sha256": "97d2a39a1ccbccec94394ecd7f8bee7a36a525ad8bfdbe7b443ea16097cbf339",
+                  "representation_sha256": "fd52b499e757bac74bda94e0a39317256115ed2b1df63e4c94ecef088c82f328",
+                  "start_offset": 94363,
+                  "end_offset": 94558,
+                  "exact_text": "Neither the\nsubject/legal representative nor any of the investigator or site staff who are involved in the\ntreatment or clinical evaluation of the subjects will be aware of the treatment received"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.4",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "结局要求中央 RT-PCR、下呼吸道体征和严重程度条件，治疗知识不能合理改变这套受约束判定。",
+              "anchors": [
+                {
+                  "document_key": "trial03.fulltext",
+                  "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+                  "representation_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730",
+                  "start_offset": 8705,
+                  "end_offset": 9072,
+                  "exact_text": "According to the prespecified case definition, a lower respiratory tract infection was included in our analysis if an RSV test performed at the central laboratory (Viracor Eurofins Clinical Diagnostics) was positive, a physical examination indicated involvement of the lower respiratory tract, and there was at least one indicator of clinical severity (see Table S2)."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.5",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "临床评价保持盲法且使用中央检测和预设病例定义，没有实际受治疗知识影响的路径或迹象。",
+              "anchors": [
+                {
+                  "document_key": "trial03.protocol",
+                  "source_sha256": "97d2a39a1ccbccec94394ecd7f8bee7a36a525ad8bfdbe7b443ea16097cbf339",
+                  "representation_sha256": "fd52b499e757bac74bda94e0a39317256115ed2b1df63e4c94ecef088c82f328",
+                  "start_offset": 94293,
+                  "end_offset": 94362,
+                  "exact_text": "MEDI8897 and placebo are visually indistinguishable once in syringes."
+                },
+                {
+                  "document_key": "trial03.fulltext",
+                  "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+                  "representation_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730",
+                  "start_offset": 8705,
+                  "end_offset": 9072,
+                  "exact_text": "According to the prespecified case definition, a lower respiratory tract infection was included in our analysis if an RSV test performed at the central laboratory (Viracor Eurofins Clinical Diagnostics) was positive, a physical examination indicated involvement of the lower respiratory tract, and there was at least one indicator of clinical severity (see Table S2)."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D5",
+          "questions": [
+            {
+              "question_id": "5.1",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：2018-01 已批准的 protocol 在主分析前预设 ITT、Poisson model、结局窗口及插补原则；SAP 还明确分析窗口在 unblinding 前锁定。由于最终 SAP 批准时间接近 primary completion，采用概率性肯定。 B：在结果揭盲前已有最终版 SAP，且后续窗口选择明确基于 blinded review 并要求在揭盲前记录；未获得确切数据库锁定日期，因此保留概率判断。",
+              "anchors": [
+                {
+                  "document_key": "trial03.protocol",
+                  "source_sha256": "97d2a39a1ccbccec94394ecd7f8bee7a36a525ad8bfdbe7b443ea16097cbf339",
+                  "representation_sha256": "fd52b499e757bac74bda94e0a39317256115ed2b1df63e4c94ecef088c82f328",
+                  "start_offset": 148901,
+                  "end_offset": 148938,
+                  "exact_text": "25-Jan-2018 21:47 UTC Author Approval"
+                },
+                {
+                  "document_key": "trial03.protocol",
+                  "source_sha256": "97d2a39a1ccbccec94394ecd7f8bee7a36a525ad8bfdbe7b443ea16097cbf339",
+                  "representation_sha256": "fd52b499e757bac74bda94e0a39317256115ed2b1df63e4c94ecef088c82f328",
+                  "start_offset": 101802,
+                  "end_offset": 101898,
+                  "exact_text": "The primary efficacy analysis of the primary endpoint will be conducted with the ITT\nPopulation."
+                },
+                {
+                  "document_key": "trial03.sap",
+                  "source_sha256": "34199f2c0de09f94455ca7c0046fe308efb63633bc4d6eb0cf37360423f2e910",
+                  "representation_sha256": "4d36033e68ddb9904f0c273e4d652636eadb0854e6d5e1796ec9975ca9fde0c1",
+                  "start_offset": 148168,
+                  "end_offset": 148589,
+                  "exact_text": "MedImmune Statistical Analysis Plan for Protocol D5290C00003\nMEDI8897 16March 2018; Final v3.0\nobtained from analyzing the respiratory secretions using a validated RSV RT-PCR assay for\nthe detection of RSV A or RSV B performed in a central laboratory. These LRTI events may\noccur in the inpatient or outpatient visit setting.\nPrior to database lock for the primary analysis, a blinded review of data will be undertaken to"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标测量在 protocol/SAP 中固定为 150 天内 medically attended RSV LRTI，且多次事件只取首次；该结果与预设 primary endpoint 一致，未见按结果挑选 measurement。 B：主要终点、150 天时点以及多次事件只取首次均已预先明确，registry 报告与该定义一致，没有按结果从多个合格测量中选择的迹象。",
+              "anchors": [
+                {
+                  "document_key": "trial03.protocol",
+                  "source_sha256": "97d2a39a1ccbccec94394ecd7f8bee7a36a525ad8bfdbe7b443ea16097cbf339",
+                  "representation_sha256": "fd52b499e757bac74bda94e0a39317256115ed2b1df63e4c94ecef088c82f328",
+                  "start_offset": 101407,
+                  "end_offset": 101801,
+                  "exact_text": "4.8.3.1 Primary Efficacy Analysis\nThe incidence of RSV LRTI (inpatient and outpatient) during 5 months of the RSV season\nwill be based on RSV test results (performed centrally via RT-PCR) and objective clinical\nLRTI criteria and will be summarized by treatment group. For subjects with multiple\nmedically attended RSV LRTI events, only the first occurrence will be used in the primary\nanalysis."
+                },
+                {
+                  "document_key": "trial03.fulltext",
+                  "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+                  "representation_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730",
+                  "start_offset": 7711,
+                  "end_offset": 7996,
+                  "exact_text": "The primary end point was medically attended RSV-associated lower respiratory tract infection (inpatient or outpatient) through 150 days after nirsevimab or placebo was administered, and the secondary efficacy end point was hospitalization due to this condition during the same period."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：预设主分析明确为 ITT 上的 robust-variance Poisson regression；其他分析被标为 additional/sensitivity，未见基于结果从多种 eligible analysis 中选择主结果。 B：主要 ITT Poisson robust-variance 分析及协变量在 SAP 中预先规定，registry 报告的主要分析与之相符，未见基于结果挑选分析的迹象。",
+              "anchors": [
+                {
+                  "document_key": "trial03.fulltext",
+                  "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+                  "representation_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730",
+                  "start_offset": 11932,
+                  "end_offset": 12085,
+                  "exact_text": "Primary and secondary efficacy end points were analyzed with the use of a Poisson regression model with robust variance 30 as the primary analysis model."
+                },
+                {
+                  "document_key": "trial03.fulltext",
+                  "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+                  "representation_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730",
+                  "start_offset": 11932,
+                  "end_offset": 12187,
+                  "exact_text": "Primary and secondary efficacy end points were analyzed with the use of a Poisson regression model with robust variance 30 as the primary analysis model. The primary end-point analysis included two randomization stratification factors: hemisphere and age."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        }
+      ],
+      "overall_judgment": "LOW"
+    },
+    {
+      "study_key": "trial04.melody",
+      "target_id": "result.ma_rsv_lrti",
+      "domains": [
+        {
+          "domain": "D1",
+          "questions": [
+            {
+              "question_id": "1.1",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：研究明确由 IWRS 执行随机分组；未见随机序列生成算法的更细说明，因此采用概率性肯定。 B：中央 IWRS 执行随机分组；未给出底层随机序列生成算法，因此采用概率肯定。",
+              "anchors": [
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 15417,
+                  "end_offset": 15573,
+                  "exact_text": "An interactive web response system (IWRS) will be used for randomization to a treatment\ngroup and assignment of blinded investigational product kit numbers."
+                },
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 15417,
+                  "end_offset": 15504,
+                  "exact_text": "An interactive web response system (IWRS) will be used for randomization to a treatment"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：研究者确认资格后 IWRS 才返回 blinded kit assignment，支持可靠的 allocation concealment。 B：只有在研究者通过 IWRS 确认资格后，系统才返回盲态药品编号，支持充分分配隐藏。",
+              "anchors": [
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 15574,
+                  "end_offset": 15807,
+                  "exact_text": "A subject is considered\nrandomized into the study when the investigator notifies the IWRS that the subject meets\neligibility criteria and the IWRS provides the assignment of blinded investigational product kit\nnumbers to the subject."
+                },
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 15629,
+                  "end_offset": 15807,
+                  "exact_text": "the investigator notifies the IWRS that the subject meets\neligibility criteria and the IWRS provides the assignment of blinded investigational product kit\nnumbers to the subject."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.3",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：结果报告明确说明两组基线特征相似，未见提示随机化异常的明显差异。 B：主要队列基线平均年龄相近（placebo 3.012 月，MEDI8897 2.912 月），未见提示随机化问题的重大差异；可用变量范围有限，故采用概率判断。",
+              "anchors": [
+                {
+                  "document_key": "trial04.fulltext",
+                  "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+                  "representation_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee",
+                  "start_offset": 13309,
+                  "end_offset": 13377,
+                  "exact_text": "Baseline characteristics were similar in the two groups ( Table 1 )."
+                },
+                {
+                  "document_key": "trial04.fulltext",
+                  "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+                  "representation_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee",
+                  "start_offset": 13309,
+                  "end_offset": 13711,
+                  "exact_text": "Baseline characteristics were similar in the two groups ( Table 1 ). The participants were representative of the global RSV patient population (Table S3).\nCharacteristic | Nirsevimab (N=994) | Placebo (N=496) | Total (N=1490)\n | no. of participants/total no. (%)\nAge |  |  |\n≤3.0 mo | 577/994 (58.0) | 285/496 (57.5) | 862/1490 (57.9)\n>3.0 to ≤6.0 mo | 317/994 (31.9) | 162/496 (32.7) | 479/1490 (32.1)"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D2",
+          "questions": [
+            {
+              "question_id": "2.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：受试者或其法定代表保持盲法，且 placebo 与 MEDI8897 装入注射器后外观不可区分。 B：受试者或法定代理人保持盲态。",
+              "anchors": [
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 17701,
+                  "end_offset": 17900,
+                  "exact_text": "Neither the\nsubject/legal representative nor the investigator or any of the site staff who are involved in the\ntreatment or clinical evaluation of the subjects will be aware of the treatment received"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：参与治疗和临床评价的 investigator/site staff 保持盲法。 B：研究者及参与治疗或临床评价的现场人员保持盲态。",
+              "anchors": [
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 17701,
+                  "end_offset": 17900,
+                  "exact_text": "Neither the\nsubject/legal representative nor the investigator or any of the site staff who are involved in the\ntreatment or clinical evaluation of the subjects will be aware of the treatment received"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.3",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "PROBABLY_NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "单次双盲给药且来源未提示 trial-context deviation，结合干预性质较支持 probably no。",
+              "anchors": [
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 15808,
+                  "end_offset": 15896,
+                  "exact_text": "Subjects will be randomized at a 2:1 ratio to receive a single fixed IM dose of MEDI8897"
+                },
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 17631,
+                  "end_offset": 17700,
+                  "exact_text": "MEDI8897 and placebo are visually indistinguishable once in syringes."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.4",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：未识别出 2.3 所指 trial-context deviation，也无来源单独评价其对目标结局的影响；该条件题交由程序规范化。 B：未识别出可进一步评价其结局影响的实际试验情境偏离。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "trial04.fulltext",
+                  "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+                  "representation_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"
+                },
+                {
+                  "document_key": "trial04.protocol",
+                  "source_sha256": "2041806f06a3a743449ca3d0e3d0746271e2513bf1ac82240b652ceeaa17a346",
+                  "representation_sha256": "c362b829d920f520c3b983b3fd847a70883f9e6c9e3fd0023df56931fcea6575"
+                },
+                {
+                  "document_key": "trial04.registry.ctgov",
+                  "source_sha256": "83fe093d007edba20108cb74c9620bd6f9cefb3580e6eca6f4e26f62d906ab2d",
+                  "representation_sha256": "9c37fa38273aaff7b4b5247c4d1ec577e6b8cbdb22f76f69d5684bc42e43761e"
+                },
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1"
+                }
+              ]
+            },
+            {
+              "question_id": "2.5",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：所检查来源未提供已识别 trial-context deviation 的分组比较；该条件题交由程序规范化。 B：可用来源没有给出按随机组比较的实际试验情境偏离结果。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "trial04.fulltext",
+                  "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+                  "representation_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"
+                },
+                {
+                  "document_key": "trial04.protocol",
+                  "source_sha256": "2041806f06a3a743449ca3d0e3d0746271e2513bf1ac82240b652ceeaa17a346",
+                  "representation_sha256": "c362b829d920f520c3b983b3fd847a70883f9e6c9e3fd0023df56931fcea6575"
+                },
+                {
+                  "document_key": "trial04.registry.ctgov",
+                  "source_sha256": "83fe093d007edba20108cb74c9620bd6f9cefb3580e6eca6f4e26f62d906ab2d",
+                  "representation_sha256": "9c37fa38273aaff7b4b5247c4d1ec577e6b8cbdb22f76f69d5684bc42e43761e"
+                },
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1"
+                }
+              ]
+            },
+            {
+              "question_id": "2.6",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：Primary Cohort 的目标结局主分析使用 ITT1，并按随机分组分析，符合 assignment effect。 B：主要疗效分析使用主要队列的 ITT1，并按随机分组分析，适合估计 assignment effect。",
+              "anchors": [
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 29960,
+                  "end_offset": 30148,
+                  "exact_text": "Subjects who are randomized will be included in the ITT population;\nIntent-to-treat (ITT) population in this population data will be analyzed according to their randomized\ntreatment group."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.7",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：主分析保留完整随机分母，并对未随访至 150 天且无事件者预设插补；没有 failure to analyse as randomized 的 substantial-impact 路径。 B：随机受试者纳入 ITT 并按随机组分析，未显示未按随机组分析会对该结果造成实质影响。",
+              "anchors": [
+                {
+                  "document_key": "trial04.fulltext",
+                  "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+                  "representation_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee",
+                  "start_offset": 8981,
+                  "end_offset": 9183,
+                  "exact_text": "All analyses were performed in the primary cohort. Efficacy analyses were performed in the intention-to-treat population (all participants who underwent randomization) according to the assigned regimen."
+                },
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 42783,
+                  "end_offset": 42863,
+                  "exact_text": "The primary efficacy analysis of the primary endpoint will be performed on ITT1."
+                },
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 29960,
+                  "end_offset": 30148,
+                  "exact_text": "Subjects who are randomized will be included in the ITT population;\nIntent-to-treat (ITT) population in this population data will be analyzed according to their randomized\ntreatment group."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D3",
+          "questions": [
+            {
+              "question_id": "3.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：Primary Cohort 1490 人中仅 21 人需要对 150 天事件状态插补，约 98.6% 有观察状态，属于 nearly all。 B：主要队列 1490 人中仅 21 人（placebo 6、MEDI8897 15）在无事件情况下未随访至 150 天而需插补，结局数据可视为几乎全部可用。",
+              "anchors": [
+                {
+                  "document_key": "trial04.fulltext",
+                  "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+                  "representation_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee",
+                  "start_offset": 17340,
+                  "end_offset": 17713,
+                  "exact_text": "End Point and Analysis | Nirsevimab (N=994) | Placebo (N=496) | Efficacy (95% CI) † | P Value\n | no. (%) |  |\nMedically attended RSV-associated lower respiratory tract infection |  |  | 74.5 (49.6 to 87.1) | <0.001\nPoisson regression with robust variance |  |  |  |\nObserved events | 12 (1.2) | 25 (5.0) |  |\nParticipants with imputation of data ‡ | 15 (1.5) | 6 (1.2) |  |"
+                },
+                {
+                  "document_key": "trial04.fulltext",
+                  "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+                  "representation_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee",
+                  "start_offset": 12895,
+                  "end_offset": 13035,
+                  "exact_text": "Overall, 1465 participants (98.3%) completed 150 days of follow-up, and 1367 participants (91.7%) completed 360 days of follow-up (Fig. S2)."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "缺失比例低且主要分析按预设使用分层 placebo event rate multiple imputation，充分支持结果未受缺失偏倚。",
+              "anchors": [
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 45881,
+                  "end_offset": 46083,
+                  "exact_text": "their event status will be imputed assuming the\nobserved placebo medically attended RSV LRTI rate conditional on stratification factor (age\nat randomization stratum) using multiple imputation techniques"
+                },
+                {
+                  "document_key": "trial04.fulltext",
+                  "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+                  "representation_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee",
+                  "start_offset": 17340,
+                  "end_offset": 17713,
+                  "exact_text": "End Point and Analysis | Nirsevimab (N=994) | Placebo (N=496) | Efficacy (95% CI) † | P Value\n | no. (%) |  |\nMedically attended RSV-associated lower respiratory tract infection |  |  | 74.5 (49.6 to 87.1) | <0.001\nPoisson regression with robust variance |  |  |  |\nObserved events | 12 (1.2) | 25 (5.0) |  |\nParticipants with imputation of data ‡ | 15 (1.5) | 6 (1.2) |  |"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.3",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：仍有 21 名无事件且未随访到 150 天的受试者，其 missingness 在理论上可能与未观察到的真实 RSV LRTI 状态有关。 B：21 名无已观察事件且未随访满 150 天者需要插补；在缺少逐人退出机制证据时，真实结局影响缺失的可能性不能排除。",
+              "anchors": [
+                {
+                  "document_key": "trial04.fulltext",
+                  "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+                  "representation_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee",
+                  "start_offset": 17340,
+                  "end_offset": 17713,
+                  "exact_text": "End Point and Analysis | Nirsevimab (N=994) | Placebo (N=496) | Efficacy (95% CI) † | P Value\n | no. (%) |  |\nMedically attended RSV-associated lower respiratory tract infection |  |  | 74.5 (49.6 to 87.1) | <0.001\nPoisson regression with robust variance |  |  |  |\nObserved events | 12 (1.2) | 25 (5.0) |  |\nParticipants with imputation of data ‡ | 15 (1.5) | 6 (1.2) |  |"
+                },
+                {
+                  "document_key": "trial04.fulltext",
+                  "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+                  "representation_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee",
+                  "start_offset": 11098,
+                  "end_offset": 11430,
+                  "exact_text": "Data from participants who did not have an RSV-associated lower respiratory tract infection and were not followed through 150 days after the injection were considered to be missing and were imputed with the observed incidence for RSV-associated lower respiratory tract infection in the placebo group by means of multiple imputation."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.4",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：需要插补者仅占约 1.4%，两组均有少量缺失，且试验保持双盲；现有证据不支持 missingness 很可能依赖真实值。 B：需插补者仅占约 1.4%，且按 2:1 随机比例在两组分布相近，没有证据表明缺失很可能依赖真实 RSV LRTI 状态。",
+              "anchors": [
+                {
+                  "document_key": "trial04.fulltext",
+                  "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+                  "representation_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee",
+                  "start_offset": 17340,
+                  "end_offset": 17713,
+                  "exact_text": "End Point and Analysis | Nirsevimab (N=994) | Placebo (N=496) | Efficacy (95% CI) † | P Value\n | no. (%) |  |\nMedically attended RSV-associated lower respiratory tract infection |  |  | 74.5 (49.6 to 87.1) | <0.001\nPoisson regression with robust variance |  |  |  |\nObserved events | 12 (1.2) | 25 (5.0) |  |\nParticipants with imputation of data ‡ | 15 (1.5) | 6 (1.2) |  |"
+                },
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 24704,
+                  "end_offset": 24750,
+                  "exact_text": "The study will maintain a double-blind setting"
+                },
+                {
+                  "document_key": "trial04.fulltext",
+                  "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+                  "representation_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee",
+                  "start_offset": 12895,
+                  "end_offset": 13035,
+                  "exact_text": "Overall, 1465 participants (98.3%) completed 150 days of follow-up, and 1367 participants (91.7%) completed 360 days of follow-up (Fig. S2)."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D4",
+          "questions": [
+            {
+              "question_id": "4.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标结局由客观临床 LRTI 标准和中央实验室 validated RT-PCR 共同确定，方法适当。 B：主要结局由预定义客观临床标准和中央实验室验证的 RSV RT-PCR 确定，测量方法适当。",
+              "anchors": [
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 41454,
+                  "end_offset": 41552,
+                  "exact_text": "The determination of medically attended RSV LRTI will be based on objective clinical LRTI\ncriteria"
+                },
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 41875,
+                  "end_offset": 41941,
+                  "exact_text": "the detection of RSV A or RSV B performed in a central laboratory."
+                },
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 41454,
+                  "end_offset": 41722,
+                  "exact_text": "The determination of medically attended RSV LRTI will be based on objective clinical LRTI\ncriteria (described in the Protocol Section 4.3.1.1 and SAP Appendix 1) and RSV test results\nobtained from analyzing the respiratory secretions using a validated RSV RT-PCR assay"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：同一客观标准和中央实验室检测适用于两组，未见 measurement/ascertainment 因干预组而异。 B：所有符合条件的 LRTI 标本使用同一中央实验室批准方法检测，且临床评价人员盲态，未见组间测量差异。",
+              "anchors": [
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 41454,
+                  "end_offset": 41552,
+                  "exact_text": "The determination of medically attended RSV LRTI will be based on objective clinical LRTI\ncriteria"
+                },
+                {
+                  "document_key": "trial04.protocol",
+                  "source_sha256": "2041806f06a3a743449ca3d0e3d0746271e2513bf1ac82240b652ceeaa17a346",
+                  "representation_sha256": "c362b829d920f520c3b983b3fd847a70883f9e6c9e3fd0023df56931fcea6575",
+                  "start_offset": 110766,
+                  "end_offset": 110918,
+                  "exact_text": "Respiratory secretions will be tested in a central laboratory for RSV using the US FDA-\ncleared and CE-marked in vitro diagnostic real-time RT-PCR assay"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：参与临床评价的现场人员对治疗分配保持盲法，registry 亦将 outcomes assessor 列为 masked。 B：参与临床评价的研究者和现场人员不知道治疗分配。",
+              "anchors": [
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 17701,
+                  "end_offset": 17900,
+                  "exact_text": "Neither the\nsubject/legal representative nor the investigator or any of the site staff who are involved in the\ntreatment or clinical evaluation of the subjects will be aware of the treatment received"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.4",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "客观病例条件与中央 RT-PCR 约束判定，分组知识不能合理改变该结局测量。",
+              "anchors": [
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 41620,
+                  "end_offset": 41722,
+                  "exact_text": "RSV test results\nobtained from analyzing the respiratory secretions using a validated RSV RT-PCR assay"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.5",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "现场和家长保持盲法，中央检测独立，未见实际评估受治疗知识影响。",
+              "anchors": [
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 17631,
+                  "end_offset": 17700,
+                  "exact_text": "MEDI8897 and placebo are visually indistinguishable once in syringes."
+                },
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 41907,
+                  "end_offset": 41941,
+                  "exact_text": "performed in a central laboratory."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D5",
+          "questions": [
+            {
+              "question_id": "5.1",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：初版 SAP 日期为 2019-07，最终版记载分析模型调整发生在 DBL 前的 blinded review，且研究规定 primary cohort 在 DBL 后才向分析团队揭盲；由于最终批准日晚于 registry 的 primary completion date，采用概率性肯定。 B：SAP 明确主要分析前的数据审查维持盲态，具体分析窗口在揭盲前记录；缺少精确 DBL 日期，故采用概率肯定。",
+              "anchors": [
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 113685,
+                  "end_offset": 113714,
+                  "exact_text": "1.0 22JUL2019 Initial version"
+                },
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 43748,
+                  "end_offset": 43812,
+                  "exact_text": "During blinded data review prior to the DBL for Primary Analysis"
+                },
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 42016,
+                  "end_offset": 42101,
+                  "exact_text": "Prior to DBL for the Primary Analysis, a blinded review of data will be undertaken to"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：目标 measurement 预设为 Primary Cohort 150 天内 medically attended RSV LRTI，多次事件仅取首次；未见按结果从多个 eligible measurement 中选择。 B：主要终点、150 天时点及多事件取首次的规则均预先明确，所评估结果与该唯一主要测量一致。",
+              "anchors": [
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 41177,
+                  "end_offset": 41453,
+                  "exact_text": "The primary endpoint is the incidence of medically attended RSV LRTI (inpatient and\noutpatient) through 150 days post dose. For subjects with multiple medically attended RSV\nLRTI events (inpatient or outpatient), only the first occurrence will be used in the primary\nanalysis."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：主结果预设在 ITT1 上使用 robust-variance Poisson regression；DBL 前因 southern hemisphere 无事件而记录的 reduced-model 调整保持 blinded，未见基于组间结果选择分析。 B：主要 ITT1 Poisson robust-variance 模型及协变量预先规定；基于 pooled blinded review 删除 hemisphere 是在揭盲前处理已知收敛问题，未见按治疗结果挑选分析。",
+              "anchors": [
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 42783,
+                  "end_offset": 42975,
+                  "exact_text": "The primary efficacy analysis of the primary endpoint will be performed on ITT1. A Poisson\nregression model with robust variance (Zou, 2004) will be used as the primary efficacy\nanalysis model"
+                },
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 43748,
+                  "end_offset": 43812,
+                  "exact_text": "During blinded data review prior to the DBL for Primary Analysis"
+                },
+                {
+                  "document_key": "trial04.sap",
+                  "source_sha256": "bade6cd25ec0c742ab6fd7153d8c910ac70c309c91a531fd40da1e33b767ad15",
+                  "representation_sha256": "0a67a2a0a67328b3bd266642fa85b326264198c23376d69af75713a214ecf9b1",
+                  "start_offset": 42783,
+                  "end_offset": 42911,
+                  "exact_text": "The primary efficacy analysis of the primary endpoint will be performed on ITT1. A Poisson\nregression model with robust variance"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        }
+      ],
+      "overall_judgment": "LOW"
+    }
+  ]
+}

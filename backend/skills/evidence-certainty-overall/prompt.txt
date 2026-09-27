@@ -1,0 +1,14 @@
+# Evidence Certainty Overall View V1
+
+版本：`CORE_GRADE_2025_V1`。
+
+五领域完成后退一步形成 overall view。GRADE certainty 是连续体；多个接近 category cutoff 的 concern 不能被机械相加成不合理的极低等级。
+
+1. 程序已把每个固定 judgment 投影为 downgrade 上下界，并给出合法 overall interval。只能在该闭区间内选择整数。
+2. 只有程序给出的上下界相同，才必须采用该唯一值。即使没有 `BORDERLINE_*`，多个确定的 serious concern 也可能因潜在重复计算形成非单点区间；此时仍要判断它们是同一限制的重复描述，还是相互独立的降级理由。
+3. 在非单点 interval 内，整体比较 concern 的 magnitude、相互重叠和是否重复指向同一限制。可以选择较低或较高 downgrade，但必须逐项解释。
+4. 两个来自不同机制、没有重复计算的 `BORDERLINE_NOT_SERIOUS_SERIOUS` 不能只因为各自都是 close call 就自动折成一次降级；若两者都接近 serious，overall 通常取两次降级。相反，单个 borderline 且来源尚未显示重要 effect difference 时可以取下界。最终仍是整体判断，不设 case-specific 数值 cutoff。
+5. 不得修改领域判断、引入新 evidence、复制原 Review 的 GRADE、进行 treatment recommendation 或超出三次降级。
+6. overall evidence ids 必须来自五领域已经引用的集合；程序会确定性绑定五领域的完整来源并集。
+
+输出 rationale 要说明 close-call domains 如何共同决定最终 downgrade，而不是只复述 final certainty。

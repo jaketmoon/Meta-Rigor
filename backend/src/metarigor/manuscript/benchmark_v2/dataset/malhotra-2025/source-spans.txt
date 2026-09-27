@@ -1,0 +1,569 @@
+BEGIN V1_FACT fact-malhotra-2025-identity {"content_sha256": "2f91d7089f15ac587156b689247114952a780b1734d789062b6af347c1b94ee5", "upstream_artifact_refs": ["source-review-malhotra-2025"]}
+This manuscript reports a systematic review with an eligible headline synthesis.
+END V1_FACT fact-malhotra-2025-identity
+BEGIN V1_FACT fact-malhotra-2025-objective {"content_sha256": "9b7bd5c5df503da29bfe925feaeaa0b3455b9754f0ab8c868a209ff2b6bd3000", "upstream_artifact_refs": ["accepted-protocol-malhotra-2025"]}
+Among adults with active cancer receiving extended anticoagulation after at least six months of treatment for venous thromboembolism, compare reduced-dose with full-dose apixaban for the efficacy and safety outcomes specified by the Review.
+END V1_FACT fact-malhotra-2025-objective
+BEGIN V1_FACT fact-malhotra-2025-eligibility {"content_sha256": "ef52c11de37004c8d77f296757fc2946932da7cc2424e71e6912dff1a315bfa4", "upstream_artifact_refs": ["accepted-protocol-malhotra-2025"]}
+Eligibility criteria were prespecified in the accepted Protocol.
+END V1_FACT fact-malhotra-2025-eligibility
+BEGIN V1_FACT fact-malhotra-2025-search {"content_sha256": "ca1d510d64846f8be70ac1838b46c2dff9a17983c2db30c792899da6a88f7cc6", "upstream_artifact_refs": ["source-review-malhotra-2025"]}
+五数据库含 ClinicalTrials.gov，无语言限制，但未搜 grey literature。
+END V1_FACT fact-malhotra-2025-search
+BEGIN V1_FACT fact-malhotra-2025-method-basis {"content_sha256": "3344fce7baf13f3e23e9073a804c881c5b72b1cf04ea47af683c4b64e2dc0f8c", "upstream_artifact_refs": ["accepted-protocol-malhotra-2025", "ec-catalog"]}
+Review 把 recurrent VTE 与 bleeding component counts 相加，两个 trial 均未报告 participant-level composite；且 Review 混合 RR/HR，不能形成 V1 effect estimand。
+END V1_FACT fact-malhotra-2025-method-basis
+BEGIN V1_FACT fact-malhotra-2025-selection {"content_sha256": "515986992e0adca21d42f0673d502bd67ac1a2597bf882450cd7aad0d50f4ccd", "upstream_artifact_refs": ["ec-catalog"]}
+The headline synthesis included 2 studies; other selection-flow counts were not exposed in the curated V1 reference.
+END V1_FACT fact-malhotra-2025-selection
+BEGIN V1_FACT fact-malhotra-2025-studies {"content_sha256": "d3d6dd1f29c11e471b02119209118cce65d75b85fc8321c604edd51902d6329e", "upstream_artifact_refs": ["ec-catalog", "de-request-malhotra-2025"]}
+两项 randomized double-blind trials 比较相同 apixaban 剂量。
+END V1_FACT fact-malhotra-2025-studies
+BEGIN V1_FACT fact-malhotra-2025-outcome {"content_sha256": "d55288cb46046116627c8252f2db7464ed5e0ff1610ec37c4a91817de9fc071f", "upstream_artifact_refs": ["ec-catalog", "de-reference-malhotra-2025"]}
+Review transcription 保存 invalid composite RR=0.79 [0.65,0.96]，仅供 disposition audit。
+END V1_FACT fact-malhotra-2025-outcome
+BEGIN V1_FACT fact-malhotra-2025-synthesis {"content_sha256": "1897f2f3707339ff1cc78061b4e6a410d3daa7e35beba7209b121e4268a14581", "upstream_artifact_refs": ["ec-catalog"]}
+Review transcription 保存 invalid composite RR=0.79 [0.65,0.96]，仅供 disposition audit。
+END V1_FACT fact-malhotra-2025-synthesis
+BEGIN V1_FACT fact-malhotra-2025-risk-of-bias {"content_sha256": "1fc6edd38ed400739eb6e85c41b22ca14e25cd16363cc91ef53a3584cdd41a74", "upstream_artifact_refs": ["ec-catalog"]}
+两项 trial 使用 blinded adjudication。
+END V1_FACT fact-malhotra-2025-risk-of-bias
+BEGIN V1_FACT fact-malhotra-2025-certainty {"content_sha256": "6c62b4f0bd11e742e124b89f4c1485fc5dc5ed79aa71bbbdf5f7138b4c82ce9e", "upstream_artifact_refs": ["ec-gold"]}
+Review 把 recurrent VTE 与 bleeding component sums 组合为 RR，而 primary reports 使用不同 composite/time-to-event estimands；无法核验为同一 participant-level outcome。GRADE 不能对未闭合的 synthesis identity 给出可信等级，因此保留 abstention。
+END V1_FACT fact-malhotra-2025-certainty
+BEGIN V1_FACT fact-malhotra-2025-context {"content_sha256": "f98691a8f771bd7c5e8cf987221c00f7764c97ec53763827cecb6f02a1e9970e", "upstream_artifact_refs": ["ec-catalog"]}
+target 是 extended-phase cancer-associated VTE，两个 trial population 与 dose comparison 直接。
+END V1_FACT fact-malhotra-2025-context
+BEGIN V1_FACT fact-malhotra-2025-limitation {"content_sha256": "05770b70abcb1e0ed41cf16f56352d95930e12caa336da244ea02cd029ede6cb", "upstream_artifact_refs": ["ec-catalog"]}
+Review 把 recurrent VTE 与 bleeding component counts 相加，两个 trial 均未报告 participant-level composite；且 Review 混合 RR/HR，不能形成 V1 effect estimand。
+END V1_FACT fact-malhotra-2025-limitation
+BEGIN DE_CELL eve result.recurrent_vte_or_bleeding.month12 {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The Review row is an arithmetic sum of component event counts rather than a directly reported participant-level composite; abstention is required.","study_key":"eve","target_id":"result.recurrent_vte_or_bleeding.month12","values":null}
+END DE_CELL eve result.recurrent_vte_or_bleeding.month12
+BEGIN DE_EVIDENCE eve result.major_or_crnmb.month12 {"canonical_field": "intervention_events", "document_key": "eve.fulltext", "source_path": "originals/eve-2024/primary.pdf", "source_sha256": "c427862c698dab50ad4f0783bf2a399dab3b2fc1dd689836bdd26c616ec1ff08", "view_sha256": "bee83eeede88a5ee0172b8e3fc79c66672ce0728a0970fd767a9acfeddd79bec"}
+
+F I G U R E 2 Bleeding outcomes. The primary safety outcome was the cumulative incidence of major bleeding plus clinically relevant nonmajor bleeding (A). No differences in combined bleeding outcomes comparing apixaban 2.5 mg twice daily (blue solid line) with apixaban 5 mg twice daily (red dashed line) were identi fi ed. No differences in major bleeding (B) or clinically relevant nonmajor bleeding (C) at 12 months were found between treatment groups. The panel insets show the same data on an expanded y-axis.
+
+[DOCLING_PAGE 8]
+
+MCBANE ET AL.
+
+[DOCLING_TABLE rows=33 columns=5]
+| Outcomes | Apixaban 2.5 mg ( N = 179) | Apixaban 5 mg ( N = 181) a | Hazard ratio (95% CI) | P value |
+| Days on anticoagulants |  |  |  | .31 |
+| Mean | 235 | 243 |  |  |
+| SD | 56.4 | 57.4 |  |  |
+| Median | 215 | 222 |  |  |
+| Range | 39, 365 | 179, 367 |  |  |
+| Primary endpoint, n (%) |  |  |  |  |
+| Major plus CRNMB | 16 (8.9) | 22 (12.2) | 0.72 (0.38-1.37) | .39 |
+| Major bleed | 5 (2.8) | 4 (2.2) | 1.26 (0.34-4.66) | .73 |
+| CRNMB | 12 (6.7) | 18 (9.9) | 0.66 (0.32-1.37) | .26 |
+| Site of major bleeding, n (%) |  |  |  |  |
+| Gastrointestinal | 2 (1.1) | 2 (1.1) |  |  |
+| Genitourinary | 2 (1.1) | 0 (0.0) |  |  |
+| Intracranial | 1 (0.6) | 2 (1.1) |  |  |
+| Fatal | 0 (0.0) | 0 (0.0) |  |  |
+| Site of CRNMB, n (%) |  |  |  |  |
+| Gastrointestinal | 3 (1.7) | 2 (1.1) |  |  |
+| Genitourinary | 2 (1.1) | 7 (3.9) |  |  |
+| Epistaxis | 1 (0.6) | 0 (0.0) |  |  |
+| Hemoptysis | 1 (0.6
+END DE_EVIDENCE eve result.major_or_crnmb.month12
+BEGIN DE_EVIDENCE eve result.major_or_crnmb.month12 {"canonical_field": "intervention_group_size", "document_key": "eve.fulltext", "source_path": "originals/eve-2024/primary.pdf", "source_sha256": "c427862c698dab50ad4f0783bf2a399dab3b2fc1dd689836bdd26c616ec1ff08", "view_sha256": "bee83eeede88a5ee0172b8e3fc79c66672ce0728a0970fd767a9acfeddd79bec"}
+tery embolism.
+
+[DOCLING_PAGE 6]
+
+MCBANE ET AL.
+
+[DOCLING_TABLE rows=35 columns=3]
+| Demographics | Apixaban 2.5 mg ( N = 179) a | Apixaban 5 mg ( N = 181) a |
+| Age, y (SD) | 63.6 (11.0) | 64.3 (10.7) |
+| Female gender, n (%) | 92 (51.4) | 107 (59.1) |
+| Creatinine clearance mL/min, mean (SD) | 91.4 (35.4) | 91.7 (38.0) |
+| BMI, mean (SD) | 29.2 (6.6) | 29.5 (6.8) |
+| Ran
+END DE_EVIDENCE eve result.major_or_crnmb.month12
+BEGIN DE_EVIDENCE eve result.recurrent_vte.month12 {"canonical_field": "intervention_events", "document_key": "eve.fulltext", "source_path": "originals/eve-2024/primary.pdf", "source_sha256": "c427862c698dab50ad4f0783bf2a399dab3b2fc1dd689836bdd26c616ec1ff08", "view_sha256": "bee83eeede88a5ee0172b8e3fc79c66672ce0728a0970fd767a9acfeddd79bec"}
+n 2.5 mg (13%) and 21 patients receiving 5 mg (12%) (HR, 1.14; 95% CI, 0.63-2.04; P = .67; Figure 4). There were no fatal bleeding, venous thromboembolic, or arterial events.
+
+3.4 | Temporary drug interruptions
+
+Over the course of the trial, temporary anticoagulation interruptions were allowed for invasive procedures, severe thrombocytopenia, or acute kidney injury. These temporary interruptions occurred in 131 patients randomized to receive apixaban 2.5 mg and 133 patients randomized to receive apixaban 5 mg (Table 3).
+
+3.2 | Thromboembolism
+
+Over the study period, 9 patients receiving apixaban 2.5 mg (5.0%) and 8 patients receiving apixaban 5 mg (4.4%) experienced a recurrent VTE event (HR, 1.00; 95% CI, 0.40-2.53; P = 1.0; Figure 3). The underlying cancer for these 17 patients was gastrointestinal ( n = 5), renal ( n = 2), lung ( n = 4), uterine ( n = 5), and sarcoma ( n = 1). Among these patients, 2 patients also experienced a CRNMB.
+
+Over the same period, 1 patient (0.6%) from each group experienced an arterial thrombotic event. Both arterial events occurred among patients with uterine cancer. One patient receiving apixaban 2.5 mg suffered a myocardial infarction, and 1 patient receiving apixaban 5 mg had a peripheral artery embolism.
+
+[DOCLING_PAGE 6]
+
+MCBANE ET AL.
+
+[DOCLING_TABLE rows=35 columns=3]
+| Demographics | Apixaban 2.5 mg ( N = 179) a | Apixaban 5 mg ( N = 181) a |
+| Age, y (SD) | 63.6 (11.0) | 64.3 (10.7) |
+| Female gender, n (%) | 92 (51.4) | 107 (59.1) |
+| Creatini
+END DE_EVIDENCE eve result.recurrent_vte.month12
+BEGIN DE_EVIDENCE eve result.recurrent_vte.month12 {"canonical_field": "intervention_group_size", "document_key": "eve.fulltext", "source_path": "originals/eve-2024/primary.pdf", "source_sha256": "c427862c698dab50ad4f0783bf2a399dab3b2fc1dd689836bdd26c616ec1ff08", "view_sha256": "bee83eeede88a5ee0172b8e3fc79c66672ce0728a0970fd767a9acfeddd79bec"}
+tery embolism.
+
+[DOCLING_PAGE 6]
+
+MCBANE ET AL.
+
+[DOCLING_TABLE rows=35 columns=3]
+| Demographics | Apixaban 2.5 mg ( N = 179) a | Apixaban 5 mg ( N = 181) a |
+| Age, y (SD) | 63.6 (11.0) | 64.3 (10.7) |
+| Female gender, n (%) | 92 (51.4) | 107 (59.1) |
+| Creatinine clearance mL/min, mean (SD) | 91.4 (35.4) | 91.7 (38.0) |
+| BMI, mean (SD) | 29.2 (6.6) | 29.5 (6.8) |
+| Ran
+END DE_EVIDENCE eve result.recurrent_vte.month12
+BEGIN DE_EVIDENCE eve result.deep_vein_thrombosis.month12 {"canonical_field": "intervention_events", "document_key": "eve.fulltext", "source_path": "originals/eve-2024/primary.pdf", "source_sha256": "c427862c698dab50ad4f0783bf2a399dab3b2fc1dd689836bdd26c616ec1ff08", "view_sha256": "bee83eeede88a5ee0172b8e3fc79c66672ce0728a0970fd767a9acfeddd79bec"}
+
+F I G U R E 2 Bleeding outcomes. The primary safety outcome was the cumulative incidence of major bleeding plus clinically relevant nonmajor bleeding (A). No differences in combined bleeding outcomes comparing apixaban 2.5 mg twice daily (blue solid line) with apixaban 5 mg twice daily (red dashed line) were identi fi ed. No differences in major bleeding (B) or clinically relevant nonmajor bleeding (C) at 12 months were found between treatment groups. The panel insets show the same data on an expanded y-axis.
+
+[DOCLING_PAGE 8]
+
+MCBANE ET AL.
+
+[DOCLING_TABLE rows=33 columns=5]
+| Outcomes | Apixaban 2.5 mg ( N = 179) | Apixaban 5 mg ( N = 181) a | Hazard ratio (95% CI) | P value |
+| Days on anticoagulants |  |  |  | .31 |
+| Mean | 235 | 243 |  |  |
+| SD | 56.4 | 57.4 |  |  |
+| Median | 215 | 222 |  |  |
+| Range | 39, 365 | 179, 367 |  |  |
+| Primary endpoint, n (%) |  |  |  |  |
+| Major plus CRNMB | 16 (8.9) | 22 (12.2) | 0.72 (0.38-1.37) | .39 |
+| Major bleed | 5 (2.8) | 4 (2.2) | 1.26 (0.34-4.66) | .73 |
+| CRNMB | 12 (6.7) | 18 (9.9) | 0.66 (0.32-1.37) | .26 |
+| Site of major bleeding, n (%) |  |  |  |  |
+| Gastrointestinal | 2 (1.1) | 2 (1.1) |  |  |
+| Genitourinary | 2 (1.1) | 0 (0.0) |  |  |
+| Intracranial | 1 (0.6) | 2 (1.1) |  |  |
+| Fatal | 0 (0.0) | 0 (0.0) |  |  |
+| Site of CRNMB, n (%) |  |  |  |  |
+| Gastrointestinal | 3 (1.7) | 2 (1.1) |  |  |
+| Genitourinary | 2 (1.1) | 7 (3.9) |  |  |
+| Epistaxis | 1 (0.6) | 0 (0.0) |  |  |
+| Hemoptysis | 1 (0.6
+END DE_EVIDENCE eve result.deep_vein_thrombosis.month12
+BEGIN DE_EVIDENCE eve result.deep_vein_thrombosis.month12 {"canonical_field": "intervention_group_size", "document_key": "eve.fulltext", "source_path": "originals/eve-2024/primary.pdf", "source_sha256": "c427862c698dab50ad4f0783bf2a399dab3b2fc1dd689836bdd26c616ec1ff08", "view_sha256": "bee83eeede88a5ee0172b8e3fc79c66672ce0728a0970fd767a9acfeddd79bec"}
+tery embolism.
+
+[DOCLING_PAGE 6]
+
+MCBANE ET AL.
+
+[DOCLING_TABLE rows=35 columns=3]
+| Demographics | Apixaban 2.5 mg ( N = 179) a | Apixaban 5 mg ( N = 181) a |
+| Age, y (SD) | 63.6 (11.0) | 64.3 (10.7) |
+| Female gender, n (%) | 92 (51.4) | 107 (59.1) |
+| Creatinine clearance mL/min, mean (SD) | 91.4 (35.4) | 91.7 (38.0) |
+| BMI, mean (SD) | 29.2 (6.6) | 29.5 (6.8) |
+| Ran
+END DE_EVIDENCE eve result.deep_vein_thrombosis.month12
+BEGIN DE_EVIDENCE eve result.pulmonary_embolism.month12 {"canonical_field": "intervention_events", "document_key": "eve.fulltext", "source_path": "originals/eve-2024/primary.pdf", "source_sha256": "c427862c698dab50ad4f0783bf2a399dab3b2fc1dd689836bdd26c616ec1ff08", "view_sha256": "bee83eeede88a5ee0172b8e3fc79c66672ce0728a0970fd767a9acfeddd79bec"}
+
+F I G U R E 2 Bleeding outcomes. The primary safety outcome was the cumulative incidence of major bleeding plus clinically relevant nonmajor bleeding (A). No differences in combined bleeding outcomes comparing apixaban 2.5 mg twice daily (blue solid line) with apixaban 5 mg twice daily (red dashed line) were identi fi ed. No differences in major bleeding (B) or clinically relevant nonmajor bleeding (C) at 12 months were found between treatment groups. The panel insets show the same data on an expanded y-axis.
+
+[DOCLING_PAGE 8]
+
+MCBANE ET AL.
+
+[DOCLING_TABLE rows=33 columns=5]
+| Outcomes | Apixaban 2.5 mg ( N = 179) | Apixaban 5 mg ( N = 181) a | Hazard ratio (95% CI) | P value |
+| Days on anticoagulants |  |  |  | .31 |
+| Mean | 235 | 243 |  |  |
+| SD | 56.4 | 57.4 |  |  |
+| Median | 215 | 222 |  |  |
+| Range | 39, 365 | 179, 367 |  |  |
+| Primary endpoint, n (%) |  |  |  |  |
+| Major plus CRNMB | 16 (8.9) | 22 (12.2) | 0.72 (0.38-1.37) | .39 |
+| Major bleed | 5 (2.8) | 4 (2.2) | 1.26 (0.34-4.66) | .73 |
+| CRNMB | 12 (6.7) | 18 (9.9) | 0.66 (0.32-1.37) | .26 |
+| Site of major bleeding, n (%) |  |  |  |  |
+| Gastrointestinal | 2 (1.1) | 2 (1.1) |  |  |
+| Genitourinary | 2 (1.1) | 0 (0.0) |  |  |
+| Intracranial | 1 (0.6) | 2 (1.1) |  |  |
+| Fatal | 0 (0.0) | 0 (0.0) |  |  |
+| Site of CRNMB, n (%) |  |  |  |  |
+| Gastrointestinal | 3 (1.7) | 2 (1.1) |  |  |
+| Genitourinary | 2 (1.1) | 7 (3.9) |  |  |
+| Epistaxis | 1 (0.6) | 0 (0.0) |  |  |
+| Hemoptysis | 1 (0.6
+END DE_EVIDENCE eve result.pulmonary_embolism.month12
+BEGIN DE_EVIDENCE eve result.pulmonary_embolism.month12 {"canonical_field": "intervention_group_size", "document_key": "eve.fulltext", "source_path": "originals/eve-2024/primary.pdf", "source_sha256": "c427862c698dab50ad4f0783bf2a399dab3b2fc1dd689836bdd26c616ec1ff08", "view_sha256": "bee83eeede88a5ee0172b8e3fc79c66672ce0728a0970fd767a9acfeddd79bec"}
+tery embolism.
+
+[DOCLING_PAGE 6]
+
+MCBANE ET AL.
+
+[DOCLING_TABLE rows=35 columns=3]
+| Demographics | Apixaban 2.5 mg ( N = 179) a | Apixaban 5 mg ( N = 181) a |
+| Age, y (SD) | 63.6 (11.0) | 64.3 (10.7) |
+| Female gender, n (%) | 92 (51.4) | 107 (59.1) |
+| Creatinine clearance mL/min, mean (SD) | 91.4 (35.4) | 91.7 (38.0) |
+| BMI, mean (SD) | 29.2 (6.6) | 29.5 (6.8) |
+| Ran
+END DE_EVIDENCE eve result.pulmonary_embolism.month12
+BEGIN DE_EVIDENCE eve result.major_bleeding.month12 {"canonical_field": "intervention_events", "document_key": "eve.fulltext", "source_path": "originals/eve-2024/primary.pdf", "source_sha256": "c427862c698dab50ad4f0783bf2a399dab3b2fc1dd689836bdd26c616ec1ff08", "view_sha256": "bee83eeede88a5ee0172b8e3fc79c66672ce0728a0970fd767a9acfeddd79bec"}
+
+F I G U R E 2 Bleeding outcomes. The primary safety outcome was the cumulative incidence of major bleeding plus clinically relevant nonmajor bleeding (A). No differences in combined bleeding outcomes comparing apixaban 2.5 mg twice daily (blue solid line) with apixaban 5 mg twice daily (red dashed line) were identi fi ed. No differences in major bleeding (B) or clinically relevant nonmajor bleeding (C) at 12 months were found between treatment groups. The panel insets show the same data on an expanded y-axis.
+
+[DOCLING_PAGE 8]
+
+MCBANE ET AL.
+
+[DOCLING_TABLE rows=33 columns=5]
+| Outcomes | Apixaban 2.5 mg ( N = 179) | Apixaban 5 mg ( N = 181) a | Hazard ratio (95% CI) | P value |
+| Days on anticoagulants |  |  |  | .31 |
+| Mean | 235 | 243 |  |  |
+| SD | 56.4 | 57.4 |  |  |
+| Median | 215 | 222 |  |  |
+| Range | 39, 365 | 179, 367 |  |  |
+| Primary endpoint, n (%) |  |  |  |  |
+| Major plus CRNMB | 16 (8.9) | 22 (12.2) | 0.72 (0.38-1.37) | .39 |
+| Major bleed | 5 (2.8) | 4 (2.2) | 1.26 (0.34-4.66) | .73 |
+| CRNMB | 12 (6.7) | 18 (9.9) | 0.66 (0.32-1.37) | .26 |
+| Site of major bleeding, n (%) |  |  |  |  |
+| Gastrointestinal | 2 (1.1) | 2 (1.1) |  |  |
+| Genitourinary | 2 (1.1) | 0 (0.0) |  |  |
+| Intracranial | 1 (0.6) | 2 (1.1) |  |  |
+| Fatal | 0 (0.0) | 0 (0.0) |  |  |
+| Site of CRNMB, n (%) |  |  |  |  |
+| Gastrointestinal | 3 (1.7) | 2 (1.1) |  |  |
+| Genitourinary | 2 (1.1) | 7 (3.9) |  |  |
+| Epistaxis | 1 (0.6) | 0 (0.0) |  |  |
+| Hemoptysis | 1 (0.6
+END DE_EVIDENCE eve result.major_bleeding.month12
+BEGIN DE_EVIDENCE eve result.major_bleeding.month12 {"canonical_field": "intervention_group_size", "document_key": "eve.fulltext", "source_path": "originals/eve-2024/primary.pdf", "source_sha256": "c427862c698dab50ad4f0783bf2a399dab3b2fc1dd689836bdd26c616ec1ff08", "view_sha256": "bee83eeede88a5ee0172b8e3fc79c66672ce0728a0970fd767a9acfeddd79bec"}
+tery embolism.
+
+[DOCLING_PAGE 6]
+
+MCBANE ET AL.
+
+[DOCLING_TABLE rows=35 columns=3]
+| Demographics | Apixaban 2.5 mg ( N = 179) a | Apixaban 5 mg ( N = 181) a |
+| Age, y (SD) | 63.6 (11.0) | 64.3 (10.7) |
+| Female gender, n (%) | 92 (51.4) | 107 (59.1) |
+| Creatinine clearance mL/min, mean (SD) | 91.4 (35.4) | 91.7 (38.0) |
+| BMI, mean (SD) | 29.2 (6.6) | 29.5 (6.8) |
+| Ran
+END DE_EVIDENCE eve result.major_bleeding.month12
+BEGIN DE_EVIDENCE eve result.crnmb.month12 {"canonical_field": "intervention_events", "document_key": "eve.fulltext", "source_path": "originals/eve-2024/primary.pdf", "source_sha256": "c427862c698dab50ad4f0783bf2a399dab3b2fc1dd689836bdd26c616ec1ff08", "view_sha256": "bee83eeede88a5ee0172b8e3fc79c66672ce0728a0970fd767a9acfeddd79bec"}
+
+F I G U R E 2 Bleeding outcomes. The primary safety outcome was the cumulative incidence of major bleeding plus clinically relevant nonmajor bleeding (A). No differences in combined bleeding outcomes comparing apixaban 2.5 mg twice daily (blue solid line) with apixaban 5 mg twice daily (red dashed line) were identi fi ed. No differences in major bleeding (B) or clinically relevant nonmajor bleeding (C) at 12 months were found between treatment groups. The panel insets show the same data on an expanded y-axis.
+
+[DOCLING_PAGE 8]
+
+MCBANE ET AL.
+
+[DOCLING_TABLE rows=33 columns=5]
+| Outcomes | Apixaban 2.5 mg ( N = 179) | Apixaban 5 mg ( N = 181) a | Hazard ratio (95% CI) | P value |
+| Days on anticoagulants |  |  |  | .31 |
+| Mean | 235 | 243 |  |  |
+| SD | 56.4 | 57.4 |  |  |
+| Median | 215 | 222 |  |  |
+| Range | 39, 365 | 179, 367 |  |  |
+| Primary endpoint, n (%) |  |  |  |  |
+| Major plus CRNMB | 16 (8.9) | 22 (12.2) | 0.72 (0.38-1.37) | .39 |
+| Major bleed | 5 (2.8) | 4 (2.2) | 1.26 (0.34-4.66) | .73 |
+| CRNMB | 12 (6.7) | 18 (9.9) | 0.66 (0.32-1.37) | .26 |
+| Site of major bleeding, n (%) |  |  |  |  |
+| Gastrointestinal | 2 (1.1) | 2 (1.1) |  |  |
+| Genitourinary | 2 (1.1) | 0 (0.0) |  |  |
+| Intracranial | 1 (0.6) | 2 (1.1) |  |  |
+| Fatal | 0 (0.0) | 0 (0.0) |  |  |
+| Site of CRNMB, n (%) |  |  |  |  |
+| Gastrointestinal | 3 (1.7) | 2 (1.1) |  |  |
+| Genitourinary | 2 (1.1) | 7 (3.9) |  |  |
+| Epistaxis | 1 (0.6) | 0 (0.0) |  |  |
+| Hemoptysis | 1 (0.6
+END DE_EVIDENCE eve result.crnmb.month12
+BEGIN DE_EVIDENCE eve result.crnmb.month12 {"canonical_field": "intervention_group_size", "document_key": "eve.fulltext", "source_path": "originals/eve-2024/primary.pdf", "source_sha256": "c427862c698dab50ad4f0783bf2a399dab3b2fc1dd689836bdd26c616ec1ff08", "view_sha256": "bee83eeede88a5ee0172b8e3fc79c66672ce0728a0970fd767a9acfeddd79bec"}
+tery embolism.
+
+[DOCLING_PAGE 6]
+
+MCBANE ET AL.
+
+[DOCLING_TABLE rows=35 columns=3]
+| Demographics | Apixaban 2.5 mg ( N = 179) a | Apixaban 5 mg ( N = 181) a |
+| Age, y (SD) | 63.6 (11.0) | 64.3 (10.7) |
+| Female gender, n (%) | 92 (51.4) | 107 (59.1) |
+| Creatinine clearance mL/min, mean (SD) | 91.4 (35.4) | 91.7 (38.0) |
+| BMI, mean (SD) | 29.2 (6.6) | 29.5 (6.8) |
+| Ran
+END DE_EVIDENCE eve result.crnmb.month12
+BEGIN DE_EVIDENCE eve result.all_cause_mortality.month12 {"canonical_field": "intervention_events", "document_key": "eve.fulltext", "source_path": "originals/eve-2024/primary.pdf", "source_sha256": "c427862c698dab50ad4f0783bf2a399dab3b2fc1dd689836bdd26c616ec1ff08", "view_sha256": "bee83eeede88a5ee0172b8e3fc79c66672ce0728a0970fd767a9acfeddd79bec"}
+.
+
+[DOCLING_PAGE 5]
+
+MCBANE ET AL.
+
+F I G U R E 1 Consort diagram. The intention-to-treat analysis included all the patients who had undergone randomization and received at least 1 dose of the assigned treatment.
+
+1708
+
+-
+
+The difference in proportions of patients who experienced the primary endpoint within the 6 months of beginning the treatment was not statistically signi fi cant ( P = .83). The estimated odds ratio was 0.83 (95% CI, 0.31-2.17).
+
+Combined arterial and venous thrombotic event rates did not differ between groups.
+
+3.3 | Death
+
+Forty- fi ve deaths occurred over the 12-month treatment period: 24 patients receiving apixaban 2.5 mg (13%) and 21 patients receiving 5 mg (12%) (HR, 1.14; 95% CI, 0.63-2.04; P = .67; Figure 4). There were no fatal bleeding, venous thromboembolic, or arterial events.
+
+3.4 | Temporary drug interruptions
+
+Over the course of the trial, temporary anticoagulation interruptions were allowed for invasive procedures, severe thrombocytopenia, or acute kidney injury. These temporary interruptions occurred in 131 patients randomized to receive apixaban 2.5 mg and 133 patients randomized to receive apixaban 5 mg (Table 3).
+
+3.2 | Thromboembolism
+
+Over the study period, 9 patients receiving apixaban 2.5 mg (5.0%) and 8 patients receiving apixaban 5 mg (4.4%) experienced a recurrent VTE event (HR, 1.00; 95% CI, 0.40-2.53; P = 1.0; Figure 3). The underlying cancer for these 17 patients was gastrointestinal ( n = 5), renal ( n = 2), lung ( n = 4), uterine ( n = 5)
+END DE_EVIDENCE eve result.all_cause_mortality.month12
+BEGIN DE_EVIDENCE eve result.all_cause_mortality.month12 {"canonical_field": "intervention_group_size", "document_key": "eve.fulltext", "source_path": "originals/eve-2024/primary.pdf", "source_sha256": "c427862c698dab50ad4f0783bf2a399dab3b2fc1dd689836bdd26c616ec1ff08", "view_sha256": "bee83eeede88a5ee0172b8e3fc79c66672ce0728a0970fd767a9acfeddd79bec"}
+tery embolism.
+
+[DOCLING_PAGE 6]
+
+MCBANE ET AL.
+
+[DOCLING_TABLE rows=35 columns=3]
+| Demographics | Apixaban 2.5 mg ( N = 179) a | Apixaban 5 mg ( N = 181) a |
+| Age, y (SD) | 63.6 (11.0) | 64.3 (10.7) |
+| Female gender, n (%) | 92 (51.4) | 107 (59.1) |
+| Creatinine clearance mL/min, mean (SD) | 91.4 (35.4) | 91.7 (38.0) |
+| BMI, mean (SD) | 29.2 (6.6) | 29.5 (6.8) |
+| Ran
+END DE_EVIDENCE eve result.all_cause_mortality.month12
+BEGIN DE_CELL api_cat result.recurrent_vte_or_bleeding.month12 {"reference_schema_version": "3.1.0"}
+{"accuracy_evaluation":"SCOREABLE","evidence":[],"reason":"The Review row is an arithmetic sum of component event counts rather than a directly reported participant-level composite; abstention is required.","study_key":"api_cat","target_id":"result.recurrent_vte_or_bleeding.month12","values":null}
+END DE_CELL api_cat result.recurrent_vte_or_bleeding.month12
+BEGIN DE_EVIDENCE api_cat result.major_or_crnmb.month12 {"canonical_field": "intervention_events", "document_key": "api_cat.fulltext", "source_path": "originals/api-cat-2025/primary.pdf", "source_sha256": "7f692f32661d0d5dd40ecbb4223e6413e21017dfa3446127f45f1a3091cc35d4", "view_sha256": "03efd15143d2ffb859d01339da1a9620b87691447c4dabfee8966ed4e418f598"}
+.0) | 18 (2.1) | 0.97 (0.50-1.88) | - |
+| Lower-limb deep-vein thrombosis‡ | 8 (0.9) | 6 (0.7) | - |  |
+| Pulmonary embolism | 9 (1.1) | 10 (1.2) | - |  |
+| Fatal pulmonary embolism | 0 | 0 | - |  |
+| Unexplained sudden death§ | 3 (0.4) | 2 (0.3) | - |  |
+| Upper-limb deep-vein thrombosis | 1 (0.1) | 3 (0.4) | - |  |
+| Central venous catheter-related thrombosis | 1 (0.1) | 2 (0.2) | - |  |
+| Incidental venous thromboembolism¶ | 1 (0.1) | 6 (0.7) | - |  |
+| Recurrent major venous thromboembolism‖ | 17 (2.0) | 21 (2.4) | 0.83 (0.44-1.57) | - |
+| Key secondary safety outcome: major or clinically relevant non- major bleeding** | 102 (12.1) | 136 (15.6) | 0.75 (0.58-0.97) | 0.03 |
+| Major bleeding | 24 (2.9) | 37 (4.3) | 0.66 (0.40-1.10) | - |
+| Fatal bleeding | 2 (0.2) | 2 (0.2) | - |  |
+| Major gastrointestinal bleeding | 12 (1.4) | 25 (2.9) | - |  |
+| Upper gastrointestinal bleeding | 6 (0.7) | 13 (1.5) | - |  |
+| Lower gastrointestinal bleeding | 7 (0.8) | 13 (1.5) | - |  |
+| Clinically relevant nonmajor bleeding | 84 (10.0) | 107 (12.3) | 0.79 (0.59-1.05) |  |
+| Other secondary outcomes |  |  |  |  |
+| Death from any cause | 148 (17.7) | 168 (19.6) | 0.96 (0.86-1.06) | - |
+| Recurrent symptomatic venous thromboembolism, major bleeding, or death from any cause†† | 167 (19.9) | 191 (22.1) | 0.96 (0.87-1.07) | - |
+| Major venous thromboembolism or major bleeding‡‡ | 41 (5.2) | 55 (6.8) | 0.96 (0.87-1.06) | - |
+[/DOCLING_TABLE]
+
+ Percentages are the cumulative incidence and thus may not calc
+END DE_EVIDENCE api_cat result.major_or_crnmb.month12
+BEGIN DE_EVIDENCE api_cat result.major_or_crnmb.month12 {"canonical_field": "intervention_group_size", "document_key": "api_cat.fulltext", "source_path": "originals/api-cat-2025/primary.pdf", "source_sha256": "7f692f32661d0d5dd40ecbb4223e6413e21017dfa3446127f45f1a3091cc35d4", "view_sha256": "03efd15143d2ffb859d01339da1a9620b87691447c4dabfee8966ed4e418f598"}
+the Patients at Baseline (Intention-to-Treat Population).* |
+| Characteristic | Reduced-Dose Apixaban (N = 866) | Full-Dose Apixaban (N = 900) |
+| Age - yr | 67.2±11.0 | 67.7±11.4 |
+| Male sex - no. (%) | 375 (43.3) | 391 (43.4) |
+| Body weight - kg | 75.7±16.3 | 75.7±16.4 |
+| Body-mass index† | 27.0±5.3 | 27.0±5.4 |
+| Platelet count <100,000/mm 3 - no./total no. (%) |
+END DE_EVIDENCE api_cat result.major_or_crnmb.month12
+BEGIN DE_EVIDENCE api_cat result.recurrent_vte.month12 {"canonical_field": "intervention_events", "document_key": "api_cat.fulltext", "source_path": "originals/api-cat-2025/primary.pdf", "source_sha256": "7f692f32661d0d5dd40ecbb4223e6413e21017dfa3446127f45f1a3091cc35d4", "view_sha256": "03efd15143d2ffb859d01339da1a9620b87691447c4dabfee8966ed4e418f598"}
+26, 2026.
+
+1369
+
+[DOCLING_PAGE 8]
+
+The new england journal o f medicine
+
+[DOCLING_TABLE rows=24 columns=5]
+| Table 2. Clinical Outcomes during the Trial Period.* | Table 2. Clinical Outcomes during the Trial Period.* | Table 2. Clinical Outcomes during the Trial Period.* | Table 2. Clinical Outcomes during the Trial Period.* | Table 2. Clinical Outcomes during the Trial Period.* |
+| Outcome | Reduced-Dose Apixaban (N = 866) | Full-Dose Apixaban (N = 900) | Treatment Effect (95% CI) | P Value |
+|  | number (percent) | number (percent) |  |  |
+| Primary efficacy outcome: recurrent venous thromboembolism† | 18 (2.1) | 24 (2.8) | 0.76 (0.41-1.41) | 0.001 |
+| Recurrent symptomatic venous thromboembolism | 17 (2.0) | 18 (2.1) | 0.97 (0.50-1.88) | - |
+| Lower-limb deep-vein thrombosis‡ | 8 (0.9) | 6 (0.7) | - |  |
+| Pulmonary embolism | 9 (1.1) | 10 (1.2) | - |  |
+| Fatal pulmonary embolism | 0 | 0 | - |  |
+| Unexplained sudden death§ | 3 (0.4) | 2 (0.3) | - |  |
+| Upper-limb deep-vein thrombosis | 1 (0.1) | 3 (0.4) | - |  |
+| Central venous catheter-related thrombosis | 1 (0.1) | 2 (0.2) | - |  |
+| Incidental venous thromboembolism¶ | 1 (0.1) | 6 (0.7) | - |  |
+| Recurrent major venous thromboembolism‖ | 17 (2.0) | 21 (2.4) | 0.83 (0.44-1.57) | - |
+| Key secondary safety outcome: major or clinically relevant non- major bleeding** | 102 (12.1) | 136 (15.6) | 0.75 (0.58-0.97) | 0.03 |
+| Major bleeding | 24 (2.9) | 37 (4.3) | 0.66 (0.40-1.10) | - |
+| Fatal bleeding | 2 (0.2) | 2 (0.2) | - |  
+END DE_EVIDENCE api_cat result.recurrent_vte.month12
+BEGIN DE_EVIDENCE api_cat result.recurrent_vte.month12 {"canonical_field": "intervention_group_size", "document_key": "api_cat.fulltext", "source_path": "originals/api-cat-2025/primary.pdf", "source_sha256": "7f692f32661d0d5dd40ecbb4223e6413e21017dfa3446127f45f1a3091cc35d4", "view_sha256": "03efd15143d2ffb859d01339da1a9620b87691447c4dabfee8966ed4e418f598"}
+the Patients at Baseline (Intention-to-Treat Population).* |
+| Characteristic | Reduced-Dose Apixaban (N = 866) | Full-Dose Apixaban (N = 900) |
+| Age - yr | 67.2±11.0 | 67.7±11.4 |
+| Male sex - no. (%) | 375 (43.3) | 391 (43.4) |
+| Body weight - kg | 75.7±16.3 | 75.7±16.4 |
+| Body-mass index† | 27.0±5.3 | 27.0±5.4 |
+| Platelet count <100,000/mm 3 - no./total no. (%) |
+END DE_EVIDENCE api_cat result.recurrent_vte.month12
+BEGIN DE_EVIDENCE api_cat result.deep_vein_thrombosis.month12 {"canonical_field": "intervention_events", "document_key": "api_cat.fulltext", "source_path": "originals/api-cat-2025/primary.pdf", "source_sha256": "7f692f32661d0d5dd40ecbb4223e6413e21017dfa3446127f45f1a3091cc35d4", "view_sha256": "03efd15143d2ffb859d01339da1a9620b87691447c4dabfee8966ed4e418f598"}
+ Period.* | Table 2. Clinical Outcomes during the Trial Period.* | Table 2. Clinical Outcomes during the Trial Period.* | Table 2. Clinical Outcomes during the Trial Period.* |
+| Outcome | Reduced-Dose Apixaban (N = 866) | Full-Dose Apixaban (N = 900) | Treatment Effect (95% CI) | P Value |
+|  | number (percent) | number (percent) |  |  |
+| Primary efficacy outcome: recurrent venous thromboembolism† | 18 (2.1) | 24 (2.8) | 0.76 (0.41-1.41) | 0.001 |
+| Recurrent symptomatic venous thromboembolism | 17 (2.0) | 18 (2.1) | 0.97 (0.50-1.88) | - |
+| Lower-limb deep-vein thrombosis‡ | 8 (0.9) | 6 (0.7) | - |  |
+| Pulmonary embolism | 9 (1.1) | 10 (1.2) | - |  |
+| Fatal pulmonary embolism | 0 | 0 | - |  |
+| Unexplained sudden death§ | 3 (0.4) | 2 (0.3) | - |  |
+| Upper-limb deep-vein thrombosis | 1 (0.1) | 3 (0.4) | - |  |
+| Central venous catheter-related thrombosis | 1 (0.1) | 2 (0.2) | - |  |
+| Incidental venous thromboembolism¶ | 1 (0.1) | 6 (0.7) | - |  |
+| Recurrent major venous thromboembolism‖ | 17 (2.0) | 21 (2.4) | 0.83 (0.44-1.57) | - |
+| Key secondary safety outcome: major or clinically relevant non- major bleeding** | 102 (12.1) | 136 (15.6) | 0.75 (0.58-0.97) | 0.03 |
+| Major bleeding | 24 (2.9) | 37 (4.3) | 0.66 (0.40-1.10) | - |
+| Fatal bleeding | 2 (0.2) | 2 (0.2) | - |  |
+| Major gastrointestinal bleeding | 12 (1.4) | 25 (2.9) | - |  |
+| Upper gastrointestinal bleeding | 6 (0.7) | 13 (1.5) | - |  |
+| Lower gastrointestinal bleeding | 7 (0.8) | 13 
+END DE_EVIDENCE api_cat result.deep_vein_thrombosis.month12
+BEGIN DE_EVIDENCE api_cat result.deep_vein_thrombosis.month12 {"canonical_field": "intervention_group_size", "document_key": "api_cat.fulltext", "source_path": "originals/api-cat-2025/primary.pdf", "source_sha256": "7f692f32661d0d5dd40ecbb4223e6413e21017dfa3446127f45f1a3091cc35d4", "view_sha256": "03efd15143d2ffb859d01339da1a9620b87691447c4dabfee8966ed4e418f598"}
+the Patients at Baseline (Intention-to-Treat Population).* |
+| Characteristic | Reduced-Dose Apixaban (N = 866) | Full-Dose Apixaban (N = 900) |
+| Age - yr | 67.2±11.0 | 67.7±11.4 |
+| Male sex - no. (%) | 375 (43.3) | 391 (43.4) |
+| Body weight - kg | 75.7±16.3 | 75.7±16.4 |
+| Body-mass index† | 27.0±5.3 | 27.0±5.4 |
+| Platelet count <100,000/mm 3 - no./total no. (%) |
+END DE_EVIDENCE api_cat result.deep_vein_thrombosis.month12
+BEGIN DE_EVIDENCE api_cat result.pulmonary_embolism.month12 {"canonical_field": "intervention_events", "document_key": "api_cat.fulltext", "source_path": "originals/api-cat-2025/primary.pdf", "source_sha256": "7f692f32661d0d5dd40ecbb4223e6413e21017dfa3446127f45f1a3091cc35d4", "view_sha256": "03efd15143d2ffb859d01339da1a9620b87691447c4dabfee8966ed4e418f598"}
+.* | Table 2. Clinical Outcomes during the Trial Period.* | Table 2. Clinical Outcomes during the Trial Period.* |
+| Outcome | Reduced-Dose Apixaban (N = 866) | Full-Dose Apixaban (N = 900) | Treatment Effect (95% CI) | P Value |
+|  | number (percent) | number (percent) |  |  |
+| Primary efficacy outcome: recurrent venous thromboembolism† | 18 (2.1) | 24 (2.8) | 0.76 (0.41-1.41) | 0.001 |
+| Recurrent symptomatic venous thromboembolism | 17 (2.0) | 18 (2.1) | 0.97 (0.50-1.88) | - |
+| Lower-limb deep-vein thrombosis‡ | 8 (0.9) | 6 (0.7) | - |  |
+| Pulmonary embolism | 9 (1.1) | 10 (1.2) | - |  |
+| Fatal pulmonary embolism | 0 | 0 | - |  |
+| Unexplained sudden death§ | 3 (0.4) | 2 (0.3) | - |  |
+| Upper-limb deep-vein thrombosis | 1 (0.1) | 3 (0.4) | - |  |
+| Central venous catheter-related thrombosis | 1 (0.1) | 2 (0.2) | - |  |
+| Incidental venous thromboembolism¶ | 1 (0.1) | 6 (0.7) | - |  |
+| Recurrent major venous thromboembolism‖ | 17 (2.0) | 21 (2.4) | 0.83 (0.44-1.57) | - |
+| Key secondary safety outcome: major or clinically relevant non- major bleeding** | 102 (12.1) | 136 (15.6) | 0.75 (0.58-0.97) | 0.03 |
+| Major bleeding | 24 (2.9) | 37 (4.3) | 0.66 (0.40-1.10) | - |
+| Fatal bleeding | 2 (0.2) | 2 (0.2) | - |  |
+| Major gastrointestinal bleeding | 12 (1.4) | 25 (2.9) | - |  |
+| Upper gastrointestinal bleeding | 6 (0.7) | 13 (1.5) | - |  |
+| Lower gastrointestinal bleeding | 7 (0.8) | 13 (1.5) | - |  |
+| Clinically relevant nonmajor bleeding | 84 (10.0) | 107 (
+END DE_EVIDENCE api_cat result.pulmonary_embolism.month12
+BEGIN DE_EVIDENCE api_cat result.pulmonary_embolism.month12 {"canonical_field": "intervention_group_size", "document_key": "api_cat.fulltext", "source_path": "originals/api-cat-2025/primary.pdf", "source_sha256": "7f692f32661d0d5dd40ecbb4223e6413e21017dfa3446127f45f1a3091cc35d4", "view_sha256": "03efd15143d2ffb859d01339da1a9620b87691447c4dabfee8966ed4e418f598"}
+the Patients at Baseline (Intention-to-Treat Population).* |
+| Characteristic | Reduced-Dose Apixaban (N = 866) | Full-Dose Apixaban (N = 900) |
+| Age - yr | 67.2±11.0 | 67.7±11.4 |
+| Male sex - no. (%) | 375 (43.3) | 391 (43.4) |
+| Body weight - kg | 75.7±16.3 | 75.7±16.4 |
+| Body-mass index† | 27.0±5.3 | 27.0±5.4 |
+| Platelet count <100,000/mm 3 - no./total no. (%) |
+END DE_EVIDENCE api_cat result.pulmonary_embolism.month12
+BEGIN DE_EVIDENCE api_cat result.major_bleeding.month12 {"canonical_field": "intervention_events", "document_key": "api_cat.fulltext", "source_path": "originals/api-cat-2025/primary.pdf", "source_sha256": "7f692f32661d0d5dd40ecbb4223e6413e21017dfa3446127f45f1a3091cc35d4", "view_sha256": "03efd15143d2ffb859d01339da1a9620b87691447c4dabfee8966ed4e418f598"}
+| 10 (1.2) | - |  |
+| Fatal pulmonary embolism | 0 | 0 | - |  |
+| Unexplained sudden death§ | 3 (0.4) | 2 (0.3) | - |  |
+| Upper-limb deep-vein thrombosis | 1 (0.1) | 3 (0.4) | - |  |
+| Central venous catheter-related thrombosis | 1 (0.1) | 2 (0.2) | - |  |
+| Incidental venous thromboembolism¶ | 1 (0.1) | 6 (0.7) | - |  |
+| Recurrent major venous thromboembolism‖ | 17 (2.0) | 21 (2.4) | 0.83 (0.44-1.57) | - |
+| Key secondary safety outcome: major or clinically relevant non- major bleeding** | 102 (12.1) | 136 (15.6) | 0.75 (0.58-0.97) | 0.03 |
+| Major bleeding | 24 (2.9) | 37 (4.3) | 0.66 (0.40-1.10) | - |
+| Fatal bleeding | 2 (0.2) | 2 (0.2) | - |  |
+| Major gastrointestinal bleeding | 12 (1.4) | 25 (2.9) | - |  |
+| Upper gastrointestinal bleeding | 6 (0.7) | 13 (1.5) | - |  |
+| Lower gastrointestinal bleeding | 7 (0.8) | 13 (1.5) | - |  |
+| Clinically relevant nonmajor bleeding | 84 (10.0) | 107 (12.3) | 0.79 (0.59-1.05) |  |
+| Other secondary outcomes |  |  |  |  |
+| Death from any cause | 148 (17.7) | 168 (19.6) | 0.96 (0.86-1.06) | - |
+| Recurrent symptomatic venous thromboembolism, major bleeding, or death from any cause†† | 167 (19.9) | 191 (22.1) | 0.96 (0.87-1.07) | - |
+| Major venous thromboembolism or major bleeding‡‡ | 41 (5.2) | 55 (6.8) | 0.96 (0.87-1.06) | - |
+[/DOCLING_TABLE]
+
+ Percentages are the cumulative incidence and thus may not calculate as expected. The treatment effect was estimated as the subdistribution hazard ratio (subhazard ratio) with
+END DE_EVIDENCE api_cat result.major_bleeding.month12
+BEGIN DE_EVIDENCE api_cat result.major_bleeding.month12 {"canonical_field": "intervention_group_size", "document_key": "api_cat.fulltext", "source_path": "originals/api-cat-2025/primary.pdf", "source_sha256": "7f692f32661d0d5dd40ecbb4223e6413e21017dfa3446127f45f1a3091cc35d4", "view_sha256": "03efd15143d2ffb859d01339da1a9620b87691447c4dabfee8966ed4e418f598"}
+the Patients at Baseline (Intention-to-Treat Population).* |
+| Characteristic | Reduced-Dose Apixaban (N = 866) | Full-Dose Apixaban (N = 900) |
+| Age - yr | 67.2±11.0 | 67.7±11.4 |
+| Male sex - no. (%) | 375 (43.3) | 391 (43.4) |
+| Body weight - kg | 75.7±16.3 | 75.7±16.4 |
+| Body-mass index† | 27.0±5.3 | 27.0±5.4 |
+| Platelet count <100,000/mm 3 - no./total no. (%) |
+END DE_EVIDENCE api_cat result.major_bleeding.month12
+BEGIN DE_EVIDENCE api_cat result.crnmb.month12 {"canonical_field": "intervention_events", "document_key": "api_cat.fulltext", "source_path": "originals/api-cat-2025/primary.pdf", "source_sha256": "7f692f32661d0d5dd40ecbb4223e6413e21017dfa3446127f45f1a3091cc35d4", "view_sha256": "03efd15143d2ffb859d01339da1a9620b87691447c4dabfee8966ed4e418f598"}
+) | 6 (0.7) | - |  |
+| Recurrent major venous thromboembolism‖ | 17 (2.0) | 21 (2.4) | 0.83 (0.44-1.57) | - |
+| Key secondary safety outcome: major or clinically relevant non- major bleeding** | 102 (12.1) | 136 (15.6) | 0.75 (0.58-0.97) | 0.03 |
+| Major bleeding | 24 (2.9) | 37 (4.3) | 0.66 (0.40-1.10) | - |
+| Fatal bleeding | 2 (0.2) | 2 (0.2) | - |  |
+| Major gastrointestinal bleeding | 12 (1.4) | 25 (2.9) | - |  |
+| Upper gastrointestinal bleeding | 6 (0.7) | 13 (1.5) | - |  |
+| Lower gastrointestinal bleeding | 7 (0.8) | 13 (1.5) | - |  |
+| Clinically relevant nonmajor bleeding | 84 (10.0) | 107 (12.3) | 0.79 (0.59-1.05) |  |
+| Other secondary outcomes |  |  |  |  |
+| Death from any cause | 148 (17.7) | 168 (19.6) | 0.96 (0.86-1.06) | - |
+| Recurrent symptomatic venous thromboembolism, major bleeding, or death from any cause†† | 167 (19.9) | 191 (22.1) | 0.96 (0.87-1.07) | - |
+| Major venous thromboembolism or major bleeding‡‡ | 41 (5.2) | 55 (6.8) | 0.96 (0.87-1.06) | - |
+[/DOCLING_TABLE]
+
+ Percentages are the cumulative incidence and thus may not calculate as expected. The treatment effect was estimated as the subdistribution hazard ratio (subhazard ratio) with adjustment for the randomization strata, except for the analyses of death from any cause and the composite of recurrent symptomatic venous thromboembolism, major bleeding, or death from any cause, for which a hazard ratio is reported. The widths of confidence intervals for all the secondary outcomes have not been adjusted for 
+END DE_EVIDENCE api_cat result.crnmb.month12
+BEGIN DE_EVIDENCE api_cat result.crnmb.month12 {"canonical_field": "intervention_group_size", "document_key": "api_cat.fulltext", "source_path": "originals/api-cat-2025/primary.pdf", "source_sha256": "7f692f32661d0d5dd40ecbb4223e6413e21017dfa3446127f45f1a3091cc35d4", "view_sha256": "03efd15143d2ffb859d01339da1a9620b87691447c4dabfee8966ed4e418f598"}
+the Patients at Baseline (Intention-to-Treat Population).* |
+| Characteristic | Reduced-Dose Apixaban (N = 866) | Full-Dose Apixaban (N = 900) |
+| Age - yr | 67.2±11.0 | 67.7±11.4 |
+| Male sex - no. (%) | 375 (43.3) | 391 (43.4) |
+| Body weight - kg | 75.7±16.3 | 75.7±16.4 |
+| Body-mass index† | 27.0±5.3 | 27.0±5.4 |
+| Platelet count <100,000/mm 3 - no./total no. (%) |
+END DE_EVIDENCE api_cat result.crnmb.month12
+BEGIN DE_EVIDENCE api_cat result.all_cause_mortality.month12 {"canonical_field": "intervention_events", "document_key": "api_cat.fulltext", "source_path": "originals/api-cat-2025/primary.pdf", "source_sha256": "7f692f32661d0d5dd40ecbb4223e6413e21017dfa3446127f45f1a3091cc35d4", "view_sha256": "03efd15143d2ffb859d01339da1a9620b87691447c4dabfee8966ed4e418f598"}
+ty outcome: major or clinically relevant non- major bleeding** | 102 (12.1) | 136 (15.6) | 0.75 (0.58-0.97) | 0.03 |
+| Major bleeding | 24 (2.9) | 37 (4.3) | 0.66 (0.40-1.10) | - |
+| Fatal bleeding | 2 (0.2) | 2 (0.2) | - |  |
+| Major gastrointestinal bleeding | 12 (1.4) | 25 (2.9) | - |  |
+| Upper gastrointestinal bleeding | 6 (0.7) | 13 (1.5) | - |  |
+| Lower gastrointestinal bleeding | 7 (0.8) | 13 (1.5) | - |  |
+| Clinically relevant nonmajor bleeding | 84 (10.0) | 107 (12.3) | 0.79 (0.59-1.05) |  |
+| Other secondary outcomes |  |  |  |  |
+| Death from any cause | 148 (17.7) | 168 (19.6) | 0.96 (0.86-1.06) | - |
+| Recurrent symptomatic venous thromboembolism, major bleeding, or death from any cause†† | 167 (19.9) | 191 (22.1) | 0.96 (0.87-1.07) | - |
+| Major venous thromboembolism or major bleeding‡‡ | 41 (5.2) | 55 (6.8) | 0.96 (0.87-1.06) | - |
+[/DOCLING_TABLE]
+
+ Percentages are the cumulative incidence and thus may not calculate as expected. The treatment effect was estimated as the subdistribution hazard ratio (subhazard ratio) with adjustment for the randomization strata, except for the analyses of death from any cause and the composite of recurrent symptomatic venous thromboembolism, major bleeding, or death from any cause, for which a hazard ratio is reported. The widths of confidence intervals for all the secondary outcomes have not been adjusted for multiplicity and cannot be used to infer treatment effects.
+
+†  The primary efficacy outcome (recurrent venous th
+END DE_EVIDENCE api_cat result.all_cause_mortality.month12
+BEGIN DE_EVIDENCE api_cat result.all_cause_mortality.month12 {"canonical_field": "intervention_group_size", "document_key": "api_cat.fulltext", "source_path": "originals/api-cat-2025/primary.pdf", "source_sha256": "7f692f32661d0d5dd40ecbb4223e6413e21017dfa3446127f45f1a3091cc35d4", "view_sha256": "03efd15143d2ffb859d01339da1a9620b87691447c4dabfee8966ed4e418f598"}
+the Patients at Baseline (Intention-to-Treat Population).* |
+| Characteristic | Reduced-Dose Apixaban (N = 866) | Full-Dose Apixaban (N = 900) |
+| Age - yr | 67.2±11.0 | 67.7±11.4 |
+| Male sex - no. (%) | 375 (43.3) | 391 (43.4) |
+| Body weight - kg | 75.7±16.3 | 75.7±16.4 |
+| Body-mass index† | 27.0±5.3 | 27.0±5.4 |
+| Platelet count <100,000/mm 3 - no./total no. (%) |
+END DE_EVIDENCE api_cat result.all_cause_mortality.month12

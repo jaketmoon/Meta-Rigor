@@ -1,0 +1,331 @@
+{
+  "schema_version": "3.0.0",
+  "review_id": "sun.nirs.delirium.review.2024",
+  "protocol_content": {
+    "schema_version": "3.0.0",
+    "protocol_id": "sun.nirs.delirium.protocol.m0",
+    "title": "Near-infrared spectroscopy monitoring during cardiac surgery with cardiopulmonary bypass",
+    "research_question": "Among adults undergoing cardiac surgery with cardiopulmonary bypass, compare near-infrared spectroscopy-guided monitoring with control care for postoperative delirium and the secondary outcomes defined by the Review.",
+    "review_criteria": "Include randomized controlled trials of adults undergoing cardiac surgery with cardiopulmonary bypass that compare NIRS or cerebral-oximetry-guided monitoring with a control strategy and report postoperative delirium. Collect the postoperative outcomes specified by the Review using participant counts or reported means, standard deviations and group sizes.",
+    "result_targets": [
+      {
+        "target_id": "result.postoperative_delirium",
+        "population": "Adults undergoing cardiac surgery with cardiopulmonary bypass in randomized controlled trials.",
+        "intervention": {
+          "label": "near-infrared spectroscopy-guided monitoring",
+          "aliases": [
+            "near-infrared spectroscopy-guided monitoring",
+            "NIRS monitoring",
+            "cerebral oximetry-guided care"
+          ]
+        },
+        "comparator": {
+          "label": "control monitoring strategy",
+          "aliases": [
+            "control monitoring strategy",
+            "usual care",
+            "blinded cerebral oximetry"
+          ]
+        },
+        "outcome": "Postoperative delirium",
+        "outcome_definition": "Postoperative delirium diagnosed using the trial assessment method during the reported postoperative surveillance period.",
+        "timepoint": "Postoperative surveillance period defined by each eligible trial.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the trial-defined randomized comparison and extract the reported participant-level count or final mean, standard deviation, and outcome-specific group size.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.icu_length_of_stay",
+        "population": "Adults undergoing cardiac surgery with cardiopulmonary bypass in randomized controlled trials.",
+        "intervention": {
+          "label": "near-infrared spectroscopy-guided monitoring",
+          "aliases": [
+            "near-infrared spectroscopy-guided monitoring",
+            "NIRS monitoring",
+            "cerebral oximetry-guided care"
+          ]
+        },
+        "comparator": {
+          "label": "control monitoring strategy",
+          "aliases": [
+            "control monitoring strategy",
+            "usual care",
+            "blinded cerebral oximetry"
+          ]
+        },
+        "outcome": "Intensive care unit length of stay",
+        "outcome_definition": "Duration of postoperative intensive care unit stay.",
+        "timepoint": "Final postoperative ICU stay reported by the trial.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the trial-defined randomized comparison and extract the reported participant-level count or final mean, standard deviation, and outcome-specific group size.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "CONTINUOUS",
+        "measurement_basis": "FINAL",
+        "scale": "days",
+        "direction": "LOWER_IS_BETTER"
+      },
+      {
+        "target_id": "result.kidney_related_adverse_outcome",
+        "population": "Adults undergoing cardiac surgery with cardiopulmonary bypass in randomized controlled trials.",
+        "intervention": {
+          "label": "near-infrared spectroscopy-guided monitoring",
+          "aliases": [
+            "near-infrared spectroscopy-guided monitoring",
+            "NIRS monitoring",
+            "cerebral oximetry-guided care"
+          ]
+        },
+        "comparator": {
+          "label": "control monitoring strategy",
+          "aliases": [
+            "control monitoring strategy",
+            "usual care",
+            "blinded cerebral oximetry"
+          ]
+        },
+        "outcome": "Kidney-related adverse outcome",
+        "outcome_definition": "Kidney-related postoperative adverse outcome as defined for the Review analysis.",
+        "timepoint": "Postoperative period reported by each trial.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the trial-defined randomized comparison and extract the reported participant-level count or final mean, standard deviation, and outcome-specific group size.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      },
+      {
+        "target_id": "result.cardiac_related_adverse_outcome",
+        "population": "Adults undergoing cardiac surgery with cardiopulmonary bypass in randomized controlled trials.",
+        "intervention": {
+          "label": "near-infrared spectroscopy-guided monitoring",
+          "aliases": [
+            "near-infrared spectroscopy-guided monitoring",
+            "NIRS monitoring",
+            "cerebral oximetry-guided care"
+          ]
+        },
+        "comparator": {
+          "label": "control monitoring strategy",
+          "aliases": [
+            "control monitoring strategy",
+            "usual care",
+            "blinded cerebral oximetry"
+          ]
+        },
+        "outcome": "Cardiac-related adverse outcome",
+        "outcome_definition": "Cardiac-related postoperative adverse outcome as defined for the Review analysis.",
+        "timepoint": "Postoperative period reported by each trial.",
+        "analysis_population": "Participants analyzed in the randomized groups for the selected outcome.",
+        "selection_rule": "Use the trial-defined randomized comparison and extract the reported participant-level count or final mean, standard deviation, and outcome-specific group size.",
+        "other_limitations": [],
+        "target_kind": "RESULT",
+        "result_type": "BINARY"
+      }
+    ]
+  },
+  "accepted_protocol_sha256": "cf1118e6bc75c9a8d790c24da2b4ba1e25f49d2df2cb8848b7307aacfc84edc7",
+  "protocol_acceptance": {
+    "actor": "project-owner",
+    "decided_at": "2026-08-27T01:00:00+08:00",
+    "decision": "ACCEPTED"
+  },
+  "governing_review_inventory_sha256": "ea131dcd0f48452bf5e8afa85296e966e8d32cf646b8d7e317ca06a9b5e70541",
+  "accepted_study_inventory_sha256": "8bd4b9ae615c5a5765aa1f13b72c5a2f9aef28935d0cf23991cf3e2faa1f2021",
+  "studies": [
+    {
+      "study_key": "colak",
+      "display_label": "Colak 2015",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "lei",
+      "display_label": "Lei 2017",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "zavareh",
+      "display_label": "Zavareh 2019",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "uysal",
+      "display_label": "Uysal 2020",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "cheng",
+      "display_label": "Cheng 2020",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    }
+  ],
+  "reports": [
+    {
+      "report_key": "colak.primary",
+      "title": "The effect of near-infrared spectroscopy monitoring on cognitive function after cardiac surgery",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1093/ejcts/ezu193"
+        },
+        {
+          "scheme": "PMID",
+          "value": "24810757"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "colak.registry.report",
+      "title": "Near Infrared Spectroscopy and Postoperative Cognitive Dysfunction (NCT00917124) registry results",
+      "identifiers": [
+        {
+          "scheme": "NCT",
+          "value": "NCT00917124"
+        }
+      ],
+      "report_role": "REGISTRY"
+    },
+    {
+      "report_key": "lei.primary",
+      "title": "Cerebral oximetry and postoperative delirium after cardiac surgery: a randomised, controlled trial",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1111/anae.14056"
+        },
+        {
+          "scheme": "PMID",
+          "value": "28940368"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "zavareh.primary",
+      "title": "The effect of cerebral oximetry on postoperative cognitive dysfunction in patients undergoing coronary artery bypass graft surgery",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.18051/UnivMed.2019.v38.81-89"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "uysal.primary",
+      "title": "Optimizing cerebral oxygenation in cardiac surgery: A randomized controlled trial examining neurocognitive and perioperative outcomes",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1016/j.jtcvs.2019.03.036"
+        },
+        {
+          "scheme": "PMID",
+          "value": "31056357"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "cheng.primary",
+      "title": "Cerebral oxygen saturation and postoperative delirium in cardiac surgery",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1016/j.jclinane.2020.110032"
+        },
+        {
+          "scheme": "PMID",
+          "value": "32889413"
+        }
+      ],
+      "report_role": "PRIMARY"
+    }
+  ],
+  "report_study_bindings": [
+    {
+      "report_key": "colak.primary",
+      "study_key": "colak"
+    },
+    {
+      "report_key": "colak.registry.report",
+      "study_key": "colak"
+    },
+    {
+      "report_key": "lei.primary",
+      "study_key": "lei"
+    },
+    {
+      "report_key": "zavareh.primary",
+      "study_key": "zavareh"
+    },
+    {
+      "report_key": "uysal.primary",
+      "study_key": "uysal"
+    },
+    {
+      "report_key": "cheng.primary",
+      "study_key": "cheng"
+    }
+  ],
+  "report_identity_issues": [],
+  "documents": [
+    {
+      "document_key": "colak.fulltext",
+      "report_key": "colak.primary",
+      "input_path": "documents/colak-primary/source.txt",
+      "expected_sha256": "30e73cf21472e99eb8dd7d88f7f6f4f1eb2e95af3e900d65a7ee5b73a976eb33",
+      "media_type": "text/plain",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1093/ejcts/ezu193"
+    },
+    {
+      "document_key": "colak.registry",
+      "report_key": "colak.registry.report",
+      "input_path": "documents/colak-registry/source.json",
+      "expected_sha256": "6e013e5f947d6bce4eb4cf7c39398ca7c709ce94e22645ddce5bca70feb031d6",
+      "media_type": "application/json",
+      "representation_scope": "ABSTRACT_AND_RESULTS",
+      "display_url": "https://clinicaltrials.gov/study/NCT00917124"
+    },
+    {
+      "document_key": "lei.fulltext",
+      "report_key": "lei.primary",
+      "input_path": "documents/lei-primary/source.txt",
+      "expected_sha256": "662154e3055b8017198324a697b0e8c186d446da8790464609bfa86479ebbf40",
+      "media_type": "text/plain",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1111/anae.14056"
+    },
+    {
+      "document_key": "zavareh.fulltext",
+      "report_key": "zavareh.primary",
+      "input_path": "documents/zavareh-primary/source.txt",
+      "expected_sha256": "72c02333637595c1718c8ac9cd7ed074c33c82f19a666f75eb92c12f17b58379",
+      "media_type": "text/plain",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.18051/UnivMed.2019.v38.81-89"
+    },
+    {
+      "document_key": "uysal.fulltext",
+      "report_key": "uysal.primary",
+      "input_path": "documents/uysal-primary/source.txt",
+      "expected_sha256": "007854a439a6624575f44ec2deb45c2d4200eae8de5259c1178bfc55e3c1cd16",
+      "media_type": "text/plain",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1016/j.jtcvs.2019.03.036"
+    },
+    {
+      "document_key": "cheng.fulltext",
+      "report_key": "cheng.primary",
+      "input_path": "documents/cheng-primary/source.txt",
+      "expected_sha256": "83048a3d5f89a4ef75c3eb430bf24a4aae1fc83a4efb744b79dc972701978330",
+      "media_type": "text/plain",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://doi.org/10.1016/j.jclinane.2020.110032"
+    }
+  ],
+  "source_dispositions": []
+}

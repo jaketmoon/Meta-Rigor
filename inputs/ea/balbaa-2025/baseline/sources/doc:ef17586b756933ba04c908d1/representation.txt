@@ -1,0 +1,747 @@
+[DOCLING_PAGE 1]
+
+Article
+
+Insulin Postconditioning Reduces Infarct Size in the Porcine Heart in a Dose-Dependent Manner
+
+Journal of Cardiovascular Pharmacology and Therapeutics 1-10 ª The Author(s) 2016 Reprints and permission: sagepub.com/journalsPermissions.nav DOI: 10.1177/1074248416657611 cpt.sagepub.com
+
+Grete Slettom, MD, PhD 1,2 , Anne K. Jonassen, PhD 3,4 , Geir O. Dahle, MD 2 , Reinhard Seifert, BSc 1 , Terje H. Larsen, MD, PhD 1,3 , Rolf K. Berge, PhD 2 , and Jan E. Nordrehaug, MD, PhD 2
+
+Abstract
+
+Aim: Insulin and glucose may have opposite effects when used to reduce ischemia-reperfusion injury. When insulin is administered alone, feeding state determines tolerance and further induces metabolic and hormonal changes. Higher insulin doses are needed for similar activation of cardioprotective Akt signaling in the fed compared to the fasted pig heart. Thus, the aim of the study was to investigate the effects of 2 prespecified insulin doses on infarct size, apoptosis, metabolism, and cardiac function in a clinically relevant, randomized large animal model using conventional percutaneous catheter intervention techniques and including different fasting states. Methods and Results: Twenty-seven female pigs were subjected to 40-minute ischemia and 120-minute reperfusion. Pharmacological postconditioning with intracoronary infusions administered over 3 -30 seconds was performed at immediate reperfusion. Animals were randomly assigned to 3 groups-preexperimental fasting and intracoronary saline ( controls ), preexperimental fasting and 0.1U of insulin ( fasted Ins 0.1U ), and preexperimental feeding and 1.0U of insulin ( fed Ins 1.0U ). A significant reduction in infarct size was demonstrated in the fed Ins1.0U group ( P ¼ .047) but not in the fasted Ins0.1U group ( P ¼ .531) compared to controls (infarct size normalized to area at risk + standard deviation: controls 70.2% + 12.9%, fasted Ins0.1U 65.0% + 9.4%, and fed Ins1.0U 54.4% + 7.3%). Infarct limitation was associated with more uncleaved caspase-3 in the area of risk and the infarcted area, lower circulating free fatty acids, and less increase in heart rate during reperfusion. Fed animals had higher levels of glucose, carnitine, potassium, and normetanephrine and higher heart rate at baseline compared to controls. Conclusion: Insulin postconditioning reduced infarct size in the in vivo pig heart, but the beneficial effects were restricted to the highest dose, which is limited by side effects and can only be given to nonfasted animals. The finding challenges successful general use of insulin in the treatment of reperfusion injury in clinical acute myocardial infarction.
+
+Keywords
+
+acute myocardial infarction, ischemia-reperfusion injury, heart disease, insulin, apoptosis, heart disease, swine
+
+Introduction
+
+Primary percutaneous intervention or thrombolysis is the recommended treatment of acute ST-segment elevation myocardial infarction (STEMI). 1 Adjunctive therapies to timely restoration of coronary blood flow are desired for further reduction in infarct size (IS) and improvement in prognosis. 2 Infusion with glucose-insulin-potassium (GIK) shows promising results in animal studies, 3-5 while clinical data are conflicting. 6 Objections to previous unsuccessful trials include uncertainty according to adequate reperfusion, late initiation of GIK therapy, lack of standardization of treatment schedule and dose, and side effects as hyperglycemia and volume overload. 6,7 Two recent studies have demonstrated limitation of IS, improved hemodynamics, and increased myocardial Akt phosphorylation in patients 8,9 and thus cast new light on the therapeutic strategy.
+
+The promotion of oxygen-sparing glucose utilization rather than free fatty acid (FFA) metabolism during ischemia has been emphasized as an important mediator of GIK-induced cardioprotection. 7 In an STEMI, the coronary artery is
+
+1 Department of Heart Disease, Haukeland University Hospital, Bergen, Norway
+
+2 Department of Clinical Science, University of Bergen, Bergen, Norway
+
+3 Department of Biomedicine, University of Bergen, Bergen, Norway
+
+4 Faculty of Health Care and Nursing, NTNU, Bergen, Norway
+
+Manuscript submitted: April 4, 2016; accepted: May 09, 2016.
+
+Corresponding Author:
+
+Grete Slettom, Department of Heart Disease, Haukeland University Hospital, N-5021 Bergen, Norway.
+
+Emails: greteslettom@hotmail.com; grsm@helse-bergen.no occluded. Although collaterals may provide some access to the ischemic zone, opening of the vessel is a prerequisite for effective therapy. Glucose-insulin-potassium infusion initiated at the onset of reperfusion reduces IS to a similar extent as when given during the entire ischemia-reperfusion period and improves metabolic and contractile dysfunction in the in situ rat. 3,10 Insulin has been proposed to be the major cardioprotective component in the GIK solution. 4,5,11 It reduces IS with 40 % to 50 % when given at immediate reperfusion to rodent hearts, and cytoprotection involves activation of PI3-kinase/ Akt signaling. 4,11 With insulin monotherapy, hyperglycemia and hyperkalemia are avoided, but opposite effects may occur. Targeted insulin administration, providing high local concentrations within the ischemic myocardium, can be achieved through intracoronary drug delivery. 12 Repeated, short infusions, mimicking an ischemic postconditioning protocol, reduce treatment time, dose, and volume, and insulin infusions over 3 -30 seconds are reported to reduce IS to a similar degree as ischemic postconditioning in the Langendorff-perfused rat heart. 13
+
+Downloaded from cpt.sagepub.com at University of Sussex Library on July 10, 2016
+
+[DOCLING_PAGE 2]
+
+2
+
+Journal of Cardiovascular Pharmacology and Therapeutics
+
+An acute myocardial infarction is a nonpredictable event and debuts independent of meals; hence, glucose levels, insulin tolerance, and effective drug dose might vary. In previous studies, we have shown that feeding attenuates insulin-related activation of Akt in the pig heart, but this can be overcome by increasing the insulin dose, since fed animals also have higher tolerance. 12,14 Evidence of IS reduction in large animal studies has the potential advantage to mimic the whole interventional treatment procedure and to better determine whether reperfusion therapy with insulin could be a candidate for a clinical trial. The aim of the current study was to explore the effects of pharmacological postconditioning with assumed optimal doses of intracoronary insulin on IS, apoptosis, metabolism, and cardiac function in fasted and fed pigs, using a clinically relevant experimental model.
+
+Methods and Materials
+
+Experiments were performed in accordance with the European Communities Council Directive of 2010/63/EU and approved by the Norwegian State Commission for Laboratory Animals (Project 4388).
+
+Experimental Preparation
+
+Animals. Twenty-seven female mixed-breed Norwegian landrace and Yorkshire pigs weighing 48 + 4 kg were acclimatized for at least 1 week in the animal facility at the University of Bergen. Female pigs were chosen due to reported higher survival rates and better preserved hemodynamics in female compared to male piglets when subjected to hemorrhagic shock and cardiac arrest 14 and also due to paucity of clinical and experimental cardiovascular research in female subjects. Feeding routines were in accordance with recommendations for slaughter pigs and included 1500 g of Format (FORMAT Norm FKNR. 10688; Felleskjøpet, Gardermoen, Norway) twice daily and ad libitum access to water. Animals were either fasted from
+
+4 PM the day before experimentation or fed half the normal portion of food at 7 AM 2 hours before experimentation and defined as ''fasted'' or ''fed,'' respectively. Aspirin (300 mg) and clopidogrel (300 mg) were given with the 4 PM meal in accordance with routines for catheter-based procedures. Premedication with intramuscular atropine (1.0 mg), diazepam (10 mg), and ketamine (20 mg/kg) and mask ventilation with 3 % isoflurane allowed endotracheal intubation. Anesthesia included 56 % nitrous oxide and intravenous midazolam (loading and continuous doses: 0.3 mg/kg-0.3 mg/kg/h), fentanyl (0.02 mg/kg-0.02 mg/kg/h), pentobarbital (15 mg/kg-4 mg/kg/h), and norcuronium (0.6 mg/kg-0.6 mg/kg/h), respectively. Euthanasia was performed with potassium chloride. 14
+
+Study design. The protocol included a 20-minute stabilization period, 40-minute ischemia induced by balloon occlusion of the left anterior descending coronary artery (LAD), and 120minute reperfusion. Animals were randomized to preexperimental fasting and intracoronary saline ( controls ), preexperimental fasting and 0.1U of insulin ( fasted Ins 0.1U ; Actrapid; Novo Nordisk, Copenhagen, Denmark), or preexperimental feeding and 1.0U of insulin ( fed Ins1.0U ). The intracoronary infusions were administered at immediate reperfusion over 3 -30 seconds with 30 seconds in-between. Insulin doses were based on previous studies on tolerability and effects on Akt signaling in the nonischemic pig heart, and only the dosing regimens with the presumed largest potential were further examined. 12,14 Briefly summarized, administration of higher doses than 0.1U induced hypoglycemia, hypokalemia, and catecholamine elevation in fasted pigs and was considered harmful in a setting of acute myocardial infarction (AMI). Fed animals tolerated more insulin, 1.0U. The median increase in Akt activation from baseline to 15-minute postdrug infusion was 2- to 3-fold in fasted pigs given 0.1U and in fed pigs given 1.0U and not significantly different between the groups, whereas the response was significantly weaker in fed pigs given the 0.1U dose. Based on this, and numerous data showing larger infarcts with higher serum glucose levels, 15,16 feeding was considered unfavorable and control animals thus kept fasted. Digitalized hemodynamic measurements and simultaneous sampling of arterial and coronary venous blood were performed at baseline, 40-minute ischemia, and 5-, 15-, 30-, 60-, and 120-minute reperfusion. Myocardial tissue for Western blot analysis was harvested, and IS quantified by the gold standard method for such experiments-Evans blue and triphenyltetrazolium chloride (TTC) staining. To further adapt the protocol to clinical practice, we also aimed to explore supplementary methods for infarct quantification as peak troponin T (TnT) and magnetic resonance imaging (MRI).
+
+Percutaneous access. A catheter-based closed chest experimental model was chosen. The right femoral artery, the left external carotid artery, and the right and left internal jugular veins were identified and punctured using cut-down and Seldingertechnique. A 5F and a 6F sheath were introduced in the femoral artery, an 8F sheath in the external right jugular vein, and two 6F sheaths in the external left carotid artery and vein, respectively.
+
+Downloaded from cpt.sagepub.com at University of Sussex Library on July 10, 2016
+
+[DOCLING_PAGE 3]
+
+Slettom et al
+
+3
+
+Percutaneous catheterization. The placements of coronary catheters were guided by fluoroscopy. Of note, in pigs' venous return from both sides of the chest wall drains directly into the coronary sinus via a left-sided azygos vein. 17 Closure of this entrance is mandatory for selective sampling from the heart. A 6F impulse, MPA1 catheter (Boston Scientific, Natick, Massachusetts) was used to direct guide wires from the jugular veins into the coronary sinus and further to the azygos vein. A Swan-Ganz catheter was advanced over the wire into the azygos vein, and a 6F pigtail catheter (Cordis, Brightwater, New Jersey) was placed in the distal part of the coronary sinus for blood sampling. The correct position of the Swan-Ganz catheter was confirmed by injection of contrast in the distal lumen after inflation of the balloon to ensure that there was no antegrade leakage of contrast from the azygos system. Free venous return from the coronary venous circulation during balloon inflation was checked by injection of contrast on the proximal side of the balloon. Temporary closure of venous return from the thoracic wall was performed by intermittent inflation of the balloon, started 3 minutes before blood sampling.
+
+For measuring left ventricular pressure (LVP), a Micro-Cath cardiology catheter (Millar, Huston, Texas) was introduced into the left ventricle (LV) via a 6F Vista Brite Tip hockey stick guiding catheter (Cordis) from the left external carotid sheath. The right femoral artery was used for arterial blood sampling and introduction of another hockey stick and further an over the wire balloon catheter (Voyager OTW Coronary Dilatation catheter 3.0 -8.0-12.0; Abbott Vascular International BVBA, Diegem, Belgium) that enabled LAD occlusion and drug infusion. Heparin 5000 IU was administered every hour.
+
+Intervention. Myocardial infarction was induced by inflating the angioplasty balloon in the LAD distal to the branching point of the first or second diagonal, depending on the size and the location of the vessel, but always proximal to the mid-LAD. The presence of complete occlusion was secured by cine angiography of a contrast injection. Maintenance of constant balloon pressure was checked every 10th minute. Reopening of the vessel and reestablishment of reperfusion were performed by deflating the balloon and controlled by contrast injection. The total volume per infusion was 10 mL, and insulin was mixed with saline to obtain the aimed concentrations of 0.1 or 1.0U. Half of the first dose was administered 1 minute before deflation of the balloon to ensure the presence of drug in the target area at immediate reperfusion. Subsequent to balloon deflation, the catheter was repositioned to the point of previous vessel occlusion and the remaining insulin dose administered. After 3 infusions, the balloon catheter was removed from the LAD to ensure optimal blood flow. Intravenous gadolinium contrast (10 mL Gadovist 1.0 mmol/mL; Bayer Schering Pharma AG, Berlin, Germany) was given at 100-minute reperfusion for ex vivo late gadolinium enhancement (LGE)MRI quantification of IS. At 120-minute reperfusion, the balloon catheter was repositioned and the balloon inflated in the previous location of occlusion before euthanasia. A thoracotomy was performed and a suture securely tightened at the proximal end of the balloon, which was then retracted. Biopsies from the inferior wall, the anterior wall, and the apex of the LV were immediately harvested using a 6-mm biopsy punch connected to an empty syringe, applying vacuum (Biopsy Punch, Standard 33-36B; Miltex Disposables, York, United Kingdom). The proximal aorta was clamped, and 50 mL of 0.5 % Evans blue solution (SigmaAldrich, St Louis, Missouri) was injected under high pressure for retrograde perfusion of the coronary arteries and visualization of the area at risk (AAR), and tissue from the lateral border of the nonstained AAR was collected. Myocardial biopsies were washed with isotonic saline, snap frozen in liquid nitrogen, and kept at [UNMAPPED_GLYPH U+0000] 80  C for further analyses. Finally, the heart was excised, the atria removed, and the ventricles filled with balloons containing deuterated water. 18 The heart was then stored in a fridge at 4  C until MRI scanning and TTC staining were performed 1 to 3 days later.
+
+Infarct Quantification
+
+Evans blue and TTC staining. After imaging, the hearts were hung vertically from the aortic root and placed in a glass bowl. The balloons were removed from the ventricles and replaced with 2 % agarose solution, 40  C (Agarose AG9539; Sigma-Aldrich), which was also filled into the bowl surrounding the heart. The bowl was cooled in crushed ice and further put in the fridge at 4  C for gelatinization. The gel block was cut in 4-mm slices in a transverse plan parallel to the atrioventricular groove using an electric-driven slicing device. Slices were photographed on both sides before and after staining with 1 % TTC (SigmaAldrich) in phosphate buffer with pH 7.4 for 20 minutes at 37  C. Left ventricular area, AAR, infarcted (INF) area, and area of microvascular obstruction (MVO) were determined in a blinded fashion by computerized planimetry (Adobe Photoshop CS5 Extended, version 12.0, San Jose, California).
+
+Cardiac MRI. Ex vivo imaging of the heart was performed with a 1.3.0-T GE Signa Excite scanner (Milwaukee, Wisconsin). The hearts were suspended in air and hung in a plastic bucket. Three-dimensional acquisitions of T1-weighted consecutive short-axis views of the entire LV were obtained. Images were acquired applying a shoulder coil, which showed the best results according to coverage, resolution, and signal-to-noise ratio in preliminary testing. The parameters of the Fiesta sequence were as follows: slice thickness 4 mm, field of view 180 mm, frequencies 256, phases 224, and flip angle 11. T2weighted images were obtained to visualize edema as a measure of AAR. The freely available software segment (Segment v1.9 R259, Medviso, Lund, Sweden, http://segment.heiberg.se) was used for quantification of IS, MVO, and LV volume. 19
+
+Troponins. High-sensitive TnT at 120-minute reperfusion was used as a surrogate for IS.
+
+Hemodynamic Measurements
+
+Systolic blood pressure, diastolic blood pressure, mean arterial pressure, LV end-systolic and end-diastolic pressure, heart rate,
+
+Downloaded from cpt.sagepub.com at University of Sussex Library on July 10, 2016
+
+[DOCLING_PAGE 4]
+
+4
+
+Journal of Cardiovascular Pharmacology and Therapeutics
+
+3-lead electrocardiogram, oxygen saturation, end-tidal carbon dioxide, and rectal temperature were continuously registered and digitized using a signal conditioner unit (ACQ-7700; Data Sciences International [DSI], St Paul, Minnesota). The recordings were further processed and analyzed with the Ponemah Physiology Platform v. 4.90 (DSI).
+
+Blood Sampling and Analyses
+
+Simultaneous sampling from arterial and venous blood (coronary sinus) was performed. High-sensitive Troponin-T (Roche Diagnostics GmbH, Mannheim, Germany), glucose, and potassium were measured at the Clinical Biochemistry Laboratory, Haukeland University Hospital, Bergen, Norway. Lactate was quantitated with a blood gas analyzer (ABL800FLEX; Bergman Diagnostika AS, Lillestrøm, Norway). Nephrines were analyzed at the Hormone Laboratory, Haukeland University Hospital (2-MET Plasma RIA Fast Track kit; Labor Diagnostika Nord GmbH & Co KG, Nordhorn, Germany). Free fatty acids and carnitines were analyzed at the Department of Clinical Science, University of Bergen, respectively, on a Hitachi 917 system (Roche Diagnostics GmbH) using kits from DiaSys Diagnostic Systems GmbH, Holzheim, Germany, and as described by Vigerust et al, 20 insulin was analyzed at the Hormone Laboratory, Oslo University Hospital, Aker, Oslo, Norway (RIA kit, Human Insulin Specific, Cat #HI-14K; Millipore, St Charles, Missouri).
+
+Myocardial Tissue Samples and Western Blotting
+
+Myocardial biopsies were sampled from 3 different regions of the porcine heart-the area not at risk of infarction (ANA); the border zone of the AAR, at the lateral transition between ANA and AAR; and the INF. Caspase-3 is activated during early stages of apoptosis. It is synthesized as an inactive proenzyme (procaspase-3, 32 kDa) that may be processed to a large (17-22 kDa) or small (10-12 kDa) subunit in cells undergoing apoptosis. Active caspase-3 (BD Pharmingen, San Diego, California) and glyceraldehyde 3-phosphate dehydrogenase (GAPDH; Santa Cruz Biotechnology, Santa Cruz, California) were determined in the previously mentioned 3 areas. Sample (40 m g/lane) preparation, protein quantification, and electrophoresis were performed as previously described. 11 The samples were run on precast gradient gels (4 % -20 % ; Thermo Scientific, Massachusetts, USA). Ponceau S (Sigma-Aldrich) staining confirmed adequate transfer, and GAPDH served as loading control. A baseline sample (CB) from a heart not exposed to ischemia (should have no cleaved caspase-3 present) was included on all blots as an internal standard for between-gel comparisons.
+
+Statistical Analysis
+
+Baseline characteristics were reported as mean (standard deviation); differences between treatment groups at baseline were estimated with generalized least square models. Trends in mean hemodynamic measurements over time were modeled Abbreviations: Controls, fasted pigs randomized to treatment with intracoronary saline at ischemic reperfusion; dPdtmax and dPdtmin, peak positive and peak negative of the first derivative of left ventricular pressure; EDP, enddiastolic pressure; ESP, end-systolic pressure; Fasted Ins 0.1U , fasted pigs randomized to treatment with 0.1U intracoronary insulin; Fed Ins1.0U, fed pigs randomized to treatment with 1.0U intracoronary insulin; FFA, free fatty acids; HR, heart rate; MAP, mean arterial pressure; SD, standard deviation; t , time constant of isovolumic relaxation; TnT, troponin T; Tp, rectal temperature. a Data are presented as means + SD.
+
+[DOCLING_TABLE rows=19 columns=4]
+| Characteristic | Control Group (n ¼ 8) | Fasted Ins 0.1U Group (n ¼ 9) | Fed Ins 1.0U Group (n ¼ 9) |
+| Body weight, kg | 46 (3) | 48 (4) | 49 (6) |
+| MAP, mmHg | 107 (24) | 112 (20) | 110 (23) |
+| HR, beats/min | 86 (13) | 95 (14) | 101 (13) b |
+| ESP, mm Hg | 132 (27) | 128 (19) | 130 (28) |
+| EDP, mm Hg | 12 (3) | 13 (3) | 12 (2) |
+| dPdt max , mm Hg/s | 1768 (349) | 1690 (351) | 1855 (962) |
+| dPdt min , mm Hg/s | [UNMAPPED_GLYPH U+0000] 2561 (327) | [UNMAPPED_GLYPH U+0000] 2618 (747) | [UNMAPPED_GLYPH U+0000] 2527 (594) |
+| t , milliseconds | 35 (5) | 37 (5) | 33 (5.0) |
+| Tp,  C | 38.3 (0.6) | 38.6 (0.7) | 39.0 (0.7) |
+| s-glucose, mmol/L | 6.4 (0.6) | 6.7 (0.5) | 7.7 (1.4) b |
+| s-insulin, pmol/L | 59 (15) | 65 (13) | 66 (22) |
+| s-potassium,mmol/L | 4.1 (0.1) | 4.2 (0.3) | 4.4 (0.3) b |
+| s-lactate, mmol/L | 0.8 (0.2) | 0.8 (0.2) | 1.1 (0.2) |
+| s-FFA, mmol/L | 0.52 (0.28) | 0.63 (0.34) | 0.67 (0.32) |
+| s-carnitine, m mol/L | 4.2 (1.6) | 4.2 (1.0) | 5.9 (0.5) b |
+| s-TnT, ng/L | 19 (8) | 25 (17) | 23 (14) |
+| p-metanephrine, nmol/L | 0.28 (0.19) | 0.31 (0.15) | 0.34 (0.10) |
+| p-normetanephrine, nmol/L | 0.36 (0.19) | 0.46 (0.14) | 0.53 (0.09) b |
+[/DOCLING_TABLE]
+
+b P < .05 for difference compared to the control group estimated by 2-tailed independent sample t test.
+
+with linear mixed-effects models; differences in trend between randomization groups were assessed by time -group interaction terms. Metabolic measurements did not reveal significant dosage effects between the artery and vein samples; trends over time and trend changes associated with insulin dosage were assessed with linear mixed-effects models with time -dosage interaction. Both vein and artery measurements were included in the analysis, and blood type was consequently included as an additional nesting level in the random part of the hierarchical model. Additional nonparametric post hoc tests (MannWhitney U ) at each time point were presented. Infarct quantification was analyzed between randomization groups by generalized least square models allowing the adjustment for heteroscedastic variances. All analyses were conducted with R version 3.1.0 (The R Foundation for Statistical Computing, Vienna, Austria), mixed, and generalized least square models with R package ''nlme'' version 3.1-117.
+
+Results
+
+Baseline characteristics are shown in Table 1. One pig belonging to the control group was excluded from the study due to technical problems during tissue preparation and imaging.
+
+Downloaded from cpt.sagepub.com at University of Sussex Library on July 10, 2016
+
+[DOCLING_PAGE 5]
+
+Slettom et al
+
+5
+
+Figure 1. Mean infarct size (IS) measures by insulin dosage groups estimated with linear mixed-effects model in a porcine experimental protocol with 40-minute left anterior descending coronary artery (LAD) occlusion and 120-minute reperfusion comparing 3 groupsfasted pigs treated with intracoronary saline over 3 -30 seconds at immediate reperfusion (controls, n ¼ 8), fasted pigs treated with 0.1U of intracoronary insulin (fasted Ins0.1U , n ¼ 9), and fed pigs treated with 1.0U of intracoronary insulin (fed Ins1.0U, n ¼ 9). Dots denote estimated marginal mean, whiskers 95% confidence limits. Shaded boxes reflect the 25th, 50th, and 75th percentile of the empirical distribution. A, Infarct size normalized to the area at risk (AAR) and (B) AAR normalized to the left ventricle (LV) measured by Evans blue/ triphenyltetrazolium chloride (TTC) staining.
+
+Thus, 26 animals were included. There were no differences between the 2 fasted groups. Fed pigs had significantly higher serum levels of glucose, carnitine, potassium, and normetanephrine and elevated heart rate compared with controls.
+
+Myocardial Injury
+
+Infarct size normalized to the AAR measured by TTC/Evans blue staining was significantly reduced in the fed Ins1.0U group but not the in the fasted Ins0.1U group, as compared with controls ( P ¼ .047 and P ¼ .531, respectively; IS/AAR + standard deviation [SD]; controls 70.2 % + 12.9 % , fasted Ins 0.1U 65.0 % + 9.4 % , and fed Ins1.0U 54.4 % + 7.3 % ; Figure 1A). The fed Ins1.0U group had a larger myocardial ischemic area normalized to the LV (AAR/LV) than the control group ( P ¼ .034), whereas no significant difference was found between the fasted Ins0.1U treated pigs and controls ( P ¼ .089; Figure 1B; AAR/ LV + SD; controls 26.3 % + 2.7 % , fasted Ins0.1U 29.9 % + 2.9 % , and fed Ins1.0U 33.0 + 5.1; Figure 1B). Infarct size normalized to the left ventricle (IS/LV) did not differ between groups (Figure 2), neither did microvascular obstruction normalized to the infarct size (MVO/IS). Microvascular obstruction occurred in 9 animals was evenly distributed among groups and represented approximately 5 % of the IS. The ex vivo T2-weighted MRI images for quantification of AAR were of inferior quality; therefore, IS normalized to AAR could not be obtained by this technique. However, measurements of INF area and IS/LV corresponded well between ex vivo LGE-MRI and TTC staining (Figure 2). Peak TnT levels at 120-minute reperfusion were significantly lower in both insulin-treated groups than in the control group ( P ¼ .023 for the fed Ins1.0U and P ¼ .036 for the fasted Ins0.1U vs controls; Figure 3).
+
+Figure 2. Infarct size (IS) normalized to left ventricle volume (%) by insulin dosage groups estimated with linear mixed-effects model in a porcine experimental protocol with 40-minute left anterior descending coronary artery (LAD) occlusion and 120-minute reperfusion comparing 3 groups-fasted pigs treated with intracoronary saline over 3 -30 seconds at immediate reperfusion (controls, n ¼ 8), fasted pigs treated with 0.1U of intracoronary insulin (fasted Ins0.1U, n ¼ 9), and fed pigs treated with 1.0U of intracoronary insulin (fed Ins 1.0U , n ¼ 9). Dots denote estimated marginal mean, whiskers 95% confidence limits; shaded boxes reflect the 25th, 50th, and 75th percentile of the conditional distribution. Representative images showing infarcted tissue (pale) and microvascular obstruction (dark area within infarction) using triphenyltetrazolium chloride (TTC) staining (A) and late gadolinium enhancement magnetic resonance imaging (LGE-MRI; B). C and D, show mean infarct mass, normalized to left ventricle mass measured with TTC and MRI, respectively.
+
+Apoptosis
+
+Procaspase-3 was present in all tissue biopsies collected in the ANA. In the AAR, some biopsies in the controls and the fasted Ins0.1U grouppresentedwithcleavedcaspase-3(22kDa), whereas all groups presented with some degree of caspase-3 cleavage in the INF. However, the heart samples administered 1.0U of insulin presented with more uncleaved procaspase (Figure 4).
+
+Downloaded from cpt.sagepub.com at University of Sussex Library on July 10, 2016
+
+[DOCLING_PAGE 6]
+
+6
+
+Journal of Cardiovascular Pharmacology and Therapeutics
+
+Figure 3. Troponin T measures by insulin dosage groups estimated with linear mixed-effects model in a porcine experimental protocol with 40-minute left anterior descending coronary artery (LAD) occlusion and 120-minute reperfusion comparing 3 groups-fasted pigs treated with intracoronary saline over 3 -30 seconds at immediate reperfusion (controls, n ¼ 8), fasted pigs treated with 0.1U of intracoronary insulin (fasted Ins0.1U , n ¼ 9), and fed pigs treated with 1.0U of intracoronary insulin (fed Ins1.0U , n ¼ 9). Dots denote estimated marginal mean, whiskers 95% confidence limits. Shaded boxes reflect the 25th, 50th, and 75th percentile of the empirical distribution.
+
+Metabolism
+
+Metabolic changes related to reperfusion and insulin treatment occurred within a period of 30 minutes. The 0.1U dose did not confer changes compared to controls. Administration of the 1.0U insulin dose led to a significant increase in circulating insulin, a subsequent decrease in FFAs with lower absolute level at 30 minutes, and a decrease in glucose at 5 minutes compared to the control group (Figure 5A-C). Carnitine was higher in fed animals than controls throughout the experiment, glucose higher at all time points except 5-minute reperfusion, and lactate elevated at reperfusion 0, 15, and 30 minutes (Figure 5B and D). Significant arteriovenous differences were not detected.
+
+Hemodynamics
+
+Heart rate showed a significantly lower increment during reperfusion in the fed Ins1.0U group compared to the controls ( P ¼ .029). The 0.1U insulin dose was not associated with such effect. Mean arterial pressure, LVP, oxygen saturation, end-tidal CO2, and temperature did not differ between groups.
+
+Discussion
+
+The present study extends the concept of insulin reperfusion therapy from rodent experiments to an in vivo, large animal model. It demonstrates that pharmacological postconditioning with intracoronary infusion of physiologically tolerable insulin doses is feasible, safe, and reduces IS/AAR in pigs. Only fed animals, given a 10-fold higher insulin dose than tolerated among the fasted, experience infarct limitation. The fed Ins 1.0U group presents with less cleaved caspase-3 in the AAR and the INF area, lower rise in heart rate in the reperfusion phase, and a decrease in circulating FFAs and glucose than the control group. Neither less apoptosis nor significant metabolic alterations are found in the fasted Ins 0.1U treated animals compared to the controls.
+
+Figure 4. Representative Western blots for cleaved caspase-3 in myocardial tissue. (A) Only pro-caspase-3 (32 kDa) was present in the samples from ANA. (B) In the AAR some biopsies presented with caspase-3 cleavage (22 kDa). (C) In the infarcted area all groups presented with some degree of caspase-3 cleavage (22 kDa). However, the heart samples administered 1.0U of insulin also presented with uncleaved pro-caspase (32 kDa). Myocardial biopsies were harvested from three different regions of the porcine heart exposed to 40 min of LAD occlusion, pharmacological postconditioning and 120 min reperfusion. Abbreviations: ANA, biopsy harvested in the area not at risk of infarction; AAR, biopsy harvested in the area at risk of infarction; INF, biopsy harvested in the infarcted area; CB, control baseline sample (no ischaemia) included for between-gel-comparison and verification of no caspase-3 cleavage; Control, myocardium from fasted heart exposed to intracoronary saline; Ins0.1U, myocardium from fasted heart exposed to 0.1U of intracoronary insulin; Ins1.0U, myocardium from fed heart exposed to 1.0U of intracoronary insulin; GAPDH served as loading control.
+
+INF
+
+Ins0.1U
+
+Control
+
+Ins1.0U
+
+Caspase-3
+
+GAPDH
+
+32 kDa
+
+22 kDa
+
+Caspase-3
+
+GAPDH
+
+CB
+
+Ins0.1U
+
+Control
+
+Ins1.0U
+
+CB
+
+AAR
+
+32 kDa
+
+22 kDa
+
+32 kDa
+
+Caspase-3
+
+GAPDH
+
+ANA
+
+Ins0.1U
+
+Control
+
+Ins1.0U
+
+CB
+
+22 kDa
+
+A
+
+B
+
+C
+
+A relative and absolute IS reduction of 23 % and 16 % , respectively, suggest that reperfusion therapy with insulin is more moderate in pigs than rodents. Compared to results from other successful adjuvant therapies applied in porcine myocardial ischemia reperfusion protocols, insulin's effects match cyclosporine A 21 and gentle reperfusion 22 but seem inferior to ischemic postconditioning, 23 hypothermia, 18 and exenatide. 24 However, direct comparison of IS reduction without taking into account major differences in study designs as open or closed thorax, ischemia time, choice of target vessel, total occlusion or flow reduction, and concomitants drugs and anesthesia cannot be made. Despite randomization, the AAR
+
+Downloaded from cpt.sagepub.com at University of Sussex Library on July 10, 2016
+
+[DOCLING_PAGE 7]
+
+Slettom et al
+
+7
+
+Figure 5. Mean serum metabolites estimated by linear mixed effects model. Points denote mean, whiskers 95%-confidence limits; shaded boxes represent 25th, 50th and 75% percentiles of the conditional distribution. The interaction p -value for effect-modification from the first reperfusion time point (0 min) to the subsequent measurements against the control group is marked with a white star in the plotting symbol. Additionally, significant differences from post-hoc non-parametric Mann-Whitney U-test at each time point are marked by black stars next to the estimate. Pharmacological postconditioning with intracoronary infusions (3 -30 s) was started immediately before ischaemic reperfusion after 40 min LAD occlusion, with saline (Controls, n ¼ 8), 0.1U insulin (Fasted Ins 0.1U , n ¼ 9) or 1.0U insulin (Fed Ins 1.0U , n ¼ 9).
+
+Reperfusion time (min.)
+
+Insulin
+
+(
+
+pmol L
+
+)
+
+A
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+●●
+
+●●
+
+●●
+
+● ●
+
+●●
+
+●●
+
+●●
+
+● ●
+
+*
+
+*
+
+*
+
+*
+
+Reperfusion time (min.)
+
+Glucose
+
+(
+
+mmol L
+
+)
+
+B
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+●
+
+●
+
+● ●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+*
+
+*
+
+*
+
+*
+
+Reperfusion time (min.)
+
+FFA
+
+(
+
+mmol L
+
+)
+
+C
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+Reperfusion time (min.)
+
+Lactate
+
+(
+
+mmol L
+
+)
+
+D
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+*
+
+*
+
+*
+
+Controls
+
+Fasted Ins 0.1U
+
+Fed Ins 1.0U
+
+Pinteraction
+
+<
+
+0.05
+
+Ppost
+
+-
+
+hoc
+
+<
+
+0.05
+
+*
+
+*
+
+Pinteraction
+
+<
+
+0.05
+
+Ppost
+
+-
+
+hoc
+
+<
+
+0.05
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+*
+
+*
+
+*
+
+*
+
+in the fed Ins 1.0U group was larger than in controls in our study. Larger AARs directly correlate with increased absolute IS 25 and have been associated with both better and no difference in treatment effect of ischemic postconditioning. 15,26
+
+We aimed to test clinical methods (MRI and TnT) for quantification of IS against the experimental gold standard. Overestimation of INF area due to partial volume effect, edema, and hyperenhancement in injured but viable cells in the ischemic border zone are potential pitfalls when LGE-MRI is performed short time after ischemia. 27 Onthe contrary, underestimation of IS is reported when TTC staining is performed too early, when irreversibly injured myocytes have not yet lost sufficient amount of NADH and subsequently appear red indicating viable tissue. 28 Ex vivo MRI estimation of IS/LV and MVO/IS corresponded well with results from TTC staining (Figure 3). Our finding advocate that both ex vivo LGE-MRI and TTC staining can be used to quantify IS in experiments with only 2-hour reperfusion time. Given that the AAR was not similar between treatment groups in this particular study, IS/LV could not correctly reflect the treatment effect of insulin. But though we did not succeed in quantifying the AAR using ex vivo MRI, this was recently obtained. 29
+
+Troponin T levels at 120-minute reperfusion were significantly lower for both the insulin-treated groups than for controls. Troponin levels are shown to correlate with IS and MVO in patients. 30,31 The optimal time for measuring peak TnT to estimate IS in experimental porcine studies is not known. In humans, troponin curves peak 4 to 8 hours after restoration of blood flow, 32 andvalues shown to correspond with anatomically measured IS are typically reported at 24 and 48 hours. 31 Pigs have more rapid infarct development than humans, 33 therefore, the limited sampling period in our study could be sufficient for troponin-based assessment of IS in this model. One can speculate that troponins are more sensitive markers of myocardial cell necrosis and better reflect situations with inhomogeneous infarcts with viable cells within the necrotic area. Also, although not significant, a graded insulin response with numerically smaller IS ( P ¼ .089) was observed in the fasted Ins0.1U pigs compared to the controls. On the contrary, the precision of troponins to reflect IS may be challenged by interindividual variability of troponin content per gram myocardium and the complexity of degradation and release into the general circulation. 34 Further studies exploring troponin release over time in porcine AMI models are needed. Generally, anatomical quantification of IS including normalization to the AAR is accepted as superior to biochemical markers.
+
+Downloaded from cpt.sagepub.com at University of Sussex Library on July 10, 2016
+
+[DOCLING_PAGE 8]
+
+8
+
+Journal of Cardiovascular Pharmacology and Therapeutics
+
+Less cleaved caspase-3 was found in the ischemic risk zone and the INF area in the fed Ins 1.0U pigs compared to the controls and fasted Ins0.1U pigs. This is consistent with the findings of reduced ischemic injury measured with TnT and histology in the fed Ins 1.0U group and may argue for a causal antiapoptotic insulin effect. Phosphorylation of Akt is shown to inhibit activation of caspase-3. 35 An association between insulin, Akt activation, and reduced myocardial injury is shown in both pigs 24 and humans. 9 The chosen insulin doses phosphorylated Akt in the nonischemic porcine myocardium, and the relative activation from baseline to 15 minutes after infusion did not differ between the fasted Ins 0.1U and fed Ins1.0U pigs. 14 Based on this result, the 2 highest physiologically tolerated insulin doses should act similarly on caspase-3 cleavage, assumingAkt-signaling was responsible for the insulinmediated antiapoptotic effect. 11 However, systemic administration of low-dose insulin during the first 15 minutes of reperfusion did neither reduce IS nor apoptosis in an open thorax porcine model of ischemia-reperfusion, 36 which corresponds with our findings. We cannot rule out that the reduced expression of activated caspase-3 observed in the fed Ins1.0U group was independent of Akt or caused by several components. 22,35 Alternatively, the 0.1U might be too low to counteract catecholamineinduced insulin resistance induced by ischemia.
+
+A decrease in FFA and glucose concentrations was demonstrated already 5 minutes after insulin postconditioning. Significant changes compared to controls were only detected in the high-dose group. Since reperfusion injury debuts within minutes after restoration of blood flow, rapid treatment effect is assumed to be important. The elevated lactate levels at immediate reperfusion and the slower decrease could be related to higher glucose levels at baseline in fed animals, promoting more carbohydrate metabolism during ischemia, that is, glycolysis with uncoupled glucose oxidation, and thus more lactate production and accumulation. 7 It could also indicate a more sustained anaerobic metabolism during early reperfusion after high-dose insulin treatment. The latter would be contradictory to previous findings showing accelerated recovery of aerobic metabolism by insulin treatment, possibly via stimulation of pyruvate dehydrogenase. 37
+
+Generally, systemic metabolic alterations occurred within the first 30 minutes of reperfusion in all animals. Thus, there might be only a brief window with metabolic derangements within which intervention against reperfusion injury has to be performed. In our totally percutaneous closed chest model, we introduced a novel technique for sampling blood from the coronary sinus. Mixed venous blood from ischemic and nonischemic myocardium was sampled into a pigtail catheter. Using this concept, we were unable to detect significant arteriovenous differences in myocardial metabolism supporting a switch from lipid to glucose metabolism during reperfusion. This is consistent with the findings of Zhu et al applying GIK in a porcine model of reduced LAD flow and selective sampling from the anterior interventricular vein. 38 However, we cannot rule out that the results may have been obscured by relatively few samples combined with the dilution of ischemic metabolites in the larger flow from nonischemic areas of the heart into the coronary sinus.
+
+Both fasting and feeding have been proposed to be cardioprotective. 39,40 Our diet and experimental setup resulted in higher baseline concentrations of glucose, carnitine, normetanephrine, and potassium in fed than fasting animals, whereas FFA and insulin levels did not differ between groups. Further, heart rate was increased after feeding. An elevated glucose level is linked to poor prognosis in clinical AMI 16 and was recently shown to abrogate insulin-related cardioprotection against ischemia-reperfusion injury in dogs. 41 Higher heart rate increases workload and metabolic demands and might also disfavor the fed group. On the contrary, more circulating glucose promotes utilization of carbohydrates rather than lipids 7 and enables administration of higher insulin doses, considered to be beneficial. Moreover, increased carnitine levels are shown to diminish myocardial injury after ischemia by counteracting the toxic effects of high FFA concentrations and further improving glucose utilization, 42 but carnitine therapy did not affect 6-month risk of death and heart failure in anterior STEMI. 43 Although serum glucose was significantly higher for prefed animals than fasted controls, levels were within reference limits for all animals in the study. The interplay between metabolic factors, neurohormonal activation, and prosurvival signaling is complex and dynamic, and whether feeding per se is protective, harmful, or indifferent in porcine ischemiareperfusion injury remains to be clarified.
+
+Insulin enhances NO production through activation of PI3-kinase/Akt/eNOS signaling and augments myocardial contractility by increasing coronary circulation and endothelial relaxation. 44 Several studies show improved postischemic cardiac function associated with therapies increasing insulin concentrations. 5,9,24,39,41 A significantly smaller rise in heart rate was detected in fed Ins1.0U pigs compared to controls but no differences according to mean arterial pressure and LV function. The larger AAR in the ''high-dose'' insulin group could be a confounder due to more stunned myocardium in this group. Also, the dose and period of insulin administration were shorter than for most studies.
+
+We conclude that pharmacological postconditioning with insulin is safe, offers quick and targeted therapy, and reduced IS in acute STEMI in our pig model but not on a general basis. Thus, insulin postconditioning adds to a range of therapies where subjects have to be carefully selected for beneficial effects. 26,45 Since there appears to be a dose response, individualization of insulin dosage will possibly be a challenge in clinical myocardial infarction where patients present with a myriad of metabolic states and rapid opening of the vessel is critical. Our findings indicate that the major metabolic changes during reperfusion occur within the first 30 minutes, which may provide new knowledge concerning required treatment length for this type of injury. The infarct reduction in intracoronary insulin observed in pigs is less potent than in rodents, and further studies are needed to elucidate whether it translates to clinical meaningful effects.
+
+Downloaded from cpt.sagepub.com at University of Sussex Library on July 10, 2016
+
+[DOCLING_PAGE 9]
+
+Slettom et al
+
+9
+
+Authors' Note
+
+The present work was performed at Department of Heart Disease, Haukeland University Hospital; Department of Clinical Science, University of Bergen; and Department of Biomedicine, University of Bergen, Bergen, Norway.
+
+Acknowledgments
+
+The authors acknowledge the technical assistance from Lill-Harriet Andreassen, Cato Johnsen, Kjersti Milde, Ankush Gulati, Rune Grøvdal, Rolf Terje Haakonsen, Kari Williams, Jarle Ba ˚rd Seter, Christel Jansen, Anne-Marie Kira, Elin Holm, Jan Ankar Monssen, Merete Skjolden Lemme, Vegard Tuseth, Pirjo Salminen, and Ketil Grong.
+
+Authors' Contributions
+
+G. Slettom contributed to conception and design, acquisition, analysis, and interpretation and drafted the manuscript. A. K. Jonassen contributed to conception and design, acquisition, analysis, and interpretation and critically revised the manuscript. G. O. Dahle contributed to acquisition and interpretation and critically revised the manuscript. R. Seifert contributed to design, analysis, and interpretation and critically revised the manuscript. T. H. Larsen contributed to conception and design, analysis, and interpretation and critically revised the manuscript. R. K. Berge contributed to analysis and interpretation and critically revised the manuscript. J. E. Nordrehaug contributed to conception and design, acquisition, analysis, and interpretation and critically revised the manuscript. All authors gave final approval and agree to be accountable for all aspects of work ensuring integrity and accuracy.
+
+Declaration of Conflicting Interests
+
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Funding
+
+The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: Grete Slettom was financially supported by The Western Norway Regional Health Authority, The Norwegian Health Association and Merchant Olaf Runshaugs endowment. Anne Kristine Jonassen was supported with grants from The Norwegian Research Council and Bergen Translational Research Consortium. Geir Olav Dale was supported by The Western Norway Regional Health Authority, and Rolf Berge was supported by The University of Bergen through the Clinical Nutrition Program.
+
+References
+
+Task Force on the management of ST-segment elevation acute myocardial infarction of the European Society of Cardiology (ESC), Steg PG, James SK, Atar D, et al. ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation. Eur Heart J . 2012;33(20):2569-2619.
+
+Longacre LS, Kloner RA, Arai AE, et al. New horizons in cardioprotection. Circulation . 2011;124(10):1172-1179.
+
+Jonassen AK, Aasum E, Riemersma RA, Mjøs OD, Larsen TS. Glucose-insulin-potassium reduces infarct size when administered during reperfusion. Cardiovasc Drugs Ther . 2000;14(6): 615-623.
+
+Gao F, Gao E, Yue TL, et al. Nitric oxide mediates the antiapoptotic effect of insulin in myocardial ischemia-reperfusion: the roles of PI3-kinase, Akt, and endothelial nitric oxide synthase phosphorylation. Circulation . 2002;105(12):1497-1502.
+
+Zhang HX, Zang YM, Huo JH, et al. Physiologically tolerable insulin reduces myocardial injury and improves cardiac functional recovery in myocardial ischemic/reperfused dogs. J Cardiovasc Pharm . 2006;48(6):306-313.
+
+Mamas MA, Neyses L, Fath-Ordoubadi F. A meta-analysis of glucose-insulin-potassium therapy for treatment of acute myocardial infarction. Exp Clin Cardiol . 2010;15(2):e20-e24.
+
+Grossman AN, Opie LH, Beshansky JR, Ingwall JS, Rackley CE, Selker HP. Glucose-insulin-potassium revived: current status in acute coronary syndromes and the energy-depleted heart. Circulation . 2013;127(9):1040-1048.
+
+Selker HP, Beshansky JR, Sheehan PR, et al. Out-of-hospital administration of intravenous glucose-insulin-potassium in patients with suspected acute coronary syndromes: the IMMEDIATE randomized controlled trial. JAMA . 2012;307(18):1925-1939.
+
+Howell NJ, Ashrafian H, Drury NE, et al. Glucose-insulinpotassium reduces the incidence of low cardiac output episodes after aortic valve replacement for aortic stenosis in patients with left ventricular hypertrophy: results from the Hypertrophy, Insulin, Glucose, and Electrolytes (HINGE) trial. Circulation . 2011; 123(2):170-177.
+
+Angelos MG, Murray HN, Gorsline RT, Klawitter PF. Glucose, insulin and potassium (GIK) during reperfusion mediates improved myocardial bioenergetics. Resuscitation . 2002;55(3):329-336.
+
+Jonassen AK, Sack MN, Mjøs OD, Yellon DM. Myocardial protection by insulin at reperfusion requires early administration and is mediated via Akt and p70s6 kinase cell-survival signaling. Circ Res . 2001;89(12):1191-1198.
+
+Slettom G, Jonassen AK, Tuseth V, et al. Percutaneous catheterbased intracoronary infusion of insulin-a dose finding study in the porcine model. Basic Clin Pharmacol Toxicol . 2011;108(6): 414-420.
+
+Helgeland E, Guvag S, Jonassen AK. Insulin induced cytoprotection by mimicking postconditioning at myocardial reperfusion. Mol Cell Cardiol . 2007;42(6):185-186.
+
+Slettom G, Jonassen AK, Breivik L, Seifert R, Nordrehaug JE. Influence of feeding and intracoronary dose on insulin-mediated relative akt phosphorylation in the porcine myocardium. Cardiovasc Ther . 2013;31(6):125-132.
+
+Downloaded from cpt.sagepub.com at University of Sussex Library on July 10, 2016
+
+[DOCLING_PAGE 10]
+
+10
+
+Journal of Cardiovascular Pharmacology and Therapeutics
+
+So ¨ rensson P, Saleh N, Bouvier F, et al. Effect of postconditioning on infarct size in patients with ST elevation myocardial infarction. Heart . 2010;96(21):1710-1715.
+
+Timmer JR, van der Horst IC, Ottervanger JP, et al. Prognostic value of admission glucose in non-diabetic patients with myocardial infarction. Am Heart J . 2004;148(3):399-404.
+
+Crick SJ, Sheppard MN, Ho SY, Gebstein L, Anderson RH. Anatomy of the pig heart: comparisons with normal human cardiac structure. J Anat . 1998;193(pt 1):105-119.
+
+Go ¨ tberg M, Olivecrona GK, Engblom H, et al. Rapid shortduration hypothermia with cold saline and endovascular cooling before reperfusion reduces microvascular obstruction and myocardial infarct size. BMC Cardiovasc Disord . 2008;8:7.
+
+Heiberg E, Sjo ¨gren J, Ugander M, Carlsson M, Engblom H, Arheden H. Design and validation of segment-freely available software for cardiovascular image analysis. BMC Med Imaging . 2010;10:1.
+
+Vigerust NF, Bohov P, Bjørndal B, et al. Free carnitine and acylcarnitines in obese patients with polycystic ovary syndrome and effects of pioglitazone treatment. Fertil Steril . 2012;98(6): 1620-1626.
+
+Skyschally A, Schulz R, Heusch G. Cyclosporine A at reperfusion reduces infarct size in pigs. Cardiovasc Drugs Ther . 2010;24(1): 85-87.
+
+Musiolik J, van Caster P, Skyschally A, et al. Reduction of infarct size by gentle reperfusion without activation of reperfusion injury salvage kinases in pigs. Cardiovasc Res . 2010;85(1): 110-117.
+
+Skyschally A, van Caster P, Boengler K, et al. Ischemic postconditioning in pigs no causal role for RISK activation. Circ Res . 2009;104(1):15-35.
+
+Timmers L, Henriques JP, de Kleijn DP, et al. Exenatide reduces infarct size and improves cardiac function in a porcine model of ischemia and reperfusion injury. J Am Coll Cardiol . 2009;53(6): 501-510.
+
+Lie RH, Stoettrup E, Sloth E, Hasenkam JM, Kroyer R, Nielsen TT. Post-conditioning with cyclosporine A fails to reduce the infarct size in an in vivo porcine model. Acta Anaesthesiol Scand . 2010;54(7):804-813.
+
+Lønborg J, Kelbæk H, Vejlstrup N, et al. Cardioprotective effects of ischemic postconditioning in patients treated with primary percutaneous coronary intervention, evaluated by magnetic resonance. Circ Cardiovasc Interven . 2010;3(1):34-41.
+
+Kim RJ, Fieno DS, Parrish TB, et al. Relationship of MRI delayed contrast enhancement to irreversible injury, infarct age, and contractile function. Circulation . 1999;100(19):1992-2002.
+
+Birnbaum Y, Hale SL, Kloner RA. Differences in reperfusion length following 30 minutes of ischemia in the rabbit influence infarct size, as measured by triphenyltetrazolium chloride staining. J Mol Cell Cardiol . 1997;29(2):657-666.
+
+Ubachs JF, Engblom H, Koul S, et al. Myocardium at risk can be determined by ex vivo T2-weighted magnetic resonance imaging even in the presence of gadolinium: comparison to myocardial perfusion single photon emission computer tomography. Eur Heart J Cardiovasc Imaging . 2013;14(3): 261-268.
+
+Halle ´n J, Buser P, Schwitter J, et al. Relation of cardiac troponin I measurements at 24 and 48 hours to magnetic resonancedetermined infarct size in patients with ST-elevation myocardial infarction. Am J Cardiol . 2009;104(11):1472-1477.
+
+Mayr A, Klug G, Schocke M, et al. Late microvascular obstruction after acute myocardial infarction: relation with cardiac and inflammatory markers. Int J Cardiol . 2012;157(3):391-396.
+
+Piot C, Croisille P, Staat P, et al. Effect of cyclosporine on reperfusion injury in acute myocardial infarction. N Engl J Med . 2008; 359(5):473-481.
+
+Fujiwara H, Matsuda M, Fujiwara Y, et al. Infarct size and the protection of ischemic myocardium in pig, dog and human. Jpn Circ J . 1989;53(9):1092-1097.
+
+Swaanenburg JC, Visser-VanBrummen PJ, DeJongste MJ, Tiebosch AT. The content and distribution of troponin I, troponin T, myoglobin, and alpha-hydroxybutyric acid dehydrogenase in the human heart. Am J Clin Pathol . 2001;115(5):770-777.
+
+Parcellier A, Tintignac LA, Zhuravleva E, Hemmings BA. PKB and the mitochondria: AKTing on apoptosis. Cell Signal . 2008; 20(1):21-30.
+
+Salminen PR, Dahle GO, Moen CA, et al. Reperfusion therapy with low-dose insulin or insulin-like growth factor 2; myocardial function and infarct size in a porcine model of ischaemia and reperfusion. Basic Clin Pharmacol Toxicol . 2014;115(5): 438-447.
+
+Verma S, Fedak P, Weisel RD, et al. Fundamentals of reperfusion injury for the clinical cardiologist. Circulation . 2002;105(20): 2332-2336.
+
+Zhu P, Lu L, Xu Y, Greyson C, Schwartz GG. Glucose-insulinpotassium preserves systolic and diastolic function in ischemia and reperfusion in pigs. Am J Physiol Heart Circ Physiol . 2000; 278(2):H595-H603.
+
+Schneider CA, Taegtmeyer H. Fasting in vivo delays myocardial cell damage after brief periods of ischemia in the isolated working rat heart. Circ Res . 1991;68(4):1045-1050.
+
+Liepinsh E, Makrecka M, Kuka J, et al. The heart is better protected against myocardial infarction in the fed state compared to the fasted state. Metabolism . 2014;63(1):127-136.
+
+Yu Q, Zhou N, Nan Y, et al. Effective glycaemic control critically determines insulin cardioprotection against ischaemia/reperfusion injury in anaesthetized dogs. Cardiovasc Res . 2014;103(2): 238-247.
+
+Xue YZ, Wang LX, Liu HZ, Qi XW, Wang XH, Ren HZ. L-carnitine as an adjunct therapy to percutaneous coronary intervention for non-ST elevation myocardial infarction. Cardiovasc Drugs Ther . 2007;21(6):445-448.
+
+Tarantini G, Scrutinio D, Bruzzi P, Boni L, Rizzon P, Iliceto S. Metabolic treatment with L-carnitine in acute anterior ST segment elevation myocardial infarction. Cardiology . 2006;106(4): 215-223.
+
+Yu Q, Gao F, Ma XL. Insulin says NO to cardiovascular disease. Cardiovasc Res . 2011;89(3):516-524.
+
+Lønborg J, Kelbæk H, Vejlstrup N, et al. Exenatide reduces final infarct size in patients with ST-segment-elevation myocardial infarction and short-duration of ischemia. Eur Heart J . 2012: 33(12):1491-1499.
+
+Downloaded from cpt.sagepub.com at University of Sussex Library on July 10, 2016

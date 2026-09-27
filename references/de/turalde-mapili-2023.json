@@ -1,0 +1,405 @@
+{
+  "case_id": "turalde-mapili-2023",
+  "study_target_cells": [
+    {
+      "study_key": "trial03",
+      "target_id": "result.ma_rsv_lrti",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 25,
+        "intervention_group_size": 969,
+        "comparator_events": 46,
+        "comparator_group_size": 484
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 25,
+          "document_key": "trial03.fulltext",
+          "source_path": "documents/trial03-primary-full/source.html",
+          "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+          "quote": "From November 2016 through November 2017, a total of 1453 infants were randomly assigned to receive nirsevimab (969 infants) or placebo (484 infants) at the start of the RSV season. The incidence of medically attended RSV-associated lower respiratory tract infection was 70.1% lower (95% confidence interval [CI], 52.3 to 81.2) with nirsevimab prophylaxis than with placebo (2.6% [25 infants] vs. 9.5% [46 infants]; P<0.001) and the incidence of hospitalization for RSV-associated lower respiratory tract infection was 78.4% lower (95% CI, 51.9 to 90.3) with nirsevimab than with placebo (0.8% [8 infants] vs. 4.1% [20 infants]; P<0.001).",
+          "view_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 969,
+          "document_key": "trial03.fulltext",
+          "source_path": "documents/trial03-primary-full/source.html",
+          "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+          "quote": "From November 2016 through November 2017, a total of 1453 infants were randomly assigned to receive nirsevimab (969 infants) or placebo (484 infants) at the start of the RSV season. The incidence of medically attended RSV-associated lower respiratory tract infection was 70.1% lower (95% confidence interval [CI], 52.3 to 81.2) with nirsevimab prophylaxis than with placebo (2.6% [25 infants] vs. 9.5% [46 infants]; P<0.001) and the incidence of hospitalization for RSV-associated lower respiratory tract infection was 78.4% lower (95% CI, 51.9 to 90.3) with nirsevimab than with placebo (0.8% [8 infants] vs. 4.1% [20 infants]; P<0.001).",
+          "view_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 46,
+          "document_key": "trial03.fulltext",
+          "source_path": "documents/trial03-primary-full/source.html",
+          "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+          "quote": "From November 2016 through November 2017, a total of 1453 infants were randomly assigned to receive nirsevimab (969 infants) or placebo (484 infants) at the start of the RSV season. The incidence of medically attended RSV-associated lower respiratory tract infection was 70.1% lower (95% confidence interval [CI], 52.3 to 81.2) with nirsevimab prophylaxis than with placebo (2.6% [25 infants] vs. 9.5% [46 infants]; P<0.001) and the incidence of hospitalization for RSV-associated lower respiratory tract infection was 78.4% lower (95% CI, 51.9 to 90.3) with nirsevimab than with placebo (0.8% [8 infants] vs. 4.1% [20 infants]; P<0.001).",
+          "view_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 484,
+          "document_key": "trial03.fulltext",
+          "source_path": "documents/trial03-primary-full/source.html",
+          "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+          "quote": "From November 2016 through November 2017, a total of 1453 infants were randomly assigned to receive nirsevimab (969 infants) or placebo (484 infants) at the start of the RSV season. The incidence of medically attended RSV-associated lower respiratory tract infection was 70.1% lower (95% confidence interval [CI], 52.3 to 81.2) with nirsevimab prophylaxis than with placebo (2.6% [25 infants] vs. 9.5% [46 infants]; P<0.001) and the incidence of hospitalization for RSV-associated lower respiratory tract infection was 78.4% lower (95% CI, 51.9 to 90.3) with nirsevimab than with placebo (0.8% [8 infants] vs. 4.1% [20 infants]; P<0.001).",
+          "view_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "trial04.melody",
+      "target_id": "result.ma_rsv_lrti",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 12,
+        "intervention_group_size": 994,
+        "comparator_events": 25,
+        "comparator_group_size": 496
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 12,
+          "document_key": "trial04.fulltext",
+          "source_path": "documents/trial04-primary-full/source.html",
+          "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+          "quote": "A total of 1490 infants underwent randomization: 994 were assigned to the nirsevimab group and 496 to the placebo group. Medically attended RSV-associated lower respiratory tract infection occurred in 12 infants (1.2%) in the nirsevimab group and in 25 infants (5.0%) in the placebo group; these findings correspond to an efficacy of 74.5% (95% confidence interval [CI], 49.6 to 87.1; P<0.001) for nirsevimab. Hospitalization for RSV-associated lower respiratory tract infection occurred in 6 infants (0.6%) in the nirsevimab group and in 8 infants (1.6%) in the placebo group (efficacy, 62.1%; 95% CI, −8.6 to 86.8; P=0.07).",
+          "view_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 994,
+          "document_key": "trial04.fulltext",
+          "source_path": "documents/trial04-primary-full/source.html",
+          "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+          "quote": "A total of 1490 infants underwent randomization: 994 were assigned to the nirsevimab group and 496 to the placebo group. Medically attended RSV-associated lower respiratory tract infection occurred in 12 infants (1.2%) in the nirsevimab group and in 25 infants (5.0%) in the placebo group; these findings correspond to an efficacy of 74.5% (95% confidence interval [CI], 49.6 to 87.1; P<0.001) for nirsevimab. Hospitalization for RSV-associated lower respiratory tract infection occurred in 6 infants (0.6%) in the nirsevimab group and in 8 infants (1.6%) in the placebo group (efficacy, 62.1%; 95% CI, −8.6 to 86.8; P=0.07).",
+          "view_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 25,
+          "document_key": "trial04.fulltext",
+          "source_path": "documents/trial04-primary-full/source.html",
+          "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+          "quote": "A total of 1490 infants underwent randomization: 994 were assigned to the nirsevimab group and 496 to the placebo group. Medically attended RSV-associated lower respiratory tract infection occurred in 12 infants (1.2%) in the nirsevimab group and in 25 infants (5.0%) in the placebo group; these findings correspond to an efficacy of 74.5% (95% confidence interval [CI], 49.6 to 87.1; P<0.001) for nirsevimab. Hospitalization for RSV-associated lower respiratory tract infection occurred in 6 infants (0.6%) in the nirsevimab group and in 8 infants (1.6%) in the placebo group (efficacy, 62.1%; 95% CI, −8.6 to 86.8; P=0.07).",
+          "view_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 496,
+          "document_key": "trial04.fulltext",
+          "source_path": "documents/trial04-primary-full/source.html",
+          "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+          "quote": "A total of 1490 infants underwent randomization: 994 were assigned to the nirsevimab group and 496 to the placebo group. Medically attended RSV-associated lower respiratory tract infection occurred in 12 infants (1.2%) in the nirsevimab group and in 25 infants (5.0%) in the placebo group; these findings correspond to an efficacy of 74.5% (95% confidence interval [CI], 49.6 to 87.1; P<0.001) for nirsevimab. Hospitalization for RSV-associated lower respiratory tract infection occurred in 6 infants (0.6%) in the nirsevimab group and in 8 infants (1.6%) in the placebo group (efficacy, 62.1%; 95% CI, −8.6 to 86.8; P=0.07).",
+          "view_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "trial03",
+      "target_id": "result.rsv_hospitalization",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 8,
+        "intervention_group_size": 969,
+        "comparator_events": 20,
+        "comparator_group_size": 484
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 8,
+          "document_key": "trial03.fulltext",
+          "source_path": "documents/trial03-primary-full/source.html",
+          "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+          "quote": "From November 2016 through November 2017, a total of 1453 infants were randomly assigned to receive nirsevimab (969 infants) or placebo (484 infants) at the start of the RSV season. The incidence of medically attended RSV-associated lower respiratory tract infection was 70.1% lower (95% confidence interval [CI], 52.3 to 81.2) with nirsevimab prophylaxis than with placebo (2.6% [25 infants] vs. 9.5% [46 infants]; P<0.001) and the incidence of hospitalization for RSV-associated lower respiratory tract infection was 78.4% lower (95% CI, 51.9 to 90.3) with nirsevimab than with placebo (0.8% [8 infants] vs. 4.1% [20 infants]; P<0.001).",
+          "view_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 969,
+          "document_key": "trial03.fulltext",
+          "source_path": "documents/trial03-primary-full/source.html",
+          "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+          "quote": "From November 2016 through November 2017, a total of 1453 infants were randomly assigned to receive nirsevimab (969 infants) or placebo (484 infants) at the start of the RSV season. The incidence of medically attended RSV-associated lower respiratory tract infection was 70.1% lower (95% confidence interval [CI], 52.3 to 81.2) with nirsevimab prophylaxis than with placebo (2.6% [25 infants] vs. 9.5% [46 infants]; P<0.001) and the incidence of hospitalization for RSV-associated lower respiratory tract infection was 78.4% lower (95% CI, 51.9 to 90.3) with nirsevimab than with placebo (0.8% [8 infants] vs. 4.1% [20 infants]; P<0.001).",
+          "view_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 20,
+          "document_key": "trial03.fulltext",
+          "source_path": "documents/trial03-primary-full/source.html",
+          "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+          "quote": "From November 2016 through November 2017, a total of 1453 infants were randomly assigned to receive nirsevimab (969 infants) or placebo (484 infants) at the start of the RSV season. The incidence of medically attended RSV-associated lower respiratory tract infection was 70.1% lower (95% confidence interval [CI], 52.3 to 81.2) with nirsevimab prophylaxis than with placebo (2.6% [25 infants] vs. 9.5% [46 infants]; P<0.001) and the incidence of hospitalization for RSV-associated lower respiratory tract infection was 78.4% lower (95% CI, 51.9 to 90.3) with nirsevimab than with placebo (0.8% [8 infants] vs. 4.1% [20 infants]; P<0.001).",
+          "view_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 484,
+          "document_key": "trial03.fulltext",
+          "source_path": "documents/trial03-primary-full/source.html",
+          "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+          "quote": "From November 2016 through November 2017, a total of 1453 infants were randomly assigned to receive nirsevimab (969 infants) or placebo (484 infants) at the start of the RSV season. The incidence of medically attended RSV-associated lower respiratory tract infection was 70.1% lower (95% confidence interval [CI], 52.3 to 81.2) with nirsevimab prophylaxis than with placebo (2.6% [25 infants] vs. 9.5% [46 infants]; P<0.001) and the incidence of hospitalization for RSV-associated lower respiratory tract infection was 78.4% lower (95% CI, 51.9 to 90.3) with nirsevimab than with placebo (0.8% [8 infants] vs. 4.1% [20 infants]; P<0.001).",
+          "view_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "trial04.melody",
+      "target_id": "result.rsv_hospitalization",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 6,
+        "intervention_group_size": 994,
+        "comparator_events": 8,
+        "comparator_group_size": 496
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 6,
+          "document_key": "trial04.fulltext",
+          "source_path": "documents/trial04-primary-full/source.html",
+          "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+          "quote": "A total of 1490 infants underwent randomization: 994 were assigned to the nirsevimab group and 496 to the placebo group. Medically attended RSV-associated lower respiratory tract infection occurred in 12 infants (1.2%) in the nirsevimab group and in 25 infants (5.0%) in the placebo group; these findings correspond to an efficacy of 74.5% (95% confidence interval [CI], 49.6 to 87.1; P<0.001) for nirsevimab. Hospitalization for RSV-associated lower respiratory tract infection occurred in 6 infants (0.6%) in the nirsevimab group and in 8 infants (1.6%) in the placebo group (efficacy, 62.1%; 95% CI, −8.6 to 86.8; P=0.07).",
+          "view_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 994,
+          "document_key": "trial04.fulltext",
+          "source_path": "documents/trial04-primary-full/source.html",
+          "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+          "quote": "A total of 1490 infants underwent randomization: 994 were assigned to the nirsevimab group and 496 to the placebo group. Medically attended RSV-associated lower respiratory tract infection occurred in 12 infants (1.2%) in the nirsevimab group and in 25 infants (5.0%) in the placebo group; these findings correspond to an efficacy of 74.5% (95% confidence interval [CI], 49.6 to 87.1; P<0.001) for nirsevimab. Hospitalization for RSV-associated lower respiratory tract infection occurred in 6 infants (0.6%) in the nirsevimab group and in 8 infants (1.6%) in the placebo group (efficacy, 62.1%; 95% CI, −8.6 to 86.8; P=0.07).",
+          "view_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 8,
+          "document_key": "trial04.fulltext",
+          "source_path": "documents/trial04-primary-full/source.html",
+          "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+          "quote": "A total of 1490 infants underwent randomization: 994 were assigned to the nirsevimab group and 496 to the placebo group. Medically attended RSV-associated lower respiratory tract infection occurred in 12 infants (1.2%) in the nirsevimab group and in 25 infants (5.0%) in the placebo group; these findings correspond to an efficacy of 74.5% (95% confidence interval [CI], 49.6 to 87.1; P<0.001) for nirsevimab. Hospitalization for RSV-associated lower respiratory tract infection occurred in 6 infants (0.6%) in the nirsevimab group and in 8 infants (1.6%) in the placebo group (efficacy, 62.1%; 95% CI, −8.6 to 86.8; P=0.07).",
+          "view_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 496,
+          "document_key": "trial04.fulltext",
+          "source_path": "documents/trial04-primary-full/source.html",
+          "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+          "quote": "A total of 1490 infants underwent randomization: 994 were assigned to the nirsevimab group and 496 to the placebo group. Medically attended RSV-associated lower respiratory tract infection occurred in 12 infants (1.2%) in the nirsevimab group and in 25 infants (5.0%) in the placebo group; these findings correspond to an efficacy of 74.5% (95% confidence interval [CI], 49.6 to 87.1; P<0.001) for nirsevimab. Hospitalization for RSV-associated lower respiratory tract infection occurred in 6 infants (0.6%) in the nirsevimab group and in 8 infants (1.6%) in the placebo group (efficacy, 62.1%; 95% CI, −8.6 to 86.8; P=0.07).",
+          "view_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "trial03",
+      "target_id": "result.adverse_events_leading_to_death",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 2,
+        "intervention_group_size": 968,
+        "comparator_events": 3,
+        "comparator_group_size": 479
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 2,
+          "document_key": "trial03.fulltext",
+          "source_path": "documents/trial03-primary-full/source.html",
+          "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+          "quote": "Variable | Nirsevimab (N=968) | Placebo (N=479)\n | number (percent)\nAdverse event during the trial period | 834 (86.2) | 416 (86.8)\nConsidered related to trial drug † | 22 (2.3) | 10 (2.1)\n≥Grade 3 | 77 (8.0) | 60 (12.5)\nOccurred ≤1 day after the dose | 24 (2.5) | 12 (2.5)\nOccurred ≤7 days after the dose | 121 (12.5) | 73 (15.2)\nDeath ‡ | 2 (0.2) | 3 (0.6)",
+          "view_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 968,
+          "document_key": "trial03.fulltext",
+          "source_path": "documents/trial03-primary-full/source.html",
+          "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+          "quote": "Variable | Nirsevimab (N=968) | Placebo (N=479)\n | number (percent)\nAdverse event during the trial period | 834 (86.2) | 416 (86.8)\nConsidered related to trial drug † | 22 (2.3) | 10 (2.1)\n≥Grade 3 | 77 (8.0) | 60 (12.5)\nOccurred ≤1 day after the dose | 24 (2.5) | 12 (2.5)\nOccurred ≤7 days after the dose | 121 (12.5) | 73 (15.2)\nDeath ‡ | 2 (0.2) | 3 (0.6)",
+          "view_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 3,
+          "document_key": "trial03.fulltext",
+          "source_path": "documents/trial03-primary-full/source.html",
+          "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+          "quote": "Variable | Nirsevimab (N=968) | Placebo (N=479)\n | number (percent)\nAdverse event during the trial period | 834 (86.2) | 416 (86.8)\nConsidered related to trial drug † | 22 (2.3) | 10 (2.1)\n≥Grade 3 | 77 (8.0) | 60 (12.5)\nOccurred ≤1 day after the dose | 24 (2.5) | 12 (2.5)\nOccurred ≤7 days after the dose | 121 (12.5) | 73 (15.2)\nDeath ‡ | 2 (0.2) | 3 (0.6)",
+          "view_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 479,
+          "document_key": "trial03.fulltext",
+          "source_path": "documents/trial03-primary-full/source.html",
+          "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+          "quote": "Variable | Nirsevimab (N=968) | Placebo (N=479)\n | number (percent)\nAdverse event during the trial period | 834 (86.2) | 416 (86.8)\nConsidered related to trial drug † | 22 (2.3) | 10 (2.1)\n≥Grade 3 | 77 (8.0) | 60 (12.5)\nOccurred ≤1 day after the dose | 24 (2.5) | 12 (2.5)\nOccurred ≤7 days after the dose | 121 (12.5) | 73 (15.2)\nDeath ‡ | 2 (0.2) | 3 (0.6)",
+          "view_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "trial04.melody",
+      "target_id": "result.adverse_events_leading_to_death",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 3,
+        "intervention_group_size": 987,
+        "comparator_events": 0,
+        "comparator_group_size": 491
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 3,
+          "document_key": "trial04.fulltext",
+          "source_path": "documents/trial04-primary-full/source.html",
+          "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+          "quote": "Variable | Nirsevimab (N=987) | Placebo (N=491) | Total (N=1478)\n | no. of participants (%)\nAny adverse event | 863 (87.4) | 426 (86.8) | 1289 (87.2)\nConsidered to be related to the trial regimen | 10 (1.0) | 7 (1.4) | 17 (1.2)\nOccurred ≤1 day after the injection | 18 (1.8) | 3 (0.6) | 21 (1.4)\nOccurred ≤3 days after the injection | 56 (5.7) | 23 (4.7) | 79 (5.3)\nOccurred ≤7 days after the injection | 132 (13.4) | 63 (12.8) | 195 (13.2)\nAdverse event of grade ≥3 severity | 36 (3.6) | 21 (4.3) | 57 (3.9)\nAdverse event that resulted in death | 3 (0.3) | 0 | 3 (0.2)",
+          "view_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 987,
+          "document_key": "trial04.fulltext",
+          "source_path": "documents/trial04-primary-full/source.html",
+          "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+          "quote": "Variable | Nirsevimab (N=987) | Placebo (N=491) | Total (N=1478)\n | no. of participants (%)\nAny adverse event | 863 (87.4) | 426 (86.8) | 1289 (87.2)\nConsidered to be related to the trial regimen | 10 (1.0) | 7 (1.4) | 17 (1.2)\nOccurred ≤1 day after the injection | 18 (1.8) | 3 (0.6) | 21 (1.4)\nOccurred ≤3 days after the injection | 56 (5.7) | 23 (4.7) | 79 (5.3)\nOccurred ≤7 days after the injection | 132 (13.4) | 63 (12.8) | 195 (13.2)\nAdverse event of grade ≥3 severity | 36 (3.6) | 21 (4.3) | 57 (3.9)\nAdverse event that resulted in death | 3 (0.3) | 0 | 3 (0.2)",
+          "view_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 0,
+          "document_key": "trial04.fulltext",
+          "source_path": "documents/trial04-primary-full/source.html",
+          "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+          "quote": "Variable | Nirsevimab (N=987) | Placebo (N=491) | Total (N=1478)\n | no. of participants (%)\nAny adverse event | 863 (87.4) | 426 (86.8) | 1289 (87.2)\nConsidered to be related to the trial regimen | 10 (1.0) | 7 (1.4) | 17 (1.2)\nOccurred ≤1 day after the injection | 18 (1.8) | 3 (0.6) | 21 (1.4)\nOccurred ≤3 days after the injection | 56 (5.7) | 23 (4.7) | 79 (5.3)\nOccurred ≤7 days after the injection | 132 (13.4) | 63 (12.8) | 195 (13.2)\nAdverse event of grade ≥3 severity | 36 (3.6) | 21 (4.3) | 57 (3.9)\nAdverse event that resulted in death | 3 (0.3) | 0 | 3 (0.2)",
+          "view_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 491,
+          "document_key": "trial04.fulltext",
+          "source_path": "documents/trial04-primary-full/source.html",
+          "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+          "quote": "Variable | Nirsevimab (N=987) | Placebo (N=491) | Total (N=1478)\n | no. of participants (%)\nAny adverse event | 863 (87.4) | 426 (86.8) | 1289 (87.2)\nConsidered to be related to the trial regimen | 10 (1.0) | 7 (1.4) | 17 (1.2)\nOccurred ≤1 day after the injection | 18 (1.8) | 3 (0.6) | 21 (1.4)\nOccurred ≤3 days after the injection | 56 (5.7) | 23 (4.7) | 79 (5.3)\nOccurred ≤7 days after the injection | 132 (13.4) | 63 (12.8) | 195 (13.2)\nAdverse event of grade ≥3 severity | 36 (3.6) | 21 (4.3) | 57 (3.9)\nAdverse event that resulted in death | 3 (0.3) | 0 | 3 (0.2)",
+          "view_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "trial03",
+      "target_id": "result.adverse_events_special_interest",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 5,
+        "intervention_group_size": 968,
+        "comparator_events": 3,
+        "comparator_group_size": 479
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 5,
+          "document_key": "trial03.fulltext",
+          "source_path": "documents/trial03-primary-full/source.html",
+          "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+          "quote": "Variable | Nirsevimab (N=968) | Placebo (N=479)\n | number (percent)\nAdverse event during the trial period | 834 (86.2) | 416 (86.8)\nConsidered related to trial drug † | 22 (2.3) | 10 (2.1)\n≥Grade 3 | 77 (8.0) | 60 (12.5)\nOccurred ≤1 day after the dose | 24 (2.5) | 12 (2.5)\nOccurred ≤7 days after the dose | 121 (12.5) | 73 (15.2)\nDeath ‡ | 2 (0.2) | 3 (0.6)\nSerious adverse event during the trial period |  |\nAny | 108 (11.2) | 81 (16.9)\nConsidered related to trial drug † | 0 | 0\nAdverse event of special interest § |  |\nAny | 5 (0.5) | 3 (0.6)\nConsidered related to trial drug † | 5 (0.5) | 3 (0.6)",
+          "view_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 968,
+          "document_key": "trial03.fulltext",
+          "source_path": "documents/trial03-primary-full/source.html",
+          "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+          "quote": "Variable | Nirsevimab (N=968) | Placebo (N=479)\n | number (percent)\nAdverse event during the trial period | 834 (86.2) | 416 (86.8)\nConsidered related to trial drug † | 22 (2.3) | 10 (2.1)\n≥Grade 3 | 77 (8.0) | 60 (12.5)\nOccurred ≤1 day after the dose | 24 (2.5) | 12 (2.5)\nOccurred ≤7 days after the dose | 121 (12.5) | 73 (15.2)\nDeath ‡ | 2 (0.2) | 3 (0.6)\nSerious adverse event during the trial period |  |\nAny | 108 (11.2) | 81 (16.9)\nConsidered related to trial drug † | 0 | 0\nAdverse event of special interest § |  |\nAny | 5 (0.5) | 3 (0.6)\nConsidered related to trial drug † | 5 (0.5) | 3 (0.6)",
+          "view_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 3,
+          "document_key": "trial03.fulltext",
+          "source_path": "documents/trial03-primary-full/source.html",
+          "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+          "quote": "Variable | Nirsevimab (N=968) | Placebo (N=479)\n | number (percent)\nAdverse event during the trial period | 834 (86.2) | 416 (86.8)\nConsidered related to trial drug † | 22 (2.3) | 10 (2.1)\n≥Grade 3 | 77 (8.0) | 60 (12.5)\nOccurred ≤1 day after the dose | 24 (2.5) | 12 (2.5)\nOccurred ≤7 days after the dose | 121 (12.5) | 73 (15.2)\nDeath ‡ | 2 (0.2) | 3 (0.6)\nSerious adverse event during the trial period |  |\nAny | 108 (11.2) | 81 (16.9)\nConsidered related to trial drug † | 0 | 0\nAdverse event of special interest § |  |\nAny | 5 (0.5) | 3 (0.6)\nConsidered related to trial drug † | 5 (0.5) | 3 (0.6)",
+          "view_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 479,
+          "document_key": "trial03.fulltext",
+          "source_path": "documents/trial03-primary-full/source.html",
+          "source_sha256": "00ef02aa5bc8657dd6bfe4f183a64f09bdcf52ceeaddf2b9d76a47b0d888ba58",
+          "quote": "Variable | Nirsevimab (N=968) | Placebo (N=479)\n | number (percent)\nAdverse event during the trial period | 834 (86.2) | 416 (86.8)\nConsidered related to trial drug † | 22 (2.3) | 10 (2.1)\n≥Grade 3 | 77 (8.0) | 60 (12.5)\nOccurred ≤1 day after the dose | 24 (2.5) | 12 (2.5)\nOccurred ≤7 days after the dose | 121 (12.5) | 73 (15.2)\nDeath ‡ | 2 (0.2) | 3 (0.6)\nSerious adverse event during the trial period |  |\nAny | 108 (11.2) | 81 (16.9)\nConsidered related to trial drug † | 0 | 0\nAdverse event of special interest § |  |\nAny | 5 (0.5) | 3 (0.6)\nConsidered related to trial drug † | 5 (0.5) | 3 (0.6)",
+          "view_sha256": "3001b603b26fd1736ad5261dabd93da3dbc78e20ccfa75b9d991d17657301730"
+        }
+      ],
+      "reason": null
+    },
+    {
+      "study_key": "trial04.melody",
+      "target_id": "result.adverse_events_special_interest",
+      "values": {
+        "result_type": "BINARY",
+        "intervention_events": 1,
+        "intervention_group_size": 987,
+        "comparator_events": 0,
+        "comparator_group_size": 491
+      },
+      "evidence": [
+        {
+          "canonical_field": "intervention_events",
+          "value": 1,
+          "document_key": "trial04.fulltext",
+          "source_path": "documents/trial04-primary-full/source.html",
+          "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+          "quote": "Variable | Nirsevimab (N=987) | Placebo (N=491) | Total (N=1478)\n | no. of participants (%)\nAny adverse event | 863 (87.4) | 426 (86.8) | 1289 (87.2)\nConsidered to be related to the trial regimen | 10 (1.0) | 7 (1.4) | 17 (1.2)\nOccurred ≤1 day after the injection | 18 (1.8) | 3 (0.6) | 21 (1.4)\nOccurred ≤3 days after the injection | 56 (5.7) | 23 (4.7) | 79 (5.3)\nOccurred ≤7 days after the injection | 132 (13.4) | 63 (12.8) | 195 (13.2)\nAdverse event of grade ≥3 severity | 36 (3.6) | 21 (4.3) | 57 (3.9)\nAdverse event that resulted in death | 3 (0.3) | 0 | 3 (0.2)\nSerious adverse event † | 67 (6.8) | 36 (7.3) | 103 (7.0)\nConsidered to be related to the trial regimen | 0 | 0 | 0\nAdverse event of special interest ‡ | 1 (0.1) | 0 | 1 (0.1)",
+          "view_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"
+        },
+        {
+          "canonical_field": "intervention_group_size",
+          "value": 987,
+          "document_key": "trial04.fulltext",
+          "source_path": "documents/trial04-primary-full/source.html",
+          "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+          "quote": "Variable | Nirsevimab (N=987) | Placebo (N=491) | Total (N=1478)\n | no. of participants (%)\nAny adverse event | 863 (87.4) | 426 (86.8) | 1289 (87.2)\nConsidered to be related to the trial regimen | 10 (1.0) | 7 (1.4) | 17 (1.2)\nOccurred ≤1 day after the injection | 18 (1.8) | 3 (0.6) | 21 (1.4)\nOccurred ≤3 days after the injection | 56 (5.7) | 23 (4.7) | 79 (5.3)\nOccurred ≤7 days after the injection | 132 (13.4) | 63 (12.8) | 195 (13.2)\nAdverse event of grade ≥3 severity | 36 (3.6) | 21 (4.3) | 57 (3.9)\nAdverse event that resulted in death | 3 (0.3) | 0 | 3 (0.2)\nSerious adverse event † | 67 (6.8) | 36 (7.3) | 103 (7.0)\nConsidered to be related to the trial regimen | 0 | 0 | 0\nAdverse event of special interest ‡ | 1 (0.1) | 0 | 1 (0.1)",
+          "view_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"
+        },
+        {
+          "canonical_field": "comparator_events",
+          "value": 0,
+          "document_key": "trial04.fulltext",
+          "source_path": "documents/trial04-primary-full/source.html",
+          "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+          "quote": "Variable | Nirsevimab (N=987) | Placebo (N=491) | Total (N=1478)\n | no. of participants (%)\nAny adverse event | 863 (87.4) | 426 (86.8) | 1289 (87.2)\nConsidered to be related to the trial regimen | 10 (1.0) | 7 (1.4) | 17 (1.2)\nOccurred ≤1 day after the injection | 18 (1.8) | 3 (0.6) | 21 (1.4)\nOccurred ≤3 days after the injection | 56 (5.7) | 23 (4.7) | 79 (5.3)\nOccurred ≤7 days after the injection | 132 (13.4) | 63 (12.8) | 195 (13.2)\nAdverse event of grade ≥3 severity | 36 (3.6) | 21 (4.3) | 57 (3.9)\nAdverse event that resulted in death | 3 (0.3) | 0 | 3 (0.2)\nSerious adverse event † | 67 (6.8) | 36 (7.3) | 103 (7.0)\nConsidered to be related to the trial regimen | 0 | 0 | 0\nAdverse event of special interest ‡ | 1 (0.1) | 0 | 1 (0.1)",
+          "view_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"
+        },
+        {
+          "canonical_field": "comparator_group_size",
+          "value": 491,
+          "document_key": "trial04.fulltext",
+          "source_path": "documents/trial04-primary-full/source.html",
+          "source_sha256": "554a87cd1c58d284bba17adc316072d49d8bb4057381e927c6b48df6a78fae23",
+          "quote": "Variable | Nirsevimab (N=987) | Placebo (N=491) | Total (N=1478)\n | no. of participants (%)\nAny adverse event | 863 (87.4) | 426 (86.8) | 1289 (87.2)\nConsidered to be related to the trial regimen | 10 (1.0) | 7 (1.4) | 17 (1.2)\nOccurred ≤1 day after the injection | 18 (1.8) | 3 (0.6) | 21 (1.4)\nOccurred ≤3 days after the injection | 56 (5.7) | 23 (4.7) | 79 (5.3)\nOccurred ≤7 days after the injection | 132 (13.4) | 63 (12.8) | 195 (13.2)\nAdverse event of grade ≥3 severity | 36 (3.6) | 21 (4.3) | 57 (3.9)\nAdverse event that resulted in death | 3 (0.3) | 0 | 3 (0.2)\nSerious adverse event † | 67 (6.8) | 36 (7.3) | 103 (7.0)\nConsidered to be related to the trial regimen | 0 | 0 | 0\nAdverse event of special interest ‡ | 1 (0.1) | 0 | 1 (0.1)",
+          "view_sha256": "791bc6913558b0c73e982334fe6e2d4b56291425958a1aa863035099b61c2bee"
+        }
+      ],
+      "reason": null
+    }
+  ]
+}

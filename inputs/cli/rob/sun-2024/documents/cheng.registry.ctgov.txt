@@ -1,0 +1,316 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03103633",
+      "orgStudyIdInfo": {
+        "id": "FirstAnhuiM"
+      },
+      "organization": {
+        "fullName": "The First Affiliated Hospital of Anhui Medical University",
+        "class": "OTHER"
+      },
+      "briefTitle": "The Effects of Individualized Oxygen Dynamic on Prognosis of Patients With High-risk Cardiac Surgery",
+      "officialTitle": "Effects of Perioperative Goal-Directed Therapy Based on Individualized Oxygen Balance on Outcomes During High-risk Cardiac Surgery:A Single Center, Prospective,Randomized,Controlled,Double Blinded Study."
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2017-04",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2017-03-05",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2018-06-30",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2018-07-30",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2017-04-01",
+      "studyFirstSubmitQcDate": "2017-04-05",
+      "studyFirstPostDateStruct": {
+        "date": "2017-04-06",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2019-03-21",
+      "lastUpdatePostDateStruct": {
+        "date": "2019-03-25",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "The First Affiliated Hospital of Anhui Medical University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Anesthesia-related factors have been linked to poor perioperative outcomes. Our observational study suggested that the cumulative duration of a triple-low state \\[intraoperative low mean arterial pressure (MAP), low bispectral index (BIS), and low target effect-site concentration(Ce) \\]was associated with poorer 30-day mortality.This randomized, prospective study based on individualized Oxygen dynamics is designed to confirm this association in high-risk patients cardiopulmonary bypass (CPB)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Cardiac Disease",
+        "High Risk Sex"
+      ],
+      "keywords": [
+        "oxygen dynamics",
+        "Prognosis"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "Interventional group:MAP declined with less than 20% of baseline, BIS 45-60 before and after CPB; and BIS 40-45 during CPB, Brain oxygen saturation declined with less than 20% of baseline.\n\nControl group：no intervention beside the same monitoring with MAP, BIS and brain oxygen saturation and receiving standard measures to achieve a heart rate (HR) in the range of 60-100 beats/min, central venous oxygen saturation (Svco2) higher than 70%, lactate level lower than 3 mmol/L, hematocrit value higher than 28%, and urinary output higher than 0.5 mL/kg/hr.",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "maskingDescription": "Patients were followed up by an investigator unaware of the patients' achievement or not of the oxygen dynamic goal",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 286,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Individualized Goal-Directed Therapy",
+          "type": "EXPERIMENTAL",
+          "description": "The goal of intervention:mean artery pressure declined with less than 20% of baseline, BIS 45-60 before and after CPB; and BIS 40-45 during CPB, Brain oxygen saturation declined with less than 20% of baseline.",
+          "interventionNames": [
+            "Procedure: mean artery pressure",
+            "Procedure: bispectral index",
+            "Procedure: Brain oxygen saturation"
+          ]
+        },
+        {
+          "label": "Controlled",
+          "type": "SHAM_COMPARATOR",
+          "description": "no intervention beside the same monitoring with MAP, BIS and brain oxygen saturation and receiving standard measures to achieve a heart rate (HR) in the range of 60-100 beats/min, central venous oxygen saturation (Svco2) higher than 70%, lactate level lower than 3 mmol/L, hematocrit value higher than 28%, and urinary output higher than 0.5 mL/kg/hr.",
+          "interventionNames": [
+            "Other: Controlled"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "mean artery pressure",
+          "description": "mean artery pressure declined with less than 20% of baseline",
+          "armGroupLabels": [
+            "Individualized Goal-Directed Therapy"
+          ]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "bispectral index",
+          "description": "BIS 45-60 before and after CPB; and BIS 40-45 during CPB",
+          "armGroupLabels": [
+            "Individualized Goal-Directed Therapy"
+          ],
+          "otherNames": [
+            "BIS"
+          ]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Brain oxygen saturation",
+          "description": "Brain oxygen saturation declined with less than 20% of baseline",
+          "armGroupLabels": [
+            "Individualized Goal-Directed Therapy"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Controlled",
+          "description": "receiving standard measures to achieve a heart rate (HR) in the range of 60-100 beats/min, central venous oxygen saturation (Svco2) higher than 70%, lactate level lower than 3 mmol/L, hematocrit value higher than 28%, and urinary output higher than 0.5 mL/kg/hr.",
+          "armGroupLabels": [
+            "Controlled"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Major postoperative complications(i.e., Rate of low cardiac output syndrome, stroke, myocardial ischemia, infection,reoperation, and need for dialysis)",
+          "description": "Number of Participants with major complications extracted after 30-day follow-up",
+          "timeFrame": "30-day after surgery"
+        },
+        {
+          "measure": "30-day mortality",
+          "description": "Data for duration of postoperative 30-day all-cause mortality",
+          "timeFrame": "30-day after surgery"
+        },
+        {
+          "measure": "The change of incidence of postoperative delirium",
+          "description": "Through Confusion Assessment Method (CAM)to assess the incidence of the postoperative delirium",
+          "timeFrame": "The 1,2,3 day after surgery"
+        },
+        {
+          "measure": "1,3,5-year mortality",
+          "description": "Data for duration of 1,3,5-year all-cause mortality is extracted after 1-year follow-up",
+          "timeFrame": "1,3,5-year after surgery"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "postoperative hospital stay",
+          "description": "Data for duration of postoperative hospital stay is extracted after 30-day follow-up",
+          "timeFrame": "30-day after surgery"
+        },
+        {
+          "measure": "The change of incidence of postoperative cognition dysfunction",
+          "description": "The neuropsychological tests performed at the day before the surgery,the 3,7 day after the surgery respectively.",
+          "timeFrame": "1 day before surgery, the 3,7 day after the surgery"
+        },
+        {
+          "measure": "The occurrence of cardiovascular events",
+          "description": "Data for duration of the occurrence of cardiovascular events is extracted 30-day follow-up",
+          "timeFrame": "30-day after surgery"
+        },
+        {
+          "measure": "The incidence of any adverse events",
+          "description": "Including kidney or brain related adverse events 30-day after surgery",
+          "timeFrame": "30-day after surgery"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Written informed consent;\n2. Selective cardiac surgery and general anesthesia patients;\n3. Age 18-90 yrs;\n4. Anesthesia Society of American (ASA) Scale II-IV\n5. European System for Cardiac Operative Risk Evaluation score equal to or greater than 6 or left ventricular ejection fraction lower than 50%\n\nExclusion Criteria:\n\n1. Preoperative cardiac ejection fraction\\<30 %;\n2. History of anesthesia awareness;\n3. History or anticipation of difficult intubation;\n4. Unanticipated intraoperative conditions, including haemorrhage, obstinate resuscitation failure,multiple cardiopulmonary bypass procedures, severe hypotension or hypoxemia;\n5. long-term preoperative use of anticonvulsant agents, opiates, benzodiazepines or cocaine.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "90 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "The First Affiliated Hospital of Anhui Medical University",
+          "city": "Hefei",
+          "state": "Anhui",
+          "zip": "230022",
+          "country": "China",
+          "geoPoint": {
+            "lat": 31.86389,
+            "lon": 117.28083
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "32889413",
+          "type": "DERIVED",
+          "citation": "Cheng XQ, Zhang JY, Wu H, Zuo YM, Tang LL, Zhao Q, Gu EW. Outcomes of individualized goal-directed therapy based on cerebral oxygen balance in high-risk patients undergoing cardiac surgery: A randomized controlled trial. J Clin Anesth. 2020 Dec;67:110032. doi: 10.1016/j.jclinane.2020.110032. Epub 2020 Sep 1."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-08-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D047568",
+          "term": "Unsafe Sex"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D012725",
+          "term": "Sexual Behavior"
+        },
+        {
+          "id": "D001519",
+          "term": "Behavior"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D056805",
+          "term": "Consciousness Monitors"
+        },
+        {
+          "id": "D035061",
+          "term": "Control Groups"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D013523",
+          "term": "Surgical Equipment"
+        },
+        {
+          "id": "D004864",
+          "term": "Equipment and Supplies"
+        },
+        {
+          "id": "D015340",
+          "term": "Epidemiologic Research Design"
+        },
+        {
+          "id": "D004812",
+          "term": "Epidemiologic Methods"
+        },
+        {
+          "id": "D008919",
+          "term": "Investigative Techniques"
+        },
+        {
+          "id": "D012107",
+          "term": "Research Design"
+        },
+        {
+          "id": "D008722",
+          "term": "Methods"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

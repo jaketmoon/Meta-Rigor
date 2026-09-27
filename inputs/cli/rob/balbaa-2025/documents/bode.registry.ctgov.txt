@@ -1,0 +1,300 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04389697",
+      "orgStudyIdInfo": {
+        "id": "2019-0310"
+      },
+      "organization": {
+        "fullName": "Helios Health Institute GmbH",
+        "class": "OTHER"
+      },
+      "briefTitle": "Fasting Versus Non-Fasting for Cardiac Implantable Electronic Devices (FastCIED Study)",
+      "officialTitle": "Fasting Versus Non-Fasting for Cardiac Implantable Electronic Devices (FastCIED Study)"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2021-03",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2020-01-29",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2020-11-06",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2020-12-06",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2019-12-20",
+      "studyFirstSubmitQcDate": "2020-05-11",
+      "studyFirstPostDateStruct": {
+        "date": "2020-05-15",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2021-03-15",
+      "lastUpdatePostDateStruct": {
+        "date": "2021-03-17",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Helios Health Institute GmbH",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "There was no evidence to suggest that a shortened fluid fast results in an increased risk of aspiration, regurgitation or related morbidity compared with the standard 'nil by mouth from midnight' fasting policy. However, there is no available data regarding the safety and efficacy of fasting approach in patients undergoing cardiac implantable electronic device (CIED) procedures. The aim of this study is to demonstrate that a non-fasting protocol is non-inferior in regard to safety to a fasting protocol (current practice) in patients undergoing cardiac device implantation procedures"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Cardiac Implantable Electronic Devices"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "SUPPORTIVE_CARE",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "whoMasked": [
+            "CARE_PROVIDER",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 201,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Intervention arm",
+          "type": "EXPERIMENTAL",
+          "description": "Clear fluids and food up to up to 1 hour before the procedure",
+          "interventionNames": [
+            "Dietary Supplement: Clear fluids and food up to up to 1 hour before the procedure"
+          ]
+        },
+        {
+          "label": "Control arm",
+          "type": "NO_INTERVENTION",
+          "description": "Fasting for solids for up to 6 hours and fluids up to 2 hours before the procedure"
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Clear fluids and food up to up to 1 hour before the procedure",
+          "description": "Clear fluids and food up to up to 1 hour before the start of the procedure",
+          "armGroupLabels": [
+            "Intervention arm"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Patients well-being",
+          "description": "Post-interventional patients well-being including (to be assessed by questionnaire with the help of a Numeric Rating Scale (rang: 0-10, higher scores mean a worse outcome): abdominal pain, thirst, mouth dryness, headache, anxiety, hunger, nausea, vomiting, tiredness and weakness, dizziness Incidence of Intra -procedural adverse events like emergency intubation and perioperative pulmonary aspiration vomiting)",
+          "timeFrame": "During the first 24 hours after the procedure"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Usages of inotropic and vasopressor agents",
+          "description": "Amount of used inotropic and vasopressor agents during the intervention",
+          "timeFrame": "During the intervention"
+        },
+        {
+          "measure": "Usage of sedatives",
+          "description": "Amount of used sedative agents during the intervention",
+          "timeFrame": "During the intervention"
+        },
+        {
+          "measure": "Usage of analgesics",
+          "description": "Amount of used analgesics agents during the intervention",
+          "timeFrame": "During the intervention"
+        },
+        {
+          "measure": "Usage anti-vomiting agents",
+          "description": "Amount of used anti-vomiting agents during the intervention",
+          "timeFrame": "During the intervention"
+        },
+        {
+          "measure": "Serum creatinine level",
+          "description": "Serum creatinine (mg/dL)",
+          "timeFrame": "1 hour pre-procedural, during the first 24 hours after the procedure"
+        },
+        {
+          "measure": "Serum urea level",
+          "description": "Serum urea (mg/dL)",
+          "timeFrame": "1 hour pre-procedural, during the first 24 hours after the procedure"
+        },
+        {
+          "measure": "eGFR",
+          "description": "GFR is Glomerular Filtration Rate and it is a key indicator of renal function. eGFR is estimated GFR and is a mathematically derived entity based on a patient's serum creatinine level, age, sex and race.",
+          "timeFrame": "1 hour pre-procedural, during the first 24 hours after the procedure"
+        },
+        {
+          "measure": "Heart rate",
+          "description": "Heart rate (frequency per minute) will be assessed by using a monitoring device",
+          "timeFrame": "pre-intervention, and then every 15 minutes during the procedure"
+        },
+        {
+          "measure": "Oxygen saturation",
+          "description": "Oxygen saturation (%) will be assessed by using a monitoring device",
+          "timeFrame": "pre-intervention, and then every 15 minutes during the procedure"
+        },
+        {
+          "measure": "Blood pressure",
+          "description": "Systolic and diastolic blood pressure (mmHg) will be assessed by using a monitoring device",
+          "timeFrame": "pre-intervention, and then every 15 minutes during the procedure"
+        },
+        {
+          "measure": "blood pH",
+          "description": "Will be assessed by venous blood gas analysis (number).",
+          "timeFrame": "1 hour pre-procedural"
+        },
+        {
+          "measure": "blood PaCo2",
+          "description": "Will be assessed by venous blood gas analysis (mmHg).",
+          "timeFrame": "1 hour pre-procedural"
+        },
+        {
+          "measure": "blood HCO3",
+          "description": "Will be assessed by venous blood gas analysis (mEq/L).",
+          "timeFrame": "1 hour pre-procedural"
+        },
+        {
+          "measure": "blood sugar",
+          "description": "Will be assessed by venous blood gas analysis (mg/dL).",
+          "timeFrame": "1 hour pre-procedural, pre-intervention, 8 hours after procedure"
+        },
+        {
+          "measure": "Sodium",
+          "description": "Will be assessed by blood test.",
+          "timeFrame": "1 hour pre-procedural, pre-intervention, 8 hours after procedure"
+        },
+        {
+          "measure": "Potassium",
+          "description": "Will be assessed by blood test (mm/L).",
+          "timeFrame": "1 hour pre-procedural, pre-intervention, 8 hours after procedure"
+        },
+        {
+          "measure": "Patients general satisfaction",
+          "description": "Patients general satisfaction with procedure as assessed by the patient satisfaction survey form using Numeric Rating Scale (rang: 0-10, higher scores mean a better outcome)",
+          "timeFrame": "During the first 24 hours after the procedure"
+        },
+        {
+          "measure": "Sleep quality",
+          "description": "Sleep quality based on Numeric Rating Scale (rang: 0-10, higher scores mean a better outcome)",
+          "timeFrame": "During the first 24 hours after the procedure"
+        },
+        {
+          "measure": "Surgical site pain",
+          "description": "Surgical site pain based on Numeric Rating Scale (rang: 0-10, higher scores mean a worse outcome)",
+          "timeFrame": "During the first 24 hours after the procedure"
+        },
+        {
+          "measure": "Length of ICU stay",
+          "description": "Based on the number of ICU stay nights",
+          "timeFrame": "Up to 30 days"
+        },
+        {
+          "measure": "Length of hospital stay",
+          "description": "Based on the number of ICU stay nights plus ward stay",
+          "timeFrame": "Up to 30 days"
+        },
+        {
+          "measure": "Operation site infection rate",
+          "description": "Operation site (Chest) infection rate via Telephone /follow-up visits",
+          "timeFrame": "During 30 days after the procedure"
+        },
+        {
+          "measure": "Incidence of death",
+          "description": "The investigators will then divide the causes into 1) operation related and 2) non-operation related causes",
+          "timeFrame": "During 30 days after the procedure"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* All patients \\>18 years undergoing elective implantation or generator exchange of cardiac implantable electronic devices\n\nExclusion Criteria:\n\n* Patients presenting with an acute unstable condition (bradycardia \\< 30/min or temporary pacing wire)\n* Patients scheduled for deep sedation\n* Patients with increased intra-abdominal pressure (severe intra-abdominal tumors, severe ascites, very severe obesity: BMI\\>40 kg/m2).",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Kerstin Bode, MD, MSc",
+          "affiliation": "Heart Center Leipzig at the University of Leipzig",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Alireza Sepehri Shamloo, MD",
+          "affiliation": "Heart Center Leipzig at the University of Leipzig",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Gerhard Hindricks, MD",
+          "affiliation": "Heart Center Leipzig at the University of Leipzig",
+          "role": "STUDY_CHAIR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Department of Electrophysiology, Leipzig Heart Center",
+          "city": "Leipzig",
+          "state": "Saxony",
+          "zip": "04289",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.33962,
+            "lon": 12.37129
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "35726877",
+          "type": "DERIVED",
+          "citation": "Bode K, Gerhards M, Doering M, Lucas J, Tijssen J, Dagres N, Hilbert S, Richter S, Nedios S, Lurz J, Moscoso-Luduena C, Arya A, Shamloo AS, Hindricks G. A randomized trial of non-fasting vs. fasting for cardiac implantable electronic device procedures (Fast-CIED Study). Europace. 2022 Oct 13;24(10):1617-1626. doi: 10.1093/europace/euac081."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-08-28"
+    }
+  },
+  "hasResults": false
+}

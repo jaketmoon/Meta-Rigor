@@ -1,0 +1,300 @@
+{
+  "schema_version": "3.0.0",
+  "review_id": "bronchiolitis.review.2022",
+  "protocol_content": {
+    "schema_version": "3.0.0",
+    "protocol_id": "bronchiolitis.protocol.m0",
+    "title": "HFNC versus NIPPV for bronchiolitis",
+    "research_question": "Among children with bronchiolitis, compare high-flow nasal cannula with non-invasive positive-pressure ventilation, including CPAP and NPPV, for treatment failure, need for intubation and PICU length of stay.",
+    "review_criteria": "Include randomized controlled trials in children with bronchiolitis that compare high-flow nasal cannula with non-invasive positive-pressure ventilation and report at least one eligible Review outcome.",
+    "result_targets": [
+      {
+        "target_kind": "RESULT",
+        "result_type": "BINARY",
+        "target_id": "result.treatment_failure",
+      "population": "Children with bronchiolitis enrolled in randomized trials of non-invasive respiratory support.",
+        "intervention": {
+          "label": "HFNC",
+        "aliases": [
+          "HFNC",
+          "high-flow nasal cannula",
+          "high flow nasal cannula"
+          ]
+        },
+        "comparator": {
+        "label": "NIPPV",
+        "aliases": [
+          "NIPPV",
+          "CPAP",
+          "NPPV",
+          "non-invasive positive-pressure ventilation",
+          "non-invasive positive pressure ventilation"
+          ]
+        },
+        "outcome": "Treatment failure",
+      "outcome_definition": "Treatment failure as defined by the authors of each trial.",
+      "timepoint": "Treatment-failure assessment period reported by the study.",
+      "analysis_population": "The study-reported analysis population for treatment failure; preserve explicit analysis labels, exclusions and outcome-specific denominators.",
+      "selection_rule": "Use directly reported arm-level participant events and denominators for treatment failure.",
+      "other_limitations": []
+      },
+      {
+        "target_kind": "RESULT",
+        "result_type": "BINARY",
+        "target_id": "result.intubation",
+      "population": "Children with bronchiolitis enrolled in randomized trials of non-invasive respiratory support.",
+        "intervention": {
+          "label": "HFNC",
+        "aliases": [
+          "HFNC",
+          "high-flow nasal cannula",
+          "high flow nasal cannula"
+          ]
+        },
+        "comparator": {
+        "label": "NIPPV",
+        "aliases": [
+          "NIPPV",
+          "CPAP",
+          "NPPV",
+          "non-invasive positive-pressure ventilation",
+          "non-invasive positive pressure ventilation"
+          ]
+        },
+        "outcome": "Endotracheal intubation",
+      "outcome_definition": "Participants requiring endotracheal intubation.",
+      "timepoint": "Intubation assessment period reported by the study.",
+      "analysis_population": "The study-reported analysis population for need for intubation; preserve explicit analysis labels, exclusions and outcome-specific denominators.",
+      "selection_rule": "Use directly reported arm-level participant events and denominators for need for intubation.",
+        "other_limitations": []
+      },
+      {
+        "target_kind": "RESULT",
+        "result_type": "CONTINUOUS",
+        "target_id": "result.picu_length_of_stay",
+      "population": "Children with bronchiolitis enrolled in randomized trials of non-invasive respiratory support.",
+        "intervention": {
+          "label": "HFNC",
+        "aliases": [
+          "HFNC",
+          "high-flow nasal cannula",
+          "high flow nasal cannula"
+          ]
+        },
+        "comparator": {
+        "label": "NIPPV",
+        "aliases": [
+          "NIPPV",
+          "CPAP",
+          "NPPV",
+          "non-invasive positive-pressure ventilation",
+          "non-invasive positive pressure ventilation"
+          ]
+        },
+        "outcome": "PICU length of stay",
+        "outcome_definition": "Duration in the pediatric intensive care unit in days.",
+      "timepoint": "PICU length of stay reported by the study.",
+      "analysis_population": "The study-reported analysis population for PICU length of stay; preserve explicit analysis labels, exclusions and outcome-specific denominators.",
+      "selection_rule": "Use directly reported arm-level mean, standard deviation and group size for PICU length of stay.",
+        "other_limitations": [],
+        "measurement_basis": "FINAL",
+        "scale": "days",
+        "direction": "LOWER_IS_BETTER"
+      }
+    ]
+  },
+  "accepted_protocol_sha256": "ee48a42d25c34b26107fd144dea9440b4f19b54084c201fb204f5a1a1f3b7333",
+  "protocol_acceptance": {
+    "actor": "project-owner",
+    "decided_at": "2026-08-25T23:50:08+08:00",
+    "decision": "ACCEPTED"
+  },
+  "studies": [
+    {
+      "study_key": "borgi.severe_bronchiolitis",
+      "display_label": "Borgi 2021",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "vahlkvist.viral_bronchiolitis",
+      "display_label": "Vahlkvist 2020",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "cesar.critical_bronchiolitis",
+      "display_label": "Cesar 2020",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "sarkar.acute_bronchiolitis",
+      "display_label": "Sarkar 2018",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    },
+    {
+      "study_key": "milesi.tramontane",
+      "display_label": "Milesi 2017",
+      "design": "INDIVIDUAL_PARALLEL_RCT"
+    }
+  ],
+  "reports": [
+    {
+      "report_key": "borgi.primary",
+      "title": "High flow nasal cannula therapy versus continuous positive airway pressure and nasal positive pressure ventilation in infants with severe bronchiolitis: a randomized controlled trial",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.11604/pamj.2021.40.133.30350"
+        },
+        {
+          "scheme": "PMID",
+          "value": "34909101"
+        },
+        {
+          "scheme": "PMCID",
+          "value": "PMC8641623"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "vahlkvist.primary",
+      "title": "High flow nasal cannula and continuous positive airway pressure therapy in treatment of viral bronchiolitis: a randomized clinical trial",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1007/s00431-019-03533-2"
+        },
+        {
+          "scheme": "PMID",
+          "value": "31828528"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "cesar.primary",
+      "title": "High-Flow Nasal Cannula versus Continuous Positive Airway Pressure in Critical Bronchiolitis: A Randomized Controlled Pilot",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1055/s-0040-1709656"
+        },
+        {
+          "scheme": "PMID",
+          "value": "33133739"
+        },
+        {
+          "scheme": "PMCID",
+          "value": "PMC7588294"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "sarkar.primary",
+      "title": "Comparative Study between Noninvasive Continuous Positive Airway Pressure and Hot Humidified High-flow Nasal Cannulae as a Mode of Respiratory Support in Infants with Acute Bronchiolitis in Pediatric Intensive Care Unit of a Tertiary Care Hospital",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.4103/ijccm.IJCCM_274_17"
+        },
+        {
+          "scheme": "PMID",
+          "value": "29531447"
+        },
+        {
+          "scheme": "PMCID",
+          "value": "PMC5842462"
+        }
+      ],
+      "report_role": "PRIMARY"
+    },
+    {
+      "report_key": "milesi.primary",
+      "title": "High flow nasal cannula versus nasal continuous positive airway pressure for acute viral bronchiolitis: TRAMONTANE",
+      "identifiers": [
+        {
+          "scheme": "DOI",
+          "value": "10.1007/s00134-016-4617-8"
+        },
+        {
+          "scheme": "PMID",
+          "value": "28124736"
+        }
+      ],
+      "report_role": "PRIMARY"
+    }
+  ],
+  "report_study_bindings": [
+    {
+      "report_key": "borgi.primary",
+      "study_key": "borgi.severe_bronchiolitis"
+    },
+    {
+      "report_key": "vahlkvist.primary",
+      "study_key": "vahlkvist.viral_bronchiolitis"
+    },
+    {
+      "report_key": "cesar.primary",
+      "study_key": "cesar.critical_bronchiolitis"
+    },
+    {
+      "report_key": "sarkar.primary",
+      "study_key": "sarkar.acute_bronchiolitis"
+    },
+    {
+      "report_key": "milesi.primary",
+      "study_key": "milesi.tramontane"
+    }
+  ],
+  "documents": [
+    {
+      "document_key": "borgi.pmc",
+      "report_key": "borgi.primary",
+      "input_path": "documents/borgi/source.xml",
+      "expected_sha256": "b8ef9dd9761f414f4d65be17eb4a53de7151da101db7b2f005df43ab9f8100e5",
+      "media_type": "application/xml",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8641623/"
+    },
+    {
+      "document_key": "vahlkvist.pubmed",
+      "report_key": "vahlkvist.primary",
+      "input_path": "documents/vahlkvist/source.xml",
+      "expected_sha256": "9384cdefaa5bc51bed2be4f760fe3230000b240f0b05401ff7f0dd90268fefb8",
+      "media_type": "application/xml",
+      "representation_scope": "ABSTRACT_AND_RESULTS",
+      "display_url": "https://pubmed.ncbi.nlm.nih.gov/31828528/"
+    },
+    {
+      "document_key": "cesar.pubmed",
+      "report_key": "cesar.primary",
+      "input_path": "documents/cesar/source.xml",
+      "expected_sha256": "163f6cdd0b2fe0e4f8bc84138bde0fdb43f43bafd2df30eb5573f43a7e0a1d64",
+      "media_type": "application/xml",
+      "representation_scope": "ABSTRACT_AND_RESULTS",
+      "display_url": "https://pubmed.ncbi.nlm.nih.gov/33133739/"
+    },
+    {
+      "document_key": "sarkar.pmc",
+      "report_key": "sarkar.primary",
+      "input_path": "documents/sarkar/source.xml",
+      "expected_sha256": "7aee79bb3c99ac942604750be7b08caa0a61162cb476ea0035c3c5d8821d8130",
+      "media_type": "application/xml",
+      "representation_scope": "FULL_TEXT",
+      "display_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5842462/"
+    },
+    {
+      "document_key": "milesi.pubmed",
+      "report_key": "milesi.primary",
+      "input_path": "documents/milesi/source.xml",
+      "expected_sha256": "ed3e7cb67201de4dc1fcdf716c163faaa771f024acf2c5475e5800b423824231",
+      "media_type": "application/xml",
+      "representation_scope": "ABSTRACT_AND_RESULTS",
+      "display_url": "https://pubmed.ncbi.nlm.nih.gov/28124736/"
+    }
+  ],
+  "source_dispositions": [],
+  "governing_review_inventory_sha256": "f68857f5446f8dcfc6f9d836ba81c91dd033eeb46d2246a838fb4c5cbfebb736",
+  "accepted_study_inventory_sha256": "12d085c6e25deb732a3a9c4a7e9c941ff16be23ef4b3675077983ccb57224e26"
+}

@@ -1,0 +1,678 @@
+[DOCLING_PAGE 1]
+
+30
+
+Research
+
+JAMANeurology | Original Investigation
+
+Alberta Stroke Program Early Computed Tomography Score, Infarct Core Volume, and Endovascular Therapy Outcomes in Patients With Large Infarct ASecondary Analysis of the ANGEL-ASPECT Trial
+
+Dapeng Sun, MD, PhD; Xu Guo, MD; Thanh N. Nguyen, MD; Yuesong Pan, PhD; Gaoting Ma, MD; Xu Tong, MD; Raynald, MD; Mengxing Wang, PhD; Ning Ma, MD; Feng Gao, MD; Dapeng Mo, MD; Xiaochuan Huo, MD; Zhongrong Miao, MD; for the ANGEL-ASPECT Study Group Multimedia Supplemental content Author Affiliations: Author affiliations are listed at the end of this article.
+
+Group Information: Acomplete list of the members of the ANGEL-ASPECT Study Group appears in Supplement 3.
+
+Corresponding Authors: Zhongrong Miao, MD, Department of Interventional Neuroradiology, Beijing Tiantan Hospital, Capital Medical University, No. 119 South Fourth Ring West Road, Fengtai District, Beijing 100070, China (zhongrongm@163.com);
+
+Xiaochuan Huo, MD, Cerebrovascular Disease Department, Neurological Disease Center, Beijing Anzhen Hospital, Capital Medical University, No. 2 Anzhen Rd, Chaoyang District, Beijing 100029, China (huoxiaochuan @126.com).
+
+(Reprinted)
+
+jamaneurology.com
+
+IMPORTANCE Endovascular therapy (EVT) demonstrated better outcomes compared with medical management in recent randomized clinical trials (RCTs) of patients with large infarct.
+
+OBJECTIVE To compare outcomes of EVT vs medical management across different strata of the Alberta Stroke Program Early Computed Tomography Score (ASPECTS) and infarct core volume in patients with large infarct.
+
+DESIGN, SETTING, AND PARTICIPANTS This prespecified secondary analysis of subgroups of the Endovascular Therapy in Acute Anterior Circulation Large Vessel Occlusive Patients With a Large Infarct Core (ANGEL-ASPECT) RCT included patients from 46 stroke centers across China between October 2, 2020, and May 18, 2022. Participants were enrolled within 24 hours of symptom onset and had ASPECTS of 3 to 5 or 0 to 2 and infarct core volume of 70 to 100 mL. Patients were divided into 3 groups: ASPECTS of 3 to 5 with infarct core volume less than 70 mL, ASPECTS of 3 to 5 with infarct core volume of 70 mL or greater, and ASPECTS of 0 to 2.
+
+INTERVENTIONS Endovascular therapy or medical management.
+
+MAIN OUTCOMES AND MEASURES The primary outcome was the ordinal 90-day modified Rankin Scale (mRS) score.
+
+RESULTS There were 455 patients in the trial; median age was 68 years (IQR, 60-73 years), and 279 (61.3%) were male. The treatment effect did not vary significantly across the 3 baseline imaging subgroups ( P = .95 for interaction). The generalized odds ratio for the shift in the 90-day mRS distribution toward better outcomes with EVT vs medical management was 1.40 (95% CI, 1.06-1.85; P = .01) in patients with ASPECTS of 3 to 5 and infarct core volume less than 70 mL, 1.22 (95% CI, 0.81-1.83; P = .23) in patients with ASPECTS of 3 to 5 and infarct core volume of 70 mL or greater, and 1.59 (95% CI, 0.89-2.86; P = .09) in patients with ASPECTS of 0 to 2.
+
+CONCLUSIONS AND RELEVANCE In this study, no significant interaction was found between baseline imaging status and the benefit of EVT compared with medical management in patients with large infarct core volume. However, estimates within subgroups were underpowered. A pooled analysis of large core trials stratified by ASPECTS and infarct core volume strata is warranted.
+
+TRIAL REGISTRATION ClinicalTrials.gov Identifier: NCT04551664
+
+JAMANeurol . 2024;81(1):30-38. doi:10.1001/jamaneurol.2023.4430 Published online November 27, 2023.
+
+© 2023 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Fudan University, li bai on 09/05/2026
+
+[DOCLING_PAGE 2]
+
+Endovascular Therapy Outcomes by ASPECTS and Infarct Core Volume in Patients With Large Infarct
+
+Original Investigation Research
+
+T he benefit of endovascular therapy (EVT) for patients with acute anterior circulation large vessel occlusion (LVO) with large infarct has been proven by 4 randomizedclinical trials (RCTs). 1-6 Themechanicalthrombectomyfor large brain infarctions (MAGNA) individual patient-level data meta-analysis of 3 RCTs (Recovery by Endovascular Salvage for Cerebral Ultra-Acute Embolism-Japan Large Ischemic Core Trial [RESCUE-JapanLIMIT], 5 RandomizedControlledTrialto Optimize Patient's Selection for Endovascular Treatment in AcuteIschemicStroke[SELECT2], 4 andEndovascularTherapy in Acute Anterior Circulation Large Vessel Occlusive Patients With a Large Infarct Core [ANGEL-ASPECT] 3 ) presented at the European Stroke Conference (ESOC) 2023 7 and 2 other study-level meta-analyses including RCTs and observational studies 8,9 also confirmed the efficacy of EVT for such patients. However, the Thrombectomy for Emergent Salvage of Large Anterior Circulation Ischemic Stroke (TESLA) RCT presented at ESOC 2023 did not demonstrate that EVT was superior to medical management for such patients according to the utility-weighted modified Rankin Scale (mRS) at 90 days, falling just short of the prespecified primary outcome threshold to confirm efficacy. 7
+
+In general, a large infarct is defined by an Alberta Stroke Program Early Computed Tomography (CT) Score (ASPECTS) less than 6 on a scale from 0 to 10 (with lower scores indicating a larger territory of ischemic change) or an infarct core volumegreater than 50 mL or 70 mL. 10-12 However, considering the variability of ASPECTS interpretation of non-contrastenhanced CT (NCCT) and the problem of overestimating infarct core volume by CT perfusion in the early window, large infarct assessed by only 1 imaging modality may result in inaccurate selection of patients with large infarct who may be candidates for EVT. 13-15 Therefore, the ANGEL-ASPECT RCT 3 combined baseline ASPECTS and infarct core volume to assess large infarct. We hypothesized that a mismatch between ASPECTSandinfarctcorevolumemayexist,whichcouldhelp select patients with large infarct who are most likely to benefit from EVT. Thus, the current study sought to compare the outcomes of EVT with those of medical management in patients with (1) baseline ASPECTS of 3 to 5 and infarct core volume less than 70 mL, (2) baseline ASPECTS of 3 to 5 and infarct core volumeof70mLorgreater,and(3)baselineASPECTS of 0 to 2 based on data from the ANGEL-ASPECT RCT. 3
+
+Methods
+
+The current study was a prespecified secondary subgroup analysis of the ANGEL-ASPECT trial (NCT04551664), 16 a multicenter,prospective,randomized,open-label,blindedend point clinical trial conducted at 46 comprehensive stroke centers across China between October 2, 2020, and May 18, 2022 (eTable 1 in Supplement 2). We aimed to further investigate whether EVT would be superior to medical management with respect to functional recovery among patients with a large infarct core due to acute anterior circulation LVO. The ANGEL-ASPECT trial 3 enrolled patients with (1) baseline ASPECTS of 3 to 5 on NCCT within 24 hours
+
+jamaneurology.com
+
+KeyPoints
+
+Question In patients with large infarct, does the benefit of endovascular therapy (EVT) differ across varying Alberta Stroke Program Early Computed Tomography Score (ASPECTS) or infarct core volume strata?
+
+Findings In this secondary analysis of the ANGEL-ASPECT trial including 455 patients, EVT was associated with lower disability compared with medical management in patients with ASPECTS of 3 to 5 and infarct core volume less than 70 mL. No significant interaction effect was found among stratified groups.
+
+Meaning The findings suggest that the benefit of EVT does not vary by ASPECTS or infarct core volume strata.
+
+ofsymptomonset,(2)baselineASPECTSof0to2onNCCTand infarct core volume of 70 to 100 mL within 24 hours of symptom onset, or (3) baseline ASPECTS greater than 5 by NCCTandinfarctcorevolumeof70to100mLbetween6and 24 hours. No patients were enrolled in the latter category. In the trial, patients were randomly assigned in a 1:1 ratio to EVT or medical management. The trial protocol is given in Supplement 1; the details of the protocol and the primary results of the trial are reported elsewhere. 3,16 Inthissecondary analysis, we divided patients in the ANGEL-ASPECT trial 3 into 3groups:(1)baselineASPECTSof3to5andinfarctcorevolume less than 70 mL, (2) baseline ASPECTS of 3 to 5 and infarct core volume of 70 mL or greater, and (3) baseline ASPECTS of 0 to 2. Informedconsentwassignedbyeachpatientorthepatient's legally authorized representative before enrollment into the trial. The ethics committees of each participating center approvedthisstudy.WefollowedtheConsolidatedStandards of Reporting Trials (CONSORT) reporting guideline.
+
+Measurement
+
+Baseline characteristics, including demographics, medical history,smokinghistory,wake-upstroke,bloodpressure,baseline modified Rankin Scale (mRS), baseline National Institutes of Health Stroke Scale (NIHSS), and time metrics were obtained from the site investigators and prospectively collected. The mRS score at 90 days was assessed through telephone interviews recorded for quality control.
+
+Imaging was performed at baseline, 36 hours (±12 hours), and 7 days (±1 day) after randomization or at discharge. An imaging core laboratory that was independent and blinded to all clinical characteristics adjudicated baseline ASPECTS, arterial occlusion site, reperfusion level, target recanalization level at 36 hours, and intracranial hemorrhage (ICH). Infarct core volume assessed on baseline diffusion-weighted imaging or CT perfusion was calculated using RAPID software, version 5.0.4 (iSchemaView). At least 3 investigators at each site received training on ASPECTS evaluation and received certification. All investigators responsible for enrollment received training on the imaging protocol and use of RAPIDsoftware.Wedefined infarct core as the ischemic brain tissue with a relative cerebral blood flow of less than 30% on automated CT perfusion imaging or an apparent diffusion coefficient less than 620 × 10 -6 mm 2 per second on magnetic
+
+(Reprinted)
+
+JAMANeurology January 2024 Volume 81, Number 1
+
+© 2023 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Fudan University, li bai on 09/05/2026
+
+31
+
+[DOCLING_PAGE 3]
+
+Research Original Investigation
+
+Endovascular Therapy Outcomes by ASPECTS and Infarct Core Volume in Patients With Large Infarct
+
+ASPECTS indicates Alberta Stroke Program Early Computed Tomography Score; EVT, endovascular therapy; MM, medical management.
+
+Figure 1. Flowchart of Patient Selection
+
+1
+
+Withdrew consent
+
+66
+
+MM group
+
+60
+
+EVT group
+
+30
+
+MM group
+
+32
+
+EVT group
+
+126
+
+With ASPECTS 3-5 and infarct
+
+core volume ≥70 mL
+
+62
+
+With ASPECTS 0-2
+
+267
+
+With ASPECTS 3-5 and infarct
+
+core volume <70 mL
+
+129
+
+MM group
+
+138
+
+EVT group
+
+456
+
+Enrolled in the ANGEL-ASPECT trial
+
+resonance imaging (MRI). 17 In the EVT group, postprocedure angiographic reperfusion was assessed with the expanded Thrombolysis in Cerebral Infarction scale. 18 At 36 hours, recanalization in the EVT and medical management groups was assessed according to the modified arterial occlusive lesion grade on follow-up CT angiography or MR angiography. 19
+
+Study Outcomes
+
+Theprimaryoutcomeofthisanalysiswasthe90-daymRSordinal distribution. The secondary outcomes included 90-day mRSscore of 0 to 2; 90-day mRS score of 0 to 3; early neurological improvement (ENI), defined as an NIHSS score of 0 or 1 or improvement by 10 or more points at 36 hours; change in infarct volume, defined as baseline imaging (CT perfusion or diffusion-weighted imaging) to NCCT at 7 days or at discharge (whichever was earlier) or to MRI at 36 hours; and target artery recanalization at 36 hours that was defined as modified arterial occlusive lesion grade 2 to 3. 19 Safety outcomes included symptomatic intracranial hemorrhage (ICH) within 48 hours, which was assessed according to the Heidelberg bleeding classification 20 ; any ICH; death (mRS score of 6) within 90 days; and decompressive hemicraniectomy during hospitalization.
+
+Statistical Analysis
+
+Wedescribedcontinuousandordinalvariablesasmedian(IQR) and categorical variables as number (percentage). The Pearson χ 2 test or Fisher exact test for categorical variables and Kruskal-Wallis test for continuous variables were conducted to compare baseline characteristics among the 3 groups. For comparing the study outcomes between the EVT and medical management groups in the strata of the 3 groups, we used the Wilcoxon Mann-Whitney method to calculate the generalized odds ratio with the 95% CI for the ordinal shift in the distribution of the mRS score toward a better outcome for the primary outcome (proportional odds assumption for the ordinal logistic regression model was not satisfied), a Cox proportional hazards regression model to calculate the hazard ratio with 95%CIfordeathwithin90days,agenerallinearmodel to calculate mean differences with 95% CIs for change from baseline in infarct core volume, and the Cochran-MantelHaenszel method to calculate relative risk (RR) with 95% CI
+
+JAMANeurology January 2024 Volume 81, Number 1
+
+(Reprinted)
+
+for other study outcomes. Then, we examined whether there were interaction effects for all study outcomes using a Wilcoxon Mann-Whitney method, a Cox proportional hazards regression model, or a general linear model, which included treatment options and the 3 groups as the multiplicative interaction term. Two-sided P < .05 was considered statistically significant. All statistical analyses were performed using SAS, version 9.4 (SAS Institute Inc).
+
+Results
+
+Asshownin Figure1 , of the 456 patients enrolledintheANGELASPECT trial, 3 1 was excluded due to withdrawal of consent, and 455 were included in the subgroup analysis (median age, 68 years [IQR, 60-73 years]; 176 [38.7%] female, 279 [61.3%] male). Of the 455 included patients, 267 (58.7%) had baseline ASPECTS of 3 to 5 and infarct core volume less than 70 mL (medicalmanagementgroup,129;EVTgroup,138),126(27.7%) had baseline ASPECTS of 3 to 5 and infarct core volume of 70mLorgreater(medicalmanagementgroup,66;EVTgroup, 60), and 62 (13.6%) had baseline ASPECTS of 0 to 2 (medical management group, 30; EVT group, 32).
+
+Baseline Characteristics
+
+Nocharacteristicsweredifferentamongthe3groups( Table1 ). Baseline characteristics between the EVT and medical management subgroups are depicted in eTable 2 in Supplement2.Patients with a baseline ASPECTS of 3 to 5 and infarct corevolumelessthan70mLhadamedianageof67years(IQR, 60-73 years); 101 (37.8%) were female, and 166 (62.2%) were male.BaselinemedianNIHSSscorewas15(IQR,12-19),andintravenous thrombolysis (IVT) was administered to 77 patients (28.8%). The median time from symptom onset to randomizationwas482minutes(IQR,305-781minutes).Patients with a baseline ASPECTS of 3 to 5 and infarct core volume of 70 mL or greater had a median age of 68 years (IQR, 59-74 years);47(37.3%)werefemale,and79(62.7%)weremale.Baseline median NIHSS score was 16 (IQR, 12-20), and 35 (27.8%) received IVT. The median time from symptom onset to randomization was 408 minutes (IQR, 261-657 minutes). Patients with a baseline ASPECTS of 0 to 2 had a median age of Table 1. Baseline Characteristics of Patients From the ANGEL-ASPECT Randomized Clinical Trial Across the 3 Imaging Threshold Groups
+
+32
+
+© 2023 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Fudan University, li bai on 09/05/2026
+
+jamaneurology.com
+
+[DOCLING_PAGE 4]
+
+Endovascular Therapy Outcomes by ASPECTS and Infarct Core Volume in Patients With Large Infarct
+
+[DOCLING_TABLE rows=42 columns=4]
+|  | Patients a | ASPECTS 3-5 |  |
+| Age, median (IQR), y | 67 (60-73) | 68 (59-74) | 68 (60-73) |
+| Sex |  |  |  |
+| Female | 101 (37.8) | 47 (37.3) | 28 (45.2) |
+| Male | 166 (62.2) | 79 (62.7) | 34 (54.8) |
+| Hypertension | 159 (59.6) | 75 (59.5) | 38 (61.3) |
+| Diabetes | 42 (15.7) | 29 (23.0) | 12 (19.4) |
+| Hyperlipidemia | 15 (5.6) | 7 (5.6) | 4 (6.5) |
+| AF | 61 (22.9) | 29 (23.0) | 14 (22.6) |
+| CHD | 45 (16.9) | 23 (18.3) | 15 (24.2) |
+| Ischemic stroke | 47 (17.6) | 20 (15.9) | 6 (9.7) |
+| Smoking |  |  |  |
+| Current | 77 (28.8) | 51 (40.5) | 16 (25.8) |
+| Previous | 171 (64.0) | 67 (53.2) | 42 (67.7) |
+| Never | 19 (7.1) | 8 (6.4) | 4 (6.5) |
+| Wake-up stroke | 94 (35.2) | 39 (31.0) | 14 (22.6) |
+| Blood pressure, median (IQR),mmHg |  |  |  |
+| Systolic | 149 (132-167) | 149 (134-168) | 149 (130-164) |
+| Diastolic | 85 (76-97) | 85 (75-92) | 83.5 (76-94) |
+| Baseline mRS score |  |  |  |
+| 0 | 237 (88.8) | 119 (94.4) | 58 (93.6) |
+| 1 | 30 (11.2) | 7 (5.6) | 4 (6.5) |
+| Median (IQR) | 0 (0-0) | 0 (0-0) | 0 (0-0) |
+| Baseline NIHSS score, median (IQR) | 15 (12-19) | 16 (12-20) | 16 (14-20) |
+| Occlusion site |  |  |  |
+| ICA | 83 (31.1) | 54 (42.9) | 27 (43.6) |
+| M1 | 180 (67.4) | 72 (57.1) | 35 (56.5) |
+| M2 | 4 (1.5) | 0 | 0 |
+| Ipsilateral extracranial ICAO | 42 (15.7) | 26 (20.6) | 8 (12.9) |
+| IVT | 77 (28.8) | 35 (27.8) | 17 (27.4) |
+| Stroke classification |  |  |  |
+| Atherothrombotic | 71 (26.6) | 27 (21.4) | 15 (24.2) |
+| Cardioembolic | 123 (46.1) | 57 (45.2) | 29 (46.8) |
+| Undetermined or other | 73 (27.3) | 42 (33.3) | 18 (29.0) |
+| ASPECTS |  |  |  |
+| 0-2 | 0 | 0 | 62 (100) |
+| 3 | 131 (49.1) | 67 (53.2) | 0 |
+| 4 | 68 (25.5) | 43 (34.1) | 0 |
+| 5 | 68 (25.5) | 16 (12.7) | 0 |
+| Infarct core volume, median (IQR), mL | 37 (15-56) | 104 (83-127) | 82 (76-94) |
+| Time from onset to admission, median (IQR), min | 366 (198-652) | 299 (164-519) | 360 (241-747) |
+| Time from onset to imaging, median (IQR), min | 430 (252-733) | 349 (226-592) | 402 (275-788) |
+[/DOCLING_TABLE]
+
+(continued)
+
+jamaneurology.com
+
+(Reprinted)
+
+Original Investigation
+
+Research
+
+JAMANeurology January 2024 Volume 81, Number 1
+
+© 2023 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Fudan University, li bai on 09/05/2026
+
+33
+
+[DOCLING_PAGE 5]
+
+Research Original Investigation
+
+Endovascular Therapy Outcomes by ASPECTS and Infarct Core Volume in Patients With Large Infarct
+
+Table 1. Baseline Characteristics of Patients From the ANGEL-ASPECT Randomized Clinical Trial Across the 3 Imaging Threshold Groups (continued)
+
+[DOCLING_TABLE rows=10 columns=4]
+|  | Patients a | ASPECTS 3-5 and infarct core volume ≥70 mL | ASPECTS 0-2 (n = 62) |
+| Time from onset to randomization |  |  |  |
+| Median (IQR), min | 482 (305-781) | 408 (261-657) | 434 (307-812) |
+| <4.5 h | 51 (19.1) | 33 (26.2) | 13 (21.0) |
+| 4.5 to <6 h | 39 (14.6) | 21 (16.7) | 10 (16.1) |
+| 6 to <12 h | 104 (39.0) | 44 (34.9) | 20 (32.3) |
+| 12-24 h | 73 (27.3) | 28 (22.2) | 19 (30.7) |
+| Time from onset to puncture, median (IQR), min b | 505 (325-786) | 454 (302-680) | 451 (370-915) |
+| Time from onset to recanalization, median (IQR), min b | 612 (421-888) | 544 (368-761) | 566 (463-1014) |
+| Successful reperfusion | 111 (81.6) | 49 (81.7) | 23 (76.7) |
+[/DOCLING_TABLE]
+
+68 years (IQR, 60-73 years); 28 (45.2%) were female, and 34 (54.8%)weremale.BaselinemedianNIHSSscorewas16(IQR, 14-20), and 17 (27.4%) received IVT. The median time from symptomonsettorandomizationwas434minutes(IQR,307812 minutes).
+
+Study Outcomes
+
+For the primary outcome, in the group with ASPECTS of 3 to 5 and infarct core volume less than 70 mL, we found a shift in the distribution of the 90-day mRS score toward better outcomesintheEVTgroupthaninthemedicalmanagementgroup (medianscore,3[IQR,2-5]vs4[IQR,3-5];generalizedOR,1.40 [95% CI, 1.06-1.85]; P = .01). The shift toward better outcomeswasnotsignificantinthegroupwithASPECTSof3to5 andinfarctcorevolumeof70mLorgreater(medianmRSscore, 4 [IQR, 3-6] for EVT vs 5 [IQR, 4-6] for medical management; generalized OR, 1.22 [95% CI, 0.81-1.83]; P = .23) or the group withASPECTSof0to2(medianmRSscore,4[IQR,3-5]forEVT vs 5 [IQR, 3-5] for medical management; generalized OR, 1.59 [95% CI, 0.89-2.86]; P = .09). Additionally, the interaction effect was not significant between the 3 imaging subgroups ( P = .95) ( Table 2 , Figure 2 , and eTable 3 in Supplement 2).
+
+Regarding the secondary outcomes, EVT was associated with higher rates of mRS score of 0 to 2 (38.4% vs 14.0%; RR, 2.75 [95% CI, 1.71-4.44]; P < .001) and ENI (9.4% vs 2.3%; RR, 4.02 [95% CI, 1.17-13.78]; P = .03) compared with medicalmanagementinthegroupwithASPECTSof3to5and infarct core volume less than 70 mL but not in the group with ASPECTSof3to5andinfarctcorevolumeof70mLorgreater (mRS score 0 to 2: 15.0% vs 10.6%; RR, 1.41 [95% CI, 0.563.56]; P = .46; ENI: 0% vs 1.6%) or the group with ASPECTS of 0 to 2 (mRS score 0 to 2: 21.9% vs 3.3%; RR, 6.56 [95% CI, 0.86-50.23]; P = .07; ENI: 0% vs 0%). Endovascular therapy wasassociatedwithahigherrateofmRSscoreof0to3(41.7% vs 22.7%; RR, 1.83 [95% CI, 1.07-3.13]; P = .03) compared with medicalmanagementinthegroupwithASPECTSof3to5and infarct core volume of 70 mL or greater but not in the group with ASPECTS of 3 to 5 and infarct core volume less than 70mL(52.2%vs40.3%;RR,1.29[95%CI,0.99-1.69]; P = .06)
+
+JAMANeurology January 2024 Volume 81, Number 1
+
+(Reprinted)
+
+Abbreviations: AF, atrial fibrillation; ASPECTS, Alberta Stroke Program Early Computed Tomography Score; CHD, coronary heart disease; ICA, internal carotid artery; ICAO, internal carotid artery occlusion; IVT, intravenous thrombolysis; M1, main trunk of the middle cerebral artery; M2, segment, first-order branch of the main trunk; mRS, modified Rankin Scale; NIHSS, National Institutes of Health Stroke Scale.
+
+a Data are presented as number (percentage) of patients unless otherwise indicated.
+
+b Data were missing for 229 patients in the medical management group.
+
+or the group with ASPECTS of 0 to 2 (34.4% vs 26.7%; RR, 1.29 [95% CI, 0.60-2.76]; P = .51) (Table 2).
+
+Endovasculartherapywasassociatedwithahigherrateof target artery recanalization at 36 hours than was medical management in all 3 groups (ASPECTS 3 to 5 and infarct core volume <70 mL: 86.3% vs 45.0%; RR, 1.92 [95% CI, 1.54-2.39]; P < .001;ASPECTS3to5andinfarctcorevolume≥70mL:87.2% vs 20.8%; RR, 4.19 [95% CI, 2.39-7.35]; P < .001; ASPECTS 0 to 2: 80.8% vs 29.6%; RR, 2.73 [95% CI, 1.48-5.02]; P = .001). Endovascular therapy was associated with smaller median growth in infarct core volume compared with medical management in the group with ASPECTS of 0 to 2 (70.3 mL [IQR, 38.8-116.9 mL] vs 141.6 mL [IQR, 69.8-175.8 mL]; mean difference, -46.48 [95% CI, -85.75 to -7.22]; P = .02) but not in the groupwithASPECTSof3to5andinfarctcorevolumelessthan 70 mL (median growth: EVT, 53.9 mL [IQR, 29.7-125.8 mL]; medicalmanagement,64.9mL[IQR,28.9-133.0mL];meandifference, 4.09 [95% CI, -17.92 to 26.11]; P = .72) or in the group with ASPECTS of 3 to 5 and infarct core volume of 70 mL or greater (median growth: EVT, 89.5 mL [IQR, 27.9-175.0 mL]; medicalmanagement,101.1mL[IQR,61.9-151.7mL];meandifference, -7.94 [95% CI, -41.88 to 26.00]; P = .64) (Table 2).
+
+With regard to safety outcomes, EVT was associated with ahigherrateofanyICHwithin48hoursthanwasmedicalmanagement in both the group with ASPECTS of 3 to 5 and infarct core volume less than 70 mL (52.9% vs 20.2%; RR, 2.62 [95% CI, 1.80-3.83]; P < .001) and the group with ASPECTS of 3 to 5 with infarct core volume of 70 mL or greater (46.7% vs 12.1%; RR,3.85[95%CI,1.90-7.78]; P < .001) but not in the group with ASPECTS of 0 to 2 (37.5% vs 16.7%; RR, 2.25 [95% CI, 0.905.63]; P = .08). There was no difference in symptomatic ICH ormortalitybetweentheEVTandmedicalmanagementgroups across the 3 subgroups (Table 2).
+
+Discussion
+
+The major findings of this subgroup analysis of the ANGELASPECT trial 3 were that (1) EVT was associated with a shift to
+
+34
+
+© 2023 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Fudan University, li bai on 09/05/2026
+
+jamaneurology.com
+
+[DOCLING_PAGE 6]
+
+Endovascular Therapy Outcomes by ASPECTS and Infarct Core Volume in Patients With Large Infarct
+
+Original Investigation Research
+
+[DOCLING_TABLE rows=42 columns=19]
+| (n = 126) (n = 62) P value Effect size (95% CI) b P value MM (n = 66) a EVT (n = 60) a Effect size (95% CI) b P value MM (n = 30) a EVT (n = 32) a Effect size (95% CI) b P value ASPECTS 3-5 and ICV <70 mL vs ASPECTS 0-2 ASPECTS 3-5 and ICV ≥70 mL vs ASPECTS 0-2 ASPECTS 3-5 vs ASPECTS 0-2 All groups | to 6) 1.22 (0.81 to 1.83) .23 5 (3 to 5) 4 (3 to 5) 1.59 (0.89 to 2.86) .09 .83 .57 .76 .95 | .32 | .48 | >.99 | .048 | .16 | .99 | .48 | .85 | .77 | across the rangeofmRS hazard ratio for ICV change by | across the rangeofmRS hazard ratio for ICV change by | across the rangeofmRS hazard ratio for ICV change by | across the rangeofmRS hazard ratio for ICV change by | across the rangeofmRS hazard ratio for ICV change by | across the rangeofmRS hazard ratio for ICV change by | across the rangeofmRS hazard ratio for ICV change by | across the rangeofmRS hazard ratio for ICV change by |
+|  |  | .40 | .68 | >.99 | .06 | .92 | .83 | .45 | .57 | .76 | ordinal shift (primary outcome), difference (95% CI) Cochran-Mantel-Haenszel | ordinal shift (primary outcome), difference (95% CI) Cochran-Mantel-Haenszel | ordinal shift (primary outcome), difference (95% CI) Cochran-Mantel-Haenszel | ordinal shift (primary outcome), difference (95% CI) Cochran-Mantel-Haenszel | ordinal shift (primary outcome), difference (95% CI) Cochran-Mantel-Haenszel | ordinal shift (primary outcome), difference (95% CI) Cochran-Mantel-Haenszel | ordinal shift (primary outcome), difference (95% CI) Cochran-Mantel-Haenszel | ordinal shift (primary outcome), difference (95% CI) Cochran-Mantel-Haenszel |
+| for interaction |  | .17 | .44 | .98 | .17 | .27 | .94 | .33 | .59 | .72 | (95% CI) for the method model, mean outcomes by the | (95% CI) for the method model, mean outcomes by the | (95% CI) for the method model, mean outcomes by the | (95% CI) for the method model, mean outcomes by the | (95% CI) for the method model, mean outcomes by the | (95% CI) for the method model, mean outcomes by the | (95% CI) for the method model, mean outcomes by the | (95% CI) for the method model, mean outcomes by the |
+|  |  | .51 | .85 | >.99 | .04 | .72 | .82 | .56 | .55 | .98 | ratio Mann-Whitney regression for other | ratio Mann-Whitney regression for other | ratio Mann-Whitney regression for other | ratio Mann-Whitney regression for other | ratio Mann-Whitney regression for other | ratio Mann-Whitney regression for other | ratio Mann-Whitney regression for other | ratio Mann-Whitney regression for other |
+|  |  | .07 | .51 | NA | .02 | .001 | .45 | .08 | .70 | .36 | generalized odds Wilcoxon hazards risk (95% CI) | generalized odds Wilcoxon hazards risk (95% CI) | generalized odds Wilcoxon hazards risk (95% CI) | generalized odds Wilcoxon hazards risk (95% CI) | generalized odds Wilcoxon hazards risk (95% CI) | generalized odds Wilcoxon hazards risk (95% CI) | generalized odds Wilcoxon hazards risk (95% CI) | generalized odds Wilcoxon hazards risk (95% CI) |
+|  |  | 6.56 (0.86 to 50.23) | 1.29 (0.60 to 2.76) |  | -46.48 (-85.75 to -7.22) | 2.73 (1.48 to 5.02) | 1.88 (0.37 to 9.50) | 2.25 (0.90 to 5.63) | 0.81 (0.27 to 2.4) | 2.81 (0.31 to 25.58) | as outcome by the proportional and relative | as outcome by the proportional and relative | as outcome by the proportional and relative | as outcome by the proportional and relative | as outcome by the proportional and relative | as outcome by the proportional and relative | as outcome by the proportional and relative | as outcome by the proportional and relative |
+|  |  |  |  | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | (21.9) | (34.4) |  | to | (80.8) | (12.5) | 12 (37.5) | (18.8) | (9.4) | are reported by a Cox model, | are reported by a Cox model, | are reported by a Cox model, | are reported by a Cox model, | are reported by a Cox model, | are reported by a Cox model, | are reported by a Cox model, | are reported by a Cox model, |
+|  |  | 7 | 11 | 0 | 70.3 (38.8 116.9) | 21 | 4 |  | 6 | 3 | effects a better death linear | effects a better death linear | effects a better death linear | effects a better death linear | effects a better death linear | effects a better death linear | effects a better death linear | effects a better death linear |
+|  |  | 1 (3.3) | 8 (26.7) | 0 | 141.6 (69.8 175.8) | 8 (29.6) | 2 (6.7) | 5 (16.7) | 7 (23.3) | 1 (3.3) | Treatment scores toward (95% CI) for the general method. | Treatment scores toward (95% CI) for the general method. | Treatment scores toward (95% CI) for the general method. | Treatment scores toward (95% CI) for the general method. | Treatment scores toward (95% CI) for the general method. | Treatment scores toward (95% CI) for the general method. | Treatment scores toward (95% CI) for the general method. | Treatment scores toward (95% CI) for the general method. |
+|  |  | .46 | .03 | NA | .64 | <.001 | .52 | <.001 | .30 | .07 |  |  |  | b |  |  |  |  |
+|  |  | 1.41 (0.56 to 3.56) | 1.83 (1.07 to 3.13) | NA | -7.94 (-41.88 to 26.00) | 4.19 (2.39 to 7.35) | 2.20 (0.20 to 23.65) | 3.85 (1.90 to 7.78) | 1.16 (0.61 to 2.21) | 1.76 (0.61 to 5.09) | neurological modified continuous | neurological modified continuous | neurological modified continuous | neurological modified continuous | neurological modified continuous | neurological modified continuous | neurological modified continuous | neurological modified continuous |
+|  |  | 9 (15.0) | (41.7) |  | to | (87.2) | 2 (3.3) | 28 (46.7) | 19 (31.7) |  | mRS, hemorrhage. (IQR) for | mRS, hemorrhage. (IQR) for | mRS, hemorrhage. (IQR) for | mRS, hemorrhage. (IQR) for | mRS, hemorrhage. (IQR) for | mRS, hemorrhage. (IQR) for | mRS, hemorrhage. (IQR) for | mRS, hemorrhage. (IQR) for |
+|  | 4 (3 |  | 25 | 0 | 89.5 (27.9 175.0) | 41 |  |  |  | (13.3) | ENI, early volume; median | ENI, early volume; median | ENI, early volume; median | ENI, early volume; median | ENI, early volume; median | ENI, early volume; median | ENI, early volume; median | ENI, early volume; median |
+|  | 5 (4 to 6) | 7 (10.6) | 15 (22.7) | 1 (1.6) | 101.1 (61.9 to 151.7) | (20.8) | 1 (1.5) | 8 (12.1) | (27.3) | (7.6) 8 | Score; core intracranial | Score; core intracranial | Score; core intracranial | Score; core intracranial | Score; core intracranial | Score; core intracranial | Score; core intracranial | Score; core intracranial |
+|  |  |  |  |  |  |  |  |  | 18 | 5 | infarct and | infarct and | infarct and | infarct and | infarct and | infarct and | infarct and | infarct and |
+|  | .01 | <.001 | .06 | .03 |  | 10 |  | <.001 | .59 | .20 | Tomography ICV, symptomatic | Tomography ICV, symptomatic | Tomography ICV, symptomatic | Tomography ICV, symptomatic | Tomography ICV, symptomatic | Tomography ICV, symptomatic | Tomography ICV, symptomatic | Tomography ICV, symptomatic |
+|  | 1.40 (1.06 to 1.85) | 2.75 (1.71 to 4.44) | 1.29 (0.99 to 1.69) | (1.17 13.78) | to .72 | <.001 | (0.68 9.19) .17 | 2.62 (1.80 to 3.83) | 1.17 (0.65 to 2.11) | 2.8 (0.58 to 13.65) | hemorrhage; SICH, categorical values | hemorrhage; SICH, categorical values | hemorrhage; SICH, categorical values | hemorrhage; SICH, categorical values | hemorrhage; SICH, categorical values | hemorrhage; SICH, categorical values | hemorrhage; SICH, categorical values | hemorrhage; SICH, categorical values |
+|  |  |  |  | 4.02 to | 4.09 (-17.92 26.11) | 1.92 (1.54 to 2.39) | 2.49 to |  |  |  | Computed for | Computed for | Computed for | Computed for | Computed for | Computed for | Computed for | Computed for |
+| EVT (n = 138) a | (2 to 5) | 53 (38.4) |  |  | (29.69 | 107 (86.3) | 8 (5.8) | 73 (52.9) | 25 (18.1) | 6 (4.4) | Early ICH, intracranial not applicable; patients | Early ICH, intracranial not applicable; patients | Early ICH, intracranial not applicable; patients | Early ICH, intracranial not applicable; patients | Early ICH, intracranial not applicable; patients | Early ICH, intracranial not applicable; patients | Early ICH, intracranial not applicable; patients | Early ICH, intracranial not applicable; patients |
+| 129) a | 5) 3 | (14.0) | 72 (52.2) | 13 (9.4) | 53.9 to 125.8) |  |  |  | (15.5) |  | Stroke Program therapy; NA, (percentage) of | Stroke Program therapy; NA, (percentage) of | Stroke Program therapy; NA, (percentage) of | Stroke Program therapy; NA, (percentage) of | Stroke Program therapy; NA, (percentage) of | Stroke Program therapy; NA, (percentage) of | Stroke Program therapy; NA, (percentage) of | Stroke Program therapy; NA, (percentage) of |
+| MM (n = | 4 (3 to | 18 | 52 (40.3) |  | 64.9 (28.9 to 133.0) | 49 (45.0) | 3 (2.3) | 26 (20.2) | 20 | 2 (1.6) | Alberta management; | Alberta management; | Alberta management; | Alberta management; | Alberta management; | Alberta management; | Alberta management; | Alberta management; |
+|  |  |  |  | 3 (2.3) |  |  |  |  |  |  |  |  | = |  |  |  |  |  |
+|  |  |  |  |  |  |  |  | h |  |  | endovascular | endovascular | endovascular | endovascular | endovascular | endovascular | endovascular | endovascular |
+|  |  | 0-2 | 0-3 |  |  |  | h | 48 |  |  | ASPECTS, number | ASPECTS, number | ASPECTS, number | ASPECTS, number | ASPECTS, number | ASPECTS, number | ASPECTS, number | ASPECTS, number |
+|  |  |  |  |  |  |  | 48 |  | 90 d |  | EVT, MM,medical | EVT, MM,medical | EVT, MM,medical | EVT, MM,medical | EVT, MM,medical | EVT, MM,medical | EVT, MM,medical | EVT, MM,medical |
+|  | score | score | score |  | to | h | within | ICH within | within |  | Scale; as | Scale; as | Scale; as | Scale; as | Scale; as | Scale; as | Scale; as | Scale; as |
+|  |  |  |  |  | ICV mL | 36 |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  | in |  |  |  |  |  | are presented | are presented | are presented | are presented | are presented | are presented | are presented | are presented |
+|  |  |  |  |  | baseline |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | mRS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | mRS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  | Abbreviations: improvement; Rankin Data | Abbreviations: improvement; Rankin Data | Abbreviations: improvement; Rankin Data | Abbreviations: improvement; Rankin Data | Abbreviations: improvement; Rankin Data | Abbreviations: improvement; Rankin Data | Abbreviations: improvement; Rankin Data | Abbreviations: improvement; Rankin Data |
+|  |  |  |  |  | from |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Outcome |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | mRS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  | recanalization at Safety | hospitalization | hospitalization | hospitalization | hospitalization | hospitalization | hospitalization | hospitalization | hospitalization |
+|  | Primary outcome | Secondary outcomes |  |  |  |  |  |  |  | follow-up, Target artery |  |  |  | a |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  | ENI Change |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  | during |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  | Any Death Decompressive | ordinal variables. | ordinal variables. | ordinal variables. | ordinal variables. | ordinal variables. | ordinal variables. | ordinal variables. |
+|  |  |  |  |  |  |  |  |  |  | hemicraniectomy | SICH | SICH | SICH | SICH | SICH | SICH | SICH | SICH |
+[/DOCLING_TABLE]
+
+jamaneurology.com
+
+(Reprinted)
+
+JAMANeurology January 2024 Volume 81, Number 1
+
+© 2023 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Fudan University, li bai on 09/05/2026
+
+35
+
+[DOCLING_PAGE 7]
+
+Research Original Investigation
+
+Endovascular Therapy Outcomes by ASPECTS and Infarct Core Volume in Patients With Large Infarct
+
+36
+
+Figure 2. Modified Rankin Scale Score Distribution Stratified by Alberta Stroke Program Early Computed Tomography Score (ASPECTS) and Infarct Core Volume
+
+90
+
+80
+
+70
+
+60
+
+50
+
+100
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Patients, %
+
+Modified Rankin Scale score
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+MM
+
+EVT
+
+3.3
+
+23.3
+
+23.3
+
+26.7
+
+12.5
+
+9.4
+
+12.5
+
+23.3
+
+6.3
+
+18.8
+
+40.6
+
+ASPECTS 3-5 and infarct core
+
+volume <70 mL (N = 267)
+
+MM
+
+EVT
+
+ASPECTS 0-2 (N = 62)
+
+MM
+
+EVT
+
+1.5
+
+1.7
+
+ASPECTS 3-5 and infarct core
+
+volume ≥70 mL (N = 126)
+
+9.1
+
+12.1
+
+10.0
+
+25.8
+
+27.3
+
+24.2
+
+13.3
+
+13.3
+
+31.7
+
+26.7
+
+3.3
+
+4.7
+
+9.3
+
+26.4
+
+10.1
+
+5.8
+
+22.5
+
+15.5
+
+15.5
+
+28.7
+
+12.3
+
+17.4
+
+18.1
+
+13.8
+
+better outcomes, a higher rate of mRS scores of 0 to 2, and ENI compared with medical management in the group with ASPECTS of 3 to 5 and infarct core volume less than 70 mL; (2) EVT was associated with a higher rate of mRS scores of 0 to 3 than was medical management in the group with ASPECTSof3to5andinfarctcorevolumeof70mLorgreater; (3) EVT was associated with a higher target artery recanalization rate at 36 hours than was medical management among the 3 groups; (4) EVT was associated with a smaller change in infarct core volume growth than was medical management only in the group with ASPECTS of 0 to 2; and (5) EVT was associated with a higher rate of any ICH than was medical managementinthegroupswithASPECTSof3to5andinfarct core volume less than 70 mL and ASPECTS of 3 to 5 and infarct core volume of 70 mL or greater but not in the group with ASPECTS of 0 to 2.
+
+Currently,4RCTshavebeenpublishedtocomparetheoutcomes of EVT vs medical management in patients with large infarct. 3-6 TheRESCUE-JapanLIMITtrial 5 wasthefirstRCTconducted in Japan to demonstrate that in patients with large infarct, stroke defined as an ASPECTS score of 3 to 5 (assessed by MRI mostly) with symptom onset within 6 hours or between 6 and 24 hours, and no signal change on MR-fluidattenuatedinversionrecovery,EVTledtobetterfunctionaloutcomes but increased the risk of ICH. The SELECT2 trial 4 was an international RCT enrolling patients with anterior circulation LVO with ASPECTS of 3 to 5 on NCCT or infarct core volumegreater than 50 mL and demonstrated that EVT resulted inbetterfunctionaloutcomesthanmedicalmanagement,with an increased risk of vascular complications. The ANGELASPECT RCT 3 involving Chinese patients with anterior circulation LVOwhohadASPECTSof3to5onNCCTwithin24hours after symptom onset or ASPECTS of 0 to 2 on NCCT with in-
+
+JAMANeurology January 2024 Volume 81, Number 1
+
+(Reprinted)
+
+EVT indicates endovascular therapy; MM,medical management.
+
+farct core volume of 70 to 100 mL within 24 hours after symptom onset also found that EVT was associated with better clinical outcomes compared with medical management for such patients, with a higher ICH rate. The Efficacy and Safety of Thrombectomy in Stroke With Extended Lesion and ExtendedTimeWindow(TENSION)trial, 6 conductedin40sites in hospitals in Europe and 1 site in Canada, enrolled patients with anterior LVO with ASPECTS 3 to 5 on NCCT or diffusionweighted imaging within 12 hours after symptom onset and suggested that EVT was associated with improved functional outcome and lower mortality in the enrolled patients.
+
+All 4 trials had different designs with regard to patient selection, imagingcriteria, andgeographiclocation.Understanding the threshold below which EVT does not confer benefit to patients with large ischemic infarct is important to optimize patient selection and allocation of health care resources when considering patient access to thrombectomy. 21 Therefore, we performed a further subgroup analysis of the ANGELASPECTtrial 3 that divided patients into 3 groups according to the combination of baseline ASPECTS and infarct core volumetoinvestigatethetreatmenteffectofEVTforpatientswith large infarct. While there was no evidence of a treatment effect interaction between the 3 groups, we found that EVT was associated with the best clinical outcomes by functional independence (mRS score of 0 to 2) in patients with LVO with a baseline ASPECTS of 3 to 5 and infarct core volume less than 70 mL, which may represent a mismatch between ASPECTS andinfarctcorevolumemeasurement.PatientswithLVOwith abaselineASPECTSof3to5andlargerinfarctcorevolumealso benefitedfromEVTbutwithabroadeningofthemRSendpoint to 0 to 3, representing independent ambulation. These results suggest a gradient that with a larger infarct size, a broader rangeofmRSscoresmaybeimportanttodemonstrateatreat- ment effect with EVT compared with medical management. However,nosignificantdifferenceswerefoundinotherstudy outcomesexceptthechangefrombaselineininfarctcorevolume in patients with LVO with baseline ASPECTS of 0 to 2, whichmayberelatedtothesmallsampleofthesepatients.The findings suggest that EVT may be performed with caution in such patients with a large infarct. Results from the HERMES meta-analysis are consistent with our findings. 22
+
+© 2023 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Fudan University, li bai on 09/05/2026
+
+jamaneurology.com
+
+[DOCLING_PAGE 8]
+
+Endovascular Therapy Outcomes by ASPECTS and Infarct Core Volume in Patients With Large Infarct
+
+Original Investigation Research
+
+As the RESCUE-Japan LIMIT trial, 5 SELECT 2 trial, 4 and TENSION trial 6 excluded patients with LVO with baseline ASPECTSof0to2,theANGEL-ASPECTtrial 3 was,toourknowledge, the first RCT to investigate the effect of EVT in patients withLVOwithASPECTSof0to2.Thefindingsofthissecondary analysis are concordant with a subgroup analysis of the RESCUE-JapanLIMITtrial,whichdemonstratedthatEVTwas associated with improved 90-day functional outcomes in patients with LVO with baseline ASPECTS of 4 to 5 but not in thosewithASPECTSof3orless. 23 However,theSELECT2subgroupanalysis suggests that patients with large ischemic core volume, defined as 70 mL or greater, 100 mL or greater, and 150mLorgreater,stillderivedbenefitwithEVTcomparedwith medical management. 4
+
+Alackofassociation between infarct core volume growth and patient clinical outcomes within the 3 imaging subgroups of our analysis may suggest the limitation of using infarct volume growth as a surrogate imaging marker for outcomes when studying the treatment effect of cerebroprotection therapies 24 in patients with large ischemic infarct. Individual patient-level pooling of data across the RCTs of large ischemic infarct may increase sample size power to study whetheracorrelationbetweeninfarctvolumegrowthandclinical outcomes exists in patients with large ischemic infarct.
+
+With regard to safety outcomes, another finding in our study was that EVT was associated with an increased risk of ICH within 48 hours in both the group with baseline ASPECTSof3to5andinfarctcorevolumelessthan70mLand the group with baseline ASPECTS of 3 to 5 and infarct core volumeof70mLorgreaterbutnotinthegroupwithbaseline ASPECTSof0to2.However,weobservedthat EVT was associated with increased risk of ICH in patients with LVO with ASPECTS of 0 to 2 compared with medical management.
+
+ARTICLE INFORMATION
+
+Accepted for Publication: September 28, 2023. Published Online: November 27, 2023. doi:10.1001/jamaneurol.2023.4430
+
+Author Affiliations: Interventional Neuroradiology, Department of Neurology, Beijing Tiantan Hospital, Capital Medical University, Beijing, China (Sun, Pan, Tong, Raynald, N. Ma, Gao, Mo, Miao); China National Clinical Research Center for Neurological Diseases, Beijing Tiantan Hospital, Capital Medical University, Beijing, China (Sun, Pan, Tong, Raynald, Wang, N. Ma, Gao, Mo, Miao); Cerebrovascular Disease Department, Neurological Disease Center, Beijing Anzhen Hospital, Capital Medical University, Beijing, China (Guo, Huo); Department of Neurology, Radiology, Boston Medical Center, Boston, Massachusetts (Nguyen, Gao, Mo);
+
+jamaneurology.com
+
+Limitations
+
+Thepresentstudyhasseverallimitationswheninterpretingthe findings. First, the reduced sample size as partitioned betweenthe3subgroupsmayhavelimitedourability to detect a difference in treatment effect by baseline imaging status. The samplesizesofthegroupwithASPECTSof3to5andinfarctcore volume of 70 mL or greater and the group with ASPECTS of 0 to 2 were not large enough to confirm the safety or efficacy of EVT. However, we observed a trend for better outcomes in the EVT group than in the medical management group in both of those subgroups. Further pooled analysis of the RCTs is needed to investigate this topic to improve precision estimates within these subgroups with large infarct core volume. Second,somevariables,suchassocioeconomicconditions,sex differences, 25 complex ethnic differences, and postdischarge factors, could not be measured, which may confoundourfindings. Third, the subgroup analysis was underpowered, which mighthaveledtoatypeIIerrorduetotherelativelysmallsample size. Fourth,whileourplantostudysubgroupsbyASPECTSand infarct core volume was prespecified in the trial protocol, we did not specify the primary and secondary outcomes of this analysis. Thus,ourfindingsarehypothesisgenerating.Fifth,as the participants in the ANGEL-ASPECT trial 3 were all Chinese, our findings may not be generalizable to other populations.
+
+Conclusions
+
+Ourstudyofpatientswithlargeischemiccorevolumefoundthat amongthe3imagingsubgroups,thebenefitofEVTdidnotvary byASPECTSorinfarctcorevolumestrata.However,whenstudyingeachsubgroup,EVTwasassociatedwithbetterclinicaloutcomesthanmedicalmanagementbutwithanincreasedriskof anyICHinpatientswithASPECTSof3to5andaninfarctcorevolume less than 70 mL. The findings suggest that patients with ASPECTSof3to5andaninfarctcorevolumeof70mLorgreater maybenefit from EVT with regard to independent ambulation butwithanincreasedriskofanyICH.Theoutcomeswerenotdifferent betweenEVTandmedicalmanagementinpatientswith baselineASPECTSof0to2.Furtherstudieswithalargersample size and involving other ethnic populations are warranted.
+
+Department of Neurology, Beijing Xuanwu Hospital, Capital Medical University, Beijing, China (G. Ma).
+
+Author Contributions: Dr Miao had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis. Drs Sun and Guo contributed equally to this article.
+
+Conflict of Interest Disclosures: Dr Nguyen reported serving on the advisory board for Idorsia and Brainomix outside the submitted work. No other disclosures were reported.
+
+Concept and design: Sun, Nguyen, G. Ma, Tong, Raynald, Gao, Huo, Miao.
+
+Acquisition, analysis, or interpretation of data: Sun, Guo, Pan, Wang, N. Ma, Mo, Huo.
+
+Drafting of the manuscript: Sun, Huo.
+
+Critical review of the manuscript for important intellectual content: All authors.
+
+Statistical analysis: Guo, Pan, Wang, Huo.
+
+Obtained funding:
+
+Miao.
+
+Administrative, technical, or material support: G. Ma, N. Ma, Huo. Supervision: Gao, Huo, Miao.
+
+(Reprinted)
+
+Funding/Support: The study was supported by unrestricted grants from Covidien Healthcare International Trading (Shanghai), Johnson & Johnson MedTech, Genesis MedTech (Shanghai), and Shanghai HeartCare Medical Technology.
+
+Role of the Funder/Sponsor: The funders had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+Group Information: The ANGEL-ASPECT Investigators appear in Supplement 3.
+
+Data Sharing Statement:
+
+See Supplement 4.
+
+JAMANeurology January 2024 Volume 81, Number 1
+
+© 2023 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Fudan University, li bai on 09/05/2026
+
+37
+
+[DOCLING_PAGE 9]
+
+Research Original Investigation
+
+Endovascular Therapy Outcomes by ASPECTS and Infarct Core Volume in Patients With Large Infarct
+
+Additional Contributions: Wethank all investigators for their efforts in conducting the ANGEL-ASPECT trial (eTable 1 in Supplement 2).
+
+REFERENCES
+
+1 . Fayad P. Improved prospects for thrombectomy in large ischemic stroke. N Engl J Med . 2023;388 (14):1326-1328. doi:10.1056/NEJMe2300193
+
+2 . Starikova N, Räty S, Strbian D, et al. Endovascular thrombectomy for anterior circulation large vessel occlusion stroke: an evolution of trials. Semin Neurol . 2023;43(3):397-407. doi:10.1055/s-0043-1771454
+
+3 . Huo X, Ma G, Tong X, et al; ANGEL-ASPECT Investigators. Trial of endovascular therapy for acute ischemic stroke with large infarct. NEngl J Med . 2023;388(14):1272-1283. doi:10.1056/ NEJMoa2213379
+
+4 . Sarraj A, Hassan AE, Abraham MG, et al; SELECT2 Investigators. Trial of endovascular thrombectomy for large ischemic strokes. NEngl J Med . 2023;388(14):1259-1271. doi:10.1056/ NEJMoa2214403
+
+5 . Yoshimura S, Sakai N, Yamagami H, et al. Endovascular therapy for acute stroke with a large ischemic region. NEngl J Med . 2022;386(14):13031313. doi:10.1056/NEJMoa2118191
+
+6 . Bendszus M, Fiehler J, Subtil F, et al; TENSION Investigators. Endovascular thrombectomy for acute ischaemic stroke with established large infarct: multicentre, open-label, randomised trial. Lancet . Published online October 10, 2023. doi:10.1016/S0140-6736(23)02032-9
+
+7 . ESOC 2023-late breaking abstracts. Eur Stroke J . 2023;8(2)(suppl):670-711.
+
+8 . Doheim MF, Hagrass AI, Elrefaey M, et al. From therapeutic nihilism to armamentarium: a meta-analysis of randomized clinical trials assessing safety and efficacy of endovascular therapy for acute large ischemic strokes. Interv Neuroradiol . Published online April 20, 2023. doi:10.1177/15910199231170681
+
+9 . Li Q, Abdalkader M, Siegler JE, et al. Mechanical thrombectomy for large ischemic stroke: a systematic review and meta-analysis. Neurology . 2023;101(9):e922-e932. doi:10.1212/WNL. 0000000000207536
+
+10 . Jadhav AP, Hacke W, Dippel DWJ, et al. Select wisely: the ethical challenge of defining large
+
+core with perfusion in the early time window. J Neurointerv Surg . 2021;13(6):497-499.
+
+doi:10.1136/neurintsurg-2021-017386
+
+11 . Ren Z, Huo X, Ma G, et al; ANGEL-ASPECT Investigators and ANGEL-ASPECT Steering Committee. Selection criteria for large core trials: rationale for the ANGEL-ASPECT study design. J Neurointerv Surg . 2022;14(2):107-110. doi:10.1136/ neurintsurg-2021-017798
+
+12 . Sarraj A, Campbell B, Ribo M, et al; SELECT2 Investigators and SELECT2 Steering Committee. Selection criteria for large core trials: dogma or data? J Neurointerv Surg . 2021;13(6):500-504. doi:10.1136/neurintsurg-2021-017498
+
+13 . Ren Z, Huo X, Kumar J, et al. Review of current large core volume stroke thrombectomy clinical trials: controversies and progress. Stroke Vasc Intervent Neurol . 2022;2(5):e000330. doi:10.1161/ SVIN.121.000330
+
+14 . van Horn N, Kniep H, Broocks G, et al. ASPECTS interobserver agreement of 100 investigators from the TENSION study. Clin Neuroradiol . 2021;31(4): 1093-1100. doi:10.1007/s00062-020-00988-x
+
+15 . Martins N, Aires A, Mendez B, et al. Ghost infarct core and admission computed tomography perfusion: redefining the role of neuroimaging in acute ischemic stroke. Interv Neurol . 2018;7(6):513521. doi:10.1159/000490117
+
+16 . Huo X, Ma G, Zhang X, et al. Endovascular therapy in acute anterior circulation large vessel occlusive patients with a large infarct core (ANGEL-ASPECT): protocol of a multicentre randomised trial. Stroke Vasc Neurol . 2023;8(2): 169-174. doi:10.1136/svn-2022-001865
+
+17 . Campbell BCV, Majoie CBLM, Albers GW, et al; HERMESCollaborators. Penumbral imaging and functional outcome in patients with anterior circulation ischaemic stroke treated with endovascular thrombectomy versus medical therapy: a meta-analysis of individual patient-level data. Lancet Neurol . 2019;18(1):46-55. doi:10.1016/ S1474-4422(18)30314-4
+
+18 . Liebeskind DS, Bracard S, Guillemin F, et al; HERMESCollaborators. eTICI reperfusion: defining success in endovascular stroke therapy. J Neurointerv Surg . 2019;11(5):433-438. doi:10.1136/ neurintsurg-2018-014127
+
+(Reprinted)
+
+19 . Millán M, Remollo S, Quesada H, et al; REVASCAT Trial Investigators. Vessel patency at 24 hours and its relationship with clinical outcomes and infarct volume in REVASCAT trial (Randomized Trial of Revascularization With Solitaire FR Device Versus Best Medical Therapy in the Treatment of Acute Stroke Due to Anterior Circulation Large Vessel Occlusion Presenting Within Eight Hours of Symptom Onset). Stroke . 2017;48(4):983-989. doi:10.1161/STROKEAHA.116.015455
+
+20 . von Kummer R, Broderick JP, Campbell BC, et al. The Heidelberg Bleeding Classification: classification of bleeding events after ischemic stroke and reperfusion therapy. Stroke . 2015;46 (10):2981-2986. doi:10.1161/STROKEAHA.115.010049
+
+21 . Pan Y, Huo X, Jin A, et al. Cost-effectiveness of endovascular therapy for acute ischemic stroke with large infarct in China. J Neurointerv Surg . Published online June 16, 2023. doi:10.1136/jnis-2023020466
+
+22 . RománLS, Menon BK, Blasco J, et al; HERMESCollaborators. Imaging features and safety and efficacy of endovascular stroke treatment: a meta-analysis of individual patient-level data. Lancet Neurol . 2018;17(10):895-904. doi:10.1016/ S1474-4422(18)30242-4
+
+23 . Uchida K, Shindo S, Yoshimura S, et al; RESCUE-Japan LIMIT Investigators. Association between Alberta Stroke Program early computed tomography score and efficacy and safety outcomes with endovascular therapy in patients with stroke from large-vessel occlusion: a secondary analysis of the Recovery by Endovascular Salvage for Cerebral Ultra-acute Embolism-Japan Large Ischemic Core trial (RESCUE-Japan LIMIT). JAMANeurol . 2022;79(12): 1260-1266. doi:10.1001/jamaneurol.2022.3285
+
+24 . WangA, Jia B, Zhang X, et al; BAST Investigators. Efficacy and safety of butylphthalide in patients with acute ischemic stroke: a randomized clinical trial. JAMANeurol . 2023;80 (8):851-859. doi:10.1001/jamaneurol.2023.1871
+
+25 . Sun D, Raynald, Huo X, et al; ANGEL-ACT Study Group. Sex-related differences in outcomes of endovascular treatment for anterior circulation large vessel occlusion. Stroke . 2023;54(2):327-336. doi:10.1161/STROKEAHA.122.041195
+
+38
+
+JAMANeurology
+
+January 2024
+
+Volume 81, Number 1
+
+© 2023 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by Fudan University, li bai on 09/05/2026
+
+jamaneurology.com

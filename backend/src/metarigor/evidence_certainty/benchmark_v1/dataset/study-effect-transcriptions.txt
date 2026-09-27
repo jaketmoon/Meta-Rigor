@@ -1,0 +1,16 @@
+schema_version=1.0.0
+provenance=Curator transcription of the study-specific effect estimate and 95% confidence interval printed in each frozen Review forest; no GRADE judgment is encoded.
+case_id=meng-2025
+study_effects={"effect_measure":"OR","studies":{"huet-2024":{"ci_lower":0.52,"ci_upper":1.95,"estimate":1.01},"li-2017":{"ci_lower":0.23,"ci_upper":1.65,"estimate":0.62},"likhvantsev-2021":{"ci_lower":0.12,"ci_upper":0.9,"estimate":0.33},"priye-2015":{"ci_lower":0.02,"ci_upper":1.58,"estimate":0.17},"qu-mindds-2023":{"ci_lower":0.29,"ci_upper":1.17,"estimate":0.58},"turan-decade-2020":{"ci_lower":0.39,"ci_upper":2.53,"estimate":0.99},"wang-2023":{"ci_lower":0.59,"ci_upper":1.4,"estimate":0.91}}}
+case_id=wang-2025
+study_effects={"effect_measure":"RR","studies":{"cronhjort":{"ci_lower":0.18,"ci_upper":7.09,"estimate":1.13},"fresh-douglas":{"ci_lower":0.33,"ci_upper":1.53,"estimate":0.71},"gones-kuan":{"ci_lower":0.34,"ci_upper":2.93,"estimate":1.0},"lin":{"ci_lower":0.24,"ci_upper":1.44,"estimate":0.58},"moress-gruartmoner":{"ci_lower":0.17,"ci_upper":1.07,"estimate":0.42},"richard":{"ci_lower":0.24,"ci_upper":1.06,"estimate":0.5}}}
+case_id=turalde-mapili-2023
+study_effects={"effect_measure":"RR","studies":{"trial03":{"ci_lower":0.17,"ci_upper":0.44,"estimate":0.27},"trial04-melody":{"ci_lower":0.12,"ci_upper":0.47,"estimate":0.24}}}
+case_id=zhong-2022
+study_effects={"effect_measure":"RR","studies":{"borgi-severe-bronchiolitis":{"ci_lower":1.21,"ci_upper":2.29,"estimate":1.66},"cesar-critical-bronchiolitis":{"ci_lower":0.54,"ci_upper":2.01,"estimate":1.04},"milesi-tramontane":{"ci_lower":1.08,"ci_upper":2.48,"estimate":1.64},"sarkar-acute-bronchiolitis":{"ci_lower":0.07,"ci_upper":15.57,"estimate":1.07},"vahlkvist-viral-bronchiolitis":{"ci_lower":0.13,"ci_upper":3.16,"estimate":0.64}}}
+case_id=lin-2025
+study_effects={"effect_measure":"RR","studies":{"nct03805308":{"ci_lower":0.86,"ci_upper":3.12,"estimate":1.64},"plos-angel-aspect":{"ci_lower":1.72,"ci_upper":3.92,"estimate":2.6},"plos-laste":{"ci_lower":1.24,"ci_upper":5.97,"estimate":2.72},"plos-rescue-japan-limit":{"ci_lower":0.86,"ci_upper":4.84,"estimate":2.04},"plos-select2":{"ci_lower":1.56,"ci_upper":5.38,"estimate":2.9},"plos-tension":{"ci_lower":2.11,"ci_upper":22.49,"estimate":6.89}}}
+case_id=sun-2024
+study_effects={"effect_measure":"OR","studies":{"cheng":{"ci_lower":0.23,"ci_upper":1.0,"estimate":0.48},"colak":{"ci_lower":0.23,"ci_upper":1.51,"estimate":0.59},"lei":{"ci_lower":0.55,"ci_upper":1.76,"estimate":0.99},"uysal":{"ci_lower":0.06,"ci_upper":1.48,"estimate":0.3},"zavareh":{"ci_lower":0.03,"ci_upper":3.22,"estimate":0.33}}}
+case_id=qazi-2026
+study_effects={"effect_measure":"RR","studies":{"chablis_t2":{"ci_lower":0.78,"ci_upper":1.53,"estimate":1.09},"option":{"ci_lower":1.09,"ci_upper":1.67,"estimate":1.35},"rose":{"ci_lower":0.68,"ci_upper":1.61,"estimate":1.05},"timeless":{"ci_lower":0.91,"ci_upper":1.61,"estimate":1.21},"trace_iii":{"ci_lower":1.03,"ci_upper":1.8,"estimate":1.36}}}

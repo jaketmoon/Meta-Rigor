@@ -1,0 +1,224 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04116346",
+      "orgStudyIdInfo": {
+        "id": "APHP190397"
+      },
+      "organization": {
+        "fullName": "Assistance Publique - Hôpitaux de Paris",
+        "class": "OTHER"
+      },
+      "briefTitle": "Comparison Between Fasting and no Fasting Before Interventional Coronary Intervention on the Occurrence of Adverse Events",
+      "officialTitle": "Comparison Between Fasting and no Fasting Before Interventional Coronary Intervention on the Occurrence of Adverse Events: Randomized Controlled Trial of Non-inferiority (TONIC)",
+      "acronym": "TONIC"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2019-09",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2019-12-01",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2022-12-07",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2022-12-07",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2019-09-26",
+      "studyFirstSubmitQcDate": "2019-10-03",
+      "studyFirstPostDateStruct": {
+        "date": "2019-10-04",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2019-10-03",
+      "lastUpdatePostDateStruct": {
+        "date": "2019-10-04",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Assistance Publique - Hôpitaux de Paris",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Traditionally, patients are asked to fast prior to invasive cardiac procedures. There exists neither clear evidence nor guidance about the benefits of this.\n\nHypothesis/Objective :\n\nTo show that allowing unrestricted oral intake before a coronary interventional procedure is not inferior to imposing a pre-procedural fasting period, in terms of adverse events, in patients requiring coronary angiography or a planned or semi-urgent percutaneous coronary intervention.\n\nMethod:\n\nThe study is a prospective, monocentric, controlled, single-blind, randomized trial in two parallel arms. The investigating physician performing the interventional procedure and evaluating the safety judgment criteria will not be informed of the patient's randomization arm. In order to keep the blind, the medical and paramedical staff of the interventional cardiology room will not inquire about the fasting status of patients included in the study.\n\nPatients are randomized either to the pre-procedural fasting arm or to the absence of pre-procedural fasting.\n\n* No intervention: Pre-procedural fasting is defined by the absence of ingestion of fluids or solid food for at least 6 hours before the examination.\n* Experimental: free feeding and drinking until the procedure.\n\nPatients are followed for 4 hours after the end of the procedure at the hospital for adverse events (vagal discomfort, nausea, vomiting or hypoglycaemia).\n\nThen a follow-up will be done at day 7 after the procedure (by telephone for outpatients or discharged from the hospital and in the cardiology department for patients still hospitalized on D7) to look for the occurrence of acute renal failure or pneumonia"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Fasting",
+        "Cardiac Catheterization",
+        "Percutaneous Coronary Intervention"
+      ],
+      "keywords": [
+        "Fasting",
+        "Cardiac Catheterization",
+        "Percutaneous coronary intervention"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "Our study is a prospective, monocentric, controlled, single-blind, randomized trial in two parallel arms",
+        "primaryPurpose": "SUPPORTIVE_CARE",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "maskingDescription": "The investigating physician performing the interventional procedure and evaluating the safety judgment criteria will not be informed of the patient's randomization arm",
+          "whoMasked": [
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 736,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Fasting group",
+          "type": "NO_INTERVENTION",
+          "description": "Fasting for both solids and fluids for up to 6 hours pre-procedure"
+        },
+        {
+          "label": "Non Fasting group",
+          "type": "EXPERIMENTAL",
+          "description": "Usual meal on the day of the procedure and allowed to drink as usual",
+          "interventionNames": [
+            "Other: Oral intake allowed"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Oral intake allowed",
+          "description": "Oral intake (food and fluids) allowed up to the time of the procedure",
+          "armGroupLabels": [
+            "Non Fasting group"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Adverse events linked to oral intake before cardiac procedure: vasovagal complications or nausea or vomiting or hypoglycemia",
+          "description": "* Vagal reaction is defined by the presence of at least two of the following criteria occurring during the procedure or closure of the arterial approach or during the post-procedural observation phase, in the absence of other explanations:\n\n  * nausea / vomiting, skin paleness, sweating\n  * decrease in systolic pressure \\<100mmHg (or 15% decrease in baseline if systolic blood pressure \\<100 mmHg baseline)\n  * decrease in heart rate below 60 bpm (or more than 15% decrease if basal heart rate is below 60bpm) .\n* Nausea evaluated by interrogation; vomiting noted by the doctor or nurse\n* Hypoglycemia defined by the measurement of a glycemia lower than or equal to 0.70 mg / dL. This measurement is performed in the examination room at the beginning and end of the procedure on blood taken from the arterial sheath.",
+          "timeFrame": "4 hours"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Post procedural acute renal failure",
+          "description": "Defined by a 25% increase in serum creatinine compared with basal level, or an increase in serum creatinine of more than 44 μmol/l in 3 days after injection of contrast medium",
+          "timeFrame": "5 days"
+        },
+        {
+          "measure": "Post procedural aspiration pneumonia",
+          "description": "\\- All patients will be contacted or reviewed in clinic to assess for chest infection",
+          "timeFrame": "7 days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* All patients \\>18 years undergoing elective coronary angiography or angioplasty procedures\n* Agreement to participate and signed informed consent after information\n* Affiliation to Social Security System\n\nExclusion Criteria:\n\n* Patient requiring fasting for another procedure\n* Immediate coronary emergency (STEMI, very high risk NSTEMI)\n* Patient under artificial nutrition\n* Hemodynamic instability\n* Patient under guardianship or curators\n* Pregnant women, breast-feeding",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Madjid BOUKANTAR, Doctor",
+          "role": "CONTACT",
+          "phone": "01 49 81 21 11",
+          "email": "madjid.boukantar@aphp.fr"
+        },
+        {
+          "name": "Anissa ZAROUR",
+          "role": "CONTACT",
+          "phone": "01 49 81 33 44",
+          "email": "anissa.zarour@aphp.fr"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Assistance Publique Hôpitaux de Paris - CHU HENRI MONDOR",
+          "city": "Créteil",
+          "zip": "94010",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.79266,
+            "lon": 2.46569
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "38811102",
+          "type": "DERIVED",
+          "citation": "Boukantar M, Chiaroni PM, Gallet R, Zamora P, Truong T, Mangiameli A, Rostain L, Tuffreau-Martin AS, Natella PA, Oubaya N, Teiger E. A Randomized Controlled Trial of Nonfasting vs Fasting Before Interventional Coronary Procedures: The TONIC Trial. JACC Cardiovasc Interv. 2024 May 27;17(10):1200-1210. doi: 10.1016/j.jcin.2024.03.033."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO",
+      "description": "data are own by Assistance Publique - Hôpitaux de Paris, please contact sponsor for further information"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-08-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D005215",
+          "term": "Fasting"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D005247",
+          "term": "Feeding Behavior"
+        },
+        {
+          "id": "D001519",
+          "term": "Behavior"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

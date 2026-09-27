@@ -1,0 +1,299 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03811769",
+      "orgStudyIdInfo": {
+        "id": "RECHMPL18_0173"
+      },
+      "organization": {
+        "fullName": "University Hospital, Montpellier",
+        "class": "OTHER"
+      },
+      "briefTitle": "Large Stroke Therapy Evaluation",
+      "officialTitle": "Evaluation of Acute Mechanical Revascularisation in Large Stroke (ASPECTS 0-5) With Large Vessel Occlusion Within 7 Hours After Stroke Onset or Last Known Well",
+      "acronym": "LASTE"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "Although the planned sample size was 450, enrollment was halted early following an unplanned interim analysis recommended by the Data Safety Monitoring Board because results favoring thrombectomy were reported from other similar trials.",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2019-04-07",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-04-26",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2023-08-24",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2019-01-10",
+      "studyFirstSubmitQcDate": "2019-01-18",
+      "studyFirstPostDateStruct": {
+        "date": "2019-01-22",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-09-25",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-09-29",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University Hospital, Montpellier",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Stroke represents the fourth leading cause of death in industrialized nations, after heart disease, cancer, and chronic lower respiratory disease. The overall burden of stroke will rise dramatically in the next 20 years due to an ageing population. Approximately one-quarter of the patients suffering a stroke die within one year after the initial event and stroke is a leading cause of serious long-term disability. Acute ischemic stroke (AIS) due to large vessel occlusion (LVO) is a potentially devastating event, with a poor prognosis in the absence of timely revascularization. Whether in patients with large anterior circulation stroke, direct mechanical intervention is equally effective, superior or inferior to bridging thrombolysis remains a matter of debate.\n\nThus, this procedure, is now the recommended standard of care for selective patients with LVO in the anterior circulation. When performed with newer generation devices (mainly stent retrievers), more stringent imaging selection criteria and more efficient workflow than in previous trials, significantly reduces disability rates after AIS caused by LVO in the anterior circulation.\n\nThe STAIR (Stroke Treatment Academic Industry Roundtable) meeting aims to advance acute stroke therapy development through collaboration between academia, industry, and regulatory institutions. In pursuit of this goal and building on the available level I evidence of benefit from endovascular therapy (EVT) in large vessel occlusion stroke, STAIR IX consensus recommendations were developed that outline priorities for future research in EVT.",
+      "detailedDescription": "The LASTE hypothesis is that patient harbouring a large ischemic core stroke at presentation, may still benefit from mechanical thrombectomy, given the very poor natural history of patient managed by a standalone medical therapy.\n\nThe threshold of ASPECTS 5 to set a benefit for treatment was inspired by initial large medical trials using IV t-PA25-27 (Samurai-CT ALBERTA Score IV cohort). In the paradigm of acute and complete reperfusion, radiographic infarct stroke volume may be partially reversible and thus the resulting final infarct may be smaller compared to the one in non-re-perfused patients who will consequently have poorer clinical outcomes. By now, large core patients defined as ASPECTS 0-5 were excluded from most randomized clinical trials resulting in a lack of unequivocal evidence of benefit in this patient population.\n\nAnalyses of several prospective cohorts suggest signals of benefit in favor of thrombectomy in patients with large baseline core. In the prospective cohort ETIS, LAPERGUE et al reported a rate of good outcome of 34% in the subgroup of patient with ASPECT 4-5. In the prospective cohort analysis RECOST, a mean mRS score of 34% in a group of patient presenting ASPECT 0-5 treated with mechanical thrombectomy, versus 9% of good outcome in the medical group, suggesting a benefit to treat LVO harbouring a large core. The strongest argument in favor of benefit of EVT even in patients with large core is provided by the six completed randomized endovascular stroke trials. These trials did prove that Combined Approach Mechanical + IV t-PA, is superior to standalone IV lytics, mRs score ≤ 2 ranging from 33% and up to 72%, but Large Core Infarction were largely excluded. Nonetheless a pooled analysis of these trials revealed that a minority of patients with large baseline core were still randomized. In MR CLEAN study, despite no exclusion criteria defined in the initial protocol, the median ASPECT score of the cohort was 9 out of 10. In SWIFT-PRIME study, the mean ASPECT score of the cohort was 7, and in REVASCAT study it was 6.8.\n\nThe LASTE protocol \"Large Stroke Therapy Evaluation\" aims to study the efficacy and safety of mechanical thrombectomy in the acute phase of cerebral infarction less than 7 hours for patients with a large volume of necrosis defined by a score ASPECT from 0 to 5. The patients will be followed 6 months after the stroke."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Stroke"
+      ],
+      "keywords": [
+        "Mechanical thrombectomy",
+        "Stroke",
+        "Proximal intracranial arterial occlusions",
+        "Large vessel occlusion"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "OTHER",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 335,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Best Medical Therapy (BMT)",
+          "type": "OTHER",
+          "description": "Best treatment medical probably associated to the rescue endovascular treatment in case of neurological deterioration",
+          "interventionNames": [
+            "Other: Best Medical Therapy"
+          ]
+        },
+        {
+          "label": "Mechanical Thrombectomy (MT)",
+          "type": "OTHER",
+          "description": "Endovascular treatment (thrombectomy) associated with the best medical treatment",
+          "interventionNames": [
+            "Procedure: Mechanical Thrombectomy"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Best Medical Therapy",
+          "description": "The administration of medications is at the treating physician's discretion (for example intravenous fibrinolysis, anticoagulants or antiplatelet) according to local standards of care but may NOT include any intra-arterial therapies.",
+          "armGroupLabels": [
+            "Best Medical Therapy (BMT)"
+          ]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Mechanical Thrombectomy",
+          "description": "MT in the Experimental Arm can be performed with any thrombectomy (CE labeled) device usually used at study site. For the subjects randomized to the MT plus BMT arm start of treatment is defined as the date and time of groin puncture (arterial access).",
+          "armGroupLabels": [
+            "Mechanical Thrombectomy (MT)"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Evaluation of patient's condition",
+          "description": "Shift on the mRS at 90 days in experimental group vs the control group",
+          "timeFrame": "3 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Evaluation of patient's condition",
+          "description": "The degree of disability at 180 days (shift on the mRS combining scores of 5 and 6)",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Evaluation of good functional outcome",
+          "description": "Rate of patients with a good functional outcome at 90 days and 180 days, defined as mRS 0-2",
+          "timeFrame": "3 and 6 months"
+        },
+        {
+          "measure": "Evaluation of functional outcome",
+          "description": "Rate of patients with a favorable outcome at 90 and 180 days, defined as mRS 0-3",
+          "timeFrame": "3 and 6 months"
+        },
+        {
+          "measure": "Evaluation of treatment effect",
+          "description": "Distribution of utility weighted mRS (UW mRS) at 90 and 180 days",
+          "timeFrame": "3 and 6 months"
+        },
+        {
+          "measure": "Evaluation of quality of life",
+          "description": "Quality of life at 90 and 180 days assessed by EuroQol/EQ-5D",
+          "timeFrame": "3 and 6 months"
+        },
+        {
+          "measure": "Evaluation of decompressive condition",
+          "description": "Rate of patients with secondary decompressive craniectomy within 7 days",
+          "timeFrame": "7 days"
+        },
+        {
+          "measure": "Evaluation of medical response",
+          "description": "Rate of patients with \"early good response\" at Day 5-7/Discharge (whichever is earlier), defined as a NIHSS drop of ≥ 8 points from baseline or NIHSS score 0 or 1",
+          "timeFrame": "Day 5-7 or discharge, whichever is earlier"
+        },
+        {
+          "measure": "Evaluation of medical condition",
+          "description": "Change in infarct volumes on CT or MRI from baseline to 24 hours post randomization",
+          "timeFrame": "1 day"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion criteria:\n\n1. Subject is ≥ 18 years old at inclusion (no upper age limit)\n2. Clinical signs consistent with acute ischemic stroke with symptoms onset or TLKW ≤ 6.5 hours from randomization, or with negative FLAIR on MRI if TLSW is unknown, with treatment started within 7 hours.\n3. Proven Large Ischemic Core defined as: ASPECT Score ≤ 5 on non-contrast CT or DWI-MRI, and in patients ≥ 80 years: ASPECT = 3 to 5 on non-contrast CT or DWI-MRI\n4. Proved anterior circulation intracranial large vessel occlusion on CTA or MRA (intracranial ICA, M1, M1-M2). The MCA - M1 segment is defined as the first branch of the intracranial ICA which courses horizontally from its branching point off the ICA through the Sylvian fissure up to the first bifurcation distal to the lenticulo-striate arteries, in the Sylvian fissure. M2 is defined as the portions of the MCA distal to the first bifurcation or trifurcation, but prior to the second bifurcation.\n5. Patient or patient's representative has received information about the study and has signed and dated the appropriate Informed Consent Form\n6. Selection imaging performed ≤ 3 hours before randomization\n7. Anticipated possibility to start the procedure (arterial access) within 30 minutes after randomization\n8. Pre stroke mRS ≤ 1\n9. Subjects receiving antiaggregant and/or anticoagulant agents (at any mode of administration) within the last 24 hours from screening are eligible for participation.\n10. NIHSS \\> 6\n11. For patients for whom thrombolytic therapy, such as IV t-PA, is indicated, such treatment is initiated as soon as possible and within the accepted clinical guidelines as measured from stroke symptom onset.\n\nExclusion criteria:\n\n1. Known absence of vascular access.\n2. Known contrast or endovascular product life-threatening allergy.\n3. Female who is known to be pregnant or lactating at time of admission\n4. Patient presents severe or fatal co-morbidities or life expectancy under 6 months that will likely interfere with the improvement or follow-up or that will render the procedure unlikely to benefit the patient.\n5. Patient unable to present or be available for follow-up.\n6. Pre-existing neurological or psychiatric disease that would confound the neurological or functional evaluations.\n7. Evidence of vessel recanalization prior to randomization.\n8. Seizures at stroke onset if it makes the diagnosis of stroke doubtful and precludes obtaining an accurate baseline NIHSS assessment.\n9. Current participation in another investigational drug study.\n10. Suspicion of aortic dissection based on medical history, clinical evaluation or/and imaging.\n11. Major patients under guardianship.\n12. Blood glucose \\< 50 mg/dL or \\> 400 mg/dL\n13. Cr \\> 4.0 mg/dL, unless the patient is on dialysis\n14. Platelet count \\< 50000/uL\n15. INR \\> 3.0 or PTT \\> 3 times upper limit of normal (ULN)\n\nImaging Exclusion Criteria:\n\n1. Isolated proximal cervical ICA occlusions or proximal cervical ICA occlusions with MCA-M1 or intracranial ICA occlusion requiring stent placement, and isolated M2 occlusions on the pre-randomization neuro-imaging\n2. Evidence of intracranial hemorrhage on CT/MRI\n3. Excessive tortuosity of cervical vessels on CTA/MRA that would likely result in unstable access platform\n4. High Suspicion of underlying intracranial stenosis on CTA/MRA/DSA\n5. Suspected cerebral vascular disease (e.g. vasculitis) based on medical history and CTA/MRA/DSA\n6. Presumed calcified Embolus or Intracranial Stenosis decompensation\n7. Intracranial stent implanted in the same vascular territory that would preclude the safe deployment/removal of the stentriever device\n8. Occlusions in multiple vascular territories (e.g.: bilateral anterior circulation, or anterior circulation/vertebrobasilar system) confirmed on CTA/MRA/DSA.\n9. Significant mass effect with midline shift as confirmed on CT/MRI\n10. Any ipsilateral cervical ICA lesion (Tandem), that requires stent placement",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Vincent COSTALAT, PU-PH",
+          "affiliation": "Hôpital Gui de Chauliac",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Caroline ARQUIZAN, PH",
+          "affiliation": "Hôpital Gui de Chauliac",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Bertrand LAPERGUE",
+          "affiliation": "Hôpital Foch",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Tudor JOVIN, PU-PH",
+          "affiliation": "Cooper Neurological Institute",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Hopital Gui De Chauliac",
+          "city": "Montpellier",
+          "zip": "34295",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.61093,
+            "lon": 3.87635
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "2314063",
+          "type": "BACKGROUND",
+          "citation": "Cody JT. Cross-reactivity of amphetamine analogues with Roche Abuscreen radioimmunoassay reagents. J Anal Toxicol. 1990 Jan-Feb;14(1):50-3. doi: 10.1093/jat/14.1.50."
+        },
+        {
+          "pmid": "38718358",
+          "type": "RESULT",
+          "citation": "Costalat V, Jovin TG, Albucher JF, Cognard C, Henon H, Nouri N, Gory B, Richard S, Marnat G, Sibon I, Di Maria F, Annan M, Boulouis G, Cardona P, Obadia M, Piotin M, Bourcier R, Guillon B, Godard S, Pasco-Papon A, Eker OF, Cho TH, Turc G, Naggara O, Velasco S, Lamy M, Clarencon F, Alamowitch S, Renu A, Suissa L, Brunel H, Gentric JC, Timsit S, Lamy C, Chivot C, Macian-Montoro F, Mounayer C, Ozkul-Wermester O, Papagiannaki C, Wolff V, Pop R, Ferrier A, Chabert E, Ricolfi F, Bejot Y, Lopez-Cancio E, Vega P, Spelle L, Denier C, Millan M, Arenillas JF, Mazighi M, Houdart E, Del Mar Freijo M, Duhamel A, Sanossian N, Liebeskind DS, Labreuche J, Lapergue B, Arquizan C; LASTE Trial Investigators. Trial of Thrombectomy for Stroke with a Large Infarct of Unrestricted Size. N Engl J Med. 2024 May 9;390(18):1677-1689. doi: 10.1056/NEJMoa2314063."
+        },
+        {
+          "pmid": "41979451",
+          "type": "DERIVED",
+          "citation": "Lapergue B, Arquizan C, Albucher JF, Cognard C, Henon H, Nouri N, Gory B, Richard S, Marnat G, Sibon I, Di Maria F, Annan M, Boulouis G, Cardona P, Labreuche J, Costalat V, Jovin TG; LASTE Trial Investigators. Endovascular Thrombectomy in Patients With Largest Baseline Infarcts (ASPECTS 0-2): An Ancillary Analysis of the LASTE Trial. Stroke. 2026 Jun;57(6):1504-1512. doi: 10.1161/STROKEAHA.125.054161. Epub 2026 Apr 14."
+        },
+        {
+          "pmid": "41791871",
+          "type": "DERIVED",
+          "citation": "Gerschenfeld G, Lapergue B, Labreuche J, Albucher JF, Cognard C, Henon H, Nouri N, Richard S, Gory B, Sibon I, Marnat G, Van Dokkum L, Liebeskind DS, Jovin TG, Costalat V, Alamowitch S, Arquizan C; LASTE Trial Investigators. Efficacy and safety of bridging therapy and thrombectomy alone in patients with large infarcts of unrestricted size: LASTE trial post hoc analysis. J Neurointerv Surg. 2026 Mar 6:jnis-2025-024872. doi: 10.1136/jnis-2025-024872. Online ahead of print."
+        },
+        {
+          "pmid": "37462028",
+          "type": "DERIVED",
+          "citation": "Costalat V, Lapergue B, Albucher JF, Labreuche J, Henon H, Gory B, Sibon I, Boulouis G, Cognard C, Nouri N, Richard S, Marnat G, Di Maria F, Annan M, Duhamel A, Cagnazzo F, Jovin T, Arquizan C; LASTE Trial Investigators. Evaluation of acute mechanical revascularization in large stroke (ASPECTS ⩽5) and large vessel occlusion within 7 h of last-seen-well: The LASTE multicenter, randomized, clinical trial protocol. Int J Stroke. 2024 Jan;19(1):114-119. doi: 10.1177/17474930231191033. Epub 2023 Jul 31."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-08-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D020521",
+          "term": "Stroke"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

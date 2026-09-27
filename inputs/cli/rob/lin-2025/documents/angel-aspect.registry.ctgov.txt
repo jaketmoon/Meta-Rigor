@@ -1,0 +1,373 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04551664",
+      "orgStudyIdInfo": {
+        "id": "HX-A-011(2020)"
+      },
+      "organization": {
+        "fullName": "Beijing Tiantan Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "Study of Endovascular Therapy in Acute Anterior Circulation Large Vessel Occlusive Patients With a Large Infarct Core",
+      "officialTitle": "Study of Endovascular Therapy in Acute Anterior Circulation Large Vessel Occlusive Patients With a Large Infarct Core: A Multi-centered, Prospective, Open-label, Blind Endpoint， Randomized Controlled Trial（ANGEL-ASPECT）",
+      "acronym": "ANGEL-ASPECT"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2023-10",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2020-10-02",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2022-08-15",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2023-05-30",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-09-10",
+      "studyFirstSubmitQcDate": "2020-09-10",
+      "studyFirstPostDateStruct": {
+        "date": "2020-09-16",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2023-10-16",
+      "lastUpdatePostDateStruct": {
+        "date": "2023-10-17",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Zhongrong Miao",
+        "investigatorTitle": "Director of Department of interventional neurology",
+        "investigatorAffiliation": "Beijing Tiantan Hospital"
+      },
+      "leadSponsor": {
+        "name": "Beijing Tiantan Hospital",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Endovascular therapy (EVT) was recommended as the primary treatment for patients with acute large vascular occlusion (LVO) in anterior circulation. However, the evidences of EVT for patients with large infarct volume were limited. In this study, the investigators assume that best medical management plus EVT might be superior than best medical management alone for patients who have evidence of a large infarct volume. The primary objective of the study was to establish the safety and efficacy of EVT in patients presenting with symptoms of acute ischemic stroke (AIS) from LVO in the anterior circulation and having a large infarct volume.",
+      "detailedDescription": "The ANGEL-ASPECT is a multicentered, prospective, randomized, open-label, blinded end-point (PROBE) study. A total of approximately 488 patients (age from 18 to 80 years) within 24 hours of symptom onset of acute ischemic stroke, who has the imaging evidence of an occlusion of the Internal Carotid Artery (ICA) terminus and/or Middle Cerebral Artery Main Stem (MCA M1) segment, large infarct core \\[ defined as: 1) NCCT (noncontrast computed tomography) ASPECTS (Alberta Stroke Program Early CT Score) 3-5, decided on last head CT scan before randomization. 2) Ischemic core volume ranges from 70-100ml, determined either on a diffusion-weighted MRI map based on an ADC (Apparent Diffusion Coefficient) threshold of less than 620 ×10-6mm2/s or on CTP (computed tomography perfusion) image with rCBF\\<30%\\] will be enrolled. Patients fulfilling all of the inclusion criteria and none of the exclusion criteria will be randomized 1:1 into two groups after offering informed content. One group will receive best medical management alone the other group will receive best medical management plus EVT including mechanical thrombectomy, aspiration thrombectomy, intra-arterial thrombolysis, angioplasty or stenting. The primary objective is to establish the efficacy of EVT in patients presenting with symptoms of acute ischemic stroke (AIS) from LVO in the anterior circulation and having a large infarct volume. The study consists of six visits including the day of randomization, 2 days after randomization, 7 days or discharge, and 30, 90 days and 1 year. Demographic information, symptoms and signs, laboratory test, neuro-imaging assessment neurological function rating scale will be recorded during the program. The primary endpoint is the modified Rankin's scale (mRS) at 90 days. The trial is anticipated to last from September 2020 to October 2022 with 488 subjects recruited form about 50 centers in China. All the related investigative organization and individuals will obey the Declaration of Helsinki and Chinese Good Clinical Practice standard. A Data and Safety Monitoring Board (DSMB) will regularly monitor safety during the study. The trial has been approved by Institutional Review Board (IRB) and Ethics Committee (EC) in Being Tiantan hospital, Capital Medical University."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Acute Ischemic Stroke"
+      ],
+      "keywords": [
+        "endovascular therapy",
+        "large infarct volume"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 456,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "EVT group",
+          "type": "EXPERIMENTAL",
+          "description": "Patients in this group will receive best medical management plus EVT including mechanical thrombectomy, aspiration thrombectomy, intra-arterial thrombolysis, angioplasty or stenting.",
+          "interventionNames": [
+            "Drug: Best medical management",
+            "Procedure: Endovascular therapy"
+          ]
+        },
+        {
+          "label": "Best medical management group",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Patients in this group will receive best medical management alone.",
+          "interventionNames": [
+            "Drug: Best medical management"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Best medical management",
+          "description": "All the patients enrolled received standard guideline-directed medical therapy including: monitor vital signs, management of blood pressure, glucose and lipids, antithrombotic (antiplatelet or anticoagulant therapy determined by treating physician) therapy if appropriate.",
+          "armGroupLabels": [
+            "Best medical management group",
+            "EVT group"
+          ]
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Endovascular therapy",
+          "description": "In the procedure, the methods including mechanical thrombectomy, aspiration thrombectomy, intra-arterial thrombolysis, angioplasty and stenting can be used according to the local interventionalists' choice. Mechanical thrombectomy (recommended with Solitaire、EMBOTRAP、Trevo or Reco revascularization device) or aspiration thrombectomy (recommended with Penumbra) will be recommended as the primary treatment.",
+          "armGroupLabels": [
+            "EVT group"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Neurofunctional deficit defined as modified Rankin Scale (mRS)",
+          "description": "The modified Rankin Scale (mRS) is a commonly used scale for measuring the degree of disability or dependence in the daily activities of people who have suffered a stroke or other causes of neurological disability. The scale runs from 0-6 with \"0\" being perfect health without symptoms to \"6\" being death.\n\nScore 0: No symptoms Score 1: No significant disability. Able to carry out all usual activities, despite some symptoms.\n\nScore 2: Slight disability. Able to look after own affairs without assistance, but unable to carry out all previous activities.\n\nScore 3: Moderate disability. Requires some help, but able to walk unassisted. Score 4: Moderately severe disability. Unable to attend to own bodily needs without assistance, and unable to walk unassisted.\n\nScore 5: Severe disability. Requires constant nursing care and attention, bedridden, incontinent.\n\nScore 6: Dead",
+          "timeFrame": "90±7 days after randomization"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Rate of symptomatic intracranial hemorrhage (sICH) per Heidelberg standard",
+          "description": "Heidelberg standard was defined as new intracranial hemorrhage detected by brain imaging associated with any of the item below:\n\n* 4 points total NIHSS at the time of diagnosis compared to immediately before worsening.\n* 2 point in one NIHSS category. Leading to intubation/hemicraniectomy/ventricular drainage placement or other major medical/surgical intervention.\n\nAbsence of alternative explanation for deterioration.",
+          "timeFrame": "within 48 hours after randomization"
+        },
+        {
+          "measure": "90-day good clinical outcome",
+          "description": "Good clinical outcome defined as a dichotomized mRS 0-2 outcome",
+          "timeFrame": "90±14 days after randomization"
+        },
+        {
+          "measure": "90-day favorable clinical outcome",
+          "description": "Favorable clinical outcome defined as a dichotomized mRS 0-3 outcome",
+          "timeFrame": "90±7 days after randomization"
+        },
+        {
+          "measure": "Dramatic recovery",
+          "description": "36-hour (24-48 hours) NIHSS score ≤1 or ≥10 points drop as compared with baseline",
+          "timeFrame": "baseline, 36±12 hours after randomization"
+        },
+        {
+          "measure": "Change of infarct volume from baseline to 36-hour (24-48 hours)",
+          "description": "The infarct volume is determined on a diffusion-weighted MRI map based on an ADC threshold of less than 620 ×10-6mm2/s or on CTP image with rCBF\\<30%",
+          "timeFrame": "baseline, 36±12 hours after randomization"
+        },
+        {
+          "measure": "All-cause mortality rate",
+          "description": "All-cause mortality rate at 90±14 days",
+          "timeFrame": "90±7 days after randomization"
+        },
+        {
+          "measure": "Any type of intracranial hemorrhage according to Heidelberg Classification.",
+          "description": "Any type of intracranial hemorrhage according to Heidelberg Classification.",
+          "timeFrame": "36±12 hours after randomization"
+        },
+        {
+          "measure": "Rate of decompressive hemicraniectomy",
+          "description": "Rate of decompressive hemicraniectomy",
+          "timeFrame": "7±1 days after randomization or discharge"
+        },
+        {
+          "measure": "Rate of successful recanalization",
+          "description": "Rate of participants with recanalization of the primary arterial occlusive lesion at 36±12 hours",
+          "timeFrame": "36±12 hours after randomization"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\nGeneral Inclusion Criteria\n\n* 18 to 80 years of age\n* Presenting with symptoms consistent with an AIS\n* Pre-stroke mRS score 0-1\n* NIHSS score 6-30 at the time of randomization\n* Randomization can be finished within 24 hours of stroke onset (stroke onset time is defined as last known well time)\n* Informed consent signed Specific Neuroimaging Inclusion Criteria\n* CTA or MRA proved occlusion of Internal Carotid Artery (ICA) terminal or M1 segment of Middle Cerebral Artery\n* Combination of NCCT ASPECTS and perfusion core volume when ASPECTS \\<3 or \\> 5 (6h-24h). Imaging evidence of low ASPECTS (based on NCCT) or large infarct Core (defined as rCBF \\<30% on CT perfusion or ADC\\<620 on MRI) filling one of the following criteria:\n\n  1. ASPECTS 3-5\n  2. ASPECTS \\>5 (6h-24h) with infarct core volume 70-100 ml\n  3. ASPECTS \\<3 with infarct core volume 70-100 ml\n\nExclusion Criteria:\n\nGeneral Exclusion Criteria\n\n* Females who are pregnant, or those of child-bearing potential with positive urine or serum beta Human Chorionic Gonadotropin (HCG) test;\n* Known severe allergy (more than a rash) to contrast media uncontrolled by medications;\n* Refractory hypertension (defined as persistent systolic blood pressure \\>185 mmHg or diastolic blood pressure \\>110 mmHg);\n* Known hemorrhagic tendency (including but not limited to): Baseline platelet count \\<100×109/L; Heparin was administered within 48 hours with APTT≥35s; on anticoagulant therapy with warfarin and International Normalized Ratio (INR) \\> 1.7 (Patients with no history or suspected coagulopathy do not need to wait for laboratory results of INR or APTT prior to enrollment)\n* Parenchymal organ surgery and biopsy were performed in the past one month\n* Any active bleeding or recent bleeding (gastrointestinal bleeding, urinary bleeding, etc.) in the past one month\n* Undergoing hemodialysis or peritoneal dialysis; Known severe renal insufficiency with glomerular filtration rate \\<30 ml/min or serum creatinine \\>220 mmol/L (2.5mg/dl)\n* Brain tumor (with mass effect)\n* The expected survival time is less than 1 year (such as complicated with malignant tumor, serious heart and lung diseases, etc.)\n* Participation in other interventional randomized clinical trials that may confound outcome assessment of the trial\n* Other circumstances that the investigator considers inappropriate for participation in the trial or that may pose significant risks to patients (such as inability to understand and/or follow the study procedures and/or follow up due to mental disorders, cognitive or emotional disorders)\n\nSpecific Neuroimaging Exclusion Criteria\n\n* Midline shift, herniation or mass effect with effacement of the ventricles\n* Evidence of acute intracranial hemorrhage\n* Acute bilateral strokes or multiple intracranial vessels occlusions",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "80 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Zhongrong Miao, MD, PhD",
+          "affiliation": "Beijing Tiantan Hospital, Capital Medical Univerity",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Beijing Tiantan Hospital",
+          "city": "Beijing",
+          "state": "Beijing Municipality",
+          "zip": "100010",
+          "country": "China",
+          "geoPoint": {
+            "lat": 39.9075,
+            "lon": 116.39723
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "42413994",
+          "type": "DERIVED",
+          "citation": "Zhao J, Zheng L, Nie X, Wang M, Pu S, Liu X, Duan W, Zhang Z, Liu J, Wei Y, Yang Z, Wen M, Leng X, Huo X, Pan Y, Miao Z, Liu L. Association between ASPECTS regions and clinical outcomes following endovascular therapy in patients with large infarcts: a post hoc analysis of the ANGEL-ASPECT trial. Stroke Vasc Neurol. 2026 Jul 7:svn-2025-004422. doi: 10.1136/svn-2025-004422. Online ahead of print."
+        },
+        {
+          "pmid": "41956819",
+          "type": "DERIVED",
+          "citation": "Sun D, - R, Nguyen TN, Abdalkader M, Pan Y, Wang M, Ma N, Gao F, Mo D, Huo X, Firdaus M, Miao Z, Song L; ANGEL-ASPECT Study Group. Endovascular treatment for extracranial internal carotid artery occlusions with large infarcts: ANGEL-ASPECT subanalysis. J Neurointerv Surg. 2026 Apr 9:jnis-2026-024978. doi: 10.1136/jnis-2026-024978. Online ahead of print."
+        },
+        {
+          "pmid": "41914357",
+          "type": "DERIVED",
+          "citation": "Liu C, Wang Z, Wang M, Cai S, Nie X, Huo X, Liu L, Pan Y, Miao Z, Wang Y; ANGEL-ASPECT Study Group. Effects of Computed Tomography Hyperdense Middle Cerebral Artery Sign on the Efficacy of Endovascular Therapy in Acute Ischemic Stroke With Large Infarcts: A Subgroup Analysis of the ANGEL-ASPECT Trial. J Am Heart Assoc. 2026 Apr 7;15(7):e042473. doi: 10.1161/JAHA.125.042473. Epub 2026 Mar 31."
+        },
+        {
+          "pmid": "41641580",
+          "type": "DERIVED",
+          "citation": "Wang Z, Liu C, Wang M, Cai S, Nie X, Liu L, Huo X, Pan Y, Miao Z, Wang Y; ANGEL-ASPECT Study Group. White matter lesions modifying endovascular therapy outcomes in large ischemic core stroke: A secondary analysis of the ANGEL-ASPECT trial. Chin Med J (Engl). 2026 Mar 20;139(6):855-865. doi: 10.1097/CM9.0000000000003993. Epub 2026 Feb 4."
+        },
+        {
+          "pmid": "41611344",
+          "type": "DERIVED",
+          "citation": "Gan Y, Song S, Zhang D, Chen F, He J, Guan Z, Tu K, Yu Z, Pan Y, Miao Z, Mo D, Tong X. Machine learning models for predicting futile recanalisation after endovascular treatment in patients with large core infarction. Stroke Vasc Neurol. 2026 Jan 29:svn-2025-004258. doi: 10.1136/svn-2025-004258. Online ahead of print."
+        },
+        {
+          "pmid": "41565354",
+          "type": "DERIVED",
+          "citation": "Zhang L, Liu Y, Chen F, Zhu H, Abdalkader M, Sun Y, Sun D, Nguyen T, Zhang Y, Miao Z; ANGEL-ASPECT Study Group. Factors associated with infarct volume growth after mechanical thrombectomy in large core infarction: ANGEL-ASPECT insights. Stroke Vasc Neurol. 2026 Jan 21:svn-2025-004774. doi: 10.1136/svn-2025-004774. Online ahead of print."
+        },
+        {
+          "pmid": "41439308",
+          "type": "DERIVED",
+          "citation": "Chen J, Nie X, Wang M, Zhang D, Sun D, Pan Y, Huo X, Li Z, Miao Z; ANGEL-ASPECT Study Group. Time-Dependent Impact of Mismatch Profiles on Outcomes Following Endovascular Thrombectomy for Large Ischemic Stroke. Stroke. 2026 Mar;57(3):641-649. doi: 10.1161/STROKEAHA.125.052698. Epub 2025 Dec 24."
+        },
+        {
+          "pmid": "41317114",
+          "type": "DERIVED",
+          "citation": "Li K, Sun D, Wang M, Pu S, Pan Y, Abdalkader M, Liu F, Chen C, Sun P, Yu J, Huo X, Nguyen TN, Miao Z, Han J; ANGEL-ASPECT Investigators. Significance of occlusion site on outcomes in stroke patients with large infarction undergoing endovascular therapy: A prespecified subgroup analysis of the ANGEL-ASPECT trial. Int J Stroke. 2026 Jun;21(5):676-687. doi: 10.1177/17474930251393014. Epub 2025 Nov 29."
+        },
+        {
+          "pmid": "40854041",
+          "type": "DERIVED",
+          "citation": "Huo X, Sun D, Nguyen TN, Ma G, Pan Y, Tong X, Yuan G, Han H, Chen W, Wei M, Zhang J, Zhou Z, Yao X, Song W, Cai X, Nan G, Li D, Wang AY, Ling W, Cai C, Wen C, Wang E, Zhang L, Jiang C, Liao G, Chen X, Li T, Liu S, Li J, Sun Y, Xu N, Gao Z, Ju D, Song C, Zhou F, Shi Q, Luo J, Liu Y, Guo Z, Zheng H, Dai L, Zhao J, Geng X, Tang Y, Yin C, Yang H, Zhang X, Li S, Abdalkader M, Gao F, Ma N, Mo D, Ren Z, Liu L, Wang Y, Miao Z; ANGEL-ASPECT Investigators. Endovascular Therapy Versus Medical Management for Large Ischemic Infarct: 1-Year Outcomes of the ANGEL-ASPECT Trial. Stroke. 2025 Sep;56(9):2398-2407. doi: 10.1161/STROKEAHA.124.050086. Epub 2025 Aug 25."
+        },
+        {
+          "pmid": "40340582",
+          "type": "DERIVED",
+          "citation": "Sun D, Guo X, Ling L, Jiao L, Nguyen TN, Abdalkader M, Pan Y, Wang M, Luo G, Jia B, Tong X, Ma N, Gao F, Mo D, Raynald, Huo X, Miao Z; ANGEL-ASPECT Study Group. Sex-Related Differences in Endovascular Treatment Outcomes for Acute Large Infarcts: The ANGEL-ASPECT Subanalysis. Stroke. 2025 Aug;56(8):2033-2042. doi: 10.1161/STROKEAHA.124.050025. Epub 2025 May 9."
+        },
+        {
+          "pmid": "40280761",
+          "type": "DERIVED",
+          "citation": "Shi Z, Luo G, Huo X, Sun D, Pan Y, Wang M, Ai T, Song L, Li X, Jia B, Wang B, Zhang L, Chen F, Sun Y, Mo D, Gao F, Ma N, Miao Z; ANGEL-ASPECT Study Group. Predictors of parenchymal hemorrhage after endovascular treatment in large core ischemic stroke: a post-hoc analysis of the ANGEL-ASPECT trial. J Neurointerv Surg. 2026 Mar 13;18(4):942-949. doi: 10.1136/jnis-2025-023285."
+        },
+        {
+          "pmid": "40013350",
+          "type": "DERIVED",
+          "citation": "Lu Q, Zheng L, Nie X, Wang M, Duan W, Liu X, Zhang Z, Wen M, Yang Z, Leng X, Pan Y, Nguyen TN, Liu L. Clinical Severity and Outcomes in Large Infarcts With Endovascular Therapy: A Post Hoc Analysis of the ANGEL-ASPECT Trial. Stroke. 2025 Apr;56(4):1048-1053. doi: 10.1161/STROKEAHA.124.049315. Epub 2025 Feb 27."
+        },
+        {
+          "pmid": "39972662",
+          "type": "DERIVED",
+          "citation": "Li M, Zheng L, Nie X, Wang M, Liu X, Duan W, Zhang Z, Wen M, Yang Z, Huo X, Leng X, Pan Y, Nguyen TN, Miao Z, Liu L. Endovascular therapy for large ischemic stroke in directly admitted versus transferred patients: A secondary analysis. Int J Stroke. 2025 Jul;20(6):731-740. doi: 10.1177/17474930251325085. Epub 2025 Feb 19."
+        },
+        {
+          "pmid": "39652807",
+          "type": "DERIVED",
+          "citation": "Yuan G, Sang H, Nguyen TN, Huo X, Pan Y, Wang M, Qiu Z, Liu L, Xia H, Wu J, Long C, Xu J, Huang F, He B, Wu D, Wang H, Feng C, Liang Y, Zhou X, Yang W, Huang Z, Xiang Y, Lei L, Saver JL, Miao Z, Cai X. Association Between Time to Treatment and Outcomes of Endovascular Therapy vs Medical Management in Patients With Large Ischemic Stroke. Neurology. 2025 Jan 14;104(1):e210133. doi: 10.1212/WNL.0000000000210133. Epub 2024 Dec 9."
+        },
+        {
+          "pmid": "39332900",
+          "type": "DERIVED",
+          "citation": "Zhang L, Chen F, Nguyen TN, Pan Y, Liu Y, Wang M, Li S, Sun D, Huo X, Jia B, Miao Z; ANGEL-ASPECT Study Group. Spontaneous recanalization in acute large core ischemic stroke due to large vessel occlusion: a post-hoc analysis of the ANGEL-ASPECT trial. J Neurointerv Surg. 2025 Dec 17;18(1):91-98. doi: 10.1136/jnis-2024-022357."
+        },
+        {
+          "pmid": "39160092",
+          "type": "DERIVED",
+          "citation": "Liang F, Zhang K, Wu Y, Wang X, Hou X, Yu Y, Wang Y, Wang M, Pan Y, Huo X, Han R, Miao Z. Anaesthesia modality on endovascular therapy outcomes in patients with large infarcts: a post hoc analysis of the ANGEL-ASPECT trial. Stroke Vasc Neurol. 2025 Apr 29;10(2):e003320. doi: 10.1136/svn-2024-003320."
+        },
+        {
+          "pmid": "38638180",
+          "type": "DERIVED",
+          "citation": "Zheng L, Nie X, Wang M, Liu X, Duan W, Zhang Z, Liu J, Wei Y, Wen M, Yang Z, Leung TW, Ma G, Huo X, Pan Y, Nguyen TN, Leng X, Miao Z, Liu L; ANGEL-ASPECT Investigators. Endovascular therapy in acute ischaemic stroke with large infarction with matched or mismatched clinical-radiological severities: a post-hoc analysis of the ANGEL-ASPECT trial. EClinicalMedicine. 2024 Apr 12;72:102595. doi: 10.1016/j.eclinm.2024.102595. eCollection 2024 Jun."
+        },
+        {
+          "pmid": "38010691",
+          "type": "DERIVED",
+          "citation": "Sun D, Guo X, Nguyen TN, Pan Y, Ma G, Tong X, Raynald, Wang M, Ma N, Gao F, Mo D, Huo X, Miao Z; ANGEL-ASPECT Study Group. Alberta Stroke Program Early Computed Tomography Score, Infarct Core Volume, and Endovascular Therapy Outcomes in Patients With Large Infarct: A Secondary Analysis of the ANGEL-ASPECT Trial. JAMA Neurol. 2024 Jan 1;81(1):30-38. doi: 10.1001/jamaneurol.2023.4430."
+        },
+        {
+          "pmid": "36762852",
+          "type": "DERIVED",
+          "citation": "Huo X, Ma G, Tong X, Zhang X, Pan Y, Nguyen TN, Yuan G, Han H, Chen W, Wei M, Zhang J, Zhou Z, Yao X, Wang G, Song W, Cai X, Nan G, Li D, Wang AY, Ling W, Cai C, Wen C, Wang E, Zhang L, Jiang C, Liu Y, Liao G, Chen X, Li T, Liu S, Li J, Gao F, Ma N, Mo D, Song L, Sun X, Li X, Deng Y, Luo G, Lv M, He H, Liu A, Zhang J, Mu S, Liu L, Jing J, Nie X, Ding Z, Du W, Zhao X, Yang P, Liu L, Wang Y, Liebeskind DS, Pereira VM, Ren Z, Wang Y, Miao Z; ANGEL-ASPECT Investigators. Trial of Endovascular Therapy for Acute Ischemic Stroke with Large Infarct. N Engl J Med. 2023 Apr 6;388(14):1272-1283. doi: 10.1056/NEJMoa2213379. Epub 2023 Feb 10."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-08-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000083242",
+          "term": "Ischemic Stroke"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D020521",
+          "term": "Stroke"
+        },
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

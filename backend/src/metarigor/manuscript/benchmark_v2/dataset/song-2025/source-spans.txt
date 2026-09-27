@@ -1,0 +1,173 @@
+BEGIN V1_FACT fact-song-2025-identity {"content_sha256": "5da51cc24444b3b979bf0512cae38a1a442487c4915f91577aff4cded64b66e8", "upstream_artifact_refs": ["source-review-song-2025"]}
+This manuscript reports a systematic review with an eligible headline synthesis.
+END V1_FACT fact-song-2025-identity
+BEGIN V1_FACT fact-song-2025-objective {"content_sha256": "dea984a116c85b8d326ae92640fdf9c5667a35c06908e60c3413b66cdc6fdac8", "upstream_artifact_refs": ["accepted-protocol-song-2025"]}
+Among adults aged 18 years or older with asymptomatic severe aortic stenosis, compare early aortic valve replacement with conservative management for the efficacy outcomes defined in the Review methods.
+END V1_FACT fact-song-2025-objective
+BEGIN V1_FACT fact-song-2025-eligibility {"content_sha256": "8c3e96d4130bc589b7c3df65040def2ba71268e7a18c2c9bff2eb4d041ffd3e4", "upstream_artifact_refs": ["accepted-protocol-song-2025"]}
+Eligibility criteria were prespecified in the accepted Protocol.
+END V1_FACT fact-song-2025-eligibility
+BEGIN V1_FACT fact-song-2025-search {"content_sha256": "810a30e44a1627e7bcadbb6a291643a5aa09a9d090437ae6205b7a2954bece64", "upstream_artifact_refs": ["source-review-song-2025"]}
+Review 报 funnel 未见明显偏倚，但仅四项 trial。
+END V1_FACT fact-song-2025-search
+BEGIN V1_FACT fact-song-2025-method-basis {"content_sha256": "63818e21013703c755ebd810b0e378fbb5fbbb973a0f6511549307ce5321ef64", "upstream_artifact_refs": ["accepted-protocol-song-2025", "ec-catalog"]}
+Review forest 把 death、hospitalization、stroke、MI component counts 相加，不能表示 participant-level time-to-first-event composite；synthesis 本身无有效 V1 estimand。
+END V1_FACT fact-song-2025-method-basis
+BEGIN V1_FACT fact-song-2025-selection {"content_sha256": "288a2d67d4b3e5c33df6a1f754ce4b2ad6ab530e75385c5b4eba86db242f7053", "upstream_artifact_refs": ["ec-catalog"]}
+The headline synthesis included 4 studies; other selection-flow counts were not exposed in the curated V1 reference.
+END V1_FACT fact-song-2025-selection
+BEGIN V1_FACT fact-song-2025-studies {"content_sha256": "94e58bb319fa414a943e236d80d79173faa58e12ca5cfb4e1d131ec8eca72d7c", "upstream_artifact_refs": ["ec-catalog", "de-request-song-2025"]}
+Review 纳入四项 RCT。
+END V1_FACT fact-song-2025-studies
+BEGIN V1_FACT fact-song-2025-outcome {"content_sha256": "f418146f1a64a66ee3c191e08358817b3ef16f6d66c82cf3e93553c47c3f8205", "upstream_artifact_refs": ["ec-catalog", "de-reference-song-2025"]}
+Review transcription 保存 invalid component-sum pooled RR 0.56 [0.49,0.64]、I²=60，仅用于审计。
+END V1_FACT fact-song-2025-outcome
+BEGIN V1_FACT fact-song-2025-synthesis {"content_sha256": "68b446ec88e55baeeaba006cca27ae60807ba751124808b6d6fe5fcd21515a57", "upstream_artifact_refs": ["ec-catalog"]}
+Review transcription 保存 invalid component-sum pooled RR 0.56 [0.49,0.64]、I²=60，仅用于审计。
+END V1_FACT fact-song-2025-synthesis
+BEGIN V1_FACT fact-song-2025-risk-of-bias {"content_sha256": "d2a27c8496b2e8826b9cd067dacce7768fb474438644cc5ba8448b4b302ac8ff", "upstream_artifact_refs": ["ec-catalog"]}
+EVOLVED random sequence unclear，全部 intervention trials 无法 blind。
+END V1_FACT fact-song-2025-risk-of-bias
+BEGIN V1_FACT fact-song-2025-certainty {"content_sha256": "de05ba57958e609db46b35453b8bc11d5fdecd023e0b930531283c39de698f4d", "upstream_artifact_refs": ["ec-gold"]}
+Review 将各 trial 不同的 composite/time-to-event 结果以 component sums 构造统一 binary RR，且 reference 无法闭合为同一 participant-level outcome。五领域 rating 不能修复无效的 synthesis identity，因此正确动作是保留 disposition 与已有结果、不启动 GRADE。
+END V1_FACT fact-song-2025-certainty
+BEGIN V1_FACT fact-song-2025-context {"content_sha256": "035c546c55947f1dd34e4c7df6afb5d4576b89865b73380e0e95ed72d2ba13ee", "upstream_artifact_refs": ["ec-catalog"]}
+事件定义跨 trial 缺少标准化。
+END V1_FACT fact-song-2025-context
+BEGIN V1_FACT fact-song-2025-limitation {"content_sha256": "e1a805aa1a19d11805d114a45ec021d8780b58e235f3c09a4c1f4937289c7206", "upstream_artifact_refs": ["ec-catalog"]}
+Review forest 把 death、hospitalization、stroke、MI component counts 相加，不能表示 participant-level time-to-first-event composite；synthesis 本身无有效 V1 estimand。
+END V1_FACT fact-song-2025-limitation
+BEGIN DE_EVIDENCE recovery result.primary_composite.longest_followup {"canonical_field": "intervention_events", "document_key": "recovery.fulltext", "source_path": "documents/recovery-primary/source.html", "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6", "view_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c"}
+Primary end point: operative mortality or death from cardiovascular causes during follow-up † | 11 (15) | 1 (1) | 0.09 (0.01–0.67) ‡
+END DE_EVIDENCE recovery result.primary_composite.longest_followup
+BEGIN DE_EVIDENCE recovery result.primary_composite.longest_followup {"canonical_field": "intervention_group_size", "document_key": "recovery.fulltext", "source_path": "documents/recovery-primary/source.html", "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6", "view_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c"}
+Outcome | Conservative Care (N=72) | Early Surgery (N=73) | Hazard Ratio (95% CI) *
+END DE_EVIDENCE recovery result.primary_composite.longest_followup
+BEGIN DE_EVIDENCE avatar result.primary_composite.longest_followup {"canonical_field": "intervention_events", "document_key": "avatar.long_term.fulltext", "source_path": "documents/avatar-long-term/source.html", "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c", "view_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd"}
+Primary composite outcome | 18 (18.0) | 37 (45.6) | 0.42 (0.24–0.73) | .002
+END DE_EVIDENCE avatar result.primary_composite.longest_followup
+BEGIN DE_EVIDENCE avatar result.primary_composite.longest_followup {"canonical_field": "intervention_group_size", "document_key": "avatar.long_term.fulltext", "source_path": "documents/avatar-long-term/source.html", "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c", "view_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd"}
+A primary outcome event occurred in 18/78 patients (23.1%) in the early surgery group and in 37/79 patients (46.8%) in the conservative treatment group (HR with early surgery vs. conservative treatment 0.42; 95% CI 0.24–0.73, P = .002; Figure 2 ).
+END DE_EVIDENCE avatar result.primary_composite.longest_followup
+BEGIN DE_EVIDENCE early_tavr result.primary_composite.longest_followup {"canonical_field": "intervention_events", "document_key": "early_tavr.fulltext", "source_path": "documents/early-tavr-primary/source.html", "source_sha256": "e51ac42b88c6bbb73e5f90b386d5a1f18e276edb5b6f87750dba781bcdc393b8", "view_sha256": "63b9b3b397db51e734b326cea394c1cf2162e52080124a6d14fd64ea5fab829c"}
+Composite of death, stroke, or unplanned hospitalization for CV causes — no. (%) § | 122 (26.8) | 202 (45.3) | 0.50 (0.40 to 0.63) | <0.001
+END DE_EVIDENCE early_tavr result.primary_composite.longest_followup
+BEGIN DE_EVIDENCE early_tavr result.primary_composite.longest_followup {"canonical_field": "intervention_group_size", "document_key": "early_tavr.fulltext", "source_path": "documents/early-tavr-primary/source.html", "source_sha256": "e51ac42b88c6bbb73e5f90b386d5a1f18e276edb5b6f87750dba781bcdc393b8", "view_sha256": "63b9b3b397db51e734b326cea394c1cf2162e52080124a6d14fd64ea5fab829c"}
+End Point | TAVR (N=455) | Clinical Surveillance (N=446) | Treatment Effect (95% CI) † | P Value ‡
+END DE_EVIDENCE early_tavr result.primary_composite.longest_followup
+BEGIN DE_EVIDENCE evolved result.primary_composite.longest_followup {"canonical_field": "intervention_events", "document_key": "evolved.abstract_results", "source_path": "documents/evolved-primary/source.xml", "source_sha256": "837f08b933afdd56774f83c4b6975d98617b61d8a5e1a6ac17a293ffb956047f", "view_sha256": "19b626dbc15773db743a82b261090de2ccd78c89f88cdbbfc6da1e12385e62fe"}
+The primary end point occurred in 20 of 113 patients (18%) in the early intervention group and 25 of 111 patients (23%) in the guideline-directed conservative management group (hazard ratio, 0.79 [95% CI, 0.44-1.43]; P = .44
+END DE_EVIDENCE evolved result.primary_composite.longest_followup
+BEGIN DE_EVIDENCE recovery result.all_cause_mortality.longest_followup {"canonical_field": "intervention_events", "document_key": "recovery.fulltext", "source_path": "documents/recovery-primary/source.html", "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6", "view_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c"}
+Death from any cause | 15 (21) | 5 (7) | 0.33 (0.12–0.90) §
+END DE_EVIDENCE recovery result.all_cause_mortality.longest_followup
+BEGIN DE_EVIDENCE recovery result.all_cause_mortality.longest_followup {"canonical_field": "intervention_group_size", "document_key": "recovery.fulltext", "source_path": "documents/recovery-primary/source.html", "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6", "view_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c"}
+Outcome | Conservative Care (N=72) | Early Surgery (N=73) | Hazard Ratio (95% CI) *
+END DE_EVIDENCE recovery result.all_cause_mortality.longest_followup
+BEGIN DE_EVIDENCE avatar result.all_cause_mortality.longest_followup {"canonical_field": "intervention_events", "document_key": "avatar.long_term.fulltext", "source_path": "documents/avatar-long-term/source.html", "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c", "view_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd"}
+Forty patients died during follow-up: 13/78 (16.7%) in the early surgery group and 27/79 (34.17%) in the conservative treatment group.
+END DE_EVIDENCE avatar result.all_cause_mortality.longest_followup
+BEGIN DE_EVIDENCE avatar result.all_cause_mortality.longest_followup {"canonical_field": "intervention_group_size", "document_key": "avatar.long_term.fulltext", "source_path": "documents/avatar-long-term/source.html", "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c", "view_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd"}
+A primary outcome event occurred in 18/78 patients (23.1%) in the early surgery group and in 37/79 patients (46.8%) in the conservative treatment group (HR with early surgery vs. conservative treatment 0.42; 95% CI 0.24–0.73, P = .002; Figure 2 ).
+END DE_EVIDENCE avatar result.all_cause_mortality.longest_followup
+BEGIN DE_EVIDENCE early_tavr result.all_cause_mortality.longest_followup {"canonical_field": "intervention_events", "document_key": "early_tavr.fulltext", "source_path": "documents/early-tavr-primary/source.html", "source_sha256": "e51ac42b88c6bbb73e5f90b386d5a1f18e276edb5b6f87750dba781bcdc393b8", "view_sha256": "63b9b3b397db51e734b326cea394c1cf2162e52080124a6d14fd64ea5fab829c"}
+Death | 38 (8.4) | 41 (9.2) | 0.93 (0.60 to 1.44) | —
+END DE_EVIDENCE early_tavr result.all_cause_mortality.longest_followup
+BEGIN DE_EVIDENCE early_tavr result.all_cause_mortality.longest_followup {"canonical_field": "intervention_group_size", "document_key": "early_tavr.fulltext", "source_path": "documents/early-tavr-primary/source.html", "source_sha256": "e51ac42b88c6bbb73e5f90b386d5a1f18e276edb5b6f87750dba781bcdc393b8", "view_sha256": "63b9b3b397db51e734b326cea394c1cf2162e52080124a6d14fd64ea5fab829c"}
+End Point | TAVR (N=455) | Clinical Surveillance (N=446) | Treatment Effect (95% CI) † | P Value ‡
+END DE_EVIDENCE early_tavr result.all_cause_mortality.longest_followup
+BEGIN DE_EVIDENCE evolved result.all_cause_mortality.longest_followup {"canonical_field": "intervention_events", "document_key": "evolved.abstract_results", "source_path": "documents/evolved-primary/source.xml", "source_sha256": "837f08b933afdd56774f83c4b6975d98617b61d8a5e1a6ac17a293ffb956047f", "view_sha256": "19b626dbc15773db743a82b261090de2ccd78c89f88cdbbfc6da1e12385e62fe"}
+All-cause death occurred in 16 of 113 patients (14%) in the early intervention group and 14 of 111 (13%) in the guideline-directed group (hazard ratio, 1.22 [95% CI, 0.59-2.51]
+END DE_EVIDENCE evolved result.all_cause_mortality.longest_followup
+BEGIN DE_EVIDENCE recovery result.cardiovascular_hospitalization.longest_followup {"canonical_field": "intervention_events", "document_key": "recovery.fulltext", "source_path": "documents/recovery-primary/source.html", "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6", "view_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c"}
+Clinical thromboembolic event | 4 (6) | 1 (1) | 0.30 (0.04–2.31) §
+Stroke | 3 | 1 |
+Myocardial infarction | 1 | 0 |
+END DE_EVIDENCE recovery result.cardiovascular_hospitalization.longest_followup
+BEGIN DE_EVIDENCE recovery result.cardiovascular_hospitalization.longest_followup {"canonical_field": "intervention_group_size", "document_key": "recovery.fulltext", "source_path": "documents/recovery-primary/source.html", "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6", "view_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c"}
+Outcome | Conservative Care (N=72) | Early Surgery (N=73) | Hazard Ratio (95% CI) *
+END DE_EVIDENCE recovery result.cardiovascular_hospitalization.longest_followup
+BEGIN DE_EVIDENCE recovery result.cardiovascular_hospitalization.longest_followup {"canonical_field": "comparator_events", "document_key": "recovery.fulltext", "source_path": "documents/recovery-primary/source.html", "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6", "view_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c"}
+Hospitalization for heart failure | 8 (11) | 0 | 0.05 (0.00–1.05) §
+END DE_EVIDENCE recovery result.cardiovascular_hospitalization.longest_followup
+BEGIN DE_EVIDENCE avatar result.cardiovascular_hospitalization.longest_followup {"canonical_field": "intervention_events", "document_key": "avatar.long_term.fulltext", "source_path": "documents/avatar-long-term/source.html", "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c", "view_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd"}
+Kaplan–Meier estimates of the individual endpoints of all-cause death and HF hospitalization were significantly lower in the early surgery compared with the conservative group (HR 0.44; 95% CI 0.23–0.85, P = .012, for all-cause death and HR 0.21; 95% CI 0.06–0.73, P = .007, for HF hospitalizations) ( Figure 3 and Table 4 ).
+END DE_EVIDENCE avatar result.cardiovascular_hospitalization.longest_followup
+BEGIN DE_EVIDENCE avatar result.cardiovascular_hospitalization.longest_followup {"canonical_field": "intervention_group_size", "document_key": "avatar.long_term.fulltext", "source_path": "documents/avatar-long-term/source.html", "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c", "view_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd"}
+A primary outcome event occurred in 18/78 patients (23.1%) in the early surgery group and in 37/79 patients (46.8%) in the conservative treatment group (HR with early surgery vs. conservative treatment 0.42; 95% CI 0.24–0.73, P = .002; Figure 2 ).
+END DE_EVIDENCE avatar result.cardiovascular_hospitalization.longest_followup
+BEGIN DE_EVIDENCE avatar result.cardiovascular_hospitalization.longest_followup {"canonical_field": "comparator_events", "document_key": "avatar.long_term.fulltext", "source_path": "documents/avatar-long-term/source.html", "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c", "view_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd"}
+Forty patients died during follow-up: 13/78 (16.7%) in the early surgery group and 27/79 (34.17%) in the conservative treatment group.
+END DE_EVIDENCE avatar result.cardiovascular_hospitalization.longest_followup
+BEGIN DE_EVIDENCE early_tavr result.cardiovascular_hospitalization.longest_followup {"canonical_field": "intervention_events", "document_key": "early_tavr.fulltext", "source_path": "documents/early-tavr-primary/source.html", "source_sha256": "e51ac42b88c6bbb73e5f90b386d5a1f18e276edb5b6f87750dba781bcdc393b8", "view_sha256": "63b9b3b397db51e734b326cea394c1cf2162e52080124a6d14fd64ea5fab829c"}
+Unplanned hospitalization for CV causes § | 95 (20.9) | 186 (41.7) | 0.43 (0.33 to 0.55) | —
+END DE_EVIDENCE early_tavr result.cardiovascular_hospitalization.longest_followup
+BEGIN DE_EVIDENCE early_tavr result.cardiovascular_hospitalization.longest_followup {"canonical_field": "intervention_group_size", "document_key": "early_tavr.fulltext", "source_path": "documents/early-tavr-primary/source.html", "source_sha256": "e51ac42b88c6bbb73e5f90b386d5a1f18e276edb5b6f87750dba781bcdc393b8", "view_sha256": "63b9b3b397db51e734b326cea394c1cf2162e52080124a6d14fd64ea5fab829c"}
+End Point | TAVR (N=455) | Clinical Surveillance (N=446) | Treatment Effect (95% CI) † | P Value ‡
+END DE_EVIDENCE early_tavr result.cardiovascular_hospitalization.longest_followup
+BEGIN DE_EVIDENCE evolved result.cardiovascular_hospitalization.longest_followup {"canonical_field": "intervention_events", "document_key": "evolved.abstract_results", "source_path": "documents/evolved-primary/source.xml", "source_sha256": "837f08b933afdd56774f83c4b6975d98617b61d8a5e1a6ac17a293ffb956047f", "view_sha256": "19b626dbc15773db743a82b261090de2ccd78c89f88cdbbfc6da1e12385e62fe"}
+All-cause death occurred in 16 of 113 patients (14%) in the early intervention group and 14 of 111 (13%) in the guideline-directed group (hazard ratio, 1.22 [95% CI, 0.59-2.51]) and unplanned aortic stenosis hospitalization occurred in 7 of 113 patients (6%) and 19 of 111 patients (17%), respectively (hazard ratio, 0.37 [95% CI, 0.16-0.88]
+END DE_EVIDENCE evolved result.cardiovascular_hospitalization.longest_followup
+BEGIN DE_EVIDENCE recovery result.stroke.longest_followup {"canonical_field": "intervention_events", "document_key": "recovery.fulltext", "source_path": "documents/recovery-primary/source.html", "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6", "view_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c"}
+Primary end point: operative mortality or death from cardiovascular causes during follow-up † | 11 (15) | 1 (1) | 0.09 (0.01–0.67) ‡
+END DE_EVIDENCE recovery result.stroke.longest_followup
+BEGIN DE_EVIDENCE recovery result.stroke.longest_followup {"canonical_field": "intervention_group_size", "document_key": "recovery.fulltext", "source_path": "documents/recovery-primary/source.html", "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6", "view_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c"}
+Outcome | Conservative Care (N=72) | Early Surgery (N=73) | Hazard Ratio (95% CI) *
+END DE_EVIDENCE recovery result.stroke.longest_followup
+BEGIN DE_EVIDENCE recovery result.stroke.longest_followup {"canonical_field": "comparator_events", "document_key": "recovery.fulltext", "source_path": "documents/recovery-primary/source.html", "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6", "view_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c"}
+Stroke | 3 | 1 |
+END DE_EVIDENCE recovery result.stroke.longest_followup
+BEGIN DE_EVIDENCE avatar result.stroke.longest_followup {"canonical_field": "intervention_events", "document_key": "avatar.long_term.fulltext", "source_path": "documents/avatar-long-term/source.html", "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c", "view_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd"}
+Kaplan–Meier estimates of the individual endpoints of all-cause death and HF hospitalization were significantly lower in the early surgery compared with the conservative group (HR 0.44; 95% CI 0.23–0.85, P = .012, for all-cause death and HR 0.21; 95% CI 0.06–0.73, P = .007, for HF hospitalizations) ( Figure 3 and Table 4 ).
+END DE_EVIDENCE avatar result.stroke.longest_followup
+BEGIN DE_EVIDENCE avatar result.stroke.longest_followup {"canonical_field": "intervention_group_size", "document_key": "avatar.long_term.fulltext", "source_path": "documents/avatar-long-term/source.html", "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c", "view_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd"}
+A primary outcome event occurred in 18/78 patients (23.1%) in the early surgery group and in 37/79 patients (46.8%) in the conservative treatment group (HR with early surgery vs. conservative treatment 0.42; 95% CI 0.24–0.73, P = .002; Figure 2 ).
+END DE_EVIDENCE avatar result.stroke.longest_followup
+BEGIN DE_EVIDENCE early_tavr result.stroke.longest_followup {"canonical_field": "intervention_events", "document_key": "early_tavr.fulltext", "source_path": "documents/early-tavr-primary/source.html", "source_sha256": "e51ac42b88c6bbb73e5f90b386d5a1f18e276edb5b6f87750dba781bcdc393b8", "view_sha256": "63b9b3b397db51e734b326cea394c1cf2162e52080124a6d14fd64ea5fab829c"}
+Stroke | 19 (4.2) | 30 (6.7) | 0.62 (0.35 to 1.10) | —
+END DE_EVIDENCE early_tavr result.stroke.longest_followup
+BEGIN DE_EVIDENCE early_tavr result.stroke.longest_followup {"canonical_field": "intervention_group_size", "document_key": "early_tavr.fulltext", "source_path": "documents/early-tavr-primary/source.html", "source_sha256": "e51ac42b88c6bbb73e5f90b386d5a1f18e276edb5b6f87750dba781bcdc393b8", "view_sha256": "63b9b3b397db51e734b326cea394c1cf2162e52080124a6d14fd64ea5fab829c"}
+End Point | TAVR (N=455) | Clinical Surveillance (N=446) | Treatment Effect (95% CI) † | P Value ‡
+END DE_EVIDENCE early_tavr result.stroke.longest_followup
+BEGIN DE_CELL evolved result.stroke.longest_followup {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The abstract-and-results representation cannot establish absence of a long-term stroke row.","study_key":"evolved","target_id":"result.stroke.longest_followup","values":null}
+END DE_CELL evolved result.stroke.longest_followup
+BEGIN DE_EVIDENCE recovery result.cardiac_specific_mortality.longest_followup {"canonical_field": "intervention_events", "document_key": "recovery.fulltext", "source_path": "documents/recovery-primary/source.html", "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6", "view_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c"}
+Primary end point: operative mortality or death from cardiovascular causes during follow-up † | 11 (15) | 1 (1) | 0.09 (0.01–0.67) ‡
+END DE_EVIDENCE recovery result.cardiac_specific_mortality.longest_followup
+BEGIN DE_EVIDENCE recovery result.cardiac_specific_mortality.longest_followup {"canonical_field": "intervention_group_size", "document_key": "recovery.fulltext", "source_path": "documents/recovery-primary/source.html", "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6", "view_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c"}
+Outcome | Conservative Care (N=72) | Early Surgery (N=73) | Hazard Ratio (95% CI) *
+END DE_EVIDENCE recovery result.cardiac_specific_mortality.longest_followup
+BEGIN DE_EVIDENCE avatar result.cardiac_specific_mortality.longest_followup {"canonical_field": "intervention_events", "document_key": "avatar.long_term.fulltext", "source_path": "documents/avatar-long-term/source.html", "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c", "view_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd"}
+Cardiovascular death | 10 (11.6) | 17 (19.5) | 0.54 (0.25–1.18) | .11
+END DE_EVIDENCE avatar result.cardiac_specific_mortality.longest_followup
+BEGIN DE_EVIDENCE avatar result.cardiac_specific_mortality.longest_followup {"canonical_field": "intervention_group_size", "document_key": "avatar.long_term.fulltext", "source_path": "documents/avatar-long-term/source.html", "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c", "view_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd"}
+A primary outcome event occurred in 18/78 patients (23.1%) in the early surgery group and in 37/79 patients (46.8%) in the conservative treatment group (HR with early surgery vs. conservative treatment 0.42; 95% CI 0.24–0.73, P = .002; Figure 2 ).
+END DE_EVIDENCE avatar result.cardiac_specific_mortality.longest_followup
+BEGIN DE_CELL early_tavr result.cardiac_specific_mortality.longest_followup {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The complete primary source does not report this outcome at the selected follow-up.","study_key":"early_tavr","target_id":"result.cardiac_specific_mortality.longest_followup","values":null}
+END DE_CELL early_tavr result.cardiac_specific_mortality.longest_followup
+BEGIN DE_EVIDENCE evolved result.cardiac_specific_mortality.longest_followup {"canonical_field": "intervention_events", "document_key": "evolved.supplement", "source_path": "originals/evolved-supplement/supplement.pdf", "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806", "view_sha256": "c727ff3282fd935e7b7916083b221e19975dfad88712a0e350f0fafe788b6166"}
+Cardiovascular Death, No. (%) | 10 (9) | 8 (7) |
+END DE_EVIDENCE evolved result.cardiac_specific_mortality.longest_followup
+BEGIN DE_EVIDENCE evolved result.cardiac_specific_mortality.longest_followup {"canonical_field": "intervention_group_size", "document_key": "evolved.supplement", "source_path": "originals/evolved-supplement/supplement.pdf", "source_sha256": "b9b63b5a397bdc302d55a3315b3ea4314a172b9c92b48ed59214318ed6fc3806", "view_sha256": "c727ff3282fd935e7b7916083b221e19975dfad88712a0e350f0fafe788b6166"}
+|  | Early Intervention (n=113) | Conservative Management (n=111) |
+END DE_EVIDENCE evolved result.cardiac_specific_mortality.longest_followup
+BEGIN DE_EVIDENCE recovery result.myocardial_infarction.longest_followup {"canonical_field": "intervention_events", "document_key": "recovery.fulltext", "source_path": "documents/recovery-primary/source.html", "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6", "view_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c"}
+Myocardial infarction | 1 | 0 |
+END DE_EVIDENCE recovery result.myocardial_infarction.longest_followup
+BEGIN DE_EVIDENCE recovery result.myocardial_infarction.longest_followup {"canonical_field": "intervention_group_size", "document_key": "recovery.fulltext", "source_path": "documents/recovery-primary/source.html", "source_sha256": "4420cf2d9b9da8a1f87b0babdb8080428935567552a0af7cfd00b835f2b62de6", "view_sha256": "dedbf0f66f5b2a01800ddf23f4837d222299415ac3f7d3fe6637bfaf05f6814c"}
+Outcome | Conservative Care (N=72) | Early Surgery (N=73) | Hazard Ratio (95% CI) *
+END DE_EVIDENCE recovery result.myocardial_infarction.longest_followup
+BEGIN DE_EVIDENCE avatar result.myocardial_infarction.longest_followup {"canonical_field": "intervention_events", "document_key": "avatar.long_term.fulltext", "source_path": "documents/avatar-long-term/source.html", "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c", "view_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd"}
+Acute myocardial infarction | 1 (1.4) | 6 (9.3) | 0.15 (0.02–1.29) | .047
+END DE_EVIDENCE avatar result.myocardial_infarction.longest_followup
+BEGIN DE_EVIDENCE avatar result.myocardial_infarction.longest_followup {"canonical_field": "intervention_group_size", "document_key": "avatar.long_term.fulltext", "source_path": "documents/avatar-long-term/source.html", "source_sha256": "6a9de2404410d23c0fd7c883813e6b2e10d7b0178d2c4d2a79aa2c5b5fdbc44c", "view_sha256": "cff047eccb2a9dae77963d03f4232ada07f9d18194d030c4657ff0443d08c0cd"}
+A primary outcome event occurred in 18/78 patients (23.1%) in the early surgery group and in 37/79 patients (46.8%) in the conservative treatment group (HR with early surgery vs. conservative treatment 0.42; 95% CI 0.24–0.73, P = .002; Figure 2 ).
+END DE_EVIDENCE avatar result.myocardial_infarction.longest_followup
+BEGIN DE_CELL early_tavr result.myocardial_infarction.longest_followup {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The complete primary source does not report this outcome at the selected follow-up.","study_key":"early_tavr","target_id":"result.myocardial_infarction.longest_followup","values":null}
+END DE_CELL early_tavr result.myocardial_infarction.longest_followup
+BEGIN DE_CELL evolved result.myocardial_infarction.longest_followup {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The abstract-and-results representation cannot establish absence of a long-term myocardial-infarction row.","study_key":"evolved","target_id":"result.myocardial_infarction.longest_followup","values":null}
+END DE_CELL evolved result.myocardial_infarction.longest_followup

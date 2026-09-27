@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0.0",
+  "case_id": "zhong-2022",
+  "source_mode": "raw",
+  "selection_mode": "direct",
+  "repair_mode": "none",
+  "source_run_ids": [
+    "de-v3-zhong-2022-r1-20260826T190858Z-622b3b35",
+    "de-v3-zhong-2022-r2-20260826T193008Z-5e789779",
+    "de-v3-zhong-2022-r3-20260826T194838Z-5b5dcfdd"
+  ],
+  "selected_run_id": "de-v3-zhong-2022-r1-20260826T190858Z-622b3b35",
+  "documents": [
+    {
+      "document_key": "cesar.pubmed",
+      "source_document_sha256": "ab0bbcf8e667b26f8b80433bb0d6c2290505fb58d3e8946b4dcc43c449bcb8cf",
+      "snapshot_path": "frozen/cesar.pubmed/source.docling.json",
+      "snapshot_sha256": "6404814da98f2e77d3819ad41bfc62210429f4ac7868ea0f9e105c414f5e999e",
+      "media_type": "application/vnd.docling+json",
+      "converter": {
+        "name": "docling",
+        "version": "2.117.0",
+        "pipeline": "standard",
+        "do_ocr": false,
+        "do_table_structure": true,
+        "table_mode": "accurate"
+      },
+      "character_repair_applied": false,
+      "prepare_stage_output_sha256": "05b5c84a8fde66847027e79852198c6f9b46de22211632305e07283394f14650",
+      "repair_stage_output_sha256s": [],
+      "repair_apply_stage_output_sha256": null
+    },
+    {
+      "document_key": "milesi.pubmed",
+      "source_document_sha256": "1c489aa6e9950fbcaa56510127a294871c8ec6ef0f7e5a23b18a952e8b0e3477",
+      "snapshot_path": "frozen/milesi.pubmed/source.docling.json",
+      "snapshot_sha256": "62d05c6fc3f97fbc5e5aacc192154b85da127676f479d9a9b720f7e80448c8f1",
+      "media_type": "application/vnd.docling+json",
+      "converter": {
+        "name": "docling",
+        "version": "2.117.0",
+        "pipeline": "standard",
+        "do_ocr": false,
+        "do_table_structure": true,
+        "table_mode": "accurate"
+      },
+      "character_repair_applied": false,
+      "prepare_stage_output_sha256": "20322825eef9936fe7fe42caecc9b77d0f36b79be3a28da690808153425acf16",
+      "repair_stage_output_sha256s": [],
+      "repair_apply_stage_output_sha256": null
+    },
+    {
+      "document_key": "vahlkvist.pubmed",
+      "source_document_sha256": "db3808e97fdd41c54e1d46bf2d6ce2580c0ac99bfd1167977d5bc245f17e3dba",
+      "snapshot_path": "frozen/vahlkvist.pubmed/source.docling.json",
+      "snapshot_sha256": "c184a0dfa8876aaab57c70241d852447e75574a5956130819a983e282152b6e9",
+      "media_type": "application/vnd.docling+json",
+      "converter": {
+        "name": "docling",
+        "version": "2.117.0",
+        "pipeline": "standard",
+        "do_ocr": false,
+        "do_table_structure": true,
+        "table_mode": "accurate"
+      },
+      "character_repair_applied": false,
+      "prepare_stage_output_sha256": "e6bcb05416041cfe7714f76b6ca935f6dadb12d82fcd5f2e1a2d98d98044650d",
+      "repair_stage_output_sha256s": [],
+      "repair_apply_stage_output_sha256": null
+    }
+  ]
+}

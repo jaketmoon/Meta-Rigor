@@ -1,0 +1,725 @@
+[PDF_PAGE 1]
+
+Rev. A  Page 1 of 20
+
+STATISTICAL ANALYSIS PLAN
+
+Protocol Title (Number):
+Evaluation of Fluid Volume in Patients with Sepsis and Refractory Hypotension
+(FRESH Study)
+PRO-0001
+
+Sponsor: Cheetah Medical, Inc.
+
+June 28, 2018
+
+[PDF_PAGE 2]
+
+Rev. A  Page 2 of 20
+
+TABLE OF CONTENTS
+1 Abbreviations ........................................................................................................................................ 4
+2 Summary ..................................................................................................................... .......................... 5
+3 Sequence of Planned Analyses ................................................................................................ ............. 7
+3.1 Interim Analyses ........................................................................................................................... 7
+3.1.1 Interim Analyses for Sample Size of Secondary Endpoint Superiority ................................ 7
+3.1.2 Annual Reports .......................................................................................................... ........... 7
+3.2 Final Analyses and Reporting .............................................................................................. ......... 8
+4 Study Objectives and Endpoints .............................................................................................. ............. 8
+4.1 Study Objective ........................................................................................................... .................. 8
+4.2 Study Endpoints ........................................................................................................... ................. 8
+4.2.1 Primary Endpoint Analysis ............................................................................................... .... 8
+4.2.2 Secondary Endpoints ..................................................................................................... ........ 8
+5 Sample Size ................................................................................................................. .......................... 9
+6 Analysis Populations ........................................................................................................................... 10
+6.1 All Enrolled .............................................................................................................. ................... 10
+6.2 Intent to Treat Population (ITT) .......................................................................................... ........ 10
+6.3 Modified Intent to Treat Population (mITT) ............................................................................... 10
+6.4 Per-Protocol (PP) ......................................................................................................... ............... 10
+6.5 Safety .................................................................................................................... ...................... 10
+7 General Issues for Statistical Analysis ..................................................................................... ........... 10
+7.1 Analysis Software ......................................................................................................... .............. 10
+7.2 Disposition of Subjects and Withdrawals ...................................................................................  11
+7.3 Methods for Withdrawals, Missing Data, and Outliers ............................................................... 11
+7.4 Protocol Violations ....................................................................................................... .............. 11
+7.5 Multiple Comparisons and Multiplicity ..................................................................................... . 12
+7.6 Assessment of Homogeneity ................................................................................................. ...... 12
+8 Demographics and Other Baseline Characteristics ............................................................................. 13
+8.1 Demographics .............................................................................................................. ............... 13
+8.2 Prior and Concurrent Medications .......................................................................................... .... 14
+8.3 Baseline Medical History .................................................................................................. .......... 14
+8.4 Baseline Labs and Vital signs ............................................................................................. ........ 14
+
+[PDF_PAGE 3]
+
+Rev. A  Page 3 of 20
+
+9 Efficacy Analyses ........................................................................................................... .................... 14
+9.1 Primary Efficacy Variable ................................................................................................. ......... 14
+9.2 Secondary Efficacy Variables .............................................................................................. ....... 15
+9.2.1 For Formal Testing Using the Sequential Approach ........................................................... 15
+9.2.2 Not for Formal Testing .................................................................................................. ..... 17
+10 Adverse Events ............................................................................................................. .................. 19
+10.1 All Treatment Emergent Adverse Events ................................................................................... 19
+10.2 Laboratory Values and Vital Signs ........................................................................................ ..... 19
+10.3 Deaths ................................................................................................................... ...................... 19
+11 Reporting Conventions ...................................................................................................... ............. 20
+
+[PDF_PAGE 4]
+
+Rev. A  Page 4 of 20
+
+1 ABBREVIATIONS
+Abbreviation Definition
+AE Adverse Event
+AKI Acute Kidney Injury
+
+CEC Clinical Events Committee
+CPsup Conditional Power to Claim Superiority
+CRF Case Report Forms
+CSR Clinical Study Report
+DMC Data Monitoring Committee
+FDA United States Food and Drug Administration
+FRESH Fluid Responsiveness Evaluation in Sepsis-
+associated Hypotension
+ICU Intensive Care Unit
+IRB Institutional Review Board
+ITT Intent-To-Treat Population
+MITT Modified Intent-To-Treat Population
+PLR Passive Leg Raise
+PP Per-Protocol Population
+RRT Renal Replacement Therapy
+SAE Serious Adverse Event
+SAP Statistical Analysis Plan
+SOP Standard Operating Procedure
+SSR Sample Size Re-estimation
+SV Stroke Volume
+SVI Stroke Volume Index
+TEAE Treatment Emergent Adverse Event
+
+[PDF_PAGE 5]
+
+Rev. A  Page 5 of 20
+
+2 SUMMARY
+TITLE Evaluation of fluid volume in patients with sepsis and refractory hypotension.
+PREFACE This Statistical Analysis Plan (SAP) describes the planned analysis and
+reporting for Cheetah Medical, Inc. protocol PRO-0001 (Fluid Responsiveness
+Evaluation in Sepsis-associated Hypotension [FRESH] Fluid Trial). This study
+is being completed to assess the safety and efficacy in using Starling SV for
+dynamic assessment of fluid responsiveness in the treatment of septic patients
+with refractory hypotension.
+
+The following documents were reviewed in preparation of this SAP:
+ Clinical Research Protocol PRO-0001, issued 30OCT2017
+ Case report forms (CRFs) issued 01DEC2017 for Protocol PRO-0001
+PURPOSE The purpose of this SAP is to outline the planned analyses in support of the
+Clinical Study Report (CSR) for protocol PRO-0001. Exploratory analyses not
+necessarily identified in this SAP may be performed to support the clinical
+development program. Any post-hoc, or unplanned, analyses not identified in
+this SAP will be clearly identified in the respective CSR or manuscript.
+STUDY
+OBJECTIVES
+The objective of this study is to assess the mean difference in fluid balance at
+72 hours or ICU discharge, whichever occurs first, and associated patient
+outcomes, based on a dynamic assessment of fluid responsiveness in septic
+patients with refractory hypotension in an ICU setting.
+STUDY
+ENDPOINTS
+Primary: Fluid balance (L) at 72 hours or ICU discharge, whichever occurs
+first
+
+Secondary:
+1. Changes in serum creatinine level from baseline to 72 hours (key
+secondary endpoint)
+2. Requirement for renal replacement therapy (RRT)
+3. Requirement for ventilator use
+4. Length of ICU stay (days) until subject is medically ready for discharge
+5. Number of hours with ventilator use (30-day period)
+6. Number of hours with vasopressor use
+Not for Formal Testing:
+1. Incidence of Adverse Events (AE)
+2. Number of ICU readmissions
+3. 30 day in-hospital Mortality rate
+4. Volume of Treatment Fluid
+5. Incidence of MACE
+6. Discharge location
+7. Mean difference in fluid balance at ICU discharge
+STUDY DESIGN This study is a prospective, multi-center, randomized trial comparing the mean
+difference in fluid balance and associated patient outcomes between a treatment
+guided by a dynamic assessment of fluid responsiveness and a standard of care
+control group not using dynamic fluid assessment.
+
+[PDF_PAGE 6]
+
+Rev. A  Page 6 of 20
+
+Subjects will be randomized in a 2:1 treatment to control group ratio to increase
+power for sub-analysis by patient population. Subject randomization will be
+stratified by time window of enrollment to ensure even randomization between
+the three time windows of enrollment (0-6 hours, 6-12 hours, and 12-24 hours).
+
+Patients randomized to the Starling SV arm will have treatment guided by a
+dynamic assessment of fluid responsiveness (measured by a change in stroke
+volume index > 10%) as assessed by passive leg raise (PLR).
+
+Patients randomized to the control group will receive standard of care
+treatment. The use of dynamic fluid assessment (i.e. SVV, PPV, or SV change)
+to determine fluid responsiveness within the control group is prohibited.
+INTERIM
+ANALYSES
+An interim analysis is planned after 90 subjects have been enrolled and
+completed the evaluation of the key secondary endpoint of change in serum
+creatinine at 72 hours. At this analysis, a sample size re-estimation will occur in
+order to determine promise for superiority in the key secondary endpoint.
+
+No annual reports for the FDA are anticipated prior to the end of data collection
+as this study is not intended to support a regulatory filing.
+
+An annual report and project status update may be requested by the local IRB at
+study sites.
+
+No other interim analyses are planned.
+FINAL
+ANALYSES
+All final planned analyses identified in this SAP will be completed after the last
+subjec
+t has completed their 30 day follow up.
+
+[PDF_PAGE 7]
+
+Rev. A  Page 7 of 20
+
+3 SEQUENCE OF PLANNED ANALYSES
+3.1 INTERIM ANALYSES
+3.1.1 INTERIM ANALYSES FOR SAMPLE SIZE OF SECONDARY ENDPOINT
+SUPERIORITY
+The trial will incorporate a sample size re-estimation (SSR) at the time of the interim look based
+on promise for superiority in the key secondary endpoint of change in serum creatinine from
+baseline to 72 hours. The maximum enrollment being considered for this trial is 210 total
+enrolled (Nmax = 1.75 times Nmin = 120, where the sample size of 120 is determined as noted in
+Section 5 below).
+
+The interim analysis on the key secondary endpoint incorporating a SSR will take place when 90
+subjects have been enrolled and completed the key secondary endpoint evaluation. The interim
+analysis will be performed by an independent statistician. It is assumed that the acute endpoint
+assessments will be fully informed at the time of the interim analysis.
+
+There will be no inspection of the primary study endpoint at this interim stage. The
+primary study endpoint will be tested as final at the formal planned final sample size of 120
+patients and will not incorporate an alpha spent. In the event of an SSR due to the key
+secondary endpoint, the primary endpoint will be tested again at the final sample size. No
+alpha-adjustment is needed across this potential multiple testing of the primary endpoint
+since the primary endpoint will need to be met at both N
+min=120 and, if the sample size is
+increased to >120, at the final sample size.
+
+After 90 patients have completed the secondary endpoint, the conditional power to claim
+superiority (CP
+sup) on the key secondary endpoint for change in creatinine level from baseline to
+72 hours will be computed assuming a planned final sample size of 120 patients. The conditional
+power (CPsup) will be calculated based on the observed interim results of the key secondary
+endpoint, with the specific interest of demonstrating superiority of the experimental treatment
+versus the control. The data will be partitioned into three zones based on CPsup unfavorable zone
+(CPsup<50%), promising zone (50%≤CPsup<80%), and favorable zone (CPsup≥80%). If
+CPsup<50% or CPsup≥80% the study will continue as is. If 50%≤CPsup<80% then the sample size
+may be increased (to a maximum of 210 total) to yield 80% CPsup without increasing Type I
+error, following the methodology of Chen, DeMets and Lan (2004).
+3.1.2 ANNUAL REPORTS
+As this study is not designed to support regulatory filings, no annual reports are anticipated at
+this time. Annual project updates may be provided at the request of site IRBs.
+
+[PDF_PAGE 8]
+
+Rev. A  Page 8 of 20
+
+3.2 FINAL ANALYSES AND REPORTING
+All final, planned, analyses identified in the protocol and in this SAP will be performed only
+after the last subject has had 30-day follow-up. Key statistics and study results will be made
+available to Cheetah Medical, Inc. following database lock. Any post-hoc, exploratory analyses
+completed to support planned study analyses, which were not identified in this SAP, will be
+documented and reported as necessary. Any results from these unplanned analyses will also be
+clearly identified as post-hoc analyses.
+4 STUDY OBJECTIVES AND ENDPOINTS
+4.1 STUDY OBJECTIVE
+The objective of this study is to assess the mean difference in fluid balance at 72 hours or ICU
+discharge, whichever occurs first, and associated patient outcomes, based on a dynamic
+assessment of fluid responsiveness in septic patients with refractory hypotension in an ICU
+setting.
+4.2 STUDY ENDPOINTS
+4.2.1 PRIMARY ENDPOINT ANALYSIS
+The primary endpoint analysis is an evaluation of the difference (L) between the two treatment
+groups’ mean fluid balance at 72 hours or ICU discharge, whichever occurs first. The following
+are the null and alternative hypotheses:
+
+H
+0: μc – μt = 0
+Ha: μc – μt ≠ 0
+
+where μt and μc are the average fluid balance in the Starling SV and control groups, respectively.
+4.2.2 SECONDARY ENDPOINTS
+
+4.2.2.1  For formal testing
+Key secondary endpoints for the purposes of formal statistical testing are:
+ Changes in serum creatinine level from baseline to 72 hours (key secondary endpoint)
+ Requirement for renal replacement therapy (RRT)
+ Requirement for ventilator use
+ Length of ICU stay (days) until subject is medically ready for discharge
+ Number of hours with ventilator use (30-day period)
+ Number of hours with vasopressor use
+
+[PDF_PAGE 9]
+
+Rev. A  Page 9 of 20
+
+4.2.2.2  Not for formal testing
+Additional exploratory secondary endpoints identified for testing, but will not be included in the
+formal statistical testing procedures for key secondary endpoints are:
+ Incidence of Adverse Events (AE)
+ Number of ICU readmissions
+ Mortality rate
+ Volume of treatment fluid
+ Incidence of Major Adverse Cardiac Event (MACE)
+ Discharge location
+ Mean difference in fluid balance at ICU discharge
+5 SAMPLE SIZE
+Subjects will be randomly assigned in a 2:1 ratio to treatment with Starling SV or to treatment
+with standard of care, stratified by time window of enrollment (0-6 hours, 6-12 hours, and 12-24
+hours). The primary effectiveness endpoint for this study is fluid balance at ICU discharge.
+
+Minimum enrollment (Nmin) in the study will be set at 120 subjects (80 Starling SV and 40
+control) to power at 80% for demonstration of superiority of means for the secondary endpoint of
+creatinine levels as a measurement of change from baseline at 72 hours. The secondary endpoint
+for change in creatinine levels at 120 evaluable subjects displays 80% power at a two-sided alpha
+level of 0.05 to demonstrate superiority of Starling SV under an assumption of an average
+treatment effect of -1.4 mg/dL with a standard deviation of 2.5 mg/dL.
+
+Under an assumption of an average treatment effect of -2 L with a standard deviation of 3 L, the
+sample size of 120 evaluable subjects provides 92.7% power in a test of superiority of means for
+the primary effectiveness endpoint at a two-sided 0.05 level of significance.
+
+The trial will incorporate a sample size re-estimation (SSR) at the time of the interim look (after
+90 patients have been evaluated for the key secondary endpoint) based on promise for superiority
+in the key secondary endpoint. Sample size re-estimation, described in further detail in Section
+3.1, will result in a maximum of 210 total evaluable subjects, or no more than 1.75 times the
+minimum of 120.
+
+[PDF_PAGE 10]
+
+Rev. A  Page 10 of 20
+
+6 ANALYSIS POPULATIONS
+6.1 ALL ENROLLED
+Any subject who has signed informed consent will be included in the all enrolled population.
+Should a subject be considered a screen failure, the reason for failure will be documented and the
+subject will be exited from the study.
+6.2 INTENT TO TREAT POPULATION (ITT)
+The intent-to-treat (ITT) population for this study includes subjects that are enrolled in the study,
+have signed the ICF, meet study eligibility criteria, and have been randomized to either the
+treatment or control arm of the study.
+6.3 MODIFIED INTENT TO TREAT POPULATION (MITT)
+Subjects will be included in the Modified Intent-to-Treat (mITT) group if they sign the ICF, meet
+study eligibility criteria, are randomized, and in the treatment group receive monitoring for the
+first 72 hours of study enrollment or until ICU discharge, whichever occurs first. The mITT
+population will be conducted as a supportive analysis population for the primary and secondary
+endpoints.
+6.4 PER-PROTOCOL (PP)
+Subjects will be included in the Per-protocol group if they sign the ICF, are randomized and have
+the assigned procedure completed, meet critical study eligibility criteria and have no major
+protocol deviations (to be pre-defined as an attachment to the interim and final analyses), and, in
+the treatment group, receive monitoring for the first 72 hours of study enrollment. The PP
+population represents the primary analysis population for the primary and secondary endpoints.
+6.5 SAFETY
+Subject will be included in the safety group if they are in the ITT analysis population and study
+treatment was at least attempted. This is the primary analysis population for safety, including
+adverse events (this is a change from the protocol, where it states that adverse events will be
+reported on all enrolled patients; it has been since felt that this could underreport the true adverse
+event rates in patients to whom randomized treatment was attempted). Patients are analyzed
+under the treatment received.
+7 GENERAL ISSUES FOR STATISTICAL ANALYSIS
+7.1 ANALYSIS SOFTWARE
+Analysis data sets, statistical analyses and associated output generated by
+ will be generated using SAS® Software version 9.4 or later or R version
+
+[PDF_PAGE 11]
+
+Rev. A  Page 11 of 20
+
+3.2.3 or later.  Standard Operating Procedures (SOPs) will be followed in the creation and
+validation of all analysis datasets, tables, listings, figures and analyses.
+7.2 DISPOSITION OF SUBJECTS AND WITHDRAWALS
+All subjects who provide written informed consent will be accounted for. The number and
+percent of subjects in each analysis population will be presented, where the percentage is based
+on the number of enrolled subjects. The number and percent of PP, mITT and ITT subjects who
+completed each scheduled assessment will be presented. The frequency and percent of PP, mITT
+and ITT subjects randomized at each investigational site by treatment arm will be presented. A
+flow chart and listing will also summarize subject accountability.
+
+The number and percentage of subjects prematurely withdrawing from the study will be
+presented all enrolled subjects by treatment group overall and by reason for premature
+withdrawal. Descriptive statistics (mean, standard deviation, median, minimum, maximum) of
+number of days on study will be presented by treatment group.
+7.3 METHODS FOR WITHDRAWALS, MISSING DATA, AND OUTLIERS
+All reasonable efforts will be made to obtain complete data for all subjects; however, missing
+observations will occur due to death, loss to follow-up, withdrawal, non-adherence to the
+protocol, and possible non-evaluable assessments. Since this is unlikely due to the short follow-
+up time schedule and the consistent nature of data collection, missing data will not be imputed.
+However, should more than 5% of subjects be missing evaluable data for the primary endpoint,
+then as a sensitivity analysis to assess the impact of missing data on the primary endpoint
+treatment comparisons, treatment group comparisons on the primary endpoint will be performed
+where missing data are first imputed via multiple imputation linear regression using the FCS
+method in SAS. The multiple imputation model will use, as covariates in the imputation model,
+the demographic variables shown in the demographics table shell in Appendix A. A total of 10
+complete datasets will be created for the multiple imputation and the primary endpoint treatment
+comparisons will be carried out within each imputed dataset; results will then be combined
+across imputed datasets using standard multiple imputation techniques in PROC MIANALYZE
+to obtain one treatment comparison p-value on the primary endpoint. Tables detailing missing
+data and analysis populations will be provided in the final report. Should the sensitivity analysis
+be required, it will also be provided in the final report.
+7.4 PROTOCOL VIOLATIONS
+A protocol violation is a failure to comply with the requirements specified within this clinical
+study protocol. Protocol violations will be summarized in the CSR. This summary will include
+the number and percent of subjects (overall and by site) with each violation type for the ITT
+analysis set. Protocol violations, according to section 14.2 of the protocol and the Protocol
+Deviation CRF, include:
+
+[PDF_PAGE 12]
+
+Rev. A  Page 12 of 20
+
+ Failure to obtain subject’s informed consent prior to any study-related activities;
+ Subject did not meet the inclusion and/or exclusion criteria and were enrolled;
+ Failure to conduct protocol required clinical test or assessment;
+ Failure to complete protocol required assessments within the required time frame
+ Failure to perform assessment or test according to the protocol
+ Failure to report serious adverse events according to protocol requirements.
+7.5 MULTIPLE COMPARISONS AND MULTIPLICITY
+It is recognized that with a multiplicity of tests comes inflation in the chance of a false finding.
+Therefore, formal statistical testing will only be done for the following secondary endpoints:
+ Changes in serum creatinine level from baseline to 72 hours (key secondary endpoint)
+ Requirement for renal replacement therapy (RRT)
+ Requirement for ventilator use
+ Length of ICU stay (days) until subject is medically ready for discharge
+ Number of hours with ventilator use (30-day period)
+ Number of hours with vasopressor use
+These endpoints will be tested in a hierarchical (sequential) manner in the order given above
+(and testing will only proceed if a significant beneficial treatment effect is detected in the
+primary endpoint). Specifically, the first secondary endpoint (change in creatinine) will be
+compared between treatments at a two-sided 0.05 level of significance. If significant in the
+direction favoring Starling SV, then Starling SV will be considered beneficial on change in
+serum creatinine level, and the next endpoint (ICU stay) will be compared between treatments at
+a two-sided 0.05 level of significance; otherwise the statistical testing will stop and Starling SV
+will not be considered statistically significantly beneficial on any secondary endpoint. If the
+treatment comparison is able to proceed to this next secondary endpoint of ICU stay, it will be
+carried out at the two-sided 0.05 level of significance. If the treatment comparison is significant
+in the direction favoring Starling SV, then Starling SV will be considered beneficial on this
+endpoint and testing will proceed in a similar manner for the remaining endpoints; otherwise,
+treatment comparisons will stop and Starling SV will not be considered beneficial on this second
+secondary endpoint of ICU stay nor on all endpoints after it in the above sequence.
+7.6 ASSESSMENT OF HOMOGENEITY
+To evaluate difference among sites in the study, summaries of baseline variables and endpoints
+by site will be tabulated for the PP analysis set. Comparisons will be made across sites for
+selected baseline variables. Continuous baseline data will be compared across sites for the PP
+analysis set using one-way ANOVA; categorical data will be compared across sites using the
+chi-square test.
+
+[PDF_PAGE 13]
+
+Rev. A  Page 13 of 20
+
+To assess consistency in the treatment effect on the primary endpoint and on continuous
+secondary endpoints across sites, two-way ANOVAs with the main effects of treatment group
+and site and with the treatment group by site interaction effect will be carried out on the PP and
+mITT analysis sets. An endpoint with an interaction effect that is not significant at the 0.15 level
+of significance will be considered as supporting the poolability of data across sites for the
+treatment comparisons on that endpoint. Otherwise, treatment comparisons within sites will be
+inspected to determine the direction and magnitude of the interaction; if treatment effect is
+consistent in direction across sites centers but only differs in magnitude across sites, poolability
+of sites for the endpoint analysis is also supported. Any site with fewer than six subjects
+(combined treatment and control) will be combined into a single pooled site for purposes of this
+analysis.
+
+The above assessment of consistency will be repeated across the following subgroups, with
+appropriate descriptive statistics being presented for each treatment group within each subgroup
+category:
+ Patient disease state
+ Patients determined to be fluid responsive vs non-fluid responsive
+ AKI measures in patients determined to increase serum creatinine levels from baseline vs
+decrease serum creatinine levels from baseline (AKI measures vs. no AKI measures)
+ Enrollment time frame (0-6 hours, 6-12 hours, 12-24 hours)
+ Sex
+
+Dichotomous secondary endpoint data will similarly be analyzed for poolability using logistic
+regression analysis.
+8 DEMOGRAPHICS AND OTHER BASELINE CHARACTERISTICS
+8.1 DEMOGRAPHICS
+Demographics will be summarized by treatment group for the PP and mITT analysis sets. There
+will be no formal statistical comparisons between treatment groups on demographic variables.
+The continuous variables of age, height (cm), weight (kg), BMI, qSOFA, SOFA, FiO2, and
+Glascow Coma Score will be summarized by treatment group using sample size, mean, standard
+deviation, minimum and maximum. For the categorical variables of sex (male, female), race
+(white, black or African American, American Indian/Alaska Native, Asian, Native Hawaiian or
+Other Pacific Islander, other, unknown), ethnicity (Hispanic or Latino, Not Hispanic or Latino,
+Unknown), known or presumed infection, SIRS criteria exhibited (Temperature >38 C,
+Temperature <36 C, Heart Rate > 90/min, Respiratory rate >20/min or PaCO2 <32mm, White
+Blood Cell Count >12000/mm3, White Blood Cell Count <4000/mm
+3,White Blood Cell Count
+
+[PDF_PAGE 14]
+
+Rev. A  Page 14 of 20
+
+>10% Immature Cells), smoking history (never, current, former), sepsis diagnosis (bacterial,
+fungal, viral, parasitic, other), Receiving Respiratory Support, and Cardiovascular Score (MAP ≥
+70 mmHg, MAP < 70 mmHg, Dopamine <5 or dobutamine (any dose), Dopamine 5.1-15 or
+epinephrine ≤0.1 or norepinephrine ≤0.1, Dopamine >15 or epinephrine >0.1 or norepinephrine
+>0.1), the number and percentage of patients in each category will be presented for each
+treatment group.
+8.2 PRIOR AND CONCURRENT MEDICATIONS
+A listing will be provided detailing subjects’ medications, but no table is planned at this time.
+8.3 BASELINE MEDICAL HISTORY
+The medical history of all PP and mITT subjects will be summarized in a table by treatment
+group. For each condition, the number and percent of subjects who currently have the condition,
+who have a resolved history of the condition, and who have no prior history will be presented.
+The list of conditions is captured in the FRESH Medical History CRF.
+8.4 BASELINE LABS AND VITAL SIGNS
+A table presenting descriptive statistics (sample size, mean, standard deviation, median, min and
+max) of laboratory variables and vital signs by treatment group at baseline will be provided for
+the PP and mITT analysis sets. The laboratory variables are hemoglobin, serum creatinine,
+lactate levels, platelets, and bilirubin, and the arterial gases pH, PaCO
+2, PaO2, HCO3, O2CT, and
+O2SAT. The vital signs are body temperature (C), heart rate (bpm), respiration rate
+(breaths/min), pulse oximetry (%), systolic blood pressure (mmHg), and diastolic blood pressure
+(mmHg).
+
+9 EFFICACY ANALYSES
+All efficacy analyses will be performed on the PP analysis population (primary) and mITT
+analysis population (supportive).
+9.1 PRIMARY EFFICACY VARIABLE
+The primary endpoint analysis is an evaluation of the difference between the two treatment
+groups in mean fluid balance (L) at 72 hours or ICU discharge, whichever occurs first. The
+following hypothesis will be tested:
+
+Ho: μc – μt = 0
+Ha: μc – μt ≠ 0
+
+where μt and μc is the average fluid balance in the Starling SV and control groups, respectively.
+Statistical summaries will include means, medians, quartiles and standard deviation for each
+
+[PDF_PAGE 15]
+
+Rev. A  Page 15 of 20
+
+treatment group, as well as 95% confidence interval of the difference between treatment group
+means. Subjects that enter the study on dialysis, or are on chronic dialysis, are excluded from this
+endpoint. A two-sample t-test will be used to test the null hypothesis at a two-sided 0.05 level of
+significance. A significant p-value combined with a lower sample mean for Starling SV than for
+the control group will indicate statistical superiority of Starling SV over the control with respect
+to the primary endpoint. Fluid balance will be analyzed under sensitivity analyses not intended
+for formal hypotheses testing.
+9.2 SECONDARY EFFICACY VARIABLES
+9.2.1 FOR FORMAL TESTING USING THE SEQUENTIAL APPROACH
+If a significant beneficial Starling SV effect is found in the primary endpoint, the following
+secondary endpoints will be compared between treatments in the sequential manner discussed
+above.
+
+9.2.1.1  Changes in Serum Creatinine Levels from  Baseline to 72 hours or ICU discharge
+The hypotheses of interest relating to the mean change in serum creatinine level from baseline to
+72 hours or ICU discharge, whichever comes first, are as follows:
+ܪ
+௖
+௖
+where ௧ and ௖ represent the mean change in serum creatinine level from baseline to 72 hours
+in the treatment and control groups, respectively. The treatment groups will be compared with
+respect to the mean days using an analysis of covariance adjusting for baseline serum creatinine.
+Subjects that enter the study on dialysis are excluded from this endpoint. Subjects that are put on
+dialysis within 72 hours, or prior to ICU discharge, will have the final creatinine value prior to
+dialysis used for the change from baseline calculation. All creatinine values post dialysis
+treatment are not applicable to this endpoint test. Summary of this endpoint will include the
+mean, median, quartiles, minimum, maximum and standard deviation of levels for each treatment
+arm, a 95% confidence interval for the difference in the two treatment arm mean levels, and the
+p-value from the test described above.
+
+9.2.1.2  Requirement for Renal Replacement Therapy (RRT)
+The hypotheses of interest relating to RRT are as follows:
+௧ ൌP ௖
+௧ ്P ௖
+where ௧ and ௖ represent the proportion of subjects requiring RRT in the treatment and control
+groups, respectively. Treatments will be compared using the chi-square test. Subjects that enter
+the study on dialysis, or are on chronic dialysis, are excluded from this endpoint. Summary of
+this endpoint will include the number and percentage of patients requiring RRT, a 95%
+confidence interval for the risk difference in the two arm percentages calculated using the normal
+
+[PDF_PAGE 16]
+
+Rev. A  Page 16 of 20
+
+approximation to the binomial distribution, and the p-value from the test described above. If the
+observed event rates are less than 10% in either treatment group, a Fisher’s exact test will be
+used to compare treatments instead of the chi-square test, and the 95% confidence of the risk
+difference will be based on the Wilson method instead of the normal approximation to the
+binomial distribution.
+
+9.2.1.3  Requirement for Ventilator Use
+The hypotheses of interest relating to ventilator use are as follows:
+௧ ൌP ௖
+௧ ്P ௖
+where ௧ and ௖ represent the proportion of subjects requiring ventilator use in the treatment and
+control groups, respectively. Treatments will be compared using the chi-square test. Subjects that
+enter the study on ventilation are excluded from this endpoint analysis. Summary of this
+endpoint will include the number and percentage of patients requiring ventilator use, a 95%
+confidence interval for the risk difference in the two arm percentages calculated using the normal
+approximation to the binomial distribution, and the p-value from the test described above. If the
+observed event rates are less than 10% in either treatment group, a Fisher’s exact test will be
+used to compare treatments instead of the chi-square test, and the 95% confidence of the risk
+difference will be based on the Wilson method instead of the normal approximation to the
+binomial distribution.
+
+9.2.1.4  Length of ICU Stay
+The distribution of treatments with respect to length of ICU stay (days) will be compared
+between treatments using the Wilcoxon Rank Sum test given the expected skewness in this
+variable. Subjects that die while in the ICU will be censored from the analysis. ICU length of
+stay will be calculated using the earliest of date that the subject is medically ready for discharge
+when captured, the date of discharge, or the study exit date.
+
+Summary of this endpoint will include the mean, median, quartiles, minimum, maximum and
+standard deviation of days for each treatment arm, a 95% confidence interval for the difference
+in the two treatment arm mean days, and the p-value from Wilcoxon Rank Sum test.
+
+9.2.1.5  Number of Hours with Ventilator Use
+The hypotheses of interest relating to the number of hours free from ventilator use (within 30
+days) are as follows:
+ܪ
+௖
+௖
+where ௧ and ௖ represent the mean number of hours in the treatment and control groups,
+respectively. The treatment groups will be compared with respect to the mean hours using a two-
+
+[PDF_PAGE 17]
+
+Rev. A  Page 17 of 20
+
+sided two-sample t-test. Subjects that enter the study on ventilation are excluded from this
+endpoint analysis. Summary of this endpoint will include the mean, quartiles, median, minimum,
+maximum and standard deviation of hours for each treatment arm, a 95% confidence interval for
+the difference in the two treatment arm mean hours, and the p-value from the test described
+above.
+
+9.2.1.6  Number of Hours with Vasopressor Use
+The hypotheses of interest relating to the number of hours with vasopressor use are as follows:
+௖
+௖
+where ௧ and ௖ represent the mean number of hours in the ICU in the treatment and control
+groups, respectively. The treatment groups will be compared with respect to the mean hours
+using a two-sided two-sample t-test. Summary of this endpoint will include the mean, median,
+quartiles, minimum, maximum and standard deviation of hours for each treatment arm, a 95%
+confidence interval for the difference in the two treatment arm mean hours, and the p-value from
+the test described above.
+9.2.2 NOT FOR FORMAL TESTING
+9.2.2.1  Incidence of Treatment Emergent Adverse Events (AE)
+A Treatment Emergent Adverse Event (TEAE) is one that started or worsened in severity during
+or after randomized treatment was attempted. The number and percentage of patients with
+incidence of at least one TEAE will be summarized by treatment arm in a table. The summary
+will include the number and percent of subjects experiencing one or more AEs cumulatively up
+to 72 hours, one week, and 30 days. Though no formal hypothesis tests are planned, 95%
+confidence intervals for the difference in rates between the two arms at each time point will be
+completed and included using the normal approximation to the binomial distribution.
+
+The analysis will be repeated for serious TEAS. In addition, the number and percentage of
+patients with at least one TEAEs will be presented by severity and relationship to study
+procedure; patients with more than one TEAE will be categorized according to the maximum
+severity and maximum relationship experienced.
+
+9.2.2.2  Number of ICU Readmissions
+The number of ICU readmissions through 30 days will be summarized by treatment arm in a
+table. The summary will include the number and percent of subjects with 0, 1, or >1 ICU
+readmissions. Though no formal hypothesis tests are planned, 95% confidence intervals for the
+difference in rates between the two arms will be completed and included using the normal
+approximation to the binomial distribution or Wilson method (if an observed rate is less than
+10% in any treatment group).
+
+[PDF_PAGE 18]
+
+Rev. A  Page 18 of 20
+
+9.2.2.3  Mortality Rate
+The mortality rate will be summarized by treatment arm in a table. The summary will include the
+number and percent of subjects who died by arm; Kaplan-Meier mortality curves will be
+presented for each treatment group. Though no formal hypothesis tests are planned, 95%
+confidence intervals for the difference in rates between the two arms will be completed and
+included using the normal approximation to the binomial distribution or Wilson method (if an
+observed rate is less than 10% in any treatment group).
+
+9.2.2.4  Volume of Treatment Fluid
+The volume of treatment fluid will be summarized by treatment arm in a table. The summary
+will include the mean, standard deviation, median, minimum and maximum by arm. Though no
+formal hypothesis tests are planned, 95% confidence intervals for the difference in means
+between the two arms will be completed and included.
+
+9.2.2.5  Incidence of Major Adverse Cardiac Event (MACE)
+The incidence of MACE through to 72 hours, one week, and 30 days will be summarized by
+treatment arm in a table. The summary will include the number and percent of subjects by arm
+by category. Though no formal hypothesis tests are planned, 95% confidence intervals for the
+difference in rates between the two arms will be completed and included using the normal
+approximation to the binomial distribution or Wilson method (if an observed rate is less than
+10% in any treatment group). Kaplan-Meier curves of time to first component of MACE will be
+presented by treatment group.
+
+9.2.2.6  Discharge Location
+The discharge location will be summarized by treatment arm in a table. The summary will
+include the number and percent of subjects by arm by category. Though no formal hypothesis
+tests are planned, 95% confidence intervals for the difference in rates between the two arms will
+be completed and included using the normal approximation to the binomial distribution or
+Wilson method (if an observed rate is less than 10% in any treatment group).
+
+9.2.2.7  Fluid Balance at ICU discharge
+The fluid balance at ICU discharge will be summarized by treatment arm in a table. The
+summary will include the mean, standard deviation, median, quartiles, minimum and maximum
+by arm. Though no formal hypothesis tests are planned, 95% confidence intervals for the
+difference in means between the two arms will be completed and included.
+
+[PDF_PAGE 19]
+
+Rev. A  Page 19 of 20
+
+10 ADVERSE EVENTS
+All adverse events (AEs) will be coded using the standardized Medical Dictionary for
+Regulatory Activities (MedDRA) central coding dictionary, version 19.1 or greater. Adverse
+event analyses will be performed on the mITT and Safety analysis populations.
+10.1 ALL TREATMENT EMERGENT ADVERSE EVENTS
+The number of TEAEs and the number and percentage of patients with at least one TEAE, with
+at least one device-related TEAE, with at least one serious TEAE and with at least one device-
+related TEAE will be presented by treatment group. These summaries will be presented for
+TEAEs occurring from start of treatment through 72 hours, from 72 hours through Discharge,
+from Discharge through 30 days, and from the start of treatment through 30 days.
+
+The number of TEAEs and the number and percentage of patients with at least one TEAE will be
+presented for each treatment group by MedDRA system organ class and preferred term. This
+analysis will be repeated for serious TEAEs (collected through 72 hours only), device-related
+TEAEs, and AEs leading to withdrawal from the study.
+
+In addition, the by-treatment number and percentage of patients with at least one TEAEs will be
+presented by severity and relationship to study procedure within each system organ class and
+preferred term; patients with more than one TEAE within a given system organ class and
+preferred term will be categorized according to the maximum severity and maximum relationship
+experienced.
+
+A listing of all adverse events will include the subject number, AE number, days since index
+procedure, the AE SOC and PT, the severity of AE, whether the AE is classified as serious
+(SAE), the relationship of the AE to the investigational device or procedure, the action taken, the
+outcome, and the adjudication status.
+10.2 LABORATORY VALUES AND VITAL SIGNS
+
+Descriptive statistics of each laboratory value and vital sign and of the change from baseline for
+each will be presented at each post-baseline visit at which they are measured. Descriptive
+statistics to be presented are mean, standard deviation, median, minimum, and maximum.
+10.3 DEATHS
+In addition to the secondary endpoint analysis, should any subjects die during the FRESH study,
+relevant information will be supplied in a data listing.
+
+[PDF_PAGE 20]
+
+Rev. A  Page 20 of 20
+
+11 REPORTING CONVENTIONS
+All reporting will meet the standards of  SO P BS002 and its associated work instructions.

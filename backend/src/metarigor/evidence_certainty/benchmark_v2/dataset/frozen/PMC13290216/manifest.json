@@ -1,0 +1,79 @@
+{
+  "article": {
+    "doi": "10.1097/AS9.0000000000000656",
+    "license_text": "This is an open access article distributed under the Creative Commons Attribution License 4.0 (CCBY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "pmcid": "PMC13290216",
+    "pmid": "42344447",
+    "title": "Minimally Invasive Versus Open Pancreatoduodenectomy: A Systematic Review and Meta-Analysis of Randomized Controlled Trials"
+  },
+  "candidate": {
+    "line_count": 104,
+    "path": "frozen/PMC13290216/candidate.txt",
+    "sha256": "f3095b3be0a39eb62db7a62474069eb384ae04ff65cbe547509265563b3576a1"
+  },
+  "external_comparator": {
+    "path": "frozen/PMC13290216/external-comparator.txt",
+    "removed_node_count": 10,
+    "sha256": "e3c05007d704410f3fe69cc69dd9d014d04bd5964ddcf52b0af722d494dcefe5"
+  },
+  "freezer": {
+    "id": "metarigor-ec-review-jats-freezer",
+    "version": "1.1.0"
+  },
+  "raw_source": {
+    "path": "sources/PMC13290216.xml",
+    "sha256": "a79369a4212bdacdd26e30b3fbf27e46ac4a890704d1a237066095bee9a68be1"
+  },
+  "redacted_evidence_tables": [
+    {
+      "node_id": "T4",
+      "row_count": 14
+    }
+  ],
+  "removed_nodes": [
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "sec"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": null,
+      "tag": "p"
+    },
+    {
+      "node_id": "T4",
+      "tag": "table-wrap"
+    }
+  ],
+  "retrieved_on": "2026-08-31",
+  "schema_version": "1.0.0",
+  "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=PMC13290216&retmode=xml"
+}

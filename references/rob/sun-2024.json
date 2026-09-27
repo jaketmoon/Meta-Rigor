@@ -1,0 +1,2891 @@
+{
+  "case_id": "sun-2024",
+  "targets": [
+    {
+      "study_key": "cheng",
+      "target_id": "result.postoperative_delirium",
+      "domains": [
+        {
+          "domain": "D1",
+          "questions": [
+            {
+              "question_id": "1.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告明确使用计算机生成、四人区组的随机数表。 B：使用计算机生成随机数表、四人区组、1:1 分配。",
+              "anchors": [
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 7893,
+                  "end_offset": 8000,
+                  "exact_text": "Randomization was performed on a 1:1 ratio using a computer-generated random number table in blocks of four"
+                },
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 7893,
+                  "end_offset": 8035,
+                  "exact_text": "Randomization was performed on a 1:1 ratio using a computer-generated random number table in blocks of four and then concealed in an envelope."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.2",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：随机分配装入信封，支持 concealment，但未说明信封是否依序编号、不透明和密封，因此只判 probably yes。 B：论文明确称分配被置于信封中隐藏；虽未说明连续编号、不透明和密封，仍较支持分配前隐藏。",
+              "anchors": [
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 8005,
+                  "end_offset": 8035,
+                  "exact_text": "then concealed in an envelope."
+                },
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 7893,
+                  "end_offset": 8035,
+                  "exact_text": "Randomization was performed on a 1:1 ratio using a computer-generated random number table in blocks of four and then concealed in an envelope."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告明确称两组基线特征相似。 B：报告称两组基线特征相似，未出现提示随机化异常的差异模式。",
+              "anchors": [
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 15714,
+                  "end_offset": 15774,
+                  "exact_text": "Baseline characteristics were similar between the two groups"
+                },
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 15714,
+                  "end_offset": 15785,
+                  "exact_text": "Baseline characteristics were similar between the two groups (Table 1)."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D2",
+          "questions": [
+            {
+              "question_id": "2.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告明确参与者对分组盲法。 B：论文明确参与者对研究分组设盲。",
+              "anchors": [
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 8382,
+                  "end_offset": 8457,
+                  "exact_text": "Participants and outcome assessors were blinded to study-group assignments."
+                },
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 8111,
+                  "end_offset": 8457,
+                  "exact_text": "In the usual care group, the cerebral oximetry and BIS monitoring screens were electronically blinded and anesthesiologists relied on standard monitoring for management. For both groups, the rScO2 and BIS data were stored on a dedicated computer for consequent analysis. Participants and outcome assessors were blinded to study-group assignments."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：干预组麻醉医师必须执行个体化 GDT，而 usual-care 显示屏被遮蔽，因此实施治疗者知道功能性分组。 B：干预组由麻醉医师执行目标导向算法，而对照组屏幕被电子遮蔽并按标准管理，实施者能够识别分组。",
+              "anchors": [
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 9338,
+                  "end_offset": 9446,
+                  "exact_text": "In the individualized GDT group, interventions were performed by the anesthesiologist in the operating room."
+                },
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 8111,
+                  "end_offset": 8212,
+                  "exact_text": "In the usual care group, the cerebral oximetry and BIS monitoring screens were electronically blinded"
+                },
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 8111,
+                  "end_offset": 8457,
+                  "exact_text": "In the usual care group, the cerebral oximetry and BIS monitoring screens were electronically blinded and anesthesiologists relied on standard monitoring for management. For both groups, the rScO2 and BIS data were stored on a dedicated computer for consequent analysis. Participants and outcome assessors were blinded to study-group assignments."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.3",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "按方案偏离而被排除不能证明偏离由试验情境产生；来源没有描述偏离内容，保留信息不足。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f"
+                },
+                {
+                  "document_key": "cheng.registry.ctgov",
+                  "source_sha256": "23527b11db15d64d40b5f082bbf807f229a09233aee11b3d53bfc651312d8d59",
+                  "representation_sha256": "f73677c9d06c1c993b9e9606d55cd45a9fa107b4f19d856c50fde3cdb46de9ca"
+                }
+              ]
+            },
+            {
+              "question_id": "2.4",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：来源未说明 protocol deviations 的具体性质，不能判断其是否可能影响术后谵妄。 B：具体偏离及其试验情境因果均未报告，无法判断这些偏离是否可能影响谵妄结果。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f"
+                },
+                {
+                  "document_key": "cheng.registry.ctgov",
+                  "source_sha256": "23527b11db15d64d40b5f082bbf807f229a09233aee11b3d53bfc651312d8d59",
+                  "representation_sha256": "f73677c9d06c1c993b9e9606d55cd45a9fa107b4f19d856c50fde3cdb46de9ca"
+                }
+              ]
+            },
+            {
+              "question_id": "2.5",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：未按随机组报告 protocol deviations 的数量和性质，无法判断是否平衡。 B：报告未按随机组说明方案偏离的类型与人数，无法判断偏离是否平衡。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f"
+                },
+                {
+                  "document_key": "cheng.registry.ctgov",
+                  "source_sha256": "23527b11db15d64d40b5f082bbf807f229a09233aee11b3d53bfc651312d8d59",
+                  "representation_sha256": "f73677c9d06c1c993b9e9606d55cd45a9fa107b4f19d856c50fde3cdb46de9ca"
+                }
+              ]
+            },
+            {
+              "question_id": "2.6",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：所谓 modified ITT 排除了 missing data 和 protocol deviations，仅分析 128/146 随机化患者，不是完整的 assignment-effect analysis。 B：mITT 仅纳入至少一次主要结局基线后测量者，并排除 missing data 与 protocol deviations，不是完整的 assignment-effect 分析。",
+              "anchors": [
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 13489,
+                  "end_offset": 13541,
+                  "exact_text": "A modified intention-to-treat analysis was conducted"
+                },
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 13652,
+                  "end_offset": 13718,
+                  "exact_text": "with exclusions for missing data and deviations from the protocol."
+                },
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 13489,
+                  "end_offset": 13718,
+                  "exact_text": "A modified intention-to-treat analysis was conducted, including all randomized participants who had at least one post-baseline measurement of the primary outcome, with exclusions for missing data and deviations from the protocol."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.7",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：18/146（12.3%）随机化患者被排除，而谵妄效应接近统计边界，排除足以潜在实质改变结果。 B：146 名随机化者仅 128 名进入分析（缺失 12.3%），且缺失/方案偏离分组与结局均未交代，足以对 18/65 对 28/63 的结果产生潜在实质影响。",
+              "anchors": [
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 15442,
+                  "end_offset": 15555,
+                  "exact_text": "146 patients were ultimately enrolled and randomized. Data on the primary outcome were available for 128 patients"
+                },
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 24436,
+                  "end_offset": 24494,
+                  "exact_text": "| Delirium | 18 (28) | 28 (44) | 0.07 | 0.65 (0.39-1.01) |"
+                },
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 15383,
+                  "end_offset": 15713,
+                  "exact_text": "A total of 286 patients were screened for eligibility, and 146 patients were ultimately enrolled and randomized. Data on the primary outcome were available for 128 patients (65 patients in the individualized GDT group and 63 patients in the usual care group) and were included in the modified intention-to-treat analysis (Fig. 1)."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "HIGH"
+        },
+        {
+          "domain": "D3",
+          "questions": [
+            {
+              "question_id": "3.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：仅 128/146（87.7%）随机化患者进入结果分析，明显不是 all or nearly all。 B：仅 128/146（87.7%）随机化者有结果并纳入，显然不是全部或近乎全部。",
+              "anchors": [
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 15442,
+                  "end_offset": 15555,
+                  "exact_text": "146 patients were ultimately enrolled and randomized. Data on the primary outcome were available for 128 patients"
+                },
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 15383,
+                  "end_offset": 15713,
+                  "exact_text": "A total of 286 patients were screened for eligibility, and 146 patients were ultimately enrolled and randomized. Data on the primary outcome were available for 128 patients (65 patients in the individualized GDT group and 63 patients in the usual care group) and were included in the modified intention-to-treat analysis (Fig. 1)."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.2",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "约 12.3% 缺失且无 result-specific 敏感性分析，较支持 probably no，但不足以作绝对 no。",
+              "anchors": [
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 13652,
+                  "end_offset": 13718,
+                  "exact_text": "with exclusions for missing data and deviations from the protocol."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.3",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：缺失同时包括 missing data 与 protocol deviations；在没有原因分解的情况下，缺失可能与术后状态及谵妄真实值相关。 B：缺失原因含 protocol deviations 且未提供分组、原因或结局；在复杂围术期干预中，缺失可能与并发症/谵妄真实值相关。",
+              "anchors": [
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 13652,
+                  "end_offset": 13718,
+                  "exact_text": "with exclusions for missing data and deviations from the protocol."
+                },
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 13489,
+                  "end_offset": 13718,
+                  "exact_text": "A modified intention-to-treat analysis was conducted, including all randomized participants who had at least one post-baseline measurement of the primary outcome, with exclusions for missing data and deviations from the protocol."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.4",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：没有被排除者的原因分层、组别分布或谵妄风险资料，无法判断真实值依赖是否 likely。 B：缺少 18 名排除者的组别、具体原因和预后，无法确定真实谵妄值依赖是否很可能发生。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f"
+                },
+                {
+                  "document_key": "cheng.registry.ctgov",
+                  "source_sha256": "23527b11db15d64d40b5f082bbf807f229a09233aee11b3d53bfc651312d8d59",
+                  "representation_sha256": "f73677c9d06c1c993b9e9606d55cd45a9fa107b4f19d856c50fde3cdb46de9ca"
+                }
+              ]
+            }
+          ],
+          "judgment": "HIGH"
+        },
+        {
+          "domain": "D4",
+          "questions": [
+            {
+              "question_id": "4.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告使用 DSM 标准并由精神科医师诊断谵妄，属于合适的测量方法。 B：谵妄按 DSM 标准并由精神科医师诊断，是适当的临床测量方法。",
+              "anchors": [
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 12864,
+                  "end_offset": 12984,
+                  "exact_text": "delirium (defined by the Diagnostic and Statistical Manual of Mental Disorders criteria and diagnosed by a psychiatrist)"
+                },
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 12840,
+                  "end_offset": 13139,
+                  "exact_text": "Secondary outcomes were delirium (defined by the Diagnostic and Statistical Manual of Mental Disorders criteria and diagnosed by a psychiatrist), acute kidney injury, venous thromboembolism, tachyarrhythmia, bradyarrhythmia, and the lengths of ICU and hospital stay, as defined by Osawa et al. [21]."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：同一 DSM/psychiatrist 定义作为研究结局适用于两组，没有差异化测量证据。 B：同一 DSM/精神科诊断定义用于两随机组，没有组别特异测量方式。",
+              "anchors": [
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 12864,
+                  "end_offset": 12984,
+                  "exact_text": "delirium (defined by the Diagnostic and Statistical Manual of Mental Disorders criteria and diagnosed by a psychiatrist)"
+                },
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 12840,
+                  "end_offset": 13139,
+                  "exact_text": "Secondary outcomes were delirium (defined by the Diagnostic and Statistical Manual of Mental Disorders criteria and diagnosed by a psychiatrist), acute kidney injury, venous thromboembolism, tachyarrhythmia, bradyarrhythmia, and the lengths of ICU and hospital stay, as defined by Osawa et al. [21]."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告明确 outcome assessors 对分组盲法。 B：论文明确 outcome assessors 对研究分组设盲。",
+              "anchors": [
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 8382,
+                  "end_offset": 8457,
+                  "exact_text": "Participants and outcome assessors were blinded to study-group assignments."
+                },
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 8111,
+                  "end_offset": 8457,
+                  "exact_text": "In the usual care group, the cerebral oximetry and BIS monitoring screens were electronically blinded and anesthesiologists relied on standard monitoring for management. For both groups, the rScO2 and BIS data were stored on a dedicated computer for consequent analysis. Participants and outcome assessors were blinded to study-group assignments."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.4",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "4.4 是评估者若知晓分组时的反事实问题；精神科临床诊断含判断空间，理论上可以受影响。",
+              "anchors": [
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 12840,
+                  "end_offset": 13139,
+                  "exact_text": "Secondary outcomes were delirium (defined by the Diagnostic and Statistical Manual of Mental Disorders criteria and diagnosed by a psychiatrist), acute kidney injury, venous thromboembolism, tachyarrhythmia, bradyarrhythmia, and the lengths of ICU and hospital stay, as defined by Osawa et al. [21]."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.5",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：结局评估者盲法且采用 DSM 标准，没有证据表明实际评估受到分组知识影响。 B：结果评估者明确设盲，因此实际由分组知识影响诊断的可能性很低。",
+              "anchors": [
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 8382,
+                  "end_offset": 8457,
+                  "exact_text": "Participants and outcome assessors were blinded to study-group assignments."
+                },
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 8111,
+                  "end_offset": 8457,
+                  "exact_text": "In the usual care group, the cerebral oximetry and BIS monitoring screens were electronically blinded and anesthesiologists relied on standard monitoring for management. For both groups, the rScO2 and BIS data were stored on a dedicated computer for consequent analysis. Participants and outcome assessors were blinded to study-group assignments."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D5",
+          "questions": [
+            {
+              "question_id": "5.1",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：registry 预列谵妄，但没有 result-specific 分析方案；报告中的 modified ITT 与排除规则未在可核验 registry 记录中预先固定。 B：登记晚于研究实际开始，且登记预设 CAM、术后第 1–3 天，而论文采用 DSM/精神科诊断；该结果并非明显按同一预设测量与分析计划生成。",
+              "anchors": [
+                {
+                  "document_key": "cheng.registry.ctgov",
+                  "source_sha256": "23527b11db15d64d40b5f082bbf807f229a09233aee11b3d53bfc651312d8d59",
+                  "representation_sha256": "f73677c9d06c1c993b9e9606d55cd45a9fa107b4f19d856c50fde3cdb46de9ca",
+                  "start_offset": 7017,
+                  "end_offset": 7066,
+                  "exact_text": "The change of incidence of postoperative delirium"
+                },
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 13489,
+                  "end_offset": 13541,
+                  "exact_text": "A modified intention-to-treat analysis was conducted"
+                },
+                {
+                  "document_key": "cheng.registry.ctgov",
+                  "source_sha256": "23527b11db15d64d40b5f082bbf807f229a09233aee11b3d53bfc651312d8d59",
+                  "representation_sha256": "f73677c9d06c1c993b9e9606d55cd45a9fa107b4f19d856c50fde3cdb46de9ca",
+                  "start_offset": 7095,
+                  "end_offset": 7189,
+                  "exact_text": "Through Confusion Assessment Method (CAM)to assess the incidence of the postoperative delirium"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.2",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：registry 预设 CAM 且观察术后第 1、2、3 日，报告改以 DSM/psychiatrist 定义且未给相同时间窗，显示存在多个 eligible measurements。 B：注册结局使用 CAM 且限定术后第 1–3 天，论文改为 DSM/精神科诊断而未说明同一时间窗，存在从多个合格谵妄测量定义中选择该数值的可能。",
+              "anchors": [
+                {
+                  "document_key": "cheng.registry.ctgov",
+                  "source_sha256": "23527b11db15d64d40b5f082bbf807f229a09233aee11b3d53bfc651312d8d59",
+                  "representation_sha256": "f73677c9d06c1c993b9e9606d55cd45a9fa107b4f19d856c50fde3cdb46de9ca",
+                  "start_offset": 7095,
+                  "end_offset": 7189,
+                  "exact_text": "Through Confusion Assessment Method (CAM)to assess the incidence of the postoperative delirium"
+                },
+                {
+                  "document_key": "cheng.registry.ctgov",
+                  "source_sha256": "23527b11db15d64d40b5f082bbf807f229a09233aee11b3d53bfc651312d8d59",
+                  "representation_sha256": "f73677c9d06c1c993b9e9606d55cd45a9fa107b4f19d856c50fde3cdb46de9ca",
+                  "start_offset": 7216,
+                  "end_offset": 7243,
+                  "exact_text": "The 1,2,3 day after surgery"
+                },
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f",
+                  "start_offset": 12864,
+                  "end_offset": 12984,
+                  "exact_text": "delirium (defined by the Diagnostic and Statistical Manual of Mental Disorders criteria and diagnosed by a psychiatrist)"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：缺少可核验的 result-specific SAP，无法判断在不同模型、协变量或 analysis population 中是否按结果选择。 B：没有冻结的揭盲前 SAP 或该谵妄结果全部候选分析，无法判断是否从多个合格分析中择取。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "cheng.fulltext",
+                  "source_sha256": "22b17e7578ee2ef246f4a08350b35f2eeed186804922960eaf7a3f2582d224d6",
+                  "representation_sha256": "9777bbea5153ff48f0ed44697ce3b7df49e1e6983f3f3dae071f1bfc9e5c0c8f"
+                },
+                {
+                  "document_key": "cheng.registry.ctgov",
+                  "source_sha256": "23527b11db15d64d40b5f082bbf807f229a09233aee11b3d53bfc651312d8d59",
+                  "representation_sha256": "f73677c9d06c1c993b9e9606d55cd45a9fa107b4f19d856c50fde3cdb46de9ca"
+                }
+              ]
+            }
+          ],
+          "judgment": "HIGH"
+        }
+      ],
+      "overall_judgment": "HIGH"
+    },
+    {
+      "study_key": "colak",
+      "target_id": "result.postoperative_delirium",
+      "domains": [
+        {
+          "domain": "D1",
+          "questions": [
+            {
+              "question_id": "1.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告明确说明使用计算机随机数生成器产生分配序列。 B：论文明确报告使用计算机随机数生成器分配，属于随机序列。",
+              "anchors": [
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 8110,
+                  "end_offset": 8233,
+                  "exact_text": "All patients were randomly assigned into the INVOS group or the CONTROL group using a computerized random number generator."
+                },
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 8110,
+                  "end_offset": 8376,
+                  "exact_text": "All patients were randomly assigned into the INVOS group or the CONTROL group using a computerized random number generator. After informed consent was obtained, an enclosed assignment in a sequentially numbered, opaque, sealed envelope was allocated to each patient."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：分配装入依序编号、不透明、密封信封，并在手术室才开启，支持分配隐藏。 B：分配在取得同意后置于连续编号、不透明、密封信封，并在手术室由麻醉医师开启，支持分配前隐藏。",
+              "anchors": [
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 8271,
+                  "end_offset": 8376,
+                  "exact_text": "an enclosed assignment in a sequentially numbered, opaque, sealed envelope was allocated to each patient."
+                },
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 8110,
+                  "end_offset": 8376,
+                  "exact_text": "All patients were randomly assigned into the INVOS group or the CONTROL group using a computerized random number generator. After informed consent was obtained, an enclosed assignment in a sequentially numbered, opaque, sealed envelope was allocated to each patient."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.3",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：虽然多数基线变量相近，但控制组中年龄不低于 65 岁者明显更多，且作者承认该差异可能影响结局；这是具有预后意义的基线不平衡。 B：尽管连续年龄比较未显著，≥65 岁这一重要谵妄预后因素在对照组明显更多（48 对 30）；该方向性且临床相关的不平衡提示随机化过程可能存在问题，但不足以确定。",
+              "anchors": [
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 30700,
+                  "end_offset": 30942,
+                  "exact_text": "there were signi fi cantly more patients ( n = 48) in the age range of ≥ 65 years in the CONTROL group compared with the INVOS group ( n = 30), which could have also had an impact on higher incidence of cognitive decline in the CONTROL group."
+                },
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 30545,
+                  "end_offset": 30942,
+                  "exact_text": "Furthermore, although statistically signi fi cant differences between groups in regard to age were not found (continuous data), categorical data show that there were signi fi cantly more patients ( n = 48) in the age range of ≥ 65 years in the CONTROL group compared with the INVOS group ( n = 30), which could have also had an impact on higher incidence of cognitive decline in the CONTROL group."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        },
+        {
+          "domain": "D2",
+          "questions": [
+            {
+              "question_id": "2.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告明确说明参与者不知道分组。 B：论文明确说明患者对分组设盲。",
+              "anchors": [
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 8817,
+                  "end_offset": 8868,
+                  "exact_text": "Patients were also blinded to the allocation group."
+                },
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 8532,
+                  "end_offset": 8868,
+                  "exact_text": "The anaesthesiologists who performed anaesthesia and interventional protocol for maintaining of cerebral oxygenation were involved neither in data collection nor in cognitive test results of patients. Investigators who performed cognitive tests were blinded to patient ' s allocation. Patients were also blinded to the allocation group."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：麻醉医师需要执行仅用于干预组的脑氧维持方案，因此干预实施者知道分组。 B：实施脑氧干预方案的麻醉医师必然接触分组与显示信息；论文同时说明这些麻醉医师不参与数据收集，表明其在治疗实施阶段知晓分组。",
+              "anchors": [
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 8532,
+                  "end_offset": 8648,
+                  "exact_text": "The anaesthesiologists who performed anaesthesia and interventional protocol for maintaining of cerebral oxygenation"
+                },
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 8532,
+                  "end_offset": 8868,
+                  "exact_text": "The anaesthesiologists who performed anaesthesia and interventional protocol for maintaining of cerebral oxygenation were involved neither in data collection nor in cognitive test results of patients. Investigators who performed cognitive tests were blinded to patient ' s allocation. Patients were also blinded to the allocation group."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "两组基础麻醉相同，排除源于术中手术计划改变；现有材料更支持没有试验情境诱发的干预偏离。",
+              "anchors": [
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 6931,
+                  "end_offset": 7116,
+                  "exact_text": "All patients received the same anaesthesia protocol, including premedication with intramuscular morphine 0.1 mg/kg and induction with midazolam, hypnomidate, sufentanyl and pancuronium."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.4",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：未识别出性质明确的 intended-intervention deviation，因而来源不能判断其是否影响术后谵妄。 B：未识别到因试验情境产生的偏离，故来源不能评价假定偏离对该谵妄结果的影响。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d"
+                },
+                {
+                  "document_key": "colak.registry",
+                  "source_sha256": "6e013e5f947d6bce4eb4cf7c39398ca7c709ce94e22645ddce5bca70feb031d6",
+                  "representation_sha256": "605635fc0af546f7543d3e04c13ec8aadc66b5af6169b278e5f170095958b0b8"
+                },
+                {
+                  "document_key": "colak.registry.ctgov",
+                  "source_sha256": "24cff6c3aedc62a717ce3c9d4cf48317a7684c70ebe4c5007a4f66eab384d153",
+                  "representation_sha256": "2373c52637f2b2a0e5209aab7a2c4d1c2799d3086a5809d35821daf4a536be1b"
+                }
+              ]
+            },
+            {
+              "question_id": "2.5",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：来源没有按随机组报告 intended-intervention deviation 的性质与分布。 B：未识别到适用的试验情境偏离，来源不足以评价其组间平衡。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d"
+                },
+                {
+                  "document_key": "colak.registry",
+                  "source_sha256": "6e013e5f947d6bce4eb4cf7c39398ca7c709ce94e22645ddce5bca70feb031d6",
+                  "representation_sha256": "605635fc0af546f7543d3e04c13ec8aadc66b5af6169b278e5f170095958b0b8"
+                },
+                {
+                  "document_key": "colak.registry.ctgov",
+                  "source_sha256": "24cff6c3aedc62a717ce3c9d4cf48317a7684c70ebe4c5007a4f66eab384d153",
+                  "representation_sha256": "2373c52637f2b2a0e5209aab7a2c4d1c2799d3086a5809d35821daf4a536be1b"
+                }
+              ]
+            },
+            {
+              "question_id": "2.6",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：200 人随机化，但谵妄结果仅使用 94 与 96 人，未保留全部随机化参与者，不能视为完整的 assignment-effect analysis。 B：200 名随机化受试者中有 10 名因未接受计划手术而未纳入分析；该 available-case 分析不是完整的 assignment-effect 分析。",
+              "anchors": [
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 14817,
+                  "end_offset": 14895,
+                  "exact_text": "We enrolled 100 patients per group due to the potential loss in the follow-up."
+                },
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 16769,
+                  "end_offset": 16784,
+                  "exact_text": "INVOS ( n = 94)"
+                },
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 16787,
+                  "end_offset": 16804,
+                  "exact_text": "Control ( n = 96)"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.7",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：两组仅分别遗漏 6% 与 4%，规模较小且接近平衡，虽可能影响估计但不太可能造成 substantial impact。 B：排除人数较少且两组接近（对照 4、INVOS 6），理由为术中手术计划改变；对 8/94 对 13/96 的谵妄结果产生实质影响的可能性较低。",
+              "anchors": [
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 14817,
+                  "end_offset": 14895,
+                  "exact_text": "We enrolled 100 patients per group due to the potential loss in the follow-up."
+                },
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 16769,
+                  "end_offset": 16784,
+                  "exact_text": "INVOS ( n = 94)"
+                },
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 16787,
+                  "end_offset": 16804,
+                  "exact_text": "Control ( n = 96)"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        },
+        {
+          "domain": "D3",
+          "questions": [
+            {
+              "question_id": "3.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "谵妄数据覆盖 190/200 随机化者且两组缺失接近，按该结局可视为 nearly all。",
+              "anchors": [
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 14817,
+                  "end_offset": 14895,
+                  "exact_text": "We enrolled 100 patients per group due to the potential loss in the follow-up."
+                },
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 16769,
+                  "end_offset": 16784,
+                  "exact_text": "INVOS ( n = 94)"
+                },
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 16787,
+                  "end_offset": 16804,
+                  "exact_text": "Control ( n = 96)"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.2",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：缺失比例低且两组接近平衡，支持结果不太可能因缺失谵妄数据而发生实质偏倚。 B：缺失由未接受计划 CABG 的术中计划改变造成，且两组人数接近；现有证据更支持该谵妄结果未因缺失而发生明显偏倚。",
+              "anchors": [
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 16769,
+                  "end_offset": 16784,
+                  "exact_text": "INVOS ( n = 94)"
+                },
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 16787,
+                  "end_offset": 16804,
+                  "exact_text": "Control ( n = 96)"
+                },
+                {
+                  "document_key": "colak.registry",
+                  "source_sha256": "6e013e5f947d6bce4eb4cf7c39398ca7c709ce94e22645ddce5bca70feb031d6",
+                  "representation_sha256": "605635fc0af546f7543d3e04c13ec8aadc66b5af6169b278e5f170095958b0b8",
+                  "start_offset": 13341,
+                  "end_offset": 13539,
+                  "exact_text": "Four participants in Control group and six participants in INVOS group were not analysed because they did not receive allocated surgical intervention (CABG), because intraoperative plan was changed."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：来源未给出针对谵妄结局缺失的具体原因，不能判断缺失是否依赖其真实值。 B：因 3.2 为肯定答案，固定算法会将本题标为不适用；完整来源也未给出被排除者的潜在谵妄值。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d"
+                },
+                {
+                  "document_key": "colak.registry",
+                  "source_sha256": "6e013e5f947d6bce4eb4cf7c39398ca7c709ce94e22645ddce5bca70feb031d6",
+                  "representation_sha256": "605635fc0af546f7543d3e04c13ec8aadc66b5af6169b278e5f170095958b0b8"
+                },
+                {
+                  "document_key": "colak.registry.ctgov",
+                  "source_sha256": "24cff6c3aedc62a717ce3c9d4cf48317a7684c70ebe4c5007a4f66eab384d153",
+                  "representation_sha256": "2373c52637f2b2a0e5209aab7a2c4d1c2799d3086a5809d35821daf4a536be1b"
+                }
+              ]
+            },
+            {
+              "question_id": "3.4",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：没有未完成者的谵妄风险或结局资料，无法判断真实值依赖是否 likely。 B：因 3.2 为肯定答案，固定算法会将本题标为不适用；来源不足以判断缺失是否依赖真实谵妄值。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d"
+                },
+                {
+                  "document_key": "colak.registry",
+                  "source_sha256": "6e013e5f947d6bce4eb4cf7c39398ca7c709ce94e22645ddce5bca70feb031d6",
+                  "representation_sha256": "605635fc0af546f7543d3e04c13ec8aadc66b5af6169b278e5f170095958b0b8"
+                },
+                {
+                  "document_key": "colak.registry.ctgov",
+                  "source_sha256": "24cff6c3aedc62a717ce3c9d4cf48317a7684c70ebe4c5007a4f66eab384d153",
+                  "representation_sha256": "2373c52637f2b2a0e5209aab7a2c4d1c2799d3086a5809d35821daf4a536be1b"
+                }
+              ]
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D4",
+          "questions": [
+            {
+              "question_id": "4.1",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "未报告标准化工具只能证明报告不足，不能据此肯定或推定测量方法不适当。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d"
+                },
+                {
+                  "document_key": "colak.registry",
+                  "source_sha256": "6e013e5f947d6bce4eb4cf7c39398ca7c709ce94e22645ddce5bca70feb031d6",
+                  "representation_sha256": "605635fc0af546f7543d3e04c13ec8aadc66b5af6169b278e5f170095958b0b8"
+                },
+                {
+                  "document_key": "colak.registry.ctgov",
+                  "source_sha256": "24cff6c3aedc62a717ce3c9d4cf48317a7684c70ebe4c5007a4f66eab384d153",
+                  "representation_sha256": "2373c52637f2b2a0e5209aab7a2c4d1c2799d3086a5809d35821daf4a536be1b"
+                }
+              ]
+            },
+            {
+              "question_id": "4.2",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告以同一段统一描述所有患者的神经学评估，没有显示两组使用不同的谵妄测量方法。 B：论文以同一套神经系统/神经心理结局记录描述两组，未报告组别特异的谵妄测量方式，差异测量较不可能。",
+              "anchors": [
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 12451,
+                  "end_offset": 12500,
+                  "exact_text": "Patients were assessed for neurological de fi cit"
+                },
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 12451,
+                  "end_offset": 12651,
+                  "exact_text": "Patients were assessed for neurological de fi cit presented as coma, stupor, transient ischaemic attack (TIA) or stroke and for the second group of neuropsychological de fi cits presented as delirium."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "来源只明确 cognitive-test investigators 盲法，没有把该事实可靠扩展到谵妄结局评估者。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d"
+                },
+                {
+                  "document_key": "colak.registry.ctgov",
+                  "source_sha256": "24cff6c3aedc62a717ce3c9d4cf48317a7684c70ebe4c5007a4f66eab384d153",
+                  "representation_sha256": "2373c52637f2b2a0e5209aab7a2c4d1c2799d3086a5809d35821daf4a536be1b"
+                }
+              ]
+            },
+            {
+              "question_id": "4.4",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "谵妄定义依赖混乱、激越、定向和警觉等临床判断，若知晓分组可以影响评估。",
+              "anchors": [
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d",
+                  "start_offset": 13108,
+                  "end_offset": 13269,
+                  "exact_text": "Delirium or encephalopathy is characterized by confusion, agitation, disorientation and decreased alertness, but without an obvious focal neurological de fi cit."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.5",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "谵妄评估者身份和实际知情状态未闭合，不能判断分组知识实际影响结局是否 likely。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d"
+                },
+                {
+                  "document_key": "colak.registry.ctgov",
+                  "source_sha256": "24cff6c3aedc62a717ce3c9d4cf48317a7684c70ebe4c5007a4f66eab384d153",
+                  "representation_sha256": "2373c52637f2b2a0e5209aab7a2c4d1c2799d3086a5809d35821daf4a536be1b"
+                }
+              ]
+            }
+          ],
+          "judgment": "HIGH"
+        },
+        {
+          "domain": "D5",
+          "questions": [
+            {
+              "question_id": "5.1",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "登记结局不等于揭盲前固定的 result-specific 分析计划；现有材料不足以确认分析预设。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d"
+                },
+                {
+                  "document_key": "colak.registry",
+                  "source_sha256": "6e013e5f947d6bce4eb4cf7c39398ca7c709ce94e22645ddce5bca70feb031d6",
+                  "representation_sha256": "605635fc0af546f7543d3e04c13ec8aadc66b5af6169b278e5f170095958b0b8"
+                },
+                {
+                  "document_key": "colak.registry.ctgov",
+                  "source_sha256": "24cff6c3aedc62a717ce3c9d4cf48317a7684c70ebe4c5007a4f66eab384d153",
+                  "representation_sha256": "2373c52637f2b2a0e5209aab7a2c4d1c2799d3086a5809d35821daf4a536be1b"
+                }
+              ]
+            },
+            {
+              "question_id": "5.2",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "PROBABLY_NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "登记已明确 7 日谵妄且报告窗口一致，降低从多个合格测量中按结果选择的可能。",
+              "anchors": [
+                {
+                  "document_key": "colak.registry.ctgov",
+                  "source_sha256": "24cff6c3aedc62a717ce3c9d4cf48317a7684c70ebe4c5007a4f66eab384d153",
+                  "representation_sha256": "2373c52637f2b2a0e5209aab7a2c4d1c2799d3086a5809d35821daf4a536be1b",
+                  "start_offset": 8554,
+                  "end_offset": 8814,
+                  "exact_text": "\"measure\": \"Evidence of Coma, Stupor, Cerebral Insult, Delirium, Ventilation Longer Than 24 Hours, Myocardial Infarction, Atrial Fibrillation, Dialysis, Reoperation for Bleeding, Infection, Hospital Stay > 7 Days\",\n          \"timeFrame\": \"7 postoperative days\""
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：缺少 SAP 或其他预先固定的谵妄分析细节，无法核对是否从多个 eligible analyses 中选择。 B：没有可核验的揭盲前 SAP 或该谵妄结果的全部候选分析，无法判断是否从多种合格分析中择取。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "colak.fulltext",
+                  "source_sha256": "7b836ea263112afb2e9c3b0e2253a341341b78145cba741dfe8a6733e2695359",
+                  "representation_sha256": "591707e10a8bebd75f9d976b18cbc428f225e9418fdcc9883b46dd40717ef95d"
+                },
+                {
+                  "document_key": "colak.registry",
+                  "source_sha256": "6e013e5f947d6bce4eb4cf7c39398ca7c709ce94e22645ddce5bca70feb031d6",
+                  "representation_sha256": "605635fc0af546f7543d3e04c13ec8aadc66b5af6169b278e5f170095958b0b8"
+                },
+                {
+                  "document_key": "colak.registry.ctgov",
+                  "source_sha256": "24cff6c3aedc62a717ce3c9d4cf48317a7684c70ebe4c5007a4f66eab384d153",
+                  "representation_sha256": "2373c52637f2b2a0e5209aab7a2c4d1c2799d3086a5809d35821daf4a536be1b"
+                }
+              ]
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        }
+      ],
+      "overall_judgment": "HIGH"
+    },
+    {
+      "study_key": "lei",
+      "target_id": "result.postoperative_delirium",
+      "domains": [
+        {
+          "domain": "D1",
+          "questions": [
+            {
+              "question_id": "1.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告明确说明使用计算机生成、四人区组的随机序列。 B：论文报告按计算机生成、四人区组的随机编码以 1:1 分配。",
+              "anchors": [
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 8878,
+                  "end_offset": 9024,
+                  "exact_text": "patients were randomly allocated to either interventional or control groups according to a computer-generated randomisation code in blocks of four"
+                },
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 8862,
+                  "end_offset": 9070,
+                  "exact_text": "Before surgery, patients were randomly allocated to either interventional or control groups according to a computer-generated randomisation code in blocks of four, aiming at subject allocation in a 1:1 ratio."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.2",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：全文与 registry 均未说明随机序列如何在入组和分配前隐藏。 B：论文与注册记录均未说明中心随机、信封或其他在入组与分配前隐藏序列的机制。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e"
+                },
+                {
+                  "document_key": "lei.registry.ctgov",
+                  "source_sha256": "e95f54937aa4d57f325032ba71bebde65ce5b38cd796ab32799c86c5952c3d75",
+                  "representation_sha256": "d810d0a767902f6415f11c877ddef29f8d7528864c6fa3470aa3e54e6fad8578"
+                }
+              ]
+            },
+            {
+              "question_id": "1.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告明确称两组基线、合并症和手术特征相似。 B：报告明确两组在基线特征、用药、合并症与手术特征方面相似，没有提示随机化异常的基线模式。",
+              "anchors": [
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 17052,
+                  "end_offset": 17188,
+                  "exact_text": "Both groups were similar with respect to baseline characteristics, pre-operative medications, comorbidities and surgical characteristics"
+                },
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 17052,
+                  "end_offset": 17199,
+                  "exact_text": "Both groups were similar with respect to baseline characteristics, pre-operative medications, comorbidities and surgical characteristics (Table 1)."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        },
+        {
+          "domain": "D2",
+          "questions": [
+            {
+              "question_id": "2.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "登记明确 participant masking，且双盲报告与遮蔽安排相符。",
+              "anchors": [
+                {
+                  "document_key": "lei.registry.ctgov",
+                  "source_sha256": "e95f54937aa4d57f325032ba71bebde65ce5b38cd796ab32799c86c5952c3d75",
+                  "representation_sha256": "d810d0a767902f6415f11c877ddef29f8d7528864c6fa3470aa3e54e6fad8578",
+                  "start_offset": 3216,
+                  "end_offset": 3227,
+                  "exact_text": "PARTICIPANT"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "干预组临床人员必须响应脑氧阈值，而对照屏幕被遮蔽，实施者会知道功能性分组。",
+              "anchors": [
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 10705,
+                  "end_offset": 10892,
+                  "exact_text": "In the control group, the cerebral oximetry monitor screen was electronically blinded. However, recording was continuous following veri fi cation of the signal strength and baseline value"
+                },
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 9530,
+                  "end_offset": 9630,
+                  "exact_text": "Interventions were commenced if the rScO2 value decreased below 75% of baseline for 1 min or longer."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.3",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "作者明确把未记录的恢复干预与临床优先事项冲突导致的方案不依从联系起来，较支持试验情境偏离。",
+              "anchors": [
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 40627,
+                  "end_offset": 41053,
+                  "exact_text": "The current study has several limitations. Restoration of rScO2 occurred without any documented interventions in 25% of patients in the operating room, and 68% of patients in ICU. This could have been related to non-compliance with the protocol, possibly due to con fl icting clinical priorities, or it is possible that the algorithm was followed but the interventions were not entered into the monitor, that is, not recorded."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.4",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "干预机制正是纠正脑氧下降，报告也指出未纠正可能增加 POD，因此偏离可能影响结局。",
+              "anchors": [
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 41661,
+                  "end_offset": 41803,
+                  "exact_text": "Furthermore, unsuccessful reversal of rScO2 could have potentially resulted in higher number of patients with POD in the interventional group."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.5",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "不依从发生在应执行恢复算法的干预路径，对照组本不执行该算法，较不可能组间平衡。",
+              "anchors": [
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 40627,
+                  "end_offset": 41053,
+                  "exact_text": "The current study has several limitations. Restoration of rScO2 occurred without any documented interventions in 25% of patients in the operating room, and 68% of patients in ICU. This could have been related to non-compliance with the protocol, possibly due to con fl icting clinical priorities, or it is possible that the algorithm was followed but the interventions were not entered into the monitor, that is, not recorded."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.6",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告明确称所有分析按 intention-to-treat 进行。 B：论文明确声明全部分析按 intention-to-treat 进行。",
+              "anchors": [
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 15157,
+                  "end_offset": 15216,
+                  "exact_text": "All analyses were performed on an intention-to-treat basis."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.7",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "250 人中仅一名干预组患者因术中死亡未进入术后谵妄分析，不足以对结果造成 substantial impact。",
+              "anchors": [
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 16798,
+                  "end_offset": 16864,
+                  "exact_text": "A total of 250 patients were randomly allocated, and 249 analysed."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "HIGH"
+        },
+        {
+          "domain": "D3",
+          "questions": [
+            {
+              "question_id": "3.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：谵妄数据覆盖 249/250 随机化患者。 B：249/250 名随机化受试者进入分析，仅一人在手术室死亡，谵妄数据接近全部。",
+              "anchors": [
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 16798,
+                  "end_offset": 16864,
+                  "exact_text": "A total of 250 patients were randomly allocated, and 249 analysed."
+                },
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 16798,
+                  "end_offset": 16932,
+                  "exact_text": "A total of 250 patients were randomly allocated, and 249 analysed. One patient from the intervention group died in the operating room."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：唯一缺失者为术中死亡，缺失量极小且原因明确。 B：唯一缺失发生于术中死亡、在谵妄可测量前，且比例为 1/250；现有证据支持结果不受缺失结局数据偏倚。",
+              "anchors": [
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 16865,
+                  "end_offset": 16932,
+                  "exact_text": "One patient from the intervention group died in the operating room."
+                },
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 16798,
+                  "end_offset": 16932,
+                  "exact_text": "A total of 250 patients were randomly allocated, and 249 analysed. One patient from the intervention group died in the operating room."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.3",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "PROBABLY_NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "唯一缺失源于观察窗前术中死亡，较不可能依赖本可观察的术后谵妄真实值。",
+              "anchors": [
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 16865,
+                  "end_offset": 16932,
+                  "exact_text": "One patient from the intervention group died in the operating room."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.4",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "术中死亡先于术后谵妄观察，不支持缺失实际依赖该结局真实值；不能以算法后续不适用代替 raw answer。",
+              "anchors": [
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 16865,
+                  "end_offset": 16932,
+                  "exact_text": "One patient from the intervention group died in the operating room."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D4",
+          "questions": [
+            {
+              "question_id": "4.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：使用 CAM-ICU/CAM，并报告了明确算法、频率和观察窗，适合测量术后谵妄。 B：CAM-ICU/CAM 是明确、结构化的谵妄测量方法，并按固定特征算法判定。",
+              "anchors": [
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 11558,
+                  "end_offset": 11673,
+                  "exact_text": "Assessment of delirium was performed pre-operatively (baseline) and postoperatively at 12-h intervals, or as needed"
+                },
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 11761,
+                  "end_offset": 11816,
+                  "exact_text": "using the confusion assessment method for ICU (CAM-ICU)"
+                },
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 11558,
+                  "end_offset": 11822,
+                  "exact_text": "Assessment of delirium was performed pre-operatively (baseline) and postoperatively at 12-h intervals, or as needed (if the patient ' s condition changed or antipsychotic medications were administered), using the confusion assessment method for ICU (CAM-ICU) [15]."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：相同 CAM-ICU/CAM 流程用于所有患者，没有分组差异化测量。 B：两组均按术前基线、术后每 12 小时或临床变化时的同一 CAM-ICU/CAM 计划评估，无组别特异测量。",
+              "anchors": [
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 12121,
+                  "end_offset": 12205,
+                  "exact_text": "The confusion assessment method was used for both ventilated and extubated patients."
+                },
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 11558,
+                  "end_offset": 11822,
+                  "exact_text": "Assessment of delirium was performed pre-operatively (baseline) and postoperatively at 12-h intervals, or as needed (if the patient ' s condition changed or antipsychotic medications were administered), using the confusion assessment method for ICU (CAM-ICU) [15]."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "登记明确 outcome-assessor masking，论文也说明测试人员不知道研究目标。",
+              "anchors": [
+                {
+                  "document_key": "lei.registry.ctgov",
+                  "source_sha256": "e95f54937aa4d57f325032ba71bebde65ce5b38cd796ab32799c86c5952c3d75",
+                  "representation_sha256": "d810d0a767902f6415f11c877ddef29f8d7528864c6fa3470aa3e54e6fad8578",
+                  "start_offset": 3300,
+                  "end_offset": 3317,
+                  "exact_text": "OUTCOMES_ASSESSOR"
+                },
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 12762,
+                  "end_offset": 12806,
+                  "exact_text": "They were not aware of the study objectives."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.4",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "CAM 虽结构化仍含精神状态和思维判断；4.4 的反事实条件下，知晓分组可以影响评估。",
+              "anchors": [
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 11558,
+                  "end_offset": 11822,
+                  "exact_text": "Assessment of delirium was performed pre-operatively (baseline) and postoperatively at 12-h intervals, or as needed (if the patient ' s condition changed or antipsychotic medications were administered), using the confusion assessment method for ICU (CAM-ICU) [15]."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.5",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：没有 assessor 知晓分组的证据，且测量标准化，因此不支持实际评估受到影响。 B：固定频次、结构化 CAM 算法和受训且不知研究目标的评估者，使实际受分组知识影响的可能性很低。",
+              "anchors": [
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 12762,
+                  "end_offset": 12806,
+                  "exact_text": "They were not aware of the study objectives."
+                },
+                {
+                  "document_key": "lei.registry.ctgov",
+                  "source_sha256": "e95f54937aa4d57f325032ba71bebde65ce5b38cd796ab32799c86c5952c3d75",
+                  "representation_sha256": "d810d0a767902f6415f11c877ddef29f8d7528864c6fa3470aa3e54e6fad8578",
+                  "start_offset": 3300,
+                  "end_offset": 3317,
+                  "exact_text": "OUTCOMES_ASSESSOR"
+                },
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 12633,
+                  "end_offset": 12806,
+                  "exact_text": "The CAM-ICU and CAM testers were research assistants who were trained and had been performing these tests for a number of years. They were not aware of the study objectives."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D5",
+          "questions": [
+            {
+              "question_id": "5.1",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "PROBABLY_YES",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "登记在研究完成前固定主要谵妄结局和窗口，报告采用相应两组比例比较，较支持预设。",
+              "anchors": [
+                {
+                  "document_key": "lei.registry.ctgov",
+                  "source_sha256": "e95f54937aa4d57f325032ba71bebde65ce5b38cd796ab32799c86c5952c3d75",
+                  "representation_sha256": "d810d0a767902f6415f11c877ddef29f8d7528864c6fa3470aa3e54e6fad8578",
+                  "start_offset": 5526,
+                  "end_offset": 5585,
+                  "exact_text": "Number of patients who suffer from delirium postoperatively"
+                },
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 14696,
+                  "end_offset": 14817,
+                  "exact_text": "For the primary outcome of delirium, the two groups were compared with the Chi-square test for differences in proportions"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.2",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "登记固定单一主要谵妄结局、CAM-ICU 和 7 日窗口，论文报告与其一致。",
+              "anchors": [
+                {
+                  "document_key": "lei.registry.ctgov",
+                  "source_sha256": "e95f54937aa4d57f325032ba71bebde65ce5b38cd796ab32799c86c5952c3d75",
+                  "representation_sha256": "d810d0a767902f6415f11c877ddef29f8d7528864c6fa3470aa3e54e6fad8578",
+                  "start_offset": 5614,
+                  "end_offset": 5756,
+                  "exact_text": "Delirium assessment CAM-ICU preoperatively (baseline) and postoperatively once a day during the first 7 postoperative days or until discharge."
+                },
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 11953,
+                  "end_offset": 12048,
+                  "exact_text": "Patients were assessed for delirium for the fi rst seven postoperative days or until discharge."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.3",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "PROBABLY_NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "主要结局使用直接的预期 2×2 比例比较，未发现竞争性主要分析，较不支持按结果选择分析。",
+              "anchors": [
+                {
+                  "document_key": "lei.fulltext",
+                  "source_sha256": "f0ce958ea9e5e9414c3d200d3e231e85d343f7d044985b7d053458433463afaf",
+                  "representation_sha256": "154d731943200db55ce2f789b5f0c579522e4c41753b9520ea50dbd2ec888e7e",
+                  "start_offset": 14733,
+                  "end_offset": 14847,
+                  "exact_text": "the two groups were compared with the Chi-square test for differences in proportions in a 2 9 2 contingency table."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        }
+      ],
+      "overall_judgment": "HIGH"
+    },
+    {
+      "study_key": "uysal",
+      "target_id": "result.postoperative_delirium",
+      "domains": [
+        {
+          "domain": "D1",
+          "questions": [
+            {
+              "question_id": "1.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告说明使用在线真随机数生成器进行 simple randomization。 B：符合条件者通过 online true random number generator 进行简单随机分配。",
+              "anchors": [
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439",
+                  "start_offset": 8728,
+                  "end_offset": 8814,
+                  "exact_text": "by simple randomization using an online true random number generator (www.random.org)."
+                },
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439",
+                  "start_offset": 8484,
+                  "end_offset": 8814,
+                  "exact_text": "Eligible patients who consented to participate and met the enrollment criterion of completing preoperative cognitive testing were assigned to an intervention or control group differing with respect to rSO2 treatment algorithms (described next) by simple randomization using an online true random number generator (www.random.org)."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.2",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告与 registry 均未说明在线随机结果在参与者入组和分配前如何隐藏。 B：来源没有说明在入组和分配前如何隐藏 random.org 生成的分配结果。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439"
+                },
+                {
+                  "document_key": "uysal.registry.ctgov",
+                  "source_sha256": "e46111929ab93dd98c47066f4c041326f967d1d4edd52f7c9fd595b6a5de7795",
+                  "representation_sha256": "cf48f8191796aca7e8aa391911742fcc7badef1723e2fae3868ad2385b524892"
+                }
+              ]
+            },
+            {
+              "question_id": "1.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "报告称人口学、风险因素和手术特征无组间差异，不仅限于单一脑氧基线。",
+              "anchors": [
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439",
+                  "start_offset": 30984,
+                  "end_offset": 31054,
+                  "exact_text": "there were no differences between the intervention and control groups."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        },
+        {
+          "domain": "D2",
+          "questions": [
+            {
+              "question_id": "2.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：registry 将 participant 列为 masked。 B：注册记录注明单盲且 participant masked；两组均接受监测、对照组仅隐藏数据，支持参与者不知分组。",
+              "anchors": [
+                {
+                  "document_key": "uysal.registry.ctgov",
+                  "source_sha256": "e46111929ab93dd98c47066f4c041326f967d1d4edd52f7c9fd595b6a5de7795",
+                  "representation_sha256": "cf48f8191796aca7e8aa391911742fcc7badef1723e2fae3868ad2385b524892",
+                  "start_offset": 6598,
+                  "end_offset": 6609,
+                  "exact_text": "PARTICIPANT"
+                },
+                {
+                  "document_key": "uysal.registry.ctgov",
+                  "source_sha256": "e46111929ab93dd98c47066f4c041326f967d1d4edd52f7c9fd595b6a5de7795",
+                  "representation_sha256": "cf48f8191796aca7e8aa391911742fcc7badef1723e2fae3868ad2385b524892",
+                  "start_offset": 6512,
+                  "end_offset": 6632,
+                  "exact_text": "\"maskingInfo\": {\n          \"masking\": \"SINGLE\",\n          \"whoMasked\": [\n            \"PARTICIPANT\"\n          ]\n        }"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：干预组数据向 perioperative team 公开，而控制组显示屏遮蔽，照护团队知道功能性分组。 B：对照组显示器用白屏向 care team 隐藏，而干预组向团队公开并触发算法，实施者可识别分组。",
+              "anchors": [
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439",
+                  "start_offset": 11000,
+                  "end_offset": 11093,
+                  "exact_text": "In the intervention group, the oximetry data were displayed openly to the perioperative team."
+                },
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439",
+                  "start_offset": 14504,
+                  "end_offset": 14625,
+                  "exact_text": "In the control group, the oximetry data were concealed from the care team by a white screen covering the monitor display."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.3",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "PROBABLY_NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "预设交叉没有实际发生，且未见其他试验情境诱发偏离，较支持 probably no。",
+              "anchors": [
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439",
+                  "start_offset": 31204,
+                  "end_offset": 31254,
+                  "exact_text": "no cases crossed over into the intervention group."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.4",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：没有识别出 intended-intervention deviation，无法评价其对谵妄的影响。 B：未确认 2.3 所指的具体试验情境偏离，无法评价其对谵妄结果的影响。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439"
+                },
+                {
+                  "document_key": "uysal.registry.ctgov",
+                  "source_sha256": "e46111929ab93dd98c47066f4c041326f967d1d4edd52f7c9fd595b6a5de7795",
+                  "representation_sha256": "cf48f8191796aca7e8aa391911742fcc7badef1723e2fae3868ad2385b524892"
+                }
+              ]
+            },
+            {
+              "question_id": "2.5",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：没有可按组比较的 intended-intervention deviation。 B：报告未按随机组给出九名移除者的完整原因分布，无法可靠判断各类偏离是否平衡。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439"
+                },
+                {
+                  "document_key": "uysal.registry.ctgov",
+                  "source_sha256": "e46111929ab93dd98c47066f4c041326f967d1d4edd52f7c9fd595b6a5de7795",
+                  "representation_sha256": "cf48f8191796aca7e8aa391911742fcc7badef1723e2fae3868ad2385b524892"
+                }
+              ]
+            },
+            {
+              "question_id": "2.6",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：134 人随机化后，因 NIRS failure 或低基线 rSO2 移除 9 人，谵妄等围术期结局只分析 125 人，不是完整 assignment-effect analysis。 B：134 名随机化者中仅 125 名进入围术期结局分析，属于随机化后排除，不是完整 assignment-effect 分析。",
+              "anchors": [
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439",
+                  "start_offset": 19894,
+                  "end_offset": 20042,
+                  "exact_text": "134 completed baseline cognitive testing and were enrolled in the study and randomized to the intervention group (N ¼ 64) or control group (N ¼ 70)."
+                },
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439",
+                  "start_offset": 23809,
+                  "end_offset": 23927,
+                  "exact_text": "Nine patients were removed from the study because of NIRS monitoring failures and low ( < 60 % ) baseline rSO2 values."
+                },
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439",
+                  "start_offset": 23632,
+                  "end_offset": 23808,
+                  "exact_text": "A total of 134 patients completed preoperative testing; 64 (48 % ) were randomly assigned to the intervention group, and 70 (52 % ) were randomly assigned to the control group."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.7",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_YES",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "随机后排除 9/134，而谵妄事件仅 2 对 7；相对事件数足以潜在实质改变效应。",
+              "anchors": [
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439",
+                  "start_offset": 23809,
+                  "end_offset": 23927,
+                  "exact_text": "Nine patients were removed from the study because of NIRS monitoring failures and low ( < 60 % ) baseline rSO2 values."
+                },
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439",
+                  "start_offset": 37399,
+                  "end_offset": 37455,
+                  "exact_text": "| ICU delirium | 59 | 2 (3.4) | 66 | 7 (10.6) | .170 b |"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "HIGH"
+        },
+        {
+          "domain": "D3",
+          "questions": [
+            {
+              "question_id": "3.1",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "结局仅覆盖 125/134（93.3%）随机化者，不按 all or nearly all 处理。",
+              "anchors": [
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439",
+                  "start_offset": 19894,
+                  "end_offset": 19980,
+                  "exact_text": "134 completed baseline cognitive testing and were enrolled in the study and randomized"
+                },
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439",
+                  "start_offset": 20156,
+                  "end_offset": 20282,
+                  "exact_text": "leaving 125 patients (59 in the intervention group and 66 in the control group) available for studying perioperative outcomes."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.2",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：随机后排除 9 人且未对谵妄进行缺失数据敏感性分析，不能确认结果未受偏倚。 B：九名被移除者没有谵妄结果，也未见敏感性分析或其结局分布，缺少结果不受偏倚的证据。",
+              "anchors": [
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439",
+                  "start_offset": 23809,
+                  "end_offset": 23927,
+                  "exact_text": "Nine patients were removed from the study because of NIRS monitoring failures and low ( < 60 % ) baseline rSO2 values."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.3",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "PROBABLY_YES",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "部分缺失由低基线脑氧触发，而脑氧状态与神经结局风险相关，缺失可能依赖真实结局风险。",
+              "anchors": [
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439",
+                  "start_offset": 10924,
+                  "end_offset": 10998,
+                  "exact_text": "Patients with baseline values less than 60 % were excluded from the study."
+                },
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439",
+                  "start_offset": 4018,
+                  "end_offset": 4109,
+                  "exact_text": "NIRS monitoring and a treatment algorithm had a neuroprotective effect on cognitive outcome"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.4",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：来源没有被排除者的谵妄结局或足以判断真实值依赖程度的比较资料。 B：没有按移除原因、分组与预后给出足够数据，无法判断真实值依赖是否很可能发生。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439"
+                },
+                {
+                  "document_key": "uysal.registry.ctgov",
+                  "source_sha256": "e46111929ab93dd98c47066f4c041326f967d1d4edd52f7c9fd595b6a5de7795",
+                  "representation_sha256": "cf48f8191796aca7e8aa391911742fcc7badef1723e2fae3868ad2385b524892"
+                }
+              ]
+            }
+          ],
+          "judgment": "HIGH"
+        },
+        {
+          "domain": "D4",
+          "questions": [
+            {
+              "question_id": "4.1",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：全文和 registry 只命名 ICU delirium/neurological dysfunction，未报告谵妄工具、诊断标准、频率或观察者。 B：论文仅列出 ICU delirium，没有报告诊断工具、标准、时间窗内评估频次或裁定规则。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439"
+                },
+                {
+                  "document_key": "uysal.registry.ctgov",
+                  "source_sha256": "e46111929ab93dd98c47066f4c041326f967d1d4edd52f7c9fd595b6a5de7795",
+                  "representation_sha256": "cf48f8191796aca7e8aa391911742fcc7badef1723e2fae3868ad2385b524892"
+                }
+              ]
+            },
+            {
+              "question_id": "4.2",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：未描述各组谵妄测量流程，无法判断是否可能不同。 B：未说明两组 ICU 谵妄的具体测量流程，不能确认是否一致。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439"
+                },
+                {
+                  "document_key": "uysal.registry.ctgov",
+                  "source_sha256": "e46111929ab93dd98c47066f4c041326f967d1d4edd52f7c9fd595b6a5de7795",
+                  "representation_sha256": "cf48f8191796aca7e8aa391911742fcc7badef1723e2fae3868ad2385b524892"
+                }
+              ]
+            },
+            {
+              "question_id": "4.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：没有报告 ICU delirium assessor 的身份或盲法状态。 B：未报告谵妄评估者身份或是否对分组设盲。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439"
+                },
+                {
+                  "document_key": "uysal.registry.ctgov",
+                  "source_sha256": "e46111929ab93dd98c47066f4c041326f967d1d4edd52f7c9fd595b6a5de7795",
+                  "representation_sha256": "cf48f8191796aca7e8aa391911742fcc7badef1723e2fae3868ad2385b524892"
+                }
+              ]
+            },
+            {
+              "question_id": "4.4",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "未报告结构化工具的 ICU delirium 含临床判断；若评估者知晓分组，可以影响结局评估。",
+              "anchors": [
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439",
+                  "start_offset": 19502,
+                  "end_offset": 19778,
+                  "exact_text": "Perioperative outcomes studied were death, hospital length of stay (days), intensive care unit (ICU) length of stay (days), extubation (day), time on mechanical ventilation (hours), ICU delirium, Sequential Organ Failure Assessment on ICU admission, and ICU blood transfusion."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.5",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：没有实际评估过程或 blinded adjudication 信息，无法判断影响是否 likely。 B：评估者盲法与具体判定过程缺失，无法判断分组知识实际影响评估的可能性。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439"
+                },
+                {
+                  "document_key": "uysal.registry.ctgov",
+                  "source_sha256": "e46111929ab93dd98c47066f4c041326f967d1d4edd52f7c9fd595b6a5de7795",
+                  "representation_sha256": "cf48f8191796aca7e8aa391911742fcc7badef1723e2fae3868ad2385b524892"
+                }
+              ]
+            }
+          ],
+          "judgment": "HIGH"
+        },
+        {
+          "domain": "D5",
+          "questions": [
+            {
+              "question_id": "5.1",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "登记列出含谵妄的结局，但没有揭盲前冻结的 result-specific 分析计划，无法确认预设分析。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439"
+                },
+                {
+                  "document_key": "uysal.registry.ctgov",
+                  "source_sha256": "e46111929ab93dd98c47066f4c041326f967d1d4edd52f7c9fd595b6a5de7795",
+                  "representation_sha256": "cf48f8191796aca7e8aa391911742fcc7badef1723e2fae3868ad2385b524892"
+                }
+              ]
+            },
+            {
+              "question_id": "5.2",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_NO",
+              "answer": "PROBABLY_NO",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "登记已把 delirium 明确列入 neurological dysfunction，未见从多个谵妄定义或时点按结果选择的迹象。",
+              "anchors": [
+                {
+                  "document_key": "uysal.registry.ctgov",
+                  "source_sha256": "e46111929ab93dd98c47066f4c041326f967d1d4edd52f7c9fd595b6a5de7795",
+                  "representation_sha256": "cf48f8191796aca7e8aa391911742fcc7badef1723e2fae3868ad2385b524892",
+                  "start_offset": 9976,
+                  "end_offset": 10086,
+                  "exact_text": "Delirium, stroke with neurological deficit at hospital discharge, persistent vegetative state, or brain death."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "5.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：缺少 result-specific SAP，不能判断是否在多个 eligible analyses 中按结果选择。 B：没有可核验的预设统计分析细节或所有候选分析，无法排除分析选择。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "uysal.fulltext",
+                  "source_sha256": "75a9a1318ddc5a1ae632c444fcfb978a5466a49b1a4087e0a1e40c9157cabf4c",
+                  "representation_sha256": "8e89641f5ea77dc9b1fed32830040f6b0c80e5cae683ae528ec8dd3b90297439"
+                },
+                {
+                  "document_key": "uysal.registry.ctgov",
+                  "source_sha256": "e46111929ab93dd98c47066f4c041326f967d1d4edd52f7c9fd595b6a5de7795",
+                  "representation_sha256": "cf48f8191796aca7e8aa391911742fcc7badef1723e2fae3868ad2385b524892"
+                }
+              ]
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        }
+      ],
+      "overall_judgment": "HIGH"
+    },
+    {
+      "study_key": "zavareh",
+      "target_id": "result.postoperative_delirium",
+      "domains": [
+        {
+          "domain": "D1",
+          "questions": [
+            {
+              "question_id": "1.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告明确使用计算机生成的随机化列表。 B：论文明确使用计算机生成随机化列表分为 111 与 112 人两组。",
+              "anchors": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab",
+                  "start_offset": 5441,
+                  "end_offset": 5478,
+                  "exact_text": "computer-generated randomization list"
+                },
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab",
+                  "start_offset": 5433,
+                  "end_offset": 5659,
+                  "exact_text": "Using a computer-generated randomization list, patients were divided into two groups: intervention group (111 patients with monitoring of cerebral oximetry), and control group (112 without any monitoring of cerebral oximetry)."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "1.2",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：全文和 WHO registry 均没有说明随机表在入组和分配前如何隐藏。 B：论文未描述中心分配、编号密封信封或等效的分配隐藏机制；冻结 registry 表示也未保留可核验详情。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab"
+                },
+                {
+                  "document_key": "zavareh.registry.who",
+                  "source_sha256": "3bc398b6cc1aa8a314a711a4d9b3beb5ae1018587d6b8066185a09fbc1267c52",
+                  "representation_sha256": "a80461220a2dbaf4a8e660991a78c7d89d66daf266043cc59e98a61534cd2792"
+                }
+              ]
+            },
+            {
+              "question_id": "1.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：报告称人口学、手术类型和临床因素在基线相似。 B：报告称年龄、性别与手术类型相似，且未报告其他提示随机化过程异常的基线差异。",
+              "anchors": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab",
+                  "start_offset": 11958,
+                  "end_offset": 12038,
+                  "exact_text": "At base line age, gender and type of surgery were similar between the two groups"
+                },
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab",
+                  "start_offset": 11958,
+                  "end_offset": 12049,
+                  "exact_text": "At base line age, gender and type of surgery were similar between the two groups (Table 1)."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        },
+        {
+          "domain": "D2",
+          "questions": [
+            {
+              "question_id": "2.1",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "PROBABLY_YES",
+              "answer": "PROBABLY_YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：干预组患者在麻醉前即放置双侧脑氧探头，而控制组不接受该监测，因此参与者很可能知道分组；来源未明确直接询问知情状态。 B：仅干预组在麻醉诱导前放置可见的双侧额部 INVOS 传感器，参与者很可能据此知晓分组。",
+              "anchors": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab",
+                  "start_offset": 5988,
+                  "end_offset": 6043,
+                  "exact_text": "before anesthesia patients had bilateral oximetry probe"
+                },
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab",
+                  "start_offset": 6365,
+                  "end_offset": 6638,
+                  "exact_text": "Before induction of anesthesia and endotracheal intubation, all patients in the case group had INVOS cerebral oximeter sensors (INVOS 5100C; Somanetics Corp, Troy, MI) placed bilaterally on the forehead and baseline regional cerebral oxygen saturation values were measured."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：临床团队在干预组监测并按阈值处理，而控制组不监测且不实施特异治疗，因此实施者知道分组。 B：临床人员需要在干预组监测 rScO2 并执行纠正，而对照组不监测、不干预，因此实施者知晓分组。",
+              "anchors": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab",
+                  "start_offset": 6274,
+                  "end_offset": 6364,
+                  "exact_text": "The rScO 2 was not recorded in the control group and no specific treatments were employed."
+                },
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab",
+                  "start_offset": 5433,
+                  "end_offset": 5659,
+                  "exact_text": "Using a computer-generated randomization list, patients were divided into two groups: intervention group (111 patients with monitoring of cerebral oximetry), and control group (112 without any monitoring of cerebral oximetry)."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.3",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "ITT 分析不能证明没有干预偏离；来源没有报告依从性、交叉或试验情境偏离，保留信息不足。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab"
+                },
+                {
+                  "document_key": "zavareh.registry.who",
+                  "source_sha256": "3bc398b6cc1aa8a314a711a4d9b3beb5ae1018587d6b8066185a09fbc1267c52",
+                  "representation_sha256": "a80461220a2dbaf4a8e660991a78c7d89d66daf266043cc59e98a61534cd2792"
+                }
+              ]
+            },
+            {
+              "question_id": "2.4",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：没有识别出 intended-intervention deviation，来源无可评价的 outcome impact。 B：未能确认具体偏离，无法评价其是否影响谵妄结局。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab"
+                },
+                {
+                  "document_key": "zavareh.registry.who",
+                  "source_sha256": "3bc398b6cc1aa8a314a711a4d9b3beb5ae1018587d6b8066185a09fbc1267c52",
+                  "representation_sha256": "a80461220a2dbaf4a8e660991a78c7d89d66daf266043cc59e98a61534cd2792"
+                }
+              ]
+            },
+            {
+              "question_id": "2.5",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：没有识别出可按组比较的 intended-intervention deviation。 B：未能确认具体偏离，无法评价组间平衡。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab"
+                },
+                {
+                  "document_key": "zavareh.registry.who",
+                  "source_sha256": "3bc398b6cc1aa8a314a711a4d9b3beb5ae1018587d6b8066185a09fbc1267c52",
+                  "representation_sha256": "a80461220a2dbaf4a8e660991a78c7d89d66daf266043cc59e98a61534cd2792"
+                }
+              ]
+            },
+            {
+              "question_id": "2.6",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：主要分析纳入全部随机化患者，并按原随机组比较。 B：论文明确称主要分析纳入全部随机化患者。",
+              "anchors": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab",
+                  "start_offset": 11842,
+                  "end_offset": 11895,
+                  "exact_text": "The primary analysis included all randomized patients"
+                },
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab",
+                  "start_offset": 11842,
+                  "end_offset": 11956,
+                  "exact_text": "The primary analysis included all randomized patients (Figure 1). They were followed up for 3-4 days post-surgery."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "2.7",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO",
+              "answer": "NO",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：全部随机化患者均分析，不存在未按随机组分析造成 substantial impact 的空间。 B：全部随机化患者均纳入主要分析，不存在未按随机分组分析造成实质影响的问题。",
+              "anchors": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab",
+                  "start_offset": 11842,
+                  "end_offset": 11895,
+                  "exact_text": "The primary analysis included all randomized patients"
+                },
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab",
+                  "start_offset": 11842,
+                  "end_offset": 11956,
+                  "exact_text": "The primary analysis included all randomized patients (Figure 1). They were followed up for 3-4 days post-surgery."
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        },
+        {
+          "domain": "D3",
+          "questions": [
+            {
+              "question_id": "3.1",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：全部随机化患者均有谵妄结果。 B：全部随机化患者进入主要分析且完成 3–4 天术后随访，谵妄计数覆盖完整随机化分母。",
+              "anchors": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab",
+                  "start_offset": 11842,
+                  "end_offset": 11895,
+                  "exact_text": "The primary analysis included all randomized patients"
+                },
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab",
+                  "start_offset": 11842,
+                  "end_offset": 11956,
+                  "exact_text": "The primary analysis included all randomized patients (Figure 1). They were followed up for 3-4 days post-surgery."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.2",
+              "assessor_a_answer": "YES",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：不存在目标结局缺失，结果不会因 missing outcome data 偏倚。 B：全部随机化患者被分析，没有结果特异的缺失结局数据。",
+              "anchors": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab",
+                  "start_offset": 11842,
+                  "end_offset": 11895,
+                  "exact_text": "The primary analysis included all randomized patients"
+                },
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab",
+                  "start_offset": 11842,
+                  "end_offset": 11956,
+                  "exact_text": "The primary analysis included all randomized patients (Figure 1). They were followed up for 3-4 days post-surgery."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.3",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "全部随机化者进入该结局分析，没有 missing outcome data，缺失不可能依赖真实值。",
+              "anchors": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab",
+                  "start_offset": 11842,
+                  "end_offset": 11895,
+                  "exact_text": "The primary analysis included all randomized patients"
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "3.4",
+              "assessor_a_answer": "NO",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO",
+              "resolution": "ADJUDICATOR_SELECTED_A",
+              "rationale": "没有 missing outcome data；不能因为条件分支后续不适用而把 raw answer 改成信息不足。",
+              "anchors": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab",
+                  "start_offset": 11842,
+                  "end_offset": 11895,
+                  "exact_text": "The primary analysis included all randomized patients"
+                }
+              ],
+              "coverage_sources": []
+            }
+          ],
+          "judgment": "LOW"
+        },
+        {
+          "domain": "D4",
+          "questions": [
+            {
+              "question_id": "4.1",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "仅报告记录谵妄而未说明工具，证明报告不足但不能推定测量方法本身不适当。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab"
+                },
+                {
+                  "document_key": "zavareh.registry.who",
+                  "source_sha256": "3bc398b6cc1aa8a314a711a4d9b3beb5ae1018587d6b8066185a09fbc1267c52",
+                  "representation_sha256": "a80461220a2dbaf4a8e660991a78c7d89d66daf266043cc59e98a61534cd2792"
+                }
+              ]
+            },
+            {
+              "question_id": "4.2",
+              "assessor_a_answer": "PROBABLY_NO",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "来源没有说明各组由谁、何时、如何评估，统一的结果描述不足以排除组间测量差异。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab"
+                },
+                {
+                  "document_key": "zavareh.registry.who",
+                  "source_sha256": "3bc398b6cc1aa8a314a711a4d9b3beb5ae1018587d6b8066185a09fbc1267c52",
+                  "representation_sha256": "a80461220a2dbaf4a8e660991a78c7d89d66daf266043cc59e98a61534cd2792"
+                }
+              ]
+            },
+            {
+              "question_id": "4.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：合法 full_text 未报告谵妄结局评估者的身份或分组知情状态。 B：来源没有报告 outcome assessor blinding，冻结 registry 表示也无可用细节。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab"
+                },
+                {
+                  "document_key": "zavareh.registry.who",
+                  "source_sha256": "3bc398b6cc1aa8a314a711a4d9b3beb5ae1018587d6b8066185a09fbc1267c52",
+                  "representation_sha256": "a80461220a2dbaf4a8e660991a78c7d89d66daf266043cc59e98a61534cd2792"
+                }
+              ]
+            },
+            {
+              "question_id": "4.4",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "YES",
+              "answer": "YES",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "谵妄属于需要临床解释的神经精神结局，若评估者知晓分组，判断可以受影响。",
+              "anchors": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab",
+                  "start_offset": 1980,
+                  "end_offset": 2107,
+                  "exact_text": "Any neurological complications such as hallucinations, delirium, stroke, and length of stay in ICU after surgery were recorded."
+                }
+              ],
+              "coverage_sources": []
+            },
+            {
+              "question_id": "4.5",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：没有结局评估者盲法或实际谵妄判定过程的信息，无法判断评估是否 likely 受到影响。 B：评估者身份、盲法和诊断过程均未报告，无法判断影响实际发生的可能性。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab"
+                },
+                {
+                  "document_key": "zavareh.registry.who",
+                  "source_sha256": "3bc398b6cc1aa8a314a711a4d9b3beb5ae1018587d6b8066185a09fbc1267c52",
+                  "representation_sha256": "a80461220a2dbaf4a8e660991a78c7d89d66daf266043cc59e98a61534cd2792"
+                }
+              ]
+            }
+          ],
+          "judgment": "HIGH"
+        },
+        {
+          "domain": "D5",
+          "questions": [
+            {
+              "question_id": "5.1",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：全文只说明曾注册和伦理确认，合法 registry full_text 不含登记时点或 result-specific 分析计划，无法确认计划是否在揭盲结果前固定。 B：论文称已注册，但可核验的 registry 冻结文本没有协议字段，且无揭盲前 SAP，无法确认分析按预设计划执行。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab"
+                },
+                {
+                  "document_key": "zavareh.registry.who",
+                  "source_sha256": "3bc398b6cc1aa8a314a711a4d9b3beb5ae1018587d6b8066185a09fbc1267c52",
+                  "representation_sha256": "a80461220a2dbaf4a8e660991a78c7d89d66daf266043cc59e98a61534cd2792"
+                }
+              ]
+            },
+            {
+              "question_id": "5.2",
+              "assessor_a_answer": "PROBABLY_YES",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ADJUDICATOR_SELECTED_B",
+              "rationale": "并列多个神经结局不等于多个合格谵妄测量；又缺预设定义和时点，无法判断结果驱动选择。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab"
+                },
+                {
+                  "document_key": "zavareh.registry.who",
+                  "source_sha256": "3bc398b6cc1aa8a314a711a4d9b3beb5ae1018587d6b8066185a09fbc1267c52",
+                  "representation_sha256": "a80461220a2dbaf4a8e660991a78c7d89d66daf266043cc59e98a61534cd2792"
+                }
+              ]
+            },
+            {
+              "question_id": "5.3",
+              "assessor_a_answer": "NO_INFORMATION",
+              "assessor_b_answer": "NO_INFORMATION",
+              "answer": "NO_INFORMATION",
+              "resolution": "ASSESSORS_AGREED",
+              "rationale": "两个盲法评估者独立一致。A：没有可核验的 SAP 或预设谵妄分析选项，无法判断是否从多个 eligible analyses 中按结果选择。 B：缺少可核验的预设分析计划及候选分析清单，不能判断是否存在结果驱动的分析选择。",
+              "anchors": [],
+              "coverage_sources": [
+                {
+                  "document_key": "zavareh.fulltext",
+                  "source_sha256": "3cf51ed84ae767e4bbe9a4dfbf22feda6cb6800cc22a65e5facbbf5aaea4115b",
+                  "representation_sha256": "a68add000f26e613dfe927ea29fbbcff2f96d1ca77a8c8d7ae2307e85b7d56ab"
+                },
+                {
+                  "document_key": "zavareh.registry.who",
+                  "source_sha256": "3bc398b6cc1aa8a314a711a4d9b3beb5ae1018587d6b8066185a09fbc1267c52",
+                  "representation_sha256": "a80461220a2dbaf4a8e660991a78c7d89d66daf266043cc59e98a61534cd2792"
+                }
+              ]
+            }
+          ],
+          "judgment": "SOME_CONCERNS"
+        }
+      ],
+      "overall_judgment": "HIGH"
+    }
+  ]
+}

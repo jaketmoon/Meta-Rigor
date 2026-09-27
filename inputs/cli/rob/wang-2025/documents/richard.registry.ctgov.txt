@@ -1,0 +1,256 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT01972828",
+      "orgStudyIdInfo": {
+        "id": "2006.440"
+      },
+      "organization": {
+        "fullName": "Hospices Civils de Lyon",
+        "class": "OTHER"
+      },
+      "briefTitle": "Early Haemodynamic Optimization Using Preload Dependence During Septic Shock = EHOSS-1",
+      "officialTitle": "Effect of Haemodynamic Optimization Using Preload Dependence Indexes and Pulmonary Thermodilution on Cardiovascular Failure Duration During Septic Shock: a Randomized Study",
+      "acronym": "EHOSS-1"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2013-10",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2007-07"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2013-08",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2013-10-11",
+      "studyFirstSubmitQcDate": "2013-10-30",
+      "studyFirstPostDateStruct": {
+        "date": "2013-10-31",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2013-10-30",
+      "lastUpdatePostDateStruct": {
+        "date": "2013-10-31",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Hospices Civils de Lyon",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Haemodynamic optimization is of paramount importance in septic shock, but is really consensual and standardized during the first 6 hours of treatment. Haemodynamic treatment including fluid loading management, vasoactive treatment and oxygen transport optimization is mainly based on expert recommendations or non-randomized trials. Recently, preload dependence indexes such as pulse pressure variation have been shown to be more accurate to predict fluid responsiveness than static indexes such as filling pressures. However, whether using preload dependence indexes changes septic shock prognostic remains to date unknown. The aim of this non-blinded randomized controlled trial is to assess whether haemodynamic optimization using preload dependence indexes and pulmonary thermodilution 1. reduces septic shock duration assessed by administration duration of vasoactive treatment (primary end point), 2. reduces regional hypoperfusion assessed by arterial lactate, 3. reduces lung hydrostatic oedema linked to excessive fluid loading (assessed by PaO2/FIO2 ratio and extravascular lung water). 4. reduces organ dysfunction (assessed by the SOFA score), ICU stay and 7 and 28 day mortality Control group is managed with an algorithm using filling pressures to drive haemodynamic treatment."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Septic Shock"
+      ],
+      "keywords": [
+        "Septic shock",
+        "Randomized controlled trial",
+        "Preload dependence",
+        "Pulmonary thermodilution"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 61,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "PRELOAD DEPENDENCE",
+          "type": "EXPERIMENTAL",
+          "description": "in this arm, fluid loading is administered with an algorithm using preload dependence indexes (variation in cardiac output in response to passive leg raising).",
+          "interventionNames": [
+            "Drug: FLUID MANAGEMENT GUIDED WITH PRELOAD-DEPENDENCE PARAMETERS (VOLUVEN ®)"
+          ]
+        },
+        {
+          "label": "CONTROL",
+          "type": "ACTIVE_COMPARATOR",
+          "interventionNames": [
+            "Drug: STANDARD-GUIDED FLUID MANAGEMENT (VOLUVEN ®)"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "FLUID MANAGEMENT GUIDED WITH PRELOAD-DEPENDENCE PARAMETERS (VOLUVEN ®)",
+          "description": "in this arm, fluid loading is administered with an algorithm using preload dependence indexes. This algorithm is used every hour during the first 6 hours after inclusion, then every 4 hours until vasopressor weaning, and whenever mean arterial pressure fell below 65 mm Hg. Fluid loading is performed with cristalloids or colloids at the discretion of the attending physician.",
+          "armGroupLabels": [
+            "PRELOAD DEPENDENCE"
+          ],
+          "otherNames": [
+            "Drug : ringer lactate, 0.9% saline, VOLUVEN ®",
+            "Procedure: haemodynamic algorithm (see below)"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "STANDARD-GUIDED FLUID MANAGEMENT (VOLUVEN ®)",
+          "description": "in this arm, fluid loading is administered with an algorithm using central venous pressure. This algorithm is used every hour during the first 6 hours after inclusion, then every 4 hours until vasopressor weaning, and whenever mean arterial pressure fell below 65 mm Hg. Fluid loading is performed with cristalloids or colloids at the discretion of the attending physician.",
+          "armGroupLabels": [
+            "CONTROL"
+          ],
+          "otherNames": [
+            "Drug : ringer lactate, 0.9% saline, VOLUVEN ®",
+            "Procedure: haemodynamic algorithm (see below)"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Time to septic shock resolution",
+          "description": "shock resolution is defined by vasopressor weaning",
+          "timeFrame": "28 days"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "mortality",
+          "timeFrame": "28 days"
+        },
+        {
+          "measure": "Ventilator free days",
+          "timeFrame": "28 days"
+        },
+        {
+          "measure": "number of days with hyperlactactatemia",
+          "timeFrame": "28 days"
+        },
+        {
+          "measure": "number of days with pulmonary edema",
+          "description": "assessed by transpulmonary thermodilution",
+          "timeFrame": "28 jours"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* age over 18 years\n* and fulfilment of two of four criteria for the systemic inflammatory response syndrome\n* and systolic blood pressure no higher than 90 mm Hg (after a crystalloid-fluid challenge of 25 ml per kilogram of body weight over a 30-minute period)\n* and documented or suspected infection\n\nExclusion Criteria:\n\n* delay between first observation of hypotension and inclusion above 12 hours\n* pregnancy\n* acute coronary syndrome\n* acute cerebral vascular event (\\< 1 month),\n* contraindication to central venous catheterization in the superior vena cava territory\n* contraindication to femoral arterial catheterization\n* active haemorrhage\n* burn injury\n* trauma\n* requirement for immediate surgery (\\< 6 hours)\n* acute pulmonary oedema of cardiogenic origin\n* do-not-resuscitate status, or advanced directives restricting implementation of the protocol.\n* Informed consent not obtained from the patient or surrogates\n* Patient already included in another therapeutic trial\n* patient previously included in the same therapeutic trial",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "25572383",
+          "type": "DERIVED",
+          "citation": "Richard JC, Bayle F, Bourdin G, Leray V, Debord S, Delannoy B, Stoian AC, Wallet F, Yonis H, Guerin C. Preload dependence indices to titrate volume expansion during septic shock: a randomized controlled trial. Crit Care. 2015 Jan 8;19(1):5. doi: 10.1186/s13054-014-0734-3."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-08-28"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D012772",
+          "term": "Shock, Septic"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D018805",
+          "term": "Sepsis"
+        },
+        {
+          "id": "D007239",
+          "term": "Infections"
+        },
+        {
+          "id": "D018746",
+          "term": "Systemic Inflammatory Response Syndrome"
+        },
+        {
+          "id": "D007249",
+          "term": "Inflammation"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D012769",
+          "term": "Shock"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C485123",
+          "term": "HES 130-0.4"
+        },
+        {
+          "id": "D012965",
+          "term": "Sodium Chloride"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D002712",
+          "term": "Chlorides"
+        },
+        {
+          "id": "D006851",
+          "term": "Hydrochloric Acid"
+        },
+        {
+          "id": "D017606",
+          "term": "Chlorine Compounds"
+        },
+        {
+          "id": "D007287",
+          "term": "Inorganic Chemicals"
+        },
+        {
+          "id": "D017670",
+          "term": "Sodium Compounds"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

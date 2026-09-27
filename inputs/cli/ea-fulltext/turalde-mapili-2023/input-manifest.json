@@ -1,0 +1,45 @@
+{
+  "files": [
+    {
+      "bytes": 3126,
+      "path": "screening-protocol.json",
+      "sha256": "f93a39f640f990dc6d5e4839b619165b9da138b875a9ceac8eb54a8ebce94a25"
+    },
+    {
+      "bytes": 2484460,
+      "path": "records.jsonl",
+      "sha256": "50a70db9d1f74a2f76bd98137b74477d7c1c50664a9dbf0cef5ded8d0f688786"
+    }
+  ],
+  "record_count": 23,
+  "record_ids": [
+    "turalde-mapili-2023:central:record:010",
+    "turalde-mapili-2023:central:record:012",
+    "turalde-mapili-2023:central:record:013",
+    "turalde-mapili-2023:central:record:014",
+    "turalde-mapili-2023:central:record:015",
+    "turalde-mapili-2023:central:record:016",
+    "turalde-mapili-2023:pubmed:record:001",
+    "turalde-mapili-2023:pubmed:record:003",
+    "turalde-mapili-2023:pubmed:record:005",
+    "turalde-mapili-2023:pubmed:record:006",
+    "turalde-mapili-2023:pubmed:record:008",
+    "turalde-mapili-2023:scopus:record:017",
+    "turalde-mapili-2023:scopus:record:019",
+    "turalde-mapili-2023:scopus:record:020",
+    "turalde-mapili-2023:scopus:record:021",
+    "turalde-mapili-2023:scopus:record:024",
+    "turalde-mapili-2023:scopus:record:026",
+    "turalde-mapili-2023:scopus:record:027",
+    "turalde-mapili-2023:scopus:record:031",
+    "turalde-mapili-2023:scopus:record:032",
+    "turalde-mapili-2023:scopus:record:033",
+    "turalde-mapili-2023:scopus:record:034",
+    "turalde-mapili-2023:scopus:record:035"
+  ],
+  "schema_version": "1.0.0",
+  "semantic_input_sha256": "590dee94a675e289bd4fd8fecfd6a1b307d45edb2c87914a8520c82dd503c8ee",
+  "source_scope": "EXACT_MR_FULLTEXT_RECORDS_AND_SELECTED_DOCUMENTS",
+  "task": "FULL_TEXT_EVIDENCE_ACQUISITION",
+  "case_id": "turalde-mapili-2023"
+}

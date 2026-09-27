@@ -1,0 +1,232 @@
+# Minimizing ICU Neurological Dysfunction with Dexmedetomidine-induced Sleep (MINDDS): protocol for a randomised, double-blind, parallel-arm, placebo-controlled trial
+
+Footnote: ✉ Correspondence to Dr Oluwaseun Akeju; oluwaseun.akeju@mgh.harvard.edu
+
+# Abstract
+
+## Introduction
+
+Delirium, which is prevalent in postcardiac surgical patients, is an acute brain dysfunction characterised by disturbances in attention, awareness and cognition not explained by a pre-existing neurocognitive disorder. The pathophysiology of delirium remains poorly understood. However, basic science and clinical studies suggest that sleep disturbance may be a modifiable risk factor for the development of delirium. Dexmedetomidine is a α-2A adrenergic receptor agonist medication that patterns the activity of various arousal nuclei similar to sleep. A single night-time loading dose of dexmedetomidine promotes non-rapid eye movement sleep stages N2 and N3 sleep. This trial hypothesises dexmedetomidine-induced sleep as pre-emptive therapy for postoperative delirium.
+
+## Methods and analysis
+
+The MINDDS (Minimizing ICU Neurological Dysfunction with Dexmedetomidine-induced Sleep) trial is a 370-patient block-randomised, placebo-controlled, double-blinded, single-site, parallel-arm superiority trial. Patients over 60 years old, undergoing cardiac surgery with planned cardiopulmonary bypass, will be randomised to receive a sleep-inducing dose of dexmedetomidine or placebo. The primary outcome is the incidence of delirium on postoperative day 1, assessed with the Confusion Assessment Method by staff blinded to the treatment assignment. To ensure that the study is appropriately powered for the primary outcome measure, patients will be recruited and randomised into the study until 370 patients receive the study intervention on postoperative day 0. Secondary outcomes will be evaluated by in-person assessments and medical record review for in-hospital end points, and by telephone interview for 30-day, 90-day and 180-day end points. All trial outcomes will be evaluated using an intention-to-treat analysis plan. Hypothesis testing will be performed using a two-sided significance level (type I error) of α=0.05. Sensitivity analyses using the actual treatment received will be performed and compared with the intention-to-treat analysis results. Additional sensitivity analyses will assess the potential impact of missing data due to loss of follow-up.
+
+## Ethics and dissemination
+
+The Partners Human Research Committee approved the MINDDS trial. Recruitment began in March 2017. Dissemination plans include presentations at scientific conferences, scientific publications and popular media.
+
+## Trial registration number
+
+NCT02856594 .
+
+Keywords: delirium, biomimetic sleep, dexmedetomidine, cardiac surgery, patient reported outcomes
+
+Received 2017 Oct 30; Revised 2018 Feb 22; Accepted 2018 Mar 7; Collection date 2018.
+
+# Strengths and limitations of this study
+
+- The treatment protocol is based on a plausible biological mechanism suggesting that biomimetic sleep may reduce the incidence of delirium.
+- The treatment protocol is straightforward and will allow the results to be generalised to patients across a range of care settings.
+- Collection of patient-centred outcomes data, including measures of functional independence, at up to 180 days will provide insight into the relationship between the trial intervention and meaningful patient end points.
+- Risk factors and pathophysiological mechanisms of delirium will be explored in separate substudies.
+- Delirium is a fluctuating disorder that may occasionally be missed despite rigorous and validated assessment methods.
+## Introduction
+
+Delirium, which is prevalent in postcardiac surgical patients, 1 is an acute brain dysfunction characterised by disturbances in attention, awareness and cognition that is not explained by a pre-existing neurocognitive disorder. 2 Although previously reported associations between delirium and increased mortality are debatable, 3 delirium remains a leading cause of preventable morbidity in hospitalised elderly patients. 3 4 The morbidity associated with delirium is estimated to result in increased healthcare costs of approximately $16 000–$64 000 per patient annually. Increasing age and pre-existing cognitive impairment are key predisposing factors for delirium. Despite its impact, there are no definitive pharmacological preventative strategies for delirium. However, basic science and clinical studies suggest that sleep disturbances may be a modifiable risk factor for the development of delirium.
+
+Sleep is a natural occurring state of decreased arousal that is crucial for normal cardiovascular, immune and cognitive function. Sleep deprivation, which is associated with increased proinflammatory cytokine levels including interleukin-6, 5–7 precedes the onset of delirium in some patients. 8 9 A recent investigation linking brain activity of microglia, astrocytes, interleukin-6 and delirium in humans 10 suggests a mechanistic link between sleep deprivation, brain inflammation and delirium. Further, conditions associated with delirium are characterised by activation of the inflammatory cascade with acute release of inflammatory mediators. 11–25 Increasing age is a significant risk factor for the development of delirium. Notably, ageing is associated with activated brain glia cell. 4 26 Following a systemic challenge such as critical illness, these activated glia have been suggested to facilitate an exaggerated neuroinflammatory state that predisposes to delirium. 4 26–28
+
+Sleep disturbance is a hallmark feature of the postoperative period, 29–33 and pharmacological induction of altered arousal states that are neurophysiologically indistinguishable from sleep, termed biomimetic sleep, may represent a preventative strategy for the development of postoperative delirium. 34 35 However, commonly administered sedative drugs, most of which modulate the γ-aminobutyric acid A (GABA A ) receptor induce altered arousal states that are neurophysiologically distinct from sleep. 34 35 This neurophysiological distinction from sleep (ie, frontal beta oscillations, frontal alpha oscillations, burst suppression, isoelectricity) 34–41 may explain why current sedative medications that modulate GABA A receptors are not delirium sparing. Rather, neural circuit dysfunction in sensory, memory encoding and cognitive processing circuits may in part explain why these medications are independent risk factors for the development of delirium. 34 42
+
+Dexmedetomidine is a α-2A adrenergic receptor agonist medication that patterns the activity of various arousal nuclei similar to sleep. 43–47 Neurophysiologically, a continuous infusion of dexmedetomidine produces spindle and slow-delta oscillations. 34 39 48 This oscillatory dynamic shares features with non-rapid eye movement (REM) sleep stage N2 sleep. 34 39 49 50 Consistent with the hypothesis that the neurophysiological approximation of sleep may prevent delirium, dexmedetomidine-induced N2 sleep stage (with absent non-REM stages N1, N3 and REM sleep) has been associated with a reduced incidence of delirium in critically ill patients. 51–54 Instead of a continuous drug infusion, we recently found that a single night-time dose of dexmedetomidine preserves normal sleep cycling. 35 This drug administration paradigm promotes non-REM stage N3 sleep. Notably, N3 sleep is associated with improved cognition and synaptic plasticity. 55–63
+
+A neurophysiologically principled approach to pharmacologically promote sleep may reduce significantly the incidence of delirium in hospitalised patients. The primary objective of the MINDDS (Minimizing ICU Neurological Dysfunction with Dexmedetomidine-induced Sleep) trial is to evaluate dexmedetomidine-induced sleep as a pharmacological preventative strategy for delirium and to characterise the impact of delirium prevention on patient-centred outcomes such as functional recovery. In separate substudies, risk factors and pathophysiological mechanisms of delirium will be explored using: (1) unbiased serum metabolic, proteomic and extracellular vesicular profiling; (2) power spectral analyses of intraoperative and cardiac surgical intensive care unit (CSICU) electroencephalogram dynamics and (3) combined brain positron emission tomography of [ 11 C] PBR28/magnetic resonance imaging.
+
+## Trial objectives
+
+Our primary hypothesis is that dexmedetomidine-induced sleep will result in a reduced incidence of delirium. Our intervention and control groups will be composed of extubated CSICU patients, because their relative homogeneity in terms of surgical procedures (ie, cardiac surgery performed on cardiopulmonary bypass), anaesthetic management and systemic inflammatory response represents a unique opportunity to study the mechanisms underlying delirium, while limiting confounding factors that may otherwise be encountered in heterogeneous patients.
+
+## Methods and analysis
+
+### Trial design
+
+Study details, including study team roster, organisational structure and responsibilities, are included in the online supplementary file 1 . We will enrol 370 patients over a period of 3 years into a randomised, controlled, double-blinded, single-site, parallel-arm superiority trial. Our primary outcome is the incidence of delirium on postoperative day 1. To ensure that the study is appropriately powered for the primary outcome measure, patients will be recruited and randomised into the study until 370 patients receive the study intervention on postoperative day 0. Trial end points will be assessed via in-person interview (during hospitalisation), medical record review and telephone interview (after hospital discharge). The primary and secondary outcomes of delirium will be assessed via in-person interviews, which will be performed in the morning and afternoon with approximately 6 hours between interviews. All outcomes, including those obtained postdischarge, will be assessed in a blinded fashion.
+
+bmjopen-2017-020316supp001.pdf
+
+### Eligibility criteria
+
+#### Inclusion criteria
+
+- Age ≥60 years.
+- Scheduled for a cardiac surgical procedure with planned postoperative admission to the CSICU for ≥24 hours.
+- Scheduled same-day surgical admission.
+#### Exclusion criteria
+
+- Blindness, deafness or the inability to speak English.
+- Greater than 2 days of ICU admission in the month preceding the current surgical procedure.
+- Renal and liver failure requiring dialysis or Child-Pugh score >5.
+- Follow-up difficulties (ie, active substance abuse, psychotic disorder, homelessness).
+- Previous cardiac surgery within 1 year of surgical procedure.
+- Allergy to dexmedetomidine.
+- Chronic therapy with benzodiazepines and/or antipsychotics.
+- Severe neurological deficit.
+- Surgical procedure requiring total circulatory arrest.
+### Objective drop criteria
+
+- Scheduled for a second surgical procedure during hospital stay.
+- Postoperative intubation >12 hours.
+### Baseline assessment
+
+Patients will undergo a prerandomisation assessment that includes a brief medical record review and evaluation, which are as follows:
+
+- Baseline cognitive function using the abbreviated Montreal Cognitive Assessment.
+- Presence of delirium at the time of interview, as measured by the 3 min assessment for Confusion Assessment Method-defined delirium (3D-CAM).
+- Physical function with the PROMIS SF V.1.2—Physical function 8b.
+- General health with the PROMIS SF V.1.1—Global.
+- Pain with the PROMIS SF V.1.0—Pain Interference 8a.
+- Applied cognition with the PROMIS V.1.0—Applied Cognition Abilities SF 8a.
+- Baseline sleep quality with the PROMIS-4A.
+### Intervention
+
+We will randomly allocate patients to receive placebo or dexmedetomidine nightly during their CSICU stay. All clinical care during preoperative, intraoperative and postoperative periods will follow normal standard of care. However, trial patients admitted to the CSICU and extubated at least 30 min prior to 20:30 would receive a sleep induction dose of dexmedetomidine (1 μg/kg over 40 min) at 21:00 every night throughout their CSICU stay. Trial patients admitted to the CSICU and extubated after 20:30, but before 02:00, would receive a sleep induction dose of dexmedetomidine within 30 min of extubation. However, throughout the rest of the CSICU stay the sleep induction time will be targeted for 21:00. Trial patients who are admitted to the CSICU and remain intubated past 02:00 will begin trial procedures the following day, assuming they are extubated within 12 hours of admission to the CSICU. The maximum dexmedetomidine dose that will be administered at any one instance is 80 μg. Clinicians will be asked to refrain from routinely administering dexmedetomidine to patients in the operating room and in the CSICU. Otherwise, all other care decisions will be at the discretion of the clinical care team.
+
+## Outcomes
+
+### Primary outcome
+
+The primary outcome measure for this trial is the incidence delirium in the CSICU on postoperative day 1. Delirium assessments will be conducted two times per day (AM and PM with at least 6 hours between tests) beginning on postoperative day 1 using the long-CAM. 64 65 Trial staff blinded to treatment assignments will perform the delirium assessments. A combination of the 3D-CAM and the abbreviated Montreal cognitive assessment conducted at baseline includes all the cognitive domains that are captured by the long-CAM. Thus, long-CAM results will be benchmarked against these baseline data for delirium scoring (ie, change from baseline). Patients who elect to withdraw from the study during their hospital stay will be reapproached by the study team within 8–24 hours of study withdrawal. The study team member will elicit the reason for study discontinuation and confirm the withdrawal decision. This visit serves to ensure that the withdrawal decision was made during an informed and non-delirious cognitive state. In the event that a patient finds it difficult to complete an assessment (ie, pain, clinical intervention), only the long-CAM domains necessary to dispel the presence of delirium will be assessed (ie, acute onset, inattention, disorganised thinking and altered level of consciousness). Patients who cannot complete this shortened assessment will be reapproached several hours later. Long-CAM assessments for patients who are reintubated for clinical care or for further surgical management will be considered missing data.
+
+### Secondary outcomes (in-hospital)
+
+Blinded trial staff will collect secondary outcomes during hospital admission. These outcomes include:
+
+- ICU and hospital delirium/coma-free days assessed two times per day until postoperative day 3. Delirious patients will be assessed until postoperative day 5. In the event that delirium does not resolve by postoperative day 5, assessments will continue until postoperative day 7 or hospital discharge.
+- Severity of delirium scored using the CAM delirium severity scoring long form.
+- Date of hospital discharge and length of hospital stay assessed by chart review.
+- Inpatient mortality and major inpatient morbidity assessed by chart review.
+### Secondary outcomes (postdischarge)
+
+Blinded trial staff will collect secondary outcomes via telephone interviews and/or online questionnaires at 30 days, 90 days and 180 days postprocedure. These outcomes include:
+
+- Cognitive function using the abbreviated Montreal Cognitive Assessment
+- Physical function with the PROMIS SF V.1.2—Physical Function 8b
+- General health with the PROMIS SF V.1.1—Global
+- Pain with the PROMIS SF V.1.0—Pain Interference 8a
+- Applied cognition with the PROMIS V.1.0—Applied Cognition Abilities SF 8a
+- Sleep quality with the PROMIS V.1.0—Sleep Disturbance 4A
+- Mortality assessed by chart review, and/or elicited from family member during follow-up calls.
+### Sample size planning
+
+The primary objective of this trial is to detect a difference in the incidence of delirium between the dexmedetomidine-induced sleep and normal care groups. Assuming a delirium event rate of 15%, a type I error of 0.05 and power of 0.90, an n=184 patients per group will enable us to detect an absolute difference 10% (ie, 15% vs 5%; table 1 ). With respect to morbidity and healthcare costs, any observable decrease in delirium rates is clinically meaningful. Therefore, we will recruit 370 patients.
+
+Table 1
+Caption: Numeric results for testing two proportions using the Z-test with unpooled variance
+Target power | Actual power | Sample size group 1 | Sample size group 2 | Total sample size | Proportion group 1 | Proportion group 2 | Difference between proportions | Alpha
+0.80 0.90 | 0.80687 0.90131 | 56 74 | 56 74 | 112 148 | 0.01 0.01 | 0.15 0.15 | 0.14 0.14 | 0.05 0.05
+0.80 0.90 | 0.80388 0.90167 | 69 92 | 69 92 | 138 184 | 0.02 0.02 | 0.15 0.15 | 0.13 0.13 | 0.05 0.05
+0.80 0.90 | 0.80183 0.90019 | 138 184 | 138 184 | 276 368 | 0.05 0.05 | 0.15 0.15 | 0.10 0.10 | 0.05 0.05
+0.80 0.90 | 0.80009 0.90027 | 683 915 | 683 915 | 1366 1830 | 0.10 0.10 | 0.15 0.15 | 0.05 0.05 | 0.05 0.05
+0.80 0.90 | 0.80010 0.90015 | 1106 1481 | 1106 1481 | 2212 2962 | 0.11 0.11 | 0.15 0.15 | 0.04 0.04 | 0.05 0.05
+0.80 0.90 | 0.80003 0.90006 | 2033 2722 | 2033 2722 | 4066 5444 | 0.12 0.12 | 0.15 0.15 | 0.03 0.03 | 0.05 0.05
+0.80 0.90 | 0.80008 0.90004 | 4722 6321 | 4722 6321 | 9444 12 642 | 0.13 0.13 | 0.15 0.15 | 0.02 0.02 | 0.05 0.05
+0.80 0.90 | 0.80001 0.90000 | 19 458 26 048 | 19 458 26 048 | 38 916 52 096 | 0.14 0.14 | 0.15 0.15 | 0.01 0.01 | 0.05 0.05
+
+### Recruitment
+
+This study will be performed at the Massachusetts General Hospital in Boston, Massachusetts, USA. Subjects will be recruited through the cardiac surgery preoperative clinic and all enrolled patients will provide written informed consent. Informed consent for this protocol will follow a two-part process. First, a verbal consent will be obtained at the preoperative visit prior to administering preoperative baseline questionnaires. During this visit, the trial protocol will be explained to potential participants. In addition, a flyer detailing an overview of the trial protocol, as well as a copy of the formal consent form, will be given to potential trial participants to take home. A study physician will obtain final, written consent on the day of surgery (typically within 14 days of the preoperative visit). After written consent is obtained, the trial team will allocate a trial identification number to the subject based on the trial stratification schema. A clinical trial pharmacist will perform central allocation into study arms according to the randomisation key that is associated with each trial identification number.
+
+### Allocation
+
+Eligible patients who provide written informed consent will be randomised to receive either dexmedetomidine or placebo with a 1:1 allocation as per a computer-generated randomisation schedule generated by an independent statistician and stratified by cardiac surgery type (ie, valvular repair vs non-valvular repair) using permuted blocks of random sizes. The block sizes will not be disclosed until the primary end point is analysed to ensure concealment. Allocation concealment is further ensured by the fact that dexmedetomidine and placebo cannot be distinguished on the basis of appearance. The randomisation key that is associated with each participant trial identification number will remain with the clinical trial pharmacist (AD) for the duration of the study. Thus, the clinical trial pharmacist will conduct randomisation throughout the study in order to keep the data management team and the statistician blind. All trial medications will be labelled as ‘dexmedetomidine or placebo’ to preserve the integrity of randomisation assignments. Thus, randomisation into any study arm will be conducted without any influence of the study investigators, biostatisticians and outcome assessors. The CSICU nurse taking care of the patient will administer the trial medication. If other medications are indicated for the treatment of delirium, the treating physician will prescribe this as part of standard clinical care.
+
+### Blinding
+
+Assessors who are blind to treatment allocation will conduct all primary and secondary outcome assessments. To maintain the overall quality and legitimacy of the clinical trial, code breaks will occur only in exceptional circumstances when knowledge of the actual treatment is deemed essential by the treating physicians for further management of the patient. The treating physician will be directed to the clinical trial pharmacist to obtain the actual treatment code. The study investigators will maintain blindness and the treatment allocation. Additionally, the treating physician will be directed to abstain from written or verbal disclosure of the code. The principal investigator (PI) will report all code breaks to the Data and Safety Monitoring Board (DSMB).
+
+### Criteria for patient discontinuation
+
+Patients may be discontinued from trial treatment and assessments for several reasons. These include: voluntary discontinuation by the patient, safety reasons (ie, active haemorrhage) as judged by the clinical and/or trial physicians, failure to maintain study eligibility during the hospital stay or non-compliance with the protocol as judged by the trial physician.
+
+### Data analysis
+
+All trial outcomes will be evaluated using a modified intention-to-treat analysis plan. Hypothesis tests will be performed using a two-sided significance level (type I error) of α=0.05. Sensitivity analyses using the actual treatment received will also be performed and compared with the intention-to-treat analysis results. Additional sensitivity analyses will be performed to assess the potential impact of missing data due to follow-up losses. The primary outcome will be evaluated using logistic regression examining the presence or absence of delirium conditional on randomised group assignment. Any randomisation imbalances or other potential treatment effect modifiers will be further examined as covariates in sensitivity analyses. Secondary analyses will be evaluated using tests that are appropriate for the outcomes. We will use Pearson’s χ 2 tests to compare categorical variables between the two trial groups and independent t-tests or Wilcoxon rank-sum tests to compare continuous variables. Time-to-event analyses will be used to compare the effects of dexmedetomidine and placebo on mortality, and CSICU and hospital lengths of stay. Kaplan-Meier survival curves will be used for graphical presentation of these time-to-event analyses, and log-rank statistics will be used to assess these effects. For mortality analyses, patients will be censored at the time of last contact alive. Censoring for CSICU or hospital discharge readiness analyses will occur at time of death or trial withdrawal. Because missing data rarely occur entirely at random, we will assess the associations between patient characteristics with respect to missing data. If patients with at least one missing outcome value are different from those with complete outcomes data, we will use multiple imputation to assign values to missing data risk factors and outcomes in regression modelling.
+
+### Heterogeneity of treatment effects
+
+Subgroup comparisons will be conducted for heterogeneity of treatment–covariate interactions if the sample sizes and numbers of events within these subgroups are sufficient for analysis. If there is a treatment difference together with evidence of heterogeneity, relevant covariates and interaction terms will be added to the relevant regression models for formal significance testing. For the primary outcome, we plan for analyses of treatment effects within prespecified subgroups potentially defined by:
+
+- Surgery type
+- Length of cardiopulmonary bypass
+- Presence of significant cardiac dysfunction (ejection fraction <35%)
+- Sedative administration in the ICU
+- Opioid administration in the ICU
+- Pain scores
+- Baseline cognitive status
+- Organ failure
+- Postoperative cerebrovascular disease
+- Acute Physiology and Chronic Health Evaluation II/European System for Cardiac Operative Risk Evaluation II score.
+### Interim analyses
+
+Interim efficacy data will be provided to the DSMB during yearly meetings to permit benefit-to-risk assessments. An independent statistician, who is unblinded to the treatment allocation, will perform the interim analysis. The statistician will report to the DSMB in a closed session. Thus, the DSMB will have unblinded access to all data to inform recommendations. If at any time during the course of the study the DSMB judges that risk to subjects outweighs the potential benefits, the DSMB shall have the discretion and responsibility to recommend that the study be terminated.
+
+### Data management
+
+All data collected for the MINDDS trial will be entered into the Massachusetts General Hospital Research Electronic Data Capture application. 66 Data entered into the database will be retrievable for viewing through the data entry applications. Data integrity will be enforced through referential data rules, valid values, range checks and consistency checks against data already stored in the database. Programmes designed to detect missing data or specific errors in the data will be implemented to detect additional errors. These errors will be summarised along with detailed descriptions for each specific problem in monthly Data Query Reports, which will be sent to the PI. The PI will respond by checking the original forms for inconsistency, checking other sources to determine the correction, modifying the original forms as necessary and entering a response to the query. Data access will be restricted via password protection to only those individuals who are authorised to work on the trial. Specific privilege assignments within the database will also be employed to limit the types of data that authorised users may access to the minimum required by their role in the trial. Electronic audit trails will be used to capture and record changes to database contents automatically. Original study forms will also be kept in files. Participant files will be stored in numerical order in a secure and accessible place and manner. These files will be maintained in storage for a period of at least 5 years after study completion. Members of the adjudication committee will request a subset of these study forms later for quality control.
+
+### Site training
+
+Trial team members have undergone a rigorous CAM training programme led by a neuropsychologist and member of the team that created the Long-CAM. 65 The CAM is the most widely used delirium assessment tool in the research setting, with a high sensitivity and specificity when compared with formal psychiatric diagnosis. 64 65 The 3D-CAM is a 3 min assessment tool for delirium, which has good agreement with the CAM. 67 All CAM assessors will be required to score CAM interview videos depicting delirious and non-delirious patients. Team members who attended the initial CAM training programme will oversee the training of new team members. Trainees will be required to observe CAM interviews conducted by previously trained team members, and to agree with the trainer on the presence or absence of cognitive features assessed by the CAM on a minimum of six interviews. Newly trained team members will be required to conduct their first CAM assessment of a MINDDS trial patient in the presence of a previously trained team member.
+
+### Data and Safety Monitoring Board
+
+All unexpected adverse events that are related to the trial treatment will be recorded in the trial database and reported as required to the Partners Healthcare Institutional Review Board (IRB). A DSMB will also oversee the MINDDS trial. The DSMB will provide independent oversight of the MINDDS, and will review general conduct of the trial and trial data for participant safety. The DSMB comprised independent, multidisciplinary experts who will make recommendations regarding the continuation, modification or termination of the trial for harm from intervention. The members will have the requisite expertise to examine accumulating data, to protect the integrity of the clinical experiments to which the patients have consented to participate, and to assure the regulatory bodies, the public and the National Institutes of Health that conflicts of interest do not compromise either patient safety or trial integrity. The DSMB will convene before trial initiation and annually to review safety events. Recommendations from the DSMB for protocol modifications or revisions will be communicated through a representative of the National Institutes on Aging to the PI.
+
+The study operations committee will determine relatedness of an event to the study drug based on a temporal relationship to the study drug administration, whether the event is unexpected given the clinical course, previous medical conditions and concomitant medications. They will communicate to adverse events to members of the study steering committee for additional review. The study steering committee will perform expedited reviews for all events that meet the Food and Drug Administration’s definition of serious adverse events (SAEs). They will also perform expedited reviews for any event that a study investigator or the DSMB judges to impose a significant hazard, contraindication or side effect. All SAEs will be reported to the DSMB along with all relevant event and outcome information. The DSMB will be notified by email within 2 days of the occurrence of any SAE and a formal review will be performed to determine relatedness to the study. Additional reporting to the IRB will be done within 24 hours of the SAE. All patients who experience a SAE will be censored from the study at SAE occurrence.
+
+### Data monitoring and quality assurance
+
+Reflective of the state of the art in clinical trials, the MINDDS trial will employ a web-based portal for data quality and completeness. The portal will display in real time the following variables for all patients: sex, race, adverse events, study-related data, etc.
+
+### Trial risks
+
+The risk of a breach of confidentiality is small and all possible efforts have been taken to ensure the security of trial data and minimise the risks of accidental disclosure of identifiable data elements. The risks associated with dexmedetomidine are related to drug-induced reduction in sympathetic activity, resulting in hypotension and bradycardia. However, cardiovascular parameters are continuously monitored in the CSICU, ensuring that appropriate medical intervention can be instituted in a timely fashion for clinically significant hypotensive or bradycardic episodes. Thus, the risk of clinically significant hypotension or bradycardia in our patient study population is small.
+
+### Ethics and dissemination
+
+The trial steering committee will be responsible for all major decisions regarding changes to the protocol. The committee will communicate these changes to the IRB and the DSMB. Electronic data and demographic information will be accessed only as necessary for completion of trial follow-up tasks. The PI has will have access to all data. The primary papers emanating from MINDDS will present primary and secondary outcome. Secondary analyses will also be conducted to construct predictive models for delirium occurrence and resource utilisation. Mechanistic manuscripts on the pathophysiology of delirium from substudies (ie, electroencephalogram dynamics, biomarker discovery, brain imaging) will also be published. Dissemination plans include presentations at local, national and international scientific conferences. Every effort will be made to publish results of the MINDDS trial in a peer-reviewed journal. Dissemination of results to trial participants and their family members will be available on request. Updates and results of the trial will be available to the public at ClinicalTrials.gov.
+
+In summary, the MINDDS trial will evaluate a new pre-emptive therapeutic sleep strategy for the prevention of delirium and may enable new insights into the pathophysiology of delirium.
+
+## Supplementary Material
+
+## Reviewer comments
+
+## Author's manuscript
+
+## Footnotes
+
+Footnote: Contributors: Authorship for this trial will be given to key personnel involved in trial design, recruitment, data collection and data analysis. There are no publication restrictions and no professional writers will be involved in the generation of the manuscript. KTS, JQ, GC, HD, JAG, EYH, LEH, TTH, RI, KJP and OA were responsible for conceptualising trial design. JQ managed patient safety protocol. EYH, JAG, RI and LEH were responsible for recruitment, enrolment and data collection. KTS, JQ, FB, ENB, GC, DAD, HD, AD, JAG, EYH, LEH, TTH, RI, ML, KJP, SS, GT, MBW and OA have critically revised the MINDDS protocol and approved the final version. All authors agree to be accountable for the accuracy and integrity of all aspects of the MINDDS trial.
+
+Footnote: Funding: Funding for the MINDDS trial is through a grant awarded by the National Institutes on Aging (R01 AG053582).
+
+Footnote: Competing interests: OA and ENB have a provisional patent application describing the use of alpha-2 agonists for promoting N3 sleep.
+
+Footnote: Patient consent: Obtained.
+
+Footnote: Ethics approval: Partners Healthcare IRB.
+
+Footnote: Provenance and peer review: Not commissioned; externally peer reviewed.
+
+## References
+
+## Associated Data
+
+### Supplementary Materials
+
+bmjopen-2017-020316supp001.pdf
+
+### Reviewer comments
+
+### Author's manuscript

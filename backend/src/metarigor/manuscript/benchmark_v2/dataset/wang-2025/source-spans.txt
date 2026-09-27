@@ -1,0 +1,524 @@
+BEGIN V1_FACT fact-wang-2025-identity {"content_sha256": "5d5c9f10177d06eab63a5b088c5e5de01be6a67b2efd129362f5d1e7d79b0bd8", "upstream_artifact_refs": ["source-review-wang-2025"]}
+This manuscript reports a systematic review with an eligible headline synthesis.
+END V1_FACT fact-wang-2025-identity
+BEGIN V1_FACT fact-wang-2025-objective {"content_sha256": "127bd48d8d4fbb6f8810820b2f05116e914d55d5dc6f889c393229c7755a0a79", "upstream_artifact_refs": ["accepted-protocol-wang-2025"]}
+Among adults with sepsis or septic shock, compare intravenous-fluid resuscitation guided by dynamic measures of fluid responsiveness with no dynamic guidance for prespecified patient-important clinical and resuscitative outcomes.
+END V1_FACT fact-wang-2025-objective
+BEGIN V1_FACT fact-wang-2025-eligibility {"content_sha256": "5db7cc2f2dbf3868781a821f6ca314daa436d10361da7bb5341f6180d4f4f8c0", "upstream_artifact_refs": ["accepted-protocol-wang-2025"]}
+Eligibility criteria were prespecified in the accepted Protocol.
+END V1_FACT fact-wang-2025-eligibility
+BEGIN V1_FACT fact-wang-2025-search {"content_sha256": "49697db491a59e31d4fb66a917f73924ecab3f7ab18df7223df9c158d88e586c", "upstream_artifact_refs": ["source-review-wang-2025"]}
+Review 仅报告目视检查 funnel plot；因试验数不足未运行 Egger。
+END V1_FACT fact-wang-2025-search
+BEGIN V1_FACT fact-wang-2025-method-basis {"content_sha256": "9909361ff995c67a1a7af330582ce38525ceda1c4c65cdbdbd76aacc2d8da1c5", "upstream_artifact_refs": ["accepted-protocol-wang-2025", "ec-catalog"]}
+主 Results/Figure 1 为 6 RCT、441 人、RR 0.61；SoF 的 7 RCT、499 人、RR 0.63 是 Review 内部冲突，按统一 precedence 保留 Issue。
+END V1_FACT fact-wang-2025-method-basis
+BEGIN V1_FACT fact-wang-2025-selection {"content_sha256": "6ef124b2ef2381f7b9ae00095188b44b6f6b464cd57399e706de56b251c81902", "upstream_artifact_refs": ["ec-catalog"]}
+The headline synthesis included 6 studies; other selection-flow counts were not exposed in the curated V1 reference.
+END V1_FACT fact-wang-2025-selection
+BEGIN V1_FACT fact-wang-2025-studies {"content_sha256": "46d5442537112deacf5bc4a2af91d38573c4ad40e694cc0a5d0a6c41fda445ea", "upstream_artifact_refs": ["ec-catalog", "de-request-wang-2025"]}
+Review 纳入至少一臂使用 dynamic fluid-responsiveness guidance 的 RCT。
+END V1_FACT fact-wang-2025-studies
+BEGIN V1_FACT fact-wang-2025-outcome {"content_sha256": "183a66957551f0fde1f577d64d629704fed9c33c43b743620d3ad927d4d3a998", "upstream_artifact_refs": ["ec-catalog", "de-reference-wang-2025"]}
+六项 mortality effect/CI rows 中四项偏向 benefit、Gones 位于 null、Cronhjort 仅极小反向且 CI 很宽。
+END V1_FACT fact-wang-2025-outcome
+BEGIN V1_FACT fact-wang-2025-synthesis {"content_sha256": "2b741f0a25460a82101bfa553765401c91c60f6a0b10f3aa9abd38140e9a86a2", "upstream_artifact_refs": ["ec-catalog"]}
+Figure 1 六项 contributor 的 published RR=0.61 [0.42,0.90]、I²=0%，N=441，control risk=59/211。
+END V1_FACT fact-wang-2025-synthesis
+BEGIN V1_FACT fact-wang-2025-risk-of-bias {"content_sha256": "c0717727d9a5df13e5ff018400c974f42457d4d1b4e612c242091bf571b1477f", "upstream_artifact_refs": ["ec-catalog"]}
+Review 给出全证据体概况，但未闭合所选六项 mortality contributors 的逐研究 judgment 或 weight。
+END V1_FACT fact-wang-2025-risk-of-bias
+BEGIN V1_FACT fact-wang-2025-certainty {"content_sha256": "dbeaadc9807a8683e6129d831dd5221300c2665dfba8fbe4d28e7a412705288b", "upstream_artifact_refs": ["ec-gold"]}
+RoB 与 large-effect OIS 各为独立 close call。该小型证据体同时缺少 outcome-weighted RoB 闭包且远低于 modest-effect OIS，整体选择两个 close call 的保守端，降两级；Review 内部 mortality certainty 冲突单独作为 Issue。
+END V1_FACT fact-wang-2025-certainty
+BEGIN V1_FACT fact-wang-2025-context {"content_sha256": "ea2e8e8c6799058ffd10c2658f89831c296ac5d934496bd372b216a7e82a233f", "upstream_artifact_refs": ["ec-catalog"]}
+所选六项 trial 的 evidence-side PICO、time horizon、setting 与已报告 variation。
+END V1_FACT fact-wang-2025-context
+BEGIN V1_FACT fact-wang-2025-limitation {"content_sha256": "f5636c527c135092bbf256a0552ee7c0726fdf900dc63b3e25f9e88c08b7e661", "upstream_artifact_refs": ["ec-catalog"]}
+主 Results/Figure 1 为 6 RCT、441 人、RR 0.61；SoF 的 7 RCT、499 人、RR 0.63 是 Review 内部冲突，按统一 precedence 保留 Issue。
+END V1_FACT fact-wang-2025-limitation
+BEGIN DE_EVIDENCE fresh.douglas result.mortality.day28_closest {"canonical_field": "intervention_events", "document_key": "douglas.supplement_pdf", "source_path": "documents/douglas-supplement/source.pdf", "source_sha256": "976341812a131d8cdec2595de91443e769c3715ced592e4c8bd7ab84c1aa282a", "view_sha256": "42ab8e24d598c253df7209c22b3b3dcd21e198790d862056bd0d25ffd720dbde"}
+| Mortality Rate | 15.7% (13/83) | 22.0% (9/41) | -6.3% (-21.2%, 8.6%) |
+END DE_EVIDENCE fresh.douglas result.mortality.day28_closest
+BEGIN DE_CELL fresh.douglas result.mortality.day90 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report All-cause mortality as the direct arm-level result required by the accepted target.","study_key":"fresh.douglas","target_id":"result.mortality.day90","values":null}
+END DE_CELL fresh.douglas result.mortality.day90
+BEGIN DE_CELL fresh.douglas result.mortality.icu {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report ICU mortality as the direct arm-level result required by the accepted target.","study_key":"fresh.douglas","target_id":"result.mortality.icu","values":null}
+END DE_CELL fresh.douglas result.mortality.icu
+BEGIN DE_EVIDENCE fresh.douglas result.length_of_stay.icu {"canonical_field": "intervention_mean", "document_key": "douglas.pmc", "source_path": "documents/douglas-main/source.xml", "source_sha256": "497a50951f7a3c17242d8d4a8deae3d640bd43b55b183dc7da0d4531a8fd0c69", "view_sha256": "1515fb32803ef41804c4f6281ad10a70531472920739aa04ae921f0fc436f08d"}
+Table 3 Key End points Parameter Modified Intent-to-Treat Population Intervention (N = 83) Usual Care (N = 41) Treatment Difference in Mean or Percentage (95% CI) P Value a , b Primary efficacy end point Fluid balance at 72 h or ICU discharge, L Mean ± SD (No.) 0.65 ± 2.85 (83) 2.02 ± 3.44 (41) −1.37 (−2.53 to −0.21) .021 Median (Q1, Q3) 0.53 (−0.84, 2.53) 1.22 (−0.03, 3.73) … … Secondary end points for formal testing Requirement for renal replacement therapy, c % (n/N) 5.1 (4/79) 17.5 (7/40) −12.4% (−0.27 to −0.01) .042∗∗ Requirement for ventilator use, d % (n/N) 17.7 (14/79) 34.1 (14/41) −16.42% (−0.33 to 0.00) .044∗∗ Length of ICU stay, e d Mean ± SD (No.) 3.31 ± 3.51 (74) 6.22 ± 10.72 (35) −2.91 (−6.67 to 0.85) .113 Median (Q1, Q3) 2.09 (0.85, 3.75) 2.90 (1.27, 3.80) … … Ventilator use (30-day period), f h Mean ± SD (No.) 46.99 ± 52.33 (14) 119.42 ± 134.90 (14) −72.43 (−154.08 to 9.22) .079 Median (Q1, Q3) 20.47 (6.23, 59.04) 75.60 (10.49, 213.63) … … Vasopressor use, g h Mean ± SD (No.) 40.74 ± 51.23 (55) 55.64 ± 87.42 (26) −14.91 (−52.50 to 22.68) .426 Median (Q1, Q3) 20.98 (7.62, 45.27) 30.85 (13.75, 47.60) … … Changes in serum creatinine levels from baseline to 72 h h Mean ± SD (No.) 0.13 ± 1.10 (79) 0.04 ± 0.97 (34) 0.09 (−0.34 to 0.52) .453
+END DE_EVIDENCE fresh.douglas result.length_of_stay.icu
+BEGIN DE_EVIDENCE fresh.douglas result.length_of_stay.hospital {"canonical_field": "intervention_mean", "document_key": "douglas.supplement_pdf", "source_path": "documents/douglas-supplement/source.pdf", "source_sha256": "976341812a131d8cdec2595de91443e769c3715ced592e4c8bd7ab84c1aa282a", "view_sha256": "42ab8e24d598c253df7209c22b3b3dcd21e198790d862056bd0d25ffd720dbde"}
+| Length of Stay in Hospital (Days) |  |  |  |
+| Mean ± SD (N) | 8.9 ± 8.1 (83) | 10.2 ± 11.1 (41) | -1.22 (-4.70, 2.25) |
+END DE_EVIDENCE fresh.douglas result.length_of_stay.hospital
+BEGIN DE_EVIDENCE fresh.douglas result.mechanical_ventilation.need {"canonical_field": "intervention_events", "document_key": "douglas.pmc", "source_path": "documents/douglas-main/source.xml", "source_sha256": "497a50951f7a3c17242d8d4a8deae3d640bd43b55b183dc7da0d4531a8fd0c69", "view_sha256": "1515fb32803ef41804c4f6281ad10a70531472920739aa04ae921f0fc436f08d"}
+Table 3 Key End points Parameter Modified Intent-to-Treat Population Intervention (N = 83) Usual Care (N = 41) Treatment Difference in Mean or Percentage (95% CI) P Value a , b Primary efficacy end point Fluid balance at 72 h or ICU discharge, L Mean ± SD (No.) 0.65 ± 2.85 (83) 2.02 ± 3.44 (41) −1.37 (−2.53 to −0.21) .021 Median (Q1, Q3) 0.53 (−0.84, 2.53) 1.22 (−0.03, 3.73) … … Secondary end points for formal testing Requirement for renal replacement therapy, c % (n/N) 5.1 (4/79) 17.5 (7/40) −12.4% (−0.27 to −0.01) .042∗∗ Requirement for ventilator use, d % (n/N) 17.7 (14/79) 34.1 (14/41) −16.42% (−0.33 to 0.00) .044∗∗ Length of ICU stay, e d Mean ± SD (No.) 3.31 ± 3.51 (74) 6.22 ± 10.72 (35) −2.91 (−6.67 to 0.85) .113 Median (Q1, Q3) 2.09 (0.85, 3.75) 2.90 (1.27, 3.80) … … Ventilator use (30-day period), f h Mean ± SD (No.) 46.99 ± 52.33 (14) 119.42 ± 134.90 (14) −72.43 (−154.08 to 9.22) .079 Median (Q1, Q3) 20.47 (6.23, 59.04) 75.60 (10.49, 213.63) … … Vasopressor use, g h Mean ± SD (No.) 40.74 ± 51.23 (55) 55.64 ± 87.42 (26) −14.91 (−52.50 to 22.68) .426 Median (Q1, Q3) 20.98 (7.62, 45.27) 30.85 (13.75, 47.60) … … Changes in serum creatinine levels from baseline to 72 h h Mean ± SD (No.) 0.13 ± 1.10 (79) 0.04 ± 0.97 (34) 0.09 (−0.34 to 0.52) .453
+END DE_EVIDENCE fresh.douglas result.mechanical_ventilation.need
+BEGIN DE_EVIDENCE fresh.douglas result.mechanical_ventilation.duration {"canonical_field": "intervention_mean", "document_key": "douglas.pmc", "source_path": "documents/douglas-main/source.xml", "source_sha256": "497a50951f7a3c17242d8d4a8deae3d640bd43b55b183dc7da0d4531a8fd0c69", "view_sha256": "1515fb32803ef41804c4f6281ad10a70531472920739aa04ae921f0fc436f08d"}
+Table 3 Key End points Parameter Modified Intent-to-Treat Population Intervention (N = 83) Usual Care (N = 41) Treatment Difference in Mean or Percentage (95% CI) P Value a , b Primary efficacy end point Fluid balance at 72 h or ICU discharge, L Mean ± SD (No.) 0.65 ± 2.85 (83) 2.02 ± 3.44 (41) −1.37 (−2.53 to −0.21) .021 Median (Q1, Q3) 0.53 (−0.84, 2.53) 1.22 (−0.03, 3.73) … … Secondary end points for formal testing Requirement for renal replacement therapy, c % (n/N) 5.1 (4/79) 17.5 (7/40) −12.4% (−0.27 to −0.01) .042∗∗ Requirement for ventilator use, d % (n/N) 17.7 (14/79) 34.1 (14/41) −16.42% (−0.33 to 0.00) .044∗∗ Length of ICU stay, e d Mean ± SD (No.) 3.31 ± 3.51 (74) 6.22 ± 10.72 (35) −2.91 (−6.67 to 0.85) .113 Median (Q1, Q3) 2.09 (0.85, 3.75) 2.90 (1.27, 3.80) … … Ventilator use (30-day period), f h Mean ± SD (No.) 46.99 ± 52.33 (14) 119.42 ± 134.90 (14) −72.43 (−154.08 to 9.22) .079 Median (Q1, Q3) 20.47 (6.23, 59.04) 75.60 (10.49, 213.63) … … Vasopressor use, g h Mean ± SD (No.) 40.74 ± 51.23 (55) 55.64 ± 87.42 (26) −14.91 (−52.50 to 22.68) .426 Median (Q1, Q3) 20.98 (7.62, 45.27) 30.85 (13.75, 47.60) … … Changes in serum creatinine levels from baseline to 72 h h Mean ± SD (No.) 0.13 ± 1.10 (79) 0.04 ± 0.97 (34) 0.09 (−0.34 to 0.52) .453
+END DE_EVIDENCE fresh.douglas result.mechanical_ventilation.duration
+BEGIN DE_EVIDENCE fresh.douglas result.renal_replacement_therapy.need {"canonical_field": "intervention_events", "document_key": "douglas.pmc", "source_path": "documents/douglas-main/source.xml", "source_sha256": "497a50951f7a3c17242d8d4a8deae3d640bd43b55b183dc7da0d4531a8fd0c69", "view_sha256": "1515fb32803ef41804c4f6281ad10a70531472920739aa04ae921f0fc436f08d"}
+Table 3 Key End points Parameter Modified Intent-to-Treat Population Intervention (N = 83) Usual Care (N = 41) Treatment Difference in Mean or Percentage (95% CI) P Value a , b Primary efficacy end point Fluid balance at 72 h or ICU discharge, L Mean ± SD (No.) 0.65 ± 2.85 (83) 2.02 ± 3.44 (41) −1.37 (−2.53 to −0.21) .021 Median (Q1, Q3) 0.53 (−0.84, 2.53) 1.22 (−0.03, 3.73) … … Secondary end points for formal testing Requirement for renal replacement therapy, c % (n/N) 5.1 (4/79) 17.5 (7/40) −12.4% (−0.27 to −0.01) .042∗∗ Requirement for ventilator use, d % (n/N) 17.7 (14/79) 34.1 (14/41) −16.42% (−0.33 to 0.00) .044∗∗ Length of ICU stay, e d Mean ± SD (No.) 3.31 ± 3.51 (74) 6.22 ± 10.72 (35) −2.91 (−6.67 to 0.85) .113 Median (Q1, Q3) 2.09 (0.85, 3.75) 2.90 (1.27, 3.80) … … Ventilator use (30-day period), f h Mean ± SD (No.) 46.99 ± 52.33 (14) 119.42 ± 134.90 (14) −72.43 (−154.08 to 9.22) .079 Median (Q1, Q3) 20.47 (6.23, 59.04) 75.60 (10.49, 213.63) … … Vasopressor use, g h Mean ± SD (No.) 40.74 ± 51.23 (55) 55.64 ± 87.42 (26) −14.91 (−52.50 to 22.68) .426 Median (Q1, Q3) 20.98 (7.62, 45.27) 30.85 (13.75, 47.60) … … Changes in serum creatinine levels from baseline to 72 h h Mean ± SD (No.) 0.13 ± 1.10 (79) 0.04 ± 0.97 (34) 0.09 (−0.34 to 0.52) .453
+END DE_EVIDENCE fresh.douglas result.renal_replacement_therapy.need
+BEGIN DE_CELL fresh.douglas result.renal_replacement_therapy.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of renal replacement therapy as the direct arm-level result required by the accepted target.","study_key":"fresh.douglas","target_id":"result.renal_replacement_therapy.duration","values":null}
+END DE_CELL fresh.douglas result.renal_replacement_therapy.duration
+BEGIN DE_CELL fresh.douglas result.acute_kidney_injury {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Acute kidney injury as the direct arm-level result required by the accepted target.","study_key":"fresh.douglas","target_id":"result.acute_kidney_injury","values":null}
+END DE_CELL fresh.douglas result.acute_kidney_injury
+BEGIN DE_EVIDENCE fresh.douglas result.fluid_volume.day1 {"canonical_field": "intervention_mean", "document_key": "douglas.supplement_pdf", "source_path": "documents/douglas-supplement/source.pdf", "source_sha256": "976341812a131d8cdec2595de91443e769c3715ced592e4c8bd7ab84c1aa282a", "view_sha256": "42ab8e24d598c253df7209c22b3b3dcd21e198790d862056bd0d25ffd720dbde"}
+| Fluid: Total 0-24 Hrs post- Enrollment(mL) |  |  |  |
+| Mean ± SD (N) | 2030.30 ± 1524.26 (83) | 2389.05 ± 1794.47 (41) | -358.75 (-970.10, 252.60) |
+END DE_EVIDENCE fresh.douglas result.fluid_volume.day1
+BEGIN DE_EVIDENCE fresh.douglas result.fluid_balance.day3 {"canonical_field": "intervention_mean", "document_key": "douglas.pmc", "source_path": "documents/douglas-main/source.xml", "source_sha256": "497a50951f7a3c17242d8d4a8deae3d640bd43b55b183dc7da0d4531a8fd0c69", "view_sha256": "1515fb32803ef41804c4f6281ad10a70531472920739aa04ae921f0fc436f08d"}
+Table 3 Key End points Parameter Modified Intent-to-Treat Population Intervention (N = 83) Usual Care (N = 41) Treatment Difference in Mean or Percentage (95% CI) P Value a , b Primary efficacy end point Fluid balance at 72 h or ICU discharge, L Mean ± SD (No.) 0.65 ± 2.85 (83) 2.02 ± 3.44 (41) −1.37 (−2.53 to −0.21) .021 Median (Q1, Q3) 0.53 (−0.84, 2.53) 1.22 (−0.03, 3.73) … … Secondary end points for formal testing Requirement for renal replacement therapy, c % (n/N) 5.1 (4/79) 17.5 (7/40) −12.4% (−0.27 to −0.01) .042∗∗ Requirement for ventilator use, d % (n/N) 17.7 (14/79) 34.1 (14/41) −16.42% (−0.33 to 0.00) .044∗∗ Length of ICU stay, e d Mean ± SD (No.) 3.31 ± 3.51 (74) 6.22 ± 10.72 (35) −2.91 (−6.67 to 0.85) .113 Median (Q1, Q3) 2.09 (0.85, 3.75) 2.90 (1.27, 3.80) … … Ventilator use (30-day period), f h Mean ± SD (No.) 46.99 ± 52.33 (14) 119.42 ± 134.90 (14) −72.43 (−154.08 to 9.22) .079 Median (Q1, Q3) 20.47 (6.23, 59.04) 75.60 (10.49, 213.63) … … Vasopressor use, g h Mean ± SD (No.) 40.74 ± 51.23 (55) 55.64 ± 87.42 (26) −14.91 (−52.50 to 22.68) .426 Median (Q1, Q3) 20.98 (7.62, 45.27) 30.85 (13.75, 47.60) … … Changes in serum creatinine levels from baseline to 72 h h Mean ± SD (No.) 0.13 ± 1.10 (79) 0.04 ± 0.97 (34) 0.09 (−0.34 to 0.52) .453
+END DE_EVIDENCE fresh.douglas result.fluid_balance.day3
+BEGIN DE_EVIDENCE fresh.douglas result.vasopressor.use {"canonical_field": "intervention_events", "document_key": "douglas.pmc", "source_path": "documents/douglas-main/source.xml", "source_sha256": "497a50951f7a3c17242d8d4a8deae3d640bd43b55b183dc7da0d4531a8fd0c69", "view_sha256": "1515fb32803ef41804c4f6281ad10a70531472920739aa04ae921f0fc436f08d"}
+Table 3 Key End points Parameter Modified Intent-to-Treat Population Intervention (N = 83) Usual Care (N = 41) Treatment Difference in Mean or Percentage (95% CI) P Value a , b Primary efficacy end point Fluid balance at 72 h or ICU discharge, L Mean ± SD (No.) 0.65 ± 2.85 (83) 2.02 ± 3.44 (41) −1.37 (−2.53 to −0.21) .021 Median (Q1, Q3) 0.53 (−0.84, 2.53) 1.22 (−0.03, 3.73) … … Secondary end points for formal testing Requirement for renal replacement therapy, c % (n/N) 5.1 (4/79) 17.5 (7/40) −12.4% (−0.27 to −0.01) .042∗∗ Requirement for ventilator use, d % (n/N) 17.7 (14/79) 34.1 (14/41) −16.42% (−0.33 to 0.00) .044∗∗ Length of ICU stay, e d Mean ± SD (No.) 3.31 ± 3.51 (74) 6.22 ± 10.72 (35) −2.91 (−6.67 to 0.85) .113 Median (Q1, Q3) 2.09 (0.85, 3.75) 2.90 (1.27, 3.80) … … Ventilator use (30-day period), f h Mean ± SD (No.) 46.99 ± 52.33 (14) 119.42 ± 134.90 (14) −72.43 (−154.08 to 9.22) .079 Median (Q1, Q3) 20.47 (6.23, 59.04) 75.60 (10.49, 213.63) … … Vasopressor use, g h Mean ± SD (No.) 40.74 ± 51.23 (55) 55.64 ± 87.42 (26) −14.91 (−52.50 to 22.68) .426 Median (Q1, Q3) 20.98 (7.62, 45.27) 30.85 (13.75, 47.60) … … Changes in serum creatinine levels from baseline to 72 h h Mean ± SD (No.) 0.13 ± 1.10 (79) 0.04 ± 0.97 (34) 0.09 (−0.34 to 0.52) .453
+END DE_EVIDENCE fresh.douglas result.vasopressor.use
+BEGIN DE_EVIDENCE fresh.douglas result.inotrope.use {"canonical_field": "intervention_events", "document_key": "douglas.supplement_pdf", "source_path": "documents/douglas-supplement/source.pdf", "source_sha256": "976341812a131d8cdec2595de91443e769c3715ced592e4c8bd7ab84c1aa282a", "view_sha256": "42ab8e24d598c253df7209c22b3b3dcd21e198790d862056bd0d25ffd720dbde"}
+| Percentage of subjects on inotropes | 3.6% (3/83) | 4.9% (2/41) | -1.3% (-9.0%, 6.5%) |
+END DE_EVIDENCE fresh.douglas result.inotrope.use
+BEGIN DE_EVIDENCE fresh.douglas result.vasopressor.duration {"canonical_field": "intervention_mean", "document_key": "douglas.pmc", "source_path": "documents/douglas-main/source.xml", "source_sha256": "497a50951f7a3c17242d8d4a8deae3d640bd43b55b183dc7da0d4531a8fd0c69", "view_sha256": "1515fb32803ef41804c4f6281ad10a70531472920739aa04ae921f0fc436f08d"}
+Table 3 Key End points Parameter Modified Intent-to-Treat Population Intervention (N = 83) Usual Care (N = 41) Treatment Difference in Mean or Percentage (95% CI) P Value a , b Primary efficacy end point Fluid balance at 72 h or ICU discharge, L Mean ± SD (No.) 0.65 ± 2.85 (83) 2.02 ± 3.44 (41) −1.37 (−2.53 to −0.21) .021 Median (Q1, Q3) 0.53 (−0.84, 2.53) 1.22 (−0.03, 3.73) … … Secondary end points for formal testing Requirement for renal replacement therapy, c % (n/N) 5.1 (4/79) 17.5 (7/40) −12.4% (−0.27 to −0.01) .042∗∗ Requirement for ventilator use, d % (n/N) 17.7 (14/79) 34.1 (14/41) −16.42% (−0.33 to 0.00) .044∗∗ Length of ICU stay, e d Mean ± SD (No.) 3.31 ± 3.51 (74) 6.22 ± 10.72 (35) −2.91 (−6.67 to 0.85) .113 Median (Q1, Q3) 2.09 (0.85, 3.75) 2.90 (1.27, 3.80) … … Ventilator use (30-day period), f h Mean ± SD (No.) 46.99 ± 52.33 (14) 119.42 ± 134.90 (14) −72.43 (−154.08 to 9.22) .079 Median (Q1, Q3) 20.47 (6.23, 59.04) 75.60 (10.49, 213.63) … … Vasopressor use, g h Mean ± SD (No.) 40.74 ± 51.23 (55) 55.64 ± 87.42 (26) −14.91 (−52.50 to 22.68) .426 Median (Q1, Q3) 20.98 (7.62, 45.27) 30.85 (13.75, 47.60) … … Changes in serum creatinine levels from baseline to 72 h h Mean ± SD (No.) 0.13 ± 1.10 (79) 0.04 ± 0.97 (34) 0.09 (−0.34 to 0.52) .453
+END DE_EVIDENCE fresh.douglas result.vasopressor.duration
+BEGIN DE_EVIDENCE richard.preload_dependence result.mortality.day28_closest {"canonical_field": "intervention_events", "document_key": "richard.pmc", "source_path": "documents/richard-main/source.xml", "source_sha256": "8acbb432abef30ca31aa21688ffbc6487e1411411028f8b8060dbe7b424cd2f2", "view_sha256": "84d7da798eb7f9ad3451a7c0138afedcb4e30987dd6c0e3dce73a72cf858e4b1"}
+Table 4 Study outcomes Control Preload dependence P (n = 30) (n = 30) Time to shock resolution (days) 2.0 [1.2-3.1] 2.3 [1.4-5.6] 0.29 Ventilator-free days at day 28 8 [0-21] 14 [0-24] 0.35 Number of days with lactates above upper normal laboratory limit 1 [1-4] 2 [1-4] 0.14 Number of days with pulmonary edema (that is ELWI >10 ml.kg -1 PBW) 4 [1-5] 4 [1-6] 0.94 Number of days with organ system failure (that is SOFA ≥6) 4 [3-5] 4 [2-8] 0.61 ICU length of stay (days) 10 [7-20] 14 [6-28] 0.55 In survivors 14 [9-28] 22 [6-28] 0.89 In non-survivors 8 [5-11] 5 [3-17] 0.85 Mortality at day 28 14 (47%) 7 (23%) 0.10 Data are median [interquartile range] or number of patients (%).
+END DE_EVIDENCE richard.preload_dependence result.mortality.day28_closest
+BEGIN DE_CELL richard.preload_dependence result.mortality.day90 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report All-cause mortality as the direct arm-level result required by the accepted target.","study_key":"richard.preload_dependence","target_id":"result.mortality.day90","values":null}
+END DE_CELL richard.preload_dependence result.mortality.day90
+BEGIN DE_CELL richard.preload_dependence result.mortality.icu {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report ICU mortality as the direct arm-level result required by the accepted target.","study_key":"richard.preload_dependence","target_id":"result.mortality.icu","values":null}
+END DE_CELL richard.preload_dependence result.mortality.icu
+BEGIN DE_CELL richard.preload_dependence result.length_of_stay.icu {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report ICU length of stay as the direct arm-level result required by the accepted target.","study_key":"richard.preload_dependence","target_id":"result.length_of_stay.icu","values":null}
+END DE_CELL richard.preload_dependence result.length_of_stay.icu
+BEGIN DE_CELL richard.preload_dependence result.length_of_stay.hospital {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Hospital length of stay as the direct arm-level result required by the accepted target.","study_key":"richard.preload_dependence","target_id":"result.length_of_stay.hospital","values":null}
+END DE_CELL richard.preload_dependence result.length_of_stay.hospital
+BEGIN DE_CELL richard.preload_dependence result.mechanical_ventilation.need {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Need for invasive mechanical ventilation as the direct arm-level result required by the accepted target.","study_key":"richard.preload_dependence","target_id":"result.mechanical_ventilation.need","values":null}
+END DE_CELL richard.preload_dependence result.mechanical_ventilation.need
+BEGIN DE_CELL richard.preload_dependence result.mechanical_ventilation.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of invasive mechanical ventilation as the direct arm-level result required by the accepted target.","study_key":"richard.preload_dependence","target_id":"result.mechanical_ventilation.duration","values":null}
+END DE_CELL richard.preload_dependence result.mechanical_ventilation.duration
+BEGIN DE_CELL richard.preload_dependence result.renal_replacement_therapy.need {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Need for renal replacement therapy as the direct arm-level result required by the accepted target.","study_key":"richard.preload_dependence","target_id":"result.renal_replacement_therapy.need","values":null}
+END DE_CELL richard.preload_dependence result.renal_replacement_therapy.need
+BEGIN DE_CELL richard.preload_dependence result.renal_replacement_therapy.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of renal replacement therapy as the direct arm-level result required by the accepted target.","study_key":"richard.preload_dependence","target_id":"result.renal_replacement_therapy.duration","values":null}
+END DE_CELL richard.preload_dependence result.renal_replacement_therapy.duration
+BEGIN DE_CELL richard.preload_dependence result.acute_kidney_injury {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Acute kidney injury as the direct arm-level result required by the accepted target.","study_key":"richard.preload_dependence","target_id":"result.acute_kidney_injury","values":null}
+END DE_CELL richard.preload_dependence result.acute_kidney_injury
+BEGIN DE_CELL richard.preload_dependence result.fluid_volume.day1 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Intravenous fluid administered on day 1 as the direct arm-level result required by the accepted target.","study_key":"richard.preload_dependence","target_id":"result.fluid_volume.day1","values":null}
+END DE_CELL richard.preload_dependence result.fluid_volume.day1
+BEGIN DE_CELL richard.preload_dependence result.fluid_balance.day3 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The primary report provides daily fluid balance as median and interquartile range, not cumulative day-3 arm-level mean, SD and N.","study_key":"richard.preload_dependence","target_id":"result.fluid_balance.day3","values":null}
+END DE_CELL richard.preload_dependence result.fluid_balance.day3
+BEGIN DE_CELL richard.preload_dependence result.vasopressor.use {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Vasopressor administration as the direct arm-level result required by the accepted target.","study_key":"richard.preload_dependence","target_id":"result.vasopressor.use","values":null}
+END DE_CELL richard.preload_dependence result.vasopressor.use
+BEGIN DE_CELL richard.preload_dependence result.inotrope.use {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Inotrope administration as the direct arm-level result required by the accepted target.","study_key":"richard.preload_dependence","target_id":"result.inotrope.use","values":null}
+END DE_CELL richard.preload_dependence result.inotrope.use
+BEGIN DE_CELL richard.preload_dependence result.vasopressor.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of vasopressor use as the direct arm-level result required by the accepted target.","study_key":"richard.preload_dependence","target_id":"result.vasopressor.duration","values":null}
+END DE_CELL richard.preload_dependence result.vasopressor.duration
+BEGIN DE_EVIDENCE gones.kuan result.mortality.day28_closest {"canonical_field": "intervention_events", "document_key": "kuan.publisher", "source_path": "documents/kuan-primary/source.pdf", "source_sha256": "e0e8b01b1dd19a88ccaa93a0c4b25da06e278d0e5426f5e2304e03c04a81bbc9", "view_sha256": "9f64823751d46ebfc13bd859e51d9baafd1073205a3d565114b6ae3b5490cffa"}
+| 28-day mortality, No. (%) | 6 (9.8) | 6 (9.8) | 1.00 (0.34 to 2.93) |
+END DE_EVIDENCE gones.kuan result.mortality.day28_closest
+BEGIN DE_EVIDENCE gones.kuan result.mortality.day28_closest {"canonical_field": "intervention_group_size", "document_key": "kuan.publisher", "source_path": "documents/kuan-primary/source.pdf", "source_sha256": "e0e8b01b1dd19a88ccaa93a0c4b25da06e278d0e5426f5e2304e03c04a81bbc9", "view_sha256": "9f64823751d46ebfc13bd859e51d9baafd1073205a3d565114b6ae3b5490cffa"}
+| Variable | Intervention (N [ 61) | Control (N [ 61) | Effect Size (95% CI) |
+END DE_EVIDENCE gones.kuan result.mortality.day28_closest
+BEGIN DE_CELL gones.kuan result.mortality.day90 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report All-cause mortality as the direct arm-level result required by the accepted target.","study_key":"gones.kuan","target_id":"result.mortality.day90","values":null}
+END DE_CELL gones.kuan result.mortality.day90
+BEGIN DE_EVIDENCE gones.kuan result.mortality.icu {"canonical_field": "intervention_events", "document_key": "kuan.publisher", "source_path": "documents/kuan-primary/source.pdf", "source_sha256": "e0e8b01b1dd19a88ccaa93a0c4b25da06e278d0e5426f5e2304e03c04a81bbc9", "view_sha256": "9f64823751d46ebfc13bd859e51d9baafd1073205a3d565114b6ae3b5490cffa"}
+| ICU mortality, No. (%) † | 6 (27.3) | 4 (17.4) | 1.57 (0.51 to 4.82) |
+END DE_EVIDENCE gones.kuan result.mortality.icu
+BEGIN DE_CELL gones.kuan result.length_of_stay.icu {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The primary report provides ICU length of stay as median and interquartile range, not arm-level mean, SD and N.","study_key":"gones.kuan","target_id":"result.length_of_stay.icu","values":null}
+END DE_CELL gones.kuan result.length_of_stay.icu
+BEGIN DE_CELL gones.kuan result.length_of_stay.hospital {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The primary report provides hospital length of stay as median and interquartile range, not arm-level mean, SD and N.","study_key":"gones.kuan","target_id":"result.length_of_stay.hospital","values":null}
+END DE_CELL gones.kuan result.length_of_stay.hospital
+BEGIN DE_EVIDENCE gones.kuan result.mechanical_ventilation.need {"canonical_field": "intervention_events", "document_key": "kuan.publisher", "source_path": "documents/kuan-primary/source.pdf", "source_sha256": "e0e8b01b1dd19a88ccaa93a0c4b25da06e278d0e5426f5e2304e03c04a81bbc9", "view_sha256": "9f64823751d46ebfc13bd859e51d9baafd1073205a3d565114b6ae3b5490cffa"}
+| Intubation | 10 (16.4) | 8 (13.1) | 1.3 (0.5 to 3.0) |
+END DE_EVIDENCE gones.kuan result.mechanical_ventilation.need
+BEGIN DE_EVIDENCE gones.kuan result.mechanical_ventilation.need {"canonical_field": "intervention_group_size", "document_key": "kuan.publisher", "source_path": "documents/kuan-primary/source.pdf", "source_sha256": "e0e8b01b1dd19a88ccaa93a0c4b25da06e278d0e5426f5e2304e03c04a81bbc9", "view_sha256": "9f64823751d46ebfc13bd859e51d9baafd1073205a3d565114b6ae3b5490cffa"}
+| Variable | Intervention (N [ 61) | Control (N [ 61) | Effect Size (95% CI) |
+END DE_EVIDENCE gones.kuan result.mechanical_ventilation.need
+BEGIN DE_CELL gones.kuan result.mechanical_ventilation.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of invasive mechanical ventilation as the direct arm-level result required by the accepted target.","study_key":"gones.kuan","target_id":"result.mechanical_ventilation.duration","values":null}
+END DE_CELL gones.kuan result.mechanical_ventilation.duration
+BEGIN DE_CELL gones.kuan result.renal_replacement_therapy.need {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Need for renal replacement therapy as the direct arm-level result required by the accepted target.","study_key":"gones.kuan","target_id":"result.renal_replacement_therapy.need","values":null}
+END DE_CELL gones.kuan result.renal_replacement_therapy.need
+BEGIN DE_CELL gones.kuan result.renal_replacement_therapy.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of renal replacement therapy as the direct arm-level result required by the accepted target.","study_key":"gones.kuan","target_id":"result.renal_replacement_therapy.duration","values":null}
+END DE_CELL gones.kuan result.renal_replacement_therapy.duration
+BEGIN DE_CELL gones.kuan result.acute_kidney_injury {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Acute kidney injury as the direct arm-level result required by the accepted target.","study_key":"gones.kuan","target_id":"result.acute_kidney_injury","values":null}
+END DE_CELL gones.kuan result.acute_kidney_injury
+BEGIN DE_CELL gones.kuan result.fluid_volume.day1 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Intravenous fluid administered on day 1 as the direct arm-level result required by the accepted target.","study_key":"gones.kuan","target_id":"result.fluid_volume.day1","values":null}
+END DE_CELL gones.kuan result.fluid_volume.day1
+BEGIN DE_CELL gones.kuan result.fluid_balance.day3 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Cumulative fluid balance as the direct arm-level result required by the accepted target.","study_key":"gones.kuan","target_id":"result.fluid_balance.day3","values":null}
+END DE_CELL gones.kuan result.fluid_balance.day3
+BEGIN DE_CELL gones.kuan result.vasopressor.use {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The source reports dopamine and norepinephrine separately, but does not identify the participant-level union needed for the prespecified any-vasopressor result.","study_key":"gones.kuan","target_id":"result.vasopressor.use","values":null}
+END DE_CELL gones.kuan result.vasopressor.use
+BEGIN DE_EVIDENCE gones.kuan result.inotrope.use {"canonical_field": "intervention_events", "document_key": "kuan.publisher", "source_path": "documents/kuan-primary/source.pdf", "source_sha256": "e0e8b01b1dd19a88ccaa93a0c4b25da06e278d0e5426f5e2304e03c04a81bbc9", "view_sha256": "9f64823751d46ebfc13bd859e51d9baafd1073205a3d565114b6ae3b5490cffa"}
+| Dobutamine | 2 (3.3) | 2 (3.3) | 1.0 (0.2 to 6.9) |
+END DE_EVIDENCE gones.kuan result.inotrope.use
+BEGIN DE_EVIDENCE gones.kuan result.inotrope.use {"canonical_field": "intervention_group_size", "document_key": "kuan.publisher", "source_path": "documents/kuan-primary/source.pdf", "source_sha256": "e0e8b01b1dd19a88ccaa93a0c4b25da06e278d0e5426f5e2304e03c04a81bbc9", "view_sha256": "9f64823751d46ebfc13bd859e51d9baafd1073205a3d565114b6ae3b5490cffa"}
+| Variable | Intervention (N [ 61) | Control (N [ 61) | Effect Size (95% CI) |
+END DE_EVIDENCE gones.kuan result.inotrope.use
+BEGIN DE_CELL gones.kuan result.vasopressor.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of vasopressor use as the direct arm-level result required by the accepted target.","study_key":"gones.kuan","target_id":"result.vasopressor.duration","values":null}
+END DE_CELL gones.kuan result.vasopressor.duration
+BEGIN DE_EVIDENCE lin.gedi result.mortality.day28_closest {"canonical_field": "intervention_events", "document_key": "lin.pubmed", "source_path": "documents/lin-pubmed/source.xml", "source_sha256": "1c9bd0f773ad8ac16c24fc7f71e8b938468a5db365b6e62d6f1fe3583d31b911", "view_sha256": "6ff9013fc6624cea6e6dc6768f949e5cf2c497b1c4aca042b3a30238ed64a040"}
+Objective: To investigate the effect of global end-diastolic volume index (GEDI)-guided fluid resuscitation on the prognosis of patients with chronic heart failure and septic shock. Methods: This study was a prospective randomized controlled study. Consecutive eligible patients were divided into 2 groups according to the random number table method: control group (n=21) and experimental group (n=20). On the basis of routine treatment, patients in the control group received early goal-directed therapy until the central venous pressure (CVP) reaching 8-12 mmHg (1 mmHg=0.133 kPa), mean arterial pressure reaching over 65 mmHg, urine volume reaching over 0.5 ml·kg(-1)·h(-1), and central venous oxygen saturation reaching more than 70%. On the basis of routine treatment, patients in the experimental group were monitored continuously on cardiac output with pulse indication and fluid resuscitation guided by volume index GEDI. The GEDI should be maintained on the range of 680-800 ml/m(2). The remaining resuscitation goals were the same as control group. General clinical data of the two groups were collected at admission. Negative fluid balance onset time, duration of mechanical ventilation, ICU mortality and 28-day mortality were compared between the two groups. The outcomes were recorded as listed: start time of negative fluid balance, duration of mechanical ventilation, mortality in ICU and 28-day mortality. Results: There was no significant difference in age, sex, weight, APACHE Ⅱ score, SOFA score and NYHA functional class score between the two groups (all P>0.05). The negative liquid balance onset time in the control group was 3.5 (2.5, 4.0) days, which was significantly longer than that in the experimental group (2.6 (2.0, 3.0) days,U=115.0, P=0.012). The duration of mechanical ventilation was 355 (118, 552) hours in the control group, which was significantly longer than that in the experimental group (132 (36.75, 233.3) hours, U=130, P=0.038). The ICU mortality was 38.1% (8/21) in the control group, tended to be higher than that in the experimental group (20.0%(4/20), χ(2)=1.620, P=0.203). The 28-day mortality was 42.9% (9/21) in the control group, similar as in the experimental group (25.0%(5/20), χ(2)=1.482,P=0.477). Conclusion: Fluid resuscitation guided by volume index (GEDI) may improve the prognosis of patients with chronic heart failure complicated with septic shock.
+END DE_EVIDENCE lin.gedi result.mortality.day28_closest
+BEGIN DE_CELL lin.gedi result.mortality.day90 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report All-cause mortality as the direct arm-level result required by the accepted target.","study_key":"lin.gedi","target_id":"result.mortality.day90","values":null}
+END DE_CELL lin.gedi result.mortality.day90
+BEGIN DE_EVIDENCE lin.gedi result.mortality.icu {"canonical_field": "intervention_events", "document_key": "lin.pubmed", "source_path": "documents/lin-pubmed/source.xml", "source_sha256": "1c9bd0f773ad8ac16c24fc7f71e8b938468a5db365b6e62d6f1fe3583d31b911", "view_sha256": "6ff9013fc6624cea6e6dc6768f949e5cf2c497b1c4aca042b3a30238ed64a040"}
+Objective: To investigate the effect of global end-diastolic volume index (GEDI)-guided fluid resuscitation on the prognosis of patients with chronic heart failure and septic shock. Methods: This study was a prospective randomized controlled study. Consecutive eligible patients were divided into 2 groups according to the random number table method: control group (n=21) and experimental group (n=20). On the basis of routine treatment, patients in the control group received early goal-directed therapy until the central venous pressure (CVP) reaching 8-12 mmHg (1 mmHg=0.133 kPa), mean arterial pressure reaching over 65 mmHg, urine volume reaching over 0.5 ml·kg(-1)·h(-1), and central venous oxygen saturation reaching more than 70%. On the basis of routine treatment, patients in the experimental group were monitored continuously on cardiac output with pulse indication and fluid resuscitation guided by volume index GEDI. The GEDI should be maintained on the range of 680-800 ml/m(2). The remaining resuscitation goals were the same as control group. General clinical data of the two groups were collected at admission. Negative fluid balance onset time, duration of mechanical ventilation, ICU mortality and 28-day mortality were compared between the two groups. The outcomes were recorded as listed: start time of negative fluid balance, duration of mechanical ventilation, mortality in ICU and 28-day mortality. Results: There was no significant difference in age, sex, weight, APACHE Ⅱ score, SOFA score and NYHA functional class score between the two groups (all P>0.05). The negative liquid balance onset time in the control group was 3.5 (2.5, 4.0) days, which was significantly longer than that in the experimental group (2.6 (2.0, 3.0) days,U=115.0, P=0.012). The duration of mechanical ventilation was 355 (118, 552) hours in the control group, which was significantly longer than that in the experimental group (132 (36.75, 233.3) hours, U=130, P=0.038). The ICU mortality was 38.1% (8/21) in the control group, tended to be higher than that in the experimental group (20.0%(4/20), χ(2)=1.620, P=0.203). The 28-day mortality was 42.9% (9/21) in the control group, similar as in the experimental group (25.0%(5/20), χ(2)=1.482,P=0.477). Conclusion: Fluid resuscitation guided by volume index (GEDI) may improve the prognosis of patients with chronic heart failure complicated with septic shock.
+END DE_EVIDENCE lin.gedi result.mortality.icu
+BEGIN DE_CELL lin.gedi result.length_of_stay.icu {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report ICU length of stay as the direct arm-level result required by the accepted target.","study_key":"lin.gedi","target_id":"result.length_of_stay.icu","values":null}
+END DE_CELL lin.gedi result.length_of_stay.icu
+BEGIN DE_CELL lin.gedi result.length_of_stay.hospital {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Hospital length of stay as the direct arm-level result required by the accepted target.","study_key":"lin.gedi","target_id":"result.length_of_stay.hospital","values":null}
+END DE_CELL lin.gedi result.length_of_stay.hospital
+BEGIN DE_CELL lin.gedi result.mechanical_ventilation.need {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Need for invasive mechanical ventilation as the direct arm-level result required by the accepted target.","study_key":"lin.gedi","target_id":"result.mechanical_ventilation.need","values":null}
+END DE_CELL lin.gedi result.mechanical_ventilation.need
+BEGIN DE_CELL lin.gedi result.mechanical_ventilation.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The abstract provides duration of mechanical ventilation as median and interquartile range, not arm-level mean, SD and N.","study_key":"lin.gedi","target_id":"result.mechanical_ventilation.duration","values":null}
+END DE_CELL lin.gedi result.mechanical_ventilation.duration
+BEGIN DE_CELL lin.gedi result.renal_replacement_therapy.need {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Need for renal replacement therapy as the direct arm-level result required by the accepted target.","study_key":"lin.gedi","target_id":"result.renal_replacement_therapy.need","values":null}
+END DE_CELL lin.gedi result.renal_replacement_therapy.need
+BEGIN DE_CELL lin.gedi result.renal_replacement_therapy.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of renal replacement therapy as the direct arm-level result required by the accepted target.","study_key":"lin.gedi","target_id":"result.renal_replacement_therapy.duration","values":null}
+END DE_CELL lin.gedi result.renal_replacement_therapy.duration
+BEGIN DE_CELL lin.gedi result.acute_kidney_injury {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Acute kidney injury as the direct arm-level result required by the accepted target.","study_key":"lin.gedi","target_id":"result.acute_kidney_injury","values":null}
+END DE_CELL lin.gedi result.acute_kidney_injury
+BEGIN DE_CELL lin.gedi result.fluid_volume.day1 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Intravenous fluid administered on day 1 as the direct arm-level result required by the accepted target.","study_key":"lin.gedi","target_id":"result.fluid_volume.day1","values":null}
+END DE_CELL lin.gedi result.fluid_volume.day1
+BEGIN DE_CELL lin.gedi result.fluid_balance.day3 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Cumulative fluid balance as the direct arm-level result required by the accepted target.","study_key":"lin.gedi","target_id":"result.fluid_balance.day3","values":null}
+END DE_CELL lin.gedi result.fluid_balance.day3
+BEGIN DE_CELL lin.gedi result.vasopressor.use {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Vasopressor administration as the direct arm-level result required by the accepted target.","study_key":"lin.gedi","target_id":"result.vasopressor.use","values":null}
+END DE_CELL lin.gedi result.vasopressor.use
+BEGIN DE_CELL lin.gedi result.inotrope.use {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Inotrope administration as the direct arm-level result required by the accepted target.","study_key":"lin.gedi","target_id":"result.inotrope.use","values":null}
+END DE_CELL lin.gedi result.inotrope.use
+BEGIN DE_CELL lin.gedi result.vasopressor.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of vasopressor use as the direct arm-level result required by the accepted target.","study_key":"lin.gedi","target_id":"result.vasopressor.duration","values":null}
+END DE_CELL lin.gedi result.vasopressor.duration
+BEGIN DE_EVIDENCE cronhjort.plr result.mortality.day28_closest {"canonical_field": "intervention_events", "document_key": "cronhjort.publisher", "source_path": "documents/cronhjort-primary/source.pdf", "source_sha256": "55e08702342f53aae8c29ee1d1e5cebc83b615074deaa9134400193057cf0f7e", "view_sha256": "b423c0b7a2414baf514fddce21a8c749271e2b6e1606ce5b0a1ba186825dc7a7"}
+We randomised 34 patients; 16 patients to the PLRgroup and 18 to the control group. One patient in the PLR group had a hip fracture and no PLR test could be performed. This patient was analysed according to an intention to treat approach. One patient in the PLR group refused to be weighed, and was thus included in the hemodynamic analyses but not in the analysis of primary outcome. The PLR group was slightly older, had fewer female patients and had lower creatinine at ICU-admission and a lower SOFA- score compared with the standard care group. None of these differences were statistically significant. The mean SAPS-3 score was similar, as was the primary source of sepsis (abdomen) (Table 1). The median (IQR) study time was 86.5 (81- 92) hours in the PLR group and 86.5 (8290) hours in the control group. In the PLRgroup 31% were discharged from the ICU before the final weight measurement vs. 39% in the control group.
+
+Complications
+
+We experienced initial problems of bleeding following the removal of the femoral catheter in one patient. This led us to protocolize the use of a pressure application by compression equip- Central measurements are means with standard deviation for continuous normally distributed data and medians with IQR for skewed data. For categorical data numbers and percentages are described.
+
+JAPM WWW.JAPMNET.COM
+
+June 30, 2017, online first Volume 4 Number x
+
+5
+
+[DOCLING_PAGE 6]
+
+Journal of Anesthesia and Perioperative Medicine
+
+Original Article
+
+[DOCLING_TABLE rows=23 columns=4]
+|  | PLR (n = 16) | Controls (n = 18) | P- val- ue |
+| Age (years) | 71 ± 11 | 66 ± 15 | 0.25 |
+| Weight (kg) | 74 (62-79) | 75 (56-93) | 0.62 |
+| Female Sex | 5 (31.3%) | 10 (55.6%) | 0.19 |
+| SAPS 3 score | 64 ± 12 | 64 ± 10 | 0.85 |
+| Co-morbidities |  |  |  |
+| NYHAIV | 0 | 0 |  |
+| Liver cirrhosis | 0 | 1(5.6%) | N/A |
+| Disseminated cancer | 2 (12.5%) | 4 (22.2%) | N/A |
+| Hematologic malignancy | 0 | 0 |  |
+| SOFA score at admission | 5.9 ± 3.3 | 7.2 ± 2.2 | 0.25 |
+| Lactate at ICU admission mmol/l | 2.2 (1.4-4.1) | 2.5 (2.0-4.3) | 0.48 |
+| Creatinine at ICU admis- sion μmol/l | 110 (54-194) | 93 (64-220) | 0.81 |
+| Surgery before admission | 10 (62.5%) | 9 (50%) | 0.43 |
+| Time from ICU admission to randomization (hours) | 5.0 (1.3-14) | 5.0 (1.5-9.3) | 0.65 |
+| Positive blood culture | 7 (43.7%) | 10 (55.6%) | 0.87 |
+| Primary source of infection |  |  |  |
+| Lungs | 4 (25.0%) | 4 (22.2%) | N/A |
+| Abdomen | 9 (56.3%) | 7 (38.9%) | 0.49 |
+| Urinary tract | 2 (12.5%) | 1 (5.6%) | N/A |
+| Soft tissue | 1 (6.3%) | 3 (16.7%) | N/A |
+| CNS | 0 | 0 |  |
+| Unclear source | 0 | 2 (11.1%) | N/A |
+[/DOCLING_TABLE]
+
+®
+
+ment (Femostop , St. Jude Medical Systems AB, Uppsala, Sweden) for 60 minutes following the removal of the catheter. We also had one case of a femoral thrombosis following arterial cannulation that required surgical trombectomy. Thus, we had a rate of serious complications of 12.5% from the use of the PiCCO.
+
+Outcome
+
+The mean (SD) weight gain after three full days was 0.6 ± 3.2 kg in the PLR group and 1.3 ± 3.9 kg in the control group (P = 0.59). The median (IQR) amount of administered resuscitation fluid during the study period was 2103 (12832645) ml in the PLR group and 2408 (9545045) ml in the control group (P = 0.38). The corresponding mean (SD) cumulated fluid balance was 1566 ± 3725 ml in the PLR-group and 2669 ± 2675 ml in the control group (P = 0.33) (Table 2). Thirty-day mortality was 12.5% in the PLR group and 11.1% in the control group (P = 1.00). Median (IQR) ICU length of stay was 141 (66-278) hours in the PLR group and 139 (43-251) hours in the control group (P = 0.73).
+END DE_EVIDENCE cronhjort.plr result.mortality.day28_closest
+BEGIN DE_CELL cronhjort.plr result.mortality.day90 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report All-cause mortality as the direct arm-level result required by the accepted target.","study_key":"cronhjort.plr","target_id":"result.mortality.day90","values":null}
+END DE_CELL cronhjort.plr result.mortality.day90
+BEGIN DE_CELL cronhjort.plr result.mortality.icu {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report ICU mortality as the direct arm-level result required by the accepted target.","study_key":"cronhjort.plr","target_id":"result.mortality.icu","values":null}
+END DE_CELL cronhjort.plr result.mortality.icu
+BEGIN DE_CELL cronhjort.plr result.length_of_stay.icu {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report ICU length of stay as the direct arm-level result required by the accepted target.","study_key":"cronhjort.plr","target_id":"result.length_of_stay.icu","values":null}
+END DE_CELL cronhjort.plr result.length_of_stay.icu
+BEGIN DE_CELL cronhjort.plr result.length_of_stay.hospital {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Hospital length of stay as the direct arm-level result required by the accepted target.","study_key":"cronhjort.plr","target_id":"result.length_of_stay.hospital","values":null}
+END DE_CELL cronhjort.plr result.length_of_stay.hospital
+BEGIN DE_CELL cronhjort.plr result.mechanical_ventilation.need {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Need for invasive mechanical ventilation as the direct arm-level result required by the accepted target.","study_key":"cronhjort.plr","target_id":"result.mechanical_ventilation.need","values":null}
+END DE_CELL cronhjort.plr result.mechanical_ventilation.need
+BEGIN DE_CELL cronhjort.plr result.mechanical_ventilation.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of invasive mechanical ventilation as the direct arm-level result required by the accepted target.","study_key":"cronhjort.plr","target_id":"result.mechanical_ventilation.duration","values":null}
+END DE_CELL cronhjort.plr result.mechanical_ventilation.duration
+BEGIN DE_CELL cronhjort.plr result.renal_replacement_therapy.need {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Need for renal replacement therapy as the direct arm-level result required by the accepted target.","study_key":"cronhjort.plr","target_id":"result.renal_replacement_therapy.need","values":null}
+END DE_CELL cronhjort.plr result.renal_replacement_therapy.need
+BEGIN DE_CELL cronhjort.plr result.renal_replacement_therapy.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of renal replacement therapy as the direct arm-level result required by the accepted target.","study_key":"cronhjort.plr","target_id":"result.renal_replacement_therapy.duration","values":null}
+END DE_CELL cronhjort.plr result.renal_replacement_therapy.duration
+BEGIN DE_CELL cronhjort.plr result.acute_kidney_injury {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Acute kidney injury as the direct arm-level result required by the accepted target.","study_key":"cronhjort.plr","target_id":"result.acute_kidney_injury","values":null}
+END DE_CELL cronhjort.plr result.acute_kidney_injury
+BEGIN DE_CELL cronhjort.plr result.fluid_volume.day1 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Intravenous fluid administered on day 1 as the direct arm-level result required by the accepted target.","study_key":"cronhjort.plr","target_id":"result.fluid_volume.day1","values":null}
+END DE_CELL cronhjort.plr result.fluid_volume.day1
+BEGIN DE_EVIDENCE cronhjort.plr result.fluid_balance.day3 {"canonical_field": "intervention_mean", "document_key": "cronhjort.publisher", "source_path": "documents/cronhjort-primary/source.pdf", "source_sha256": "55e08702342f53aae8c29ee1d1e5cebc83b615074deaa9134400193057cf0f7e", "view_sha256": "b423c0b7a2414baf514fddce21a8c749271e2b6e1606ce5b0a1ba186825dc7a7"}
+| Cumulative fluid balance (ml) | 1566 ± 3725 | 2669 ± 2675 | 0.33 |
+END DE_EVIDENCE cronhjort.plr result.fluid_balance.day3
+BEGIN DE_CELL cronhjort.plr result.vasopressor.use {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Vasopressor administration as the direct arm-level result required by the accepted target.","study_key":"cronhjort.plr","target_id":"result.vasopressor.use","values":null}
+END DE_CELL cronhjort.plr result.vasopressor.use
+BEGIN DE_EVIDENCE cronhjort.plr result.inotrope.use {"canonical_field": "intervention_events", "document_key": "cronhjort.publisher", "source_path": "documents/cronhjort-primary/source.pdf", "source_sha256": "55e08702342f53aae8c29ee1d1e5cebc83b615074deaa9134400193057cf0f7e", "view_sha256": "b423c0b7a2414baf514fddce21a8c749271e2b6e1606ce5b0a1ba186825dc7a7"}
+| Number of patients with inotropy (n) | 3 (18.8%) | 4 (22.2%) | N/A |
+END DE_EVIDENCE cronhjort.plr result.inotrope.use
+BEGIN DE_CELL cronhjort.plr result.vasopressor.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of vasopressor use as the direct arm-level result required by the accepted target.","study_key":"cronhjort.plr","target_id":"result.vasopressor.duration","values":null}
+END DE_CELL cronhjort.plr result.vasopressor.duration
+BEGIN DE_EVIDENCE moress.gruartmoner result.mortality.day28_closest {"canonical_field": "intervention_events", "document_key": "gruartmoner.conference_abstract", "source_path": "documents/gruartmoner-primary/source.pdf", "source_sha256": "64718f88bb0331c69aaead631b3240c09c3a769c490891eca480f352208d07db", "view_sha256": "049bc40d95702860fcc8679dd55b0551b9be7192162ade320d2f5a9571528a10"}
+RESULTS. The study was interrupted after two years because of low patient inclusion rate. A total of 60 patients were included in 12 centers. 66.6% of the patients were randomized to control group (n=40), and 33.3% to intervention group (n=20). There were no differences in baseline patients characteristics between the two groups. Median age was 62 ± 15 years, 65% male, 82% in septic shock, with initial SOFA score 12 ± 4 points. Lactate at inclusion was 4.7 ± 3.6 mmol/L. Global mortality was 30%, 47% in the control group and 21% in the intervention group ( p = 0.1). There were no differences in lactate evolution at 6 and 24 hours of admission. Fluid balance during the study period (72h) was significantly increased in the control group (5812 ± 4818 mL vs 3035 ± 3031 mL, p 0.02).
+END DE_EVIDENCE moress.gruartmoner result.mortality.day28_closest
+BEGIN DE_CELL moress.gruartmoner result.mortality.day90 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report All-cause mortality as the direct arm-level result required by the accepted target.","study_key":"moress.gruartmoner","target_id":"result.mortality.day90","values":null}
+END DE_CELL moress.gruartmoner result.mortality.day90
+BEGIN DE_CELL moress.gruartmoner result.mortality.icu {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report ICU mortality as the direct arm-level result required by the accepted target.","study_key":"moress.gruartmoner","target_id":"result.mortality.icu","values":null}
+END DE_CELL moress.gruartmoner result.mortality.icu
+BEGIN DE_CELL moress.gruartmoner result.length_of_stay.icu {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report ICU length of stay as the direct arm-level result required by the accepted target.","study_key":"moress.gruartmoner","target_id":"result.length_of_stay.icu","values":null}
+END DE_CELL moress.gruartmoner result.length_of_stay.icu
+BEGIN DE_CELL moress.gruartmoner result.length_of_stay.hospital {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Hospital length of stay as the direct arm-level result required by the accepted target.","study_key":"moress.gruartmoner","target_id":"result.length_of_stay.hospital","values":null}
+END DE_CELL moress.gruartmoner result.length_of_stay.hospital
+BEGIN DE_CELL moress.gruartmoner result.mechanical_ventilation.need {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Need for invasive mechanical ventilation as the direct arm-level result required by the accepted target.","study_key":"moress.gruartmoner","target_id":"result.mechanical_ventilation.need","values":null}
+END DE_CELL moress.gruartmoner result.mechanical_ventilation.need
+BEGIN DE_CELL moress.gruartmoner result.mechanical_ventilation.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of invasive mechanical ventilation as the direct arm-level result required by the accepted target.","study_key":"moress.gruartmoner","target_id":"result.mechanical_ventilation.duration","values":null}
+END DE_CELL moress.gruartmoner result.mechanical_ventilation.duration
+BEGIN DE_CELL moress.gruartmoner result.renal_replacement_therapy.need {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Need for renal replacement therapy as the direct arm-level result required by the accepted target.","study_key":"moress.gruartmoner","target_id":"result.renal_replacement_therapy.need","values":null}
+END DE_CELL moress.gruartmoner result.renal_replacement_therapy.need
+BEGIN DE_CELL moress.gruartmoner result.renal_replacement_therapy.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of renal replacement therapy as the direct arm-level result required by the accepted target.","study_key":"moress.gruartmoner","target_id":"result.renal_replacement_therapy.duration","values":null}
+END DE_CELL moress.gruartmoner result.renal_replacement_therapy.duration
+BEGIN DE_CELL moress.gruartmoner result.acute_kidney_injury {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Acute kidney injury as the direct arm-level result required by the accepted target.","study_key":"moress.gruartmoner","target_id":"result.acute_kidney_injury","values":null}
+END DE_CELL moress.gruartmoner result.acute_kidney_injury
+BEGIN DE_CELL moress.gruartmoner result.fluid_volume.day1 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Intravenous fluid administered on day 1 as the direct arm-level result required by the accepted target.","study_key":"moress.gruartmoner","target_id":"result.fluid_volume.day1","values":null}
+END DE_CELL moress.gruartmoner result.fluid_volume.day1
+BEGIN DE_EVIDENCE moress.gruartmoner result.fluid_balance.day3 {"canonical_field": "intervention_mean", "document_key": "gruartmoner.conference_abstract", "source_path": "documents/gruartmoner-primary/source.pdf", "source_sha256": "64718f88bb0331c69aaead631b3240c09c3a769c490891eca480f352208d07db", "view_sha256": "049bc40d95702860fcc8679dd55b0551b9be7192162ade320d2f5a9571528a10"}
+RESULTS. The study was interrupted after two years because of low patient inclusion rate. A total of 60 patients were included in 12 centers. 66.6% of the patients were randomized to control group (n=40), and 33.3% to intervention group (n=20). There were no differences in baseline patients characteristics between the two groups. Median age was 62 ± 15 years, 65% male, 82% in septic shock, with initial SOFA score 12 ± 4 points. Lactate at inclusion was 4.7 ± 3.6 mmol/L. Global mortality was 30%, 47% in the control group and 21% in the intervention group ( p = 0.1). There were no differences in lactate evolution at 6 and 24 hours of admission. Fluid balance during the study period (72h) was significantly increased in the control group (5812 ± 4818 mL vs 3035 ± 3031 mL, p 0.02).
+END DE_EVIDENCE moress.gruartmoner result.fluid_balance.day3
+BEGIN DE_CELL moress.gruartmoner result.vasopressor.use {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Vasopressor administration as the direct arm-level result required by the accepted target.","study_key":"moress.gruartmoner","target_id":"result.vasopressor.use","values":null}
+END DE_CELL moress.gruartmoner result.vasopressor.use
+BEGIN DE_CELL moress.gruartmoner result.inotrope.use {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Inotrope administration as the direct arm-level result required by the accepted target.","study_key":"moress.gruartmoner","target_id":"result.inotrope.use","values":null}
+END DE_CELL moress.gruartmoner result.inotrope.use
+BEGIN DE_CELL moress.gruartmoner result.vasopressor.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of vasopressor use as the direct arm-level result required by the accepted target.","study_key":"moress.gruartmoner","target_id":"result.vasopressor.duration","values":null}
+END DE_CELL moress.gruartmoner result.vasopressor.duration
+BEGIN DE_EVIDENCE chen.fluid_minimization result.mortality.day28_closest {"canonical_field": "intervention_events", "document_key": "chen.publisher", "source_path": "documents/chen-primary/source.pdf", "source_sha256": "552297a63aa8e3c8798339382d82c6a8af2af8d5db425f05343ab0ce6eb4b3e9", "view_sha256": "b23cc55f8ac97e6b98f28d9e3843c6f7222001995f8114b4575ba653b495f684"}
+| In-hospital mortality | 20 (48.8) | 23 (56.1) | .51 |
+END DE_EVIDENCE chen.fluid_minimization result.mortality.day28_closest
+BEGIN DE_EVIDENCE chen.fluid_minimization result.mortality.day28_closest {"canonical_field": "intervention_group_size", "document_key": "chen.publisher", "source_path": "documents/chen-primary/source.pdf", "source_sha256": "552297a63aa8e3c8798339382d82c6a8af2af8d5db425f05343ab0ce6eb4b3e9", "view_sha256": "b23cc55f8ac97e6b98f28d9e3843c6f7222001995f8114b4575ba653b495f684"}
+| Outcome | Control Arm (n 5 41) | Intervention Arm (n 5 41) | P Value |
+END DE_EVIDENCE chen.fluid_minimization result.mortality.day28_closest
+BEGIN DE_CELL chen.fluid_minimization result.mortality.day90 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report All-cause mortality as the direct arm-level result required by the accepted target.","study_key":"chen.fluid_minimization","target_id":"result.mortality.day90","values":null}
+END DE_CELL chen.fluid_minimization result.mortality.day90
+BEGIN DE_CELL chen.fluid_minimization result.mortality.icu {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report ICU mortality as the direct arm-level result required by the accepted target.","study_key":"chen.fluid_minimization","target_id":"result.mortality.icu","values":null}
+END DE_CELL chen.fluid_minimization result.mortality.icu
+BEGIN DE_CELL chen.fluid_minimization result.length_of_stay.icu {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report ICU length of stay as the direct arm-level result required by the accepted target.","study_key":"chen.fluid_minimization","target_id":"result.length_of_stay.icu","values":null}
+END DE_CELL chen.fluid_minimization result.length_of_stay.icu
+BEGIN DE_CELL chen.fluid_minimization result.length_of_stay.hospital {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Hospital length of stay as the direct arm-level result required by the accepted target.","study_key":"chen.fluid_minimization","target_id":"result.length_of_stay.hospital","values":null}
+END DE_CELL chen.fluid_minimization result.length_of_stay.hospital
+BEGIN DE_CELL chen.fluid_minimization result.mechanical_ventilation.need {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Need for invasive mechanical ventilation as the direct arm-level result required by the accepted target.","study_key":"chen.fluid_minimization","target_id":"result.mechanical_ventilation.need","values":null}
+END DE_CELL chen.fluid_minimization result.mechanical_ventilation.need
+BEGIN DE_CELL chen.fluid_minimization result.mechanical_ventilation.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The primary report provides ventilator days as median and interquartile range, not arm-level mean, SD and N.","study_key":"chen.fluid_minimization","target_id":"result.mechanical_ventilation.duration","values":null}
+END DE_CELL chen.fluid_minimization result.mechanical_ventilation.duration
+BEGIN DE_EVIDENCE chen.fluid_minimization result.renal_replacement_therapy.need {"canonical_field": "intervention_events", "document_key": "chen.publisher", "source_path": "documents/chen-primary/source.pdf", "source_sha256": "552297a63aa8e3c8798339382d82c6a8af2af8d5db425f05343ab0ce6eb4b3e9", "view_sha256": "b23cc55f8ac97e6b98f28d9e3843c6f7222001995f8114b4575ba653b495f684"}
+| Renal replacement therapy | 16 (39.0) | 17 (41.5) | .82 |
+END DE_EVIDENCE chen.fluid_minimization result.renal_replacement_therapy.need
+BEGIN DE_EVIDENCE chen.fluid_minimization result.renal_replacement_therapy.need {"canonical_field": "intervention_group_size", "document_key": "chen.publisher", "source_path": "documents/chen-primary/source.pdf", "source_sha256": "552297a63aa8e3c8798339382d82c6a8af2af8d5db425f05343ab0ce6eb4b3e9", "view_sha256": "b23cc55f8ac97e6b98f28d9e3843c6f7222001995f8114b4575ba653b495f684"}
+| Outcome | Control Arm (n 5 41) | Intervention Arm (n 5 41) | P Value |
+END DE_EVIDENCE chen.fluid_minimization result.renal_replacement_therapy.need
+BEGIN DE_CELL chen.fluid_minimization result.renal_replacement_therapy.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of renal replacement therapy as the direct arm-level result required by the accepted target.","study_key":"chen.fluid_minimization","target_id":"result.renal_replacement_therapy.duration","values":null}
+END DE_CELL chen.fluid_minimization result.renal_replacement_therapy.duration
+BEGIN DE_CELL chen.fluid_minimization result.acute_kidney_injury {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Acute kidney injury as the direct arm-level result required by the accepted target.","study_key":"chen.fluid_minimization","target_id":"result.acute_kidney_injury","values":null}
+END DE_CELL chen.fluid_minimization result.acute_kidney_injury
+BEGIN DE_CELL chen.fluid_minimization result.fluid_volume.day1 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Intravenous fluid administered on day 1 as the direct arm-level result required by the accepted target.","study_key":"chen.fluid_minimization","target_id":"result.fluid_volume.day1","values":null}
+END DE_CELL chen.fluid_minimization result.fluid_volume.day1
+BEGIN DE_CELL chen.fluid_minimization result.fluid_balance.day3 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The primary report provides day-3 cumulative fluid balance as median and interquartile range, not arm-level mean, SD and N.","study_key":"chen.fluid_minimization","target_id":"result.fluid_balance.day3","values":null}
+END DE_CELL chen.fluid_minimization result.fluid_balance.day3
+BEGIN DE_CELL chen.fluid_minimization result.vasopressor.use {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Vasopressor administration as the direct arm-level result required by the accepted target.","study_key":"chen.fluid_minimization","target_id":"result.vasopressor.use","values":null}
+END DE_CELL chen.fluid_minimization result.vasopressor.use
+BEGIN DE_CELL chen.fluid_minimization result.inotrope.use {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Inotrope administration as the direct arm-level result required by the accepted target.","study_key":"chen.fluid_minimization","target_id":"result.inotrope.use","values":null}
+END DE_CELL chen.fluid_minimization result.inotrope.use
+BEGIN DE_CELL chen.fluid_minimization result.vasopressor.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The primary report provides vasopressor days as median and interquartile range, not arm-level mean, SD and N.","study_key":"chen.fluid_minimization","target_id":"result.vasopressor.duration","values":null}
+END DE_CELL chen.fluid_minimization result.vasopressor.duration
+BEGIN DE_CELL juneja.svv result.mortality.day28_closest {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report All-cause mortality as the direct arm-level result required by the accepted target.","study_key":"juneja.svv","target_id":"result.mortality.day28_closest","values":null}
+END DE_CELL juneja.svv result.mortality.day28_closest
+BEGIN DE_CELL juneja.svv result.mortality.day90 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report All-cause mortality as the direct arm-level result required by the accepted target.","study_key":"juneja.svv","target_id":"result.mortality.day90","values":null}
+END DE_CELL juneja.svv result.mortality.day90
+BEGIN DE_EVIDENCE juneja.svv result.mortality.icu {"canonical_field": "intervention_events", "document_key": "juneja.conference_abstract", "source_path": "documents/juneja-primary/source.pdf", "source_sha256": "05c2f20323e237c8ce66fde1574cf7ad99b1bf18ab067fad2d4c7daced931bb1", "view_sha256": "59ead63a45fd967ce2184cbc3b55ad94e331494228a06a7a5daf4dc9b40153b4"}
+| ICU mortality | 19 (39.6%) |  | 18 (34%) |  | 0.56 |
+END DE_EVIDENCE juneja.svv result.mortality.icu
+BEGIN DE_EVIDENCE juneja.svv result.mortality.icu {"canonical_field": "intervention_group_size", "document_key": "juneja.conference_abstract", "source_path": "documents/juneja-primary/source.pdf", "source_sha256": "05c2f20323e237c8ce66fde1574cf7ad99b1bf18ab067fad2d4c7daced931bb1", "view_sha256": "59ead63a45fd967ce2184cbc3b55ad94e331494228a06a7a5daf4dc9b40153b4"}
+| Parameter interest | of Conventional ( n = 48) | therapy | Stroke volume ( n = 53) | variation | P value |
+END DE_EVIDENCE juneja.svv result.mortality.icu
+BEGIN DE_EVIDENCE juneja.svv result.length_of_stay.icu {"canonical_field": "intervention_mean", "document_key": "juneja.conference_abstract", "source_path": "documents/juneja-primary/source.pdf", "source_sha256": "05c2f20323e237c8ce66fde1574cf7ad99b1bf18ab067fad2d4c7daced931bb1", "view_sha256": "59ead63a45fd967ce2184cbc3b55ad94e331494228a06a7a5daf4dc9b40153b4"}
+| Length of ICU stay | 7.2 ? 3.1 |  | 6.8 ? 3.4 |  | 0.83 |
+END DE_EVIDENCE juneja.svv result.length_of_stay.icu
+BEGIN DE_EVIDENCE juneja.svv result.length_of_stay.icu {"canonical_field": "intervention_group_size", "document_key": "juneja.conference_abstract", "source_path": "documents/juneja-primary/source.pdf", "source_sha256": "05c2f20323e237c8ce66fde1574cf7ad99b1bf18ab067fad2d4c7daced931bb1", "view_sha256": "59ead63a45fd967ce2184cbc3b55ad94e331494228a06a7a5daf4dc9b40153b4"}
+| Parameter interest | of Conventional ( n = 48) | therapy | Stroke volume ( n = 53) | variation | P value |
+END DE_EVIDENCE juneja.svv result.length_of_stay.icu
+BEGIN DE_CELL juneja.svv result.length_of_stay.hospital {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Hospital length of stay as the direct arm-level result required by the accepted target.","study_key":"juneja.svv","target_id":"result.length_of_stay.hospital","values":null}
+END DE_CELL juneja.svv result.length_of_stay.hospital
+BEGIN DE_CELL juneja.svv result.mechanical_ventilation.need {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Need for invasive mechanical ventilation as the direct arm-level result required by the accepted target.","study_key":"juneja.svv","target_id":"result.mechanical_ventilation.need","values":null}
+END DE_CELL juneja.svv result.mechanical_ventilation.need
+BEGIN DE_CELL juneja.svv result.mechanical_ventilation.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of invasive mechanical ventilation as the direct arm-level result required by the accepted target.","study_key":"juneja.svv","target_id":"result.mechanical_ventilation.duration","values":null}
+END DE_CELL juneja.svv result.mechanical_ventilation.duration
+BEGIN DE_EVIDENCE juneja.svv result.renal_replacement_therapy.need {"canonical_field": "intervention_events", "document_key": "juneja.conference_abstract", "source_path": "documents/juneja-primary/source.pdf", "source_sha256": "05c2f20323e237c8ce66fde1574cf7ad99b1bf18ab067fad2d4c7daced931bb1", "view_sha256": "59ead63a45fd967ce2184cbc3b55ad94e331494228a06a7a5daf4dc9b40153b4"}
+| Need for RRT | 21 (43.8%) |  | 15 (28.3%) |  | 0.1 |
+END DE_EVIDENCE juneja.svv result.renal_replacement_therapy.need
+BEGIN DE_EVIDENCE juneja.svv result.renal_replacement_therapy.need {"canonical_field": "intervention_group_size", "document_key": "juneja.conference_abstract", "source_path": "documents/juneja-primary/source.pdf", "source_sha256": "05c2f20323e237c8ce66fde1574cf7ad99b1bf18ab067fad2d4c7daced931bb1", "view_sha256": "59ead63a45fd967ce2184cbc3b55ad94e331494228a06a7a5daf4dc9b40153b4"}
+| Parameter interest | of Conventional ( n = 48) | therapy | Stroke volume ( n = 53) | variation | P value |
+END DE_EVIDENCE juneja.svv result.renal_replacement_therapy.need
+BEGIN DE_CELL juneja.svv result.renal_replacement_therapy.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of renal replacement therapy as the direct arm-level result required by the accepted target.","study_key":"juneja.svv","target_id":"result.renal_replacement_therapy.duration","values":null}
+END DE_CELL juneja.svv result.renal_replacement_therapy.duration
+BEGIN DE_EVIDENCE juneja.svv result.acute_kidney_injury {"canonical_field": "intervention_events", "document_key": "juneja.conference_abstract", "source_path": "documents/juneja-primary/source.pdf", "source_sha256": "05c2f20323e237c8ce66fde1574cf7ad99b1bf18ab067fad2d4c7daced931bb1", "view_sha256": "59ead63a45fd967ce2184cbc3b55ad94e331494228a06a7a5daf4dc9b40153b4"}
+| Incidence of AKI | 29 (60.4%) |  | 21 (39.6%) |  | 0.037 |
+END DE_EVIDENCE juneja.svv result.acute_kidney_injury
+BEGIN DE_EVIDENCE juneja.svv result.acute_kidney_injury {"canonical_field": "intervention_group_size", "document_key": "juneja.conference_abstract", "source_path": "documents/juneja-primary/source.pdf", "source_sha256": "05c2f20323e237c8ce66fde1574cf7ad99b1bf18ab067fad2d4c7daced931bb1", "view_sha256": "59ead63a45fd967ce2184cbc3b55ad94e331494228a06a7a5daf4dc9b40153b4"}
+| Parameter interest | of Conventional ( n = 48) | therapy | Stroke volume ( n = 53) | variation | P value |
+END DE_EVIDENCE juneja.svv result.acute_kidney_injury
+BEGIN DE_CELL juneja.svv result.fluid_volume.day1 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Intravenous fluid administered on day 1 as the direct arm-level result required by the accepted target.","study_key":"juneja.svv","target_id":"result.fluid_volume.day1","values":null}
+END DE_CELL juneja.svv result.fluid_volume.day1
+BEGIN DE_CELL juneja.svv result.fluid_balance.day3 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Cumulative fluid balance as the direct arm-level result required by the accepted target.","study_key":"juneja.svv","target_id":"result.fluid_balance.day3","values":null}
+END DE_CELL juneja.svv result.fluid_balance.day3
+BEGIN DE_CELL juneja.svv result.vasopressor.use {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Vasopressor administration as the direct arm-level result required by the accepted target.","study_key":"juneja.svv","target_id":"result.vasopressor.use","values":null}
+END DE_CELL juneja.svv result.vasopressor.use
+BEGIN DE_CELL juneja.svv result.inotrope.use {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Inotrope administration as the direct arm-level result required by the accepted target.","study_key":"juneja.svv","target_id":"result.inotrope.use","values":null}
+END DE_CELL juneja.svv result.inotrope.use
+BEGIN DE_CELL juneja.svv result.vasopressor.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of vasopressor use as the direct arm-level result required by the accepted target.","study_key":"juneja.svv","target_id":"result.vasopressor.duration","values":null}
+END DE_CELL juneja.svv result.vasopressor.duration
+BEGIN DE_EVIDENCE li.plr_tte result.mortality.day28_closest {"canonical_field": "intervention_events", "document_key": "li.abstract", "source_path": "documents/li-primary/source.txt", "source_sha256": "c4dc0b261058180533eef4e2f2a42c2c0245ab8523d2451c0a77dc48f21f0570", "view_sha256": "62fe047eae8227a121e0e23fd5620e5f41a940b215e4fa1b6d9f8f6b7b0eb155"}
+Objective To explore the clinical value of early fluid resuscitation guided by passive leg-raising test (PLR) combined with transthoracic echocardiography (TTE) in patients with septic shock. Methods A prospective randomized controlled trial (RCT) was conducted. Seventy-four patients with septic shock admitted to China-Japan Friendship Hospital from January 2017 to October 2018 were enrolled. The patients were randomly divided into control group and experimental group with 37 patients in each group. Both groups of patients were treated with broad-spectrum antibiotics empirically, while received fluid resuscitation via the subclavian vein catheter. The patients of control group were given rapid fluid replacement, and those of experimental group received fluid replacement according to result of PLR combined with TTE. The stroke volume (SV) was measured by TTE before and after PLR, volumetric response of patients was judged by stroke volume variation (SVV). If the SVV ≥ 15%, it was considered that there was a volume responsiveness, and fluid loading was given. If SVV 15%, it was considered that there was no volume shortage, and the restrictive fluid replacement was given. The goal of fluid resuscitation in both groups were to simultaneously meet the central venous pressure (CVP) of 8-12 mmHg (1 mmHg = 0.133 kPa), mean arterial pressure (MAP) ≥ 65 mmHg, urine volume ≥ 0.5 mL·kg ⁻¹ ·h ⁻¹ , and central venous blood oxygen saturation (ScvO 2 ) ≥ 0.70 within 6 hours. Vasoactive drugs were used when the patients could not achieve the treatment goals. The MAP, lactic acid (Lac), oxygenation index (PaO 2 /FiO 2 ) and ScvO 2 of the patients were determined at 6 hours of treatment, and serum C-reactive protein (CRP) and chest CT were reviewed at 48 hours of treatment, and compared with those before treatment. The total hospital stay and the mortality were recorded. Results There was no significant difference in gender, age, body weight and etiological structure between the two groups, which indicated that the baseline data were generally balanced. There was no statistical difference in MAP, Lac, PaO 2 /FiO 2 , ScvO 2 and CRP before infusion between the two groups. After 6 hours of treatment, the MAP, Lac, PaO 2 /FiO 2 and ScvO 2 of the two groups were all better than those before infusion. Except for the difference in MAP between the experimental group and the control group (mmHg: 78.76±5.22 vs. 76.35±6.66, P > 0.05), the other three parameters in the experimental group were significantly better than those in the control group [Lac (mmol/L): 2.52±1.15 vs. 3.89±1.42, PaO 2 /FiO 2 (mmHg): 338.14±27.47 vs. 303.35±22.52, ScvO 2 : 0.70±0.04 vs. 0.63±0.05, all P < 0.01]. After 48 hours of treatment, CRP levels of both groups were lower than those before infusion, and the experimental group was better than the control group (mg/L: 110.12±39.80 vs. 137.98±31.23, P < 0.01). Chest CT showed that the incidence of pulmonary edema in the experimental group was significantly lower than that in the control group [13.5% (5/37) vs. 37.8% (14/37), P < 0.01]. The hospital stay of the experimental group was shorter than that of the control group (days: 21.47±5.58 vs. 28.33±4.93, P < 0.01), but no significant difference in mortality was found between the two groups [18.9% (7/37) vs. 18.9% (7/37), P > 0.05]. Conclusion Compared with the traditional rapid fluid replacement, early fluid resuscitation treatment strategies guided by the PLR combined with TTE, could better improve perfusion and oxygenation level of tissues and organs, avoid pulmonary edema caused by rapid fluid replacement, shorten the hospital stay in patients with septic shock, but had no significant effect on hospital mortality. © 2019 Heilongjiang Institute of Science and Technology Information. All rights reserved.
+
+END DE_EVIDENCE li.plr_tte result.mortality.day28_closest
+BEGIN DE_CELL li.plr_tte result.mortality.day90 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report All-cause mortality as the direct arm-level result required by the accepted target.","study_key":"li.plr_tte","target_id":"result.mortality.day90","values":null}
+END DE_CELL li.plr_tte result.mortality.day90
+BEGIN DE_CELL li.plr_tte result.mortality.icu {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report ICU mortality as the direct arm-level result required by the accepted target.","study_key":"li.plr_tte","target_id":"result.mortality.icu","values":null}
+END DE_CELL li.plr_tte result.mortality.icu
+BEGIN DE_CELL li.plr_tte result.length_of_stay.icu {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report ICU length of stay as the direct arm-level result required by the accepted target.","study_key":"li.plr_tte","target_id":"result.length_of_stay.icu","values":null}
+END DE_CELL li.plr_tte result.length_of_stay.icu
+BEGIN DE_EVIDENCE li.plr_tte result.length_of_stay.hospital {"canonical_field": "intervention_mean", "document_key": "li.abstract", "source_path": "documents/li-primary/source.txt", "source_sha256": "c4dc0b261058180533eef4e2f2a42c2c0245ab8523d2451c0a77dc48f21f0570", "view_sha256": "62fe047eae8227a121e0e23fd5620e5f41a940b215e4fa1b6d9f8f6b7b0eb155"}
+Objective To explore the clinical value of early fluid resuscitation guided by passive leg-raising test (PLR) combined with transthoracic echocardiography (TTE) in patients with septic shock. Methods A prospective randomized controlled trial (RCT) was conducted. Seventy-four patients with septic shock admitted to China-Japan Friendship Hospital from January 2017 to October 2018 were enrolled. The patients were randomly divided into control group and experimental group with 37 patients in each group. Both groups of patients were treated with broad-spectrum antibiotics empirically, while received fluid resuscitation via the subclavian vein catheter. The patients of control group were given rapid fluid replacement, and those of experimental group received fluid replacement according to result of PLR combined with TTE. The stroke volume (SV) was measured by TTE before and after PLR, volumetric response of patients was judged by stroke volume variation (SVV). If the SVV ≥ 15%, it was considered that there was a volume responsiveness, and fluid loading was given. If SVV 15%, it was considered that there was no volume shortage, and the restrictive fluid replacement was given. The goal of fluid resuscitation in both groups were to simultaneously meet the central venous pressure (CVP) of 8-12 mmHg (1 mmHg = 0.133 kPa), mean arterial pressure (MAP) ≥ 65 mmHg, urine volume ≥ 0.5 mL·kg ⁻¹ ·h ⁻¹ , and central venous blood oxygen saturation (ScvO 2 ) ≥ 0.70 within 6 hours. Vasoactive drugs were used when the patients could not achieve the treatment goals. The MAP, lactic acid (Lac), oxygenation index (PaO 2 /FiO 2 ) and ScvO 2 of the patients were determined at 6 hours of treatment, and serum C-reactive protein (CRP) and chest CT were reviewed at 48 hours of treatment, and compared with those before treatment. The total hospital stay and the mortality were recorded. Results There was no significant difference in gender, age, body weight and etiological structure between the two groups, which indicated that the baseline data were generally balanced. There was no statistical difference in MAP, Lac, PaO 2 /FiO 2 , ScvO 2 and CRP before infusion between the two groups. After 6 hours of treatment, the MAP, Lac, PaO 2 /FiO 2 and ScvO 2 of the two groups were all better than those before infusion. Except for the difference in MAP between the experimental group and the control group (mmHg: 78.76±5.22 vs. 76.35±6.66, P > 0.05), the other three parameters in the experimental group were significantly better than those in the control group [Lac (mmol/L): 2.52±1.15 vs. 3.89±1.42, PaO 2 /FiO 2 (mmHg): 338.14±27.47 vs. 303.35±22.52, ScvO 2 : 0.70±0.04 vs. 0.63±0.05, all P < 0.01]. After 48 hours of treatment, CRP levels of both groups were lower than those before infusion, and the experimental group was better than the control group (mg/L: 110.12±39.80 vs. 137.98±31.23, P < 0.01). Chest CT showed that the incidence of pulmonary edema in the experimental group was significantly lower than that in the control group [13.5% (5/37) vs. 37.8% (14/37), P < 0.01]. The hospital stay of the experimental group was shorter than that of the control group (days: 21.47±5.58 vs. 28.33±4.93, P < 0.01), but no significant difference in mortality was found between the two groups [18.9% (7/37) vs. 18.9% (7/37), P > 0.05]. Conclusion Compared with the traditional rapid fluid replacement, early fluid resuscitation treatment strategies guided by the PLR combined with TTE, could better improve perfusion and oxygenation level of tissues and organs, avoid pulmonary edema caused by rapid fluid replacement, shorten the hospital stay in patients with septic shock, but had no significant effect on hospital mortality.
+END DE_EVIDENCE li.plr_tte result.length_of_stay.hospital
+BEGIN DE_CELL li.plr_tte result.mechanical_ventilation.need {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Need for invasive mechanical ventilation as the direct arm-level result required by the accepted target.","study_key":"li.plr_tte","target_id":"result.mechanical_ventilation.need","values":null}
+END DE_CELL li.plr_tte result.mechanical_ventilation.need
+BEGIN DE_CELL li.plr_tte result.mechanical_ventilation.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of invasive mechanical ventilation as the direct arm-level result required by the accepted target.","study_key":"li.plr_tte","target_id":"result.mechanical_ventilation.duration","values":null}
+END DE_CELL li.plr_tte result.mechanical_ventilation.duration
+BEGIN DE_CELL li.plr_tte result.renal_replacement_therapy.need {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Need for renal replacement therapy as the direct arm-level result required by the accepted target.","study_key":"li.plr_tte","target_id":"result.renal_replacement_therapy.need","values":null}
+END DE_CELL li.plr_tte result.renal_replacement_therapy.need
+BEGIN DE_CELL li.plr_tte result.renal_replacement_therapy.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of renal replacement therapy as the direct arm-level result required by the accepted target.","study_key":"li.plr_tte","target_id":"result.renal_replacement_therapy.duration","values":null}
+END DE_CELL li.plr_tte result.renal_replacement_therapy.duration
+BEGIN DE_CELL li.plr_tte result.acute_kidney_injury {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Acute kidney injury as the direct arm-level result required by the accepted target.","study_key":"li.plr_tte","target_id":"result.acute_kidney_injury","values":null}
+END DE_CELL li.plr_tte result.acute_kidney_injury
+BEGIN DE_CELL li.plr_tte result.fluid_volume.day1 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Intravenous fluid administered on day 1 as the direct arm-level result required by the accepted target.","study_key":"li.plr_tte","target_id":"result.fluid_volume.day1","values":null}
+END DE_CELL li.plr_tte result.fluid_volume.day1
+BEGIN DE_CELL li.plr_tte result.fluid_balance.day3 {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Cumulative fluid balance as the direct arm-level result required by the accepted target.","study_key":"li.plr_tte","target_id":"result.fluid_balance.day3","values":null}
+END DE_CELL li.plr_tte result.fluid_balance.day3
+BEGIN DE_CELL li.plr_tte result.vasopressor.use {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Vasopressor administration as the direct arm-level result required by the accepted target.","study_key":"li.plr_tte","target_id":"result.vasopressor.use","values":null}
+END DE_CELL li.plr_tte result.vasopressor.use
+BEGIN DE_CELL li.plr_tte result.inotrope.use {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Inotrope administration as the direct arm-level result required by the accepted target.","study_key":"li.plr_tte","target_id":"result.inotrope.use","values":null}
+END DE_CELL li.plr_tte result.inotrope.use
+BEGIN DE_CELL li.plr_tte result.vasopressor.duration {"reference_schema_version": "3.1.0"}
+{"evidence":[],"reason":"The acquired Study source does not report Duration of vasopressor use as the direct arm-level result required by the accepted target.","study_key":"li.plr_tte","target_id":"result.vasopressor.duration","values":null}
+END DE_CELL li.plr_tte result.vasopressor.duration

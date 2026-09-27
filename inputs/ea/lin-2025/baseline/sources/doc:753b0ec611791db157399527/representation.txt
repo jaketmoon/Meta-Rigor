@@ -1,0 +1,177 @@
+[DOCLING_PAGE 1]
+
+OPINION published: 13 April 2022 doi: 10.3389/fneur.2022.893975
+
+Edited by:
+
+Maurizio Acampa, Siena University Hospital, Italy
+
+Reviewed by:
+
+Thanh N. Nguyen, Boston University, United States
+
+*Correspondence:
+
+Presaad Pillai Perianen presaad.pillai@mh.org.au
+
+Specialty section:
+
+This article was submitted to Stroke,
+
+a section of the journal Frontiers in Neurology
+
+Received:
+
+11 March 2022
+
+Accepted:
+
+18 March 2022
+
+Published:
+
+13 April 2022
+
+Citation:
+
+Pillai P and Yan B (2022) Are We Ready to Offer Endovascular Thrombectomy to All Patients With Large Ischemic Core? Front. Neurol. 13:893975. doi: 10.3389/fneur.2022.893975
+
+Are We Ready to Offer Endovascular Thrombectomy to All Patients With Large Ischemic Core?
+
+Presaad Pillai Perianen* and Bernard Yan
+
+Melbourne Brain Centre, Royal Melbourne Hospital, Parkville, Melbourne, VIC, Australia
+
+Keywords: ischemic core, Alberta Stroke Programme Early CT Score (ASPECTS), DWI-ASPECTS, endovascular thrombectomy (EVT), CT perfusion (CTP)
+
+INTRODUCTION
+
+We have read with great interest the recently published randomized controlled clinical trial, Endovascular Therapy with Acute Stroke with a Large Ischemic Lesion (RESCUE-Japan LIMIT) (1). The investigators included patients with large vessel occlusions (either intracranial internal carotid artery or middle cerebral artery M1 segment) and large ischemic core on imaging based on the Alberta Stroke Program Early CT Scores (ASPECTS) of 3-5 on either CT or MRI diffusionweighted imaging (DWI). Patients with onset of symptoms up to 24 h were included in the study if there was diffusion-weighted imaging-fluid attenuated inversion recovery (DWI-FLAIR) mismatch, defined as diffusion restriction on DWI without signal change on FLAIR, suggesting an acute ischemic stroke (1). DWI-FLAIR mismatch was used as a surrogate marker for early onset ischaemia in the DWI-FLAIR mismatch for identification of patients with acute ischemic stroke within 4.5 h of symptom onset (PRE-FLAIR) study (2) and in Efficacy and Safety of MRIBased Thrombolysis in Wake-Up Stroke (WAKE-UP) trial (3). In the RESCUE-Japan LIMIT trial, ∼ 87% of patients in the endovascular thrombectomy (EVT) arm and 85% in the medical care arm used DWI-ASPECTS, and the remainder used CT-ASPECTS. There was a significantly higher proportion in the EVT arm (31%) than in the medical care arm (12.7%), achieving a modified Rankin scale (mRS) score of 0-3 [relative risk, 2.43; 95% confidence interval (CI), 1.35-4.37; p = 0.002] (1). However, two critical questions remained unanswered: (1) Are the CTASPECTS and DWI-ASPECTS scoring systems interchangeable? (2) Is the DWI-ASPECTS scoring system an appropriate substitute for volumetric analysis of ischemic core in patients with large vessel occlusion?
+
+ARE CT-ASPECTS AND DWI-ASPECTS INTERCHANGEABLE?
+
+ASPECTS has been widely used to assess the extent of early ischemic changes on CT brain for acute stroke treatment since it was published in the year 2000 (4). It is a visual assessment of areas of acute ischemic changes characterized by parenchymal hypoattenuation, loss of gray-white differentiation, and focal brain swelling over the middle cerebral artery territory, and is scored based on a 10-point scoring system, each corresponding to a particular anatomical region (4, 5). These early ischemic changes represent cytotoxic oedema and the assumed establishment of irreversible injury (4). However, the inter-rater agreement for CT-ASPECTS is uncertain. Van Seeters et al. (6) reported that the inter-rater and intra-observer agreement for CT-ASPECTS was poor and moderate [Kappa ( κ ): 0.219 and 0.595, respectively], and Mitomi et al. (5)reported a poor inter-rater agreement for CT-ASPECTS [Kappa ( κ ): 0.31].
+
+Frontiers in Neurology | www.frontiersin.org
+
+1
+
+April 2022 | Volume 13 | Article 893975
+
+[DOCLING_PAGE 2]
+
+Pillai and Yan
+
+Thrombectomy in Large Ischaemic Core?
+
+ASPECTS has been applied to MRI, known as DWIASPECTS, which adopts the same 10-point scoring system (7). As MRI is a more sensitive imaging modality than CT scan, diffusion-weighted imaging (DWI) DWI-ASPECTS showed higher sensitivity than CT-ASPECTS (5, 7, 8), with DWI detecting ischemic lesions significantly more frequently than CT in 8 out of 10 regions (5). Of the 10 regions, CT had the lowest sensitivity over the internal capsule (sensitivity, 0; 95% CI, 00.34) and the caudate head (sensitivity, 0.06; 95% CI, 0-0.3). Despite its improved sensitivity, the inter-rater agreement for DWI-ASPECTS was poor, with κ = 0.17 (0.14-0.21), but the agreement improved after dichotomization of DWI-ASPECTS (0-5 vs. 6-10 or 0-6 vs. 7-10) to a fair level [ κ = 0.62 (0.48-0.75) and 0.68 (0.55-0.79), respectively] (9). Overall, there was a poor correlation between DWI and CT-ASPECTS ( r = 0.51) (5).
+
+The authors of RESCUE-LIMIT referenced the SAMURAI study (10), which concluded that in hyperacute stroke, a discrepancy of 1 point between DWI-ASPECTS and CTASPECTS existed. Therefore, DWI-ASPECTS patients with a score of 3-4 in the study may have CT-ASPECTS of 5. REVASCAT was an example of a trial that corrected for this 1-point difference in their cohort of patients for the exclusion criteria of a large ischemic core with ASPECTS < 7 and DWIASPECTS < 6 (11). However, in the SAMURAI study (10), the interquartile range for DWI-ASPECTS was 6-9 and for CT ASPECTS was 8-10, effectively excluding ASPECTS of 35 (the target cohort in RESCUE-Japan LIMIT). In summary, there are pitfalls in assuming the equivalency of CT-ASPECTS and DWI-ASPECT.
+
+IS DWI-ASPECTS AN APPROPRIATE SUBSTITUTE FOR VOLUMETRIC ANALYSIS OF ISCHEMIC CORE?
+
+The Highly Effective Reperfusion evaluated in Multiple Endovascular Stroke (HERMES) collaborators' meta-analysis analyzed 5 foundational thrombectomy trials and demonstrated significant reduction in disability at 90 days in the thrombectomy arm compared with the medical treatment arm (adjusted OR, 2.49; 95% CI, 1.76-3.53; p < 0.0001) (12). On the question of ASPECTS, there was a favorable outcome for both ASPECTS 6-8 [OR, 2.36 (95% CI, 1.68-3.26)] and ASPECTS 9-10 [OR 2.66 (95% CI, 1.61-4.4)] but no significant benefit for the 121 patients with ASPECTS 0-5 [OR of 1.24 (0.62-2.42)] (12). The Systematic Evaluation of Patients Treated with Neurothrombectomy Devices for Acute Ischemic Stroke (STRATIS) registry looked at the impact of age in 57 patients with CT-ASPECTS 0-5 who underwent thrombectomy. Successful reperfusion ( ≥ TICI 2b) was achieved in 85.5% (47/55) in the ASPECTS of 0 to 5 group; however, functional independence was only achieved in 28.8% (15/52), with no patients > 75 years of age achieving good outcomes (13). This implies that a more precise method of patient and imaging selection is required in patients with expected large core infarcts.
+
+An observational study on 59 patients looked at the accuracy of ASPECTS and CT perfusion core volume to detect an acute DWI core infarct of ≥ 70 ml. A CT-ASPECTS score of < 7 was determined to be a cutoff for DWI core volume of ≥ 70 ml (sensitivity 0.74, specificity 0.86, Youden J = 0.6), and CT perfusion core volume cutoff was ≥ 50 ml (sensitivity 0.86, specificity 0.97, Youden J = 0.84) (14). A CT perfusion volume of ≥ 50 ml was highly specific in predicting DWI lesion volume > 70 ml, which resulted in 93% of patients being correctly classified. CT-ASPECTS doubled the number of patients who were erroneously classified as small volume infarcts compared to CT perfusion (14). Kim et al. retrospectively analyzed patients who underwent EVT based on DWI-ASPECTS and divided them into 2 groups (DWI ASPECTS 4-6 vs. 7-10). They demonstrated a good outcome in both groups, An outcome of 61/120 in those with DWI-ASPECTS > 6 and 20/51 in those with DWI-ASPECTS 4-6, and the difference between the 2 groups was not significant (15). The implication is that high DWIASPECT probably correlates to a small ischemic core resulting in good outcomes with intervention. However, outcomes of DWIASPECTS < 7 possibly vary widely.
+
+Endovascular thrombectomy studies restricting the inclusion of patients with a core volume < 70 ml showed a good outcome in the thrombectomy arm (16, 17). The Diffusion-Weighted Imaging or Computerized Tomography Perfusion Assessment with Clinical Mismatch in the Triage of Wake Up and Late Presenting Strokes Undergoing Neurointervention (DAWN) trial showed a significant difference between EVT (5.5 ± 3.8) and control group (3.4 ± 3.1) in the utility-weighted modified Rankin score at 90 days [adjusted difference of 2.0 (95% CI, 1.1-3)]. In the subgroup analysis of the 2 groups with patients aged < 80 years, one with a core infarct volume < 31 ml and the other with a core infarct volume 31-51 ml, the adjusted difference for the former is 1.8 (95% CI, 0.6-2.9) compared to the latter with an adjusted difference of 2.5 (95% CI, -0.6 to 5.5) (16). Similar findings were seen in DEFUSE-3 for functional independence at 90 days, significantly favoring the endovascular arm compared to medical therapy with a risk ratio of 2.67 (95% CI, 1.6-4.48). The risk ratio for the subgroup of ischemic core volume of 10-25 ml was 4.4 (95% CI, 1.41-20.33) and ischemic core volume 25-70 ml was 3.06 (95% CI, 1.01-13.52) (13). These two landmark trials indicate that a selected group of patients with a core volume of < 70 ml is favorable with EVT. On the other hand, there is emerging evidence that EVT in patients with a core infarct volume > 70 ml has variable outcomes (18-20). In the SELECT study, three different large core volumes were assessed, which were 50-70, 70-100, and > 100 ml comparing EVT and medical management. Endovascular thrombectomy in the 50-100 ml groups demonstrated favorable outcomes in 8 of 29 patients, whereas no patient (0 of 10) with a core volume > 100 ml had functional independence at 90 days (18). The odds of functional independence showed a 42% reduction per 10 ml increase in core volume with an adjusted OR 0.58 (95% CI, 0.39.87) and p = 0.007 (18). Chen et al. also looked at a favorable outcome (mRS 0-2 at 90 days) in patients with a core volume ≥ 70 ml who underwent EVT compared to those with intravenous thrombolysis. Patients in the EVT arm were more likely to achieve mRS 0-2 compared to IVT (OR, 3.875; 95% Cl 1.068-14.055, p = 0.039) after adjusting for age, National Institutes of Health Stroke Scale (NIHSS), time from onset to imaging, and ischemic core volume. Their data concluded that 31% of patients with an ischemic core volume of > 70 ml who underwent EVT attained a favorable outcome (19). Yoshimoto et al. concluded that the treatable upper ischemic core limit was up to 120 ml in selected patients, and that patients who underwent EVT with a core volume of 70-100 ml still showed benefit (20). This demonstrates that there is a constant push to establish the ceiling of core volume with an overall aim of improving patients' quality of life with minimal complications. As there is strong evidence that ischemic core volume is directly correlated to outcome, the critical question is whether DWI-ASPECTS can serve as a surrogate marker for ischemic core volume.
+
+Frontiers in Neurology | www.frontiersin.org
+
+2
+
+April 2022 | Volume 13 | Article 893975
+
+[DOCLING_PAGE 3]
+
+Pillai and Yan
+
+Thrombectomy in Large Ischaemic Core?
+
+De Margerie-Mellon et al. demonstrated that DWI-ASPECTS showed a reasonable correlation with ischemic core volume ( ρ = -0.82; 95% CI, -0.86 to -0.77; P < 0.001); however, it was only in patients with DWI-ASPECTS ≥ 7 and < 4, which corresponded to a volume of < 70 or > 100 ml, respectively. Ischemic core volume was distinctly variable in DWI-ASPECTS 4-6 patients, with a median volume of 66 ml, and an interquartile range (IQR) between 41 and 97 ml (21). A more recent Japanese study also showed a highly variable range of ischemic core volume between 70 and 226 ml for DWI-ASPECTS 3-5. The large ischemic cores in this study were divided into groups A (70-100 ml) with a median of 80 ml and IQR of 74-87 ml, B (100-130 ml) with a median of 107 and IQR of 101-117 ml, and C ( > 130 ml) with a median of 178 ml and IQR of 175-194 ml. The median DWI-ASPECTS for group A was 5 and for group B was 6, with both of the groups sharing the same IQR of 4-6 despite having such large differences in core infarct volume. Group C had a median DWI-ASPECTS of 3; however, the IQR was 3-6, which was, again, overlapping with that of groups A and B (20). Similar findings have demonstrated that DWI ASPECTS was a reasonable substitute for ischemic core volume only when the
+
+REFERENCES
+
+Yoshimura S, Sakai N, Yamagami H, Uchida K, Beppu M, Toyoda K, et al. Endovascular therapy for acute stroke with a large ischemic region. N Engl J Med . (2022). doi: 10.1056/NEJMoa2118191 [Online ahead of print].
+
+Thomalla G, Cheng B, Ebinger M, Hao Q, Tourdias T, Wu O, et al. DWIFLAIR mismatch for the identification of patients with acute ischaemic stroke within 4 · 5 h of symptom onset (PRE-FLAIR): a multicentre observational study. Lancet Neurol . (2011) 10:978-86. doi: 10.1016/S1474-4422(11)70192-2
+
+Thomalla G, Simonsen CZ, Boutitie F, Andersen G, Berthezene Y, Cheng B, et al. MRI-guided thrombolysis for stroke with unknown time of onset. NEngl J Med . (2018) 379:611-22. doi: 10.1056/NEJMoa1804355
+
+Barber PA, Demchuk AM, Zhang J, Buchan AM, Study A. Validity and reliability of a quantitative computed tomography score in predicting outcome of hyperacute stroke before thrombolytic therapy. Lancet. (2000) 355:1670-4. doi: 10.1016/S0140-6736(00)02237-6
+
+Mitomi M, Kimura K, Aoki J, Iguchi Y. Comparison of CT and DWI findings in ischemic stroke patients within 3 hours of onset. J Stroke Cerebrovasc Dis . (2014) 23:37-42. doi: 10.1016/j.jstrokecerebrovasdis.2012.08.014
+
+van Seeters T, Biessels GJ, Niesten JM, van der Schaaf IC, Dankbaar JW, Horsch AD, et al. Reliability of visual assessment of noncontrast CT, CT angiography source images and CT perfusion in patients with suspected ischemic stroke. PLoS ONE. (2013) 8:e75615. doi: 10.1371/journal.pone.0075615
+
+score was ≥ 7. When DWI ASPECTS was < 7, there was a notable variance between DWI-ASPECTS and ischemic core volume (22, 23). Therefore, DWI-ASPECTS might be an appropriate estimate for ischemic core volume when the score is ≥ 7. However, it is a poor substitute for ischemic core volume if DWI ASPECTS is between 3 and 6.
+
+We also note that there are six ongoing studies on the large ischemic core (TELSA, TENSION, IN EXTREMIS LASTE, SELECT2, ANGELASPECT, and SICARIO). These studies utilize a variety of imaging methods including CTASPECTS, DWI-ASPECTS, and volumetric analysis as qualifying imaging markers.
+
+CONCLUSION
+
+We would like to congratulate the RESCUE-Japan LIMIT authors on their successful thrombectomy trial demonstrating treatment benefits in patients with a large ischemic core defined predominantly by DWI-ASPECTS. However, major questions remain. First, the equivalence of non-contrast CT and MRI is unclear. In addition, MRI is not widely adopted in acute stroke care pathways, and non-contrast CT may be the only imaging modality to assess ASPECTS score. Second, DWI-ASPECTS is an unreliable surrogate marker for large ischemic core volumes. On this basis, we envisage that there will be reluctance from certain geographic regions to adopt RESCUE-Japan LIMIT criteria for thrombectomy.
+
+AUTHOR CONTRIBUTIONS
+
+PP and BY conceived and drafted the manuscript and revised the draft. Both authors contributed to the article and approved the submitted version.
+
+Schröder J, Thomalla G. A critical review of Alberta stroke program early CT score for evaluation of acute stroke imaging. Front Neurol . (2017) 7:245. doi: 10.3389/fneur.2016.00245
+
+Chalela JA, Kidwell CS, Nentwich LM, Luby M, Butman JA, Demchuk AM, et al. Magnetic resonance imaging and computed tomography in emergency assessment of patients with suspected acute stroke: a prospective comparison. Lancet. (2007) 369:293-8. doi: 10.1016/S0140-6736(07)60151-2
+
+Fahed R, Lecler A, Sabben C, Khoury N, Ducroux C, Chalumeau V, et al. DWI-ASPECTS (Diffusion-Weighted Imaging-Alberta Stroke Program Early Computed Tomography Scores) and DWI-FLAIR (Diffusion-Weighted Imaging-Fluid Attenuated Inversion Recovery) mismatch in thrombectomy Candidates: an intrarater and interrater agreement study. Stroke . (2018) 49:223-7. doi: 10.1161/STROKEAHA.117.019508
+
+Nezu T, Koga M, Nakagawara J, Shiokawa Y, Yamagami H, Furui E, et al. Early ischemic change on CT versus diffusion-weighted imaging for patients with stroke receiving intravenous recombinant tissue-type plasminogen activator therapy: stroke acute management with urgent riskfactor assessment and improvement (SAMURAI) rt-PA registry. Stroke . (2011) 42:2196-200. doi: 10.1161/STROKEAHA.111.614404
+
+Molina CA, Chamorro A, Rovira À, de Miquel A, Serena J, Roman LS, et al. REVASCAT: a randomized trial of revascularization with SOLITAIRE FR device vs. best medical therapy in the treatment of acute stroke due to anterior circulation large vessel occlusion presenting within eight-hours of symptom onset. Int J Stroke . (2015) 10:619-26. doi: 10.1111/ijs.12157
+
+Frontiers in Neurology | www.frontiersin.org
+
+3
+
+April 2022 | Volume 13 | Article 893975
+
+[DOCLING_PAGE 4]
+
+Pillai and Yan
+
+Thrombectomy in Large Ischaemic Core?
+
+Goyal M, Menon BK, van Zwam WH, Dippel DWJ, Mitchell PJ, Demchuk AM, et al. Endovascular thrombectomy after large-vessel ischaemic stroke: a meta-analysis of individual patient data from five randomised trials. Lancet. (2016) 387:1723-31. doi: 10.1016/S0140-6736(16)00163-X
+
+Zaidat OO, Liebeskind DS, Jadhav AP, Ortega-Gutierrez S, Nguyen TN, Haussen DC, et al. Impact of age and Alberta stroke program early computed tomography score 0 to 5 on mechanical thrombectomy outcomes: analysis from the STRATIS registry. Stroke . (2021) 52:22208. doi: 10.1161/STROKEAHA.120.032430
+
+Demeestere J, Garcia-Esperon C, Garcia-Bermejo P, Ombelet F, McElduff P, Bivard A, et al. Evaluation of hyperacute infarct volume using ASPECTS and brain CT perfusion core volume. Neurology . (2017) 88:224853. doi: 10.1212/WNL.0000000000004028
+
+Kim SK, Yoon W, Park MS, Heo TW, Baek BH, Lee YY. Outcomes are not different between patients with intermediate and high DWI-ASPECTS after stent-retriever embolectomy for acute anterior circulation stroke. AJNR Am J Neuroradiol . (2016) 37:1080-5. doi: 10.3174/ajnr.A4663
+
+Nogueira RG, Jadhav AP, Haussen DC, Bonafe A, Budzik RF, Bhuva P, et al. Thrombectomy 6 to 24 hours after stroke with a mismatch between deficit and infarct. NEngl J Med . (2018) 378:11-21. doi: 10.1056/NEJMoa1706442
+
+Albers GW, Marks MP, Kemp S, Christensen S, Tsai JP, Ortega-Gutierrez S, et al. Thrombectomy for stroke at 6 to 16 hours with selection by perfusion imaging. NEngl J Med . (2018) 378:708-18. doi: 10.1056/NEJMoa1713973
+
+Sarraj A, Hassan AE, Savitz S, Sitton C, Grotta J, Chen P , et al. Outcomes of endovascular thrombectomy vs medical management alone in patients with large ischemic cores: a secondary analysis of the optimizing patient's Selection for Endovascular Treatment in Acute Ischemic Stroke (SELECT) Study. JAMA Neurol . (2019) 76:1147-56. doi: 10.1001/jamaneurol.2019.2109
+
+Chen Z, Zhang R, Zhou Y, Gong X, Zhang M Shi F, et al. Patients with ischemic core ≥ 70 ml within 6 h of symptom onset may still benefit from endovascular treatment. Front Neurol . (2018) 9:933. doi: 10.3389/fneur.2018.00933
+
+Yoshimoto T, Inoue M, Tanaka K, Kanemaru K, Koge J, Shiozawa M, et al. Identifying large ischemic core volume ranges in acute stroke that can
+
+benefit from mechanical thrombectomy. J Neurointerv Surg . (2021) 13:10817. doi: 10.1136/neurintsurg-2020-016934
+
+de Margerie-Mellon C, Turc G, Tisserand M, Naggara O, Calvet D, Legrand L, et al. Can DWI-ASPECTS substitute for lesion volume in acute stroke? Stroke . (2013) 44:3565-7. doi: 10.1161/STROKEAHA.113.003047
+
+Yoshimoto T, Inoue M, Yamagami H, Fujita K, Tanaka K, Ando D, et al. Use of diffusion-weighted imaging-alberta stroke program early computed tomography score (DWI-ASPECTS) and ischemic core volume to determine the malignant profile in acute stroke. J Am Heart Assoc . (2019) 8:e012558. doi: 10.1161/JAHA.119.012558
+
+Terasawa Y, Kimura K, Iguchi Y, Kobayashi K, Aoki J, Shibazaki K, et al. Could clinical diffusion-mismatch determined using DWI ASPECTS predict neurological improvement after thrombolysis before 3 h after acute stroke?. J NeurolNeurosurg Psychiatry . (2010) 81:864-8. doi: 10.1136/jnnp.2009. 190140
+
+Conflict of Interest: The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Publisher's Note: All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+Copyright © 2022 Pillai and Yan. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+Frontiers in Neurology | www.frontiersin.org
+
+4
+
+April 2022 | Volume 13 | Article 893975

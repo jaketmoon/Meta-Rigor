@@ -1,0 +1,674 @@
+[DOCLING_PAGE 1]
+
+Supplementary Appendix
+
+Supplement to: Mahé I, Carrier M, Mayeur D, et al. Extended reduced-dose apixaban for cancer-associated venous thromboembolism. N Engl J Med 2025;392:1363-73. DOI: 10.1056/NEJMoa2416112
+
+This appendix has been provided by the authors to give readers additional information about the work.
+
+(PDF updated April 10, 2025)
+
+[DOCLING_PAGE 2]
+
+1
+
+Table of Contents
+
+[DOCLING_TABLE rows=20 columns=2]
+| API-CAT INVESTIGATORS AND COMMITTEES ................................................................ | 2 |
+| SUPPLEMENTARY METHODS .............................................................................................. | 6 |
+| STUDY ELIGIBILITY CRITERIA ....................................................................................... | 6 |
+| CRITERIA REQUIRED FOR THE DIAGNOSIS OF EFFICACY AND SAFETY OUTCOMES .......................................................................................................................... | 7 |
+| OUTCOME EVENT DEFINITIONS .................................................................................... | 9 |
+| Figure S1. Recurrent Venous Thromboembolism (Per-Protocol Population) .......................... | 11 |
+| Figure S2. Major Bleeding (Intention-To-Treat Population) .................................................... | 12 |
+| Figure S3. Death from Any Cause (Intention-To-Treat Population) ........................................ | 13 |
+| Figure S4. Forest Plot of Subgroups: Primary Outcome (Recurrent VTE) (Intention-To-Treat Population) ............................................................................................................................... | 14 |
+| Figure S5. Forest Plot of Subgroups: Primary Outcome (Recurrent VTE) (Per-Protocol Population) ............................................................................................................................... | 15 |
+| Figure S6. Forest Plot of Subgroups: Key Secondary Outcome (Clinically Relevant Bleeding) (Intention-To-Treat Population) ............................................................................................... | 16 |
+| Table S1. Type of Cancer at Baseline ....................................................................................... | 17 |
+| Table S2. Anticancer Drug Therapies in the Past 6 Months and at Enrollment ....................... | 18 |
+| Table S3. Duration of Study Drug Treatment and Reasons for Treatment Discontinuation | .... 19 |
+| Table S4. Primary Outcome (Per-Protocol Population) ........................................................... | 20 |
+| Table S5. Types and Sites of Bleeding Occurring Within 12 Months ...................................... | 21 |
+| Table S6. Causes of Death Within 12 Months ......................................................................... | 22 |
+| Table S7. Summary of Adverse Events .................................................................................... | 23 |
+| Table S8. Supplementary Table on the Representativeness of Study Participants ................... | 24 |
+| References ................................................................................................................................ | 25 |
+[/DOCLING_TABLE]
+
+[DOCLING_PAGE 3]
+
+2
+
+API-CAT INVESTIGATORS AND COMMITTEES
+
+Investigators and Study Centers (number of patients enrolled)
+
+France (1200 patients, 64 centers) - I. Mahé, S. Djennaoui, J. Chidiac, E. Toledano, G. Poénou, L.A. Plaisance, E. Versini, F. Happe, L. Journeau (Colombes, Louis Mourier, 69 patients) ; L. Bertoletti, S. Accassat, E. de Magalhaes, A. Buchmuller, G. Poénou, (SaintEtienne, 103 patients) ; D. Semenou, S. Aquilanti (Arras, 7 patients) ; M-A. Sevestre, S. Soudet, G. le Roy, S.Santy Modeliar, S. Dupas, S. Le Gloan (Amiens, 29 patients) ; G. Pernod, N. Zenati, C. Seinturier, B. Imbert, M. Joly, S. Blaise, C. Menez, G. Roth (Grenoble, 28 patients) ; J. Constans, C. Carcaud, C. Mandon, C. Boulon, A. Coudene (Bordeaux, 15 patients) ; N. Falvo, F. Ledan, H. Daoud, M. Jandot, L. Frechier (Dijon, 93 patients) ; Y. Benhamou, S. Miranda, G. Armengol, D. Simon, Y. Farès, C. Sinzogan-Eyoum, S. Masmoudi, J. Lammens, A. Bogaert (Rouen, 24 patients) ; F. Couturaud, K. Lacut, A. Barnier, B. Hourmant, C. Tromeur, C. Gut-Gobert, E. Le Moigne, L. Bressollette, L. De Saint Martin, M. Kaddour, O. Nepveu, R. Le Mao, S. Robin, B. Pan-Petesch, X. Savary, C. L'Heveder, S. Gestin, C. Leroyer (Brest, 45 patients) ; J.N. Poggi, A. Elias, D. Cornand, M. Elias, F. Giauffret (Toulon, 15 patients) ; E. Ferrari, B. Sartre, D. Baudout, M. Labbaoui (Nice, 15 patients) ; I. Quéré, P. Lhorte (Montpellier, 8 patients) ; B. Peyrachon, A. Morin (Lyon, 25 patients) ; J. Connault, C. Durant, G. Gautier, M. Artifoni, O. Espitia (Nantes, 18 patients) ; O. Sanchez, G. Meyer, J. Pastre, B. Planquette (Paris, HEGP, 65 patients) ; J-M. Kubina, C. Leblanc, N. Brebion (La Roche sur Yon, 14 patients) ; D. Brisot (Castelnau le Lez, 4 patients) ; G. Sarlon Bertoli (Marseille, 5 patients) ; G. Gerotziafas, I. Elalamy, L. Papageorgiou, S. Salta (Paris, Tenon, 37 patients) ; C. Grange, J-C. Lega, I. Durieu, Q. Reynaud, C. Gobert, J. David, S. Lo (Lyon Sud, 65 patients) ; P. Lacroix, L. Chastaingt (Limoges, 22 patients) ; J. Schmidt, N. Dublanchet, N. Breuil (Clermont-Ferrand, 28 patients) ; M. Ferec (Morlaix, 4 patients) ; D. Lanéelle, A. Candia, C. Pottier, J. Guillaumat, J. Alexandre (Caen, 15 patients) ; P-G. Poureau (Brest HIA, 5 patients) ; S. Le Jeune, R. Benainous, H. Roudot, M. Lopez-Sublet, L. Zelek (Paris, Avicenne, 19 patients) ; J.D. Le Seve, S. Henni, Y. Bigou, P. Ramondou, M. Mechenin, J. Denis Le Seve, A-S. Gourdier, P. Abraham (Angers, 13 patients) ; R. Coriat, C. Brezault, S Dermine (Paris Cochin, 12 patients) ; O. Cojocarasu, C. Valmar, C. Fonsegrive (Le Mans, 9 patients) ; S. Barthier, D. Mayeur, I. Bouallagui (Versailles, 6 patients) ; A. Burnod, T. Marchal, I. Kriegel (Paris Curie, 13 patients) ; O. Bensaoula, E. Brain, M.A. Massiani (Paris Curie St Cloud, 16 patients) ; D. Spaeth, F. Brocard, L. Gavoille, C Roemer-Becuwe (Nancy, 7 patients) ; R. Boustany, P. Debourdeau (Avignon, 34 patients) ; M. Bouattour, M. Lamuraglia, C. Trichet (Paris Beaujon, 10 patients) ; L-M. Dourthe, A. Escande, Y. Tazi (Strasbourg, 6 patients) ; N. Meneveau, T. N'guyen, F. Bazan, E. Kalbacher, A. Thierry-Vuillemin (Besançon, 7 patients) ; E. Assaf, C. Tournigand, I. Baumgaertner, E. Kempf, C. Saldana Gallo, A Guillemin, C. Joly, A. Lebel (Paris Henri Mondor, 5 patients) ; A. Benmaziane Teillet, P. Beuzeboc (Suresnes, 26 patients) ; A. Eche Gass (Toulouse, 1 patient) ; J.P. Spano, F. Cajfinger, R. Conforti (Paris La Pitié Salpétrière, 35 patients) ; B. Auberger, L Deiana (Brest, 5 patients) ; S. Bonhomme, M. Delrue, A. Jagu, U. Michon-Pasturel, J. Emmerich, L. Staudacher, E. Raymond, M. Gatineau, R. Sverdlin (Paris, Saint-Joseph, 12 patients) ; G. Tossen, R. Misbahi (Poissy, Saint-Germain-en-Laye, 5 patients) ; B. Boutruche, B. Laguerre, C. Lefeuvre, J. Edeline, E. Vauleon, V. Dieras (Rennes, 29 patients) ; S. Assaad, V. Tequi, C. De La Fouchardiere, M. Chelghoum (Lyon Léon Bérard, 11 patients) ; P. Trensz, H. Carinato, M. Burgy (Strasbourg, 31 patients) ; F. Scotté, L. Papageorgiou, A. Stoclin, A-C. Fuerea (IGR, 11 patients) ; J. Ayllon, S. Trager (Stains, 2 patients) ; Y.H. Lam, A. Blouet (Cholet, 12 patients) ; C. Doutrelon (Clamart, 9 patients) ; A. Ulusakarya (Paris, Paul Brousse, 5 patients) ; G.
+
+[DOCLING_PAGE 4]
+
+3
+
+Gerotziafas (Paris, Saint-Antoine, 14 patients) ; J-F. Alexandra (Paris, Bichat, 3 patients) ; K.E. Benmammar, V. Pante, B. Monange (Le Puy en Velay, 19 patients) ; S. Demolombe, W. Dronne (Lyon, 6 patients) ; C. Mauger, C-E. Le Brun (Saint Malo, 2 patients) ; B. Slama (Avignon, 11 patients) ; G. Moriceau, N. Marques, J. Provencal, M-H. ThenaultLebredonchel, C. Herreman, J. Pinsolle, P. Meyer (Chambéry, 11 patients) ; G. Mahé, M Charasson (Rennes, 3 patients) ; L. Falchero, L. Odier, D. Arpin (Villefranche sur Saône, 9 patients) ; P. Lim, D. Fard, R. Huguet, D. Aouate (Paris Henri Mondor, 4 patients) ; M. Beguinot, M. Brehon (Villeurbanne, 4 patients) ; J. Alexandre, A. Candia (Caen, 5 patients) . Spain (177 patients, 17 centers) - G. de la Red (Barcelona, 4 patients) ; F. Albesa (Gerone, 8 patients) ; Dr J.J. Lopez, P. Sigüenza Bonete, A. Steinherr Zazo (Barcelona, 22 patients) ; P.J. Marchena Yglesias (Barcelona, 4 patients) ; M. Melero Bascones (Albacete, 1 patient) ; R. Otero Candelera, L. Jara Palomares, T. Elias Hernandez (Seville, 77 patients) ; M.R. Oltra, M.E.I. Moncho, J.P. Altozano (Alicante, 3 patients) ; J. Portillo Sanchez (Ciudad Real, 9 patients) ; S. Soler Simon (Gerone, 4 patients) ; J. Trujillo Santos, R. Carillo (Carthagène, 3 patients) ; R. Lecumberri Villamediana (Pamplona, 3 patients) ; E. Brozos Vasquez, Y. Vidal (Santiago, 5 patients) ; M. Lobo de Mena, M. Gil Raga (Valence, 6 patients) ; C.G. Munoz Sanchez-Miguel, M. Garcia Morillo, R. Alvarez Gallego, L. Ugidos De La Varga (Madrid, 11 patients) ; B. Obispo Portero, J. Rogado Revuelta (Madrid, 10 patients) ; A. Teijeira Sanchez (Pamplona, 6 patients) ; C. Guillen Rienda (Madrid, 1 patient) . Canada (87 patients, 7 centers) - M. Carrier, G. Le Gal, C. Code, D. Siegal, L. Duffet, M. Forgie, T. F. Wang (Ottawa, 48 patients) ; E. Yeo, Z. Liederman, J. Abdulrehman, E. Kaplovitch (Toronto, 12 patients) ; A. Lazo-Langer (London, 6 patients) ; P. Gross (Hamilton, 1 patient) ; C. Wu (Edmonton, 4 patients) ; D. Suryanarayan (Calgary, 5 patients) ; A. Lee (Vancouver, 11 patients) . Switzerland (78 patients, 3 centers) - L. Mazzolai, A. Alatri (Lausanne, 6 patients) ; M. Righini, H. Robert-Ebadi, M. Blondon (Genève, 62 patients) ; S. Barco, R.M. Fumagalli, M. Munger (Zurich, 10 patients) . The Netherlands (77 patients, 9 centers) - Dr F. Kleijwegt, L. Faber, G. Lindauer - Van Der Werf, A. Goosens, R. Rietbroek, M. Appels (Beverwijk, 16 patients) ; M.V. Huisman, F.A. Klok, F.H.J. Kaptein, E.S.L. Martens, M.A.M. Stals, S. Hendriks (Leiden, 8 patients) ; M. Coppens, N. Guman (Amsterdam, 2 patients) ; B.W. Schot (Almelo, 3 patients) ; T. Van Bemmel (Apeldoorn, 9 patients) ; P.E. Westerweel, M.D. Levin, E. De Jongh (Dordrecht, 21 patients) ; P.W. Kamphuisen, N. Guman (Hilversum, 12 patients) ; R. van De Griend (Utrecht, 1 patient) ; A. Jie, R.J.W. Van Kampen (SittardGeleen, 5 patients) . Italy (52 patients, 5 centers) - W. Ageno, A. Abenante, L. Girardi, G. Camma (Varese, 14 patients) ; C. Becattini, L.A. Cimini, C. Rapuano (Perugia, 8 patients) ; E. Bucherini, M.A. Barbera, F. Gazzaneo (Ravenna, 2 patients) ; Dr E. Porreca, M. Di Nisio (Chieti, 20 patients) ; Dr A. Visona, C. Panzavolta (Castelfranco, 8 patients) . Greece (35 patients, 4 centers) - A. Bamias, R. Zakopoulou, A. Kyriazoglou (Athens, 13 patients) ; H. Gogas (Athens, 12 patients) ; K. Syrigos, E. Kokkotou (Athens, 3 patients) ; F. Zagouri, C. Markellos, A. Andrikopoulou (Athens, 7 patients) . Poland (21 patients, 2 centers) - S. Szmit, J. Kepski, M. Wilk (Otwock, 12 patients) ; E. Lech-Maranda, S. Szmit (Warsaw, 9 patients) . Belgium (17 patients, 5 centers) - P. Verhamme, T. Vanassche (Louvain, 8 patients) ; S. Motte (Bruxelles, 1 patient) ; P. Borgoens (Liège, 4 patients) ; P. Lancelotti, M. Moonen (Liège, 1 patient) ; P. Lerut, M. Janssen (Courtrai, 3 patients) . UK (15 patients, 3 centers) -T. Dutt, R. Shaw (Liverpool, 2 patients) ; A. Maraveyas, F. Haque (Cottingham, 12 patients) ; S. Shapiro (Oxford, 1 patient) . Austria (7 patients, 2 centers) - C. Ay (Vienna, 6 patients) , M. Moyses (Linz, 1 patient) .
+
+[DOCLING_PAGE 5]
+
+4
+
+API-CAT Steering Committee
+
+[DOCLING_TABLE rows=36 columns=2]
+| Pr Isabelle Mahé | APHP, Université Paris Cité, Paris (France) |
+| Dr Silvy Laporte | Université Jean Monnet, Saint Etienne (France) |
+| Dr Olivier Mir | Institut Gustave Roussy, Paris (France) |
+| Dr Didier Mayeur | Centre Georges François Leclerc, Dijon (France) |
+| Pr Giancarlo Agnelli | University of Perugia, Perugia (Italy) |
+| Pr Cecilia Becattini | University of Perugia, Perugia (Italy) |
+| Pr Manuel Monreal | Universidad Autónoma de Barcelona, Barcelona (Spain) |
+| Dr López-Núñez | Universidad Autónoma de Barcelona, Barcelona (Spain) |
+| Pr Peter Verhamme | University of Leuven, Leuven (Belgium) |
+| Pr Adam Torbicki | Centrum Medyczne Kształcenia Podyplomowego, Warsaw (Poland) |
+| Dr Sébastian Szmit | Europejskie Centrum Zdrowia Otwock, Otwock (Poland) |
+| Pr Marc Righini | Université de Genève, Geneva, Switzerland |
+| Pr Alexander T. Cohen | King's College London, London (UK) |
+| Dr Anthony Maraveyas | Hull York Medical School, York (UK) |
+| Pr Menno Huisman | Leiden University, Leiden (Netherlands) |
+| Pr Frederikus A. Klok | Leiden University, Leiden (Netherlands) |
+| Pr Kostas N. Syrigos | Athens School of Medicine, National & Kapodistrian University, Athens (Greece) |
+| Pr Aristotelis Bamias | National & Kapodistrian University, Athens (Greece) |
+| Pr Cihan Ay | Medizinische Universität Wien, Vienna (Austria) |
+| Pr Marc Carrier | Ottawa Hospital Research Institute Medicine, Clinical Epidemiology, Ottawa (Canada) |
+| Pr Grégoire Le Gal | Ottawa Hospital, Division of Hematology, Ottawa (Canada) |
+| Pr Eric Vicaut | APHP, Université Paris Cité, Paris (France) |
+| Independent Central Adjudication Committee | Independent Central Adjudication Committee |
+| Dr Philippe Girard | Institut Mutualiste Montsouris, Paris (France) |
+| Pr Philippe Grenier | Hôpital Pitié Salpêtrière, APHP, Paris (France) |
+| Pr Jérôme Alexandre | Hôpital Cochin, APHP, Paris (France) |
+| Dr Christian Lamer | Institut Mutualiste Montsouris, Paris (France) |
+| Independent Central Adjudication Committee Coordination | Independent Central Adjudication Committee Coordination |
+| Dr Anne Devillard | INSERM CIC 1408, Saint-Etienne (France) |
+| Miss Asmaou Nourdine | INSERM CIC 1408, Saint-Etienne (France) |
+| Data Safety Monitoring Board | Data Safety Monitoring Board |
+| Pr Charles Marc Samama | APHP, Université Paris Cité, Paris (France) |
+| Dr Michel Cucherat | RTH Laennec, Lyon (France) |
+| Pr Sandrine Katsahian | APHP, Université de Paris, Paris (France) |
+| Pr Florence Joly | Centre François-Baclesse, Caen (France) |
+| Pr Pierre Michel | CHU de Rouen, Rouen (France) |
+[/DOCLING_TABLE]
+
+[DOCLING_PAGE 6]
+
+5
+
+Statistical Analysis Team
+
+For DSMB: Pr E. Vicaut, Unité de Recherche Clinique Lariboisière Saint-Louis, AP-HP, Paris, France
+
+For final analysis: Pr S. Laporte, Principal statistician (Clinical Research Unit, University Hospital of Saint-Etienne, France), C. Chapelle, Statistician (Clinical Research Unit, University Hospital of Saint-Etienne, France)
+
+Sponsor and coordinating team
+
+AP-HP and by delegation: Clinical Research and Innovation Department (DRCI), Paris,
+
+France DRCI head office project advisor: Aurélie Zindjirdjian
+
+Entity responsible for monitoring the trial Support and Coordination activities URC Lariboisière - Saint-Louis (AP-HP), Paris, France
+
+Coordinator: Eric Vicaut
+
+Project manager: Adela Mekouo Tagne, Natalie Kingue Elessa
+
+Data manager: Béatrice Horcholle
+
+Clinical research assistant: Anatilde Pena, Davy Wenceslas Matondo, Mishkat Abdou Azali, Sara Keffi Benaissa, Malha Mezaour, Vera Belinskaya, Meriem Labiad, Linda Fehrat
+
+Entity responsible for monitoring the trial in countries except France: CLINACT, MultiHealth Group
+
+Entity responsible for study drug AGEPS (AP-HP), Paris, France Coordinator: Jean-Roch Fabreguettes Subcoordinators: Loïc Franquet, Céline Alloux
+
+Writing committee
+
+Isabelle Mahé, Marc Carrier, Céline Chapelle, Philippe Girard, Didier Mayeur, Patrick Mismetti, Silvy Laporte
+
+ACKNOWLEDGMENTS
+
+We thank the project managers, data manager and clinical research assistants for their invaluable contribution. Sophie Rushton-Smith Ph.D. (MedLink Healthcare Communications, London) provided editorial assistance, limited to editing for style, referencing, and figure and table editing, and was funded by the authors.
+
+[DOCLING_PAGE 7]
+
+6
+
+SUPPLEMENTARY METHODS
+
+STUDY ELIGIBILITY CRITERIA
+
+Inclusion criteria
+
+Patients who have any cancer diagnosed histologically (other than basal-cell or squamous-cell carcinoma of the skin, primary brain tumor or intra-cerebral metastasis)
+
+Active cancer is defined as the presence of measurable disease or ongoing (or planned) chemotherapy, radiotherapy, hormone therapy or targeted therapy at inclusion
+
+Patients who have:
+
+an objectively documented index event of symptomatic or incidental proximal lower-limb, iliac, inferior vena cava deep-vein thrombosis or symptomatic or incidental pulmonary embolism in a segmental or larger pulmonary artery
+
+completed at least 6 months of anticoagulant therapy at therapeutic dosage (whatever the drug and the dosing), or completed assigned clinical trial study treatment, for the treatment of the index event; and are still receiving anticoagulant treatment 6 months after occurrence of the venous thromboembolism (VTE) index event
+
+no objectively documented symptomatic recurrent VTE between the index event and randomization
+
+Anticipated duration of anticoagulant treatment of at least 12 months at the time of randomization
+
+Signed written informed consent
+
+Exclusion criteria
+
+1) Sex and reproductive status
+
+Women of child-bearing potential who are unwilling or unable to use an acceptable method of birth control [such as oral contraceptives, other hormonal contraceptives (vaginal products, skin patches, or implanted or injectable products), or mechanical products such as an intrauterine device or barrier methods (condoms)] to avoid pregnancy for the entire study
+
+Women who are pregnant or breastfeeding
+
+Women with a positive pregnancy test on enrolment or prior to investigational product administration
+
+2) Index VTE related
+
+Isolated sub-segmental (incidental or symptomatic) pulmonary embolism (PE) without associated deep vein thrombosis (DVT)
+
+Isolated distal DVT of the legs
+
+Isolated upper-extremity DVT or superior vena cava thrombosis
+
+Isolated visceral thrombosis
+
+Isolated catheter related thrombosis
+
+Objectively documented symptomatic recurrence of VTE after the index event under anticoagulant treatment
+
+VTE during anticoagulant treatment given at therapeutic dosage
+
+3) Medical history and concurrent diseases
+
+Subjects with an indication for long-term treatment with a vitamin K antagonist (VKA), such as mechanical heart valve or antiphospholipid syndrome
+
+Subjects with an indication for long-term anticoagulation with a VKA or a direct oral anticoagulant (DOAC) at therapeutic dosage
+
+[DOCLING_PAGE 8]
+
+7
+
+Conditions increasing the risk of serious bleeding: intracranial or intraocular bleeding within the previous 6 months, major surgery within 2 weeks prior to randomization, overt major bleeding at time of randomization
+
+Life expectancy <12 months
+
+Eastern Cooperative Oncology Group (ECOG) level 3 or 4
+
+Bacterial endocarditis
+
+Uncontrolled hypertension: systolic blood pressure >180 mm Hg or diastolic blood pressure >110 mm Hg
+
+4) Physical and laboratory test findings
+
+Platelet count <75,000/mm 3
+
+Hemoglobin <8 g/dL
+
+Creatinine clearance <30 mL/min based on the Cockcroft Gault equation
+
+Acute hepatitis, chronic active hepatitis, liver cirrhosis; or an alanine aminotransferase level 3 times or more and/or bilirubin level 2 times or more higher the upper limit of the normal range
+
+5) Prohibited treatments and/or therapies
+
+Subjects requiring acetylsalicylic acid (ASA) >165 mg/day or thienopyridine therapy (clopidogrel, prasugrel, or ticagrelor) at randomization
+
+Subjects requiring dual antiplatelet therapy (such as ASA plus clopidogrel or ASA plus ticlopidine) at randomization. Subjects who transition from dual antiplatelet therapy to monotherapy prior to randomization will be eligible for the trial
+
+Concomitant use of strong inhibitors of both cytochrome P450 3A4 and P glycoprotein (e.g. human immunodeficiency virus protease inhibitors or systemic ketoconazole) or strong inducers of both cytochrome P450 3A4 and P glycoprotein (e.g. rifampicin, carbamazepine, or phenytoin)
+
+6) Other exclusion criteria
+
+Prisoners or subjects who are involuntarily incarcerated
+
+Subjects who are compulsorily detained for treatment of either a psychiatric or physical (e.g. infectious disease) illness
+
+Hypersensitivity to apixaban
+
+Patients participating in another pharmacotherapeutic program with an experimental therapy that is known to affect the coagulation system
+
+Patients under 18 years' old
+
+Patients under legal protection (guardianship)
+
+CRITERIA REQUIRED FOR THE DIAGNOSIS OF EFFICACY AND SAFETY OUTCOMES
+
+Primary efficacy outcome: composite of recurrent symptomatic VTE or incidental VTE or death due to PE 1
+
+1. New or recurrent PE (symptomatic or incidental) with one of the following findings:
+
+a new intraluminal filling defect in segmental or more proximal branches on spiral computed tomography pulmonary angiography (CTPA) ;
+
+a new intraluminal filling defect or an extension of an existing defect or a new sudden cutoff of vessels more than 2.5 mm in diameter on the pulmonary angiogram;
+
+a new perfusion defect of at least 75% of a segment with a local normal ventilation result (high probability) on ventilation/perfusion lung scan (VPLS); or
+
+inconclusive spiral CT, pulmonary angiography or VPLS, with demonstration of a new or extended proximal DVT in the lower extremities by compression ultrasound or contrast venography.
+
+[DOCLING_PAGE 9]
+
+8
+
+or
+
+2. New or recurrent DVT (symptomatic or incidental) with one of the following findings:
+
+A recurrent deep vein thrombosis, distal or proximal lower-limb, iliac, inferior or superior vena cava, upper extremity or central venous catheter related, must be distinguished from the original thrombus by comparing serial imaging modalities.
+
+For a NEW DVT, criteria include:
+
+abnormal compression ultrasound (CUS), including grey-scale or color-coded Doppler; or
+
+an intraluminal filling defect on contrast venography
+
+a new filling defect on computed tomography venography or magnetic resonance imaging (MRI)
+
+For a RECURRENT DVT, criteria include:
+
+abnormal CUS where compression had been normal or, if noncompressible previously, a substantial increase (4 mm or more) in diameter of the thrombus during full compression; or
+
+an extension of an intraluminal filling defect, or a new intraluminal filling defect or an extension of non-visualization of veins in the presence of a sudden cut-off on contrast venography.
+
+or
+
+3. Adjudicated VTE-related death including
+
+PE based on objective diagnostic testing, autopsy, or
+
+sudden death; i.e. death occurring within one hour of the onset of new symptoms which cannot be attributed to a documented cause, i.e. an unexplained death for which PE/DVT cannot be ruled out as the cause.
+
+Key safety outcome: clinically relevant bleeding, a composite of major or clinically relevant nonmajor bleeding
+
+Major bleeding (International Society on Thrombosis and Haemostasis [ISTH] definition)
+
+Acute clinically overt bleeding with one or more of the following:
+
+A decrease in hemoglobin of 2 g/dL or more
+
+A transfusion of 2 or more units of packed red blood cells
+
+Symptomatic bleeding that occurs in at least one of the following critical sites: intracranial, intraspinal, intraocular (within the corpus of the eye; thus, a conjunctival bleed is not an intraocular bleed), pericardial, intra-articular, intramuscular with compartment syndrome, retroperitoneal
+
+Fatal bleeding: bleeding event that the independent adjudication committee determines is the primary cause of death or contributes directly to death.
+
+Clinically relevant nonmajor bleeding
+
+Any bleeding compromising hemodynamics;
+
+Any bleeding leading to hospitalization;
+
+Subcutaneous hematoma larger than 25 cm 2 , or 100 cm 2 if there was a traumatic cause;
+
+Intramuscular hematoma documented by ultrasonography;
+
+Epistaxis that lasted for more than 5 minutes, was repetitive (i.e., two or more episodes of bleeding more extensive than spots on a handkerchief within 24 hours), or led to an intervention (e.g. packing or electrocoagulation);
+
+[DOCLING_PAGE 10]
+
+9
+
+Gingival bleeding occurring spontaneously and leading to medical intervention;
+
+Hematuria that was macroscopic and lasted for more than 24 hours;
+
+Macroscopic gastrointestinal hemorrhage, including at least one episode of melena or hematemesis, if clinically apparent;
+
+Rectal blood loss, if more than a few spots on toilet paper and leading to medical intervention;
+
+Hemoptysis, if more than a few speckles in the sputum and not occurring within the context of pulmonary embolism; or
+
+Any other bleeding type considered to have clinical consequences for a subject such as medical intervention, the need for unscheduled contact (visit or telephone call) with a physician, or temporary cessation of a study drug; or associated with pain or impairment of activities of daily life.
+
+All suspected occurrences or recurrences of venous thromboembolism, causes of deaths, and suspected episodes of bleeding during the study period were adjudicated by the adjudication committee.
+
+OUTCOME EVENT DEFINITIONS
+
+Documented index venous thromboembolism
+
+Documented index venous thromboembolism was defined as symptomatic or incidental proximal lower-limb, iliac, and/or inferior vena cava deep vein thrombosis, or symptomatic or incidental pulmonary embolism in a segmental or larger pulmonary artery.
+
+Incidental venous thromboembolism
+
+Incidental venous thromboembolism was defined as proximal deep vein thrombosis or pulmonary embolism incidentally detected when a patient underwent imaging studies as a standard of care for management of their malignancy or for any reason other than suspicion of venous thromboembolism.
+
+Primary efficacy outcome: Recurrent venous thromboembolism
+
+Recurrent venous thromboembolism was defined as objectively confirmed, adjudicated composite of recurrent symptomatic venous thromboembolism, comprising symptomatic proximal deep vein thrombosis and/or distal deep vein thrombosis and/or symptomatic pulmonary embolism and/or upper limb or central venous catheter thrombosis or incidental proximal deep vein thrombosis or pulmonary embolism, or venous thromboembolism-related death during the treatment period.
+
+Bleeding events
+
+Major bleeding was defined according to the International Society on Thrombosis and Haemostasis. 2 Clinically relevant nonmajor bleeding was defined (according to the EINSTEIN DVT definition 3 ) as acute clinically overt bleeding requiring specific medical attention or care but that does not meet the criteria for major bleeding.
+
+[DOCLING_PAGE 11]
+
+10
+
+Key secondary outcome: clinically relevant bleeding
+
+Clinically relevant bleeding was defined as adjudicated composite of major bleeding or clinically relevant nonmajor bleeding.
+
+Death from any cause
+
+Deaths are classified as follows:
+
+Fatal pulmonary embolism
+
+Unexplained sudden death for which pulmonary embolism cannot be ruled out
+
+Fatal bleeding
+
+Cancer related (including all deaths due to the underlying cancer)
+
+Acute respiratory failure
+
+Infection/sepsis
+
+Other known causes
+
+Unknown cause
+
+Major venous thromboembolism
+
+Major venous thromboembolism was defined as pulmonary embolism or proximal deep-vein thrombosis.
+
+Net clinical benefit
+
+The net clinical benefit was defined as a composite of recurrent symptomatic venous thromboembolism, major bleeding and death from any cause.
+
+Definition of the per-protocol population
+
+The per-protocol population comprised all randomized patients who received at least one dose of the study medication and without any major protocol violations or deviations. The following were considered as major protocol violations or deviations:
+
+Patients not meeting inclusion criteria;
+
+Patients whose study treatment has been interrupted for more than 30 consecutive days.
+
+Patients meeting inclusion criteria and having non-inclusion criteria were not considered as major deviations.
+
+[DOCLING_PAGE 12]
+
+11
+
+Figure S1. Recurrent Venous Thromboembolism (Per-Protocol Population)
+
+Shown are the cumulative percentages of patients with recurrent venous thromboembolism who received apixaban 2.5 mg twice daily or apixaban 5.0 mg twice daily for 12 months. The insets show the same data on an expanded Y axis. The widths of confidence intervals have not been adjusted for multiplicity and cannot be used to infer treatment effects.
+
+[DOCLING_PAGE 13]
+
+12
+
+Figure S2. Major Bleeding (Intention-To-Treat Population)
+
+Shown are the cumulative percentages of patients with major bleeding who received apixaban 2.5 mg twice daily or apixaban 5.0 mg twice daily for 12 months. The insets show the same data on an expanded Y axis. The widths of confidence intervals have not been adjusted for multiplicity and cannot be used to infer treatment effects.
+
+[DOCLING_PAGE 14]
+
+13
+
+Figure S3. Death from Any Cause (Intention-To-Treat Population)
+
+Shown are the cumulative percentages of patients died who received apixaban 2.5 mg twice daily or apixaban 5.0 mg twice daily for 12 months. The insets show the same data on an expanded Y axis. The widths of confidence intervals have not been adjusted for multiplicity and cannot be used to infer treatment effects.
+
+[DOCLING_PAGE 15]
+
+14
+
+[DOCLING_TABLE rows=0 columns=0]
+[/DOCLING_TABLE]
+
+The widths of confidence intervals have not been adjusted for multiplicity and cannot be used to infer treatment effects.
+
+[DOCLING_PAGE 16]
+
+15
+
+[DOCLING_TABLE rows=0 columns=0]
+[/DOCLING_TABLE]
+
+The widths of confidence intervals have not been adjusted for multiplicity and cannot be used to infer treatment effects.
+
+[DOCLING_PAGE 17]
+
+16
+
+[DOCLING_TABLE rows=0 columns=0]
+[/DOCLING_TABLE]
+
+The widths of confidence intervals have not been adjusted for multiplicity and cannot be used to infer treatment effects.
+
+[DOCLING_PAGE 18]
+
+17
+
+[DOCLING_TABLE rows=34 columns=3]
+|  | Apixaban 2.5 mg twice daily (N = 866) | Apixaban 5 mg twice daily (N = 900) |
+| Breast - no. (%) | 199 (23.0) | 202 (22.4) |
+| Colorectal - no. (%) | 123 (14.2) | 146 (16.2) |
+| Gynecological - no. (%) | 114 (13.2) | 99 (11.0) |
+| Ovarian | 74 (8.5) | 56 (6.2) |
+| Uterus | 31 (3.6) | 30 (3.3) |
+| Cervical | 5 (0.6) | 7 (0.8) |
+| Other | 4 (0.5) | 6 (0.7) |
+| Lung - no. (%) | 99 (11.4) | 100 (11.1) |
+| Prostate - no. (%) | 77 (8.9) | 87 (9.7) |
+| Gastrointestinal (other than colorectal) - no. (%) | 78 (9.0) | 74 (8.2) |
+| Pancreatic | 38 (4.4) | 23 (2.6) |
+| Gastric | 20 (2.3) | 23 (2.6) |
+| Hepatobiliary | 10 (1.2) | 18 (2.0) |
+| Esophageal | 7 (0.8) | 7 (0.8) |
+| Other | 3 (0.3) | 3 (0.3) |
+| Urogenital - no. (%) | 75 (8.7) | 62 (6.9) |
+| Renal | 37 (4.3) | 33 (3.7) |
+| Bladder | 30 (3.5) | 23 (2.6) |
+| Testicular | 3 (0.3) | 2 (0.2) |
+| Penile | 1 (0.1) | 0 (0.0) |
+| Other | 4 (0.5) | 4 (0.4) |
+| Hematological malignancy - no. (%) | 61 (7.0) | 74 (8.2) |
+| Multiple myeloma | 33 (3.8) | 37 (4.1) |
+| Non-Hodgkin lymphoma | 11 (1.3) | 16 (1.8) |
+| Chronic lymphoid leukemia | 7 (0.8) | 12 (1.3) |
+| Hodgkin lymphoma | 0 (0.0) | 2 (0.2) |
+| Chronic myeloid leukemia | 1 (0.1) | 1 (0.1) |
+| Other | 9 (1.0) | 6 (0.7) |
+| Other - no. (%) | 38 (4.4) | 53 (5.9) |
+| Bone/soft tissue sarcoma | 7 (0.8) | 20 (2.2) |
+| Head and neck | 15 (1.7) | 11 (1.2) |
+| Other | 16 (1.8) | 22 (2.4) |
+| Unclear- no. (%)* | 2 (0.2) | 3 (0.3) |
+[/DOCLING_TABLE]
+
+[DOCLING_PAGE 19]
+
+18
+
+[DOCLING_TABLE rows=15 columns=3]
+|  | Apixaban 2.5 mg twice daily (N = 866) | Apixaban 5 mg twice daily (N = 900) |
+| Cancer treatment |  |  |
+| In the past 6 months - no. (%) |  |  |
+| Chemotherapy | 466 (53.8) | 499 (55.5) |
+| Hormone therapy | 203 (23.4) | 224 (24.9) |
+| Targeted therapy | 214 (24.7) | 210 (23.4) |
+| Immunotherapy | 161 (18.6) | 145 (16.1) |
+| Radiotherapy | 116 (13.4) | 117 (13.0) |
+| Surgery | 121 (14.0) | 105 (11.7) |
+| At enrollment - no. (%) | 710 (82.0) | 724 (80.4) |
+| Chemotherapy - no./total no. (%) | 299/862 (34.7) | 280/896 (31.3) |
+| Targeted therapy - no./total no. (%) | 190/865 (22.0) | 199/899 (22.1) |
+| Hormone therapy - no./total no. (%) | 177/863 (20.5) | 194/893 (21.7) |
+| Immunotherapy - no./total no. (%) | 125/863 (14.5) | 117/897 (13.0) |
+| Radiotherapy - no./total no. (%) | 16/865 (1.9) | 16/898 (1.8) |
+[/DOCLING_TABLE]
+
+[DOCLING_PAGE 20]
+
+19
+
+[DOCLING_TABLE rows=17 columns=3]
+|  | Apixaban 2.5 mg twice daily (N = 866) | Apixaban 5 mg twice daily (N = 900) |
+| Drug exposure - months |  |  |
+| Mean | 10.0 | 9.7 |
+| Median - IQR | 11.9 (9.0-12.1) | 11.8 (7.6-12.1) |
+| < 6 months - no. (%) | 163 (18.8) | 199 (22.1) |
+| ≥ 6 months - no. (%) | 703 (81.2) | 701 (77.9) |
+| Completed treatment for 12 months - no. (%) | 603 (69.6) | 598 (66.4) |
+| Reason for permanent study drug discontinuation - no./total no. (%) |  |  |
+| Death | 74/263 (28.1) | 78/302 (25.8) |
+| Decision of the physician | 51/263 (19.4) | 64/302 (21.2) |
+| Other major adverse event | 37/263 (14.1) | 50/302 (16.6) |
+| Decision of the patient | 38/263 (14.4) | 30/302 (9.9) |
+| Outcome event | 21/263 (8.0) | 37/302 (12.2) |
+| Other reason | 31/263 (11.8) | 26/302 (8.6) |
+| Withdrawal of consent | 4/263 (1.5) | 12/302 (4.0) |
+| Other study-drug-related adverse event | 7/263 (2.7) | 5/302 (1.7) |
+| Temporary study-drug discontinuation during the study - no. (%) | 288 (33.3) | 303 (33.7) |
+[/DOCLING_TABLE]
+
+[DOCLING_PAGE 21]
+
+20
+
+[DOCLING_TABLE rows=2 columns=4]
+|  | Apixaban 2.5 mg twice daily (N=755) | Apixaban 5.0 mg twice daily (N=765) | Subhazard Ratio (95% CI) |
+| Recurrent venous thromboembolism* | 16 (2.1) | 19 (2.5) | 0.87 (0.44-1.69) |
+[/DOCLING_TABLE]
+
+[DOCLING_PAGE 22]
+
+21
+
+[DOCLING_TABLE rows=20 columns=3]
+| Outcome | Apixaban 2.5 mg twice daily (N = 866) | Apixaban 5 mg twice daily (N = 900) |
+| Major bleeding - no. (%) | 24 (2.9) | 37 (4.3) |
+| Fatal | 2 | 2 |
+| Gastrointestinal* | 12 | 25 |
+| Upper gastrointestinal | 6 | 13 |
+| Lower gastrointestinal | 7 | 13 |
+| Urogenital | 6 | 4 |
+| Intracranial | 5 | 3 |
+| Intramuscular | 0 | 1 |
+| Other sites | 1 | 4 |
+| Clinically relevant nonmajor bleeding - no. (%)† | 84 (10.0) | 107 (12.3) |
+| Urogenital | 35 | 40 |
+| Gastrointestinal‡ | 15 | 26 |
+| Upper gastrointestinal | 3 | 4 |
+| Lower gastrointestinal | 13 | 23 |
+| Nasal | 13 | 23 |
+| Hematoma | 5 | 3 |
+| Surgical site | 1 | 1 |
+| Intramuscular | 0 | 1 |
+| Other sites | 19 | 15 |
+[/DOCLING_TABLE]
+
+Percentages are the cumulative incidence.
+
+* One patient in each group with both lower and upper gastrointestinal major bleeding
+
+† Eight patients with two sites: five in apixaban 2.5 mg group (nasal and other site, urogenital and lower gastrointestinal, hematoma and other site, upper gastrointestinal and other site, upper gastrointestinal and lower gastrointestinal), and three patients in apixaban 5.0 mg group (intramuscular and other site, hematoma and other site, upper gastrointestinal and lower gastrointestinal).
+
+‡ One patient in each group with both lower and upper gastrointestinal major bleeding
+
+[DOCLING_PAGE 23]
+
+22
+
+[DOCLING_TABLE rows=10 columns=3]
+|  | Apixaban 2.5 mg twice daily (N = 866) | Apixaban 5 mg twice daily (N = 900) |
+| Total deaths - no. | 148 | 168 |
+| Cancer related - no. (%) | 122 (82.4) | 142 (84.5) |
+| Infection/sepsis - no. (%) | 7 (4.7) | 7 (4.2) |
+| Acute respiratory failure - no. (%) | 3 (2.0) | 3 (1.8) |
+| Unexplained sudden death for which pulmonary embolism cannot be ruled out - no. (%) | 3 (2.0) | 2 (1.2) |
+| Fatal bleeding - no. (%) | 2 (1.4) | 2 (1.2) |
+| Fatal pulmonary embolism - no. (%) | 0 (0.0) | 0 (0.0) |
+| Other known cause - no. (%) | 4 (2.7) | 6 (3.6) |
+| Unknown - no. (%) | 7 (4.7) | 6 (3.6) |
+[/DOCLING_TABLE]
+
+Percentages are calculated on the total number of deceased patients by treatment group.
+
+[DOCLING_PAGE 24]
+
+23
+
+[DOCLING_TABLE rows=29 columns=3]
+| Event | Apixaban 2.5 mg twice daily (N = 866) | Apixaban 5 mg twice daily (N = 900) |
+| All adverse events - no. patients (%) | 705 (81.4) | 745 (82.8)* |
+| Serious adverse events - no. patients (%) | 345 (39.8) | 394 (43.8) † |
+| List of serious adverse events - no. patients ‡ |  |  |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | 102 | 118 |
+| Gastrointestinal disorders | 64 | 75 |
+| Infections and infestations | 62 | 68 |
+| Respiratory, thoracic and mediastinal disorders | 52 | 75 |
+| Renal and urinary disorders | 47 | 45 |
+| General disorders and administration site conditions | 44 | 32 |
+| Hepatobiliary disorders | 38 | 32 |
+| Injury, poisoning and procedural complications | 25 | 40 |
+| Vascular disorders | 25 | 25 |
+| Nervous system disorders | 21 | 21 |
+| Blood and lymphatic system disorders | 20 | 18 |
+| Investigations | 19 | 17 |
+| Cardiac disorders | 20 | 12 |
+| Musculoskeletal and connective tissue disorders | 12 | 15 |
+| Metabolism and nutrition disorders | 13 | 11 |
+| Reproductive system and breast disorders | 11 | 12 |
+| Surgical and medical procedures | 6 | 4 |
+| Product issues | 3 | 3 |
+| Eye disorders | 4 | 1 |
+| Psychiatric disorders | 2 | 3 |
+| Skin and subcutaneous tissue disorders | 4 | 1 |
+| Endocrine disorders | 1 | 3 |
+| Immune system disorders | 2 | 1 |
+| Pregnancy, puerperium and perinatal conditions | 0 | 2 |
+| Ear and labyrinth disorders | 0 | 1 |
+[/DOCLING_TABLE]
+
+[DOCLING_PAGE 25]
+
+24
+
+[DOCLING_TABLE rows=9 columns=2]
+| Category | Example |
+| Disease, problem or Condition under investigation | Patients with active cancer and acute proximal deep-vein thrombosis or pulmonary embolism who had completed at least 6 months of anticoagulant therapy. |
+| Special consideration related to |  |
+| - Sex and gender | Risks were similar between sexes, 4 but sex itself could be a confounding factor with the site of cancer (e.g., breast, prostate, colorectal, lung). Age was not found to be an independent risk factor for VTE during the initial treatment phase 5 but it could be a |
+| - Age | recurrent confounding factor with the site of cancer; a pancreatic or hepatobiliary cancer site was associated with a higher risk of recurrence. Different cancer sites impact venous thromboembolic risk and treatment outcomes. Hence, cancer |
+| - Race and ethnic group | site may influence both the age effect and treatment response. One major risk factor for cancer-associated thrombosis is ethnicity, 6,7 but there are no data on the risk of recurrence of venous thromboembolism. Owing to legal constraints in France, no data were collected on race and ethnicity in this trial. Therefore, it is not possible to comment on the representativeness of our study with respect to specific racial and ethnic groups. |
+| - Geography | Age, ethnicity, and sites of cancer vary across countries. All these factors may be confounding. However, to our knowledge, there is no known geographical variation in venous thromboembolism recurrence in cancer patients. |
+| Other considerations | Since the study enrolled patients with cancer (66% of patients have metastatic disease), the incidence of risk factors differs from patients without cancer (18% with a history of VTE), and most events are pulmonary embolism. |
+| Overall representativeness of this trial | The API-CAT trial included patients with a wide spectrum of cancers representative of current clinical practice. The study population is reflective of individuals undergoing extended treatment in routine clinical practice, in terms of their age, cancer type, and cancer stage. Their baseline characteristics are similar to those seen in observational studies and randomized trials. 8-10 |
+[/DOCLING_TABLE]
+
+[DOCLING_PAGE 26]
+
+25
+
+References
+
+Ageno W, Squizzato A, Wells PS, Buller HR, Johnson G. The diagnosis of symptomatic recurrent pulmonary embolism and deep vein thrombosis: guidance from the SSC of the ISTH. J Thromb Haemost 2013;11:1597-602.
+
+Schulman S, Kearon C, Subcommittee on Control of Anticoagulation of the Scientific and Standardization Committee of the International Society on Thrombosis and Haemostasis. Definition of major bleeding in clinical investigations of antihemostatic medicinal products in non-surgical patients. J Thromb Haemost 2005;3:692-4.
+
+Einstein Investigators, Bauersachs R, Berkowitz SD, et al. Oral rivaroxaban for symptomatic venous thromboembolism. N Engl J Med 2010;363:2499-510.
+
+Ording AG, Nielsen PB, Skjoth F, et al. Risk of recurrent cancer-associated venous thromboembolism: A Danish nationwide cohort study. Int J Cardiol 2023;390:131271.
+
+Vedovati MC, Giustozzi M, Munoz A, et al. Risk factors for recurrence and major bleeding in patients with cancer-associated venous thromboembolism. Eur J Intern Med 2023;112:29-36.
+
+Raskob GE, Wendelboe AM, Campbell J, et al. Cancer-associated venous thromboembolism: Incidence and features in a racially diverse population. J Thromb Haemost 2022;20:2366-78.
+
+White RH. The epidemiology of venous thromboembolism. Circulation 2003;107:I4- 8.
+
+Cohen AT, Katholing A, Rietbrock S, Bamber L, Martinez C. Epidemiology of first and recurrent venous thromboembolism in patients with active cancer. A population-based cohort study. Thromb Haemost 2017;117:57-65.
+
+McBane RD, 2nd, Loprinzi CL, Zemla T, et al. Extending venous thromboembolism secondary prevention with apixaban in cancer patients. The EVE trial. J Thromb Haemost 2024;22:1704-14.
+
+Mahé I, Plaisance L, Chapelle C, et al. Long-Term Treatment of Cancer-Associated Thrombosis (CAT) Beyond 6 Months in the Medical Practice: USCAT, a 432-Patient Retrospective Non-Interventional Study. Cancers (Basel) 2020;12:2256.
