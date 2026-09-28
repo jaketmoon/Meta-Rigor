@@ -512,9 +512,9 @@ def _abstract_field(abstract: str, heading: str) -> str:
 
 
 def _effect_occurrence_is_exact(surface: str, effect: str, effect_measure: str) -> bool:
-    # 每个 outcome 的锁定效应在一个目标 surface 中恰好出现一次；其他 outcome 的
-    # 合法效应不能再被当作“额外数字”拒绝。完整 artifact 仍由 canonical byte compare
-    # 阻止插入或改写未绑定的数值。
+    # Each outcome's locked effect appears exactly once in a target surface; valid effects
+    # from other outcomes must not be rejected as extra numbers. Canonical byte comparison
+    # of the full artifact still prevents inserting or rewriting unbound values.
     del effect_measure
     return surface.count(effect) == 1
 
@@ -553,5 +553,4 @@ def _effect_text(fact) -> str:
         f"{fact.effect_measure} {fact.estimate:g} "
         f"(95% CI {fact.ci_lower:g} to {fact.ci_upper:g}{heterogeneity})"
     )
-
 

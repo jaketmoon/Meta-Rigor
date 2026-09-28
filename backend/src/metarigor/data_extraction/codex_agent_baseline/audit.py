@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import json
 def locally_rejected_tool_call_count(stderr: bytes) -> int:
-    """统计 Codex router 已拒绝、因而未执行的 tool call。"""
+    """Count tool calls rejected by the Codex router and therefore not executed."""
 
     count = 0
     for line in stderr.splitlines():
@@ -14,7 +14,7 @@ def locally_rejected_tool_call_count(stderr: bytes) -> int:
 
 
 def successful_tool_call_count(stdout: bytes) -> int:
-    """返回 JSONL 可直接证明已开始执行的 tool call 数。"""
+    """Return the number of tool calls whose execution start is directly evidenced by JSONL."""
 
     count = 0
     for raw_line in stdout.splitlines():
@@ -32,5 +32,4 @@ def successful_tool_call_count(stdout: bytes) -> int:
         }:
             count += 1
     return count
-
 

@@ -53,7 +53,7 @@ def _load_de_inventory() -> ReviewBenchmarkInventory:
 
 
 def load_benchmark_catalog() -> BenchmarkCatalog:
-    """只加载候选可见输入；此函数绝不读取 gold 或 external comparator。"""
+    """Load only candidate-visible inputs; never read gold or external comparators."""
 
     catalog_path = _DATASET_ROOT / "cases.json"
     if _sha256(catalog_path.read_bytes()) != CATALOG_SHA256:
@@ -154,5 +154,4 @@ def load_benchmark_gold(catalog: BenchmarkCatalog | None = None) -> BenchmarkGol
         ):
             raise ValueError(f"gold cites a fact outside its domain: {gold.case_id}")
     return reference
-
 

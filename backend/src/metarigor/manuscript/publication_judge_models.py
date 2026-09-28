@@ -128,7 +128,7 @@ class PublicationJudgeCriterionAgentOutput(ManuscriptModel):
 
 
 class PublicationJudgeStructuredScore(ManuscriptModel):
-    """同一七维 Judge 的 JSON 输出；程序仍拥有证据和最终分数聚合。"""
+    """JSON output from the same seven-dimensional Judge; evidence and final score aggregation remain program-controlled."""
 
     rating: int = Field(ge=0, le=4, strict=True, json_schema_extra={"enum": [0, 1, 2, 3, 4]})
     rating_anchor: PublicationJudgeRatingAnchor
@@ -145,7 +145,7 @@ class PublicationJudgeStructuredScore(ManuscriptModel):
             raise ValueError("Scored Publication Judge rating 0 must be critical")
         if not all(v.strip() for v in (self.evidence_binding, self.improvement, self.assessment)):
             raise ValueError("Scored Publication Judge anchored fields must be non-empty")
-        # 保持旧六行响应的总字符预算；这里只计长，不再按位置解析模型输出。
+        # Preserve the total character budget of the old six-line response; measure length only, without positional parsing.
         equivalent_text = "\n".join(
             (
                 f"RATING: {self.rating}",
@@ -448,5 +448,4 @@ class PublicationJudgeValidationReport(ManuscriptModel):
         ):
             raise ValueError("Publication Judge limitations must remain explicit")
         return self
-
 

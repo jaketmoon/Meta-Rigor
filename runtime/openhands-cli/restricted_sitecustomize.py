@@ -1,8 +1,9 @@
-"""MetaRigor OpenHands CLI 实验限制层。
+"""Experimental restriction layer for the MetaRigor OpenHands CLI.
 
-该模块由 Python 的 ``sitecustomize`` 机制在 OpenHands CLI 启动前加载。它只收窄上游
-1.16.0 的运行能力：关闭 retry、condenser、skills、MCP 和 Task/subagent tool，并固定
-单次 conversation 的最大迭代数。实验仍执行上游 OpenHands CLI 的 headless loop。
+Python's ``sitecustomize`` mechanism loads this module before OpenHands CLI starts.
+It restricts upstream 1.16.0: disabling retries, condenser, skills, MCP, and the
+Task/subagent tool, and fixing the maximum iterations per conversation.
+The experiment still runs the upstream OpenHands CLI headless loop.
 """
 
 from __future__ import annotations
@@ -64,9 +65,9 @@ def _restricted_runtime_config(
 agent_store.AgentStore._apply_runtime_config = _restricted_runtime_config
 setup.register_builtins_agents = lambda **_: None
 
-# SDK 的外层 retry 和 LiteLLM/OpenAI transport 的 retry 是两层独立机制。前者由
-# ``LLM.num_retries=0`` 关闭；这里显式给后者传 ``max_retries=0``，保证一次 agent step
-# 最多对应一次真实 provider request。
+# Outer SDK retries and LiteLLM/OpenAI transport retries are independent.
+# The former are disabled by ``LLM.num_retries=0``; explicitly pass
+# ``max_retries=0`` for the latter to allow at most one provider request per agent step.
 _upstream_litellm_completion = sdk_llm_module.litellm_completion
 
 

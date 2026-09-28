@@ -48,8 +48,7 @@ def _contains_grade_disclosure(value: str) -> bool:
 
 
 def candidate_exposes_grade_disclosure(value: str) -> bool:
-    """供 loader/test 使用的 frozen candidate 泄漏判定。"""
+    """Frozen-candidate leakage check for loaders and tests."""
 
     return _contains_grade_disclosure(value)
-
 

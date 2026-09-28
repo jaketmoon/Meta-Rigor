@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-"""从封存 reference 形成独立写作事实边界；原包和来源始终保留。"""
+"""Derive an independent writing-fact boundary from sealed references; always preserve original packages and sources."""
 
 
 import json
@@ -262,5 +262,4 @@ def build_proxy(source: ManuscriptFactPackageV2) -> tuple[ManuscriptFactPackageV
             "NO_INDEPENDENT_BACKGROUND_OR_PRIOR_WORK_INPUT",
         ],
     }
-
 

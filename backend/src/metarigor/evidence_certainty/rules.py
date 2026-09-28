@@ -24,7 +24,7 @@ _CERTAINTY_BY_DOWNGRADE: tuple[Certainty, ...] = (
 
 @dataclass(frozen=True, slots=True)
 class BinaryImprecisionDecision:
-    """冻结的 binary RR/OR imprecision decision table 输出。"""
+    """Frozen binary RR/OR imprecision decision-table output."""
 
     judgment: DomainJudgment
     decision: str
@@ -46,7 +46,7 @@ def binary_imprecision_decision(
     control_participant_count: int | None,
     threshold_value: float = 1.0,
 ) -> BinaryImprecisionDecision:
-    """统一执行正式 EC 与 benchmark 共用的 binary imprecision 规则。"""
+    """Apply the shared binary imprecision rules for production EC and benchmarks."""
 
     if not 0 < ci_lower <= estimate <= ci_upper:
         raise ValueError("binary imprecision requires a positive ordered confidence interval")
@@ -68,13 +68,13 @@ def binary_imprecision_decision(
     relative_change = abs(relative_effect - 1) * 100
     ois_required = _binary_ois(baseline, relative_effect)
     if relative_change < 30:
-        ois_reason = "relative effect change 小于 30%，不触发 Core GRADE large-effect OIS path。"
+        ois_reason = "Relative effect change is below 30%; the Core GRADE large-effect OIS path is not triggered."
     elif ois_required is None:
-        ois_reason = "effect 可能超过 30%，但缺少可核验 control risk，OIS 保持未知。"
+        ois_reason = "The effect may exceed 30%, but verifiable control risk is missing; OIS remains unknown."
     else:
         ois_reason = (
-            "effect 可能超过 30%；按 alpha=.05、beta=.20、20% modest relative change "
-            f"计算 OIS={ois_required}，observed N={participant_count}。"
+            "The effect may exceed 30%; using alpha=.05, beta=.20, and a 20% modest relative change, "
+            f"calculated OIS={ois_required}, observed N={participant_count}."
         )
     ois_met = (
         participant_count >= ois_required
@@ -84,24 +84,24 @@ def binary_imprecision_decision(
     issues: tuple[str, ...] = ()
     if ci_lower <= threshold_value <= ci_upper:
         judgment: DomainJudgment = "SERIOUS"
-        decision = "CI 跨越冻结 certainty threshold，降一级。"
+        decision = "The CI crosses the frozen certainty threshold; downgrade by one level."
     elif relative_change < 30:
         judgment = "NOT_SERIOUS"
-        decision = "point estimate 的相对变化小于 30%，不触发 large-effect/OIS path。"
+        decision = "The point estimate's relative change is below 30%; the large-effect/OIS path is not triggered."
     elif relative_change <= 40:
         if ois_met is True:
             judgment = "NOT_SERIOUS"
-            decision = "point estimate 位于 30%–40% close-call 带，且 OIS 已满足。"
+            decision = "The point estimate is in the 30%-40% close-call band, and OIS is met."
         else:
             judgment = "BORDERLINE_NOT_SERIOUS_SERIOUS"
-            decision = "point estimate 位于 30%–40% close-call 带，OIS 未满足或未知。"
+            decision = "The point estimate is in the 30%-40% close-call band; OIS is unmet or unknown."
             issues = (ois_reason,)
     elif ois_met is True:
         judgment = "NOT_SERIOUS"
-        decision = "point estimate 的相对变化超过 40%，但 OIS 已满足。"
+        decision = "The point estimate's relative change exceeds 40%, but OIS is met."
     else:
         judgment = "SERIOUS"
-        decision = "point estimate 的相对变化超过 40%，且 OIS 未满足或未知。"
+        decision = "The point estimate's relative change exceeds 40%, and OIS is unmet or unknown."
         issues = (ois_reason,)
     return BinaryImprecisionDecision(
         judgment=judgment,
@@ -128,7 +128,7 @@ def _binary_ois(
     control_risk: float | None,
     observed_relative_effect: float | None,
 ) -> int | None:
-    """Core GRADE 2025 large-effect 路径的双侧两组 OIS（20% modest relative effect）。"""
+    """Two-sided, two-group OIS for the Core GRADE 2025 large-effect path (20% modest relative effect)."""
 
     if control_risk is None or observed_relative_effect is None or not 0 < control_risk < 1:
         return None
@@ -147,5 +147,4 @@ def _binary_ois(
         * math.sqrt(control_risk * (1 - control_risk) + intervention_risk * (1 - intervention_risk))
     ) ** 2
     return math.ceil(2 * numerator / (difference**2))
-
 

@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-"""V2 内的有界语义写作；程序只展开事实值、装配支持产物并记录问题。"""
+"""Bounded semantic writing within V2; the program only expands fact values, assembles supporting artifacts, and records issues."""
 
 
 import asyncio
@@ -264,7 +264,7 @@ def writing_facts(package) -> tuple[WritingFact, ...]:
                 else str(value)
             )
             if field in _TEXT_FIELDS:
-                # 只枚举已给定文字中的数字片段，不清洗或推断语义，不把整段文字变成 slot。
+                # Enumerate numeric fragments in supplied text only; do not normalize or infer semantics, or turn entire passages into slots.
                 def number(match, field=field):
                     return add_slot(f"{field}:{match.start()}:{match.end()}", match[0])
 
@@ -532,7 +532,7 @@ async def write_manuscript(pipeline, package, profile):
     async def section(section_plan):
         selected = facts_for(section_plan.section_id, facts, package)
         allowed = {f.fact_id for f in selected}
-        # plan 不能扩展 section 输入边界，也不能取消必需事实；违规原 plan 仍留在 Stage。
+        # Plans cannot expand section-input boundaries or remove required facts; retain violating original plans in the Stage.
         input_error = (
             "Plan assigns facts outside this section input"
             if any(set(p.fact_ids) - allowed for p in section_plan.paragraphs)
@@ -1100,7 +1100,7 @@ async def review_writing(pipeline, package, manuscript, verification):
 
 
 def validate_candidate_writing(folder, stages, request, package, delivery, content, copied):
-    """Judge 读取器回证模型 Stage 与成品；有语义 Issue 不等于 hash/来源伪造。"""
+    """Judge reader verifies model Stages and artifacts; semantic Issues do not imply forged hashes or sources."""
     from .publication_models import (
         CoverageManifest,
         JournalPresentationProfile,
@@ -1250,7 +1250,7 @@ def validate_candidate_writing(folder, stages, request, package, delivery, conte
     )
     expected_report = verified.model_dump(mode="json")
     observed_report = json.loads(content["VERIFIER"])
-    # Issue 的显示顺序不是研究事实；按完整内容比较多重集合，仍保留重复 Issue。
+    # Issue display order is not a study fact; compare multisets by complete content while retaining duplicate Issues.
     expected_report["issues"] = sorted(expected_report["issues"], key=canonical_json)
     observed_report["issues"] = sorted(observed_report["issues"], key=canonical_json)
     if expected_report != observed_report:
@@ -1260,5 +1260,4 @@ def validate_candidate_writing(folder, stages, request, package, delivery, conte
         for i in verified.issues
     ):
         raise ValueError("Candidate coverage/compliance contradicts actual LLM evidence")
-
 

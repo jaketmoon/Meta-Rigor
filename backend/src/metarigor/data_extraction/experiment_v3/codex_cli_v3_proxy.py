@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-"""Codex CLI V3 轻格式实验的本地 Responses transport compatibility lane。"""
+"""Local Responses transport compatibility lane for the Codex CLI V3 lightweight-format experiment."""
 
 
 import asyncio
@@ -33,7 +33,7 @@ FORWARDED_REQUEST_HEADERS = frozenset(
 
 
 class LoopbackResponsesProxy:
-    """只转发 Codex Responses POST 的进程内 HTTP forwarder，不记录 request body。"""
+    """In-process HTTP forwarder for Codex Responses POST requests only; never logs request bodies."""
 
     def __init__(
         self,
@@ -261,5 +261,4 @@ class LoopbackResponsesProxy:
             "upstream_model_id": self._upstream_model_id,
             "request_model_rewrite_count": self._request_model_rewrite_count,
         }
-
 

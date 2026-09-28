@@ -1,4 +1,4 @@
-"""OpenHands case 容器专用、零 retry 的最小 Chat Completions 代理。"""
+"""Minimal zero-retry Chat Completions proxy for OpenHands case containers."""
 
 from __future__ import annotations
 

@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-"""用受限 OpenHands CLI headless loop 生成并封存十案例自然输出候选。"""
+"""Generate and seal ten-case natural-output candidates with a restricted OpenHands CLI headless loop."""
 
 
 import json
@@ -396,5 +396,4 @@ def _execute_case_sync(
     }
     write_new(invocation_root / "invocation-summary.json", canonical_json(summary), mode=0o400)
     return summary
-
 

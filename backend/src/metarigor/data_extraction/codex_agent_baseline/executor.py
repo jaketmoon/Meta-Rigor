@@ -10,7 +10,7 @@ PROVIDER_RESPONSE_MODEL = "deepseek-v4-flash"
 
 
 def _model_catalog() -> dict[str, object]:
-    """固定官方 DeepSeek catalog 的能力元数据，不复制其长篇产品 prompt。"""
+    """Pin capability metadata from the official DeepSeek catalog without copying its lengthy product prompt."""
 
     return {
         "models": [
@@ -132,5 +132,4 @@ def _parse_jsonl(stdout: bytes) -> tuple[int, dict[str, int], tuple[str, ...]]:
                 continue
             usage[key] += value
     return call_count, usage, tuple(parse_issues)
-
 

@@ -26,7 +26,7 @@ class ImmutableFile:
 
 
 class RunFolder:
-    """Run 自包含目录；manifest 之外的文件均以相对路径引用。"""
+    """Self-contained Run directory; files other than the manifest use relative references."""
 
     def __init__(self, root: Path) -> None:
         self.root = root.resolve()
@@ -102,5 +102,4 @@ class RunFolder:
         item_component = cls.item_component(item_id)
         base = f"stages/{stage_component}/{item_component}/{input_sha256[:16]}"
         return f"{base}/input.json", f"{base}/output.json"
-
 

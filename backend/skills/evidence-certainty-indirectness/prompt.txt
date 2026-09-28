@@ -1,15 +1,15 @@
 # Evidence Certainty Indirectness V1
 
-版本：`CORE_GRADE_2025_V1`。当前只处理 direct two-arm comparison，不处理 network indirect comparison。
+Version: `CORE_GRADE_2025_V1`. Currently handles only direct two-arm comparisons, not network indirect comparisons.
 
-1. 逐一比较 target 与 evidence 的 population、intervention、comparator、outcome、time horizon、setting 和 estimand。
-2. 存在差异不自动降级。只有差异有可信理由导致 intervention effect 的 magnitude 或适用推论发生重要变化时，才判断 `SERIOUS`。
-3. 非常间接证据或不可靠 surrogate 替代 patient-important outcome 时才考虑 `VERY_SERIOUS`。
-4. outcome 定义或量表差异若只影响各 Study effect 的相互一致性，属于 inconsistency；若使证据回答了不同目标问题，属于 indirectness。不得双重降级同一个问题。
-5. 地域、剂量、照护路径或 follow-up 差异必须结合预先定义 target 和 plausible effect modifier 判断，不能只因存在异质性而降级。
-6. target PICO 或 evidence PICO 没有 source-bound 事实且无法比较时，返回 `NOT_ASSESSABLE`。
-7. target 的某个字段未进一步限制时，把它视为较宽 target；不能因 target 未指定 setting、地区或更窄 time horizon 而声称无法比较。evidence 更窄只有在该差异是可信 effect modifier、可能限制 target inference 时才构成 concern。
-8. evidence 与 target 的核心 PICO 直接匹配，但存在来源绑定的 regimen、outcome definition、severity/core definition、地区照护路径等 plausible effect modifier，而其重要程度仍不确定时，使用 `BORDERLINE_NOT_SERIOUS_SERIOUS`。若只是存在差异而没有可信 effect-difference 路径，则 `NOT_SERIOUS`。只有整个 target/evidence PICO 缺失或冲突到无法比较时才 `NOT_ASSESSABLE`。
-9. 必须区分“target 已有意宽泛覆盖的 implementation variation”和“会限制 target inference 的 plausible effect modifier”。前者没有 source-bound effect-difference 理由时必须 `NOT_SERIOUS`，不能仅因剂量、设备或实施方式不同而使用 borderline；后者若来源已给出可信生物学/临床 effect-modification 路径但重要程度未定，必须使用 borderline，不能要求先证明重要 effect difference——那已经接近明确 `SERIOUS` 的标准。
+1. Compare the target and evidence for population, intervention, comparator, outcome, time horizon, setting, and estimand.
+2. Differences do not automatically warrant downgrading. Use `SERIOUS` only when there is a credible reason that a difference importantly changes the magnitude of the intervention effect or the applicable inference.
+3. Consider `VERY_SERIOUS` only for very indirect evidence or an unreliable surrogate replacing a patient-important outcome.
+4. Differences in outcome definitions or scales belong to inconsistency if they affect only agreement among Study effects, and to indirectness if they make the evidence address a different target question. Do not downgrade twice for the same issue.
+5. Judge differences in region, dose, care pathway, or follow-up against the predefined target and plausible effect modifiers; do not downgrade merely because heterogeneity exists.
+6. Return `NOT_ASSESSABLE` when target or evidence PICO lacks source-bound facts and cannot be compared.
+7. Treat an unrestricted target field as a broad target; do not claim comparison is impossible because the target omits a setting, region, or narrower time horizon. Narrower evidence is a concern only when the difference is a credible effect modifier that may limit target inference.
+8. When core evidence and target PICO match directly, but source-bound regimen, outcome definition, severity/core definition, regional care pathways, or similar plausible effect modifiers have uncertain importance, use `BORDERLINE_NOT_SERIOUS_SERIOUS`. If differences exist without a credible pathway to an effect difference, use `NOT_SERIOUS`. Use `NOT_ASSESSABLE` only when the entire target/evidence PICO is missing or too conflicting to compare.
+9. Distinguish implementation variation intentionally covered by a broad target from plausible effect modifiers that limit target inference. Without a source-bound reason for an effect difference, the former must be `NOT_SERIOUS`; differing doses, devices, or implementation alone do not justify borderline. For the latter, if sources provide a credible biological/clinical effect-modification pathway but its importance is uncertain, use borderline. Do not require proof of an important effect difference first, as that approaches the standard for definite `SERIOUS`.
 
-理由必须指出具体 mismatch、为何会或不会造成重要 effect difference，并引用输入中的全部 Evidence Fact id。
+The rationale must identify the specific mismatch, explain why it would or would not cause an important effect difference, and cite every input Evidence Fact id.

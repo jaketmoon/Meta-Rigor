@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-"""用户授权的 MS proxy 重评与两个单轮消融；复用 FULL 正文，另行封存结果。"""
+"""User-authorized MS proxy reassessment and two single-round ablations; reuse FULL text and seal results separately."""
 
 
 from pathlib import Path
@@ -16,7 +16,7 @@ def copy_tree(source, target):
 
 
 def initialize_ablation(root, condition, full, runtime):
-    """仅替换旧初始化器的 deterministic FULL pin；复用原消融写作和装配行为。"""
+    """Replace only the old initializer's deterministic FULL pin; reuse ablation writing and assembly behavior."""
     target = root / "conditions" / condition.lower()
     manifest = {
         "schema_version": "ms-proxy-ablation.v1",
@@ -89,5 +89,4 @@ def initialize_ablation(root, condition, full, runtime):
         }
     write(target / "manifest.json", manifest)
     return target, manifest
-
 

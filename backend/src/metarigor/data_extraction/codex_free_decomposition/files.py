@@ -16,7 +16,7 @@ def sha256_file(path: Path) -> str:
 
 
 def write_new(path: Path, content: bytes, *, mode: int = 0o600) -> None:
-    """以 O_EXCL 写入并 fsync；实验产物不得静默覆盖。"""
+    """Write with O_EXCL and fsync; never silently overwrite experimental artifacts."""
 
     path.parent.mkdir(parents=True, exist_ok=True)
     descriptor = os.open(path, os.O_WRONLY | os.O_CREAT | os.O_EXCL, mode)
@@ -28,5 +28,4 @@ def write_new(path: Path, content: bytes, *, mode: int = 0o600) -> None:
     except BaseException:
         path.unlink(missing_ok=True)
         raise
-
 

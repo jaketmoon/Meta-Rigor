@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-"""基于 Run Folder 与 SQLite manifest 的 P0 研究运行时。"""
+"""P0 research runtime based on Run Folders and SQLite manifests."""
 
 
 from .files import RunFolder, canonical_json

@@ -1,5 +1,5 @@
-# EC 消融实现说明
+# EC Ablation Implementation Notes
 
-`no-code-logic` 对应 `direct`，以模型单次直接评估对照 Full 的程序化分阶段评估。这里的 code logic 指组织评估与执行判定的流程层，包括逐领域处理、确定性不精确性判定及总体聚合；结构验证与来源绑定作为共同运行保障保留。实现见 [`live.py`](live.py) 中的 `run_live_benchmark`。
+`no-code-logic` corresponds to `direct`, comparing a single direct model assessment with Full's programmatic staged assessment. Here, code logic means the workflow layer that organizes assessment and executes decisions, including per-domain processing, deterministic imprecision decisions, and overall aggregation. Structural validation and source binding remain as shared runtime safeguards. See `run_live_benchmark` in [`live.py`](live.py).
 
-两种配置使用相同的 20 个冻结分析对象和评价范围。Direct 通过统一提示词输出五领域判断及总体降级数，不加载 Full 的领域及聚合方法说明、review-level sufficiency contract 或该路径的补充证据。该设置以完整评估流程为对照单位，考察程序化分阶段配置相对于模型直接评估的整体贡献；任务组织、方法说明和证据配置的差异均属于比较范围，不将结果归因于某一条独立规则。
+Both configurations use the same 20 frozen analysis objects and evaluation scope. Direct uses a unified prompt to produce five domain judgments and an overall downgrade count, without loading Full's domain and aggregation methods, review-level sufficiency contract, or supplementary evidence for that path. The comparison treats the complete assessment workflow as its unit, examining the overall contribution of the programmatic staged configuration relative to direct model assessment. Differences in task organization, method instructions, and evidence configuration are all part of the comparison; results are not attributed to any single rule.

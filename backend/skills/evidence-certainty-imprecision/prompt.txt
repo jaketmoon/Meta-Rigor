@@ -1,13 +1,13 @@
 # Evidence Certainty Imprecision V1
 
-版本：`CORE_GRADE_2025_V1`。本版本只评价 binary RR/OR，并把 certainty target 冻结为 ratio-scale null=1；不得自行改成 MID 或绝对效应阈值。
+Version: `CORE_GRADE_2025_V1`. This version assesses only binary RR/OR and fixes the certainty target at the ratio-scale null of 1; do not substitute an MID or an absolute-effect threshold.
 
-1. 先判断 pooled 95% CI 是否跨越当前 certainty threshold。未跨越通常为 `NOT_SERIOUS`；跨越一个相关 threshold 通常为 `SERIOUS`。
-2. 本版本未实现来源绑定的 benefit/harm MID，因此不能仅凭主观 clinically important 阈值判断 `VERY_SERIOUS`；缺少该机制时保持在已冻结 null-effect 问题内。
-3. 当 point estimate 接近 null 时仍检查 CI 是否跨 null；不能只看统计显著性的文字标签。
-4. binary effect 的 CI ratio 与 OIS 只在 Core GRADE 指定路径作辅助；不得采用全局 event<300、event<100 等 shortcut。
-5. CI 未跨 threshold 时，binary large-effect/OIS 路径固定如下：relative change 小于 30% 不触发；30%–40% 是 close-call 带，OIS 未满足或因缺少 source-bound baseline risk 而未知时通常为 `BORDERLINE_NOT_SERIOUS_SERIOUS`；超过 40% 且 OIS 未满足时通常为 `SERIOUS`；OIS 满足时通常为 `NOT_SERIOUS`。V1 固定双侧 `alpha=.05`、`beta=.20` 和 20% modest relative change；不得让模型另选参数。OIS 未知必须显式说明，但在 effect、CI、threshold 已闭合时不能仅因此把整个领域改成 `NOT_ASSESSABLE`。
-6. 不把 prediction interval 的跨阈值问题在本领域与 inconsistency 重复计算。
-7. 只有 CI、null threshold 或 binary RR/OR effect scale 本身无法闭合时才返回 `NOT_ASSESSABLE`。baseline risk 只用于 OIS，缺失 baseline risk 不能抹掉 OR/RR point estimate 相对 1 的变化，也不能单独触发 `NOT_ASSESSABLE`。
+1. First determine whether the pooled 95% CI crosses the current certainty threshold. No crossing generally means `NOT_SERIOUS`; crossing one relevant threshold generally means `SERIOUS`.
+2. This version does not implement source-bound benefit/harm MIDs, so subjective clinically important thresholds cannot justify `VERY_SERIOUS`. Without that mechanism, stay within the frozen null-effect question.
+3. When the point estimate is near the null, still check whether the CI crosses it; do not rely solely on verbal labels of statistical significance.
+4. Use the CI ratio and OIS for binary effects only as supporting information on the paths specified by Core GRADE; do not use global shortcuts such as event<300 or event<100.
+5. When the CI does not cross the threshold, the binary large-effect/OIS path is fixed as follows: a relative change below 30% does not trigger it; 30%-40% is a close-call band, generally `BORDERLINE_NOT_SERIOUS_SERIOUS` when OIS is unmet or unknown because source-bound baseline risk is missing; above 40% with unmet OIS generally means `SERIOUS`; met OIS generally means `NOT_SERIOUS`. V1 fixes two-sided `alpha=.05`, `beta=.20`, and a 20% modest relative change; the model must not choose different parameters. Explicitly state when OIS is unknown, but do not mark the entire domain `NOT_ASSESSABLE` for that reason alone when the effect, CI, and threshold are closed.
+6. Do not double-count a prediction interval crossing a threshold in both this domain and inconsistency.
+7. Return `NOT_ASSESSABLE` only when the CI, null threshold, or binary RR/OR effect scale itself cannot be closed. Baseline risk is used only for OIS; its absence does not erase the OR/RR point estimate's change relative to 1 and cannot alone trigger `NOT_ASSESSABLE`.
 
-理由必须明确 point estimate、CI、threshold、跨越了哪些推论边界，并引用输入中的全部 Evidence Fact id。
+The rationale must specify the point estimate, CI, threshold, and inferential boundaries crossed, and cite every input Evidence Fact id.

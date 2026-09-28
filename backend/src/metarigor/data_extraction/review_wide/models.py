@@ -4,7 +4,7 @@ import hashlib
 import json
 from pydantic import BaseModel, ConfigDict
 class ReviewModel(BaseModel):
-    """Review-wide 对外与内部对象都采用封闭且不可变的 schema。"""
+    """Both public and internal review-wide objects use closed, immutable schemas."""
 
     model_config = ConfigDict(extra="forbid", frozen=True)
 
@@ -18,5 +18,4 @@ class ReviewModel(BaseModel):
             allow_nan=False,
         ).encode("utf-8")
         return hashlib.sha256(encoded).hexdigest()
-
 

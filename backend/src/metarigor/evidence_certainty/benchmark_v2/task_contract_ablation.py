@@ -1,9 +1,9 @@
 from __future__ import annotations
 
-"""EC 任务转化层消融：历史 staged 输入重建、有限计算工具与自然回答。
+"""EC task-transformation ablation: reconstruct historical staged inputs, bounded calculation tools, and natural answers.
 
-不执行 baseline，不提供 EC 语义输出 schema；每 case 两个独立、有界 Stage，
-第二个仅在模型请求计算时执行。不重试，不读取 reference 或 baseline 答案。
+Do not run the baseline or provide an EC semantic output schema. Each case has two
+independent bounded Stages; run the second only when the model requests calculation. No retries or reference/baseline answers.
 """
 
 
@@ -76,5 +76,4 @@ class InitialEnvelope(Closed):
 
 class FinalEnvelope(Closed):
     answer: str
-
 

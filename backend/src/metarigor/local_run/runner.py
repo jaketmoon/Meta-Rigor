@@ -37,7 +37,7 @@ StageExecutor = Callable[[dict[str, Any]], StageOutcome | Awaitable[StageOutcome
 
 
 class StageRunner:
-    """单次 canonical input 执行器；没有 repair、attempt 或 fallback。"""
+    """Single-shot canonical-input executor; no repair, attempt, or fallback."""
 
     def __init__(self, *, run_id: str, folder: RunFolder, manifest: RunManifest) -> None:
         self.run_id = run_id
@@ -236,5 +236,4 @@ class StageRunner:
         if cancellation is not None:
             raise cancellation
         return finished
-
 

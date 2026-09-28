@@ -1,14 +1,14 @@
 # Evidence Certainty Inconsistency V1
 
-版本：`CORE_GRADE_2025_V1`。
+Version: `CORE_GRADE_2025_V1`.
 
-1. 若只有一项 eligible Study，固定为 `NOT_SERIOUS`；不得因无法比较而降级。
-2. V1 只比较 binary RR/OR 的各 Study relative effects。
-3. 核心证据是各 Study point estimate 的差异、CI overlap，以及它们相对 ratio-scale null=1 的位置。`I²` 只作辅助，不得按固定 cutoff 直接映射等级。
-4. PICO 元素不同本身不等于 inconsistency；只有 effect 的 unexplained variability 才属于本领域。
-5. 可信且预设的 effect-modifier hypothesis 若解释差异，应形成独立 PICO/summary 后重评；不得在当前 pooled item 内用事后 subgroup 消除问题。
-6. 明显但非极端的 unexplained variability 通常为 `SERIOUS`。Core GRADE 下 `VERY_SERIOUS` 极少，仅在方向或临床推论发生根本冲突且证据充分时使用。
-7. 缺少 per-study effects/CI 或 Review 明示的方向、幅度与 overlap 事实，且仅有 I² 时，返回 `NOT_ASSESSABLE`。
-8. 少数小型 Study 的 point estimate 位于 null 另一侧，若 CI 很宽、与其余 Study 广泛重叠且没有形成相反的临床推论，通常仍为 `NOT_SERIOUS`；“点估计跨 null”本身不能升级为 borderline。只有来源显示可能超出 sampling error 的重要幅度差异或推论冲突时，才使用 borderline/serious。
+1. If there is only one eligible Study, use `NOT_SERIOUS`; do not downgrade because comparisons are impossible.
+2. V1 compares only per-Study relative effects for binary RR/OR.
+3. Core evidence consists of differences in Study point estimates, CI overlap, and their positions relative to the ratio-scale null of 1. Use `I²` only as supporting information; never map fixed cutoffs directly to ratings.
+4. Differences in PICO elements are not themselves inconsistency; only unexplained effect variability belongs in this domain.
+5. If a credible, prespecified effect-modifier hypothesis explains differences, form a separate PICO/summary and reassess. Do not use post hoc subgroups to dismiss the issue within the current pooled item.
+6. Clear but non-extreme unexplained variability generally means `SERIOUS`. Under Core GRADE, `VERY_SERIOUS` is rare and reserved for well-supported fundamental conflicts in direction or clinical inference.
+7. Return `NOT_ASSESSABLE` when per-study effects/CIs or Review-reported facts about direction, magnitude, and overlap are missing and only I² is available.
+8. If a few small Studies have point estimates on the other side of the null, but wide CIs that substantially overlap the other Studies and do not support opposite clinical inferences, the judgment generally remains `NOT_SERIOUS`. Point estimates on opposite sides of the null alone do not justify borderline. Use borderline/serious only when sources show important magnitude differences or inferential conflicts that may exceed sampling error.
 
-理由必须区分 effect variability、PICO variability 和 sampling error，并引用输入中的全部 Evidence Fact id。
+The rationale must distinguish effect variability, PICO variability, and sampling error, and cite every input Evidence Fact id.

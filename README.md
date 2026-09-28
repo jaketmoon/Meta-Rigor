@@ -1,29 +1,29 @@
 # MetaRigor
 
-MetaRigor 是面向 Agent 的证据审查服务。仓库通过一个可安装的 CLI 暴露稳定的 JSON 接口，外部 Agent 不需要了解内部 Python 模块即可调用。
+MetaRigor is an agent-ready evidence review service. It exposes a stable JSON interface through an installable CLI, so external agents can use it without knowing the internal Python modules.
 
-## 安装
+## Installation
 
-要求 Python 3.12 或更高版本：
+Requires Python 3.12 or later:
 
 ```bash
 python3.12 -m venv .venv
 .venv/bin/pip install -e .
 ```
 
-如果需要运行 JSON Schema 校验，请安装完整依赖：
+To run JSON Schema validation, install the full dependencies:
 
 ```bash
 .venv/bin/pip install -r requirements.txt
 ```
 
-安装后可使用：
+After installation, run:
 
 ```bash
 metarigor --help
 ```
 
-也可以不安装，直接运行：
+Alternatively, run directly without installing:
 
 ```bash
 PYTHONPATH=backend/src python3 -m metarigor --help
@@ -31,32 +31,32 @@ PYTHONPATH=backend/src python3 -m metarigor --help
 
 ## CLI
 
-检查服务：
+Check service health:
 
 ```bash
 metarigor health
 ```
 
-查看 Agent 能力和协议版本：
+View agent capabilities and the protocol version:
 
 ```bash
 metarigor capabilities
 ```
 
-当前提供的基础操作：
+Available basic operations:
 
-- `health`：健康检查
-- `capabilities`：返回能力清单
-- `hash`：计算字符串 SHA-256
-- `validate`：使用 JSON Schema 校验输入
+- `health`: Check service health
+- `capabilities`: Return the capability list
+- `hash`: Compute the SHA-256 hash of a string
+- `validate`: Validate input against a JSON Schema
 
-例如计算哈希：
+For example, compute a hash:
 
 ```bash
 echo '{"value":"hello"}' | metarigor run hash
 ```
 
-例如校验 JSON：
+For example, validate JSON:
 
 ```bash
 cat <<'JSON' | metarigor run validate
@@ -67,24 +67,24 @@ cat <<'JSON' | metarigor run validate
 JSON
 ```
 
-## Agent 接入
+## Agent Integration
 
-`metarigor agent` 使用 JSONL（每行一个 JSON 对象）作为 stdin/stdout 协议，适合被其他 Agent、工作流编排器或沙箱进程调用。
+`metarigor agent` uses JSONL (one JSON object per line) over stdin/stdout, making it suitable for other agents, workflow orchestrators, and sandboxed processes.
 
-启动服务：
+Start the service:
 
 ```bash
 metarigor agent
 ```
 
-发送请求：
+Send requests:
 
 ```json
 {"id":"req-1","operation":"health","input":{}}
 {"id":"req-2","operation":"hash","input":{"value":"hello"}}
 ```
 
-每个请求都会返回一个 JSON 对象：
+Each request returns a JSON object:
 
 ```json
 {
@@ -98,7 +98,7 @@ metarigor agent
 }
 ```
 
-错误不会混入日志格式，而是以结构化响应返回：
+Errors are returned as structured responses, not as log-formatted output:
 
 ```json
 {
@@ -112,34 +112,34 @@ metarigor agent
 }
 ```
 
-单次调用可以使用：
+For a single invocation, use:
 
 ```bash
 echo '{"id":"one-shot","operation":"health","input":{}}' \
   | metarigor agent --once
 ```
 
-## 项目结构
+## Project Structure
 
 ```text
 backend/src/metarigor/
-├── application/       # 产品服务边界和操作分发
-├── cli/                # 命令行入口与 JSONL Agent 适配器
-├── adapters/           # 外部模型和运行时适配器
-├── data_extraction/    # 数据提取能力
-├── evidence_acquisition/  # 证据获取能力
-├── evidence_certainty/    # 证据确定性评估
-├── manuscript/         # 稿件相关能力
-└── risk_of_bias_v3/    # 偏倚风险评估
+├── application/          # Product service boundary and operation dispatch
+├── cli/                  # CLI entry points and JSONL agent adapter
+├── adapters/             # External model and runtime adapters
+├── data_extraction/      # Data extraction
+├── evidence_acquisition/ # Evidence acquisition
+├── evidence_certainty/   # Evidence certainty assessment
+├── manuscript/           # Manuscript capabilities
+└── risk_of_bias_v3/      # Risk-of-bias assessment
 ```
 
-论文实验脚本和冻结数据仍保留在仓库中，但产品集成应优先使用 `metarigor` CLI 和 `metarigor-agent-v1` 协议。
+Research experiment scripts and frozen datasets remain in the repository, but product integrations should use the `metarigor` CLI and the `metarigor-agent-v1` protocol.
 
-## 开发检查
+Project documentation, code comments, and active method prompts are in English. Original source documents, frozen case data, and reference answers retain their original language to preserve verbatim evidence and provenance hashes. Translating prompts changes model inputs; new runs are not byte-identical reproductions of runs using the original prompts.
+
+## Development Checks
 
 ```bash
 PYTHONPATH=backend/src python3 -m compileall -q backend/src
 PYTHONPATH=backend/src python3 -m metarigor health
 ```
-
-

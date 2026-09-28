@@ -81,7 +81,7 @@ def normalize_openai_base_url(base_url: str) -> str:
 
 
 class DirectSchemaAgent:
-    """一次 direct chat-completions strict structured output；无 Agent loop。"""
+    """One direct chat-completions call with strict structured output; no Agent loop."""
 
     def __init__(
         self,
@@ -225,7 +225,7 @@ class DirectSchemaAgent:
 
 
 class ClaudeSchemaAgent:
-    """一次请求、一次结构化结果；不恢复 session，也不持久化 invocation。"""
+    """One request, one structured result; no session resumption or invocation persistence."""
 
     def __init__(
         self,
@@ -261,8 +261,8 @@ class ClaudeSchemaAgent:
             "model": self._models[role],
             "role": role,
             "thinking_mode": "disabled",
-            # output_format 由 SDK 内部的 structured-output tool 收束；额外 turn 不是
-            # 重试或新 item，只允许同一次 schema-bound invocation 完成握手。
+            # The SDK's internal structured-output tool resolves output_format; the extra turn is
+            # neither a retry nor a new item, but only completes the same schema-bound invocation's handshake.
             "max_turns": self._max_turns if self._structured_output_mode == "sdk_tool" else 1,
             "timeout_seconds": self._timeout_seconds,
             "structured_output_mode": self._structured_output_mode,
@@ -294,9 +294,9 @@ class ClaudeSchemaAgent:
         if self._structured_output_mode == "sdk_tool":
             output_format = {"type": "json_schema", "schema": request.output_schema}
         else:
-            # 部分 Anthropic-compatible gateway 虽暴露 SDK structured-output tool，却不能稳定完成
-            # 非 Claude 模型的 tool 握手；这里限制为单 item、单 turn，并由 adapter 使用同一份
-            # 本地 schema contract 校验模型返回的普通 JSON。
+            # Some Anthropic-compatible gateways expose the SDK structured-output tool but cannot reliably complete
+            # tool handshakes for non-Claude models. Limit execution to one item and one turn; the adapter
+            # validates the model's plain JSON against the same local schema contract.
             max_turns = 1
         system_prompt = schema_agent_system_prompt(
             prompt=request.prompt,
@@ -419,7 +419,7 @@ class ClaudeSchemaAgent:
         }
 
     def _terminal_error_detail(self, terminal: Any) -> str:
-        """保留可诊断终态字段，同时避免把 credential 或完整模型结果写入 Issue。"""
+        """Retain diagnostic terminal-state fields without writing credentials or complete model outputs into Issues."""
 
         fields: dict[str, Any] = {}
         for name in (
@@ -439,7 +439,7 @@ class ClaudeSchemaAgent:
 
     @staticmethod
     def _decode_json_text(raw: str) -> Any:
-        """接受纯 JSON 或单一 Markdown fence，不接受夹带解释的自由文本。"""
+        """Accept plain JSON or a single Markdown fence, not free text with explanations."""
 
         candidate = raw.strip()
         fenced = _JSON_FENCE_PATTERN.fullmatch(candidate)
@@ -475,7 +475,7 @@ class ClaudeSchemaAgent:
 
 
 class OpenAICompatibleJsonSchemaAgent:
-    """通过 OpenAI-compatible Chat Completions 执行单次 JSON schema 任务。"""
+    """Execute one JSON schema task through OpenAI-compatible Chat Completions."""
 
     def __init__(
         self,
@@ -786,7 +786,7 @@ class OpenAICompatibleJsonSchemaAgent:
 
 
 class RoleRoutedSchemaAgent:
-    """按显式 worker/reviewer role 选择单一 runtime；不重试、不 fallback。"""
+    """Select one runtime by explicit worker/reviewer role; no retries or fallback."""
 
     def __init__(self, *, worker: Any, reviewer: Any, adjudicator: Any | None = None) -> None:
         self._runtimes = {"worker": worker, "reviewer": reviewer}
@@ -798,5 +798,4 @@ class RoleRoutedSchemaAgent:
 
     async def invoke(self, request: SchemaAgentRequest) -> SchemaAgentResult:
         return await self._runtimes[request.model_role].invoke(request)
-
 

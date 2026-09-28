@@ -52,7 +52,7 @@ class ReviewCaseSourceBindings(EvidenceCertaintyModel):
 
 
 class ReviewBenchmarkCase(EvidenceCertaintyModel):
-    """Review-level case；role/reason 是策展选择元数据，非来源语义事实。"""
+    """Review-level case; role/reason are curation metadata, not semantic source facts."""
 
     case_id: str = Field(pattern=r"^pmc-[0-9]+-[a-z0-9-]+$")
     selected_analysis_id: str = Field(pattern=r"^[a-z0-9][a-z0-9-]{2,159}$")
@@ -201,7 +201,7 @@ class ReviewCandidateDocument(EvidenceCertaintyModel):
 
 
 class ReviewFigureEvidence(EvidenceCertaintyModel):
-    """Review 图像的人工核验转录；只用于 V2 benchmark，不冒充正式 Source Span。"""
+    """Manually verified Review-image transcription for the V2 benchmark only; not a production Source Span."""
 
     evidence_id: str = Field(pattern=r"^[a-z][a-z0-9-]{1,63}$")
     representation_kind: Literal["CURATOR_VERIFIED_REVIEW_FIGURE_TRANSCRIPTION"]
@@ -231,7 +231,7 @@ class ReviewFigureEvidence(EvidenceCertaintyModel):
 
 
 class ReviewTextEvidence(EvidenceCertaintyModel):
-    """冻结 Review candidate 中的精确单行摘录。"""
+    """Exact single-line excerpt from a frozen Review candidate."""
 
     evidence_id: str = Field(pattern=r"^[a-z][a-z0-9-]{1,63}$")
     representation_kind: Literal["FROZEN_REVIEW_TEXT_EXCERPT"]
@@ -262,7 +262,7 @@ ReviewSufficiencyBasis = Literal[
 
 
 class ReviewSourceResolution(EvidenceCertaintyModel):
-    """在进入模型前固定冲突来源的 governing version。"""
+    """Pin the governing version of conflicting sources before model invocation."""
 
     resolution_kind: Literal["USER_AUTHORIZED_GOVERNING_SOURCE_SELECTION"]
     authority: Literal["USER_INSTRUCTION_2026_09_01"]
@@ -379,7 +379,7 @@ class ReviewLevelSufficiencyContract(EvidenceCertaintyModel):
 
 
 class BenchmarkV2EvidenceAnchorSidecar(EvidenceCertaintyModel):
-    """模型调用前由程序闭合的 candidate evidence → SourceSpan 映射。"""
+    """Candidate evidence-to-SourceSpan mapping closed by the program before model invocation."""
 
     evidence_id: str = Field(pattern=r"^[A-Za-z][A-Za-z0-9_.:-]{0,159}$")
     domain_relevance: tuple[GradeDomain, ...] = Field(min_length=1, max_length=5)
@@ -452,7 +452,7 @@ class BenchmarkV2EvidenceAnchorSidecar(EvidenceCertaintyModel):
 
 
 class BenchmarkV2EvidenceClaim(EvidenceCertaintyModel):
-    """MR 与盲态外部候选共用的答案级 evidence-claim 表示。"""
+    """Shared answer-level evidence-claim representation for MR and blinded external candidates."""
 
     schema_version: Literal["1.0.0"] = "1.0.0"
     claim_id: str = Field(min_length=1, max_length=500)
@@ -669,5 +669,4 @@ class BenchmarkV2EvidenceMetrics(EvidenceCertaintyModel):
     case_evidence_complete_denominator: Literal[20] = 20
     primary_source_closed_selected_span_count: int = Field(ge=0)
     review_document_only_selected_span_count: int = Field(ge=0)
-
 

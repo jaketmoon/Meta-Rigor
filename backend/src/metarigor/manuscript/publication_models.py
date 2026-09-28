@@ -114,8 +114,8 @@ class PublicationFactCore(ManuscriptModel):
 def publication_fact_sha256(value: PublicationFactCore | dict) -> str:
     if isinstance(value, ManuscriptModel):
         payload = value.model_dump(mode="json")
-        # 新增的向后兼容字段只有在来源包显式携带时才进入 Fact hash；否则历史
-        # immutable package 会因模型层注入默认值而发生伪变化。
+        # Include new backward-compatible fields in the Fact hash only when explicitly present in the source package;
+        # otherwise model-injected defaults would cause spurious changes to historical immutable packages.
         backward_compatible_defaults = {
             "p_value",
             "absolute_effect",
@@ -379,8 +379,8 @@ class SynthesisPublicationFact(PublicationFactCore):
         "INVALID_ESTIMAND",
         "NOT_REPORTED",
     ]
-    # Phase 3 必须由 Run manifest 中独立创建并解析的 Human Decision 实现；
-    # Fact Package 输入不能自行携带裁决并解锁冲突。
+    # Phase 3 requires a separately created and resolved Human Decision in the Run manifest;
+    # Fact Package inputs cannot carry their own adjudication to unlock conflicts.
     human_adjudication: None = None
 
     @model_validator(mode="after")
@@ -1020,5 +1020,4 @@ class ManuscriptRunResultV2(ManuscriptModel):
     issue_count: int = Field(ge=0)
     delivery_path: str | None
     delivery_sha256: Sha256 | None
-
 

@@ -1,10 +1,10 @@
 from __future__ import annotations
 
-"""MS generic 10-case 的 Codex CLI natural-output 外部对照实验。
+"""Codex CLI natural-output external control experiment for the MS generic ten-case benchmark.
 
-本模块只负责实验编排、输入闭包、Codex 输出封存、盲法整理的结构性适配和
-同一 Publication Judge 的调用。它不在 Codex 输出上补写研究事实，也不对失败
-case 自动重试；失败 case 由操作者检查后显式指定重跑。
+This module handles only experiment orchestration, input closure, sealing Codex outputs,
+structural adaptation for blind curation, and invocation of the same Publication Judge. It adds no study
+facts to Codex output and never automatically retries failures; operators must inspect and explicitly select failed cases for reruns.
 """
 
 
@@ -158,7 +158,7 @@ def render_natural_output_prompt(
 
 
 class CodexManuscriptNaturalOutputExecutor:
-    """以 DE H1 v14 的隔离方式执行一次无输出 schema 的 MS case。"""
+    """Execute one MS case without an output schema using DE H1 v14 isolation."""
 
     def __init__(
         self,
@@ -210,8 +210,8 @@ class CodexManuscriptNaturalOutputExecutor:
         if self.provider_model != PROVIDER_MODEL_ID:
             catalog["models"][0]["slug"] = self.provider_model
             catalog["models"][0]["display_name"] = self.provider_model
-        # Codex 0.142.x 仍要求旧版 catalog 的字符串字段；保留空值以兼容当前已封存 binary，
-        # 具体 benchmark instructions 仍由 model_messages.instructions_template 提供。
+        # Codex 0.142.x still requires legacy catalog string fields; keep empty values for compatibility with the sealed binary.
+        # Specific benchmark instructions still come from model_messages.instructions_template.
         catalog["models"][0]["base_instructions"] = ""
         catalog["models"][0]["model_messages"]["instructions_template"] = (
             self.developer_instructions
@@ -430,5 +430,4 @@ def _credential_exposure_paths(invocation_root: Path, credential: str) -> list[s
         if needle in path.read_bytes():
             exposed.append(path.relative_to(invocation_root).as_posix())
     return exposed
-
 

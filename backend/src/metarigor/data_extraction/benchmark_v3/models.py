@@ -4,7 +4,7 @@ from typing import Literal
 from pydantic import Field, model_validator
 from metarigor.data_extraction.review_wide.models import ReviewModel
 class ReviewAnalysisShell(ReviewModel):
-    """仅供 V3 case 策展的来源清单；不属于候选 DE Run contract。"""
+    """Source inventory for V3 case curation only; not part of the candidate DE Run contract."""
 
     analysis_id: str = Field(pattern=r"^[A-Za-z][A-Za-z0-9_.:-]{0,239}$")
     label: str = Field(min_length=1, max_length=2_000)
@@ -122,5 +122,4 @@ class ReviewBenchmarkInventory(ReviewModel):
         if len(ids) != len(set(ids)) or len(legacy_ids) != len(set(legacy_ids)):
             raise ValueError("Review benchmark case and legacy ids must be unique")
         return self
-
 

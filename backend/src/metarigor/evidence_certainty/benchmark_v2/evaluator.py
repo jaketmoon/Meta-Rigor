@@ -8,7 +8,7 @@ def evaluate_answer_evidence(
     references: tuple[ReviewGoldCase, ...],
     partial_domains: Mapping[str, tuple[BenchmarkV2PredictionDomain, ...]] | None = None,
 ) -> BenchmarkV2EvidenceMetrics:
-    """统一评价 MR direct/staged 的答案级 evidence-claim 闭包。"""
+    """Uniformly evaluate answer-level evidence-claim closure for MR direct/staged outputs."""
 
     prediction_by_id = {item.case_id: item for item in predictions}
     partial_domains = partial_domains or {}
@@ -115,5 +115,4 @@ def evaluate_answer_evidence(
         primary_source_closed_selected_span_count=primary_closed,
         review_document_only_selected_span_count=review_only,
     )
-
 

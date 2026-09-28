@@ -20,7 +20,7 @@ from .publication_models import ManuscriptDeliveryV2, ManuscriptFactPackageV2, M
 def native_judge_template(
     criterion, *, score_mode, structured_score=False, compact_format=False, array_score=False
 ):
-    """原生候选沿用历史非空 Fact binding；external wrapper 的宽松输入不外溢。"""
+    """Native candidates retain historical nonempty Fact bindings; permissive external-wrapper inputs do not propagate."""
     template = publication_judge_template(
         criterion,
         score_mode=score_mode,
@@ -48,7 +48,7 @@ class PublicationManuscriptJudgeResult:
 
 
 class PublicationJudgePreflightError(ValueError):
-    """候选预检失败；异常仍携带已封存的失败证据位置。"""
+    """Candidate preflight failure; the exception retains the location of sealed failure evidence."""
 
     def __init__(
         self,
@@ -176,7 +176,7 @@ class _ScoredAssessment:
 
 
 class PublicationManuscriptJudge:
-    """在候选 Run 外对 sealed V2 candidate 做七维、一次调用式诊断。"""
+    """Run a seven-dimensional, single-call diagnosis of a sealed V2 candidate outside its Run."""
 
     def __init__(
         self,
@@ -1060,5 +1060,4 @@ class PublicationManuscriptJudge:
             external_mode=external_mode,
             candidate_origin=candidate_origin,
         )
-
 

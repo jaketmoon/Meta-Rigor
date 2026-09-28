@@ -85,7 +85,7 @@ CREATE INDEX IF NOT EXISTS ix_issues_run_stage ON issues(run_id, stage_result_id
 
 
 class RunManifest:
-    """小型 SQLite 权威索引；不保存大段模型或来源内容。"""
+    """Small authoritative SQLite index; does not store large model or source content."""
 
     def __init__(self, path: Path) -> None:
         self.path = path
@@ -379,5 +379,4 @@ class RunManifest:
             started_at=row["started_at"],
             finished_at=row["finished_at"],
         )
-
 

@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-"""MS V2 LLM 一次性实验入口：新包、fresh candidate、原七维 Judge、失败全量汇总。"""
+"""One-shot MS V2 LLM experiment: new package, fresh candidate, original seven-dimensional Judge, and all failures summarized."""
 
 
 import hashlib
@@ -13,5 +13,4 @@ def write(path, value):
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("xb") as stream:
         stream.write(value if isinstance(value, bytes) else canonical_json(value))
-
 

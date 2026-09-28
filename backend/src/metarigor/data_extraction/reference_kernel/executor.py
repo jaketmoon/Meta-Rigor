@@ -8,7 +8,7 @@ import httpx
 from .contracts import ALLOWED_DE_MODEL_ALIASES, CHAT_COMPLETIONS_PROVIDER_MODELS, MODEL_ALIAS, KernelTask, RawTextResponse
 from .prompts import SYSTEM_PROMPT
 class GatewayRawTextError(RuntimeError):
-    """不包含 response body 或 credential 的网关故障。"""
+    """Gateway failure containing neither response bodies nor credentials."""
 
     def __init__(
         self,
@@ -23,7 +23,7 @@ class GatewayRawTextError(RuntimeError):
 
 
 class DeepSeekFlashExecutor:
-    """DE 私有 OpenAI-compatible raw-text executor；每项只请求一次。"""
+    """Private DE OpenAI-compatible raw-text executor; one request per item."""
 
     def __init__(
         self,
@@ -42,8 +42,8 @@ class DeepSeekFlashExecutor:
             raise ValueError(f"reference kernel live mode model must be one of: {allowed}")
         self._model_id = model_id
         self._reasoning_effort = reasoning_effort
-        # tokendance 的 DeepSeek 默认会占用输出预算生成 reasoning_content；DE 的
-        # legacy 50/70 token contract 只需要结果文本，因此显式关闭该网关的 thinking。
+        # Tokendance's DeepSeek uses output tokens for reasoning_content by default.
+        # DE's legacy 50/70-token contract needs only result text, so explicitly disable gateway thinking.
         if thinking_mode not in {None, "provider_default", "disabled", "enabled"}:
             raise ValueError("unsupported thinking mode")
         self._thinking_mode = thinking_mode or (
@@ -171,7 +171,7 @@ class DeepSeekFlashExecutor:
                 "gateway response did not match chat completions shape",
                 http_status=response.status_code,
             ) from error
-        # 只保留计量，不记录 reasoning_content 文本或把它作为提取证据。
+        # Keep usage metrics only; do not log reasoning_content or use it as extraction evidence.
         details = usage.get("completion_tokens_details") if isinstance(usage, dict) else None
         reasoning_tokens = details.get("reasoning_tokens") if isinstance(details, dict) else None
         current = self._usage[task]["reasoning_tokens"]
@@ -224,5 +224,4 @@ class DeepSeekFlashExecutor:
 
     def usage_by_task(self) -> Mapping[KernelTask, Mapping[str, int | float | None]]:
         return {task: dict(usage) for task, usage in self._usage.items()}
-
 

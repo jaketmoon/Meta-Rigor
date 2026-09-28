@@ -62,7 +62,6 @@ class RawTextResponse(_Contract):
     finish_reason: str | None = None
     requested_model: str = Field(min_length=1, max_length=500)
     provider_model: str = Field(min_length=1, max_length=500)
-    # 仅供 Run Folder 外的 benchmark telemetry 读取；不得进入 frozen Stage output。
+    # Read only by benchmark telemetry outside the Run Folder; never include in frozen Stage output.
     http_status: StrictInt | None = Field(default=None, ge=100, le=599, exclude=True)
-
 

@@ -35,7 +35,7 @@ class LocalPublicationResult:
 
 
 class LocalManuscriptV2Pipeline:
-    """Manuscript V2：一个封存 Fact Package 与一个 Profile 对应一个不可覆盖 Run。"""
+    """Manuscript V2: one sealed Fact Package and one Profile map to one non-overwritable Run."""
 
     def __init__(
         self,
@@ -747,5 +747,4 @@ class LocalManuscriptV2Pipeline:
 def _resolve_input(value: str) -> Path:
     path = Path(value).expanduser()
     return path.resolve() if path.is_absolute() else (_REPO_ROOT / path).resolve()
-
 

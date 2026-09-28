@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-"""五案例 EA 封存结果的离线消融与主报告材料实验输入；不重写原 Run。"""
+"""Offline ablations of sealed five-case EA results and experimental inputs for the main report; preserve original Runs."""
 
 
 import hashlib
@@ -15,7 +15,7 @@ def valid_candidate(candidate):
 
 
 def reconcile(fast, deep, exclusion_ids, adjudicator=None, *, adjudicate=True):
-    """复现 V3 的决定规则；无裁断条件仅把真实分歧留为 UNCERTAIN。"""
+    """Reproduce V3 decision rules; the no-adjudication condition leaves only genuine disagreements UNCERTAIN."""
     if not valid_candidate(fast) or not valid_candidate(deep):
         return "UNASSESSED", "INVOCATION_FAILURE"
     common = set(fast["criterion_ids"]) & set(deep["criterion_ids"]) & set(exclusion_ids)
@@ -31,7 +31,7 @@ def reconcile(fast, deep, exclusion_ids, adjudicator=None, *, adjudicate=True):
 
 
 def ground_output(output, payload, folder: RunFolder):
-    """沿用文档局部 segment 定位，逐字回取 representation 后绑定 Source Span。"""
+    """Reuse document-local segment locations, retrieve the representation verbatim, then bind the Source Span."""
     semantic = payload["semantic_input"]
     criteria = {c["criterion_id"]: c for c in semantic["protocol"]["criteria"]}
     ids = output["criterion_ids"]
@@ -77,5 +77,4 @@ def ground_output(output, payload, folder: RunFolder):
     if not spans:
         raise ValueError("no grounded evidence")
     return spans
-
 

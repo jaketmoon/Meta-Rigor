@@ -61,7 +61,7 @@ _QUESTION_ALLOWED = {
 
 
 class MethodInputError(ValueError):
-    """输入不符合固定 RoB 2 method spec。"""
+    """Input does not conform to the fixed RoB 2 method specification."""
 
 
 def question_ids(domain: Domain) -> tuple[str, ...]:
@@ -69,7 +69,7 @@ def question_ids(domain: Domain) -> tuple[str, ...]:
 
 
 def method_input_answers(domain: Domain, raw_answers: Mapping[str, str]) -> dict[str, str]:
-    """把模型词表映射到固定方法允许的输入词表。"""
+    """Map model vocabulary to the input vocabulary allowed by the fixed method."""
     answers = dict(raw_answers)
     if domain == "D3" and answers.get("3.2") == "NO_INFORMATION":
         answers["3.2"] = "PROBABLY_NO"
@@ -254,5 +254,4 @@ def compute_overall(domain_judgments: Sequence[Judgment]) -> AlgorithmResult:
         selected_edges=(edge,),
         proposed_judgment=judgment,
     )
-
 

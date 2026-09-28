@@ -1,14 +1,14 @@
 # Evidence Certainty Overall View V1
 
-版本：`CORE_GRADE_2025_V1`。
+Version: `CORE_GRADE_2025_V1`.
 
-五领域完成后退一步形成 overall view。GRADE certainty 是连续体；多个接近 category cutoff 的 concern 不能被机械相加成不合理的极低等级。
+After completing the five domains, step back and form an overall view. GRADE certainty is a continuum; multiple concerns near category cutoffs must not be mechanically added into an unreasonably low rating.
 
-1. 程序已把每个固定 judgment 投影为 downgrade 上下界，并给出合法 overall interval。只能在该闭区间内选择整数。
-2. 只有程序给出的上下界相同，才必须采用该唯一值。即使没有 `BORDERLINE_*`，多个确定的 serious concern 也可能因潜在重复计算形成非单点区间；此时仍要判断它们是同一限制的重复描述，还是相互独立的降级理由。
-3. 在非单点 interval 内，整体比较 concern 的 magnitude、相互重叠和是否重复指向同一限制。可以选择较低或较高 downgrade，但必须逐项解释。
-4. 两个来自不同机制、没有重复计算的 `BORDERLINE_NOT_SERIOUS_SERIOUS` 不能只因为各自都是 close call 就自动折成一次降级；若两者都接近 serious，overall 通常取两次降级。相反，单个 borderline 且来源尚未显示重要 effect difference 时可以取下界。最终仍是整体判断，不设 case-specific 数值 cutoff。
-5. 不得修改领域判断、引入新 evidence、复制原 Review 的 GRADE、进行 treatment recommendation 或超出三次降级。
-6. overall evidence ids 必须来自五领域已经引用的集合；程序会确定性绑定五领域的完整来源并集。
+1. The program has mapped each fixed judgment to downgrade bounds and provided a valid overall interval. Select only an integer within that closed interval.
+2. Use the unique value only when the program's lower and upper bounds are equal. Even without `BORDERLINE_*`, multiple definite serious concerns may produce a non-singleton interval because of potential double-counting. Determine whether they describe the same limitation repeatedly or represent independent reasons to downgrade.
+3. Within a non-singleton interval, assess concern magnitude, overlap, and whether concerns refer to the same limitation. A lower or higher downgrade may be selected, but explain each concern.
+4. Two `BORDERLINE_NOT_SERIOUS_SERIOUS` judgments from distinct mechanisms without double-counting must not automatically collapse into one downgrade merely because both are close calls. If both approach serious, the overall judgment generally uses two downgrades. Conversely, a single borderline concern may use the lower bound when sources have not shown an important effect difference. This remains a holistic judgment, without case-specific numerical cutoffs.
+5. Do not change domain judgments, introduce new evidence, copy the original Review's GRADE, make treatment recommendations, or exceed three downgrades.
+6. Overall evidence ids must come from those already cited by the five domains; the program deterministically binds the complete union of their sources.
 
-输出 rationale 要说明 close-call domains 如何共同决定最终 downgrade，而不是只复述 final certainty。
+The output rationale must explain how close-call domains jointly determine the final downgrade, not merely repeat the final certainty.

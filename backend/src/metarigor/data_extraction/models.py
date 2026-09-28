@@ -4,7 +4,7 @@ import hashlib
 import json
 from pydantic import BaseModel, ConfigDict, Field, model_validator
 class DataExtractionModel(BaseModel):
-    """Data Extraction 的公开与内部 contract 均拒绝额外字段。"""
+    """Both public and internal Data Extraction contracts reject extra fields."""
 
     model_config = ConfigDict(extra="forbid", frozen=True)
 
@@ -21,7 +21,7 @@ class DataExtractionModel(BaseModel):
 
 
 class SourceSpan(DataExtractionModel):
-    """Document View 中由程序回取并可逐字核验的精确来源区间。"""
+    """Exact source interval retrieved by the program from a Document View and verifiable verbatim."""
 
     span_id: str = Field(min_length=1, max_length=500)
     document_key: str = Field(min_length=1, max_length=200)
@@ -38,5 +38,4 @@ class SourceSpan(DataExtractionModel):
         if self.end_char - self.start_char != len(self.quote):
             raise ValueError("Source Span interval must equal quote length")
         return self
-
 

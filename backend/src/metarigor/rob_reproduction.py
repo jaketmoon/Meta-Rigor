@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-"""RoB 两项有界消融：冻结历史输入，重新生成两组候选，只评分新产物。"""
+"""Two bounded RoB ablations: freeze historical inputs, generate two candidate sets, and score only new artifacts."""
 
 
 import asyncio
@@ -38,7 +38,7 @@ MISSING = "MISSING"
 
 
 class MeasuredDirectAgent(DirectSchemaAgent):
-    """只读响应 telemetry；请求 body 与历史 direct runtime 相同。"""
+    """Read response telemetry only; the request body matches the historical direct runtime."""
 
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
@@ -111,7 +111,7 @@ def inline_schema(schema):
 
 
 def decision_rules():
-    # 固定原方法源代码作为可核验规则说明；不向模型开放工具或 Python 执行。
+    # Pin the original method source as verifiable rule documentation; expose no tools or Python execution to the model.
     return (
         "Read this fixed method as rules to execute yourself. POS={YES,PROBABLY_YES}; "
         "NEG={NO,PROBABLY_NO}; NI=NO_INFORMATION; NA=NOT_APPLICABLE. "
@@ -229,7 +229,7 @@ def make_jobs(case, arm):
 
 
 def closed_input_schema(value):
-    # 精确输入是本次 Stage 的唯一允许值；对嵌套对象仍显式封闭。
+    # Exact inputs are the only allowed values for this Stage; explicitly close nested objects as well.
     if isinstance(value, dict):
         return obj({k: closed_input_schema(v) for k, v in value.items()})
     if isinstance(value, list):
@@ -238,7 +238,7 @@ def closed_input_schema(value):
 
 
 def retain_fields(item, candidate, decision):
-    """只保留 schema 合法字段；不改答案，重复 question 不采用 first/last。"""
+    """Keep only schema-valid fields; do not change answers or use first/last selection for duplicate questions."""
     result = {"raw_answers": {}, "answers": {}, "evidence": {}, "issues": []}
     schema = output_schema(item, decision)
     record_schema = schema["properties"]["answers"]["items"]
@@ -383,7 +383,7 @@ async def invoke_job(runner, folder, job, runtime, limiter):
                     )
                 )
             except SchemaAgentOutputError as error:
-                # 同一次响应的逐字段读取，不是模型 retry/repair。
+                # Read fields from the same response; this is not a model retry or repair.
                 raw = error.raw_model_output
                 candidate = None
                 if isinstance(raw, str):
@@ -600,5 +600,4 @@ async def run_case(case, arm, root, runtime, limiter):
         "path": str(folder.root.relative_to(root)),
         "candidate_sha256": digest(canonical_json(package)),
     }
-
 

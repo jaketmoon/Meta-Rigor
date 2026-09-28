@@ -50,7 +50,7 @@ _Mechanism = Literal["direct", "domain_aggregate"]
 
 
 class V2LiveEvidence(EvidenceCertaintyModel):
-    """单次 live 判断可见的已绑定来源片段。"""
+    """Bound source excerpts visible to a single live judgment."""
 
     evidence_id: str = Field(pattern=r"^[A-Za-z][A-Za-z0-9_.:-]{0,159}$")
     domain_relevance: tuple[GradeDomain, ...] = Field(min_length=1, max_length=5)
@@ -82,7 +82,7 @@ class V2LiveEffect(EvidenceCertaintyModel):
 
 
 class V2LiveCandidateInput(EvidenceCertaintyModel):
-    """V2 直接模型任务的专用、无 reference 输入契约。"""
+    """Dedicated reference-free input contract for V2 direct model tasks."""
 
     schema_version: Literal["1.0.0"] = "1.0.0"
     benchmark_id: Literal["metarigor-evidence-certainty-benchmark-v2-review"]
@@ -115,7 +115,7 @@ class V2LiveCandidateInput(EvidenceCertaintyModel):
 
 
 class V2DomainInput(EvidenceCertaintyModel):
-    """单个领域只接收该领域必要事实与精确 anchor。"""
+    """Each domain receives only its necessary facts and exact anchors."""
 
     schema_version: Literal["1.0.0"] = "1.0.0"
     benchmark_id: Literal["metarigor-evidence-certainty-benchmark-v2-review"]
@@ -391,7 +391,7 @@ class _DomainTerminal:
 
 
 class _PairedReferenceBarrier:
-    """两条 paired lane 都封存 candidate 后才允许读取 reference。"""
+    """Allow reference access only after both paired lanes seal their candidates."""
 
     def __init__(self) -> None:
         self._sealed: set[str] = set()
@@ -417,7 +417,7 @@ class _PairedReferenceBarrier:
 
 
 class _RunFailureTerminalizer:
-    """未捕获的 harness error/cancellation 必须把 Run 收口为 FAILED。"""
+    """Uncaught harness errors or cancellation must finalize the Run as FAILED."""
 
     def __init__(
         self,
@@ -473,7 +473,7 @@ class _RunFailureTerminalizer:
                 final_output_sha256=failure.sha256 if failure is not None else None,
             )
         except Exception:
-            # 保持未终结，使 task done callback 仍可再尝试一次 manifest 收口。
+            # Leave unfinalized so the task-done callback can retry manifest finalization once.
             raise
         self._terminal = True
         if artifact_error is not None:
@@ -491,7 +491,7 @@ class _RunFailureTerminalizer:
         try:
             self.fail(error)
         except Exception:
-            # 原始 task error 仍由调用方观察；terminalizer 不得覆盖它。
+            # The caller must still observe the original task error; the terminalizer must not overwrite it.
             return
 
 
@@ -589,7 +589,7 @@ def _snapshot_review_sufficiency_inputs(
     overall_skill_text: str,
     source_artifacts: tuple[tuple[str, bytes, str], ...],
 ) -> dict[str, Any]:
-    """把 staged 新机制实际使用的指令、contract 与来源 bytes 封存进 Run Folder。"""
+    """Seal instructions, contracts, and source bytes actually used by the new staged mechanism into the Run Folder."""
 
     def binding(artifact) -> dict[str, Any]:
         return {
@@ -665,7 +665,7 @@ def _snapshot_review_sufficiency_inputs(
 
 
 def _v1_candidate_artifact_bytes(catalog) -> tuple[tuple[str, bytes, str], ...]:
-    """返回 V2 实际继承的 V1 candidate catalog 与全部 Source Document bytes。"""
+    """Return the V1 candidate catalog and all Source Document bytes actually inherited by V2."""
 
     v1_catalog = load_v1_catalog()
     inherited = set(catalog.inherited_v1_scored_case_ids)
@@ -698,7 +698,7 @@ def _snapshot_v1_candidate_inputs(
     folder: RunFolder,
     source_artifacts: tuple[tuple[str, bytes, str], ...],
 ) -> dict[str, Any]:
-    """把继承 V1 candidate 的 catalog、派生文档和 raw terminal sources 封存进 Run。"""
+    """Seal the inherited V1 candidate catalog, derived documents, and raw terminal sources into the Run."""
 
     bindings = []
     for relative_path, content, expected_sha in source_artifacts:
@@ -723,7 +723,7 @@ def _snapshot_v1_candidate_inputs(
 
 
 def _v2_review_candidate_artifact_bytes(catalog) -> tuple[tuple[str, bytes, str], ...]:
-    """返回十三个 Review candidate 的 catalog、manifest、candidate 与 raw JATS。"""
+    """Return catalogs, manifests, candidates, and raw JATS for the thirteen Review candidates."""
 
     bindings: dict[str, tuple[bytes, str]] = {}
     catalog_relative = "backend/src/metarigor/evidence_certainty/benchmark_v2/dataset/cases.json"
@@ -754,7 +754,7 @@ def _snapshot_v2_review_candidate_inputs(
     folder: RunFolder,
     source_artifacts: tuple[tuple[str, bytes, str], ...],
 ) -> dict[str, Any]:
-    """把十三个 Review candidate 的可核验来源包封存进 Run Folder。"""
+    """Seal verifiable source packages for the thirteen Review candidates into the Run Folder."""
 
     bindings = []
     for relative_path, content, expected_sha in source_artifacts:
@@ -781,7 +781,7 @@ def _snapshot_loaded_references(
     folder: RunFolder,
     gold: tuple[ReviewGoldCase, ...],
 ) -> V2ReferenceInputSnapshot:
-    """只在 leakage barrier 后封存实际用于评分的两级 gold 与合并视图。"""
+    """Seal both gold levels and the merged view actually used for scoring only after the leakage barrier."""
 
     def snapshot(relative_path: str, content: bytes, expected_sha: str) -> V2ReferenceArtifact:
         artifact = folder.write_immutable(relative_path, content)
@@ -816,7 +816,7 @@ def _snapshot_external_comparators(
     folder: RunFolder,
     comparators: tuple[ExternalComparatorDocument, ...],
 ) -> tuple[V2ReferenceArtifact, ...]:
-    """只在完整 prediction-set seal 后封存实际读取的外部对照文本。"""
+    """Seal external comparator text actually read only after the complete prediction set is sealed."""
 
     snapshots = []
     for document in comparators:
@@ -885,7 +885,7 @@ def _domain_input(prepared: _PreparedCandidate, domain: GradeDomain) -> V2Domain
 
 
 def _deterministic_imprecision(domain_input: V2DomainInput) -> V2DomainAgentOutput:
-    """复用正式 EC 的 binary decision table；不让模型重猜已闭合数值。"""
+    """Reuse the production EC binary decision table; do not ask the model to guess already closed values."""
 
     effect = domain_input.effect
     result = binary_imprecision_decision(
@@ -1029,7 +1029,7 @@ def _prepared_candidates(
     include_review_sufficiency: bool = True,
     review_contract: ReviewLevelSufficiencyContract | None = None,
 ) -> tuple[_PreparedCandidate, ...]:
-    """只读取 V1/V2 candidate；此函数绝不读取 gold 或 external comparator。"""
+    """Read only V1/V2 candidates; never read gold or external comparators."""
 
     catalog = catalog or load_benchmark_catalog()
     if include_review_sufficiency:
@@ -1433,7 +1433,7 @@ async def _run_domain(
         if deterministic_abstention:
             assert sufficiency is not None
             detail = sufficiency.issue or (
-                "缺少 review-level 判断所需事实：" + "；".join(sufficiency.missing_facts)
+                "Missing facts required for review-level judgment: " + "; ".join(sufficiency.missing_facts)
             )
             return StageOutcome(
                 payload={
@@ -1939,11 +1939,11 @@ def _report_markdown(report: V2LiveBenchmarkReport) -> str:
     evidence = metrics.evidence
     return "\n".join(
         (
-            f"# Evidence Certainty V2 review-level live 机制评价：{report.validation_id}",
+            f"# Evidence Certainty V2 review-level live mechanism evaluation: {report.validation_id}",
             "",
-            "> 这是一次独立、非比较的 live 机制评价；V2 仍不是正式 EC Run pipeline，"
-            "也不代表临床专家验证；prediction 已保存答案级 SourceSpan，但 Review-level "
-            "case 只声明 REVIEW_DOCUMENT_ONLY。",
+            "> This is an independent, non-comparative live mechanism evaluation. V2 is not yet a production EC Run pipeline "
+            "or clinical expert validation. Predictions retain answer-level SourceSpans, but Review-level "
+            "cases declare only REVIEW_DOCUMENT_ONLY.",
             "",
             f"- Completion：{report.completion_status}",
             f"- Candidate completion：{metrics.candidate_count}/20",
@@ -1995,7 +1995,7 @@ async def _run_live_benchmark_impl(
     _paired_experiment_id: str | None = None,
     _terminalizer_ready: asyncio.Future[_RunFailureTerminalizer] | None = None,
 ) -> V2LiveBenchmarkReport:
-    """运行 direct baseline 或逐领域后聚合的 paired variant。"""
+    """Run the direct baseline or the paired variant with per-domain assessment followed by aggregation."""
 
     if model_concurrency < 1 or case_concurrency < 1:
         raise ValueError("V2 live benchmark concurrency must be positive")
@@ -2229,7 +2229,7 @@ async def _run_live_benchmark_impl(
             "maximum_model_calls": maximum_model_calls,
             "retry_count": 0,
         },
-        "failure_rule": "每个失败 case 保留在固定 20-case 分母，不补跑、不伪造 prediction。",
+        "failure_rule": "Every failed case remains in the fixed 20-case denominator; no reruns or fabricated predictions.",
         "started_at": started_at,
     }
     try:
@@ -2303,8 +2303,8 @@ async def _run_live_benchmark_impl(
                     item_id=case_id,
                     candidate_output_sha256=resolution.decision_text_sha256,
                     question=(
-                        "是否选择 PMC13446969 Figure 2 作为 governing analysis，"
-                        "并排除冲突 Table 1？"
+                        "Select PMC13446969 Figure 2 as the governing analysis "
+                        "and exclude the conflicting Table 1?"
                     ),
                     status="PROVIDED_INPUT",
                     answer_json=canonical_json(
@@ -2362,7 +2362,7 @@ async def _run_live_benchmark_impl(
     if tuple(terminal_by_id) != catalog.scored_case_ids:
         raise RuntimeError("V2 live candidate terminals are incomplete or unordered")
 
-    # 所有候选先封存，再读取任意 gold 或 external comparator。
+    # Seal all candidates before reading any gold or external comparator.
     seals = tuple(
         V2LiveCandidateSeal(
             case_id=item.case_id,
@@ -2412,7 +2412,7 @@ async def _run_live_benchmark_impl(
     if _reference_barrier is not None:
         await _reference_barrier.arrive(mechanism)
 
-    # Leakage barrier：gold 与 comparator 均只在 20 个 terminal seal 完成后加载。
+    # Leakage barrier: load gold and comparators only after all 20 terminal seals are complete.
     gold = load_combined_gold(catalog)
     reference_input_snapshot = _snapshot_loaded_references(folder, gold)
     gold_by_id = {item.case_id: item for item in gold}
@@ -2613,7 +2613,7 @@ async def run_live_benchmark(
     _reference_barrier: _PairedReferenceBarrier | None = None,
     _paired_experiment_id: str | None = None,
 ) -> V2LiveBenchmarkReport:
-    """以独立 task 边界运行，使任何未捕获异常立即终结已创建的 Run。"""
+    """Run within a separate task boundary so any uncaught exception immediately finalizes the created Run."""
 
     terminalizer_ready: asyncio.Future[_RunFailureTerminalizer] = (
         asyncio.get_running_loop().create_future()
@@ -2639,8 +2639,7 @@ async def run_live_benchmark(
             try:
                 terminalizer_ready.result().fail(error)
             except Exception:
-                # terminalization failure 不得覆盖原始 runner error。
+                # Terminalization failures must not overwrite the original runner error.
                 pass
         raise
-
 

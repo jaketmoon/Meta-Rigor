@@ -35,7 +35,7 @@ class SchemaAgentResult:
 
 @dataclass(frozen=True, slots=True)
 class SchemaAgentInputSize:
-    """最终 canonical 模型输入的模型 tokenizer 计数与 runtime 安全边界。"""
+    """Model-tokenizer counts and runtime safety limits for the final canonical model input."""
 
     canonical_payload_bytes: int
     canonical_payload_sha256: str
@@ -60,7 +60,7 @@ def schema_agent_system_prompt(
     output_schema: dict[str, Any],
     structured_output_mode: StructuredOutputMode,
 ) -> str:
-    """复用 runtime 的精确 system prompt 组装规则。"""
+    """Reuse the runtime's exact system-prompt assembly rules."""
 
     rendered = prompt
     if skill_text:
@@ -82,7 +82,7 @@ def schema_agent_system_prompt(
 def openai_chat_response_format(
     *, template_id: str, output_schema: dict[str, Any]
 ) -> dict[str, Any]:
-    """构造 OpenAI-compatible Chat Completions 的原生 Structured Outputs 参数。"""
+    """Build native Structured Outputs parameters for OpenAI-compatible Chat Completions."""
 
     name = re.sub(r"[^A-Za-z0-9_-]", "_", template_id)[:64] or "structured_output"
     strict_schema = strict_contract_schema(output_schema)
@@ -97,11 +97,11 @@ def openai_chat_response_format(
 
 
 def strict_contract_schema(output_schema: dict[str, Any]) -> dict[str, Any]:
-    """将任务 schema 投影为 provider strict wire contract。
+    """Project the task schema into the provider's strict wire contract.
 
-    OpenAI-compatible strict Structured Outputs 要求每层 object 的全部 properties
-    都列入 required。任务 schema 中带默认值的字段仍可由本地 Pydantic 省略，但模型
-    wire output 必须显式返回，以免 gateway 在调用模型前拒绝整个 Stage。
+    OpenAI-compatible strict Structured Outputs require all properties of every object
+    to appear in required. Local Pydantic may still omit task-schema fields with defaults,
+    but model wire output must include them to prevent gateway rejection of the entire Stage before invocation.
     """
 
     strict_schema = deepcopy(output_schema)
@@ -152,7 +152,7 @@ def count_schema_agent_input_size(
     token_counter: str,
     runtime_envelope_tokens: int,
 ) -> SchemaAgentInputSize:
-    """按模型 tokenizer 计算最终 system/user contract，并计入 runtime envelope。"""
+    """Count the final system/user contract with the model tokenizer, including the runtime envelope."""
 
     system_prompt = schema_agent_system_prompt(
         prompt=prompt,
@@ -242,7 +242,7 @@ def count_schema_agent_input_size(
 
 
 class SchemaAgentOutputError(ValueError):
-    """模型结果不符合契约时保留可追溯的原始响应。"""
+    """Preserve a traceable raw response when model output violates the contract."""
 
     def __init__(
         self,
@@ -259,7 +259,7 @@ class SchemaAgentOutputError(ValueError):
 
 
 def schema_validation_detail(prefix: str, error: ValidationError) -> str:
-    """只报告 schema 定位信息，避免把不可信实例值写入 Issue。"""
+    """Report only schema locations, avoiding untrusted instance values in Issues."""
 
     validator = "unknown" if error.validator is None else str(error.validator)
     schema_path = "/".join(str(part) for part in error.absolute_schema_path) or "$"
@@ -271,7 +271,7 @@ class SchemaAgentPort(Protocol):
 
 
 class SchemaAgentRunner:
-    """所有 Specialist 共用的单次 schema-bound 模型调用边界。"""
+    """Shared single-call, schema-bound model boundary for all Specialists."""
 
     def __init__(self, *, runtime: SchemaAgentPort) -> None:
         self._runtime = runtime
@@ -293,7 +293,7 @@ class SchemaAgentRunner:
         *,
         program_binding: dict[str, Any],
     ) -> dict[str, Any]:
-        """构造既用于散列也用于实际调用的完整模型契约。"""
+        """Build the complete model contract used for both hashing and invocation."""
 
         return {
             "template_id": template.identifier,
@@ -308,7 +308,7 @@ class SchemaAgentRunner:
         }
 
     def input_size(self, template, semantic_input: dict[str, Any]) -> SchemaAgentInputSize:
-        """估算 runtime 将实际发送的完整 canonical 模型输入。"""
+        """Estimate the complete canonical model input that the runtime will actually send."""
 
         binding = self.binding(template.model_role)
         mode = binding.get("structured_output_mode")
@@ -348,7 +348,7 @@ class SchemaAgentRunner:
         )
 
     async def invoke_stage(self, template, stage_payload: dict[str, Any]) -> SchemaAgentResult:
-        """只调用已经进入 canonical Stage input 的精确契约。"""
+        """Invoke only the exact contract already included in the canonical Stage input."""
 
         semantic_input = stage_payload.get("semantic_input")
         program_binding = stage_payload.get("program_binding")
@@ -404,5 +404,4 @@ class SchemaAgentRunner:
                 metrics=result.metrics,
             )
         return result
-
 

@@ -1,13 +1,13 @@
 # Evidence Certainty Publication Bias V1
 
-版本：`CORE_GRADE_2025_V1`。
+Version: `CORE_GRADE_2025_V1`.
 
-1. `NOT_SERIOUS` 表示未发现足以强烈怀疑 publication bias 的证据，不表示已经证明不存在偏倚。
-2. 已知存在未发表 Study/outcome 且规模足以改变 pooled result，或全部/大多数证据来自小型 industry-sponsored Study，通常判断 `SERIOUS`。
-3. funnel asymmetry 或统计检验必须结合 Study 数、搜索闭包、sponsorship 和其他机制解释。`k < 10`、未做 Egger 或不显著检验均不能单独证明无偏。
-4. within-Study selective result reporting 属于 risk of bias；整项 Study/outcome 的 non-publication 属于本领域，避免双计。
-5. Core GRADE V1 通常只为 publication bias 降一级。`VERY_SERIOUS` 仅在多来源、强而一致的缺失证据足以根本改变结论时使用。
-6. GRADE 的问题是现有来源是否足以形成 strong suspicion，不是能否证明偏倚不存在。只要来源至少报告了实际 search/availability/selection 情况，且没有已知 missing Study/outcome、selection mechanism 或 small-study pattern 足以改变结论，就判断 `NOT_SERIOUS`；这仍要把 search limitation 写进理由。
-7. 缺少 registry search、sponsor、funnel/Egger 或 unpublished-study signal 是常见的不完整诊断，单独不能把领域变成 `NOT_ASSESSABLE`。只有完全没有 source-bound search/availability/selection 事实，或来源相互冲突到连 strong suspicion 的相邻边界也无法约束时，才返回 `NOT_ASSESSABLE`。
+1. `NOT_SERIOUS` means no evidence sufficient to strongly suspect publication bias was found, not that absence of bias has been proven.
+2. Generally use `SERIOUS` when known unpublished Studies/outcomes are large enough to change the pooled result, or all/most evidence comes from small industry-sponsored Studies.
+3. Interpret funnel asymmetry or statistical tests alongside Study count, search closure, sponsorship, and other mechanisms. Neither `k < 10`, absence of an Egger test, nor a nonsignificant test alone establishes absence of bias.
+4. Selective result reporting within a Study belongs to risk of bias; non-publication of an entire Study/outcome belongs here. Avoid double-counting.
+5. Core GRADE V1 generally downgrades by only one level for publication bias. Use `VERY_SERIOUS` only when strong, consistent missing-evidence signals from multiple sources could fundamentally change the conclusion.
+6. GRADE asks whether available sources justify strong suspicion, not whether absence of bias can be proven. If sources at least report actual search/availability/selection information, and no known missing Study/outcome, selection mechanism, or small-study pattern could change the conclusion, use `NOT_SERIOUS`; still state search limitations in the rationale.
+7. Missing registry searches, sponsorship information, funnel/Egger tests, or unpublished-study signals are common diagnostic gaps and cannot alone make the domain `NOT_ASSESSABLE`. Return `NOT_ASSESSABLE` only when there are no source-bound search/availability/selection facts, or sources conflict so severely that even adjacent boundaries of strong suspicion cannot be constrained.
 
-理由必须说明 publication mechanism、可能缺失内容及其对结论的潜在影响，并引用输入中的全部 Evidence Fact id。
+The rationale must explain the publication mechanism, potentially missing content, and its potential impact on conclusions, and cite every input Evidence Fact id.

@@ -79,7 +79,7 @@ StudyDesignSupportField = Literal[
 
 
 class EvidenceCertaintyModel(BaseModel):
-    """Evidence Certainty 的所有公开、私有和模型契约都拒绝额外字段。"""
+    """All public, private, and model contracts for Evidence Certainty reject extra fields."""
 
     model_config = ConfigDict(extra="forbid", frozen=True, allow_inf_nan=False)
 
@@ -100,7 +100,7 @@ def canonical_json(value: BaseModel | dict) -> bytes:
 
 
 class SourceDocumentReference(EvidenceCertaintyModel):
-    """派生 Source Span 指向的上游原始文档；不是新的研究事实。"""
+    """Upstream original document referenced by a derived Source Span; not a new study fact."""
 
     document_id: str = Field(pattern=r"^[A-Za-z][A-Za-z0-9_.-]{0,127}$")
     input_path: str = Field(min_length=1, max_length=10_000)
@@ -254,7 +254,7 @@ class PublishedSynthesisResult(EvidenceCertaintyModel):
 
     @property
     def source_binding_quote(self) -> str:
-        """完整字段的确定性 transcription；必须由绑定 Source Span 逐字承载。"""
+        """Deterministic transcription of the complete field, supported verbatim by its bound Source Span."""
 
         payload = self.model_dump(mode="json", exclude={"source_fact_id"})
         return f"synthesis={canonical_json(payload).decode('utf-8')}"
@@ -463,5 +463,4 @@ GRADE_DOMAINS: tuple[GradeDomain, ...] = (
     "IMPRECISION",
     "PUBLICATION_BIAS",
 )
-
 

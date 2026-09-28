@@ -1,9 +1,9 @@
 from __future__ import annotations
 
-"""MS Generic 十案例的两个独立、单轮 ablation 条件。
+"""Two independent, single-round ablation conditions for the MS Generic ten-case benchmark.
 
-FULL candidate/Judge 只作为不可变输入复制；本模块不重新运行 FULL。每个 ablation
-case 使用一个自包含 Run Folder，模型失败不会触发 retry、fallback 或 repair。
+Copy FULL candidates/Judge results only as immutable inputs; this module does not rerun FULL.
+Each ablation case uses a self-contained Run Folder; model failures never trigger retry, fallback, or repair.
 """
 
 
@@ -190,7 +190,7 @@ def _worker_runtime(*, disable_thinking: bool = False) -> OpenAICompatibleJsonSc
 
 
 def validate_proxy_ablation_inputs(folder, stages, request, package, projection, copied, content):
-    """清洁 proxy 的 external 模式仍须回证来源、策展及模型真正收到的输入。"""
+    """The clean proxy's external mode must still verify sources, curation, and the actual model inputs."""
     from .publication_proxy import build_proxy
 
     if request.get("condition") not in CONDITIONS or request.get("case_id") != package.case_id:
@@ -949,5 +949,4 @@ async def _generate_case(
         "program_verifier_issue_count": verifier_issue_count,
         "model_metrics": _model_metrics_summary(model_outputs),
     }
-
 

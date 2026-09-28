@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-"""既有全文的引用包装与确定性 Source Span 回取，不选择或修订数值。"""
+"""Wrap citations in existing full text and deterministically retrieve Source Spans without selecting or revising values."""
 
 
 import hashlib
@@ -49,7 +49,7 @@ def _sha(text: str) -> str:
 
 
 def bind_citations(candidate: str, citation_map: list[dict]) -> dict:
-    """只闭合已选引用；citation marker 位置不冒充完整结果或字段的语义 anchor。"""
+    """Close only selected citations; marker positions are not semantic anchors for complete results or fields."""
     entries = [CitationUnit.model_validate(item) for item in citation_map]
     by_id = {item.citation_id: item for item in entries}
     if len(by_id) != len(entries):
@@ -97,7 +97,7 @@ def bind_citations(candidate: str, citation_map: list[dict]) -> dict:
                     "quote_sha256": entry.quote_sha256,
                 }
             )
-    # 格式不完整的标记也属于可观察失败，不从其他位置寻找替代证据。
+    # Malformed markers are observable failures too; do not seek replacement evidence elsewhere.
     covered = {marker.start() for marker in markers}
     for malformed in re.finditer(r"\[src:", candidate):
         if malformed.start() not in covered:
@@ -112,5 +112,4 @@ def bind_citations(candidate: str, citation_map: list[dict]) -> dict:
         "issues": issues,
         "semantic_field_binding_evaluated": False,
     }
-
 

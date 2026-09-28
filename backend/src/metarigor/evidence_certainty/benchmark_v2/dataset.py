@@ -253,7 +253,7 @@ def _validated_candidate(case) -> None:
 
 
 def load_benchmark_catalog() -> BenchmarkV2Catalog:
-    """加载 20-case candidate catalog；不读取 gold 或 comparator 正文。"""
+    """Load the 20-case candidate catalog without reading gold or comparator text."""
 
     path = _DATASET_ROOT / "cases.json"
     if _sha256(path.read_bytes()) != CATALOG_SHA256:
@@ -275,7 +275,7 @@ def load_benchmark_catalog() -> BenchmarkV2Catalog:
 def load_review_level_sufficiency_contract(
     catalog: BenchmarkV2Catalog | None = None,
 ) -> ReviewLevelSufficiencyContract:
-    """加载 V2 PMC Review-level 专属充分性；不读取 gold 或 comparator。"""
+    """Load V2 PMC Review-level sufficiency without reading gold or comparators."""
 
     catalog = catalog or load_benchmark_catalog()
     path = _REVIEW_SUFFICIENCY_PATH
@@ -400,7 +400,7 @@ def load_review_level_sufficiency_contract(
 
 
 def review_sufficiency_contract_bytes() -> bytes:
-    """返回已校验 hash 的 V2 contract 原文，供 Run Folder 封存。"""
+    """Return hash-verified original V2 contract text for sealing in the Run Folder."""
 
     content = _REVIEW_SUFFICIENCY_PATH.read_bytes()
     if _sha256(content) != REVIEW_SUFFICIENCY_SHA256:
@@ -411,7 +411,7 @@ def review_sufficiency_contract_bytes() -> bytes:
 def review_sufficiency_artifact_bytes(
     contract: ReviewLevelSufficiencyContract,
 ) -> tuple[tuple[str, bytes, str], ...]:
-    """返回 contract 实际引用的 figure/source-document bytes，按路径稳定排序。"""
+    """Return figure/source-document bytes actually referenced by the contract, stably sorted by path."""
 
     bindings: dict[str, tuple[bytes, str]] = {}
     for case in contract.cases:
@@ -453,7 +453,7 @@ def review_sufficiency_artifact_bytes(
 
 
 def load_benchmark_gold(catalog: BenchmarkV2Catalog | None = None) -> BenchmarkV2Gold:
-    """加载 13 个 review-level 独立策展 gold。"""
+    """Load independently curated gold for 13 review-level cases."""
 
     candidate_catalog = catalog or load_benchmark_catalog()
     path = _DATASET_ROOT / "gold.json"
@@ -502,7 +502,7 @@ def load_benchmark_gold(catalog: BenchmarkV2Catalog | None = None) -> BenchmarkV
 def load_benchmark_review_candidates(
     catalog: BenchmarkV2Catalog | None = None,
 ) -> tuple[ReviewCandidateDocument, ...]:
-    """物化 13 个新增 Review candidate 正文；不读取 gold 或 comparator。"""
+    """Materialize text for the 13 new Review candidates without reading gold or comparators."""
 
     candidate_catalog = catalog or load_benchmark_catalog()
     documents = []
@@ -528,7 +528,7 @@ def load_benchmark_review_candidates(
 def load_combined_gold(
     catalog: BenchmarkV2Catalog | None = None,
 ) -> tuple[ReviewGoldCase, ...]:
-    """返回 7 个 V1 scored gold 与 13 个 V2 review gold 的统一 20-case 视图。"""
+    """Return a unified 20-case view of 7 V1 scored gold cases and 13 V2 review gold cases."""
 
     candidate_catalog = catalog or load_benchmark_catalog()
     review_gold = load_benchmark_gold(candidate_catalog)
@@ -569,7 +569,7 @@ def load_benchmark_external_comparators(
     seal: V2CandidateSeal,
     catalog: BenchmarkV2Catalog | None = None,
 ) -> tuple[ExternalComparatorDocument, ...]:
-    """仅在 20 个 candidate 已封存后读取 13 篇 Review 的 comparator 正文。"""
+    """Read comparator text for 13 Reviews only after all 20 candidates have been sealed."""
 
     candidate_catalog = catalog or load_benchmark_catalog()
     if seal.catalog_sha256 != candidate_catalog.canonical_sha256:
@@ -595,5 +595,4 @@ def load_benchmark_external_comparators(
             )
         )
     return tuple(documents)
-
 

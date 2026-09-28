@@ -850,7 +850,7 @@ def verify_overall_evidence(
     overall_evidence_anchor_ids: Sequence[str],
     overall_source_spans: Sequence[SourceSpan],
 ) -> tuple[BenchmarkV2EvidenceVerificationIssue, ...]:
-    """检查 overall 只能引用五个 domain 已闭合 evidence 的并集。"""
+    """Ensure overall references only the union of evidence already closed by the five domains."""
 
     expected_ids = tuple(
         dict.fromkeys(
@@ -890,5 +890,4 @@ def verify_overall_evidence(
             )
         )
     return tuple(issues)
-
 
