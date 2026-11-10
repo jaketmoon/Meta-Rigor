@@ -403,6 +403,9 @@ class ClaudeSchemaAgent:
             metrics=self._terminal_metrics(terminal),
         )
 
+    async def aclose(self) -> None:
+        """SDK sessions are opened and disconnected inside each invocation."""
+
     def _terminal_metrics(self, terminal: Any) -> dict[str, Any]:
         return {
             "duration_ms": terminal.duration_ms,
@@ -719,6 +722,9 @@ class OpenAICompatibleJsonSchemaAgent:
             metrics=response_metrics,
         )
 
+    async def aclose(self) -> None:
+        """Each invocation closes its own HTTP client."""
+
     def _response_metrics(self, response_body: Any, duration_ms: int) -> dict[str, Any]:
         usage = self._canonical_usage(
             response_body.get("usage") if isinstance(response_body, dict) else None
@@ -799,3 +805,9 @@ class RoleRoutedSchemaAgent:
     async def invoke(self, request: SchemaAgentRequest) -> SchemaAgentResult:
         return await self._runtimes[request.model_role].invoke(request)
 
+    async def aclose(self) -> None:
+        runtimes = {id(runtime): runtime for runtime in self._runtimes.values()}
+        for runtime in runtimes.values():
+            close = getattr(runtime, "aclose", None)
+            if close is not None:
+                await close()
