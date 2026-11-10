@@ -4,34 +4,73 @@ MetaRigor is an agent-ready evidence review service. It exposes a stable JSON in
 
 ## Installation
 
-Requires Python 3.12 or later:
+Use Python 3.12 or later. The commands below use a Linux or macOS shell. On Windows, use WSL and keep the checkout and virtual environment in the Linux filesystem, because some frozen input filenames contain colons.
 
 ```bash
 python3.12 -m venv .venv
-.venv/bin/pip install -e .
+source .venv/bin/activate
+python -m pip install '.[research]'
+metarigor verify
 ```
 
-To run JSON Schema validation, install the full dependencies:
+`metarigor verify` checks frozen resource hashes, input schemas, and case inventories without a model gateway. A complete package prints `OK: 1443 input/resource hashes`. The same command works from a wheel installed with the `research` extra. For a source checkout, the equivalent is `python verify.py`.
+
+## Reproduce the paper
+
+The live experiments need a gateway account with access to the models used in the selected condition. Set the base URL to the gateway API root, normally ending in `/v1`. Enter the key locally and keep it out of the repository.
 
 ```bash
-.venv/bin/pip install -r requirements.txt
+export METARIGOR_AGENT_GATEWAY_BASE_URL='https://your-gateway.example/v1'
+read -r -s METARIGOR_AGENT_GATEWAY_API_KEY
+export METARIGOR_AGENT_GATEWAY_API_KEY
 ```
 
-After installation, run:
+To run one Data Extraction (DE) case, use a fresh output directory:
 
 ```bash
-metarigor --help
+metarigor reproduce de --case song-2025 --output output/de-song
 ```
 
-Alternatively, run directly without installing:
+This sends the frozen case to `deepseek-v4-flash` through an OpenAI-compatible Chat Completions endpoint. The result is `output/de-song/song-2025.json`, with the model's candidate text, citation checks, and a status. Inspect the status before using the result. This run uses the gateway account's quota.
+
+The runner also accepts the following stages. Each run needs a new `--output` directory. Use `metarigor reproduce --help` for the options.
+
+| Stage | Conditions and inputs |
+| --- | --- |
+| `ea` (Evidence Acquisition) | `full`, `no-fast`, `no-deep`, `dual-deepseek`. Select `--phase initial` or `--phase fulltext`. |
+| `de` (Data Extraction) | `full`, `no-task-contract`. |
+| `rob` (Risk of Bias) | `full`, `no-task-contract`, `no-code-logic`. |
+| `ec` (Evidence Certainty) | `full`, `no-task-contract`, `no-code-logic`. The full and no-code-logic conditions use the fixed 20-case set. |
+| `ms` (Manuscript) | `full`, `no-task-contract`, `no-code-logic`. The latter two require `--source` pointing to a previous full MS output directory. |
+| `judge` (Manuscript evaluation) | Requires `--source` pointing to the MS output directory. See `--judge-model`. |
+
+The Chat Completions routes must support the structured output modes used by the selected stage. For EA, the FAST assessor uses the Claude Agent SDK and an Anthropic-compatible Messages route at the same gateway. Standard EA uses `gpt-5.6-luna` for DEEP and `gpt-5.6-terra` for adjudication. The `dual-deepseek` condition uses `deepseek-v4-flash` via the Claude Agent SDK.
+
+### Run the CLI baselines
+
+The Codex baseline requires Codex CLI `0.142.4` and a gateway that serves the Responses API for the selected model. Install the pinned version into the project's virtual environment directory so it can coexist with your regular Codex installation:
 
 ```bash
-PYTHONPATH=backend/src python3 -m metarigor --help
+npm install --prefix .venv/codex-baseline @openai/codex@0.142.4
+codex_binary=$(find .venv/codex-baseline/node_modules/@openai -type f -path '*/vendor/*/bin/codex')
+"$codex_binary" --version
+metarigor baseline de codex --case song-2025 \
+  --codex-command "$codex_binary" \
+  --output output/codex-de-song
 ```
+
+For OpenHands, start Docker and build the image from the supplied runtime directory in the source checkout. The image uses OpenHands `1.16.0` and the gateway must serve Chat Completions.
+
+```bash
+docker build -t metarigor-openhands-cli:1.16.0-r3 runtime/openhands-cli
+metarigor baseline de openhands --case song-2025 --output output/openhands-de-song
+```
+
+Both baselines default to `deepseek-v4-flash`. Set `--response-model` if the gateway returns a different identifier for the requested model. Each case has an `invocation-summary.json` with runtime and failure details. The checkout scripts `python reproduce.py` and `python baseline.py` accept the same arguments as their corresponding commands.
 
 ## CLI
 
-Check service health:
+Check that the local CLI responds:
 
 ```bash
 metarigor health
@@ -49,6 +88,8 @@ Available basic operations:
 - `capabilities`: Return the capability list
 - `hash`: Compute the SHA-256 hash of a string
 - `validate`: Validate input against a JSON Schema
+
+The `stage` command and its JSON operations return stage metadata. Use `metarigor reproduce` to run experiments. Use `metarigor verify` to check the installed resources.
 
 For example, compute a hash:
 
@@ -133,7 +174,7 @@ backend/src/metarigor/
 └── risk_of_bias_v3/      # Risk-of-bias assessment
 ```
 
-Research experiment scripts and frozen datasets remain in the repository, but product integrations should use the `metarigor` CLI and the `metarigor-agent-v1` protocol.
+The CLI exposes the research runners as subcommands and the JSONL adapter through the `metarigor-agent-v1` protocol.
 
 Project documentation, code comments, and active method prompts are in English. Original source documents, frozen case data, and reference answers retain their original language to preserve verbatim evidence and provenance hashes. Translating prompts changes model inputs; new runs are not byte-identical reproductions of runs using the original prompts.
 

@@ -2,12 +2,19 @@
 from __future__ import annotations
 
 import argparse
+from importlib import import_module
 import json
 import sys
 from pathlib import Path
 from typing import Any
 
 from metarigor.application.service import capabilities, execute, handle_request
+
+_RESEARCH_COMMANDS = {
+    "verify": "verify frozen experiment inputs offline",
+    "reproduce": "run the paper's experiments with a model gateway",
+    "baseline": "run the Codex or OpenHands baseline",
+}
 
 
 def _json(value: Any, *, pretty: bool = False) -> str:
@@ -28,6 +35,8 @@ def build_parser() -> argparse.ArgumentParser:
 
     sub.add_parser("health", help="check that the local service is available")
     sub.add_parser("capabilities", help="print the Agent integration contract")
+    for command, help_text in _RESEARCH_COMMANDS.items():
+        sub.add_parser(command, help=help_text, add_help=False)
 
     run = sub.add_parser("run", help="execute one operation from JSON")
     run.add_argument("operation", choices=(
@@ -38,7 +47,7 @@ def build_parser() -> argparse.ArgumentParser:
     run.add_argument("--input", "-i", metavar="FILE", help="JSON input file; stdin when omitted")
     run.add_argument("--pretty", action="store_true")
 
-    stage = sub.add_parser("stage", help="dispatch a request to one evidence-synthesis stage")
+    stage = sub.add_parser("stage", help="inspect stage request metadata (use 'reproduce' to run experiments)")
     stage.add_argument("name", choices=(
         "evidence-acquisition", "data-extraction", "risk-of-bias",
         "evidence-certainty", "manuscript",
@@ -53,6 +62,11 @@ def build_parser() -> argparse.ArgumentParser:
 
 
 def main(argv: list[str] | None = None) -> int:
+    argv = sys.argv[1:] if argv is None else argv
+    if argv and argv[0] in _RESEARCH_COMMANDS:
+        command = argv[0]
+        runner = import_module(f"metarigor.experiments.{command}")
+        return runner.main(argv[1:], prog=f"metarigor {command}") or 0
     args = build_parser().parse_args(argv)
     if args.command == "health":
         print(_json(execute("health", {})))

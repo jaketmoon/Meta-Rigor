@@ -11,6 +11,7 @@ from pathlib import Path
 from typing import Any, Literal
 from uuid import uuid4
 from pydantic import Field, model_validator
+from metarigor.research import RESEARCH_ROOT
 from metarigor.evidence_certainty.benchmark_v1 import load_benchmark_catalog as load_v1_catalog
 from metarigor.evidence_certainty.benchmark_v1.dataset import CATALOG_SHA256 as V1_CATALOG_SHA256
 from metarigor.evidence_certainty.benchmark_v1.dataset import GOLD_SHA256 as V1_GOLD_SHA256
@@ -26,7 +27,7 @@ from .source_evidence import materialize_candidate_sidecars, materialize_domain_
 _RUNNER_VERSION = "2.0.0"
 
 
-_REPO_ROOT = Path(__file__).resolve().parents[5]
+_REPO_ROOT = RESEARCH_ROOT
 
 
 _REVIEW_SUFFICIENCY_SKILL_PATH = _REPO_ROOT / (

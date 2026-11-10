@@ -2,11 +2,11 @@ from __future__ import annotations
 
 from copy import deepcopy
 from dataclasses import dataclass
-from pathlib import Path
 from typing import Any, Literal
+from metarigor.research import RESEARCH_ROOT
 from .models import JudgeCriterionId
 from .publication_judge_models import PublicationJudgeCriterionAgentOutput, PublicationJudgeCriterionInput
-_SKILLS_ROOT = Path(__file__).resolve().parents[3] / "skills"
+_SKILLS_ROOT = RESEARCH_ROOT / "backend/skills"
 
 
 @dataclass(frozen=True, slots=True)

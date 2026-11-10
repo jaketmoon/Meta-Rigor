@@ -3,13 +3,14 @@ from __future__ import annotations
 import hashlib
 import json
 from pathlib import Path
+from metarigor.research import RESEARCH_ROOT
 from metarigor.data_extraction.benchmark_v3.models import ReviewBenchmarkInventory
 from metarigor.evidence_certainty.models import GRADE_DOMAINS
 from .models import BenchmarkCatalog, BenchmarkGold
-_REPO_ROOT = Path(__file__).resolve().parents[5]
+_REPO_ROOT = RESEARCH_ROOT
 
 
-_DATASET_ROOT = Path(__file__).with_name("dataset")
+_DATASET_ROOT = RESEARCH_ROOT / "backend/src/metarigor/evidence_certainty/benchmark_v1/dataset"
 
 
 _DE_INVENTORY_PATH = (

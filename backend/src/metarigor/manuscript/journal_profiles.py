@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from pathlib import Path
+from metarigor.research import RESEARCH_ROOT
 PROFILE_FILENAMES = {
     "generic_prisma_2020_meta_analysis_v2": "generic_prisma_2020_meta_analysis.v2.json",
     "jama_meta_analysis_v2": "jama_meta_analysis.v2.json",
@@ -8,7 +9,7 @@ PROFILE_FILENAMES = {
 }
 
 
-_PROFILE_ROOT = Path(__file__).with_name("journal_profiles")
+_PROFILE_ROOT = RESEARCH_ROOT / "backend/src/metarigor/manuscript/journal_profiles"
 
 
 def profile_path(profile_id: str, root: Path | None = None) -> Path:
