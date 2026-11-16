@@ -1,4 +1,4 @@
-"""Run a native CLI baseline once against an isolated candidate-only input package."""
+"""Run Codex or OpenHands against isolated case inputs."""
 from __future__ import annotations
 import argparse, asyncio, hashlib, json, os, shlex, shutil, subprocess
 from pathlib import Path
@@ -27,7 +27,7 @@ def codex_runtime(binary):
     except (OSError, subprocess.SubprocessError) as error:
         raise BaselineSetupError(f"Cannot read the Codex CLI version: {error}") from error
     if version != f"codex-cli {CODEX_VERSION}":
-        raise BaselineSetupError(f"Paper baseline requires Codex {CODEX_VERSION}; found {version}.")
+        raise BaselineSetupError(f"The Codex runner requires version {CODEX_VERSION}. Found {version}.")
     return Path(command).resolve(), version
 
 
