@@ -6,13 +6,14 @@ import json
 from dataclasses import asdict, dataclass
 from datetime import UTC, datetime
 from pathlib import Path
+from metarigor.research import RESEARCH_ROOT
 from metarigor.local_run import RunFolder, RunManifest, RunStatus, StageIssue, StageOutcome, StageRunner, StageStatus
 from .models import canonical_json
 from .publication_coverage import compile_coverage, decide_headlines, evaluate_profile_compliance
 from .publication_models import CoverageManifest, JournalPresentationProfile, ManuscriptDeliveryV2, ManuscriptFactPackageV2, ManuscriptRunRequestV2, ManuscriptRunResultV2, ProfileComplianceReport, PublicationDeliveryFile, PublicationVerificationReport
 from .publication_rendering import render_publication
 from .publication_verification import verify_publication
-_REPO_ROOT = Path(__file__).resolve().parents[4]
+_REPO_ROOT = RESEARCH_ROOT
 
 
 def _now() -> str:

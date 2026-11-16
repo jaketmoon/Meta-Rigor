@@ -4,34 +4,76 @@ MetaRigor is an agent-ready evidence review service. It exposes a stable JSON in
 
 ## Installation
 
-Requires Python 3.12 or later:
+Use Python 3.12 or later. The commands below use a Linux or macOS shell. On Windows, use WSL and keep the checkout and virtual environment in the Linux filesystem, because some frozen input filenames contain colons.
 
 ```bash
 python3.12 -m venv .venv
-.venv/bin/pip install -e .
+source .venv/bin/activate
+python -m pip install '.[research]'
+metarigor verify
 ```
 
-To run JSON Schema validation, install the full dependencies:
+`metarigor verify` checks frozen resource hashes, input schemas, and case inventories without a model gateway. A complete package prints `OK: 1443 input/resource hashes`. The same command works from a wheel installed with the `research` extra. For a source checkout, the equivalent is `python verify.py`.
+
+## Reproduce the paper
+
+Fill in the API base URL and a model ID from your provider. Use the API base URL that precedes `/chat/completions`, including its version or routing prefix if needed. Enter the key at the prompt.
 
 ```bash
-.venv/bin/pip install -r requirements.txt
+export METARIGOR_AGENT_GATEWAY_BASE_URL=''
+export METARIGOR_MODEL=''
+read -r -s METARIGOR_AGENT_GATEWAY_API_KEY
+export METARIGOR_AGENT_GATEWAY_API_KEY
 ```
 
-After installation, run:
+`METARIGOR_MODEL` supplies the model for both `reproduce` and `baseline`. Pass `--model` to select another model for one run. Each run needs a new `--output` directory.
+
+| Stage | Conditions and inputs |
+| --- | --- |
+| `ea` (Evidence Acquisition) | `full`, `no-fast`, `no-deep`, `dual-deepseek`. Select `--phase initial` or `--phase fulltext`. |
+| `de` (Data Extraction) | `full`, `no-task-contract`. |
+| `rob` (Risk of Bias) | `full`, `no-task-contract`, `no-code-logic`. |
+| `ec` (Evidence Certainty) | `full`, `no-task-contract`, `no-code-logic`. The full and no-code-logic conditions use the fixed 20-case set. |
+| `ms` (Manuscript) | `full`, `no-task-contract`, `no-code-logic`. The latter two require `--source` pointing to a previous full MS output directory. |
+| `judge` (Manuscript evaluation) | Requires `--source` pointing to the MS output directory. Use `--judge-model` to override the shared model and `--judge-format structured` to request structured scores. |
+
+EA uses the paper's transports by default. FAST uses the Anthropic-compatible Messages API through the Claude Agent SDK, DEEP and adjudication use Chat Completions, and `dual-deepseek` uses Messages for all roles. Use `--ea-fast-model`, `--ea-deep-model`, and `--ea-adjudicator-model` if the roles need different model IDs. For providers that offer Chat Completions only, use `--ea-transport chat`. If the provider lacks native structured output, add `--structured-output prompt` for EA, RoB, EC, or a structured Judge. Outputs still undergo local schema validation.
 
 ```bash
-metarigor --help
+metarigor reproduce ea --case turalde-mapili-2023 --ea-transport chat --structured-output prompt --output runs/ea
 ```
 
-Alternatively, run directly without installing:
+DE records both the requested and returned model IDs. Pass `--response-model` to require an exact return ID. For DE or MS, `--disable-thinking` sends the corresponding optional request parameter when your provider supports it. Use the model roles and transport settings reported in the paper for comparisons with its results.
+
+EC's no-task-contract condition saves the first response, the calculator result, and the final request as separate stages under `cases/`. The deadline applies separately to each request. If final writing times out, the provisional report remains available and the result has no final `answer`.
+
+Full MS uses optional value slots by default, as in the reference implementation. The verifier still checks Fact identifiers, placement, and required coverage. Directly written values remain subject to semantic review. Use `--ms-value-slots required` to run with the historical strict slot policy.
+
+The EC stage layout and MS slot policy are adapted from the local MetaRigor reference checkout at `28863d22` (including the checkout's MS schema capacity adjustments). The relevant files are `backend/src/metarigor/evidence_certainty/benchmark_v2/task_contract_ablation.py` and `backend/src/metarigor/manuscript/publication_writing.py`.
+
+### Run the CLI baselines
+
+The Codex baseline requires Codex CLI `0.142.4` and a gateway that serves the Responses API for the selected model. Install the pinned version into the project's virtual environment directory so it can coexist with your regular Codex installation:
 
 ```bash
-PYTHONPATH=backend/src python3 -m metarigor --help
+npm install --prefix .venv/codex-baseline @openai/codex@0.142.4
+codex_binary=$(find .venv/codex-baseline/node_modules/@openai -type f -path '*/vendor/*/bin/codex')
+"$codex_binary" --version
 ```
+
+Pass the binary path with `--codex-command`.
+
+For OpenHands, start Docker and build the image from the supplied runtime directory in the source checkout. The image uses OpenHands `1.16.0` and the gateway must serve Chat Completions.
+
+```bash
+docker build -t metarigor-openhands-cli:1.16.0-r3 runtime/openhands-cli
+```
+
+Both baselines use `METARIGOR_MODEL` or `--model`. Set `--response-model` if the gateway returns a different model ID. Use `metarigor baseline --help` for the options. Each case has an `invocation-summary.json` with runtime and failure details. The checkout scripts `python reproduce.py` and `python baseline.py` accept the same arguments as their corresponding commands.
 
 ## CLI
 
-Check service health:
+Check that the local CLI responds:
 
 ```bash
 metarigor health
@@ -49,6 +91,8 @@ Available basic operations:
 - `capabilities`: Return the capability list
 - `hash`: Compute the SHA-256 hash of a string
 - `validate`: Validate input against a JSON Schema
+
+The `stage` command and its JSON operations return stage metadata. Use `metarigor reproduce` to run experiments. Use `metarigor verify` to check the installed resources.
 
 For example, compute a hash:
 
@@ -133,7 +177,7 @@ backend/src/metarigor/
 └── risk_of_bias_v3/      # Risk-of-bias assessment
 ```
 
-Research experiment scripts and frozen datasets remain in the repository, but product integrations should use the `metarigor` CLI and the `metarigor-agent-v1` protocol.
+The CLI exposes the research runners as subcommands and the JSONL adapter through the `metarigor-agent-v1` protocol.
 
 Project documentation, code comments, and active method prompts are in English. Original source documents, frozen case data, and reference answers retain their original language to preserve verbatim evidence and provenance hashes. Translating prompts changes model inputs; new runs are not byte-identical reproductions of runs using the original prompts.
 

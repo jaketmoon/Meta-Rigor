@@ -2,11 +2,15 @@ from __future__ import annotations
 
 from copy import deepcopy
 from dataclasses import dataclass
-from pathlib import Path
 from typing import Any, Literal
+from metarigor.research import RESEARCH_ROOT
 from .models import JudgeCriterionId
-from .publication_judge_models import PublicationJudgeCriterionAgentOutput, PublicationJudgeCriterionInput
-_SKILLS_ROOT = Path(__file__).resolve().parents[3] / "skills"
+from .publication_judge_models import (
+    PublicationJudgeCriterionAgentOutput,
+    PublicationJudgeCriterionInput,
+    PublicationJudgeStructuredScore,
+)
+_SKILLS_ROOT = RESEARCH_ROOT / "backend/skills"
 
 
 @dataclass(frozen=True, slots=True)
@@ -24,7 +28,12 @@ def _skill(name: str) -> str:
 
 
 def publication_judge_template(
-    criterion_id: JudgeCriterionId, *, score_mode: bool = False
+    criterion_id: JudgeCriterionId,
+    *,
+    score_mode: bool = False,
+    structured_score: bool = False,
+    compact_format: bool = False,
+    array_score: bool = False,
 ) -> AgentTemplate:
     output_schema = deepcopy(PublicationJudgeCriterionAgentOutput.model_json_schema())
     identifier = f"manuscript-publication-judge-{criterion_id.lower().replace('_', '-')}"
@@ -52,8 +61,46 @@ def publication_judge_template(
         "CRITICAL_ISSUE true for rating 0 and for any flaw that would materially invalidate this "
         "criterion. The whole response must be at most 4,000 characters."
     )
+    version = "scored-v4" if score_mode else "v6"
+    output_binding = (
+        "The runtime places the text verbatim into the closed assessment schema; all ids, "
+        "evidence objects, criterion metadata, and schema versions are program-owned."
+    )
+    if structured_score:
+        output_schema = PublicationJudgeStructuredScore.model_json_schema()
+        score_instruction = (
+            " Apply the rating anchors to the designated claim and Fact in their criterion context. "
+            "Match rating_anchor to rating and set critical_issue to true for rating 0 or an issue "
+            "that materially invalidates the criterion. Give a brief evidence_binding, one concrete "
+            "improvement (or NONE_REQUIRED), and a concise assessment. Return only JSON."
+        )
+        version = "scored-json-compact-v1" if compact_format else "scored-json-v1"
+        if compact_format:
+            score_instruction += " Keep all text fields brief."
+        if array_score:
+            fields = output_schema["properties"]
+            output_schema = {
+                "$defs": output_schema.get("$defs", {}),
+                "type": "object",
+                "properties": {
+                    "score": {
+                        "type": "array",
+                        "prefixItems": list(fields.values()),
+                        "minItems": len(fields),
+                        "maxItems": len(fields),
+                    },
+                },
+                "required": ["score"],
+                "additionalProperties": False,
+            }
+            score_instruction += " Put the values in the score array in this order: " + ", ".join(fields) + "."
+            version = "scored-array-v1"
+        output_binding = (
+            "The program supplies all identifiers and binds the final evidence to the designated "
+            "claim and Fact."
+        )
     return AgentTemplate(
-        identifier=f"{identifier}-{'scored-v4' if score_mode else 'v6'}",
+        identifier=f"{identifier}-{version}",
         model_role="adjudicator",
         prompt=(
             f"Evaluate only criterion {criterion_id} for one sealed publication candidate. "
@@ -63,9 +110,7 @@ def publication_judge_template(
             "claim_id and fact_id plus the full criterion context. Preserve reported absence and "
             "conflict; do not infer missing facts, recalculate results, browse, use tools, "
             f"{action_boundary}"
-            f"{score_instruction} The runtime places the text verbatim into the closed assessment "
-            "schema; all ids, evidence objects, criterion metadata, and schema versions are "
-            "program-owned."
+            f"{score_instruction} {output_binding}"
         ),
         input_schema=PublicationJudgeCriterionInput.model_json_schema(),
         output_schema=output_schema,

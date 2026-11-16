@@ -17,7 +17,7 @@ from pathlib import Path
 from time import perf_counter
 from typing import Any
 from metarigor.data_extraction.codex_agent_baseline.audit import locally_rejected_tool_call_count, successful_tool_call_count
-from metarigor.data_extraction.codex_agent_baseline.executor import PROVIDER_MODEL_ID, PROVIDER_RESPONSE_MODEL, _parse_jsonl, _safe_environment, _toml_string
+from metarigor.data_extraction.codex_agent_baseline.executor import _parse_jsonl, _safe_environment, _toml_string
 from metarigor.data_extraction.codex_free_decomposition.executor import _forbidden_tool_audit, case_model_catalog
 from metarigor.data_extraction.codex_free_decomposition.files import sha256_bytes, sha256_file, write_new
 from metarigor.manuscript.models import canonical_json
@@ -171,8 +171,8 @@ class CodexManuscriptNaturalOutputExecutor:
         timeout_seconds: float,
         prompt_template: str = NATURAL_OUTPUT_PROMPT,
         developer_instructions: str = NATURAL_OUTPUT_DEVELOPER_INSTRUCTIONS,
-        provider_model: str = PROVIDER_MODEL_ID,
-        response_model: str = PROVIDER_RESPONSE_MODEL,
+        provider_model: str,
+        response_model: str,
     ) -> None:
         if timeout_seconds < 600:
             raise ValueError("case timeout must remain an anti-hang bound of at least 600 seconds")
@@ -206,10 +206,7 @@ class CodexManuscriptNaturalOutputExecutor:
         runtime_tmp.mkdir()
         prompt = render_natural_output_prompt(input_root, self.prompt_template)
         write_new(invocation_root / "prompt.txt", prompt, mode=0o400)
-        catalog = case_model_catalog()
-        if self.provider_model != PROVIDER_MODEL_ID:
-            catalog["models"][0]["slug"] = self.provider_model
-            catalog["models"][0]["display_name"] = self.provider_model
+        catalog = case_model_catalog(self.provider_model)
         # Codex 0.142.x still requires legacy catalog string fields; keep empty values for compatibility with the sealed binary.
         # Specific benchmark instructions still come from model_messages.instructions_template.
         catalog["models"][0]["base_instructions"] = ""
@@ -289,21 +286,21 @@ class CodexManuscriptNaturalOutputExecutor:
             "--config",
             "model_context_window=1048576",
             "--config",
-            'model_provider="metarigor_deepseek"',
+            'model_provider="metarigor_gateway"',
             "--config",
-            'model_providers.metarigor_deepseek.name="MetaRigor DeepSeek"',
+            'model_providers.metarigor_gateway.name="MetaRigor Gateway"',
             "--config",
-            f"model_providers.metarigor_deepseek.base_url={_toml_string(self.base_url)}",
+            f"model_providers.metarigor_gateway.base_url={_toml_string(self.base_url)}",
             "--config",
-            'model_providers.metarigor_deepseek.env_key="METARIGOR_AGENT_GATEWAY_API_KEY"',
+            'model_providers.metarigor_gateway.env_key="METARIGOR_AGENT_GATEWAY_API_KEY"',
             "--config",
-            'model_providers.metarigor_deepseek.wire_api="responses"',
+            'model_providers.metarigor_gateway.wire_api="responses"',
             "--config",
-            "model_providers.metarigor_deepseek.request_max_retries=0",
+            "model_providers.metarigor_gateway.request_max_retries=0",
             "--config",
-            "model_providers.metarigor_deepseek.stream_max_retries=0",
+            "model_providers.metarigor_gateway.stream_max_retries=0",
             "--config",
-            "model_providers.metarigor_deepseek.stream_idle_timeout_ms="
+            "model_providers.metarigor_gateway.stream_idle_timeout_ms="
             + str(int(self.timeout_seconds * 1_000)),
             "--model",
             self.provider_model,

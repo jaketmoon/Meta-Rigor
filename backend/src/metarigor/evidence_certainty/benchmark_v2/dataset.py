@@ -4,16 +4,17 @@ import hashlib
 import json
 import re
 from pathlib import Path
+from metarigor.research import RESEARCH_ROOT
 from metarigor.evidence_certainty.benchmark_v1 import load_benchmark_catalog as load_v1_catalog
 from metarigor.evidence_certainty.benchmark_v1 import load_benchmark_gold as load_v1_gold
 from metarigor.evidence_certainty.benchmark_v1.dataset import CATALOG_SHA256 as V1_CATALOG_SHA256
 from metarigor.evidence_certainty.benchmark_v1.dataset import GOLD_SHA256 as V1_GOLD_SHA256
 from .freeze import FREEZER_ID, FREEZER_VERSION, candidate_exposes_grade_disclosure
 from .models import BenchmarkV2Catalog, BenchmarkV2Gold, ExternalComparatorDocument, ReviewBenchmarkCase, ReviewCandidateDocument, ReviewFigureEvidence, ReviewGoldCase, ReviewGoldDomain, ReviewLevelSufficiencyContract, ReviewTextEvidence, V2CandidateSeal
-_REPO_ROOT = Path(__file__).resolve().parents[5]
+_REPO_ROOT = RESEARCH_ROOT
 
 
-_DATASET_ROOT = Path(__file__).with_name("dataset")
+_DATASET_ROOT = RESEARCH_ROOT / "backend/src/metarigor/evidence_certainty/benchmark_v2/dataset"
 
 
 CATALOG_SHA256 = "021b4128b042c485ddf853ee9610ce18afaa2b3b8b83d59eb3f436791af29ae8"

@@ -13,13 +13,24 @@ dependencies = [
   "pydantic==2.13.4",
 ]
 
+[project.optional-dependencies]
+research = [
+  "claude-agent-sdk==0.2.134",
+  "deepseek-tokenizer==0.3.0",
+  "tiktoken==0.14.0",
+]
+
 [project.scripts]
 metarigor = "metarigor.cli.main:main"
 
 [tool.setuptools]
 package-dir = {"" = "backend/src"}
+include-package-data = false
 
 [tool.setuptools.packages.find]
 where = ["backend/src"]
+namespaces = false
 
+[tool.setuptools.package-data]
+"metarigor.risk_of_bias_v3" = ["method_spec.json"]
 

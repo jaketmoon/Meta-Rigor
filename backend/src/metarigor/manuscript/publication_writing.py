@@ -117,7 +117,7 @@ class WritingPlan(ManuscriptModel):
 
 class Clause(ManuscriptModel):
     text: str = Field(min_length=1, max_length=5000)
-    fact_ids: tuple[str, ...] = Field(max_length=20)
+    fact_ids: tuple[str, ...] = Field(max_length=100)
     claim_type: Literal["FACT", "CAUTIOUS_INTERPRETATION", "TRANSITION"]
 
 
@@ -178,7 +178,7 @@ class ReviewFinding(ManuscriptModel):
 
 
 class WritingReview(ManuscriptModel):
-    findings: tuple[ReviewFinding, ...] = Field(max_length=30)
+    findings: tuple[ReviewFinding, ...] = Field(max_length=100)
 
 
 _BOUNDARY = """Write an English systematic review from supplied reference-upstream facts.
@@ -199,13 +199,19 @@ writing template.
 """
 
 
-_PROSE = """The program supplies value slots and will expand {{V00001}} into its exact value.
+_REQUIRED_SLOTS = """The program supplies value slots and will expand {{V00001}} into its exact value.
 Write original sentences, connections and cautious interpretation. Every research number, date,
 effect,
 sample size, status and certainty must use the appropriate slot; never retype it. Outcome names
 containing
 numbers also use their slots. You may use textual field values for nonnumeric context. Each
-FACT clause
+"""
+_OPTIONAL_SLOTS = """Write original sentences, connections and cautious interpretation.
+You may write supplied numbers, dates, effects, sample sizes, statuses and certainty directly in
+prose. Preserve their exact values and meaning. Value slots such as {{V00001}} are optional.
+Use the supplied slot values when source descriptions contain slot tokens. Each
+"""
+_PROSE = """FACT clause
 has exactly one supporting fact_id; keep different facts in separate
 clauses of the same paragraph. CAUTIOUS_INTERPRETATION cites all supporting fact_ids and must
 not add
@@ -422,6 +428,7 @@ async def model_stage(pipeline, *, name, template, semantic, input_error=None):
         program_binding={
             "run_id": pipeline.request.run_id,
             "writer_version": VERSION,
+            "value_slots_required": pipeline.request.value_slots_required,
             "package_sha256": pipeline.request.fact_package.expected_sha256,
             "input_error": input_error,
         },
@@ -500,6 +507,7 @@ def build_abstract_input(package, profile, drafts):
 
 
 async def write_manuscript(pipeline, package, profile):
+    prose = (_REQUIRED_SLOTS if pipeline.request.value_slots_required else _OPTIONAL_SLOTS) + _PROSE
     plan_input = build_plan_input(package)
     facts, decisions = plan_input.facts, plan_input.headline_decisions
     plan = await model_stage(
@@ -552,7 +560,7 @@ async def write_manuscript(pipeline, package, profile):
                 section_plan.section_id.lower(),
                 SectionInput,
                 SectionDraft,
-                _PROSE + f"Write only {section_plan.section_id}.\n",
+                prose + f"Write only {section_plan.section_id}.\n",
                 allowed,
                 section_plan.section_id,
             ),
@@ -571,7 +579,7 @@ async def write_manuscript(pipeline, package, profile):
             "title-abstract",
             AbstractInput,
             AbstractDraft,
-            _PROSE
+            prose
             + (
                 "Write a new title ending exactly with title_suffix; use no numeric claims in "
                 "the title. Write abstract parts in order BACKGROUND, METHODS, RESULTS, "
@@ -586,7 +594,13 @@ async def write_manuscript(pipeline, package, profile):
     )
     if not any(drafts.values()):
         return None
-    return {"schema_version": VERSION, "plan": plan, "sections": drafts, "title_abstract": abstract}
+    return {
+        "schema_version": VERSION,
+        "value_slots_required": pipeline.request.value_slots_required,
+        "plan": plan,
+        "sections": drafts,
+        "title_abstract": abstract,
+    }
 
 
 @dataclass
@@ -601,6 +615,10 @@ class WritingAssembly:
 def assemble_writing(package, profile, evidence) -> WritingAssembly:
     if profile.profile_id != PROFILE_ID:
         raise ValueError("LLM assembly only supports Generic V2")
+    # Historical writing evidence used mandatory slots before recording the policy.
+    require_slots = evidence.get("value_slots_required", True)
+    if not isinstance(require_slots, bool):
+        raise ValueError("value_slots_required must be boolean")
     facts = {f.fact_id: f for f in package.facts}
     slots = {
         s.slot_id: (f.fact_id, s.field, s.value) for f in writing_facts(package) for s in f.slots
@@ -643,7 +661,12 @@ def assemble_writing(package, profile, evidence) -> WritingAssembly:
             else:
                 used.append(binding)
         bare = _TOKEN.sub("", raw)
-        if _DIGIT.search(bare) or re.search(r"\[[^]]*\]", bare) or "{{" in bare or "}}" in bare:
+        if (
+            (require_slots and _DIGIT.search(bare))
+            or re.search(r"\[[^]]*\]", bare)
+            or "{{" in bare
+            or "}}" in bare
+        ):
             invalid = True
             issue(
                 "UNBOUND_NUMBER_OR_CITATION",
@@ -679,7 +702,11 @@ def assemble_writing(package, profile, evidence) -> WritingAssembly:
             issue(
                 "UNSUPPORTED_INTERPRETATION", f"{section}: interpretation has no supporting facts."
             )
-        elif clause.claim_type == "TRANSITION" and (ids or used):
+        elif clause.claim_type == "TRANSITION" and (
+            ids or used or (not require_slots and _DIGIT.search(raw))
+        ):
+            if not require_slots:
+                invalid = True
             issue("FACT_IN_TRANSITION", f"{section}: transition contains research bindings.", ids)
         keys = sorted({key for fid in ids if fid in facts for key in facts[fid].citation_keys})
         suffix = " " + " ".join(f"[{k}]" for k in keys) if keys else ""
@@ -817,7 +844,7 @@ def assemble_writing(package, profile, evidence) -> WritingAssembly:
     prose_facts = writing_facts(package)
     for section in locations:
         for fid in sorted(section_bindings[section]):
-            required = protected_requirements(facts[fid])
+            required = protected_requirements(facts[fid]) if require_slots else set()
             missing = required - bound_fields[section][fid]
             if missing:
                 section_bindings[section].discard(fid)
@@ -915,13 +942,18 @@ def assemble_writing(package, profile, evidence) -> WritingAssembly:
     semantic_unverified = {
         fid for fid in presence if facts[fid].kind in {"NARRATIVE", "REVIEW_METHOD", "RISK_OF_BIAS"}
     }
+    if not require_slots:
+        semantic_unverified.update(set().union(*section_bindings.values()))
     if semantic_unverified:
         issues.append(
             PublicationVerificationIssue(
                 category="SEMANTIC_COVERAGE_UNVERIFIED",
                 severity="WARNING",
                 detail=(
-                    "Bound LLM paraphrases require semantic review; deterministic coverage does not"
+                    "Bound LLM paraphrases require semantic review. Directly written values and "
+                    "statuses also require review."
+                    if not require_slots
+                    else "Bound LLM paraphrases require semantic review; deterministic coverage does not"
                     " prove that descriptions or rationales were conveyed."
                 ),
                 fact_ids=tuple(sorted(semantic_unverified)),
@@ -1138,6 +1170,8 @@ def validate_candidate_writing(folder, stages, request, package, delivery, conte
     ):
         raise ValueError("Candidate LLM curation differs from sealed reference")
     evidence = json.loads(content["WRITING_EVIDENCE"])
+    if request.get("value_slots_required", True) != evidence.get("value_slots_required", True):
+        raise ValueError("Candidate value slot policy differs from its Run request")
     if evidence["schema_version"] != VERSION or not any(evidence["sections"].values()):
         raise ValueError("Candidate lacks readable LLM body or supported writer version")
     expected_drafts = {
@@ -1161,6 +1195,7 @@ def validate_candidate_writing(folder, stages, request, package, delivery, conte
             binding["run_id"] != request["run_id"]
             or binding["package_sha256"] != request["fact_package"]["expected_sha256"]
             or binding["writer_version"] != VERSION
+            or binding.get("value_slots_required", True) != evidence.get("value_slots_required", True)
         ):
             raise ValueError("Candidate LLM Stage program binding differs")
         short = name.removeprefix("llm_")

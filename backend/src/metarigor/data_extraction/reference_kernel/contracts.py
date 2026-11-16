@@ -2,22 +2,6 @@ from __future__ import annotations
 
 from typing import Literal
 from pydantic import BaseModel, ConfigDict, Field, StrictFloat, StrictInt
-MODEL_ALIAS = "deepseek-v4-flash"
-
-
-GPT_LUNA_MODEL_ALIAS = "gpt-5.6-luna"
-
-
-ALLOWED_DE_MODEL_ALIASES = (MODEL_ALIAS, GPT_LUNA_MODEL_ALIAS)
-
-
-CHAT_COMPLETIONS_PROVIDER_MODEL = "xopdeepseekv4flash"
-
-
-CHAT_COMPLETIONS_PROVIDER_MODELS = {
-    MODEL_ALIAS: CHAT_COMPLETIONS_PROVIDER_MODEL,
-    GPT_LUNA_MODEL_ALIAS: GPT_LUNA_MODEL_ALIAS,
-}
 
 
 type KernelTask = Literal["binary_outcomes", "continuous_outcomes"]

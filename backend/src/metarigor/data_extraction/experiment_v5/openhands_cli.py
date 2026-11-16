@@ -14,7 +14,6 @@ from collections.abc import Mapping
 from pathlib import Path
 from typing import Any
 from metarigor.data_extraction.codex_free_decomposition.files import sha256_file, write_new
-from metarigor.data_extraction.reference_kernel.contracts import CHAT_COMPLETIONS_PROVIDER_MODEL, MODEL_ALIAS
 from metarigor.local_run import canonical_json
 OPENHANDS_VERSION = "1.16.0"
 
@@ -136,8 +135,8 @@ def _execute_case_sync(
     step_limit: int,
     prompt: str | None = None,
     proxy_startup_timeout_seconds: float = 5.0,
-    request_model: str = MODEL_ALIAS,
-    response_model: str = CHAT_COMPLETIONS_PROVIDER_MODEL,
+    request_model: str,
+    response_model: str,
 ) -> dict[str, Any]:
     if invocation_root.exists():
         raise FileExistsError(invocation_root)

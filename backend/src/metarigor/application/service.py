@@ -34,8 +34,9 @@ def capabilities() -> dict[str, Any]:
                 "output": "content digest",
             },
             "stages": {
-                "input": {"stage": "EA|DE|RoB|EC|MS", "input": "object"},
-                "output": "stage dispatch metadata",
+                "input": {"stage": "|".join(STAGES), "input": "object"},
+                "output": "stage request metadata",
+                "experiment_command": "metarigor reproduce",
             },
         },
         "stages": STAGES,
@@ -100,7 +101,7 @@ def execute(operation: str, payload: Any) -> dict[str, Any]:
             "name": stage_name,
             "status": "ready",
             "input": stage_input,
-            "message": "Stage request accepted; use the stage-specific runner for model execution.",
+            "message": "Stage metadata only. Use 'metarigor reproduce' for model execution.",
         }
     raise ValueError(f"unsupported operation: {operation}")
 

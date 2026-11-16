@@ -5,12 +5,13 @@ import json
 from collections.abc import Mapping, Sequence
 from pathlib import Path
 from typing import Any
+from metarigor.research import RESEARCH_ROOT
 from metarigor.evidence_certainty.benchmark_v1 import load_benchmark_catalog as load_v1_catalog
 from metarigor.evidence_certainty.benchmark_v1.models import BenchmarkCaseDefinition
 from metarigor.evidence_certainty.models import GRADE_DOMAINS, DomainJudgment, EvidenceFact, EvidenceFactKind, GradeDomain, SourceDocumentReference, SourceSpan
 from metarigor.local_run import RunFolder
 from .models import BenchmarkV2Catalog, BenchmarkV2EvidenceAnchorSidecar, BenchmarkV2EvidenceClaim, BenchmarkV2EvidenceVerification, BenchmarkV2EvidenceVerificationIssue, BenchmarkV2PredictionCase, BenchmarkV2PredictionDomain, ReviewBenchmarkCase, ReviewCaseSufficiency, ReviewFigureEvidence, ReviewTextEvidence
-_REPO_ROOT = Path(__file__).resolve().parents[5]
+_REPO_ROOT = RESEARCH_ROOT
 
 
 _V2_DATASET_PREFIX = "backend/src/metarigor/evidence_certainty/benchmark_v2/dataset/"
