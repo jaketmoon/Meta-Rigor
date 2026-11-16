@@ -1,4 +1,4 @@
-"""Run the paper's frozen-input experiments; generated outputs always go to a new directory."""
+"""Run a stage with a model gateway and write results to a new directory."""
 from __future__ import annotations
 import argparse
 import asyncio
@@ -340,7 +340,7 @@ def main(argv=None, *, prog=None):
     p.add_argument('--ea-deep-model', metavar='MODEL', help='Optional EA DEEP model ID')
     p.add_argument('--ea-adjudicator-model', metavar='MODEL', help='Optional EA full-text adjudicator model ID')
     p.add_argument('--ea-transport', choices=['paper', 'chat'], default='paper',
-                   help='EA paper transports or Chat Completions for every role')
+                   help='Use role-specific API transports or Chat Completions for all EA roles')
     p.add_argument('--structured-output', choices=['provider', 'prompt'], default='provider',
                    help='Request native structured output or prompt for locally validated JSON')
     p.add_argument('--response-model', metavar='MODEL', help='Optional exact DE response model ID')

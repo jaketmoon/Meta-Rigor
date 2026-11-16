@@ -1,4 +1,4 @@
-"""Offline package integrity and frozen input contract checks; no model calls."""
+"""Check package integrity and validate bundled inputs offline."""
 import argparse
 import ast
 import hashlib

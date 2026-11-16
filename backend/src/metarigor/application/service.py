@@ -36,7 +36,6 @@ def capabilities() -> dict[str, Any]:
             "stages": {
                 "input": {"stage": "|".join(STAGES), "input": "object"},
                 "output": "stage request metadata",
-                "experiment_command": "metarigor reproduce",
             },
         },
         "stages": STAGES,
@@ -101,7 +100,7 @@ def execute(operation: str, payload: Any) -> dict[str, Any]:
             "name": stage_name,
             "status": "ready",
             "input": stage_input,
-            "message": "Stage metadata only. Use 'metarigor reproduce' for model execution.",
+            "message": "Stage request metadata.",
         }
     raise ValueError(f"unsupported operation: {operation}")
 
