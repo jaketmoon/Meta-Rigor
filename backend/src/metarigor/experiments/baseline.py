@@ -117,7 +117,11 @@ async def run(a):
         a.output.mkdir(parents=True,exist_ok=False)
     except OSError as error:
         raise BaselineSetupError(f'--output must be a new writable directory: {error}') from error
-    if a.stage=='ec':
+    if a.ec_benchmark == 'ec-ex80':
+        from metarigor.evidence_certainty.benchmark_v2.ec_ex80 import write_cli_packages
+
+        packages = write_cli_packages(a.output / 'inputs', a.ec_ex80_data, a.case)
+    elif a.stage=='ec':
         packages=ec_full_packages(a.output/'inputs',a.case)
         prompt=prompt.replace(
             'The complete permitted case input is the read-only input.json under INPUT_ROOT printed below.',
@@ -154,12 +158,29 @@ def main(argv=None, *, prog=None):
     p.add_argument('stage',choices=['ea-initial','ea-fulltext','de','rob','ec','ms'])
     p.add_argument('system',choices=['codex','openhands'])
     p.add_argument('--case',default='all');p.add_argument('--output',type=Path,required=True)
+    p.add_argument('--ec-benchmark', choices=['v2', 'ec-ex80'], default='v2',
+                   help='EC case set (default v2)')
+    p.add_argument('--ec-ex80-data', type=Path, help='Prepared EC-ex80 input bundle (default output/ec-ex80-data)')
     p.add_argument('--model', metavar='MODEL', help=f'Gateway model ID (defaults to {MODEL_ENV})')
     p.add_argument('--response-model', metavar='MODEL', help='Gateway response model ID if different from --model')
     p.add_argument('--image', default=OPENHANDS_IMAGE, help='Local OpenHands Docker image')
     p.add_argument('--codex-command', default='codex', help=f'Path to the Codex {CODEX_VERSION} executable')
     a=p.parse_args(argv);a.output=a.output.resolve()
-    cases={path.name for path in (ROOT/'inputs/cli'/a.stage).iterdir() if path.is_dir()}
+    if a.stage != 'ec' and a.ec_benchmark != 'v2':
+        p.error('--ec-benchmark applies only to EC')
+    if a.ec_ex80_data is not None and a.ec_benchmark != 'ec-ex80':
+        p.error('--ec-ex80-data requires --ec-benchmark ec-ex80')
+    if a.ec_benchmark == 'ec-ex80':
+        from metarigor.evidence_certainty.benchmark_v2.ec_ex80 import DEFAULT_DATA, case_ids, load_bundle
+
+        a.ec_ex80_data = a.ec_ex80_data or DEFAULT_DATA
+        try:
+            load_bundle(a.ec_ex80_data)
+        except (OSError, ValueError) as error:
+            p.error(f'Cannot read prepared EC-ex80 inputs at {a.ec_ex80_data}: {error}')
+        cases = set(case_ids())
+    else:
+        cases={path.name for path in (ROOT/'inputs/cli'/a.stage).iterdir() if path.is_dir()}
     if not cases or (a.case!='all' and a.case not in cases):
         p.error('Unknown or empty case selection. Available: '+', '.join(sorted(cases)))
     check_gateway(p)

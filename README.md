@@ -13,7 +13,7 @@ python -m pip install '.[research]'
 metarigor verify
 ```
 
-`metarigor verify` checks frozen resource hashes, input schemas, and case inventories without a model gateway. A complete package prints `OK: 1443 input/resource hashes`. The same command works from a wheel installed with the `research` extra. For a source checkout, the equivalent is `python verify.py`.
+`metarigor verify` checks frozen resource hashes, input schemas, and case inventories without a model gateway. A complete package prints `OK: 1445 input/resource hashes`. The same command works from a wheel installed with the `research` extra. For a source checkout, the equivalent is `python verify.py`.
 
 ## Reproduce the paper
 
@@ -70,6 +70,20 @@ docker build -t metarigor-openhands-cli:1.16.0-r3 runtime/openhands-cli
 ```
 
 Both baselines use `METARIGOR_MODEL` or `--model`. Set `--response-model` if the gateway returns a different model ID. Use `metarigor baseline --help` for the options. Each case has an `invocation-summary.json` with runtime and failure details. The checkout scripts `python reproduce.py` and `python baseline.py` accept the same arguments as their corresponding commands.
+
+### EC-ex80 extension
+
+EC-ex80 combines the earlier EC-ex20 cohort and 60 additional review-level cases, with one binary outcome per review. Select it with `--ec-benchmark ec-ex80`. The original EC V2 cohort remains the default. EC-ex80 supports `full`, `no-task-contract`, `no-code-logic`, and both CLI baselines. Use `--case` to run a single case or omit it for all 80.
+
+The [case catalog](inputs/ec-ex80/catalog.json) and [scoring labels](references/ec-ex80.json) ship with the code. The source documents have mixed reuse terms, so the prepared input bundle is supplied separately. Use `--ec-ex80-data PATH` to point to the prepared EC-ex80 folder, or place its `plan.json`, `prepared/`, and `inputs/` under `output/ec-ex80-data` in the working directory. The bundle comes from `var/benchmarks/ec-ex80-mr-gpt6-luna-subscription-20261111-r1` in the MetaRigor reference checkout. Validation pins the preparation plan, candidate inputs, and original source hashes. See the catalog for the original cohort and reference hashes.
+
+```bash
+metarigor verify --ec-ex80-data output/ec-ex80-data
+metarigor reproduce ec --ec-benchmark ec-ex80 --case pmc-12960011-ec-ex3 --output runs/ec-ex80-smoke
+python score.py ec-ex80 runs/ec-ex80-smoke/predictions.json
+```
+
+The live commands use the configured gateway. Full and `no-code-logic` export `predictions.json`. For `no-task-contract` or CLI outputs, transcribe the five explicit domain judgments and overall downgrade count into a JSON list with `case_id`, `domains` (an object keyed by domain), and `overall_downgrade_levels` (an integer or null). Keep unavailable judgments missing or null. Scoring always uses 400 domain judgments and 80 cases. MAE uses only explicit valid overall downgrade counts, and the reference labels come from sealed AI adjudication. An isolated case run verifies execution and still scores against the full denominator.
 
 ## CLI
 

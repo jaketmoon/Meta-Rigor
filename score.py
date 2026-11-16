@@ -115,7 +115,7 @@ def ea(rows):
         'companion_count':companions}
 
 def main():
-    p=argparse.ArgumentParser(description=__doc__);p.add_argument('stage',choices=['de','rob','ec','ea']);p.add_argument('predictions',type=Path)
+    p=argparse.ArgumentParser(description=__doc__);p.add_argument('stage',choices=['de','rob','ec','ec-ex80','ea']);p.add_argument('predictions',type=Path)
     p.add_argument('--native-rob',action='store_true',help='Read candidate.json files beneath a fresh ROB output directory')
     a=p.parse_args()
     if a.native_rob:
@@ -127,6 +127,11 @@ def main():
                 rows.append(dict(t,case_id=c['case_id'],answers=answers))
     else:rows=read(a.predictions)
     if not isinstance(rows,list):p.error('Predictions must be a JSON list of aligned records')
-    result=de(rows) if a.stage=='de' else globals()[a.stage](rows)
+    if a.stage == 'ec-ex80':
+        from metarigor.evidence_certainty.benchmark_v2.ec_ex80 import score
+
+        result = score(rows)
+    else:
+        result=de(rows) if a.stage=='de' else globals()[a.stage](rows)
     print(json.dumps(result,ensure_ascii=False,indent=2))
 if __name__=='__main__':main()

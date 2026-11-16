@@ -358,6 +358,7 @@ class _PreparedCandidate:
     evidence_sidecars: tuple[BenchmarkV2EvidenceAnchorSidecar, ...] = ()
     evidence_sidecar_path: str | None = None
     evidence_sidecar_sha256: str | None = None
+    review_sufficiency_contract: tuple[str, str] | None = None
 
 
 @dataclass(frozen=True, slots=True)
@@ -899,10 +900,11 @@ def _deterministic_imprecision(domain_input: V2DomainInput) -> V2DomainAgentOutp
         control_participant_count=effect.control_participant_count,
     )
     evidence_ids = tuple(
-        item.evidence_id for item in domain_input.evidence if item.evidence_id == "effect"
+        item.evidence_id for item in domain_input.evidence
+        if item.evidence_id in {"effect", "selected-effect"}
     )
-    if not evidence_ids:
-        raise ValueError("deterministic imprecision requires the canonical effect evidence")
+    if len(evidence_ids) != 1:
+        raise ValueError("deterministic imprecision requires exactly one canonical effect anchor")
     return V2DomainAgentOutput(
         domain="IMPRECISION",
         judgment=result.judgment,
@@ -1366,6 +1368,9 @@ async def _run_domain(
 ) -> _DomainTerminal:
     semantic = _domain_input(prepared, domain)
     sufficiency = _review_domain_sufficiency(prepared, domain)
+    contract_id, contract_sha256 = prepared.review_sufficiency_contract or (
+        "EC_V2_REVIEW_LEVEL_SUFFICIENCY_V3", REVIEW_SUFFICIENCY_SHA256,
+    )
     stage = f"{_DOMAIN_STAGE_PREFIX}_{domain.lower()}"
     semantic_payload = semantic.model_dump(mode="json")
     deterministic_abstention = (
@@ -1391,8 +1396,8 @@ async def _run_domain(
         },
         "review_sufficiency_binding": (
             {
-                "contract_id": "EC_V2_REVIEW_LEVEL_SUFFICIENCY_V3",
-                "contract_sha256": REVIEW_SUFFICIENCY_SHA256,
+                "contract_id": contract_id,
+                "contract_sha256": contract_sha256,
                 "entry_sha256": _sha256(canonical_json(sufficiency.model_dump(mode="json"))),
                 "domain": sufficiency.domain,
                 "disposition": sufficiency.disposition,
@@ -1410,7 +1415,7 @@ async def _run_domain(
         "execution_contract": (
             {
                 "owner": "DETERMINISTIC_REVIEW_SUFFICIENCY_ABSTENTION",
-                "contract_id": "EC_V2_REVIEW_LEVEL_SUFFICIENCY_V3",
+                "contract_id": contract_id,
             }
             if deterministic_abstention
             else (

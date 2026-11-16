@@ -1,0 +1,886 @@
+{
+  "benchmark": "ec-ex80",
+  "reference_kind": "SEALED_AI_ADJUDICATION",
+  "cases": [
+    {
+      "case_id": "pmc-13287412-sotatercept-who-fc",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-12028552-remimazolam-respiratory-depression",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-12358186-ec-ex2",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-12541855-ec-ex2",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-12279844-ec-ex2",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13513794-ec-ex2",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13229865-ec-ex2",
+      "domains": {
+        "RISK_OF_BIAS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INCONSISTENCY": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-12494503-ec-ex2",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-12374470-ec-ex2",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-12312543-ec-ex2",
+      "domains": {
+        "RISK_OF_BIAS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-12289400-ec-ex2",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-12594780-ec-ex2",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13591805-ec-ex2",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 3
+    },
+    {
+      "case_id": "pmc-13608589-ec-ex2",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "NOT_SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13611371-ec-ex2",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13700451-ec-ex2",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-12778877-ec-ex2",
+      "domains": {
+        "RISK_OF_BIAS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INCONSISTENCY": "SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-12346875-ec-ex2",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-12623144-ec-ex2",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "BORDERLINE_NOT_SERIOUS_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-12542067-ec-ex2",
+      "domains": {
+        "RISK_OF_BIAS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-12908938-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-12960011-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-12992012-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INCONSISTENCY": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-12999590-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13002440-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13014514-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13055524-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13059020-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 3
+    },
+    {
+      "case_id": "pmc-13071367-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13072659-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INCONSISTENCY": "SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13073525-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13073533-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13094063-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13113669-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INCONSISTENCY": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13136402-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13138499-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "NOT_SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 0
+    },
+    {
+      "case_id": "pmc-13156516-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "NOT_SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13163817-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "NOT_SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13215653-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13236339-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13257171-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "NOT_SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 0
+    },
+    {
+      "case_id": "pmc-13264147-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13265653-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INCONSISTENCY": "SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "SERIOUS"
+      },
+      "overall_downgrade_levels": 3
+    },
+    {
+      "case_id": "pmc-13272463-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13278781-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "PUBLICATION_BIAS": "SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13286486-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "SERIOUS"
+      },
+      "overall_downgrade_levels": 3
+    },
+    {
+      "case_id": "pmc-13292675-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13294293-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13318564-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13328200-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 3
+    },
+    {
+      "case_id": "pmc-13333436-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 3
+    },
+    {
+      "case_id": "pmc-13347903-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "NOT_SERIOUS",
+        "PUBLICATION_BIAS": "BORDERLINE_NOT_SERIOUS_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13399242-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13399252-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13399485-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13402018-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "NOT_SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13413132-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13413204-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "NOT_SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13422579-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13427285-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "NOT_SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 0
+    },
+    {
+      "case_id": "pmc-13438215-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13439305-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "NOT_SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 0
+    },
+    {
+      "case_id": "pmc-13459513-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "NOT_SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13465320-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13476533-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13486172-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13491151-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13518020-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 3
+    },
+    {
+      "case_id": "pmc-13526583-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "SERIOUS"
+      },
+      "overall_downgrade_levels": 3
+    },
+    {
+      "case_id": "pmc-13538021-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13541452-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13547470-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13554177-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13565801-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13566465-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13570013-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "NOT_SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13577174-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "SERIOUS",
+        "INCONSISTENCY": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13582080-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 2
+    },
+    {
+      "case_id": "pmc-13582391-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "NOT_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    },
+    {
+      "case_id": "pmc-13603284-ec-ex3",
+      "domains": {
+        "RISK_OF_BIAS": "NOT_SERIOUS",
+        "INCONSISTENCY": "NOT_SERIOUS",
+        "INDIRECTNESS": "BORDERLINE_NOT_SERIOUS_SERIOUS",
+        "IMPRECISION": "SERIOUS",
+        "PUBLICATION_BIAS": "NOT_SERIOUS"
+      },
+      "overall_downgrade_levels": 1
+    }
+  ]
+}
