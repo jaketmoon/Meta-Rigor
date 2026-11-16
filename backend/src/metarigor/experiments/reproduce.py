@@ -126,6 +126,12 @@ async def ec(args):
 
 
 async def run_ec(args, agent, timeout):
+    if args.ec_benchmark == 'ec-ex80':
+        from metarigor.evidence_certainty.benchmark_v2.ec_ex80 import run
+
+        await run(data_root=args.ec_ex80_data, output=args.output, selected_case=args.case,
+                  condition=args.condition, runtime=agent, timeout_seconds=timeout)
+        return
     if args.condition!='no-task-contract':
         from metarigor.evidence_certainty.benchmark_v2.live import run_live_benchmark
         result=await run_live_benchmark(runtime=agent,runs_root=args.output,validation_id='ec-fresh-run',
@@ -342,6 +348,9 @@ def main(argv=None, *, prog=None):
                    help='Send thinking.type=disabled for DE or MS if supported by the gateway')
     p.add_argument('--case',default='all')
     p.add_argument('--phase',choices=['initial','fulltext'],default='initial')
+    p.add_argument('--ec-benchmark', choices=['v2', 'ec-ex80'], default='v2',
+                   help='EC case set (default v2)')
+    p.add_argument('--ec-ex80-data', type=Path, help='Prepared EC-ex80 input bundle (default output/ec-ex80-data)')
     p.add_argument("--ec-timeout", type=int, metavar="SECONDS",
                    help="Per-request EC timeout (1–600, default 300)")
     p.add_argument("--ms-value-slots", choices=["optional", "required"],
@@ -361,7 +370,12 @@ def main(argv=None, *, prog=None):
         p.error("--ec-timeout requires EC and a value between 1 and 600")
     if a.ms_value_slots is not None and (a.stage != "ms" or a.condition != "full"):
         p.error("--ms-value-slots applies only to the full MS condition")
-    if a.stage=='ec' and a.condition!='no-task-contract' and a.case!='all':p.error('EC staged/direct uses the fixed 20-case set')
+    if a.stage != 'ec' and a.ec_benchmark != 'v2':
+        p.error('--ec-benchmark applies only to EC')
+    if a.ec_ex80_data is not None and a.ec_benchmark != 'ec-ex80':
+        p.error('--ec-ex80-data requires --ec-benchmark ec-ex80')
+    if a.stage=='ec' and a.ec_benchmark=='v2' and a.condition!='no-task-contract' and a.case!='all':
+        p.error('EC V2 staged/direct uses the fixed 20-case set')
     from_previous_run = a.stage == 'judge' or (a.stage == 'ms' and a.condition != 'full')
     if from_previous_run:
         if not a.source:p.error('--source is required')
@@ -370,6 +384,15 @@ def main(argv=None, *, prog=None):
             cases={row['case_id'] for row in read(a.source/'execution.json')}
         except (OSError, ValueError, TypeError, KeyError):
             p.error(f'--source must contain an execution.json from a previous MS run: {a.source}')
+    elif a.ec_benchmark == 'ec-ex80':
+        from metarigor.evidence_certainty.benchmark_v2.ec_ex80 import DEFAULT_DATA, case_ids, load_bundle
+
+        a.ec_ex80_data = a.ec_ex80_data or DEFAULT_DATA
+        try:
+            load_bundle(a.ec_ex80_data)
+        except (OSError, ValueError) as error:
+            p.error(f'Cannot read prepared EC-ex80 inputs at {a.ec_ex80_data}: {error}')
+        cases = set(case_ids())
     elif a.stage in ('rob','ec'):
         cases={path.stem for path in json_paths(ROOT/'inputs'/a.stage)}
     else:

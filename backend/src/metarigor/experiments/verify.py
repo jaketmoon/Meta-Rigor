@@ -2,13 +2,16 @@
 import argparse
 import ast
 import hashlib
+from pathlib import Path
 
 from metarigor.research import SOURCE_PACKAGE
 from .reproduce import ROOT, read, json_paths
 
 
 def main(argv=None, *, prog=None):
-    argparse.ArgumentParser(prog=prog, description=__doc__).parse_args(argv)
+    parser = argparse.ArgumentParser(prog=prog, description=__doc__)
+    parser.add_argument('--ec-ex80-data', type=Path, help='Also verify this prepared EC-ex80 input bundle')
+    args = parser.parse_args(argv)
     manifest=read(ROOT/'inputs/checksums.json')
     for relative,expected in manifest.items():
         path=ROOT/relative
@@ -38,5 +41,12 @@ def main(argv=None, *, prog=None):
     assert common==300
     from metarigor.evidence_certainty.benchmark_v2.live import _prepared_candidates
     for staged in (True,False):assert len(_prepared_candidates(include_review_sufficiency=staged))==20
+    from metarigor.evidence_certainty.benchmark_v2 import ec_ex80
+
+    ec_ex80.load_references()
+    if args.ec_ex80_data is not None:
+        source, plan = ec_ex80.load_bundle(args.ec_ex80_data)
+        prepared = ec_ex80.prepare_cases(source, plan, 'all')
+        print(f'OK: EC-ex80 candidate inputs and source bindings for {len(prepared)} cases.')
     print(f'OK: {len(manifest)} input/resource hashes; EA 822/300; DE 405/195/828; ROB 8 cases; EC 20; MS 10. No model calls.')
 if __name__=='__main__':main()
