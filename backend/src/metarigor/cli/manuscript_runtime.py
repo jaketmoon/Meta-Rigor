@@ -3,13 +3,12 @@ from __future__ import annotations
 from typing import Literal
 from metarigor.adapters.agent_runtime.schema_agent import OpenAICompatibleJsonSchemaAgent, RoleRoutedSchemaAgent
 from metarigor.config import get_settings
-MODEL = "deepseek-v4-flash"
 
 
 def manuscript_runtime(
     *,
     include_adjudicator: bool = False,
-    writer_model: str = MODEL,
+    writer_model: str,
     explicit_disable_thinking: bool = False,
     adjudicator_disable_thinking: bool = False,
     adjudicator_thinking: Literal["enabled", "disabled"] | None = None,
@@ -25,7 +24,7 @@ def manuscript_runtime(
     common = {
         "api_key": settings.agent_gateway_api_key.get_secret_value(),
         "base_url": settings.agent_gateway_base_url,
-        "model": MODEL,
+        "model": writer_model,
         "timeout_seconds": settings.agent_call_timeout_seconds,
         "temperature": 0,
         "max_output_tokens": 12_000,
@@ -35,13 +34,13 @@ def manuscript_runtime(
             role="worker",
             structured_output_mode="json_text",
             disable_thinking=explicit_disable_thinking,
-            **{**common, "model": writer_model},
+            **common,
         ),
         reviewer=OpenAICompatibleJsonSchemaAgent(
             role="reviewer",
             structured_output_mode="json_text",
             disable_thinking=explicit_disable_thinking,
-            **{**common, "model": writer_model},
+            **common,
         ),
         adjudicator=(
             OpenAICompatibleJsonSchemaAgent(

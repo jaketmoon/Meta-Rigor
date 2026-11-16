@@ -409,7 +409,7 @@ class PublicationManuscriptJudge:
                 "writer_projection_sha256": candidate.projection_sha256,
                 "claim_lineage_sha256": candidate.lineage_sha256,
                 "criterion_id": criterion,
-                "model": "deepseek-v4-flash",
+                "model": self.agent.binding("adjudicator").get("model"),
                 "temperature": 0,
                 "retry_policy": "NONE",
                 "tools": [],

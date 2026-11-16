@@ -92,6 +92,7 @@ class DirectSchemaAgent:
         reviewer_model: str,
         timeout_seconds: float = 120,
         max_output_tokens: int = 8_192,
+        provider_schema: bool = True,
         transport: httpx.AsyncBaseTransport | None = None,
     ) -> None:
         if not api_key or not worker_model or not reviewer_model:
@@ -105,6 +106,7 @@ class DirectSchemaAgent:
         self._models = {"worker": worker_model, "reviewer": reviewer_model}
         self._timeout_seconds = timeout_seconds
         self._max_output_tokens = max_output_tokens
+        self._provider_schema = provider_schema
         self._client = httpx.AsyncClient(
             base_url=self._base_url,
             headers={"Authorization": f"Bearer {api_key}"},
@@ -124,8 +126,8 @@ class DirectSchemaAgent:
             "max_turns": 1,
             "timeout_seconds": self._timeout_seconds,
             "max_output_tokens": self._max_output_tokens,
-            "structured_output_mode": "provider_json_schema",
-            "provider_schema_enforcement": True,
+            "structured_output_mode": "provider_json_schema" if self._provider_schema else "json_text",
+            "provider_schema_enforcement": self._provider_schema,
             "local_schema_validation": "jsonschema-draft-2020-12",
             "automatic_retry_count": 0,
             "transport_retry_count": 0,
@@ -137,41 +139,38 @@ class DirectSchemaAgent:
 
     async def invoke(self, request: SchemaAgentRequest) -> SchemaAgentResult:
         Draft202012Validator.check_schema(request.output_schema)
-        system_prompt = request.prompt
-        if request.skill_text:
-            system_prompt += "\n\nFollow this versioned Skill exactly:\n\n" + request.skill_text
-        system_prompt += "\n\nReturn exactly one JSON object matching the supplied response format."
-        schema_name = re.sub(r"[^a-zA-Z0-9_-]", "_", request.template_id)[:64] or "output"
-        try:
-            response = await self._client.post(
-                "chat/completions",
-                json={
-                    "model": self._models[request.model_role],
-                    "messages": [
-                        {"role": "system", "content": system_prompt},
-                        {
-                            "role": "user",
-                            "content": json.dumps(
-                                request.input_payload,
-                                ensure_ascii=False,
-                                sort_keys=True,
-                                separators=(",", ":"),
-                            ),
-                        },
-                    ],
-                    "temperature": 0,
-                    "top_p": 1,
-                    "max_tokens": self._max_output_tokens,
-                    "response_format": {
-                        "type": "json_schema",
-                        "json_schema": {
-                            "name": schema_name,
-                            "strict": True,
-                            "schema": request.output_schema,
-                        },
-                    },
+        mode = "provider_json_schema" if self._provider_schema else "json_text"
+        system_prompt = schema_agent_system_prompt(
+            prompt=request.prompt,
+            skill_text=request.skill_text,
+            output_schema=request.output_schema,
+            structured_output_mode=mode,
+        )
+        if self._provider_schema:
+            system_prompt += "\n\nReturn exactly one JSON object matching the supplied response format."
+        body = {
+            "model": self._models[request.model_role],
+            "messages": [
+                {"role": "system", "content": system_prompt},
+                {
+                    "role": "user",
+                    "content": json.dumps(
+                        request.input_payload, ensure_ascii=False, sort_keys=True, separators=(",", ":"),
+                    ),
                 },
-            )
+            ],
+            "temperature": 0,
+            "top_p": 1,
+            "max_tokens": self._max_output_tokens,
+        }
+        if self._provider_schema:
+            schema_name = re.sub(r"[^a-zA-Z0-9_-]", "_", request.template_id)[:64] or "output"
+            body["response_format"] = {
+                "type": "json_schema",
+                "json_schema": {"name": schema_name, "strict": True, "schema": request.output_schema},
+            }
+        try:
+            response = await self._client.post("chat/completions", json=body)
         except httpx.TimeoutException as error:
             raise ValueError(
                 f"Direct Schema Agent exceeded {self._timeout_seconds:g}s timeout"
@@ -524,10 +523,10 @@ class OpenAICompatibleJsonSchemaAgent:
             raise ValueError("Use only one explicit thinking control")
         if (disable_thinking or thinking == "disabled") and reasoning_effort is not None:
             raise ValueError("Explicit thinking disable contradicts reasoning_effort")
-        normalized = normalize_sdk_base_url(base_url)
-        self._endpoint = normalized.rstrip("/") + "/v1/chat/completions"
+        normalized = normalize_openai_base_url(base_url)
+        self._endpoint = normalized + "chat/completions"
         self._api_key = api_key
-        self._base_url = normalized.rstrip("/") + "/v1"
+        self._base_url = normalized.rstrip("/")
         self._model = model
         self._role = role
         self._timeout_seconds = timeout_seconds

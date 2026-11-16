@@ -8,8 +8,6 @@ class Settings(BaseModel):
     runs_root: Path = Path("output")
     agent_gateway_base_url: str | None = None
     agent_gateway_api_key: SecretStr | None = None
-    evidence_fast_model: str = "deepseek-v4-flash"
-    evidence_deep_model: str = "deepseek-v4-flash"
     agent_call_timeout_seconds: float = 300
     agent_call_max_turns: int = 3
     agent_structured_output_mode: str = "json_text"

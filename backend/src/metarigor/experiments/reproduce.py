@@ -13,6 +13,14 @@ from urllib.parse import urlsplit
 
 from metarigor.research import RESEARCH_ROOT as ROOT
 
+MODEL_ENV = "METARIGOR_MODEL"
+
+
+def configured_model(value):
+    if value is None:
+        value = os.environ.get(MODEL_ENV, os.environ.get("METARIGOR_DEEPSEEK_MODEL", ""))
+    return value.strip() or None
+
 
 def check_gateway(parser):
     missing = [
@@ -53,20 +61,22 @@ def binding(path):
     from metarigor.manuscript.publication_models import BoundInput
     return BoundInput(input_path=str(path.resolve()), expected_sha256=hashlib.sha256(path.read_bytes()).hexdigest())
 
-def runtime(role='worker', model='deepseek-v4-flash', **kwargs):
+def runtime(*, model, role='worker', timeout_seconds=300, **kwargs):
     from metarigor.adapters.agent_runtime.schema_agent import OpenAICompatibleJsonSchemaAgent
     return OpenAICompatibleJsonSchemaAgent(api_key=os.environ['METARIGOR_AGENT_GATEWAY_API_KEY'],
         base_url=os.environ['METARIGOR_AGENT_GATEWAY_BASE_URL'], model=model, role=role,
-        temperature=0, timeout_seconds=300, **kwargs)
+        temperature=0, timeout_seconds=timeout_seconds, **kwargs)
 
 async def de(args):
     from metarigor.data_extraction.reference_kernel.executor import DeepSeekFlashExecutor
     from metarigor.data_extraction.natural_optimization.mechanism import bind_citations, SELECTION_INSTRUCTION
     paths=[p/'source_citations_selection.json' for p in sorted((ROOT/'inputs/de').iterdir())]
     condition='source_citations_selection' if args.condition=='full' else 'source_citations'
+    model = args.model
     executor=DeepSeekFlashExecutor(base_url=os.environ['METARIGOR_AGENT_GATEWAY_BASE_URL'],
-        api_key=os.environ['METARIGOR_AGENT_GATEWAY_API_KEY'], timeout_seconds=1800, thinking_mode="provider_default",
-        model_id='deepseek-v4-flash')
+        api_key=os.environ['METARIGOR_AGENT_GATEWAY_API_KEY'], timeout_seconds=1800,
+        thinking_mode="disabled" if args.disable_thinking else "provider_default",
+        model_id=model, response_model=args.response_model)
     limiter=asyncio.Semaphore(4)
     async def one(path):
         cid=path.parent.name
@@ -84,9 +94,10 @@ async def de(args):
                     if hashlib.sha256(text).hexdigest()!=v['view_sha256'] or text.decode()[v['start_char']:v['end_char']]!=v['quote']:
                         raise ValueError('source citation hash/offset mismatch')
                 save(args.output/(cid+'.json'),{'case_id':cid,'condition':condition,'candidate':r.content,
+                    'requested_model':r.requested_model,'response_model':r.provider_model,
                     'finish_reason':r.finish_reason,'citations':bound, 'status':'COMPLETED_WITH_ISSUES' if r.finish_reason not in (None,'stop') or bound['issues'] else 'COMPLETE'})
             except Exception as error:
-                save(args.output/(cid+'.json'),{'case_id':cid,'status':'FAILED','error':str(error)})
+                save(args.output/(cid+'.json'),{'case_id':cid,'requested_model':model,'status':'FAILED','error':str(error)})
                 return cid
     try:return [cid for cid in await asyncio.gather(*(one(p) for p in paths)) if cid is not None]
     finally:await executor.aclose()
@@ -94,8 +105,8 @@ async def de(args):
 async def rob(args):
     from metarigor.rob_reproduction import run_case, MeasuredDirectAgent
     agent=MeasuredDirectAgent(api_key=os.environ['METARIGOR_AGENT_GATEWAY_API_KEY'],
-        base_url=os.environ['METARIGOR_AGENT_GATEWAY_BASE_URL'],worker_model='deepseek-v4-flash',
-        reviewer_model='deepseek-v4-flash',timeout_seconds=300)
+        base_url=os.environ['METARIGOR_AGENT_GATEWAY_BASE_URL'],worker_model=args.model,
+        reviewer_model=args.model,timeout_seconds=300, provider_schema=args.structured_output != 'prompt')
     arm={'full':'full','no-task-contract':'minus_decomposition','no-code-logic':'minus_programmatic_decision'}[args.condition]
     limiter=asyncio.Semaphore(4)
     try:
@@ -105,48 +116,43 @@ async def rob(args):
     finally:await agent.aclose()
 
 async def ec(args):
+    timeout = getattr(args, "ec_timeout", None) or 300
+    mode = "json_text" if args.structured_output == "prompt" else "provider_json_schema_prompt"
+    agent = runtime(model=args.model, timeout_seconds=timeout, structured_output_mode=mode)
+    try:
+        await run_ec(args, agent, timeout)
+    finally:
+        await agent.aclose()
+
+
+async def run_ec(args, agent, timeout):
     if args.condition!='no-task-contract':
         from metarigor.evidence_certainty.benchmark_v2.live import run_live_benchmark
-        agent=runtime(structured_output_mode='provider_json_schema_prompt')
-        try:
-            result=await run_live_benchmark(runtime=agent,runs_root=args.output,validation_id='ec-fresh-run',
-                mechanism='domain_aggregate' if args.condition=='full' else 'direct')
-            save(args.output/'execution.json',result.model_dump(mode='json'))
-        finally:await agent.aclose()
+        result=await run_live_benchmark(runtime=agent,runs_root=args.output,validation_id='ec-fresh-run',
+            mechanism='domain_aggregate' if args.condition=='full' else 'direct')
+        save(args.output/'execution.json',result.model_dump(mode='json'))
         return
-    from dataclasses import asdict
-    from metarigor.evidence_certainty.benchmark_v2.task_contract_ablation import PROMPT, FINAL_PROMPT, InitialEnvelope, FinalEnvelope
-    from metarigor.evidence_certainty.rules import binary_imprecision_decision
-    from metarigor.schema_agent import SchemaAgentRequest
-    agent=runtime(structured_output_mode='provider_json_schema_prompt')
-    skill=(ROOT/'inputs/ec/methods.txt').read_text()
-    limiter=asyncio.Semaphore(4)
-    async def one(p):
-        inp=read(p);log=[]
-        async def call(prompt,payload,model):
-            async with limiter:
-                r=await agent.invoke(SchemaAgentRequest(template_id='ec-task-contract-ablation',model_role='worker',
-                    prompt=prompt,input_payload=payload,output_schema=model.model_json_schema(),skill_text=skill))
-            log.append({'input':payload,'output':r.payload,'raw':r.raw_model_output});return model.model_validate(r.payload)
-        try:
-            first=await call(PROMPT,inp,InitialEnvelope);answer=first.answer
-            if first.calculator is not None:
-                calc={'result':asdict(binary_imprecision_decision(**first.calculator.model_dump()))}
-                log.append({'calculator':calc})
-                final=await call(FINAL_PROMPT,{**inp,'provisional_report':answer,
-                    'calculator_arguments':first.calculator.model_dump(),'calculator_result':calc},FinalEnvelope)
-                answer=final.answer
-            save(args.output/(p.stem+'.json'),{'case_id':p.stem,'answer':answer,'trace':log})
-        except Exception as error:save(args.output/(p.stem+'.json'),{'case_id':p.stem,'status':'FAILED','error':str(error),'trace':log})
-    try:await asyncio.gather(*(one(p) for p in json_paths(ROOT/'inputs/ec') if args.case in ('all',p.stem)))
-    finally:await agent.aclose()
+
+    from metarigor.evidence_certainty.benchmark_v2.task_contract_ablation import run_case
+
+    skill = (ROOT / "inputs/ec/methods.txt").read_text(encoding="utf-8")
+    limiter = asyncio.Semaphore(4)
+
+    async def one(path):
+        result = await run_case(
+            output=args.output, case_id=path.stem, request=read(path), skill=skill,
+            runtime=agent, limiter=limiter, timeout_seconds=timeout,
+        )
+        save(args.output / f"{path.stem}.json", result)
+
+    await asyncio.gather(*(one(p) for p in json_paths(ROOT / "inputs/ec") if args.case in ("all", p.stem)))
 
 async def ms(args):
     from metarigor.manuscript.publication_pipeline import LocalManuscriptV2Pipeline
     from metarigor.manuscript.publication_models import ManuscriptRunRequestV2
     from metarigor.manuscript.journal_profiles import profile_path
     from metarigor.cli.manuscript_runtime import manuscript_runtime
-    agent=manuscript_runtime(include_adjudicator=True,explicit_disable_thinking=True,
+    agent=manuscript_runtime(include_adjudicator=True,explicit_disable_thinking=args.disable_thinking,writer_model=args.model,
         adjudicator_structured_output_mode='text_wrapped')
     limiter=asyncio.Semaphore(4)
     rows=[]
@@ -156,6 +162,7 @@ async def ms(args):
             req=ManuscriptRunRequestV2(schema_version='manuscript-run-request.v2',run_id=str(uuid4()),
                 fact_package=binding(p/'fact-package.json'),journal_profile=binding(profile_path('generic_prisma_2020_meta_analysis_v2')),
                 profile_id='generic_prisma_2020_meta_analysis_v2',writer_mode='LLM',
+                value_slots_required=getattr(args, "ms_value_slots", None) == "required",
                 reference_package=binding(p/'source-fact-package.json'),input_curation=binding(p/'input-curation-audit.json'))
             pipe=LocalManuscriptV2Pipeline.create(root=args.output,request=req,agent_runtime=agent,model_call_limiter=limiter)
             result=await pipe.run();rows.append({'case_id':p.name,'run_root':str(result.run_root),'status':str(result.status)})
@@ -174,7 +181,7 @@ async def ms_ablation(args):
         full[row['case_id']]=({**row,'run_id':candidate.run_id},candidate)
     condition={'no-task-contract':'NO_TASKCONTRACT_DECOMPOSITION',
         'no-code-logic':'NO_PROGRAM_MODEL_RESPONSIBILITY_SPLIT'}[args.condition]
-    agent=_worker_runtime(disable_thinking=True)
+    agent=_worker_runtime(disable_thinking=args.disable_thinking, model=args.model)
     try:
         target,manifest=initialize_ablation(args.output,condition,full,agent)
         rows=[]
@@ -188,9 +195,12 @@ async def ms_ablation(args):
 async def judge(args):
     from metarigor.manuscript.publication_judge import PublicationManuscriptJudge
     from metarigor.adapters.agent_runtime.schema_agent import RoleRoutedSchemaAgent
-    model=args.judge_model
-    judge_agent=runtime(role='adjudicator',model=model,max_output_tokens=32768 if model.startswith('gpt') else 12000,
-        structured_output_mode='provider_json_object' if model.startswith('gpt') else 'text_wrapped')
+    structured = args.judge_format == 'structured'
+    mode = 'text_wrapped'
+    if structured:
+        mode = 'json_text' if args.structured_output == 'prompt' else 'provider_json_object'
+    judge_agent=runtime(role='adjudicator',model=args.model,max_output_tokens=32768 if structured else 12000,
+        structured_output_mode=mode)
     agent=RoleRoutedSchemaAgent(worker=judge_agent,reviewer=judge_agent,adjudicator=judge_agent)
     try:
         rows=[]
@@ -198,7 +208,7 @@ async def judge(args):
             if args.case not in ('all',row['case_id']):continue
             result=await PublicationManuscriptJudge(candidate_root=Path(row['run_root']),
                 validation_root=args.output/row['case_id'],agent_runtime=agent,score_mode=True,
-                structured_score=model.startswith('gpt'),array_score=model.startswith('gpt')).run()
+                structured_score=structured,array_score=structured).run()
             rows.append({'case_id':row['case_id'],'weighted_score':result.weighted_score,'status':result.status,
                 'report_path':str(result.report_path)})
         save(args.output/'scores.json',rows)
@@ -209,31 +219,46 @@ async def ea(args):
     from metarigor.adapters.agent_runtime.schema_agent import ClaudeSchemaAgent
     from metarigor.schema_agent import SchemaAgentRequest
     from metarigor.local_run import RunFolder
-    agents={
-      'FAST':ClaudeSchemaAgent(api_key=os.environ['METARIGOR_AGENT_GATEWAY_API_KEY'],base_url=os.environ['METARIGOR_AGENT_GATEWAY_BASE_URL'],
-          worker_model='deepseek-v4-flash',reviewer_model='deepseek-v4-flash',timeout_seconds=300,max_turns=3,structured_output_mode='json_text'),
-      'DEEP':runtime(role='reviewer',model='gpt-5.6-luna',structured_output_mode='provider_json_schema'),
-      'ADJUDICATOR':runtime(role='adjudicator',model='gpt-5.6-terra',reasoning_effort='high',structured_output_mode='provider_json_schema')}
-    if args.condition=='dual-deepseek':
-        for role in ['DEEP','ADJUDICATOR']:
-            await agents[role].aclose()
-            agents[role]=ClaudeSchemaAgent(api_key=os.environ['METARIGOR_AGENT_GATEWAY_API_KEY'],base_url=os.environ['METARIGOR_AGENT_GATEWAY_BASE_URL'],
-                worker_model='deepseek-v4-flash',reviewer_model='deepseek-v4-flash',timeout_seconds=300,max_turns=3,structured_output_mode='json_text')
+    def messages_agent(model):
+        return ClaudeSchemaAgent(
+            api_key=os.environ['METARIGOR_AGENT_GATEWAY_API_KEY'],
+            base_url=os.environ['METARIGOR_AGENT_GATEWAY_BASE_URL'],
+            worker_model=model, reviewer_model=model,
+            timeout_seconds=300, max_turns=3, structured_output_mode='json_text',
+        )
+
+    agents = {}
+    model_roles = {'FAST': 'worker', 'DEEP': 'reviewer', 'ADJUDICATOR': 'adjudicator'}
+    paper_transport = args.ea_transport != 'chat'
+    for role, model in args.ea_models.items():
+        if paper_transport and (role == 'FAST' or args.condition == 'dual-deepseek'):
+            agents[role] = messages_agent(model)
+            if role == 'ADJUDICATOR':
+                model_roles[role] = 'worker'
+            continue
+        mode = 'provider_json_schema'
+        if role == 'FAST' or args.structured_output == 'prompt' or args.condition == 'dual-deepseek':
+            mode = 'json_text'
+        agents[role] = runtime(
+            model=model, role=model_roles[role], structured_output_mode=mode,
+            reasoning_effort='high' if paper_transport and role == 'ADJUDICATOR' else None,
+        )
     limiter=asyncio.Semaphore(8)
-    roles=('FAST',) if args.condition=='no-deep' else ('DEEP',) if args.condition=='no-fast' else ('FAST','DEEP')
+    roles = args.ea_roles
     async def invoke(task,role,folder,ground):
-        model_role={'FAST':'worker','DEEP':'reviewer','ADJUDICATOR':'adjudicator'}[role]
-        if args.condition=='dual-deepseek' and role=='ADJUDICATOR':model_role='worker'
+        model_role = model_roles[role]
+        agent = agents[role]
+        requested_model = agent.binding(model_role)['model']
         try:
             async with limiter:
-                result=await agents[role].invoke(SchemaAgentRequest(template_id=task['template_id'],model_role=model_role,
+                result=await agent.invoke(SchemaAgentRequest(template_id=task['template_id'],model_role=model_role,
                     prompt=task['prompt'],input_payload=task['semantic_input'],output_schema=task['output_schema'],skill_text=task['skill_text']))
             value=result.payload
             if ground:
                 spans=ground_output(value,task,folder)
                 value={**value,'supporting_refs':value['supporting_source_refs'],'grounding_status':'RESOLVED','source_spans':spans}
-            return value
-        except Exception as error:return {'status':'FAILED','error':str(error)}
+            return {**value, 'requested_model': requested_model}
+        except Exception as error:return {'status':'FAILED','requested_model':requested_model,'error':str(error)}
     try:
         for directory in sorted((ROOT/'inputs/ea').iterdir()):
             if args.case not in ('all',directory.name):continue
@@ -243,7 +268,7 @@ async def ea(args):
                     values=dict(zip(roles,await asyncio.gather(*(invoke(tasks[r],r,folder,False) for r in roles))))
                     # Dual DeepSeek changes the model backend only; its screening
                     # decision must follow the Full condition exactly.
-                    retained=all(v.get('decision')=='INCLUDE' for v in values.values())
+                    retained=all(v.get('decision')=='INCLUDE_FOR_FULL_TEXT' for v in values.values())
                     return {'record_id':item,'retained':retained,'assessments':values}
                 rows=await asyncio.gather(*(one(k,v) for k,v in read(directory/'initial.json').items()))
             else:
@@ -271,20 +296,71 @@ async def ea(args):
         for a in agents.values():await a.aclose()
 
 
+def configure_models(parser, args):
+    common_model = configured_model(args.model)
+    if args.stage == 'ea':
+        args.ea_roles = {
+            'no-deep': ('FAST',), 'no-fast': ('DEEP',),
+        }.get(args.condition, ('FAST', 'DEEP'))
+        active_roles = args.ea_roles
+        if len(active_roles) == 2 and args.phase == 'fulltext':
+            active_roles += ('ADJUDICATOR',)
+        args.ea_models = {}
+        for role in active_roles:
+            option = f'ea_{role.lower()}_model'
+            model = (getattr(args, option) or '').strip() or common_model
+            if not model:
+                parser.error(f"Set {MODEL_ENV}, --model, or --{option.replace('_', '-')} for EA {role}.")
+            args.ea_models[role] = model
+        return
+
+    judge_model = (args.judge_model or '').strip() if args.stage == 'judge' else ''
+    args.model = judge_model or common_model
+    if not args.model:
+        parser.error(f"Set {MODEL_ENV} or pass --model with a model ID from your gateway.")
+
+
 def main(argv=None, *, prog=None):
     p=argparse.ArgumentParser(prog=prog, description=__doc__)
     p.add_argument('stage',choices=['de','rob','ec','ms','ea','judge'])
     p.add_argument('--condition',default='full')
     p.add_argument('--source',type=Path,help='Fresh Full MS output, or the MS output to judge')
-    p.add_argument('--judge-model',choices=['deepseek-v4-flash','gpt-5.6-luna'],default='deepseek-v4-flash')
+    p.add_argument('--model', '--deepseek-model', metavar='MODEL',
+                   help=f'Shared gateway model ID (defaults to {MODEL_ENV})')
+    p.add_argument('--judge-model', metavar='MODEL', help='Optional Judge model ID')
+    p.add_argument('--judge-format', choices=['text', 'structured'], default='text',
+                   help='Judge response format (default text)')
+    p.add_argument('--ea-fast-model', metavar='MODEL', help='Optional EA FAST model ID')
+    p.add_argument('--ea-deep-model', metavar='MODEL', help='Optional EA DEEP model ID')
+    p.add_argument('--ea-adjudicator-model', metavar='MODEL', help='Optional EA full-text adjudicator model ID')
+    p.add_argument('--ea-transport', choices=['paper', 'chat'], default='paper',
+                   help='EA paper transports or Chat Completions for every role')
+    p.add_argument('--structured-output', choices=['provider', 'prompt'], default='provider',
+                   help='Request native structured output or prompt for locally validated JSON')
+    p.add_argument('--response-model', metavar='MODEL', help='Optional exact DE response model ID')
+    p.add_argument('--disable-thinking', action='store_true',
+                   help='Send thinking.type=disabled for DE or MS if supported by the gateway')
     p.add_argument('--case',default='all')
     p.add_argument('--phase',choices=['initial','fulltext'],default='initial')
+    p.add_argument("--ec-timeout", type=int, metavar="SECONDS",
+                   help="Per-request EC timeout (1–600, default 300)")
+    p.add_argument("--ms-value-slots", choices=["optional", "required"],
+                   help="Full MS prose policy (default optional)")
     p.add_argument('--output',required=True,type=Path)
     a=p.parse_args(argv)
     allowed={'de':['full','no-task-contract'],'rob':['full','no-task-contract','no-code-logic'],
         'ec':['full','no-task-contract','no-code-logic'],'ms':['full','no-task-contract','no-code-logic'],'judge':['full'],
         'ea':['full','no-fast','no-deep','dual-deepseek']}
     if a.condition not in allowed[a.stage]:p.error(f'{a.stage} conditions: {allowed[a.stage]}')
+    if a.response_model is not None and a.stage != 'de':
+        p.error('--response-model applies only to DE')
+    a.response_model = (a.response_model or '').strip() or None
+    if a.disable_thinking and a.stage not in {'de', 'ms'}:
+        p.error('--disable-thinking applies only to DE or MS')
+    if a.ec_timeout is not None and (a.stage != "ec" or not 1 <= a.ec_timeout <= 600):
+        p.error("--ec-timeout requires EC and a value between 1 and 600")
+    if a.ms_value_slots is not None and (a.stage != "ms" or a.condition != "full"):
+        p.error("--ms-value-slots applies only to the full MS condition")
     if a.stage=='ec' and a.condition!='no-task-contract' and a.case!='all':p.error('EC staged/direct uses the fixed 20-case set')
     from_previous_run = a.stage == 'judge' or (a.stage == 'ms' and a.condition != 'full')
     if from_previous_run:
@@ -301,6 +377,7 @@ def main(argv=None, *, prog=None):
     if not cases or (a.case!='all' and a.case not in cases):
         p.error('Unknown or empty case selection. Available: '+', '.join(sorted(cases)))
     check_gateway(p)
+    configure_models(p, a)
     a.output=a.output.resolve()
     try:
         a.output.mkdir(parents=True,exist_ok=False)

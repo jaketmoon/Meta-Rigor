@@ -17,23 +17,16 @@ metarigor verify
 
 ## Reproduce the paper
 
-The live experiments need a gateway account with access to the models used in the selected condition. Set the base URL to the gateway API root, normally ending in `/v1`. Enter the key locally and keep it out of the repository.
+Fill in the API base URL and a model ID from your provider. Use the API base URL that precedes `/chat/completions`, including its version or routing prefix if needed. Enter the key at the prompt.
 
 ```bash
-export METARIGOR_AGENT_GATEWAY_BASE_URL='https://your-gateway.example/v1'
+export METARIGOR_AGENT_GATEWAY_BASE_URL=''
+export METARIGOR_MODEL=''
 read -r -s METARIGOR_AGENT_GATEWAY_API_KEY
 export METARIGOR_AGENT_GATEWAY_API_KEY
 ```
 
-To run one Data Extraction (DE) case, use a fresh output directory:
-
-```bash
-metarigor reproduce de --case song-2025 --output output/de-song
-```
-
-This sends the frozen case to `deepseek-v4-flash` through an OpenAI-compatible Chat Completions endpoint. The result is `output/de-song/song-2025.json`, with the model's candidate text, citation checks, and a status. Inspect the status before using the result. This run uses the gateway account's quota.
-
-The runner also accepts the following stages. Each run needs a new `--output` directory. Use `metarigor reproduce --help` for the options.
+`METARIGOR_MODEL` supplies the model for both `reproduce` and `baseline`. Pass `--model` to select another model for one run. Each run needs a new `--output` directory.
 
 | Stage | Conditions and inputs |
 | --- | --- |
@@ -42,9 +35,21 @@ The runner also accepts the following stages. Each run needs a new `--output` di
 | `rob` (Risk of Bias) | `full`, `no-task-contract`, `no-code-logic`. |
 | `ec` (Evidence Certainty) | `full`, `no-task-contract`, `no-code-logic`. The full and no-code-logic conditions use the fixed 20-case set. |
 | `ms` (Manuscript) | `full`, `no-task-contract`, `no-code-logic`. The latter two require `--source` pointing to a previous full MS output directory. |
-| `judge` (Manuscript evaluation) | Requires `--source` pointing to the MS output directory. See `--judge-model`. |
+| `judge` (Manuscript evaluation) | Requires `--source` pointing to the MS output directory. Use `--judge-model` to override the shared model and `--judge-format structured` to request structured scores. |
 
-The Chat Completions routes must support the structured output modes used by the selected stage. For EA, the FAST assessor uses the Claude Agent SDK and an Anthropic-compatible Messages route at the same gateway. Standard EA uses `gpt-5.6-luna` for DEEP and `gpt-5.6-terra` for adjudication. The `dual-deepseek` condition uses `deepseek-v4-flash` via the Claude Agent SDK.
+EA uses the paper's transports by default. FAST uses the Anthropic-compatible Messages API through the Claude Agent SDK, DEEP and adjudication use Chat Completions, and `dual-deepseek` uses Messages for all roles. Use `--ea-fast-model`, `--ea-deep-model`, and `--ea-adjudicator-model` if the roles need different model IDs. For providers that offer Chat Completions only, use `--ea-transport chat`. If the provider lacks native structured output, add `--structured-output prompt` for EA, RoB, EC, or a structured Judge. Outputs still undergo local schema validation.
+
+```bash
+metarigor reproduce ea --case turalde-mapili-2023 --ea-transport chat --structured-output prompt --output runs/ea
+```
+
+DE records both the requested and returned model IDs. Pass `--response-model` to require an exact return ID. For DE or MS, `--disable-thinking` sends the corresponding optional request parameter when your provider supports it. Use the model roles and transport settings reported in the paper for comparisons with its results.
+
+EC's no-task-contract condition saves the first response, the calculator result, and the final request as separate stages under `cases/`. The deadline applies separately to each request. If final writing times out, the provisional report remains available and the result has no final `answer`.
+
+Full MS uses optional value slots by default, as in the reference implementation. The verifier still checks Fact identifiers, placement, and required coverage. Directly written values remain subject to semantic review. Use `--ms-value-slots required` to run with the historical strict slot policy.
+
+The EC stage layout and MS slot policy are adapted from the local MetaRigor reference checkout at `28863d22` (including the checkout's MS schema capacity adjustments). The relevant files are `backend/src/metarigor/evidence_certainty/benchmark_v2/task_contract_ablation.py` and `backend/src/metarigor/manuscript/publication_writing.py`.
 
 ### Run the CLI baselines
 
@@ -54,19 +59,17 @@ The Codex baseline requires Codex CLI `0.142.4` and a gateway that serves the Re
 npm install --prefix .venv/codex-baseline @openai/codex@0.142.4
 codex_binary=$(find .venv/codex-baseline/node_modules/@openai -type f -path '*/vendor/*/bin/codex')
 "$codex_binary" --version
-metarigor baseline de codex --case song-2025 \
-  --codex-command "$codex_binary" \
-  --output output/codex-de-song
 ```
+
+Pass the binary path with `--codex-command`.
 
 For OpenHands, start Docker and build the image from the supplied runtime directory in the source checkout. The image uses OpenHands `1.16.0` and the gateway must serve Chat Completions.
 
 ```bash
 docker build -t metarigor-openhands-cli:1.16.0-r3 runtime/openhands-cli
-metarigor baseline de openhands --case song-2025 --output output/openhands-de-song
 ```
 
-Both baselines default to `deepseek-v4-flash`. Set `--response-model` if the gateway returns a different identifier for the requested model. Each case has an `invocation-summary.json` with runtime and failure details. The checkout scripts `python reproduce.py` and `python baseline.py` accept the same arguments as their corresponding commands.
+Both baselines use `METARIGOR_MODEL` or `--model`. Set `--response-model` if the gateway returns a different model ID. Use `metarigor baseline --help` for the options. Each case has an `invocation-summary.json` with runtime and failure details. The checkout scripts `python reproduce.py` and `python baseline.py` accept the same arguments as their corresponding commands.
 
 ## CLI
 

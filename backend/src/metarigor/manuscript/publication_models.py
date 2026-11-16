@@ -923,6 +923,7 @@ class ManuscriptRunRequestV2(ManuscriptModel):
     profile_id: Identifier
     journal_profile: BoundInput
     writer_mode: Literal["DETERMINISTIC", "LLM"] = "DETERMINISTIC"
+    value_slots_required: bool = True
     reference_package: BoundInput | None = None
     input_curation: BoundInput | None = None
 

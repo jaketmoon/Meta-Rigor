@@ -2,7 +2,7 @@
 from __future__ import annotations
 import argparse, asyncio, hashlib, json, os, shlex, shutil, subprocess
 from pathlib import Path
-from .reproduce import ROOT, check_gateway
+from .reproduce import MODEL_ENV, ROOT, check_gateway, configured_model
 from metarigor.manuscript.ms_codex_natural_output import CodexManuscriptNaturalOutputExecutor
 from metarigor.data_extraction.experiment_v5.openhands_cli import _execute_case_sync
 from metarigor.data_extraction.experiment_v3.codex_cli_v3_proxy import LoopbackResponsesProxy
@@ -154,8 +154,8 @@ def main(argv=None, *, prog=None):
     p.add_argument('stage',choices=['ea-initial','ea-fulltext','de','rob','ec','ms'])
     p.add_argument('system',choices=['codex','openhands'])
     p.add_argument('--case',default='all');p.add_argument('--output',type=Path,required=True)
-    p.add_argument('--model',default='deepseek-v4-flash')
-    p.add_argument('--response-model',default='deepseek-v4-flash',help='Actual response model identifier returned by your gateway')
+    p.add_argument('--model', metavar='MODEL', help=f'Gateway model ID (defaults to {MODEL_ENV})')
+    p.add_argument('--response-model', metavar='MODEL', help='Gateway response model ID if different from --model')
     p.add_argument('--image', default=OPENHANDS_IMAGE, help='Local OpenHands Docker image')
     p.add_argument('--codex-command', default='codex', help=f'Path to the Codex {CODEX_VERSION} executable')
     a=p.parse_args(argv);a.output=a.output.resolve()
@@ -163,6 +163,10 @@ def main(argv=None, *, prog=None):
     if not cases or (a.case!='all' and a.case not in cases):
         p.error('Unknown or empty case selection. Available: '+', '.join(sorted(cases)))
     check_gateway(p)
+    a.model = configured_model(a.model)
+    if not a.model:
+        p.error(f'Set {MODEL_ENV} or pass --model with a model ID from your gateway.')
+    a.response_model = (a.response_model or '').strip() or a.model
     try:
         failures = asyncio.run(run(a))
     except BaselineSetupError as error:

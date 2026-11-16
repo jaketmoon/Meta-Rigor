@@ -3,9 +3,8 @@ from __future__ import annotations
 import hashlib
 from collections.abc import Mapping
 from typing import Any, Literal
-from urllib.parse import urlparse
 import httpx
-from .contracts import ALLOWED_DE_MODEL_ALIASES, CHAT_COMPLETIONS_PROVIDER_MODELS, MODEL_ALIAS, KernelTask, RawTextResponse
+from .contracts import KernelTask, RawTextResponse
 from .prompts import SYSTEM_PROMPT
 class GatewayRawTextError(RuntimeError):
     """Gateway failure containing neither response bodies nor credentials."""
@@ -31,24 +30,21 @@ class DeepSeekFlashExecutor:
         base_url: str,
         api_key: str,
         timeout_seconds: float,
-        model_id: str = MODEL_ALIAS,
+        model_id: str,
+        response_model: str | None = None,
         reasoning_effort: str | None = None,
         thinking_mode: Literal["provider_default", "disabled", "enabled"] | None = None,
         output_token_budget: int | None = None,
         transport: httpx.AsyncBaseTransport | None = None,
     ) -> None:
-        if model_id not in ALLOWED_DE_MODEL_ALIASES:
-            allowed = ", ".join(ALLOWED_DE_MODEL_ALIASES)
-            raise ValueError(f"reference kernel live mode model must be one of: {allowed}")
+        if not model_id.strip() or (response_model is not None and not response_model.strip()):
+            raise ValueError("configured model IDs must be nonempty")
         self._model_id = model_id
+        self._response_model = response_model
         self._reasoning_effort = reasoning_effort
-        # Tokendance's DeepSeek uses output tokens for reasoning_content by default.
-        # DE's legacy 50/70-token contract needs only result text, so explicitly disable gateway thinking.
         if thinking_mode not in {None, "provider_default", "disabled", "enabled"}:
             raise ValueError("unsupported thinking mode")
-        self._thinking_mode = thinking_mode or (
-            "disabled" if urlparse(base_url).hostname == "tokendance.space" else "provider_default"
-        )
+        self._thinking_mode = thinking_mode or "provider_default"
         if output_token_budget is not None and output_token_budget < 1:
             raise ValueError("output token budget must be positive")
         self._output_contract = "legacy"
@@ -77,7 +73,7 @@ class DeepSeekFlashExecutor:
             "executor": "openai_compatible_raw_text",
             "model_alias": self._model_id,
             "provider_model_requested": self._model_id,
-            "provider_response_model_expected": CHAT_COMPLETIONS_PROVIDER_MODELS[self._model_id],
+            "provider_response_model_expected": self._response_model,
             "provider_reasoning_effort": self._reasoning_effort,
             "thinking_mode": self._thinking_mode,
             "response_format_type": "text",
@@ -203,9 +199,7 @@ class DeepSeekFlashExecutor:
                 "gateway response did not identify the provider model",
                 http_status=response.status_code,
             )
-        expected_provider_model = CHAT_COMPLETIONS_PROVIDER_MODELS[self._model_id]
-        accepted_provider_models = {expected_provider_model, self._model_id}
-        if provider_model not in accepted_provider_models:
+        if self._response_model is not None and provider_model != self._response_model:
             raise GatewayRawTextError(
                 "MODEL_MISMATCH",
                 "gateway response model differs from the requested Chat Completions binding",

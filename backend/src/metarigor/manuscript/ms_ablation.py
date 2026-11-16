@@ -42,7 +42,6 @@ CONDITIONS = (
 )
 
 
-MODEL = "deepseek-v4-flash"
 
 
 EXTERNAL_METADATA_SCHEMA = "manuscript-external-candidate.v1"
@@ -172,14 +171,14 @@ def _read_json(path: Path) -> dict[str, Any]:
     return value
 
 
-def _worker_runtime(*, disable_thinking: bool = False) -> OpenAICompatibleJsonSchemaAgent:
+def _worker_runtime(*, model: str, disable_thinking: bool = False) -> OpenAICompatibleJsonSchemaAgent:
     settings = get_settings()
     if not settings.agent_gateway_base_url or settings.agent_gateway_api_key is None:
         raise RuntimeError("MS ablation requires configured model gateway")
     return OpenAICompatibleJsonSchemaAgent(
         api_key=settings.agent_gateway_api_key.get_secret_value(),
         base_url=settings.agent_gateway_base_url,
-        model=MODEL,
+        model=model,
         role="worker",
         timeout_seconds=settings.agent_call_timeout_seconds,
         structured_output_mode="text_wrapped",
@@ -341,15 +340,16 @@ async def _model_stage(
     input_payload: dict[str, Any],
     proxy_mode: bool = False,
 ) -> tuple[str | None, dict[str, Any]]:
+    runtime_binding = runtime.binding("worker") if hasattr(runtime, "binding") else None
     stage_payload = {
         "schema_version": "manuscript-ms-ablation-model-input.v1",
         "template_id": f"ms-ablation-{stage}-v1",
-        "model": MODEL,
+        "model": runtime_binding.get("model") if runtime_binding else None,
         "temperature": 0,
         "retry": 0,
         "prompt": prompt,
         "output_schema": _TEXT_SCHEMA,
-        "runtime": runtime.binding("worker") if hasattr(runtime, "binding") else None,
+        "runtime": runtime_binding,
         "input": input_payload,
     }
     if proxy_mode:
